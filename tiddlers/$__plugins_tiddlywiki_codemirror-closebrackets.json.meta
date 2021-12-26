@@ -1,0 +1,12 @@
+created: 20211225133023341
+dependents: 
+description: Close brackets for CodeMirror
+list: readme
+modified: 20211225133023341
+name: CodeMirror Close Brackets
+page-cover: https://source.unsplash.com/random
+parent-plugin: $:/plugins/tiddlywiki/codemirror
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/codemirror-closebrackets
+type: application/json
+version: 5.2.1

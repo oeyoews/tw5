@@ -1,0 +1,11 @@
+author: Scott Sauyet <scott@sauyet.com>
+created: 20190601135029227
+dependents: 
+description: Fira Code: embed the font
+list: readme usage license
+modified: 20190602020830715
+name: Fira Code
+plugin-type: plugin
+title: $:/plugins/ScottSauyet/FiraCode
+type: application/json
+version: 1.0.0
