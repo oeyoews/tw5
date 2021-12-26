@@ -1,0 +1,7 @@
+created: 20211226162252217
+modified: 20211226162358986
+tags: Index bug
+title: bug/a
+type: text/vnd.tiddlywiki
+
+* in tw(node), this default tab is dymantic(maybe is the reason)
