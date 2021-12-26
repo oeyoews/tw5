@@ -1,0 +1,7 @@
+created: 20211226174011329
+modified: 20211226174035577
+tags: Index
+title: systemctl/a
+type: text/vnd.tiddlywiki
+
+* systemctl list-unit-files

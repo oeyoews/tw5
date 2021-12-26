@@ -1,35 +1,20 @@
 created: 20211226094152512
-modified: 20211226094206751
+modified: 20211226171222931
 tags: Index
 title: Add Fastly
 type: text/vnd.tiddlywiki
 
 <fieldset>
-	<legend>快速添加</legend>
+	<legend>fast add</legend>
 
 	<$button>
-		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY-MM-DD">> tags="想法" />
-	添加新想法
+		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY-MM-DD">> tags="idea" />
+	idea
 	</$button>
 
 	<$button>
 		<$action-sendmessage $message="tm-new-tiddler" title="xxx" text="""<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />""" tags="Index" />
-	添加新文件夹(Tag)
-	</$button>
-
-	<$button>
-		<$action-sendmessage $message="tm-new-tiddler" title="xxx" tags="列表整理" text="# " />
-	添加新列表
+	folder
 	</$button>
 	
-	<$button>
-		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY-MM-DD">> text="" tags="APrivateContent Index" />
-	添加非公开内容
-	</$button>
-	
-	<$button>
-		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY-MM-DD">> text="" tags="APrivateContent 日志" />
-	添加日志
-	</$button>
-
 </fieldset>
