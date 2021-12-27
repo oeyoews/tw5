@@ -22,11 +22,11 @@ pages:
   stage: deploy
   script:
   # note: this must global
-  - npm i -g tiddlywiki
+  - npm i -D tiddlywiki
+  - ls
   - tiddlywiki --build index
   - rm -rf public
   - mv output/ public
-  - ls /usr/lib/
 
   artifacts:
     paths:
