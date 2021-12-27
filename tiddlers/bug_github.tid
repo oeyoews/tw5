@@ -1,0 +1,8 @@
+created: 20211227093201583
+modified: 20211227100432670
+tags: Index workflow
+title: bug/github
+type: text/vnd.tiddlywiki
+
+* [[set-node|https://github.com/actions/setup-node/issues/354]]
+* use this latest version（for all actions) __v2.5.0__ 
