@@ -9,6 +9,6 @@ cache:
   artifacts:
     paths:
       - public
-        #key: project
-        #rules:
-        #- if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+    key: project
+      #rules:
+      #- if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
