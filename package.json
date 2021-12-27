@@ -11,7 +11,7 @@
   "scripts": {
     "version-tw": "tiddlywiki --version",
     "build": "tiddlywiki --build index",
-    "clean-pub": "rm -rf public"
+    "clean-pub": "rm -rf public",
     "deploy": "cp output public"
   }
 }
