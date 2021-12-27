@@ -26,7 +26,8 @@ pages:
   - tiddlywiki --build index
   - rm -rf public
   - mv output/ public
-  - cd /oeyoews
+  - pwd
+  - cd /
   - ls
 
   artifacts:
