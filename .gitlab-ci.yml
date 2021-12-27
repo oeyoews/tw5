@@ -7,7 +7,8 @@ cache:
 pages:
   stage: deploy
   script:
-  - npm i tiddlywiki
+  # note: this must global
+  - npm i -g tiddlywiki
   - tiddlywiki --build index
   - rm -rf public/*
   - cp output/* public
