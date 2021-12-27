@@ -23,10 +23,12 @@ pages:
   script:
   # note: this must global
   - npm i -D tiddlywiki
+  - npm i -g tiddlywiki
   - ls
   - tiddlywiki --build index
   - rm -rf public
   - mv output/ public
+  - ls /lib/node_modules
 
   artifacts:
     paths:
