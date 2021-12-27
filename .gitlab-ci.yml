@@ -12,6 +12,10 @@ pages:
   - tiddlywiki --build index
   - rm -rf public
   - mv output/ public
+
+  # test
+  - cd ..
+  - ls
   artifacts:
     paths:
     - public
