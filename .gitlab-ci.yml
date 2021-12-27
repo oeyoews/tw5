@@ -27,8 +27,7 @@ pages:
   - rm -rf public
   - mv output/ public
   - pwd
-  - cd /
-  - ls
+  - ls /lib/node_modules
 
   artifacts:
     paths:
