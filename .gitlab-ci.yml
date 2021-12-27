@@ -1,36 +1,15 @@
-# entry(main)
-#stages:
-  #- install
-  #- cache
-  #- deploy
-
-
-
-#InstallNode:
-  #stage: install
 image: node:latest
 
-
-#Cache:
-  #stage: cache
 cache:
   paths:
   - node_modules
 
-
 pages:
   stage: deploy
   script:
-  # note: this must global
-  #- npm i yarn
-  #- yarn global add tiddlywiki
-  #- tiddlywiki --build index
-  #- yarn install
   - yarn build
   - yarn deploy
   - yarn versiontw
-  #- rm -rf public
-  #- mv output/ public
 
   artifacts:
     paths:
