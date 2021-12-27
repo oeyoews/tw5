@@ -1,21 +1,21 @@
 # entry(main)
-stages:
-  - install
-  - cache
-  - deploy
+#stages:
+  #- install
+  #- cache
+  #- deploy
 
 
 
-InstallNode:
-  stage: install
-  image: node:latest
+#InstallNode:
+  #stage: install
+image: node:latest
 
 
-Cache:
-  stage: cache
-  cache:
-    paths:
-    - node_modules
+#Cache:
+  #stage: cache
+cache:
+  paths:
+  - node_modules
 
 
 pages:
@@ -27,11 +27,6 @@ pages:
   - rm -rf public
   - mv output/ public
 
-  # test
-  - cd ..
-  - ls
-  - cd ..
-  - ls
   artifacts:
     paths:
     - public
