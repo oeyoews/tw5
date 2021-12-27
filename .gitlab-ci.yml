@@ -1,4 +1,6 @@
-image: node:latest
+building:
+  image: node:latest
+  stage: build
 
 cache:
   paths:
@@ -11,7 +13,7 @@ pages:
   - tiddlywiki --build index
   - rm -rf public/*
   - ls output
-  - mv output/* public/
+  - mv output/* public
   - ls public
   artifacts:
     paths:
