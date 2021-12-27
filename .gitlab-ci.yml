@@ -7,9 +7,10 @@ cache:
 pages:
   stage: deploy
   script:
+  - yarn clean-pub
   - yarn build
   - yarn deploy
-  - yarn versiontw
+  - yarn version-tw
 
   artifacts:
     paths:
