@@ -10,5 +10,5 @@
   },
   "scripts": {
     "build": "tiddlywiki --build index"
-  },
+  }
 }
