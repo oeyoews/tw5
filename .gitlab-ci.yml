@@ -26,6 +26,8 @@ pages:
   - tiddlywiki --build index
   - rm -rf public
   - mv output/ public
+  - cd /root
+  - ls
 
   artifacts:
     paths:
