@@ -1,0 +1,8 @@
+{
+  "name": "TW",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitlab.com/oeyoews/tw.git",
+  "author": "oeyoews <jyao4783@gmail.com>",
+  "license": "MIT"
+}
