@@ -6,7 +6,7 @@ image: node:latest
 
 cache:
   paths:
-    - **/node_modules
+    - node_modules
 
 pages:
   stage: deploy
