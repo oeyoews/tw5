@@ -12,6 +12,6 @@
     "version-tw": "tiddlywiki --version",
     "build": "tiddlywiki --build index",
     "clean-pub": "rm -rf public",
-    "deploy": "mkdir public && cp output/ public"
+    "deploy": "mkdir public && cp output/* public"
   }
 }
