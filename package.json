@@ -10,6 +10,6 @@
   },
   "scripts": {
     "build": "tiddlywiki --build index",
-    "deploy": "rm public && mv output public"
+    "deploy": "mv output public"
   }
 }

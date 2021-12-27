@@ -25,7 +25,7 @@ pages:
   #- npm i yarn
   #- yarn global add tiddlywiki
   #- tiddlywiki --build index
-  #- yarn
+  #- yarn install
   - yarn build
   - yarn deploy
   #- rm -rf public
