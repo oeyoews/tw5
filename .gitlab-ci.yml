@@ -19,7 +19,7 @@ pages:
   #- mkdir public
   #- cp output/* public/
   - mv output/ public
-  - ls public
+  #- ls public
   artifacts:
     paths:
     - public
