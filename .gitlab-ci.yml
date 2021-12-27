@@ -1,8 +1,8 @@
-#image: node:latest
+image: node:latest
 
-building:
-  stage: build
-  image: node:latest
+#building:
+  #stage: build
+  #image: node:latest
 
 cache:
   paths:
