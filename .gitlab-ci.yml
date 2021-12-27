@@ -1,7 +1,3 @@
-#building:
-  #image: node:latest
-  #stage: build
-
 image: node:latest
 
 cache:
@@ -11,14 +7,10 @@ cache:
 pages:
   stage: deploy
   script:
-  - npm i -g tiddlywiki
+  - npm i tiddlywiki
   - tiddlywiki --build index
   - rm -rf public/*
-  #- ls output
-  - rm public -rf
-  #- mkdir public
   - cp output/* public
-  #- ls public
   artifacts:
     paths:
     - public
