@@ -1,9 +1,5 @@
 image: node:latest
 
-cache:
-  paths:
-  - node_modules
-
 pages:
   stage: deploy
   script:
@@ -17,3 +13,8 @@ pages:
     - public
   only:
   - main
+
+cache:
+  paths:
+  - node_modules
+
