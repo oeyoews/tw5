@@ -1,10 +1,10 @@
 caption: {{$:/plugins/kookma/shiraz/images/palette-switch}} {{$:/language/Buttons/Shiraz/Caption}}
 created: 20201210171047824
 creator: oeyoews
-dark-palette: $:/palettes/Nord
+dark-palette: $:/palettes/Blanca
 description: Toggle between light/dark color palette
 light-palette: $:/palettes/SolarFlare
-modified: 20211226090432056
+modified: 20211227163803351
 modifier: oeyoews
 tags: $:/tags/PageControls
 title: $:/plugins/kookma/shiraz/ui/Buttons/SwitchPalette
