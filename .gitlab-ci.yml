@@ -7,6 +7,6 @@ pages:
   - tiddlywiki --build index
   artifacts:
     paths:
-    - public
+    - output
   only:
   - main
