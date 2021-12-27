@@ -4,6 +4,7 @@ pages:
   stage: deploy
   script:
   - npm i -g tiddlywiki
+  - tiddlywiki --build index
   artifacts:
     paths:
     - public
