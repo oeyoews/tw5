@@ -1,15 +1,12 @@
-image:  node:latest
+image: node:latest
 
 pages:
+  stage: deploy
   script:
-    - npm install tiddlywiki -g
-    - tiddlywiki --build index
+  - npm i
+  - npm run build
   artifacts:
     paths:
-      - public
-  cache:
-    paths:
-      - node_modules
-    #key: project
-  #rules:
-    #- if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+    - public
+  only:
+  - main
