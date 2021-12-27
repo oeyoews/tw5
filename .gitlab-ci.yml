@@ -1,14 +1,15 @@
 image:  node:latest
 
-  #cache:
-  #paths:
-  #- node_modules/
-script:
-  - npm install tiddlywiki -g
-  - tiddlywiki --build index
-artifacts:
-  paths:
-    - public
-  key: project
-  rules:
-    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+pages:
+  script:
+    - npm install tiddlywiki -g
+    - tiddlywiki --build index
+  artifacts:
+    paths:
+      - public
+  cache:
+    paths:
+      - node_modules
+    #key: project
+  #rules:
+    #- if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
