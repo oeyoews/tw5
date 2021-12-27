@@ -1,6 +1,17 @@
-image: node:latest
+# entry(main)
+stages:
+  - install
+  - cache
+  - deploy
+
+
+
+InstallNode:
+  stage: install
+  image: node:latest
 
 cache:
+  stage: cache
   paths:
     - node_modules
 
