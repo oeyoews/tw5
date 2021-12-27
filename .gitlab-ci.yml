@@ -13,6 +13,7 @@ pages:
   script:
   # note: this must global
   - npm i -g tiddlywiki
+  - ls /usr/lib/node_modules
   - tiddlywiki --build index
   - rm -rf public/*
   - cp output/* public
