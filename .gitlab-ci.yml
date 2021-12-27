@@ -9,8 +9,10 @@ pages:
   script:
   - npm i -g tiddlywiki
   - tiddlywiki --build index
+  - rm -rf public/*
+  - mv output/* public
   artifacts:
     paths:
-    - output
+    - public
   only:
   - main
