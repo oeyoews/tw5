@@ -1,27 +1,26 @@
+created: 20211227034730291
+modified: 20211227034904724
+tags: Index
+title: untitle 4
+type: text/vnd.tiddlywiki
+
+```yml
 cache:
   paths:
     - node_modules
 
 image: node:latest
 
-#building:
-  #stage: build
-  #image: node:latest
-
-
 pages:
   stage: deploy
   script:
-  # note: this must global
   - npm i -g tiddlywiki
   - tiddlywiki --build index
   - rm -rf public
-  #- mkdir public
-  #- cp output/* public/
   - mv output/ public
-  #- ls public
   artifacts:
     paths:
     - public
   only:
   - main
+```
