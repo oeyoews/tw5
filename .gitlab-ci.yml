@@ -1,6 +1,8 @@
-building:
-  image: node:latest
-  stage: build
+#building:
+  #image: node:latest
+  #stage: build
+
+image: node:latest
 
 cache:
   paths:
@@ -12,9 +14,10 @@ pages:
   - npm i -g tiddlywiki
   - tiddlywiki --build index
   - rm -rf public/*
-  - ls output
-  - mv output/* public
-  - ls public
+  #- ls output
+  touch public
+  - cp output/* public/
+  #- ls public
   artifacts:
     paths:
     - public
