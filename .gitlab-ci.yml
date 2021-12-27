@@ -13,33 +13,63 @@
 #
 # For more information, see: https://docs.gitlab.com/ee/ci/yaml/index.html#stages
 
-stages:          # List of stages for jobs, and their order of execution
-  - build
-  - test
-  - deploy
+#stages:          # List of stages for jobs, and their order of execution
+  #- build
+  #- test
+  #- deploy
 
-build-job:       # This job runs in the build stage, which runs first.
-  stage: build
-  script:
-    - echo "Compiling the code..."
-    - echo "Compile complete."
+#build-job:       # This job runs in the build stage, which runs first.
+  #stage: build
+  #script:
+    #- echo "Compiling the code..."
+    #- echo "Compile complete."
 
-unit-test-job:   # This job runs in the test stage.
-  stage: test    # It only starts when the job in the build stage completes successfully.
-  script:
-    - echo "Running unit tests... This will take about 60 seconds."
-    - sleep 60
-    - echo "Code coverage is 90%"
+#unit-test-job:   # This job runs in the test stage.
+  #stage: test    # It only starts when the job in the build stage completes successfully.
+  #script:
+    #- echo "Running unit tests... This will take about 60 seconds."
+    #- sleep 60
+    #- echo "Code coverage is 90%"
 
-lint-test-job:   # This job also runs in the test stage.
-  stage: test    # It can run at the same time as unit-test-job (in parallel).
-  script:
-    - echo "Linting code... This will take about 10 seconds."
-    - sleep 10
-    - echo "No lint issues found."
+#lint-test-job:   # This job also runs in the test stage.
+  #stage: test    # It can run at the same time as unit-test-job (in parallel).
+  #script:
+    #- echo "Linting code... This will take about 10 seconds."
+    #- sleep 10
+    #- echo "No lint issues found."
 
-deploy-job:      # This job runs in the deploy stage.
-  stage: deploy  # It only runs when *both* jobs in the test stage complete successfully.
+#deploy-job:      # This job runs in the deploy stage.
+  #stage: deploy  # It only runs when *both* jobs in the test stage complete successfully.
+  #script:
+    #- echo "Deploying application..."
+    #- echo "Application successfully deployed."
+
+
+
+building: //自己随便命名的
+  image: node:latest //node镜像为最新版的，最好指定版本号
+  stage: build //当前stage阶段为build
   script:
-    - echo "Deploying application..."
-    - echo "Application successfully deployed."
+    - npm install tiddlywiki
+    - tiddlywiki --build index
+  artifacts: //工件，可以缓存在gitlab的流水线记录中，供直接下载
+    expire_in: 3 days //工件缓存的有效时间
+    paths: //路径
+      - dist //工件指向的目录，这里指整个dist目录
+
+cache: //缓存
+  paths: //路径
+    - node_modules/ //缓存node_mudules将大大提高ci运行的速度
+
+
+pages: //随便起的名字
+  stage: deploy //当前阶段为deploy
+  script: //deploy阶段运行的命令
+    - rm -rf public/* //linux命令，递归无询问删除public目录下所有文件
+    - mv dist/* public //将dist目录下的所有文件都移动到public目录下
+  artifacts: //工件缓存
+    expire_in: 3 days //时效为3天
+    paths: //路径
+      - public //缓存整个public目录的文件
+  only:
+    - main //ceate pages下的所有操作只在dev分支上进行
