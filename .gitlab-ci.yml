@@ -10,7 +10,7 @@ pages:
   - npm i -g tiddlywiki
   - tiddlywiki --build index
   - rm -rf public/*
-  - mv output/* public/
+  - mv output/index.html public/index.html
   artifacts:
     paths:
     - public
