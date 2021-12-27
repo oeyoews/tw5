@@ -44,32 +44,18 @@
     #- echo "Deploying application..."
     #- echo "Application successfully deployed."
 
+image:  node:latest
 
-
-building: //自己随便命名的
-  image: node:latest //node镜像为最新版的，最好指定版本号
-  stage: build //当前stage阶段为build
+pages:
   script:
-    - npm install tiddlywiki
+    - npm install tiddlywiki -g
     - tiddlywiki --build index
-  artifacts: //工件，可以缓存在gitlab的流水线记录中，供直接下载
-    expire_in: 3 days //工件缓存的有效时间
-    paths: //路径
-      - dist //工件指向的目录，这里指整个dist目录
-
-cache: //缓存
-  paths: //路径
-    - node_modules/ //缓存node_mudules将大大提高ci运行的速度
-
-
-pages: //随便起的名字
-  stage: deploy //当前阶段为deploy
-  script: //deploy阶段运行的命令
-    - rm -rf public/* //linux命令，递归无询问删除public目录下所有文件
-    - mv dist/* public //将dist目录下的所有文件都移动到public目录下
-  artifacts: //工件缓存
-    expire_in: 3 days //时效为3天
-    paths: //路径
-      - public //缓存整个public目录的文件
-  only:
-    - main //ceate pages下的所有操作只在dev分支上进行
+  artifacts:
+    paths:
+      - public
+  cache:
+    paths:
+      - node_modules
+    key: project
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
