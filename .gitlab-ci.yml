@@ -11,7 +11,8 @@ pages:
   - tiddlywiki --build index
   - rm -rf public/*
   - ls output
-  #- mv output/index.html public/index.html
+  - mv output/* public/
+  - ls public
   artifacts:
     paths:
     - public
