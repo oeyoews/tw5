@@ -16,6 +16,8 @@ pages:
   # test
   - cd ..
   - ls
+  - cd ..
+  - ls
   artifacts:
     paths:
     - public
