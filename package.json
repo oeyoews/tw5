@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://gitlab.com/oeyoews/tw.git",
   "author": "oeyoews <jyao4783@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@tiddlygit/tiddlywiki": "5.2.2-prerelease-2021-12-10"
+  },
+  "scripts": {
+    "build": "tiddlywiki --build index"
+  },
 }

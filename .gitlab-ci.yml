@@ -23,8 +23,10 @@ pages:
   script:
   # note: this must global
   #- npm i yarn
-  - yarn add tiddlywiki
-  - tiddlywiki --build index
+  #- yarn global add tiddlywiki
+  #- tiddlywiki --build index
+  - yarn
+  - yarn build
   - rm -rf public
   - mv output/ public
 
