@@ -25,10 +25,11 @@ pages:
   #- npm i yarn
   #- yarn global add tiddlywiki
   #- tiddlywiki --build index
-  - yarn
+  #- yarn
   - yarn build
-  - rm -rf public
-  - mv output/ public
+  - yarn deploy
+  #- rm -rf public
+  #- mv output/ public
 
   artifacts:
     paths:
