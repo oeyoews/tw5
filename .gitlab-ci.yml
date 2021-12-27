@@ -6,14 +6,15 @@ image: node:latest
 
 cache:
   paths:
-    - node_modules
+    - **/node_modules
 
 pages:
   stage: deploy
   script:
   # note: this must global
   - npm i -g tiddlywiki
-  - ls /usr/lib/node_modules
+  - ls
+  - tree
   - tiddlywiki --build index
   - rm -rf public/*
   - cp output/* public
