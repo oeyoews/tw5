@@ -9,6 +9,7 @@
     "@tiddlygit/tiddlywiki": "5.2.2-prerelease-2021-12-10"
   },
   "scripts": {
+    "versiontw": "tiddlywiki --version",
     "build": "tiddlywiki --build index",
     "deploy": "mv output public"
   }

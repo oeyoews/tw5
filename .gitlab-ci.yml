@@ -28,6 +28,7 @@ pages:
   #- yarn install
   - yarn build
   - yarn deploy
+  - yarn versiontw
   #- rm -rf public
   #- mv output/ public
 
