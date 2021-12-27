@@ -10,10 +10,13 @@ InstallNode:
   stage: install
   image: node:latest
 
-cache:
+
+Cache:
   stage: cache
-  paths:
+  cache:
+    paths:
     - node_modules
+
 
 pages:
   stage: deploy
