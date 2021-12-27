@@ -26,8 +26,6 @@ pages:
   - tiddlywiki --build index
   - rm -rf public
   - mv output/ public
-  - cd /home/user
-  - ls
   - cd /home/oeyoews
   - ls
 
