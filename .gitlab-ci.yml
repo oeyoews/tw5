@@ -3,8 +3,7 @@ image: node:latest
 pages:
   stage: deploy
   script:
-  - npm i
-  - npm run build
+  - npm i -g tiddlywiki
   artifacts:
     paths:
     - public
