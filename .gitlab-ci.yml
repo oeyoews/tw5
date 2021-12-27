@@ -14,11 +14,12 @@ pages:
   script:
   # note: this must global
   - npm i -g tiddlywiki
-  - ls
   - tiddlywiki --build index
   - rm -rf public/*
-  - cp output/* public
-  - ls output public
+  #- mkdir public
+  #- cp output/* public/
+  - mv output/ public
+  - ls public
   artifacts:
     paths:
     - public
