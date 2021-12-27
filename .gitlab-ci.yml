@@ -3,6 +3,7 @@ image: node:latest
 pages:
   stage: deploy
   script:
+  # yarn install to fix cache first
   - yarn install
   - yarn clean-pub
   - yarn build
