@@ -24,7 +24,7 @@ jobs:
         run: yarn install
       - name: Build
         run: yarn build
-        name: copy
+      - name: copy
         run: cp -r files ./output
 
       - name: Deploy
