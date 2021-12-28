@@ -47,7 +47,7 @@ modal-header-border: #eeeeee
 muted-foreground: #bbb
 notification-background: #ffffdd
 notification-border: #999999
-page-background: #f4f4f4
+page-background: #eee8d5
 pre-background: #f5f5f5
 pre-border: #cccccc
 primary: #7364be
