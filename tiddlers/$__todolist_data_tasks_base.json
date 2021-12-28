@@ -1,16 +1,7 @@
 {
-    "20211227031700280": "add startup",
-    "20211227032550719": "fix gitltab's warnging(tiddlywiki tw)",
-    "20211227033719854": "https://docs.gitlab.com/ee/ci/yaml/index.html",
-    "20211227035557306": "add gitlab and github workdlow in the same repo",
-    "20211227044253265": "https://github.com/tiddly-gittly/Tiddlywiki-NodeJS-Github-Template/blob/master/.github/workflows/gh-pages.yml",
     "20211227051513049": "bash ctrl + r (fzf)???",
     "20211227052249141": "like v2raya use systemd to control this enable",
-    "20211227132518800": "how to resolve img disapper in gitlab yml",
-    "20211227144956304": "when yarn in gitlab install, auto?",
-    "20211227150516456": "learn ci node cd and dockerr",
     "20211227161933415": "what 218.252.25.221 This is your current session Chrome on GNU/Linux Signed in on 17 Dec 14:20",
-    "20211227164022860": "add 毛玻璃特效 for vscode plugin",
     "20211227171340948": "disappear tools comment",
     "20211228041651366": "8080(http-server) is cnfilct 8080(nodejs tiddlywiki.",
     "20211228042726683": "how to assign port for tiddlywiki",
@@ -18,5 +9,15 @@
     "20211228050231893": "reslove image in html and nodejs different(refrence)",
     "20211228051338936": "try use multi ports for tw",
     "20211228054748338": "解决端口占用问题（多个端口）",
-    "20211228054850055": "may be cause is v2ray network"
+    "20211228054850055": "may be cause is v2ray network",
+    "20211228091704056": "for workflows, need add workflow prv rights for gitlab to mirring",
+    "20211228092544728": "use omega to config network",
+    "20211228115858767": "remove tomcat error(shadow)",
+    "20211228120425128": "finish videos about cip",
+    "20211228121052117": "how to add crontab for gitlab(try but not use it in gitlab)?",
+    "20211228123705084": "github domain why all in sometimes, but now is not, maybe use put it in oeyoews.github.io to come true it?(not command) when change domain, you can try it",
+    "20211228124806413": "net for alibb",
+    "20211228131606238": "like emacs community website template???",
+    "20211228135658574": "sticky learn to use",
+    "20211228140010447": "what is sharz's dynamictable todo"
 }
