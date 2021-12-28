@@ -1,9 +1,9 @@
 created: 20211226165101472
-modified: 20211228083602104
+modified: 20211228151035542
 tags: Index
-title: untitle
+title: reference
 type: text/vnd.tiddlywiki
 
 * jobs [-l]
 > show jobs
-{{img}}
+<<reuse-tiddler "img011">>
