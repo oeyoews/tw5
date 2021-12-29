@@ -1,0 +1,11 @@
+created: 20211229104044149
+modified: 20211229104809825
+tags: Index
+title: bat
+type: text/vnd.tiddlywiki
+
+```bat
+cd C:/User/xxxx
+start /b tiddlywiki --listen
+start "xxxx.msedge.exe" http://127.0.0.1:8080
+```

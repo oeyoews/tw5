@@ -1,0 +1,8 @@
+created: 20211229113606042
+modified: 20211229114249334
+tags: untagged
+title: tips/a2
+type: text/vnd.tiddlywiki
+
+使用父级目录的条目名字作为tag, 从而扩展子文件夹
+* 父级目录需要被Index索引

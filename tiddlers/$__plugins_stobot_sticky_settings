@@ -1,0 +1,18 @@
+list-style: todo
+list-search: .*?(\<\<sticky\s".+?"\>\>).*
+table-style: todo
+table-search: .*?(\<\<sticky\s".+?"\>\>).*
+table-searchbar: show
+sidebar-style: trim
+sidebar-search: ^\W*?(\w|\<.*)
+sidebar-searchbar: show
+line-search: (.*)
+trim-search: ^\W*?(\w|\<.*)
+todo-search: .*?(\<\<sticky\s".+?"\>\>).*
+done-message: Congratulations, All TODO is done!
+done-tooltip: Completed: <<now "YYYY-0MM-0DD hh12:0mm pm">>
+char-unchecked: &#x2610;
+char-checked: &#x2612;
+active-css: color: red; font-weight: 500;
+done-css: font-weight: 500;
+delete-key: shift
