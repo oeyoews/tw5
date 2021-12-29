@@ -1,7 +1,7 @@
 created: 20211226172512553
-modified: 20211226174009734
-tags: Index
-title: untitle 2
+modified: 20211229173940313
+tags: linux
+title: jobs
 type: text/vnd.tiddlywiki
 
 * disown [[disown|https://www.ruanyifeng.com/blog/2016/02/linux-daemon.html]]
