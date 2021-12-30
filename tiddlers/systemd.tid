@@ -1,0 +1,11 @@
+created: 20211230014205147
+modified: 20211230021108428
+tags: linux
+title: systemd
+type: text/vnd.tiddlywiki
+
+* /etc/systemd/system/xxx 
+
+* systemd-analyze dot --to-pattern='*.target' --from-pattern='*.target' | dot -Tsvg > targets.svg
+
+http://www.jinbuguo.com/systemd/systemd-analyze.html

@@ -1,12 +1,12 @@
 caption: Task
 created: 20211226163621792
 list-before: $:/core/ui/SideBar/Open
-modified: 20211229114703975
+modified: 20211230082202198
 tags: $:/tags/SideBar custom
 title: TODO
 type: text/vnd.tiddlywiki
 
-<<todolist-ui caption:"Task" width:"60%" base:"">>
+<<todolist-ui caption:"Task" width:"100%" base:"">>
 <$list filter="Bugs Fixed" variable=prj>
 <$macrocall $name=todolist-ui base=<<prj>> caption="""<h2 style="color:darkred;font-weight:lighter;"><<prj>></h2>""" />
 </$list>
