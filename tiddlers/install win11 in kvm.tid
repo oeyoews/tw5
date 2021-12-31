@@ -1,0 +1,13 @@
+created: 20211231042800649
+modified: 20211231043131776
+tags: untagged
+title: install win11 in kvm
+type: text/vnd.tiddlywiki
+
+[[https://getlabsdone.com/how-to-install-windows-11-on-kvm/]]
+
+* tpm2.0
+* uefi(select secboot)
+* memory 64G
+
+* tips: how to install win11 in kvm 

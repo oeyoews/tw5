@@ -1,0 +1,9 @@
+created: 20211231095220183
+modified: 20211231095333656
+tags: linux
+title: tty
+type: text/vnd.tiddlywiki
+
+* systemctl get-default
+* systemctl set-default multi-user.targer
+* systemctl set-default graphical.targer
