@@ -1,0 +1,8 @@
+created: 20211230004020393
+modified: 20220102124712958
+tags: linux
+title: nginx/a2
+type: text/vnd.tiddlywiki
+
+in apt system, httpd-tools packname is apache2-utils, apache apache-tools in arch seris
+* this command is htpasswd to setup passwd

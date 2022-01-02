@@ -1,0 +1,30 @@
+created: 20220102153058436
+modified: 20220102153256549
+tags: custom
+title: TASK
+type: text/vnd.tiddlywiki
+
+\define createTask()
+<$action-sendmessage 
+  $message="tm-new-tiddler" 
+  title="New Task" 
+  tags="task" 
+  text=""
+  due-date=""
+  priority="normal"
+  status="not started"
+  />
+\end
+
+\define newTask()
+<$button actions=<<createTask>> class="btn btn-sm btn-info" >New Task
+</$button>
+\end
+
+<div class="float-right">
+<<newTask>>
+</div>
+
+
+Filter and search in table <$edit-text tiddler="$:/temp/tasks/dtable/search" filed=text tag=input default=""/>
+<$macrocall $name=table-dynamic filter="[tag[task]search{$:/temp/tasks/dtable/search}]" fields="tbl-checkbox tbl-expand title priority status created" class="w-100" stateTiddler="your-state-tid"/>

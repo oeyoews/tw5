@@ -1,0 +1,8 @@
+created: 20220102143259818
+modified: 20220102145626618
+tags: custom
+title: LINUX
+type: text/vnd.tiddlywiki
+
+!! LINUX HOME PAGE
+<<tabs tabsList:"[tag[linux]]" default:"group/a1" class:"tc-vertical">>

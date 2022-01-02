@@ -1,7 +1,7 @@
-created: 20211230004020393
-modified: 20211230004059262
-tags: linux
+created: 20220102152210382
+modified: 20220102154148384
+tags: untagged
 title: untitle 2
 type: text/vnd.tiddlywiki
 
-in apt system, httpd-tools packname is apache2-utils
+<<interstitial-ui caption:"!!test" width:"60%" base:"">>

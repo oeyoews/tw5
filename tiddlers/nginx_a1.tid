@@ -1,0 +1,7 @@
+created: 20220102112425251
+modified: 20220102112606688
+tags: untagged
+title: nginx/a1
+type: text/vnd.tiddlywiki
+
+nginx appear `403 forbidden`, just add user xxx in /etc/nginx/nginx.conf.
