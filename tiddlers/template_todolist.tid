@@ -1,0 +1,9 @@
+created: 20220102170147899
+modified: 20220102170315292
+tags: $:/tags/ViewTemplate custom
+title: template/todolist
+type: text/vnd.tiddlywiki
+
+<$list filter="[all[current]tag[task]]">
+<<todolist-ui caption:"Task here" width:"" base:"$(currentTiddler)$">>
+</$list>
