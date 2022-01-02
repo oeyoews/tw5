@@ -1,11 +1,11 @@
 created: 20211226094152512
-modified: 20220102151354331
+modified: 20220102154611143
 tags: custom
 title: Add Fastly
 type: text/vnd.tiddlywiki
 
 <fieldset>
-	<legend>fast add</legend>
+	<legend>Fast add</legend>
 
 	<$button>
 		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY-MM-DD">> tags="untagged" />

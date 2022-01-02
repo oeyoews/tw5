@@ -1,0 +1,14 @@
+author: HC Haase
+core-version: 5.1.21
+created: 20200127075224438
+creator: HC Haase
+description: TOC Generic - adds extended TOC to the bottom of tiddlers
+list: readme settings
+modified: 20210312125146112
+modifier: HC Haase
+name: TOC Generic
+plugin-type: plugin
+source: https://hchaase.github.io/HC-Plugins/
+title: $:/plugins/HCHaase/TOCgeneric
+type: application/json
+version: 2.2.1
