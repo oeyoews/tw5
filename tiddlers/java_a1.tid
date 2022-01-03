@@ -1,5 +1,5 @@
 created: 20220103072641287
-modified: 20220103073841338
+modified: 20220103103247662
 tags: untagged
 title: java/a1
 type: text/vnd.tiddlywiki
@@ -8,4 +8,9 @@ type: text/vnd.tiddlywiki
 ```java
 // no detail come true method , just have a body, no big brackets;
 public abstract void abstractmethod();
+
+// implement
+public B extends abstractmethod {
+
+}
 ```

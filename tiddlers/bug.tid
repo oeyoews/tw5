@@ -1,5 +1,12 @@
 color: #d62424
 created: 20211227064131826
-modified: 20211227064131826
+modified: 20220103152542081
+tags: Index
 title: bug
 type: text/vnd.tiddlywiki
+
+<div class="tc-table-of-contents">
+
+<<toc-selective-expandable 'bug'>>
+
+</div>

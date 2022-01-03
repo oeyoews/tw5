@@ -1,9 +1,9 @@
 created: 20220102153127380
 due-date: 
-modified: 20220103045438410
+modified: 20220103124636843
 priority: normal
-status: 
-tags: task
+status: complete
+tags: done task
 title: New Task
 type: text/vnd.tiddlywiki
 
