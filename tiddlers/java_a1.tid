@@ -1,0 +1,11 @@
+created: 20220103072641287
+modified: 20220103073841338
+tags: untagged
+title: java/a1
+type: text/vnd.tiddlywiki
+
+* abstract methos must included abstract class
+```java
+// no detail come true method , just have a body, no big brackets;
+public abstract void abstractmethod();
+```

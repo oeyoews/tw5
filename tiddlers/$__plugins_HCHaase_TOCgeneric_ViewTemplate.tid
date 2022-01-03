@@ -1,0 +1,1067 @@
+button_hide: {{$:/core/images/down-arrow}}__References__
+button_reveal: {{$:/core/images/right-arrow}}__References__
+created: 20200122152834095
+creator: HC Haase
+custom-filter: [!tag[hat]]
+default-state: hide
+default-state-backlinks: hide
+default-state-freelinks: hide
+default-state-list: hide
+default-state-listed: hide
+default-state-tag: hide
+default-state-transclude: hide
+default-state-visible: show
+default-state-visible-list: show
+default-state-visible-listed: show
+default-state-visible-tag: show
+freelink-search-pat: fullMatch
+list-after: $:/core/ui/ViewTemplate/body
+modified: 20220103043300949
+modifier: HC Haase
+state-submenu: hide
+tags: $:/tags/ViewTemplate
+title: $:/plugins/HCHaase/TOCgeneric/ViewTemplate
+type: text/vnd.tiddlywiki
+
+\define fullMatchPattern()
+\b$(currentTiddler)$\b(?i)
+\end
+
+\define PartialMatchPattern()
+$(currentTiddler)$(?i)
+\end
+ <!------- above is macro for the freelinks section-->
+
+<!-- show a 'show toc' button' if tags OR backlinks OR freelinks OR list OR listed is present for tiddler-->
+<$list filter='[tag<currentTiddler>] [all[current]backlinks[]!is[system]] [!is[current]!is[system]regexp:title<fullMatchPattern>] [!is[current]!is[system]regexp:text<fullMatchPattern>] {{!!custom-filter}}
+[list{!!title}!is[system]] [all[current]listed[]!is[system]] +[!<currentTiddler>limit[1]]'  variable=null>
+
+<!-- show/remove menu /  hide for print css-->
+	<$reveal 
+		class="hideprint" 
+		type="nomatch" 
+		stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state" 
+		stateIndex=<<currentTiddler>> 
+		default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-visible}} 
+		text="hide"
+	>
+
+	
+	<!-- show toggle button /  hide for print css-->
+	<$reveal 
+		class="hideprint" 
+		type="nomatch" 
+		stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-all" 
+		stateIndex=<<currentTiddler>> 
+		default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state}} 
+		text="show"
+	>
+		<$button 
+			setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-all" 
+			setIndex=<<currentTiddler>>  
+			setTo="show" 
+			class="tc-btn-invisible" 
+			tooltip="Show TOC/references
+		">
+		{{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!button_reveal}}
+		</$button>
+	</$reveal>
+
+<!-- show toc and lists -->	
+<$reveal 
+	type="match"  
+	stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-all" 
+	stateIndex=<<currentTiddler>> 
+	default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state}} 
+	text="show"
+>
+
+	---
+
+		<!-- hide-button toc and lists  -->
+		<$button 
+			setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-all" 
+			setIndex=<<currentTiddler>> 
+			setTo="hide" 
+			class="tc-btn-invisible" 
+			tooltip="Hide TOC/references"
+		>
+			{{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!button_hide}}
+		</$button>
+		<!--dummy break - dont delete -->
+		<!-- button for showing/hiding content of tiddlers -->
+		<!-- reveal transclusions-->
+		<$reveal 
+			class="hideprint"  
+			type="nomatch" 
+			stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+			stateIndex=<<currentTiddler>> 
+			default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-transclude}} 
+			text="show"
+		>
+			<$button 
+				setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+				setIndex=<<currentTiddler>> 
+				setTo="show" class="tc-btn-invisible" 
+				tooltip="Show content"
+			>
+				{{$:/core/images/unfold-all-button}}
+			</$button>
+			<!-- button for showing/hiding content of tiddlers-individual | -->
+			<$reveal 
+				class="hideprint"  
+				type="nomatch" 
+				stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+				stateIndex=<<currentTiddler>> 
+				default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-transclude}} 
+				text="show-individual"
+			>		
+				<$button 
+					setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					setIndex=<<currentTiddler>> 
+					setTo="show-individual" 
+					class="tc-btn-invisible" 
+					tooltip="Show content-individual"
+				>
+					{{$:/core/images/unfold-button}}
+				</$button>
+			</$reveal>
+			<$reveal 
+				class="hideprint"  
+				type="match" 
+				stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+				stateIndex=<<currentTiddler>> 
+				default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-transclude}} 
+				text="show-individual"
+			>		
+				<$button 
+					setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					setIndex=<<currentTiddler>> 
+					setTo="hide" 
+					class="tc-btn-invisible" 
+					tooltip="hide content"
+				>
+					{{$:/core/images/fold-all-button}}
+				</$button>
+			</$reveal>
+		</$reveal>
+		<!--dummy break - dont delete -->
+		<!-- hide transclusions -->
+		<$reveal 
+			class="hideprint" 
+			type="match"  
+			stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+			stateIndex=<<currentTiddler>> 
+			default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-transclude}} 
+			text="show"
+		>
+			<!--dummy break - dont delete -->
+			<!-- hide button  -->
+			<$button 
+				setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+				setIndex=<<currentTiddler>> 
+				setTo="hide" class="tc-btn-invisible" 
+				tooltip="Hide content"
+			>
+				{{$:/core/images/fold-all-button}}
+			</$button>
+			<!-- button for showing/hiding content of tiddlers-individual | -->
+			<$reveal 
+				class="hideprint"  
+				type="nomatch" 
+				stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+				stateIndex=<<currentTiddler>> 
+				default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-transclude}} 
+				text="show-individual"
+			>		
+				<$button 
+					setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					setIndex=<<currentTiddler>> 
+					setTo="show-individual" 
+					class="tc-btn-invisible" 
+					tooltip="Show content-individual"
+				>
+					{{$:/core/images/unfold-button}}
+				</$button>
+			</$reveal>
+			<$reveal 
+				class="hideprint"  
+				type="match" 
+				stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+				stateIndex=<<currentTiddler>> 
+				default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-transclude}} 
+				text="show-individual"
+			>		
+				<$button 
+					setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					setIndex=<<currentTiddler>> 
+					setTo="hide" 
+					class="tc-btn-invisible" 
+					tooltip="hide content"
+				>
+					{{$:/core/images/fold-all-button}}
+				</$button>
+			</$reveal>
+		</$reveal>
+				
+	<$reveal  
+				type="nomatch" 
+				stateTitle="$:/plugins/HCHaase/TOCgeneric/ViewTemplate" 
+				stateField="state-submenu" 
+				text="show"
+			>
+			<$button 
+					setTitle="$:/plugins/HCHaase/TOCgeneric/ViewTemplate" 
+					setField="state-submenu" 
+					setTo="show" 
+					class="tc-btn-invisible" 
+					tooltip="Show submenu"
+				>
+					{{$:/core/images/right-arrow}} 
+				</$button>
+			</$reveal>
+	<$reveal  
+				type="match" 
+				stateTitle="$:/plugins/HCHaase/TOCgeneric/ViewTemplate" 
+				stateField="state-submenu" 
+				text="show"
+			>
+			<$button 
+					setTitle="$:/plugins/HCHaase/TOCgeneric/ViewTemplate" 
+					setField="state-submenu" 
+					setTo="hide" 
+					class="tc-btn-invisible" 
+					tooltip="Hide submenu"
+				>
+					{{$:/core/images/down-arrow}} 
+				</$button>
+					<br>&nbsp;&nbsp;&nbsp;&nbsp; <$checkbox tiddler="$:/plugins/HCHaase/TOCgeneric/ViewTemplate" field="freelink-search-pat" checked="fullMatch" unchecked="PartialMatch" default="fullMatch" > full</$checkbox> or <$checkbox tiddler="$:/plugins/HCHaase/TOCgeneric/ViewTemplate" field="freelink-search-pat" checked="PartialMatch" unchecked="fullMatch" default="fullMatch" > partial</$checkbox> match for freelinks.
+			</$reveal>	
+
+	<!-- -----------------------references and toc ------------------------------------ -->
+
+	<!------- tags heading count and toc -->
+	
+	<!-- show/remove menu /  hide for print css-->
+<$reveal 
+	class="hideprint" 
+	type="nomatch" 
+	stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state" 
+	stateIndex=<<currentTiddler>> 
+	default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-visible-tag}} 
+	text="hide"
+>
+	
+	<!-- hide tags button -->
+	<$reveal 
+		type="match" 
+		stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-tag" 
+		stateIndex=<<currentTiddler>> 
+		default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-tag}} 
+		text="show"
+	> 
+	  <$list 
+		filter='[tag<currentTiddler>limit[1]]'  variable=null
+		>
+		<$button 
+			setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-tag" 
+			setIndex=<<currentTiddler>> 
+			setTo="hide" 
+			class="tc-btn-invisible" 
+			tooltip="Hide tag references"
+		>
+		   {{$:/core/images/down-arrow}}
+		   <$count 
+				filter='[tag<currentTiddler>]'
+			/> Tagged with ''<<currentTiddler>>''
+		</$button> 
+		<br>
+
+		<!-- reveal only-tags macro when activated by button -->
+		<$reveal  
+			type="nomatch" 
+			stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+			stateIndex=<<currentTiddler>> 
+			text="show"
+		>
+			<!-- hiding if show-individual --> 
+			<$reveal  
+				type="nomatch" 
+				stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+				stateIndex=<<currentTiddler>> 
+				text="show-individual"
+			>
+				<$macrocall 
+					$name="toc-selective-expandable" 
+					tag=<<currentTiddler>> 
+					sort="sort[title]" 
+				/>
+			</$reveal>
+		</$reveal>
+
+		<!-- reveal transclusion macro when activated by button -->
+		<$reveal  
+			type="match" 
+			stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+			stateIndex=<<currentTiddler>> 
+			text="show"
+		>
+			<$macrocall 
+				$name="toc-selective-expandable-transclusion" 
+				tag=<<currentTiddler>> 
+				sort="sort[title]" 
+			/>
+			<!-- hide transclusions -->
+			<div 
+				class="hideprint" 
+				style="float:right"
+			>
+				<$button 
+					class="tc-btn-invisible" 
+					setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					setIndex=<<currentTiddler>> 
+					setTo="hide" 
+					tooltip="Hide content"
+				>
+					{{$:/core/images/fold-all-button}}
+				</$button>
+			</div>
+		</$reveal>
+		
+		<!-- reveal transclusion-individual macro when activated by button -->
+		<$reveal  
+			type="match" 
+			stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+			stateIndex=<<currentTiddler>> 
+			text="show-individual"
+		>
+			<$macrocall 
+				$name="toc-selective-expandable-transclusion-individual" 
+				tag=<<currentTiddler>> 
+				sort="sort[title]" 
+			/>
+			<!-- hide transclusions -->
+			<div 
+				class="hideprint" 
+				style="float:right"
+			>
+				<$button 
+					class="tc-btn-invisible" 
+					setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					setIndex=<<currentTiddler>> 
+					setTo="hide" 
+					tooltip="Hide content"
+				>
+					{{$:/core/images/fold-all-button}}
+				</$button>
+			</div>
+		</$reveal>
+	  </$list>
+	</$reveal>
+
+
+	<!-- show hidden tags button -->
+	<$reveal 
+		type="nomatch"  
+		stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-tag" 
+		stateIndex=<<currentTiddler>> 
+		default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-tag}} 
+		text="show"
+	>
+		<$list 
+			filter='[tag<currentTiddler>limit[1]]'  variable=null
+		>
+			<$button 
+				setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-tag" 
+				setIndex=<<currentTiddler>>  
+				setTo="show" class="tc-btn-invisible" 
+				tooltip="Show tag references"
+			>
+				{{$:/core/images/right-arrow}}  
+				<$count 
+					filter='[tag<currentTiddler>]'
+				/> Tagged with ''<<currentTiddler>>'' 
+			</$button>
+			<br>
+		</$list>
+	</$reveal>
+</$reveal>
+
+
+	<!------- backlinks heading count and toc-->
+	
+	<!-- show/remove menu /  hide for print css-->
+	<$reveal 
+		class="hideprint" 
+		type="nomatch" 
+		stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state" 
+		stateIndex=<<currentTiddler>> 
+		default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-visible-backlinks}} 
+		text="hide"
+	>
+	
+	<$reveal  
+		type="match" 
+		stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-backlinks" 
+		stateIndex=<<currentTiddler>> 
+		default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-backlinks}} 
+		text="show"
+	>
+		<$list 
+			filter='[all[current]backlinks[]!is[system]!<currentTiddler>limit[1]]' variable=null
+		>
+			<$button 
+				setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-backlinks" 
+				setIndex=<<currentTiddler>> 
+				setTo="hide" 
+				class="tc-btn-invisible" 
+				tooltip="Hide backlink references"
+			>
+				{{$:/core/images/down-arrow}}  
+				<$count 
+					filter='[all[current]backlinks[]!is[system]]'
+				/> Links to ''<<currentTiddler>>''
+			</$button>
+			<br>
+
+			<!-- reveal only-links macro  -->
+			<$reveal  
+				type="nomatch" 
+				stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+				stateIndex=<<currentTiddler>> 
+				text="show"
+			>
+				<$reveal  
+					type="nomatch" 
+					stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					stateIndex=<<currentTiddler>> 
+					text="show-individual"
+				>
+					<<list-links 
+						filter:"[all[current]backlinks[]!<currentTiddler>!is[system]sort[title]]" 
+					>>
+				</$reveal>
+			</$reveal>
+
+			<!-- reveal transclusion macro when activated by button -->
+			<$reveal  
+				type="match" 
+				stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+				stateIndex=<<currentTiddler>> 
+				text="show"
+			>
+				<<toc-list-transclusion "[all[current]backlinks[]]">>
+				<!-- hide transclusions -->
+				<div 
+					class="hideprint" 
+					style="float:right"
+				>
+					<$button 
+						setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+						setIndex=<<currentTiddler>> 
+						setTo="hide" 
+						class="tc-btn-invisible" 
+						tooltip="Hide content"
+					>
+						{{$:/core/images/fold-all-button}}
+					</$button>
+				</div>		
+			</$reveal>
+			
+			<!-- reveal transclusion-individual macro when activated by button -->
+			<$reveal  
+				type="match" 
+				stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+				stateIndex=<<currentTiddler>> 
+				text="show-individual"
+			>
+				<<toc-list-transclusion-individual "[all[current]backlinks[]]">>
+				<!-- hide transclusions -->
+				<div 
+					class="hideprint" 
+					style="float:right"
+				>
+					<$button 
+						class="tc-btn-invisible" 
+						setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+						setIndex=<<currentTiddler>> 
+						setTo="hide" 
+						tooltip="Hide content"
+					>
+						{{$:/core/images/fold-all-button}}
+					</$button>
+				</div>
+			</$reveal>
+		</$list>
+	</$reveal>
+
+
+	<!-- show hidden links-->
+	<$reveal 
+		type="nomatch"  
+		stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-backlinks" 
+		stateIndex=<<currentTiddler>> 
+		default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-backlinks}} 
+		text="show"
+		>
+		 <$list filter='[all[current]backlinks[]!is[system]!<currentTiddler>limit[1]]' variable=null>
+			<$button 
+				setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-backlinks" 
+				setIndex=<<currentTiddler>> 
+				setTo="show" 
+				class="tc-btn-invisible" 
+				tooltip="Show link references"
+			>
+				{{$:/core/images/right-arrow}}  
+				<$count filter='[all[current]backlinks[]!is[system]]'/> Links to ''<<currentTiddler>>'' 
+		   </$button>
+			<br>
+		</$list>
+	</$reveal>
+	</$reveal>
+
+	<!------- freelinks  in this tiddler heading/count/toc-->
+
+       <!------- Freelinks is copied from TWCrossLinks plugin-->
+
+	<!-- show/remove menu /  hide for print css-->
+	<$reveal 
+	class="hideprint" 
+	type="match" 
+	stateTitle="$:/plugins/HCHaase/TOCgeneric/ViewTemplate" 
+	stateField="freelink-search-pat"
+	default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-visible-freelinks}} 
+	text="fullMatch"
+	>
+		 <!------- freelinks heading count and toc-->
+			<!-- show/remove menu /  hide for print css-->
+		<$reveal 
+			class="hideprint" 
+			type="nomatch" 
+			stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state" 
+			stateIndex=<<currentTiddler>> 
+			default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-visible-freelinks}} 
+			text="hide"
+		>
+		
+		<$reveal  
+			type="match" 
+			stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-freelinks" 
+			stateIndex=<<currentTiddler>> 
+			default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-freelinks}} 
+			text="show"
+		>
+			<$list 
+				filter='[regexp:title<fullMatchPattern>] [regexp:text<fullMatchPattern>] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system]] +[limit[1]]' variable=null
+			>           
+				<$button 
+					setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-freelinks" 
+					setIndex=<<currentTiddler>> 
+					setTo="hide" 
+					class="tc-btn-invisible" 
+					tooltip="Hide freelinks references"
+				>
+					{{$:/core/images/down-arrow}}  
+					<$count 
+						filter='[regexp:title<fullMatchPattern>] [regexp:text<fullMatchPattern>] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system]]'
+					/> Freelinks to ''<<currentTiddler>>''
+				</$button>
+				<!-- reveal only-freelinks macro  -->
+				<$reveal  
+					type="nomatch" 
+					stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					stateIndex=<<currentTiddler>> 
+					text="show"
+				>
+					<$reveal  
+						type="nomatch" 
+						stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+						stateIndex=<<currentTiddler>> 
+						text="show-individual"
+					>
+						<<list-links 
+							filter:"[regexp:title<fullMatchPattern>] [regexp:text<fullMatchPattern>] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system]] +[sort[title]]" 
+						>>
+					</$reveal>
+				</$reveal>
+
+				<!-- reveal transclusion macro when activated by button -->
+				<$reveal  
+					type="match" 
+					stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					stateIndex=<<currentTiddler>> 
+					text="show"
+				>
+					<<toc-list-transclusion "[regexp:title<fullMatchPattern>] [regexp:text<fullMatchPattern>] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system]">>
+					<!-- hide transclusions -->
+					<div 
+						class="hideprint" 
+						style="float:right"
+					>
+						<$button 
+							setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+							setIndex=<<currentTiddler>> 
+							setTo="hide" 
+							class="tc-btn-invisible" 
+							tooltip="Hide content"
+						>
+							{{$:/core/images/fold-all-button}}
+						</$button>
+					</div>		
+				</$reveal>
+				
+				<!-- reveal transclusion-individual macro when activated by button -->
+				<$reveal  
+					type="match" 
+					stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					stateIndex=<<currentTiddler>> 
+					text="show-individual"
+				>
+					<<toc-list-transclusion-individual "[regexp:title<fullMatchPattern>] [regexp:text<fullMatchPattern>] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system] ">>
+					<!-- hide transclusions -->
+					<div 
+						class="hideprint" 
+						style="float:right"
+					>
+						<$button 
+							class="tc-btn-invisible" 
+							setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+							setIndex=<<currentTiddler>> 
+							setTo="hide" 
+							tooltip="Hide content"
+						>
+							{{$:/core/images/fold-all-button}}
+						</$button>
+					</div>
+				</$reveal>
+			</$list>
+		</$reveal>
+
+
+		<!-- show hidden freelinks-->
+		<$reveal 
+			type="nomatch"  
+			stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-freelinks" 
+			stateIndex=<<currentTiddler>> 
+			default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-freelinks}} 
+			text="show"
+			>
+			 <$list 
+				filter='[regexp:title<fullMatchPattern>] [regexp:text<fullMatchPattern>] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system]] +[limit[1]]' variable=null
+			> 
+			 
+				<$button 
+					setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-freelinks" 
+					setIndex=<<currentTiddler>> 
+					setTo="show" 
+					class="tc-btn-invisible" 
+					tooltip="Show freelink references"
+				>
+					{{$:/core/images/right-arrow}}  
+					<$count filter='[regexp:title<fullMatchPattern>] [regexp:text<fullMatchPattern>] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system]]'/> Freelinks to ''<<currentTiddler>>'' 
+			   </$button>
+				<br>
+			</$list>
+		</$reveal>
+		</$reveal>
+	</$reveal>
+
+<!------- freelinks-partial matcu in this tiddler heading/count/toc-->
+
+       <!------- Freelinks is copied from  TWCrossLinks plugin-->
+
+
+ <!------- freelinks-partial heading count and toc-->
+	<!-- show/remove menu /  hide for print css-->
+	<$reveal 
+	class="hideprint" 
+	type="match" 
+	stateTitle="$:/plugins/HCHaase/TOCgeneric/ViewTemplate" 
+	stateField="freelink-search-pat"
+	default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-visible-freelinks}} 
+	text="PartialMatch"
+	>
+		
+		<$reveal 
+			class="hideprint" 
+			type="nomatch" 
+			stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state" 
+			stateIndex=<<currentTiddler>> 
+			default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-visible-freelinks}} 
+			text="hide"
+		>
+		
+		<$reveal  
+			type="match" 
+			stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-freelinks" 
+			stateIndex=<<currentTiddler>> 
+			default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-freelinks}} 
+			text="show"
+		>
+			<$list 
+				filter='[regexp:title<PartialMatchPattern>] [regexp:text<PartialMatchPattern>] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system]] +[limit[1]]' variable=null
+			>           
+				<$button 
+					setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-freelinks" 
+					setIndex=<<currentTiddler>> 
+					setTo="hide" 
+					class="tc-btn-invisible" 
+					tooltip="Hide freelinks references"
+				>
+					{{$:/core/images/down-arrow}}  
+					<$count 
+						filter='[regexp:title<PartialMatchPattern>] [regexp:text<PartialMatchPattern>] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system]]'
+					/> Freelinks to ''<<currentTiddler>>''
+				</$button>
+				
+				<!-- reveal only-freelinks macro  -->
+				<$reveal  
+					type="nomatch" 
+					stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					stateIndex=<<currentTiddler>> 
+					text="show"
+				>
+					<$reveal  
+						type="nomatch" 
+						stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+						stateIndex=<<currentTiddler>> 
+						text="show-individual"
+					>
+						<<list-links 
+							filter:"[regexp:title<PartialMatchPattern>] [regexp:text<PartialMatchPattern>] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system]] +[sort[title]]" 
+						>>
+					</$reveal>
+				</$reveal>
+
+				<!-- reveal transclusion macro when activated by button -->
+				<$reveal  
+					type="match" 
+					stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					stateIndex=<<currentTiddler>> 
+					text="show"
+				>
+					<<toc-list-transclusion "[regexp:title<PartialMatchPattern>] [regexp:text<PartialMatchPattern>] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system]">>
+					<!-- hide transclusions -->
+					<div 
+						class="hideprint" 
+						style="float:right"
+					>
+						<$button 
+							setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+							setIndex=<<currentTiddler>> 
+							setTo="hide" 
+							class="tc-btn-invisible" 
+							tooltip="Hide content"
+						>
+							{{$:/core/images/fold-all-button}}
+						</$button>
+					</div>		
+				</$reveal>
+				
+				<!-- reveal transclusion-individual macro when activated by button -->
+				<$reveal  
+					type="match" 
+					stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					stateIndex=<<currentTiddler>> 
+					text="show-individual"
+				>
+					<<toc-list-transclusion-individual "[regexp:title<PartialMatchPattern>] [regexp:text<PartialMatchPattern>] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system] ">>
+					<!-- hide transclusions -->
+					<div 
+						class="hideprint" 
+						style="float:right"
+					>
+						<$button 
+							class="tc-btn-invisible" 
+							setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+							setIndex=<<currentTiddler>> 
+							setTo="hide" 
+							tooltip="Hide content"
+						>
+							{{$:/core/images/fold-all-button}}
+						</$button>
+					</div>
+				</$reveal>
+			</$list>
+		</$reveal>
+
+
+		<!-- show hidden freelinks-->
+		<$reveal 
+			type="nomatch"  
+			stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-freelinks" 
+			stateIndex=<<currentTiddler>> 
+			default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-freelinks}} 
+			text="show"
+			>
+			 <$list 
+				filter='[regexp:title<PartialMatchPattern>] [regexp:text<PartialMatchPattern>] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system]] +[limit[1]]' variable=null
+			> 
+			 
+				<$button 
+					setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-freelinks" 
+					setIndex=<<currentTiddler>> 
+					setTo="show" 
+					class="tc-btn-invisible" 
+					tooltip="Show freelink references"
+				>
+					{{$:/core/images/right-arrow}}  
+					<$count filter='[regexp:title<PartialMatchPattern>] [regexp:text<PartialMatchPattern>] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system]]'/> Freelinks to ''<<currentTiddler>>'' 
+			   </$button>
+				<br>
+			</$list>
+		</$reveal>
+		</$reveal>
+	</$reveal>
+
+	<!------- list fields in this tiddler heading/count/toc-->
+		<$reveal 
+		class="hideprint" 
+		type="nomatch" 
+		stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state" 
+		stateIndex=<<currentTiddler>> 
+		default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-visible-list}} 
+		text="hide"
+	>
+	
+	<$reveal 
+		type="match"
+		stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-list" 
+		stateIndex=<<currentTiddler>> 
+		default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-list}} 
+		text="show"
+	>
+		<$list 
+			filter='[list{!!title}limit[1]]' variable=null
+		>
+			<$button 
+				setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-list" 
+				setIndex=<<currentTiddler>>  
+				setTo="hide" 
+				class="tc-btn-invisible" 
+				tooltip="Hide list references"
+			>
+				{{$:/core/images/down-arrow}}  
+				''<<currentTiddler>>'' is listing 
+			</$button>
+			<br>
+
+
+		<!-- reveal only-list macro when activated by button -->
+		<$reveal  
+				type="nomatch" 
+				stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+				stateIndex=<<currentTiddler>> 
+				text="show"
+			>
+				<$reveal  
+					type="nomatch" 
+					stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					stateIndex=<<currentTiddler>> 
+					text="show-individual"
+				>
+				<<list-links filter:"[list{!!title}!is[system]sort[title]]"	>>
+			</$reveal>
+		</$reveal>
+
+		<!-- reveal transclusion macro when activated by button -->
+		<$reveal  
+			type="match" 
+			stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+			stateIndex=<<currentTiddler>> 
+			text="show"
+		>
+			<<toc-list-transclusion "list{!!title}">>
+			<!-- hide transclusions -->
+			<div 
+				class="hideprint" 
+				style="float:right"
+			>
+				<$button 
+					setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					setIndex=<<currentTiddler>> 
+					setTo="hide" 
+					class="tc-btn-invisible" 
+					tooltip="Hide content"
+				>
+					{{$:/core/images/fold-all-button}}
+				</$button>
+			</div>
+		</$reveal>
+			<!-- reveal transclusion-individual macro when activated by button -->
+			<$reveal  
+				type="match" 
+				stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+				stateIndex=<<currentTiddler>> 
+				text="show-individual"
+			>
+				<<toc-list-transclusion-individual "list{!!title}">>
+				<!-- hide transclusions -->
+				<div 
+					class="hideprint" 
+					style="float:right"
+				>
+					<$button 
+						class="tc-btn-invisible" 
+						setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+						setIndex=<<currentTiddler>> 
+						setTo="hide" 
+						tooltip="Hide content"
+					>
+						{{$:/core/images/fold-all-button}}
+					</$button>
+				</div>
+			</$reveal>
+		</$list>
+	</$reveal>
+	
+
+	<!-- show hidden list-->
+	<$reveal 
+		type="match" 
+		stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-list" 
+		stateIndex=<<currentTiddler>> 
+		default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-list}} 
+		text="hide"
+	>
+		 <$list filter='[list{!!title}limit[1]]' variable=null>
+			<$button 
+				setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-list" 
+				setIndex=<<currentTiddler>> 
+				setTo="show" 
+				class="tc-btn-invisible" 
+				tooltip="Show list references"
+			>
+				{{$:/core/images/right-arrow}} ''<<currentTiddler>>'' is listing 
+			</$button>
+			<br>
+		</$list>
+	</$reveal>
+	</$reveal>
+
+	<!------- listed in other tiddlers heading count and toc-->
+			<$reveal 
+		class="hideprint" 
+		type="nomatch" 
+		stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state" 
+		stateIndex=<<currentTiddler>> 
+		default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-visible-listed}} 
+		text="hide"
+	>
+	
+	<$reveal 
+		type="match" 
+		stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-listed" 
+		stateIndex=<<currentTiddler>> 
+		default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-listed}} 
+		text="show"
+	>
+		<$list filter='[all[current]listed[]!is[system]limit[1]]' variable=null>
+			<$button 
+				setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-listed" 
+				setIndex=<<currentTiddler>> 
+				setTo="hide" 
+				class="tc-btn-invisible" 
+				tooltip="Hide listed references"
+			>
+				{{$:/core/images/down-arrow}}  ''<<currentTiddler>>'' is listed in 
+			</$button>
+			<br>
+
+			<!-- reveal only-list macro when activated by button -->
+			<$reveal  
+					type="nomatch" 
+					stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+					stateIndex=<<currentTiddler>> 
+					text="show"
+				>
+					<$reveal  
+						type="nomatch" 
+						stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+						stateIndex=<<currentTiddler>> 
+						text="show-individual"
+					>
+					<<list-links filter:"[all[current]listed[]!is[system]sort[title]]"	>>
+				</$reveal>
+			</$reveal>
+					<!-- reveal transclusion macro when activated by button -->
+			<$reveal  
+				type="match" 
+				stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+				stateIndex=<<currentTiddler>> 
+				text="show"
+			>
+				<<toc-list-transclusion "all[current]listed[]">>
+				<!-- hide transclusions -->
+				<div 
+					class="hideprint" 
+					style="float:right"
+				>
+					<$button 
+						setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+						setIndex=<<currentTiddler>> 
+						setTo="hide" 
+						class="tc-btn-invisible" 
+						tooltip="Hide content"
+					>
+						{{$:/core/images/fold-all-button}}
+					</$button>
+				</div>
+			</$reveal>
+			<!-- reveal transclusion-individual macro when activated by button -->
+			<$reveal  
+				type="match" 
+				stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+				stateIndex=<<currentTiddler>> 
+				text="show-individual"
+			>
+				<<toc-list-transclusion-individual "[all[current]listed[]]">>
+				<!-- hide transclusions -->
+				<div 
+					class="hideprint" 
+					style="float:right"
+				>
+					<$button 
+						class="tc-btn-invisible" 
+						setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-transclusion" 
+						setIndex=<<currentTiddler>> 
+						setTo="hide" 
+						tooltip="Hide content"
+					>
+						{{$:/core/images/fold-all-button}}
+					</$button>
+				</div>
+			</$reveal>
+		</$list>
+	</$reveal>
+
+
+
+	<!-- show hidden listed-->
+	<$reveal 
+		type="nomatch" 
+		stateTitle="$:/state/plugins/HCHaase/TOCgeneric/state-listed" 
+		stateIndex=<<currentTiddler>> 
+		default={{$:/plugins/HCHaase/TOCgeneric/ViewTemplate!!default-state-listed}} 
+		text="show"
+	>
+		<$list filter='[all[current]listed[]!is[system]limit[1]]' variable=null>
+			<$button 
+				setTitle="$:/state/plugins/HCHaase/TOCgeneric/state-listed" 
+				setIndex=<<currentTiddler>> 
+				setTo="show" 
+				class="tc-btn-invisible" 
+				tooltip="Show listed references"
+			>
+				{{$:/core/images/right-arrow}} ''<<currentTiddler>>'' is listed 
+			</$button>
+			<br>
+		</$list>
+	</$reveal>
+	</$reveal>
+
+	<!-- -----------------------END references and toc ------------------------------------ -->
+
+</$reveal>
+</$reveal>
+</$list>
