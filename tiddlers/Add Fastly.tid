@@ -1,5 +1,5 @@
 created: 20211226094152512
-modified: 20220102154611143
+modified: 20220103081835425
 tags: custom
 title: Add Fastly
 type: text/vnd.tiddlywiki
@@ -8,13 +8,13 @@ type: text/vnd.tiddlywiki
 	<legend>Fast add</legend>
 
 	<$button>
-		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY-MM-DD">> tags="untagged" />
-	idea
+		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY-MM-DD">> tags="journal" />
+	journal
 	</$button>
 
 	<$button>
 		<$action-sendmessage $message="tm-new-tiddler" title="xxx" text="""<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />""" tags="Index" />
-	folder
+	index
 	</$button>
 	
 </fieldset>
