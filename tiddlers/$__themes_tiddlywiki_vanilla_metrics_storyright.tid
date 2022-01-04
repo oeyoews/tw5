@@ -1,6 +1,6 @@
 created: 20220104160004469
-modified: 20220104170954959
+modified: 20220104175712351
 title: $:/themes/tiddlywiki/vanilla/metrics/storyright
 type: text/vnd.tiddlywiki
 
-calc({{$:/xp/LeftOpenTab/temp!!storyright-default}} + {{$:/themes/tiddlywiki/vanilla/metrics/storyleft}})
+770px
