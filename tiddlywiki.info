@@ -2,7 +2,16 @@
   "description": "Basic client-server edition",
     "plugins": [
       "tiddlywiki/tiddlyweb",
+    "tiddlywiki/codemirror",
+    "tiddlywiki/katex",
     "tiddlywiki/filesystem",
+    "tiddlywiki/markdown",
+    "tiddlywiki/codemirror-closebrackets",
+    "tiddlywiki/codemirror-mode-markdown",
+    "tiddlywiki/codemirror-mode-xml",
+    "tiddlywiki/codemirror-mode-css",
+    "tiddlywiki/codemirror-search-replace",
+    "tiddlywiki/codemirror-autocomplete",
     "tiddlywiki/highlight"
     ],
     "themes": [
