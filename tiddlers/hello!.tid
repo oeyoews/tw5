@@ -1,5 +1,8 @@
 created: 20220104054814398
-modified: 20220104055604800
-tags: Inbox todo done
+modified: 20220104124939963
+priority: 1
+stream-list: 
+stream-type: default
+tags: Inbox SubProject todo
 title: hello!
 type: text/vnd.tiddlywiki
