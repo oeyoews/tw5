@@ -1,0 +1,17 @@
+caption: {{$:/language/Buttons/ListBullet/Caption}} (Markdown)
+condition: [<targetTiddler>type[text/x-markdown]]
+created: 20220104084145587
+description: {{$:/language/Buttons/ListBullet/Hint}}
+icon: $:/core/images/list-bullet
+modified: 20220104084145587
+shortcuts: ((list-bullet))
+tags: $:/tags/EditorToolbar
+title: $:/plugins/tiddlywiki/markdown/EditorToolbar/list-bullet
+type: text/vnd.tiddlywiki
+
+<$action-sendmessage
+	$message="tm-edit-text-operation"
+	$param="prefix-lines"
+	character="*"
+	count="1"
+/>

@@ -1,7 +1,7 @@
 created: 20190716084402662
-modified: 20220102130238578
+modified: 20220104083211532
 tags: 
-td-namespace: $:/todolist/data/TODO
+td-namespace: TODO
 title: Todolist - Archived Items - TODO
 type: text/vnd.tiddlywiki
 
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 
 !! Archive of completed (done) items
 
-<$macrocall $name="todolist-empty-archived-tiddler" nameSpace={{!!td-namespace}} />
+<$macrocall $name="todolist-empty-archived-tiddler" base={{!!td-namespace}} />
 
-> <$macrocall $name="todolist-list-archived-items" nameSpace={{!!td-namespace}} />
+> <$macrocall $name="todolist-list-archived-items"  base={{!!td-namespace}} />
 

@@ -1,0 +1,17 @@
+caption: {{$:/language/Buttons/Bold/Caption}} (Markdown)
+condition: [<targetTiddler>type[text/x-markdown]]
+created: 20220104084145586
+description: {{$:/language/Buttons/Bold/Hint}}
+icon: $:/core/images/bold
+modified: 20220104084145586
+shortcuts: ((bold))
+tags: $:/tags/EditorToolbar
+title: $:/plugins/tiddlywiki/markdown/EditorToolbar/bold
+type: text/vnd.tiddlywiki
+
+<$action-sendmessage
+	$message="tm-edit-text-operation"
+	$param="wrap-selection"
+	prefix="**"
+	suffix="**"
+/>
