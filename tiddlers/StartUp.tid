@@ -1,5 +1,5 @@
 created: 20211227055710846
-modified: 20220104153129791
+modified: 20220104163925559
 tags: $:/tags/RawMarkupWikified/TopBody custom
 title: StartUp
 type: text/vnd.tiddlywiki
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 
 <div class="tc-remove-when-wiki-loaded">
 <style scoped>
-<!-- 
+
 .tc-splash-text {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-size: 14px;
@@ -105,4 +105,3 @@ Demonstrating how to embed a bitmap graphic
 </div>
 
 </div>
--->
