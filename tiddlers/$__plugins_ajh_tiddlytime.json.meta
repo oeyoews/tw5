@@ -1,0 +1,11 @@
+core-version: >=5.1.11
+created: 20150818132745299
+dependents: $:/info/timestamp $:/language/Buttons/Time/Caption $:/language/Buttons/Time/Hint $:/plugins/ajh/tiddlytime/datetime.js $:/plugins/ajh/tiddlytime/icon $:/plugins/ajh/tiddlytime/readme $:/plugins/ajh/tiddlytime/stylesheet $:/plugins/ajh/tiddlytime/time.js $:/time
+description: Tiddlytime Button
+list: readme
+modified: 20170901010157064
+plugin-type: plugin
+source: https://github.com/Infurnoape/infurnoape.github.io/blob/master/recipes/library/tiddlers/%2524%253A%252Fplugins%252Fajh%252Ftiddlytime.json
+title: $:/plugins/ajh/tiddlytime
+type: application/json
+version: 0.0.11

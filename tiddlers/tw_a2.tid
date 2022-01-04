@@ -1,8 +1,14 @@
 created: 20220104161756114
-modified: 20220104161903689
+modified: 20220104181653870
 tags: tw shortkeys
 title: tw/a2
 type: text/vnd.tiddlywiki
 
 * <kbd> alt shift  S </kbd>
 * toggle sidebar
+
+* <kbd>ctrl enter </kbd>
+* certain this tiddler equal bingo
+
+# <kbd> ctrl shift a</kbd>
+* advance search
