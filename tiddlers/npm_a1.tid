@@ -1,0 +1,10 @@
+created: 20220103154547391
+modified: 20220103155546017
+tags: untagged
+title: npm/a1
+type: text/vnd.tiddlywiki
+
+npm i -g xxxx --save 
+
+* use save parameter to write this depencies in package.json
+* or yarn add -D xxx
