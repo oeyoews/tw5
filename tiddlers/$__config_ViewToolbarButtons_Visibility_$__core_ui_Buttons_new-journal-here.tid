@@ -1,6 +1,6 @@
 created: 20211227235005637
-modified: 20211227235005637
+modified: 20220104070053691
 title: $:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/new-journal-here
 type: text/vnd.tiddlywiki
 
-show
+hide
