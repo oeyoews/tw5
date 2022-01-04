@@ -1,0 +1,9 @@
+created: 20220104072526822
+modified: 20220104073547495
+tags: untagged
+title: untitle 22
+type: text/vnd.tiddlywiki
+
+[plugm]
+
+<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/SimpleExample.json"/>

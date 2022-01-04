@@ -1,0 +1,10 @@
+author: linonetwo
+core-version: >=5.0.8
+dependents: $:/plugins/linonetwo/pinyin-fuzzy-search
+description: Command palette Chinese translated
+list: readme
+plugin-type: plugin
+source: https://github.com/tiddly-gittly/tiddlywiki-plugins
+title: $:/plugins/linonetwo/commandpalette
+type: application/json
+version: 0.2.2
