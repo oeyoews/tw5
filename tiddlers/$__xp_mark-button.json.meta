@@ -1,0 +1,10 @@
+created: 20210415051416996
+dependents: 
+description: Mark selected text
+list: readme
+modified: 20211216033131111
+name: Mark selected text
+plugin-type: plugin
+title: $:/xp/mark-button
+type: application/json
+version: 5.2.1.0

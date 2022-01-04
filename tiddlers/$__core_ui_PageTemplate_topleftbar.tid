@@ -1,0 +1,15 @@
+created: 20220104145923179
+modified: 20220104151840301
+tags: $:/tags/PageTemplate
+title: $:/core/ui/PageTemplate/topleftbar
+type: text/vnd.tiddlywiki
+
+<span class="tc-topbar tc-topbar-left">
+
+<$list filter="[all[shadows+tiddlers]tag[$:/tags/TopLeftBar]!has[draft.of]]" variable="listItem" storyview="pop">
+
+<$transclude tiddler=<<listItem>> mode="inline"/>
+
+</$list>
+
+</span>

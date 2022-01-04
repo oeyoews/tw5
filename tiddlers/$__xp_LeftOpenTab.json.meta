@@ -1,0 +1,10 @@
+author: kl
+created: 20210218055056916
+dependents: $:/plugins/sq/Stories
+description: LeftOpenTab - A button to put the open tab to the left
+list: contents readme
+modified: 20211216033131111
+plugin-type: plugin
+title: $:/xp/LeftOpenTab
+type: application/json
+version: 5.2.1.0

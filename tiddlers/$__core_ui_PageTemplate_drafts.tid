@@ -1,0 +1,14 @@
+created: 20220104145923180
+modified: 20220104151840299
+tags: $:/tags/PageTemplate
+title: $:/core/ui/PageTemplate/drafts
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+<$reveal state="$:/status/IsReadOnly" type="nomatch" text="yes" tag="div" class="tc-drafts-list">
+<$list filter="[has[draft.of]!sort[modified]] -[list[$:/StoryList]]">
+<$link>
+{{$:/core/images/edit-button}} <$text text=<<currentTiddler>>/>
+</$link>
+</$list>
+</$reveal>

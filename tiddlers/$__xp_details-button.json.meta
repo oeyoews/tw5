@@ -1,0 +1,10 @@
+created: 20200723035831810
+dependents: $:/plugins/telmiger/details
+description: Details button - add a HTML5 <details> element
+list: readme
+modified: 20211216033131111
+name: Details button
+plugin-type: plugin
+title: $:/xp/details-button
+type: application/json
+version: 5.2.1.0

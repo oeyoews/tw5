@@ -1,5 +1,29 @@
 created: 20211229111120567
-modified: 20220104130507458
+modified: 20220104152645102
 tags: untagged
 title: untitle 9
 type: text/vnd.tiddlywiki
+
+<div class="left-column">
+
+{{$:/xp/columns/Examples/text2||transclusion-caption.tmpl}}
+hello 
+</div>
+
+<div class="right-column">
+
+{{$:/xp/columns/Examples/text1||transclusion-caption.tmpl}}
+this is ademo
+</div>
+
+<div class="left-column">
+
+{{$:/xp/columns/Examples/text2}}
+
+</div>
+
+<div class="right-column">
+
+{{$:/xp/columns/Examples/text1}}
+
+</div>
