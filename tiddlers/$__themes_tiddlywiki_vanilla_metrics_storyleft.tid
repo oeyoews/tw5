@@ -1,6 +1,6 @@
 created: 20211228140436248
-modified: 20220104161657270
+modified: 20220104170954958
 title: $:/themes/tiddlywiki/vanilla/metrics/storyleft
 type: text/vnd.tiddlywiki
 
-0px
+calc({{$:/xp/LeftOpenTab/Stylesheet!!width}} + {{$:/xp/LeftOpenTab/Stylesheet!!storyleft-default}} - {{$:/xp/LeftOpenTab/Stylesheet!!storyriver-padding-left}}) /* $:/xp/LeftOpenTab */
