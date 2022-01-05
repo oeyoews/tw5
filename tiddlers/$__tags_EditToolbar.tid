@@ -1,0 +1,5 @@
+created: 20220105055647532
+list: $:/core/ui/Buttons/delete $:/plugins/kookma/trashbin/ui/toolbar-button $:/core/ui/Buttons/cancel $:/core/ui/Buttons/save
+modified: 20220105055658668
+title: $:/tags/EditToolbar
+type: text/vnd.tiddlywiki
