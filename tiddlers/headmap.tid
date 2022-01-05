@@ -1,7 +1,7 @@
 created: 20220105153720429
-modified: 20220105153744209
+modified: 20220105161619940
 tags: custom
 title: headmap
 type: text/vnd.tiddlywiki
 
-<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/oflg/CalendarHeatmap/CalendarHeatmap.js"/>
+<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/oflg/CalendarHeatmap/CalendarHeatmap.js" $height="150px" />
