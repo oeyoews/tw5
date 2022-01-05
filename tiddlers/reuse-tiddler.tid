@@ -1,0 +1,8 @@
+caption: reuse-tiddler
+created: 20220105155004058
+modified: 20220105155135235
+tags: $:/tags/TextEditor/Snippet custom
+title: reuse-tiddler
+type: text/vnd.tiddlywiki
+
+<<resue-tiddler "">>

@@ -2,7 +2,7 @@ color: #5176cd
 created: 20211226085802818
 creator: oeyoews
 icon: 
-modified: 20220105080118179
+modified: 20220105155436309
 modifier: oeyoews
 page-cover: https://images.unsplash.com/photo-1593642634443-44adaa06623a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80
 stream-list: 
@@ -13,9 +13,19 @@ type: text/vnd.tiddlywiki
 
 <<reuse-tiddler "Inbox">>
 
----
 <<reuse-tiddler "TODO">>
 
+!! The brain
 <<reuse-tiddler "The brains">>
 
+!! tag cloud
 <<reuse-tiddler "tagcloud">>
+
+!! headmap
+<<reuse-tiddler "headmap">>
+
+<<reuse-tiddler "clock">>
+
+<<reuse-tiddler "presenter">>
+
+<<reuse-tiddler "echarts/a1">>
