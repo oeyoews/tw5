@@ -1,8 +1,0 @@
-dependents: 
-description: Innerwikis for screenshots and hacking
-list: readme docs examples
-name: Innerwiki
-plugin-type: plugin
-title: $:/plugins/tiddlywiki/innerwiki
-type: application/json
-version: 5.2.1

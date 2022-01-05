@@ -14,11 +14,11 @@ default-state-visible: show
 default-state-visible-list: show
 default-state-visible-listed: show
 default-state-visible-tag: show
-freelink-search-pat: fullMatch
+freelink-search-pat: PartialMatch
 list-after: $:/core/ui/ViewTemplate/body
-modified: 20220103043300949
+modified: 20220105053512090
 modifier: HC Haase
-state-submenu: hide
+state-submenu: show
 tags: $:/tags/ViewTemplate
 title: $:/plugins/HCHaase/TOCgeneric/ViewTemplate
 type: text/vnd.tiddlywiki
