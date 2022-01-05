@@ -1,5 +1,5 @@
 created: 20220104163932319
-modified: 20220104171348648
+modified: 20220105143615461
 tags: journal
 title: 2022/1/5
 type: text/vnd.tiddlywiki
@@ -8,4 +8,7 @@ this is ademo this this is a demo
 this is ademo 
 this is as demo 
 * hello hello hell9o 
-thisis a demo 
+thisis a demo @@color:Blue;
+@@color:{{$:/palettes/Editor##al@@t-text}};test @@
+
+<<.warning "不要尝试使用浏览器菜单列的''文件''/''另存新档''的功能表选项来保存变更（这无法正确保存 TiddlyWiki）">><br /><br />

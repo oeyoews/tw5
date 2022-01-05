@@ -1,0 +1,12 @@
+created: 20220105114621992
+modified: 20220105115011264
+tags: untagged
+title: untitle 36
+type: text/vnd.tiddlywiki
+
+[[plantuml[
+:Me: -left-> (LEFT) 
+:Me: -right-> (RIGHT) 
+:Me: -up-> (UP)
+:Me: -down-> (DOWN)
+]]]
