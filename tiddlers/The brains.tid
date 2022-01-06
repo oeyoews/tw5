@@ -1,9 +1,9 @@
 caption: TheBrain
 created: 20220105074538367
 list-before: $:/core/ui/SideBar/Open
-modified: 20220106130226407
+modified: 20220106184526421
 tags: custom $:/tags/SideBar linux
 title: The brains
 type: text/vnd.tiddlywiki
 
-<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TheBrain.js" $height=500px/>
+<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TheBrain.js" $height=600px/>
