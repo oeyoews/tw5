@@ -2,6 +2,7 @@ created: 20220105075909529
 modified: 20220105153751074
 tags: custom
 title: tagcloud
+tmap.id: 69c57c1b-0d5b-43ac-a1e9-98b4b70e7bbb
 type: text/vnd.tiddlywiki
 
 <$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TagCloud.js"/>

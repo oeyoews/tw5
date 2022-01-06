@@ -2,6 +2,7 @@ created: 20211226172512553
 modified: 20220104171106095
 tags: linux
 title: jobs
+tmap.id: ab5e75ef-49b3-405e-9d4d-2da1f65f00b6
 type: text/vnd.tiddlywiki
 
 * disown [[disown|https://www.ruanyifeng.com/blog/2016/02/linux-daemon.html]]

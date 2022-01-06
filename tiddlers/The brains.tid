@@ -4,6 +4,7 @@ list-before: $:/core/ui/SideBar/Open
 modified: 20220106184526421
 tags: custom $:/tags/SideBar linux
 title: The brains
+tmap.id: c5e71f13-f74d-459d-b792-0c2165d2040c
 type: text/vnd.tiddlywiki
 
 <$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TheBrain.js" $height=600px/>

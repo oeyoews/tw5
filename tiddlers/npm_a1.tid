@@ -2,6 +2,7 @@ created: 20220103154547391
 modified: 20220103155546017
 tags: untagged
 title: npm/a1
+tmap.id: e91874a5-00f1-42b0-9344-4ab123b8e39b
 type: text/vnd.tiddlywiki
 
 npm i -g xxxx --save 

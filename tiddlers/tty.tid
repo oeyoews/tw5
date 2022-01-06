@@ -2,6 +2,7 @@ created: 20211231095220183
 modified: 20211231095333656
 tags: linux
 title: tty
+tmap.id: 8ffa4a26-54d1-4d87-973f-c41dc82493b3
 type: text/vnd.tiddlywiki
 
 * systemctl get-default
