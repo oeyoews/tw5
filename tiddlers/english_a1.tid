@@ -1,5 +1,5 @@
 created: 20220107152809357
-modified: 20220107174346593
+modified: 20220107180556373
 tags: English
 title: english/a1
 type: text/vnd.tiddlywiki
@@ -7,6 +7,12 @@ type: text/vnd.tiddlywiki
 !!sentence
 <p style="text-indent:2em">
 __This success__, @@color:purple;coupled with@@ __later research__ showing that memory itself is not genetically @@color:green;determined@@, led Ericsson to conclude that the act of memorizing is more of a @@color:green;cognitive@@ exercise than an intuitive one.
+</p>
+<hr>
+
+!! translate
+<p style="text-indent:2em">
+译文赏析：这种成功和后来表明记忆本身并不是先天决定的研究使爱立信总结道，记忆的行为与其说是一种先天的行为不如说是一种习得的行为。
 </p>
 
 <hr>

@@ -1,0 +1,163 @@
+created: 20171018115714311
+creator: JD
+modified: 20220107180041930
+modifier: JD
+tags: $:/tags/PageTemplate
+title: $:/plugins/jd/mob/template/search
+type: text/vnd.tiddlywiki
+
+\define NewTidActions(searcharea)
+<$action-createtiddler $basetitle={{$searcharea$}} $savetitle="$:/temp/NewTidTitle"/>
+<$action-sendmessage $message="tm-edit-tiddler" $param={{$:/temp/NewTidTitle}}/>
+<$action-deletetiddler $tiddler="$:/temp/NewTidTitle"/>
+<$action-setfield $tiddler="$searcharea$" text=""/>
+\end
+
+\define NewTidBtn(searcharea)
+<$button tooltip="Create new tiddler with this title" class="tc-btn-invisible" actions=<<NewTidActions "$searcharea$">>>
+{{$:/core/images/new-button}}
+</$button>
+\end
+
+\define lingo-base() $:/language/Search/
+<$reveal state="$:/plugins/jd/mob/config/config##searchbar" type="match" text="yes" default="yes" retain="yes" animate="yes">
+
+<$reveal state="$:/plugins/jd/mob/config/config##searchbarchoice" type="match" text="simple">
+<div class="jd-search">
+<$keyboard class="jd-searchwrapper" tag="div" key="ctrl+space" actions=<<NewTidActions "$:/temp/search">>>
+<$edit-text tiddler="$:/temp/search" type="search" tag="input" placeholder={{$:/language/Search/Search}} class="jd-searchbar"/>
+</$keyboard>
+<div class="jd-search-buttons">
+<$list filter="[[$:/temp/search]!text[]]" variable="statecheck">
+<<NewTidBtn "$:/temp/search">>
+</$list>
+<$reveal type="match" state="$:/plugins/jd/mob/config/config##radbuttop" text="fixedsearch">
+<$button tooltip={{$:/language/Buttons/AdvancedSearch/Hint}} aria-label={{$:/language/Buttons/AdvancedSearch/Caption}} class="tc-btn-invisible">
+<$action-setfield $tiddler="$:/temp/advancedsearch" text={{$:/temp/search}}/>
+<$action-setfield $tiddler="$:/temp/search" text=""/>
+<$action-navigate $to="$:/AdvancedSearch"/>
+{{$:/core/images/advanced-search-button}}
+</$button>
+<$list filter="[[$:/temp/search]!text[]]" variable="statecheck">
+<$button class="tc-btn-invisible" tooltip="Clear searchbar">
+<$action-setfield $tiddler="$:/temp/advancedsearch" text=""/>
+<$action-setfield $tiddler="$:/temp/search" text=""/>
+{{$:/core/images/close-button}}
+</$button>
+</$list>
+</$reveal>
+<$reveal type="nomatch" state="$:/plugins/jd/mob/config/config##radbuttop" text="fixedsearch">
+<$button tooltip={{$:/language/Buttons/AdvancedSearch/Hint}} aria-label={{$:/language/Buttons/AdvancedSearch/Caption}} class="tc-btn-invisible">
+<<jdconfig searchbar no>>
+<<jdconfig topbar {{$:/plugins/jd/mob/config/config##topbarchoice}}>>
+<$action-setfield $tiddler="$:/temp/advancedsearch" text={{$:/temp/search}}/>
+<$action-setfield $tiddler="$:/temp/search" text=""/>
+<$action-navigate $to="$:/AdvancedSearch"/>
+{{$:/core/images/advanced-search-button}}
+</$button>
+<$button class="tc-btn-invisible" tooltip="Clear and hide searchbar">
+<<jdconfig searchbar no>>
+<<jdconfig topbar {{$:/plugins/jd/mob/config/config##topbarchoice}}>>
+<$action-setfield $tiddler="$:/temp/advancedsearch" text=""/>
+<$action-setfield $tiddler="$:/temp/search" text=""/>
+{{$:/core/images/close-button}}
+</$button>
+</$reveal>
+</div>
+<div class="jd-search-results">
+<$list filter="[[$:/temp/search]!text[]]" variable="statecheck">
+<$scrollable fallthrough="no" class="results">
+<$set name="searchTiddler" value="$:/temp/search">
+<$list filter="[all[shadows+tiddlers]tag[$:/tags/SearchResults]!has[draft.of]butfirst[]limit[1]]" emptyMessage="""
+<$list filter="[all[shadows+tiddlers]tag[$:/tags/SearchResults]!has[draft.of]]">
+<$transclude/>
+</$list>
+""">
+<$macrocall $name="tabs" tabsList="[all[shadows+tiddlers]tag[$:/tags/SearchResults]!has[draft.of]]" default={{$:/config/SearchResults/Default}}/>
+</$list>
+</$set>
+</$scrollable>
+</$list>
+</div>
+</div>
+</$reveal>
+
+<$reveal state="$:/plugins/jd/mob/config/config##searchbarchoice" type="match" text="combined">
+<div class="jd-search">
+<$keyboard class="jd-searchwrapper" tag="div" key="ctrl+space" actions=<<NewTidActions "$:/temp/advancedsearch">>>
+<$linkcatcher to="$:/temp/advancedsearch">
+<$edit-text tiddler="$:/temp/advancedsearch" type="search" tag="input" placeholder={{$:/language/Search/Search}} class="jd-searchbar"/>
+</$linkcatcher>
+</$keyboard>
+<div class="jd-search-buttons">
+<$list filter="[[$:/temp/advancedsearch]!text[]]" variable="statecheck">
+<<NewTidBtn "$:/temp/advancedsearch">>
+</$list>
+{{$:/core/ui/AdvancedSearch/Filter/FilterButtons/delete}}
+{{$:/core/ui/AdvancedSearch/Filter/FilterButtons/dropdown}}
+{{$:/core/ui/AdvancedSearch/Filter/FilterButtons/export}}
+<$reveal type="match" state="$:/plugins/jd/mob/config/config##radbuttop" text="fixedsearch">
+{{$:/core/ui/AdvancedSearch/Filter/FilterButtons/clear}} 
+</$reveal>
+<$reveal type="nomatch" state="$:/plugins/jd/mob/config/config##radbuttop" text="fixedsearch">
+<$button class="tc-btn-invisible" tooltip="Clear and hide searchbar">
+<<jdconfig searchbar no>>
+<<jdconfig topbar {{$:/plugins/jd/mob/config/config##topbarchoice}}>>
+<$action-setfield $tiddler="$:/temp/advancedsearch" text=""/>
+<$action-setfield $tiddler="$:/temp/search" text=""/>
+{{$:/core/images/close-button}}
+</$button>
+</$reveal>
+</div>
+<div class="jd-search-results">
+<!--STANDARD-->
+<$list filter="[[$:/temp/advancedsearch]!text[]]" variable="statecheck">
+<br>
+<$list filter="[{$:/temp/advancedsearch}minlength{$:/config/Search/MinLength}limit[1]]" emptyMessage="""{{$:/language/Search/Search/TooShort}}""" variable="listItem">
+<$set name="searchTiddler" value="$:/temp/advancedsearch">
+<$list filter="[all[shadows+tiddlers]tag[$:/tags/SearchResults]!has[draft.of]butfirst[]limit[1]]" emptyMessage="""
+<$list filter="[all[shadows+tiddlers]tag[$:/tags/SearchResults]!has[draft.of]]">
+<$transclude/>
+</$list>
+""">
+<$macrocall $name="tabs" tabsList="[all[shadows+tiddlers]tag[$:/tags/SearchResults]!has[draft.of]]" default={{$:/config/SearchResults/Default}}/>
+</$list>
+</$set>
+</$list>
+</$list>
+<!--STANDARD-->
+<!--FILTER-->
+<$list filter="[[$:/temp/advancedsearch]!text[]]" variable="statecheck">
+<br><br>
+<$set name="resultCount" value="""<$count filter={{$:/temp/advancedsearch}}/>""">
+Filter search: <<lingo Filter/Matches>>
+<$list filter={{$:/temp/advancedsearch}} template="$:/core/ui/ListItemTemplate"/>
+</$set>
+</$list>
+<!--FILTER-->
+<!--SYSTEM-->
+<$list filter="[[$:/temp/advancedsearch]!text[]]" variable="statecheck">
+<br>
+<$list filter="[{$:/temp/advancedsearch}minlength{$:/config/Search/MinLength}limit[1]]" variable="listItem">
+<$set name="resultCount" value="""<$count filter="[is[system]search{$:/temp/advancedsearch}] -[[$:/temp/advancedsearch]]"/>""">
+System search: <<lingo System/Matches>>
+<$list filter="[is[system]search{$:/temp/advancedsearch}sort[title]limit[250]] -[[$:/temp/advancedsearch]]" template="$:/core/ui/ListItemTemplate"/>
+</$set>
+</$list>
+</$list>
+<!--SYSTEM-->
+<!--SHADOWS-->
+<$list filter="[[$:/temp/advancedsearch]!text[]]" variable="statecheck">
+<br>
+<$list filter="[{$:/temp/advancedsearch}minlength{$:/config/Search/MinLength}limit[1]]" variable="listItem">
+<$set name="resultCount" value="""<$count filter="[all[shadows]search{$:/temp/advancedsearch}] -[[$:/temp/advancedsearch]]"/>""">
+Shadows search: <<lingo Shadows/Matches>>
+<$list filter="[all[shadows]search{$:/temp/advancedsearch}sort[title]limit[250]] -[[$:/temp/advancedsearch]]" template="$:/core/ui/ListItemTemplate"/>
+</$set>
+</$list>
+</$list>
+<!--SHADOWS-->
+</div>
+</div>
+</$reveal>
+</$reveal>
