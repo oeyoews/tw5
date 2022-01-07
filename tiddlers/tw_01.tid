@@ -1,5 +1,5 @@
 created: 20211227014417891
-modified: 20211229174125486
+modified: 20220107065346812
 tags: tw
 title: tw/01
 tmap.id: ce6bbd64-4944-405c-8aef-c7c0374ad813
@@ -7,3 +7,7 @@ type: text/vnd.tiddlywiki
 
 # command
 > `tiddlywiki [dirname] --build index`
+
+* [[cheatsheet pdf tw|https://www.appservgrid.com/refcards/refcards/cheatography/tiddlywiki.pdf]]
+
+* [[img usage|https://tiddlywiki.com/static/Images%2520in%2520WikiText.html]]
