@@ -1,6 +1,6 @@
 created: 20220105054347541
-modified: 20220105054347541
+modified: 20220107165310446
 title: $:/keepstate/trashbin/sort
 type: text/vnd.tiddlywiki
 
-sortan[title]
+sort[modified]

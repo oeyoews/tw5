@@ -1,7 +1,0 @@
-author: Stephen Kimmel
-description: Color Text and Highlight
-list: Color List
-plugin-type: plugin
-title: $:/plugins/sk/ColorText
-type: application/json
-version: 0.0.4

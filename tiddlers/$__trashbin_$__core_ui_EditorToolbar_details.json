@@ -1,0 +1,15 @@
+{
+    "title": "$:/core/ui/EditorToolbar/details",
+    "created": "20220105052146058",
+    "modified": "20220105052325853",
+    "tags": "$:/tags/EditorToolbar",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<$action-sendmessage\n\t$message=\"tm-edit-text-operation\"\n\t$param=\"wrap-selection\"\n\tprefix=\"\"\"<$details summary=\"Details\" open=\"no\">\n\n\"\"\"\n\tsuffix=\"\"\"\n\n<$/details>\"\"\"\n/>",
+    "bag": "default",
+    "caption": "{{$:/language/Buttons/details/Caption}}",
+    "condition": "[<targetTiddler>!has[type]] [<targetTiddler>type[text/vnd.tiddlywiki]]",
+    "description": "{{$:/language/Buttons/details/Hint}}",
+    "icon": "$:/core/images/details",
+    "shortcuts": "((details))",
+    "revision": "2"
+}
