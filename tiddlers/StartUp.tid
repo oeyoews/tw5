@@ -1,10 +1,9 @@
 created: 20211227055710846
-modified: 20220105053431007
+modified: 20220107100559929
 tags: custom
 title: StartUp
 tmap.id: bfee6863-d0f5-4563-ac7e-27502e30ffde
 type: text/vnd.tiddlywiki
-
 
 \import [[$:/core/ui/PageMacros]] [all[shadows+tiddlers]tag[$:/tags/Macro]!has[draft.of]]
 \rules only filteredtranscludeinline transcludeinline macrocallinline
