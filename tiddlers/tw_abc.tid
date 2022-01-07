@@ -1,0 +1,26 @@
+created: 20220107081051997
+modified: 20220107082346572
+tags: tw shortkeys
+title: tw/abc
+type: text/vnd.tiddlywiki
+
+* <kbd>alt e </kbd> 
+> creat new tiddler
+
+* <kbd>alt j </kbd>
+> creat new journal tiddler
+
+* <kbd>ctrl f </kbd>
+> common search
+
+* <kbd>alt l </kbd>
+> advance search
+
+* <kbd>ctrl shift i</kbd>
+> insert image
+
+* <kbd>ctrl s </kbd>
+> insert snippets
+
+* <kbd>shift enter </kbd>
+> insert newline 

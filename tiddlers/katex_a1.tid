@@ -1,5 +1,5 @@
 created: 20220107065418076
-modified: 20220107070026086
+modified: 20220107083202967
 tags: usage katex
 title: katex/a1
 type: text/vnd.tiddlywiki
@@ -14,3 +14,5 @@ type: text/vnd.tiddlywiki
 # $$\Sigma$$
 
 * [[katex usage|https://katex.org/docs/supported.html]]
+
+* [[latex|https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols]]
