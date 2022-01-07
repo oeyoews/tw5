@@ -1,16 +1,19 @@
 created: 20220107152809357
-modified: 20220107171614993
+modified: 20220107174346593
 tags: English
 title: english/a1
 type: text/vnd.tiddlywiki
 
-!!sentence 1
-&nbsp;&nbsp;&nbsp;&nbsp;This success, @@color:purple;coupled with@@ later research showing that memory itself is not genetically @@color:green;determined@@, led Ericsson to conclude that the act of memorizing is more of a @@color:green;cognitive@@ exercise than an intuitive on.
+!!sentence
+<p style="text-indent:2em">
+__This success__, @@color:purple;coupled with@@ __later research__ showing that memory itself is not genetically @@color:green;determined@@, led Ericsson to conclude that the act of memorizing is more of a @@color:green;cognitive@@ exercise than an intuitive one.
+</p>
 
 <hr>
 
 !! comments
-* @@background-color:LightCyan;cognitive@@  认知的（后天习得的）<details>
+* @@background-color:LightCyan;cognitive@@  认知的（后天习得的）
+<<<
 """
 Nature先天；
 nurture后天；
@@ -19,8 +22,8 @@ made 后天的；
 innate天生的；
 Acquired后天习得；
 """
-</details>
+<<<
 
-* Coupled with 相当于and,想类似的表达还有along with ; combined with等。
+* coupled with 相当于and,类似的表达还有along with ; combined with等。
 
 * determine 决定

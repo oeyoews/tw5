@@ -1,18 +1,26 @@
 created: 20220107164511699
-modified: 20220107170718916
+modified: 20220107173232101
 tags: journal
 title: 2022/1/8
 type: text/vnd.tiddlywiki
 
+<div class="left-column">
 
+hello
 
+</div>
 
+<div class="right-column">
+
+this is sdemo
+
+</div>
 <hr>
+# demo
 
 
-| hello | demo |
-| demo | > demo|
-| -------| d|
 
------
+this si ademo<br>
 
+
+demo 

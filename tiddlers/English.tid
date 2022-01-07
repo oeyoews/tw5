@@ -1,8 +1,9 @@
 created: 20220107153519708
-modified: 20220107171733916
+modified: 20220107174709072
 tags: Index
 title: English
 type: text/vnd.tiddlywiki
+
 
 <div class="tc-table-of-contents">
 
@@ -10,4 +11,10 @@ type: text/vnd.tiddlywiki
 
 </div>
 
-<<tabs tabsList:"[tag[English]]" default:"" class:"tc-vertical">>
+<hr>
+
+<<tabs tabsList:"[tag[English]]" default:"english/a1" class:"tc-vertical">>
+
+<hr>
+
+> [[English 66 link|https://zhuanlan.zhihu.com/p/115354484]]
