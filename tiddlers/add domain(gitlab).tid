@@ -1,10 +1,10 @@
 created: 20211227071150990
-modified: 20211227072949004
+modified: 20220107111036341
 tags: Index
 title: add domain(gitlab)
 tmap.id: 836c5f2c-b605-4537-ab2f-d0e18697f2a7
 type: text/vnd.tiddlywiki
 
-* need add two record(txt and cname)
+* need add two record(txt and cname)<br>
 * note this txt record need split this value and host
-# if enable https, that's prove this website is safe(need get encrypt book)
+* if enable https, that's prove this website is safe(need get encrypt book)
