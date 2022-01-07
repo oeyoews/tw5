@@ -2,3 +2,6 @@ output
 node_modules
 nohup*
 tiddlers/\$__StoryList*
+tiddlers/\$__themes_nico_notebook_ui_Bottombar.tid
+tiddlers/\$__themes_nico_notebook_ui_Sidebar.tid
+tiddlers/\$__themes_nico_notebook_ui_Topbar.tid
