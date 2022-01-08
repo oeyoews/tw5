@@ -1,7 +1,7 @@
 created: 20211229104044149
-modified: 20220108083102519
+modified: 20220108133823719
 tags: Tip
-title: bat
+title: window/tw/bat
 tmap.id: de7621ec-224c-4160-8e62-ef9dcfdf4c49
 type: text/vnd.tiddlywiki
 
@@ -10,3 +10,9 @@ cd C:/User/xxxx
 start /b tiddlywiki --listen
 start "xxxx.msedge.exe" http://127.0.0.1:8080
 ```
+
+!!! dependcied
+* node
+* tiddlywiki(npm i -g tiddlywiki)
+* git(optional)
+* microsoft(default)
