@@ -1,0 +1,32 @@
+caption: English 66 template
+created: 20220108060133388
+modified: 20220108094204809
+tags: $:/tags/TextEditor/Snippet snippets
+title: English 66
+type: text/vnd.tiddlywiki
+
+!!!sentence
+<p style="text-indent:2em">
+
+</p>
+
+<hr>
+
+!!! translate
+<p style="text-indent:2em">
+
+</p>
+
+<hr>
+
+!!! vocabulary
+<p style="text-indent:2em">
+
+</p>
+
+<hr>
+
+!!! analyze
+<p style="text-indent:2em">
+
+</p>

@@ -1,5 +1,5 @@
 created: 20211227064117498
-list: $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/info $:/core/ui/Buttons/new-here $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/delete $:/plugins/kookma/trashbin/ui/toolbar-button $:/core/ui/Buttons/clone $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/core/ui/Buttons/fold-bar $:/core/ui/Buttons/open-window $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold $:/core/ui/Buttons/close-others $:/plugins/nico/projectify/ui/buttons/ToggleTodo $:/core/ui/Buttons/export-tiddler $:/plugins/Gk0Wk/page-toc/PageTOCButton $:/core/ui/Buttons/edit $:/core/ui/Buttons/close
-modified: 20220105054703180
+list: $:/plugins/nico/projectify/ui/buttons/ToggleTodo $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold-bar $:/core/ui/Buttons/fold $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/info $:/core/ui/Buttons/new-here $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/delete $:/plugins/kookma/trashbin/ui/toolbar-button $:/core/ui/Buttons/clone $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/core/ui/Buttons/open-window $:/core/ui/Buttons/export-tiddler $:/plugins/Gk0Wk/page-toc/PageTOCButton $:/core/ui/Buttons/edit $:/core/ui/Buttons/close-others $:/core/ui/Buttons/close
+modified: 20220108093231603
 title: $:/tags/ViewToolbar
 type: text/vnd.tiddlywiki

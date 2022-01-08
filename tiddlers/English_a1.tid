@@ -1,24 +1,24 @@
 created: 20220107152809357
-modified: 20220108060523081
+modified: 20220108094350823
 tags: English
-title: english/a1
+title: English/a1
 type: text/vnd.tiddlywiki
 
-!!sentence
+!!! sentence
 <p style="text-indent:2em">
 __This success__, @@color:purple;coupled with@@ __later research__ showing that memory itself is not genetically @@color:green;determined@@, @@color:White;background-color:Red;led@@ Ericsson to conclude that the act of memorizing is more of a @@color:green;cognitive@@ exercise than an intuitive one.
 </p>
 
 <hr>
 
-!! translate
+!!! translate
 <p style="text-indent:2em">
 译文赏析：这种成功和后来表明记忆本身并不是先天决定的研究使爱立信总结道，记忆的行为与其说是一种先天的行为不如说是一种习得的行为。
 </p>
 
 <hr>
 
-!! vocabulary
+!!! vocabulary
 * @@background-color:LightCyan;cognitive@@  认知的（后天习得的）
 <<<
 """
@@ -37,7 +37,7 @@ Acquired后天习得；
 
 <hr>
 
-!! analyze
+!!! analyze
 * more ... than 与其说， 不如说
 
 * 由于主语中的第二个并列成分比较长，且是用两个逗号隔开的，在阅读的时候可以跳读；把This success和动词led先连起来然后再来解析其他成分。
