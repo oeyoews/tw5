@@ -1,13 +1,14 @@
 created: 20220107152809357
-modified: 20220107180556373
+modified: 20220108060523081
 tags: English
 title: english/a1
 type: text/vnd.tiddlywiki
 
 !!sentence
 <p style="text-indent:2em">
-__This success__, @@color:purple;coupled with@@ __later research__ showing that memory itself is not genetically @@color:green;determined@@, led Ericsson to conclude that the act of memorizing is more of a @@color:green;cognitive@@ exercise than an intuitive one.
+__This success__, @@color:purple;coupled with@@ __later research__ showing that memory itself is not genetically @@color:green;determined@@, @@color:White;background-color:Red;led@@ Ericsson to conclude that the act of memorizing is more of a @@color:green;cognitive@@ exercise than an intuitive one.
 </p>
+
 <hr>
 
 !! translate
@@ -17,7 +18,7 @@ __This success__, @@color:purple;coupled with@@ __later research__ showing that 
 
 <hr>
 
-!! comments
+!! vocabulary
 * @@background-color:LightCyan;cognitive@@  认知的（后天习得的）
 <<<
 """
@@ -33,3 +34,12 @@ Acquired后天习得；
 * coupled with 相当于and,类似的表达还有along with ; combined with等。
 
 * determine 决定
+
+<hr>
+
+!! analyze
+* more ... than 与其说， 不如说
+
+* 由于主语中的第二个并列成分比较长，且是用两个逗号隔开的，在阅读的时候可以跳读；把This success和动词led先连起来然后再来解析其他成分。
+
+* 其他成分：在research后面接一个现在分词短语做后置定语，在这个现在分词短语中that引导的从句做showing 的宾语；在不定式短语中that引导的从句做conclude的宾语；
