@@ -1,5 +1,5 @@
 created: 20211229104044149
-modified: 20220108133823719
+modified: 20220108144838159
 tags: Tip
 title: window/tw/bat
 tmap.id: de7621ec-224c-4160-8e62-ef9dcfdf4c49
@@ -16,3 +16,9 @@ start "xxxx.msedge.exe" http://127.0.0.1:8080
 * tiddlywiki(npm i -g tiddlywiki)
 * git(optional)
 * microsoft(default)
+
+<hr>
+
+!!! cmd
+* `cls` clear window cmd screen
+* `powershell` in <kbd>win+r </kbd> input
