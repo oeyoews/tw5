@@ -1,9 +1,10 @@
 created: 20220108160837818
-modified: 20220108161053071
+modified: 20220108163151612
 tags: Win
 title: win/soft
 type: text/vnd.tiddlywiki
 
+!!! download soft
 * [[soft website|https://pc.qq.com]]
 
 * wps
@@ -11,3 +12,9 @@ type: text/vnd.tiddlywiki
 * bandzip
 * git
 * node
+
+<hr>
+
+!!! settings
+* active your pc
+* change default imput method to english

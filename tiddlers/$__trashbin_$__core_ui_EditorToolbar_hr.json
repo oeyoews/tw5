@@ -1,0 +1,10 @@
+{
+    "created": "20220108072443921",
+    "text": "<$action-sendmessage\n\t$message=\"tm-edit-text-operation\"\n\t$param=\"replace-selection\"\n        text=\"<hr>\"\n/>",
+    "title": "$:/core/ui/EditorToolbar/hr",
+    "tags": "$:/tags/EditorToolbar",
+    "modified": "20220108072555373",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "2",
+    "bag": "default"
+}

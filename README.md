@@ -3,6 +3,7 @@
 * install cmake node git
 * type make in current directory
 
-### window
+### Window
 * install node git
+* npm i -g tiddlywiki(important)
 * click run.bat
