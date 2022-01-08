@@ -1,0 +1,10 @@
+caption: big quote
+created: 20220108113641128
+modified: 20220108113707028
+tags: $:/tags/TextEditor/Snippet snippets
+title: big quote
+type: text/vnd.tiddlywiki
+
+<<<.tc-big-quote
+'' ''
+<<<

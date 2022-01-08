@@ -1,9 +1,0 @@
-caption: echarts
-created: 20220105155203835
-modified: 20220105155302246
-tags: $:/tags/TextEditor/Snippet snippets
-title: echarts-snippet
-tmap.id: 635df888-ba14-41d6-af7a-eea46dc4b7b3
-type: text/vnd.tiddlywiki
-
-<$echarts $tiddler=""/>
