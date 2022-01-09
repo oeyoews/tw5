@@ -1,10 +1,12 @@
 caption: big quote
 created: 20220108113641128
-modified: 20220108113707028
+modified: 20220109134059050
 tags: $:/tags/TextEditor/Snippet snippets
-title: big quote
+title: bq
 type: text/vnd.tiddlywiki
 
-<<<.tc-big-quote
-'' ''
+<<<.tc-big-quote''
+''
+
+''
 <<<
