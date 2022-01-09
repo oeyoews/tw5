@@ -1,0 +1,12 @@
+created: 20220109063647809
+modified: 20220109063816511
+tags: Tw usage
+title: Tw usage
+type: text/vnd.tiddlywiki
+
+<<wikitext-example-without-html 
+src:"""; define this is ademo
+: hello thisi s ad emo
+; test define
+: hello
+""">>

@@ -1,0 +1,10 @@
+created: 20220109065602364
+modified: 20220109065917834
+tags: usage Tw
+title: tw table usage
+type: text/vnd.tiddlywiki
+
+|! one | ! sedon| !three|
+| 1   | 2| 3|h
+|>|^merge| hello|
+| bootom|demo| hello|f

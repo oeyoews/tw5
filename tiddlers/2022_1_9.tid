@@ -1,5 +1,5 @@
 created: 20220109062338583
-modified: 20220109062423855
+modified: 20220109065255263
 tags: Journal
 title: 2022/1/9
 type: text/vnd.tiddlywiki
@@ -11,4 +11,13 @@ type: text/vnd.tiddlywiki
 : demo 
 ::: demo 
 :::: demo 
+<!-- hello 
+-->
 
+<!-- hello thisi s sa comment
+-->
+
+@@.tc-tiddler-frame
+@@width:200px;
+Some text
+@@
