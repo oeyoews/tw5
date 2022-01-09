@@ -1,10 +1,13 @@
 created: 20211226162054727
 creator: oeyoews
-modified: 20220108081551891
+due: 20220113132019674
+factor: 2.65
+interval: 4.00
+modified: 20220109132019678
 modifier: oeyoews
 priority: high
 status: complete
-tags: Task Untagged
+tags: Task $:/tags/Commander/Working ?
 title: New Tiddler
 tmap.id: 944c0ca8-462d-46c6-ae5b-770715802dfa
 type: text/vnd.tiddlywiki
