@@ -1,7 +1,7 @@
 created: 20211226094152512
-modified: 20220109164925605
+modified: 20220109175534361
 tags: Custom
-title: Add Fastly
+title: Add fastly
 tmap.id: 557adc2f-6f22-45b7-9125-a7b591d17f72
 type: text/vnd.tiddlywiki
 
@@ -12,6 +12,12 @@ type: text/vnd.tiddlywiki
 		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY/MM/DD">> tags="Journal" class="notebook" />
 	Journal
 	</$button>
+
+<$button>
+		<$action-sendmessage $message="tm-new-tiddler" title=<<now "">> tags="?" />
+	?
+	</$button>	
+
 
 	<$button>
 		<$action-sendmessage $message="tm-new-tiddler" title="xxx" text="""<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />""" tags="Index" />

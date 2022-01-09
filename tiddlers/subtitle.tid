@@ -1,13 +1,12 @@
 created: 20220109112901644
-modified: 20220109135730385
+modified: 20220109174610892
 tags: Custom
 title: subtitle
 type: text/vnd.tiddlywiki
 
-<div style="color:DarkGray;font-size:90%;" align="Left">v0.9.3<br/>
+<div style="color:DarkGray;font-size:90%;" align="Left">
 <$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
 <$view field="modified" format="date" template="YYYY-0MM-0DD"/> updated<br/>
-<hr>
 🌃 broken thoughts
 </$list>
 </div>
