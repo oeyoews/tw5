@@ -1,11 +1,12 @@
 created: 20220108094220755
-modified: 20220108094246679
+modified: 20220109062445820
 tags: English
 title: English/a3
 type: text/vnd.tiddlywiki
 
 !!!sentence
 <p style="text-indent:2em">
+<!-- write here -->
 
 </p>
 
@@ -13,6 +14,7 @@ type: text/vnd.tiddlywiki
 
 !!! translate
 <p style="text-indent:2em">
+<!-- write here -->
 
 </p>
 
@@ -20,6 +22,7 @@ type: text/vnd.tiddlywiki
 
 !!! vocabulary
 <p style="text-indent:2em">
+<!-- write here -->
 
 </p>
 
@@ -27,5 +30,6 @@ type: text/vnd.tiddlywiki
 
 !!! analyze
 <p style="text-indent:2em">
+<!-- write here -->
 
 </p>

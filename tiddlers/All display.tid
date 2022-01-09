@@ -1,0 +1,14 @@
+caption: all display
+created: 20220109062852994
+modified: 20220109063011137
+tags: $:/tags/TextEditor/Snippet snippets
+title: All display
+type: text/vnd.tiddlywiki
+
+<<tabs tabsList:"[tag[]]" default:"" class:"tc-vertical">>
+
+<hr>
+
+<div class="tc-table-of-contents">
+<<toc-selective-expandable ''>>
+</div>
