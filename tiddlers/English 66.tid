@@ -1,15 +1,19 @@
 caption: English 66 template
 created: 20220108060133388
-modified: 20220109062323580
+modified: 20220109082850651
 tags: $:/tags/TextEditor/Snippet snippets
 title: English 66
 type: text/vnd.tiddlywiki
 
 !!!sentence
+<<<.tc-big-quote
+'' 
 <p style="text-indent:2em">
 <!-- write here -->
 
 </p>
+''
+<<<
 
 <hr>
 
