@@ -1,11 +1,14 @@
 created: 20220109062338583
-modified: 20220109071422334
+modified: 20220109072653561
 tags: Custom
 title: inner wiki examples
 type: text/vnd.tiddlywiki
 
-<$innerwiki width="1200" height="400" style="width:90%;" filename="screenshot-1.png">
+<$innerwiki width="1200" height="600" style="width:90%;" filename="screenshot-1.png">
 	<$data title="clean cache" text="This tiddler is inside a wiki"/>
 
 	<$data title="$:/DefaultTiddlers" text="[[clean cache]]"/>
 </$innerwiki>
+
+<hr>
+
