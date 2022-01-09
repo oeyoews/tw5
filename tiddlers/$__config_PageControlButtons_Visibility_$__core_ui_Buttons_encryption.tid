@@ -1,6 +1,6 @@
 created: 20220109075700264
-modified: 20220109075700264
+modified: 20220109181547941
 title: $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/encryption
 type: text/vnd.tiddlywiki
 
-show
+hide
