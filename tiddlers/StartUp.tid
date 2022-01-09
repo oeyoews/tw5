@@ -1,6 +1,6 @@
 created: 20211227055710846
-modified: 20220107175644809
-tags: Custom
+modified: 20220109170507435
+tags: Custom $:/tags/RawMarkupWikified/TopBody
 title: StartUp
 tmap.id: bfee6863-d0f5-4563-ac7e-27502e30ffde
 type: text/vnd.tiddlywiki
@@ -10,8 +10,6 @@ type: text/vnd.tiddlywiki
 
 <div class="tc-remove-when-wiki-loaded">
 <style scoped>
-
-<!-- $:/tags/RawMarkupWikified/TopBody  -->
 
 .tc-splash-text {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -86,21 +84,11 @@ html body.tc-body {
 </div>
 
 <div class="tc-splash-text">
-<!--<div class="tc-splash-text">-->
-<!--{{$:/SiteTitle}} <br />loading-->
 Loading
 </div>
 
 
-
-<!-- 
-Demonstrating how to embed a bitmap graphic 
--->
 <div class="tc-splash-text">
-<!--
-<img src="data:image/jpeg;base64,{{New Release Banner||$:/core/templates/plain-text-tiddler}}" width="100"/>
-</div>
--->
 
 <div class="tc-splash-text">
 {{$:/core/icon||$:/core/templates/plain-text-tiddler}}

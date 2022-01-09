@@ -1,7 +1,7 @@
 created: 20220104152851413
-modified: 20220107100734919
-tags: $:/tags/RawMarkupWikified/TopBody
+modified: 20220109170031345
+tags: 
 title: $:/SplashScreen
 type: text/vnd.tiddlywiki
 
-{{$:/xp/SplashScreen/layouts/wave}}
+{{$:/xp/SplashScreen/layouts/simple}}

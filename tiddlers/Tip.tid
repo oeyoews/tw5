@@ -1,8 +1,10 @@
 created: 20220108082756901
-modified: 20220108083102524
-tags: Tip Index
+modified: 20220109171035815
+tags: Index
 title: Tip
 type: text/vnd.tiddlywiki
+
+<<tabs tabsList:"[tag[Tip]]" default:"tips/1" class:"tc-vertical">>
 
 <div class="tc-table-of-contents">
 
