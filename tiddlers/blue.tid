@@ -1,0 +1,9 @@
+caption: blue block
+created: 20220109083140834
+modified: 20220109145154316
+tags: $:/tags/TextEditor/Snippet
+title: blue
+type: text/vnd.tiddlywiki
+
+ <<alert primary "
+ " width:100%>>

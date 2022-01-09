@@ -1,0 +1,29 @@
+class: notebook
+created: 20220109151153757
+modified: 20220109151735422
+tags: ?
+title: untitle 41
+type: text/vnd.tiddlywiki
+
+Using the `bisection` method find one root of a quadratic equation.
+
+Develop a python Program including:
+
+* a function to define the quadratic equation
+* a function to get the equation and the interval
+* a main function to call the bisection solver and print the results
+
+
+For example the Python function below implements the quadratic equation.
+
+```
+def quadratic(a, b, c, x):
+    y = a*x*x + b*x + c
+    return y;
+```
+
+<<tc src:"""
+
+;Due Date
+:26th October 2018
+""" color:"darkred">>

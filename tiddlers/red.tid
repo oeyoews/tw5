@@ -1,0 +1,9 @@
+caption: warning
+created: 20220109145200190
+modified: 20220109145223797
+tags: $:/tags/TextEditor/Snippet snippets
+title: red
+type: text/vnd.tiddlywiki
+
+ <<alert warning "
+ " width:100%>>

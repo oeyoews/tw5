@@ -1,0 +1,9 @@
+caption: quote
+created: 20220109145321097
+modified: 20220109145408841
+tags: $:/tags/TextEditor/Snippet snippets
+title: quote
+type: text/vnd.tiddlywiki
+
+ <<alert primary src:"
+ " class:"leftbar border-primary">>
