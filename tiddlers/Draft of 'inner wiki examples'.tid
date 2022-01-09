@@ -1,0 +1,13 @@
+created: 20220109062338583
+draft.of: inner wiki examples
+draft.title: inner wiki examples
+modified: 20220109071440462
+tags: Custom
+title: Draft of 'inner wiki examples'
+type: text/vnd.tiddlywiki
+
+<$innerwiki width="1200" height="400" style="width:90%;" filename="screenshot-1.png">
+	<$data title="clean cache" text="This tiddler is inside a wiki"/>
+
+	<$data title="$:/DefaultTiddlers" text="[[clean cache]]"/>
+</$innerwiki>
