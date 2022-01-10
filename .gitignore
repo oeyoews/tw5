@@ -1,4 +1,5 @@
 output
+public
 node_modules
 nohup*
 .log.txt
