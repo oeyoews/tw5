@@ -1,4 +1,4 @@
-git pull
+REM git pull
 
 start /b tiddlywiki --listen port=8090  > .log.txt 2>&1
 
