@@ -1,5 +1,5 @@
 created: 20220109112901644
-modified: 20220110060203886
+modified: 20220110142903438
 tags: Custom
 title: footer
 type: text/vnd.tiddlywiki
@@ -10,7 +10,5 @@ type: text/vnd.tiddlywiki
 <$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss"/> 
 updated<br>
 
-tips: 
-use computer to open website for better view
 </$list>
 </div>

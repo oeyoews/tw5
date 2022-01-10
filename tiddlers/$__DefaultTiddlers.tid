@@ -1,8 +1,9 @@
 created: 20211226085757869
 creator: oeyoews
-modified: 20220106043634388
+modified: 20220110142729205
 modifier: oeyoews
 title: $:/DefaultTiddlers
 type: text/vnd.tiddlywiki
 
-[[Index]]
+Index
+[list[$:/StoryList]]
