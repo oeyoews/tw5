@@ -2,7 +2,7 @@ class: notebook
 created: 20220110064850710
 creator: oeyoews
 icon: 
-modified: 20220110143354858
+modified: 20220110153024878
 modifier: oeyoews
 page-cover: 
 stream-list: 
@@ -11,4 +11,4 @@ tags: Journal
 title: 2022/01/10
 type: text/vnd.tiddlywiki
 
-> be simple hello this is ad emo 
+git push -u url
