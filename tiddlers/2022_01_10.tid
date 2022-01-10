@@ -1,7 +1,10 @@
+class: notebook
 created: 20220110064850710
-modified: 20220110070057675
+modified: 20220110085504862
 stream-list: 2022/01/10/20220110070031923 2022/01/10/20220110070036802
 stream-type: default
 tags: Journal
 title: 2022/01/10
 type: text/vnd.tiddlywiki
+
+hello
