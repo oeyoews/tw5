@@ -1,11 +1,11 @@
 caption: add english template
 created: 20220108060133388
-modified: 20220109152214088
+modified: 20220110113419052
 tags: $:/tags/TextEditor/Snippet snippets
 title: english66
 type: text/vnd.tiddlywiki
 
-!!!.text-primary sentence
+!!! sentence
 <<<.tc-big-quote
 '' 
 <p style="text-indent:2em">
@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
 
 <hr>
 
-!!!.text-primary  translate
+!!! translate
 <p style="text-indent:2em">
 <!-- write here -->
 
@@ -25,16 +25,13 @@ type: text/vnd.tiddlywiki
 
 <hr>
 
-!!!.text-primary  vocabulary
-<p style="text-indent:2em">
-<!-- write here -->
+!!! vocabulary
+"""
 
-</p>
-
+"""
 <hr>
 
-!!!.text-primary  analyze
-<p style="text-indent:2em">
-<!-- write here -->
+!!!  analyze
+"""
 
-</p>
+"""
