@@ -9,6 +9,6 @@
     "tiddlywiki": "5.2.1"
   },
   "scripts": {
-    "build": "tiddlywiki --output public --build index",
+    "build": "tiddlywiki --output public --build index"
   }
 }
