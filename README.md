@@ -3,7 +3,7 @@
 * install cmake node git
 * type make in current directory
 
-### Window
+## Window
 ### methos 1
 * install node git
 * npm i -g tiddlywiki(important)
