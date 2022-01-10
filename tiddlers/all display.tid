@@ -1,8 +1,8 @@
 caption: all display
 created: 20220109062852994
-modified: 20220109063011137
+modified: 20220110135247571
 tags: $:/tags/TextEditor/Snippet snippets
-title: All display
+title: all display
 type: text/vnd.tiddlywiki
 
 <<tabs tabsList:"[tag[]]" default:"" class:"tc-vertical">>
