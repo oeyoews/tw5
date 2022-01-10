@@ -9,9 +9,6 @@
     "tiddlywiki": "5.2.1"
   },
   "scripts": {
-    "version-tw": "tiddlywiki --version",
-    "build": "tiddlywiki --build index",
-    "clean-pub": "rm -rf public",
-    "deploy": "mkdir public && cp output/* public && cp -r files public/"
+    "build": "tiddlywiki --output public --build index",
   }
 }
