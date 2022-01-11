@@ -1,6 +1,6 @@
 created: 20211227133034120
-modified: 20220105173933153
+modified: 20220111145302172
 title: $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/advanced-search
 type: text/vnd.tiddlywiki
 
-hide
+show
