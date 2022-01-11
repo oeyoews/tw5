@@ -1,0 +1,13 @@
+author: TonGerner
+core-version: >=5.1.15
+created: 20191228205111942
+description: Tiddlersbar
+list: readme license
+modified: 20191228211019421
+name: Tiddlersbar
+plugin-type: plugin
+source: http://tw5custom.tiddlyspot.com/
+tags: 
+title: $:/plugins/tg/tiddlersbar
+type: application/json
+version: 0.0.19

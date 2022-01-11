@@ -1,0 +1,12 @@
+author: TonGerner
+core-version: >=5.1.15
+created: 20191229162947753
+description: Exploration
+list: readme license
+modified: 20191229163013371
+name: Exploration
+plugin-type: plugin
+source: http://tongerner.tiddlyspot.com/
+title: $:/plugins/tg/exploration
+type: application/json
+version: 0.0.10
