@@ -1,0 +1,19 @@
+{
+    "created": "20220111082447356",
+    "text": "",
+    "creator": "oeyoews",
+    "title": "$:/core/ui/EditorToolbar/preview",
+    "tags": "$:/tags/EditorToolbar",
+    "modified": "20220111084354863",
+    "modifier": "oeyoews",
+    "type": "text/vnd.tiddlywiki",
+    "icon": "$:/core/images/preview-open",
+    "custom-icon": "yes",
+    "caption": "{{$:/language/Buttons/Preview/Caption}}",
+    "description": "{{$:/language/Buttons/Preview/Hint}}",
+    "condition": "[<targetTiddler>]",
+    "button-classes": "tc-text-editor-toolbar-item-start-group",
+    "shortcuts": "((preview))",
+    "revision": "1",
+    "bag": "default"
+}
