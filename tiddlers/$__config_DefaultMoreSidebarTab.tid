@@ -1,6 +1,6 @@
 created: 20211228124743327
-modified: 20220104151506035
+modified: 20220111135812169
 title: $:/config/DefaultMoreSidebarTab
 type: text/vnd.tiddlywiki
 
-$:/core/ui/MoreSideBar/Tags
+$:/core/ui/MoreSideBar/All
