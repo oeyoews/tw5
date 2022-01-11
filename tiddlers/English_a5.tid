@@ -1,17 +1,21 @@
 created: 20220111090552354
-modified: 20220111090804346
+creator: oeyoews
+modified: 20220111122257124
+modifier: oeyoews
+stream-list: English/a5/20220111122257120
+stream-type: default
 tags: English
 title: English/a5
 type: text/vnd.tiddlywiki
 
 !!! Sentence
 <<<
-'' 
 <p style="text-indent:2em">
 <!-- write here -->
-Much of the language used to describe monetary policy, such as "steering the economy to a soft landing" or "a touch on the brakes" , makes it sound like a precise science. Nothing could be further from the truth.
-</p>
+'' 
+Much of the language used to describe __monetary__ policy, such as "steering the economy to a soft landing" or "a touch on the __brakes__" , makes it sound like a __precise__ science. Nothing could be further from the truth.
 ''
+</p>
 <<<
 <hr>
 
@@ -19,7 +23,9 @@ Much of the language used to describe monetary policy, such as "steering the eco
 <<<
 <p style="text-indent:2em">
 <!-- write here -->
-【译文赏析】有很多用于描述货币政策的词汇，例如"操纵经济软着陆"或者"轻踩刹车"，使货币政策听起来像是一门精确的科学。没有什么比这更远离实际情况的了。（但这些说法是最不靠谱的，事情远非如此用来表示强烈的反对 这与i cann't agree with you more有异曲同工之妙）
+【译文赏析】有很多用于描述货币政策的词汇，例如"操纵经济软着陆"或者"轻踩刹车"，使货币政策听起来像是一门精确的科学。没有什么比这更远离实际情况的了。
+
+（但这些说法是最不靠谱的，事情远非如此用来表示强烈的反对 这与i cann't agree with you more有异曲同工之妙）
 </p>
 <<<
 <hr>
@@ -28,6 +34,10 @@ Much of the language used to describe monetary policy, such as "steering the eco
 <<<
 """
 【词汇突破】steer 指挥，控制 precise 精确的
+
+monetary 货币的， 财政的
+
+brakes n 刹车
 """
 <<<
 <hr>

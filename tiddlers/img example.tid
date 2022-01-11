@@ -1,9 +1,9 @@
 created: 20211226064652275
 creator: oeyoews
-modified: 20220108090527894
+modified: 20220111093737343
 modifier: oeyoews
 tags: 
-title: img01
+title: img example
 type: text/vnd.tiddlywiki
 
-[img width=200 [files\img.png]]
+[img width=200 [files/img.png]]

@@ -1,38 +1,37 @@
 caption: add english template
 created: 20220108060133388
-modified: 20220111090343554
+creator: oeyoews
+modified: 20220111131633959
+modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet snippets
-title: english66
+title: english
 type: text/vnd.tiddlywiki
 
 !!! Sentence
-<<<
-'' 
 <p style="text-indent:2em">
-<!-- write here -->
+'' 
 
-</p>
 ''
-<<<
-<hr>
+</p>
 
+---
 !!! Translate
 <<<
 <p style="text-indent:2em">
-<!-- write here -->
+
 
 </p>
 <<<
-<hr>
 
+---
 !!! Vocabulary
 <<<
 """
 
 """
 <<<
-<hr>
 
+---
 !!!  Analyze
 <<<
 """

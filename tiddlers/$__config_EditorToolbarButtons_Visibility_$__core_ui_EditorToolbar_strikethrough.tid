@@ -1,6 +1,8 @@
 created: 20220104084208543
-modified: 20220104084208543
+creator: oeyoews
+modified: 20220111094100381
+modifier: oeyoews
 title: $:/config/EditorToolbarButtons/Visibility/$:/core/ui/EditorToolbar/strikethrough
 type: text/vnd.tiddlywiki
 
-hide
+show

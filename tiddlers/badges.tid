@@ -1,10 +1,8 @@
 created: 20220109145849973
-modified: 20220110123705010
+modified: 20220111123712450
 tags: Custom
 title: badges
 type: text/vnd.tiddlywiki
 
 <<dbadge github "support" info>> <<badge primary "tiddlywiki5">>
-<<badge success "custom">>
-<<badge danger "snippets">>
-<<badge info "tiddlers">>
+<<badge success "tiddlers">>
