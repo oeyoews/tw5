@@ -1,0 +1,16 @@
+button-classes: tc-text-editor-toolbar-item-start-group
+caption: {{$:/language/Buttons/Preview/Caption}}
+condition: [<targetTiddler>]
+created: 20220111082447356
+creator: oeyoews
+custom-icon: yes
+description: {{$:/language/Buttons/Preview/Hint}}
+icon: $:/core/images/preview-open
+modified: 20220111082447356
+modifier: oeyoews
+shortcuts: ((preview))
+tags: $:/tags/EditorToolbar
+title: $:/core/ui/EditorToolbar/preview
+type: text/vnd.tiddlywiki
+
+yes

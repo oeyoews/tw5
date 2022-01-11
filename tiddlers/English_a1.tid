@@ -1,14 +1,13 @@
-class: notebook
 created: 20220107152809357
-modified: 20220109152131246
+modified: 20220111082306278
 tags: English
 title: English/a1
 type: text/vnd.tiddlywiki
 
-!!!.text-primary sentence
+!!! sentence
 <p style="text-indent:2em">
 ''
-__This success__, @@color:purple;coupled with@@ __later research__ showing that memory itself is not genetically @@color:green;determined@@, @@color:White;background-color:Red;led@@ Ericsson to conclude that the act of memorizing is more of a @@color:green;cognitive@@ exercise than an intuitive one.
+__This success__, coupled __later research__ showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one.
 ''
 </p>
 
@@ -22,7 +21,7 @@ __This success__, @@color:purple;coupled with@@ __later research__ showing that 
 <hr>
 
 !!! vocabulary
-* @@background-color:LightCyan;cognitive@@  认知的（后天习得的）
+* cognitive  认知的（后天习得的）
 <<<
 """
 Nature先天；

@@ -1,22 +1,13 @@
 created: 20220107153519708
 icon: 
-modified: 20220109151037335
+modified: 20220111080902117
 page-cover: 
 tags: Index
 title: English
 type: text/vnd.tiddlywiki
 
-<<reuse-tiddler "list-filter">>
-
 <<tabs tabsList:"[tag[English]]" default:"English/a1" class:"tc-vertical">>
 
 <hr>
-
-
-<div class="tc-table-of-contents">
-
-<<toc-selective-expandable 'English'>>
-
-</div>
 
 > [[English 66 link|https://zhuanlan.zhihu.com/p/115354484]]
