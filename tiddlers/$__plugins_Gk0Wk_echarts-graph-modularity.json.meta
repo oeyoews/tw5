@@ -1,0 +1,10 @@
+dependents: $:/plugins/Gk0Wk/echarts
+description: Graph modularity extension for Apache ECharts
+list: readme
+name: ECharts Graph Modularity
+parent-plugin: $:/plugins/Gk0Wk/echarts
+plugin-type: plugin
+source: https://github.com/tiddly-gittly/tw-echarts/tree/master/plugins/Gk0Wk/echarts-graph-modularity
+title: $:/plugins/Gk0Wk/echarts-graph-modularity
+type: application/json
+version: 2.1.0
