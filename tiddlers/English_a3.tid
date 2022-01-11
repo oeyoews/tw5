@@ -1,12 +1,12 @@
 created: 20220108094220755
-modified: 20220111081953077
+modified: 20220111085957450
 tags: English
 title: English/a3
 type: text/vnd.tiddlywiki
 
 !!!sentence
 <!-- write here -->
-<<<.tc-fish-quote
+<<<
 
 '' 
 <p style="text-indent:2em">
@@ -20,11 +20,13 @@ Anyone who has toiled through SAT will testify that test-takin skill also matter
 <hr>
 
 !!! translate
+<<<
 <p style="text-indent:2em">
 <!-- write here -->
+
 任何一个曾经辛苦的经历过SAT考试的人都会证实考试的技巧也很重要，无论这种技巧是知道什么时候去猜还是知道什么问题应该跳过。
 </p>
-
+<<<
 <hr>
 
 !!! vocabulary

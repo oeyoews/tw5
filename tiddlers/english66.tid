@@ -1,12 +1,12 @@
 caption: add english template
 created: 20220108060133388
-modified: 20220110113419052
+modified: 20220111090343554
 tags: $:/tags/TextEditor/Snippet snippets
 title: english66
 type: text/vnd.tiddlywiki
 
-!!! sentence
-<<<.tc-big-quote
+!!! Sentence
+<<<
 '' 
 <p style="text-indent:2em">
 <!-- write here -->
@@ -14,24 +14,28 @@ type: text/vnd.tiddlywiki
 </p>
 ''
 <<<
-
 <hr>
 
-!!! translate
+!!! Translate
+<<<
 <p style="text-indent:2em">
 <!-- write here -->
 
 </p>
-
+<<<
 <hr>
 
-!!! vocabulary
+!!! Vocabulary
+<<<
 """
 
 """
+<<<
 <hr>
 
-!!!  analyze
+!!!  Analyze
+<<<
 """
 
 """
+<<<

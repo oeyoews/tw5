@@ -1,6 +1,6 @@
 created: 20220104084152062
-modified: 20220107165650634
+modified: 20220111084616022
 title: $:/config/EditorToolbarButtons/Visibility/$:/core/ui/EditorToolbar/mono-block
 type: text/vnd.tiddlywiki
 
-show
+hide
