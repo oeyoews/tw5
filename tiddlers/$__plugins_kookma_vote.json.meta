@@ -1,0 +1,11 @@
+author: Mohammad Rahmani
+core-version: >= 5.1.23
+dependents: 
+description: voting and ranking of tiddlers
+list: readme license history
+name: Vote
+plugin-type: plugin
+source: https://github.com/kookma/TW-Vote
+title: $:/plugins/kookma/vote
+type: application/json
+version: 1.0.1

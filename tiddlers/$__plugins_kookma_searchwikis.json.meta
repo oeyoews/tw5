@@ -1,0 +1,10 @@
+author: Mohammad Rahmani
+core-version: >=5.1.22
+dependents: 
+description: Searchwikis
+list: readme history license
+plugin-type: plugin
+source: https://github.com/kookma/TW-Searchwikis
+title: $:/plugins/kookma/searchwikis
+type: application/json
+version: 1.3.0
