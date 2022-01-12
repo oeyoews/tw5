@@ -15,10 +15,9 @@ pages:
     - public
     expire_in: 1 days
   only:
-  #- main
-    - tags
+  - main
+    #- tags
 
 cache:
   paths:
   - node_modules
-
