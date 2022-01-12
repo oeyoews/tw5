@@ -1,7 +1,7 @@
 caption: add english template
 created: 20220108060133388
 creator: oeyoews
-modified: 20220111135211468
+modified: 20220112130602674
 modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet snippets
 title: elish
@@ -10,7 +10,6 @@ type: text/vnd.tiddlywiki
 !!! Sentence
 <p style="text-indent:2em">
 '' 
-
 ''
 </p>
 
@@ -18,7 +17,8 @@ type: text/vnd.tiddlywiki
 !!! Translate
 <<<
 <p style="text-indent:2em">
-
+<p>
+</p>
 </p>
 <<<
 
@@ -26,7 +26,6 @@ type: text/vnd.tiddlywiki
 !!! Vocabulary
 <<<
 """
-
 """
 <<<
 
@@ -34,6 +33,5 @@ type: text/vnd.tiddlywiki
 !!!  Analyze
 <<<
 """
-
 """
 <<<

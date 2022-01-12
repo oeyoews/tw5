@@ -1,0 +1,42 @@
+created: 20220112130155897
+modified: 20220112131149092
+tags: English
+title: English/b12
+type: text/vnd.tiddlywiki
+
+!!! Sentence
+<p style="text-indent:2em">
+'' Their methods do not attempt to estimate the actual biomass (the amount of living biological matter) of fish species in particular parts of the ocean, but rather changes in that biomass over time.
+
+
+''
+</p>
+
+---
+!!! Translate
+<<<
+<p style="text-indent:2em">
+【译文赏析】他们的研究方法并不是想估计出某些特定地区鱼类的实际生物量（活的生物总量），而是估计出这些生物量随着时间发生的变化。
+
+<p>【翻译点拨】多个定语在修饰着changes因此顺序应该做符合中文习惯的调整。
+</p>
+</p>
+<<<
+
+---
+!!! Vocabulary
+<<<
+"""【词汇突破】estimate 估量，评估 not…but 不是……而是……
+"""
+<<<
+
+---
+!!!  Analyze
+<<<
+"""【主干识别】Their methods do not attempt to estimate the actual biomass but changes.
+
+【其他成分】括号中的内容对biomass进行解释和说明；of species和in particular parts of the ocean做后置定语修饰biomass， in that biomass over time后置定语修饰changes；
+
+【难点揭秘】estimate的宾语为the actual biomass 和changes的并列，并列连词为but , 在阅读的过程中往往 会由于长定语的分割而产生阅读的障碍；
+"""
+<<<
