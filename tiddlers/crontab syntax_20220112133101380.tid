@@ -1,0 +1,18 @@
+created: 20220112133101383
+modified: 20220112133420432
+parent: crontab syntax
+stream-list: [[crontab syntax/20220112133313254]]
+stream-type: default
+title: crontab syntax/20220112133101380
+type: text/vnd.tiddlywiki
+
+<<<
+"""
+minute： 表示分钟，可以是从0到59之间的任何整数。
+hour：表示小时，可以是从0到23之间的任何整数。
+day：表示日期，可以是从1到31之间的任何整数。
+month：表示月份，可以是从1到12之间的任何整数。
+week：表示星期几，可以是从0到7之间的任何整数，这里的0或7代表星期日。
+command：要执行的命令，可以是系统命令，也可以是自己编写的脚本文件。
+"""
+<<<

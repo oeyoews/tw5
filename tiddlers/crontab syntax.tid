@@ -1,0 +1,9 @@
+created: 20220112132816108
+modified: 20220112133420432
+stream-list: [[crontab syntax/20220112133101380]]
+stream-type: default
+tags: Linux
+title: crontab syntax
+type: text/vnd.tiddlywiki
+
+minute   hour   day   month   week   command     顺序：分 时 日 月 周
