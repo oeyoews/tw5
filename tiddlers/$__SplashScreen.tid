@@ -1,7 +1,7 @@
 created: 20220104152851413
-modified: 20220109170031345
+modified: 20220112114837141
 tags: 
 title: $:/SplashScreen
 type: text/vnd.tiddlywiki
 
-{{$:/xp/SplashScreen/layouts/simple}}
+{{$:/xp/SplashScreen/layouts/bubble}}
