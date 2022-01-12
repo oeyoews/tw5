@@ -1,6 +1,6 @@
 created: 20220109181603830
-modified: 20220111145251931
+modified: 20220112100228701
 title: $:/config/PageControlButtons/Visibility/$:/xp/manageTags/button
 type: text/vnd.tiddlywiki
 
-show
+hide
