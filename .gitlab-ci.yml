@@ -15,7 +15,8 @@ pages:
     - public
     expire_in: 7 days
   only:
-  - main
+  #- main
+    - tags
 
 cache:
   paths:
