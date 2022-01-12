@@ -1,8 +1,0 @@
-created: 20220102165615681
-modified: 20220109131657790
-tags: $:/tags/Commander/Working ?
-title: untitle 15
-tmap.id: 81ffbb5d-b0cb-442b-9d7a-6d21d2c2ded5
-type: text/vnd.tiddlywiki
-
-<<interstitial-ui base:"$(currentTiddler)$" caption:" ">>

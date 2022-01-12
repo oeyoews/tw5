@@ -1,6 +1,15 @@
 created: 20220102160829055
-modified: 20220109131657778
-tags: $:/tags/Commander/Working ?
+difficulty: 5
+due: 20220114170048858
+history: []
+interval: 0
+lapses: 0
+modified: 20220112170631933
+recall: 1
+reps: 1
+review: 20220112170048858
+stability: 2
+tags: $:/tags/Commander/Working wifi
 title: lan
 tmap.id: 2bf547fd-a2f6-4ff3-acef-b87a799ea008
 type: text/vnd.tiddlywiki

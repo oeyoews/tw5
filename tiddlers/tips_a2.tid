@@ -1,17 +1,17 @@
 created: 20211229113606042
 creator: oeyoews
-difficulty: 5
-due: 20220113122901992
-history: []
-interval: 0
+difficulty: 4.148683298050514
+due: 20220116165838564
+history: [{"due":"20220116165838564","interval":"1","difficulty":4.148683298050514,"stability":4.03183163653078,"recall":0.9486832980505138,"lapses":0,"reps":2,"review":"20220112165838563"}]
+interval: 1
 lapses: 0
-modified: 20220111122901992
+modified: 20220112165838564
 modifier: oeyoews
-recall: 1
-reps: 1
-review: 20220111122901992
-stability: 2
-tags: $:/tags/Commander/Working ?
+recall: 0.9486832980505138
+reps: 2
+review: 20220112165838563
+stability: 4.03183163653078
+tags: $:/tags/Commander/Working Tip Tw ?
 title: tips/a2
 tmap.id: c0c98519-b7b0-4b5d-b184-a093e89cdb2d
 type: text/vnd.tiddlywiki

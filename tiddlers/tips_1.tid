@@ -1,13 +1,13 @@
 created: 20211227132523030
-difficulty: 5
-due: 20220113163538916
-history: []
+difficulty: 4.2
+due: 20220114171625294
+history: [{"due":"20220114171625294","interval":"0","difficulty":4.2,"stability":2,"recall":1,"lapses":0,"reps":2,"review":"20220112171625294"}]
 interval: 0
 lapses: 0
-modified: 20220111163538916
+modified: 20220112171625294
 recall: 1
-reps: 1
-review: 20220111163538916
+reps: 2
+review: 20220112171625294
 stability: 2
 tags: Tip ?
 title: tips/1

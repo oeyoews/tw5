@@ -1,6 +1,6 @@
 created: 20211226094152512
 creator: oeyoews
-modified: 20220112131057878
+modified: 20220112170846769
 modifier: oeyoews
 tags: Custom
 title: Add fastly
@@ -14,15 +14,10 @@ type: text/vnd.tiddlywiki
 		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY/0MM/0DD">> tags="Journal" class="notebook" />
 	Journal
 	</$button>
-
-	<$button>
-		<$action-sendmessage $message="tm-new-tiddler" title="xxx" text="""<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />""" tags="Index" />
-	Index
-	</$button>
 	
 	<$button>
-		<$action-sendmessage $message="tm-new-tiddler" title=<<now>>  tags="?" />
-	?
+		<$action-sendmessage $message="tm-new-tiddler" title=<<now>>  tags="??" />
+	??
 	</$button>	
 	
 <hr>
