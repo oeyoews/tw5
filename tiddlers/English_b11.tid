@@ -1,0 +1,57 @@
+created: 20220112124739999
+modified: 20220112125032310
+tags: English
+title: English/b11
+type: text/vnd.tiddlywiki
+
+!!! Sentence
+<p style="text-indent:2em">
+''
+There is, as Robert Rubin, the treasury secretary, says, a “disjunction” between the mass of business anecdote that points to a leap in productivity and the picture reflected by the statistics.
+''
+</p>
+
+---
+!!! Translate
+<<<
+<p style="text-indent:2em">
+【译文赏析】正如财长鲁宾所说，在表明生产力飞跃发展的商业佚事和数据所反映的情况之间存在着脱节。
+<p>
+
+
+【翻译点拨】也可以把比较长的那个部分单独翻译，这样更符合中文的习惯：有大量表明生产力飞跃发展的商业佚事，但是财长罗伯特.鲁宾认为现实的数据表明的情况并不能支持这些传奇。
+
+</p>
+</p>
+<<<
+
+---
+!!! Vocabulary
+<<<
+"""
+【词汇突破】the treasury secretary 财政部长（美）
+
+anecdote 轶闻，趣闻 statistics 数据（还有一个我们不熟悉的意思：表格）
+
+picture 情况，事态，局面，状况，情形，形势
+"""
+<<<
+
+---
+!!!  Analyze
+<<<
+"""
+【主干识别】There is a disjunction.
+
+【其他成分】as Robert Rubin, the treasury secretary, says 插入语；between the mass of business anecdote that points to a leap in productivity and the picture reflected by the statistics后置定语修饰a disjunction.
+
+【微观解析】between the mass of business anecdote and the picture; 为定语的主体部分；that points to a leap in productivity修饰anecdote；reflected by the statistics修饰statistics。
+
+【难点揭秘】由于插入语的加入，造成了对主干是别的难度，尤其是在between… and…结构的识别中由于加入了定语从句使其难于理解。
+
+
+"""
+<<<
+
+!!!! Tips
+> 前11个句子都属于主谓被隔离的情况。而今天则是并列的结构开始出现了。
