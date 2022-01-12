@@ -1,6 +1,6 @@
 created: 20200414150455988
 creator: LinOnetwo
-modified: 20220108073709263
+modified: 20220112094008540
 tags: $:/tags/ViewTemplate
 title: $:/plugins/linonetwo/inverse-link-and-folder/infobar
 type: text/vnd.tiddlywiki
@@ -12,13 +12,13 @@ type: text/vnd.tiddlywiki
 <<inverse-link-and-folder_list-links filter:"[all[current]backtranscludes[]]" class:"horizontal-list-links" >> -->
 
 <$list filter="[all[current]backlinks[]first[]sort[title]]">
-	<label style="margin-left:auto;margin-right:auto;width:fit-content;display:block;">be referenced</label>
+	<label style="margin-left:auto;margin-right:auto;width:fit-content;display:block;">==>{}</label>
 </$list>
 
 <<inverse-link-and-folder_list-links filter:"[all[current]backlinks[]]" class:"horizontal-list-links" >>
 
 <$list filter="[all[current]tagging[]first[]]">
-	<label style="margin-left:auto;margin-right:auto;width:fit-content;display:block;">reference</label>
+	<label style="margin-left:auto;margin-right:auto;width:fit-content;display:block;">{}</label>
 </$list>
 
 <<inverse-link-and-folder_list-links filter:"[all[current]tagging[]sort[title]]" class:"horizontal-list-links" >>
