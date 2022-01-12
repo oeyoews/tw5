@@ -1,0 +1,30 @@
+created: 20220112075457518
+modified: 20220112084827998
+tags: template katex
+title: latex 公式
+type: text/vnd.tiddlywiki
+
+"""
+* $$x_2$$
+* $$x^2$$
+* $$\delta$$
+* $$\Beta$$ B
+* $$\Alpha$$
+* $$x_{\rm i}$$
+* $$x_i$$
+* $$\text s  b$$
+* $$\text {s   b}$$
+* $$\frac {898} {833883}$$
+* $$\frac {3+x} {x+y}$$
+* $$\frac {\dfrac 1  x +  21} {x+y}$$
+* $$\frac {\frac 1  x +  21} {x+y}$$
+* $$\sqrt {x+y}$$
+$$\sqrt [23] 34$$
+$$ 2 \times 2$$
+$$\vec a$$
+$$\int {x_1} {y_2}$$
+$$\int_{1}^{2}{x}dx$$
+$$\sum {a+b}$$
+"""
+
+[[link|https://blog.csdn.net/mingzhuo_126/article/details/82722455]]
