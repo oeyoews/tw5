@@ -1,0 +1,11 @@
+{
+    "title": "New Question",
+    "created": "20220111160540151",
+    "icon": "$:/plugins/kookma/thinkup/images/question",
+    "keywords": "",
+    "modified": "20220111160546475",
+    "tags": "Question",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "0",
+    "bag": "default"
+}
