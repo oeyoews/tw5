@@ -1,0 +1,7 @@
+created: 20220113083346194
+modified: 20220113083424840
+tags: Linux
+title: command/graphical
+type: text/vnd.tiddlywiki
+
+set-default graphical.target/multi-user.target
