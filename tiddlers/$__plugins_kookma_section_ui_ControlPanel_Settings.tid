@@ -1,0 +1,42 @@
+caption: Section Editor
+created: 20211009172215392
+list-after: $:/core/ui/ControlPanel/Settings/TiddlyWiki
+modified: 20220113175036367
+tags: $:/tags/ControlPanel/SettingsTab
+title: $:/plugins/kookma/section/ui/ControlPanel/Settings
+type: text/vnd.tiddlywiki
+
+\import $:/plugins/kookma/section/macros/utility
+
+\define showtoolsbarOption()
+<$vars status={{{ [<se-editor>get[text]match[main-editor]then[no]else[yes]] }}}>
+<$checkbox disabled=<<status>> tiddler=<<se-config-visibility-toolbar>> field="text" checked="yes" unchecked="no" default="no">
+Turn on editor toolbar</$checkbox>
+</$vars>
+\end
+
+
+
+;Show Section Editor setting in more sidebar
+:<$checkbox tiddler="$:/plugins/kookma/section/ui/ControlPanel/Settings" tag="$:/tags/MoreSideBar"> Show setting in more sidebar</$checkbox>
+
+---
+
+; Choose Local Editor
+:<$checkbox tiddler=<<se-editor>> field="text" checked="main-editor" unchecked="simple-textarea" default="simple-textarea"> Use Tiddlywiki main editor </$checkbox> (<<showtoolsbarOption>>) 
+:<$checkbox tiddler=<<se-editor>> field="text" checked="simple-textarea" unchecked="main-editor" default="simple-textarea"> Use simple text area </$checkbox>
+
+;Section appearance
+{{$:/plugins/kookma/section/ui/appearance}}
+
+;Reader mode
+:<$checkbox tiddler=<<se-readermodeTid>> field="text" checked="yes" unchecked="" default="no"> Enable reader mode </$checkbox>
+
+;Patchwork tiddler
+:<$checkbox tiddler=<<se-patchworkheaderTid>> field="text" checked="yes" unchecked="" default="no"> Hide header </$checkbox>
+:<$checkbox tiddler=<<se-patchworkfooterTid>> field="text" checked="yes" unchecked="" default="no"> Hide footer </$checkbox>
+
+---
+
+; Delete state tiddlers
+:{{$:/plugins/kookma/section/ui/delete-statetiddlers}}

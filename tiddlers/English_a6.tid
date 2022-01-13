@@ -1,0 +1,48 @@
+created: 20220111122116603
+creator: oeyoews
+modified: 20220113173908800
+modifier: oeyoews
+tags: English
+title: English/a6
+type: text/vnd.tiddlywiki
+
+!!! Sentence
+<p style="text-indent:2em">
+On another level, many in the medical community acknowledge that the assisted--suicide debate has been fueled in part by the despair of patients for whom modern medicine has prolonged the physical agony of dying.
+</p> 
+
+!!! Translate
+<p style="text-indent:2em">
+在另一个层面上，很多医疗界的人士承认，关于医生帮助下的自杀的讨论，部分是因为病人的绝望情绪，对病人来说，现代医学已经延长了死亡的生理的痛苦。
+</p>
+
+!!! vocabulary
+<<<
+"""
+【词汇突破】agony 痛苦 despair绝望 prolong 延长
+"""
+<<<
+
+!!! Analyze
+<<<
+"""
+【主干识别】many acknowledge that +宾语从句 （many 作为代词表示很多人，或者很多个体）
+【其他成分】On another level 做状语和in the medical community做定语；the assisted--suicide debate has been fueled by the despair of patients为宾语从句主干；
+特别提示：fuel本来意思是燃料，但是这里可以理解为由于，因为，加剧的意思；
+为了以后阅读理解更透彻，可以直接把结构
+A is fueled by B 理解为：A是结果；B是原因
+
+例句：China's success is fueled by the age of globlization.
+
+【微观解析】in part宾语从句中的状语，for whom modern medicine has prolonged the physical agony of dying.定语从句修饰patients; 定语从句还原为一个独立的句子就是：Modern medicine has prolonged the physical agony of dying for them. 这个句子中的them 和前面句子中的patients 为相同名词，因此在这里作者将其写成了一个定语从句，但是在翻译的时候是要分译的。
+这句话在定语从句的前世和今生：
+suicide debate has been fueled in part by the despair of patients.
+The modern medicine has prolonged the physical agony of dying for them.
+(两个句子中出现了共有的名词patients 和 them,于是them 被换成了whom ；for whom 一并提前。)
+【难点揭秘】同样是隔离结构在阅读的过程中给我们带来不舒服的感觉，in part 放到了 fueled 和 by 之间，in the medical community放到了many和acknowledge之间。
+
+<p style="text-indent:2em">
+On another level，many in the educational establishment acknowledge that the debate on the ranking of universitieshas been fueled in part by the despair of graduates for whom the discrimination brought by the ranking of university has put more obstacles on their job hunting way.
+</p>
+"""
+<<<

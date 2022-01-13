@@ -1,0 +1,7 @@
+created: 20220113174856491
+modified: 20220113174917793
+tags: Linux
+title: show startup time
+type: text/vnd.tiddlywiki
+
+systemd-analyze

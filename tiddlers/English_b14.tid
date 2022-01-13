@@ -1,0 +1,41 @@
+created: 20220113172113795
+modified: 20220113172449278
+tags: English
+title: English/b14
+type: text/vnd.tiddlywiki
+
+!!! Sentence
+<p style="text-indent:2em">
+''But if robots are to reach the next stage of laborsaving utility, they will have to operate with less human supervision and be able to make at least a few decisions for them- selves—goals that pose a real challenge.
+
+''
+</p>
+
+---
+!!! Translate
+<<<
+<p style="text-indent:2em">【译文赏析】但是如果机器人能在下一个阶段达到节省人工的运用，它们将必须在更少的人力监督之下工作，而且还要至少能够自己做出几个决定--这些目标才会带来真的挑战。
+<p>【翻译点拨】对于the next stage of laborsaving utility的处理，如果直译就是：如果机器人要达到节省人工的运用的下一个阶段在，这样的表达不仅拗口而且难懂，就是典型的死译，所以把定语转译为状语。
+</p>
+</p>
+<<<
+
+---
+!!! Vocabulary
+<<<
+"""【词汇突破】utility 运用 supervision 监管
+"""
+<<<
+
+---
+!!!  Analyze
+<<<
+"""【主干识别】they will have to operate and be able to make a few decisions. 并列的两个谓语由and 连接；
+
+【其他成分】But if robots are to reach the next stage of laborsaving utility状语；with less human supervision状语；at least状语；goals that pose a real challenge整个句子的同位语。
+
+【微观解析】同位语goals 被定语从句修饰；
+
+【难点揭秘】动词的并列，状语的隔离；同位语的识别需要关注。
+"""
+<<<
