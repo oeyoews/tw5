@@ -11,6 +11,6 @@
   "scripts": {
     "dev": "tiddlywiki --output public --build index",
     "build": "tiddlywiki --output public --password oeyoew --build index",
-    "copy": "cp files public"
+    "copy": "cp -r files public"
   }
 }
