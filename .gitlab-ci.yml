@@ -8,7 +8,7 @@ pages:
   script:
   # yarn install to fix cache first
   - yarn install
-  - yarn build && yarn copy
+  - yarn build && yarn copy && ls public
 
   artifacts:
     paths:
