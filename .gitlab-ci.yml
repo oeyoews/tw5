@@ -18,7 +18,7 @@ pages:
     #expire_in: never
   only:
   #- main
-  - tags
+    - tags
 
 cache:
   paths:
