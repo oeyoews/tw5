@@ -1,0 +1,10 @@
+{
+    "title": "2022/1/9",
+    "created": "20220109152456689",
+    "modified": "20220109153217060",
+    "tags": "Journal",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<$button class=\"btn btn-success\"\nactions=<<createTiddler>> >\nCreate Tiddler\n<span class=\"badge badge-light\">\n<$count filter=\"[tag[?]]\"/>\n</span>\n</$button>",
+    "revision": "0",
+    "bag": "default"
+}
