@@ -1,6 +1,6 @@
 created: 20220103081147348
-modified: 20220111082319900
+modified: 20220113062404421
 title: $:/config/PageControlButtons/Visibility/$:/plugins/kookma/utility/ui/Buttons/ViewFields
 type: text/vnd.tiddlywiki
 
-show
+hide

@@ -4,12 +4,12 @@ due: 20220114171611380
 history: [{"due":"20220114171611380","interval":"0","difficulty":4.2,"stability":2,"recall":1,"lapses":0,"reps":2,"review":"20220112171611379"}]
 interval: 0
 lapses: 0
-modified: 20220112171611380
+modified: 20220112174830586
 recall: 1
 reps: 2
 review: 20220112171611379
 stability: 2
-tags: Tip ?
+tags: Tip
 title: tips/a3
 tmap.id: 039a8008-3560-4746-8a8f-f91421d8604f
 type: text/vnd.tiddlywiki
