@@ -1,8 +1,0 @@
-dependents: 
-description: Freelinking of tiddler titles
-list: readme settings
-name: Freelinks
-plugin-type: plugin
-title: $:/plugins/tiddlywiki/freelinks
-type: application/json
-version: 5.2.1

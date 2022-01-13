@@ -1,9 +1,0 @@
-author: Henrik Muehe and Mikola Lysenko
-dependents: 
-description: BibTeX importer
-list: readme license
-name: BibTeX
-plugin-type: plugin
-title: $:/plugins/tiddlywiki/bibtex
-type: application/json
-version: 5.2.1

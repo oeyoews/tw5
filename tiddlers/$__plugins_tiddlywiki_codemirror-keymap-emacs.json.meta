@@ -1,9 +1,0 @@
-dependents: 
-description: Keymap compatible with Emacs for CodeMirror
-list: readme
-name: CodeMirror Keymap Emacs
-parent-plugin: $:/plugins/tiddlywiki/codemirror
-plugin-type: plugin
-title: $:/plugins/tiddlywiki/codemirror-keymap-emacs
-type: application/json
-version: 5.2.1

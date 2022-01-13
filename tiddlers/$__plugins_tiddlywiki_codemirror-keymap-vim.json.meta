@@ -1,9 +1,0 @@
-dependents: $:/plugins/tiddlywiki/codemirror-search-replace $:/plugins/tiddlywiki/codemirror-closebrackets
-description: Keymap compatible with Vim for CodeMirror
-list: readme
-name: CodeMirror Keymap Vim
-parent-plugin: $:/plugins/tiddlywiki/codemirror
-plugin-type: plugin
-title: $:/plugins/tiddlywiki/codemirror-keymap-vim
-type: application/json
-version: 5.2.1
