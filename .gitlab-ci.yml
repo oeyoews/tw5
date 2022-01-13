@@ -8,11 +8,11 @@ pages:
   script:
   # yarn install to fix cache first
   - yarn install
-  - yarn build && yarn copy && ls public
+  - yarn build && yarn copy
 
   artifacts:
     paths:
-    - files
+    - public
     expire_in: 1 days
     #expire_in: 1 mins
     #expire_in: never
