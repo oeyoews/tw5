@@ -9,6 +9,7 @@
     "tiddlywiki": "5.2.1"
   },
   "scripts": {
-    "build": "tiddlywiki --output public --password oeyoew --build index"
+    "build": "tiddlywiki --output public --password oeyoew --build index",
+    "dev": "tiddlywiki --output public --build index"
   }
 }

@@ -13,8 +13,9 @@ pages:
   artifacts:
     paths:
     - public
-    #expire_in: 1 days
-    expire_in: 1 mins
+    - files
+    expire_in: 1 days
+    #expire_in: 1 mins
     #expire_in: never
   only:
   - main
