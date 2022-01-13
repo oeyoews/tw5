@@ -1,10 +1,18 @@
 created: 20211226165101472
-modified: 20220107175700981
-tags: Linux
+difficulty: 5
+due: 20220115111106474
+history: []
+interval: 0
+lapses: 0
+modified: 20220113111202460
+recall: 1
+reps: 1
+review: 20220113111106473
+stability: 2
+tags: Linux ?
 title: reference
 tmap.id: aee4db7a-2094-4e92-b4ef-440a0ba6cf36
 type: text/vnd.tiddlywiki
 
 * jobs [-l]
-> show jobs
-<<reuse-tiddler "img011">>
+> `show jobs`
