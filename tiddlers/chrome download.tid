@@ -1,6 +1,15 @@
 created: 20220110132329718
-modified: 20220110132613195
-tags: record
+difficulty: 4.2
+due: 20220116070702386
+history: [{"due":"20220116070702386","interval":"0","difficulty":4.2,"stability":2,"recall":1,"lapses":0,"reps":2,"review":"20220114070702384"}]
+interval: 0
+lapses: 0
+modified: 20220114070702386
+recall: 1
+reps: 2
+review: 20220114070702384
+stability: 2
+tags: record website ?
 title: chrome download
 type: text/vnd.tiddlywiki
 
