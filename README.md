@@ -3,6 +3,8 @@
 * install `cmake` `node` `git`
 * type make in current directory
 
+---
+
 ## Window
 ### methos 1
 * install node git
