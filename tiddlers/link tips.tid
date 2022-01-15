@@ -1,7 +1,10 @@
 created: 20220111163400691
-modified: 20220111163445186
+modified: 20220115095140485
 tags: Tip Tw
 title: link tips
 type: text/vnd.tiddlywiki
 
 > in double brackets, can't have whitespace in pipline symbols.
+
+* e.g. 
+> [[demo|https://oeyoews.top]]

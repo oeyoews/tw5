@@ -1,6 +1,6 @@
 created: 20220109181621244
-modified: 20220111145316452
+modified: 20220115074534645
 title: $:/config/PageControlButtons/Visibility/$:/plugins/kookma/commander/buttons/pagecontrol
 type: text/vnd.tiddlywiki
 
-show
+hide
