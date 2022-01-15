@@ -1,15 +1,7 @@
 created: 20211226174011329
-difficulty: 5
-due: 20220115111127127
 history: []
-interval: 0
-lapses: 0
-modified: 20220113111127127
-recall: 1
-reps: 1
-review: 20220113111127127
-stability: 2
-tags: Linux ?
+modified: 20220115180001533
+tags: Linux
 title: systemctl/a
 tmap.id: c9460806-59ae-42fb-991a-df67cf56922c
 type: text/vnd.tiddlywiki

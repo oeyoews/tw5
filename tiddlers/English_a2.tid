@@ -1,13 +1,13 @@
 created: 20220108060027994
 difficulty: NaN
-due: 20220116122958779
-history: [{"due":"20220113174525926","interval":"-1","difficulty":4.25409255338946,"stability":0.0035668474990400156,"recall":1.0540925533894598,"lapses":0,"reps":2,"review":"20220112174525925"},{"due":"20220113174953370","interval":"-1","difficulty":10,"stability":-0.1282524168211392,"recall":6738334168637.574,"lapses":0,"reps":3,"review":"20220112174953369"},{"due":"20220114171305292","interval":"0","difficulty":10,"stability":null,"recall":1,"lapses":0,"reps":4,"review":"20220113171305291"},{"due":"20220116122958779","interval":"1","difficulty":null,"stability":null,"recall":null,"lapses":0,"reps":5,"review":"20220115122958779"}]
-interval: 1
+due: 20220116180008413
+history: [{"due":"20220113174525926","interval":"-1","difficulty":4.25409255338946,"stability":0.0035668474990400156,"recall":1.0540925533894598,"lapses":0,"reps":2,"review":"20220112174525925"},{"due":"20220113174953370","interval":"-1","difficulty":10,"stability":-0.1282524168211392,"recall":6738334168637.574,"lapses":0,"reps":3,"review":"20220112174953369"},{"due":"20220114171305292","interval":"0","difficulty":10,"stability":null,"recall":1,"lapses":0,"reps":4,"review":"20220113171305291"},{"due":"20220116122958779","interval":"1","difficulty":null,"stability":null,"recall":null,"lapses":0,"reps":5,"review":"20220115122958779"},{"due":"20220116180008413","interval":"0","difficulty":null,"stability":null,"recall":null,"lapses":0,"reps":6,"review":"20220115180008413"}]
+interval: 0
 lapses: 0
-modified: 20220115122958779
+modified: 20220115180008413
 recall: NaN
-reps: 5
-review: 20220115122958779
+reps: 6
+review: 20220115180008413
 stability: NaN
 tags: English ?
 title: English/a2

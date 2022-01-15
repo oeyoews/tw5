@@ -1,15 +1,7 @@
 created: 20211226172512553
-difficulty: 5
-due: 20220115111119068
 history: []
-interval: 0
-lapses: 0
-modified: 20220113111119068
-recall: 1
-reps: 1
-review: 20220113111119068
-stability: 2
-tags: Linux ?
+modified: 20220115175955879
+tags: Linux
 title: jobs
 tmap.id: ab5e75ef-49b3-405e-9d4d-2da1f65f00b6
 type: text/vnd.tiddlywiki
