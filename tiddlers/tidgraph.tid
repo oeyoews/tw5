@@ -1,10 +1,10 @@
 created: 20220104154213266
-modified: 20220107175644810
+modified: 20220116133851328
 tags: Custom
 title: tidgraph
 tmap.id: 4813a74d-b17a-41a2-9c5e-5d9d872e0f0c
 type: text/vnd.tiddlywiki
 
-<$tidgraph start="journal" />
+<$tidgraph start="Journal" />
 
-<$tidgraph start="custom" />
+<$tidgraph start="Custom" />
