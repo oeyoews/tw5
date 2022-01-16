@@ -1,6 +1,6 @@
 created: 20211226094152512
 creator: oeyoews
-modified: 20220112170846769
+modified: 20220116100242708
 modifier: oeyoews
 tags: Custom
 title: Add fastly
@@ -18,6 +18,11 @@ type: text/vnd.tiddlywiki
 	<$button>
 		<$action-sendmessage $message="tm-new-tiddler" title=<<now>>  tags="??" />
 	??
+	</$button>
+	
+		<$button>
+		<$action-sendmessage $message="tm-new-tiddler" title="English/" tags="English" se-type="" />
+	English
 	</$button>	
 	
 <hr>
