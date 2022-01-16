@@ -1,6 +1,6 @@
 created: 20220112111835929
-modified: 20220112111835929
+modified: 20220116094357210
 title: $:/config/section-editor/style-in-use
 type: text/vnd.tiddlywiki
 
-$:/plugins/kookma/section/styles/themes/green-box
+$:/plugins/kookma/section/styles/themes/simple-box
