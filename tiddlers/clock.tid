@@ -1,8 +1,0 @@
-created: 20220105153522826
-modified: 20220107175644809
-tags: Custom
-title: clock
-tmap.id: 4208cd38-214c-4133-b6a4-817372887c8e
-type: text/vnd.tiddlywiki
-
-<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/oflg/Clock/Clock.js"/>
