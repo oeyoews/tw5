@@ -1,0 +1,7 @@
+created: 20220117092303046
+modified: 20220117092326255
+tags: wine
+title: wine/scale
+type: text/vnd.tiddlywiki
+
+env WINEPREFIX="$HOME/.deepinwine/Deepin-WeChat" deepin-wine5 winecfg 
