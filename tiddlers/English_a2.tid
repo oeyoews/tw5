@@ -1,17 +1,17 @@
 created: 20220108060027994
-difficulty: 7.000000000000001
-due: 20220118081617988
-grade: 2
-history: [{"due":"20220118081441972","interval":"0","difficulty":6.2,"stability":1.4816364413634358,"retrievability":1,"grade":"0","lapses":1,"reps":1,"review":"20220117081441971"},{"due":"20220118081444574","interval":"0","difficulty":6.4,"stability":1.4816364413634358,"retrievability":1,"grade":"1","lapses":1,"reps":2,"review":"20220117081444574"},{"due":"20220118081615213","interval":"0","difficulty":7.6000000000000005,"stability":1.097623272188053,"retrievability":1,"grade":"0","lapses":2,"reps":1,"review":"20220117081615213"},{"due":"20220118081617291","interval":"0","difficulty":7.800000000000002,"stability":1.097623272188053,"retrievability":1,"grade":"1","lapses":2,"reps":2,"review":"20220117081617291"},{"due":"20220118081617988","interval":"0","difficulty":7.000000000000001,"stability":1.097623272188053,"retrievability":1,"grade":"2","lapses":2,"reps":3,"review":"20220117081617988"}]
+difficulty: 5
+due: 20220120160250643
+grade: -1
+history: []
 interval: 0
-lapses: 2
-modified: 20220118091957092
+lapses: 0
+modified: 20220118160250643
 recall: NaN
-reps: 3
+reps: 1
 retrievability: 1
-review: 20220117081617988
+review: 20220118160250643
 se-type: 
-stability: 1.097623272188053
+stability: 2
 tags: English ?
 title: English/a2
 type: text/vnd.tiddlywiki

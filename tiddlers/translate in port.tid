@@ -1,0 +1,8 @@
+created: 20220118160136209
+modified: 20220118160247379
+tags: Tip
+title: translate in port
+type: text/vnd.tiddlywiki
+
+npx http-server. 
+need install this package

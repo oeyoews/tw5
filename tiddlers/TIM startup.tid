@@ -1,0 +1,7 @@
+created: 20220118161849319
+modified: 20220118161956554
+tags: Bug wine
+title: TIM startup
+type: text/vnd.tiddlywiki
+
+* 如果手动kill tim.exe, must kill all *.exe, unless appear can't starup error
