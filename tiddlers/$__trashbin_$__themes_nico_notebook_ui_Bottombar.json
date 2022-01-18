@@ -1,0 +1,10 @@
+{
+    "title": "$:/themes/nico/notebook/ui/Bottombar",
+    "created": "20200429113453340",
+    "modified": "20220118085200066",
+    "tags": "$:/tags/PageTemplate",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<$reveal state=\"$:/state/notebook-bottombar\" type=\"match\" text=\"yes\" default=\"yes\" retain=\"yes\" animate=\"yes\">\n  <div class=\"nc-bar nc-bottombar\">\n    <$list filter=\"[all[shadows+tiddlers]tag[$:/tags/NotebookTopbar]!has[draft.of]]\" variable=\"listItem\">\n      <$reveal type=\"nomatch\" state=<<config-title>> text=\"hide\"  tag=\"div\">\n        <$transclude tiddler=<<listItem>> mode=\"block\"/>\n      </$reveal>\n    </$list>\n    <div class=\"left\">\n      {{$:/themes/nico/notebook/ui/Buttons/menu}}\n    </div>\n    <div class=\"right\">\n      {{$:/core/ui/SideBarSegments/page-controls}}\n    </div>\n  </div>\n</$reveal>\n\n",
+    "revision": "0",
+    "bag": "default"
+}

@@ -1,0 +1,10 @@
+{
+    "title": "$:/themes/nico/notebook/ui/Topbar",
+    "created": "20200428203101797",
+    "modified": "20220118085200068",
+    "tags": "$:/tags/PageTemplate",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<$reveal state=\"$:/state/notebook-topbar\" type=\"match\" text=\"yes\" default=\"yes\" retain=\"yes\" animate=\"yes\">\n  <div class=\"nc-topbar-wrapper\">\n    <div class=\"nc-bar nc-topbar tc-adjust-top-of-scroll\">\n      <$list filter=\"[all[shadows+tiddlers]tag[$:/tags/NotebookTopbar]!has[draft.of]]\" variable=\"listItem\">\n        <$reveal type=\"nomatch\" state=<<config-title>> text=\"hide\" tag=\"div\">\n          <$transclude tiddler=<<listItem>> mode=\"block\"/>\n        </$reveal>\n      </$list>\n      <div class=\"left\">\n\t{{$:/themes/nico/notebook/ui/Buttons/menu}}\n        {{$:/themes/nico/notebook/ui/Search}}\n      </div>\n      <div class=\"right\">\n        {{$:/core/ui/SideBarSegments/page-controls}}\n      </div>\n    </div>\n  </div>\n</$reveal>\n\n",
+    "revision": "0",
+    "bag": "default"
+}
