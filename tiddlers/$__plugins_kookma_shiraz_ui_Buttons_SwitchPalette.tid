@@ -3,8 +3,8 @@ created: 20201210171047824
 creator: oeyoews
 dark-palette: $:/palettes/Nord
 description: Toggle between light/dark color palette
-light-palette: $:/palettes/Vanilla
-modified: 20220105080915060
+light-palette: $:/themes/nico/notebook/palettes/palette-grey
+modified: 20220118085345253
 modifier: oeyoews
 tags: $:/tags/PageControls
 title: $:/plugins/kookma/shiraz/ui/Buttons/SwitchPalette
