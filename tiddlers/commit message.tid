@@ -1,5 +1,5 @@
 created: 20220119095430559
-modified: 20220119095750810
+modified: 20220119095859037
 tags: Git
 title: commit message
 type: text/vnd.tiddlywiki
@@ -25,6 +25,6 @@ or you can add more details, like this
 
 ```git
 doc: update
-
+// advise add blank line 
 detaill
 ```
