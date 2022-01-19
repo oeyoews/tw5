@@ -1,0 +1,7 @@
+created: 20220119103710847
+modified: 20220119103735625
+tags: Git
+title: git other branch
+type: text/vnd.tiddlywiki
+
+git pull origin gh-pages
