@@ -1,14 +1,16 @@
 created: 20211226165101472
-difficulty: 4.1000000000000005
-due: 20220121123006519
-history: [{"due":"20220121123006519","interval":"2","difficulty":4.1000000000000005,"stability":6.091873624375545,"recall":0.9,"lapses":0,"reps":2,"review":"20220115123006519"}]
-interval: 2
+difficulty: 5
+due: 20220122162241070
+grade: -1
+history: []
+interval: 0
 lapses: 0
-modified: 20220115123006519
+modified: 20220120162241070
 recall: 0.9
-reps: 2
-review: 20220115123006519
-stability: 6.091873624375545
+reps: 1
+retrievability: 1
+review: 20220120162241070
+stability: 2
 tags: Linux ?
 title: reference
 tmap.id: aee4db7a-2094-4e92-b4ef-440a0ba6cf36
