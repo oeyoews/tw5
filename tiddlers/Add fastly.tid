@@ -1,6 +1,6 @@
 created: 20211226094152512
 creator: oeyoews
-modified: 20220118091010447
+modified: 20220120125756421
 modifier: oeyoews
 tags: Custom
 title: Add fastly
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 	<legend>Entry</legend>
 
 	<$button>
-		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY/0MM/0DD">> tags="Journal" class="notebook" />
+		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY0MM0DD">> tags="Journal" class="notebook" />
 	Journal
 	</$button>
 	

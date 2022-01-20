@@ -1,0 +1,7 @@
+created: 20220120124715968
+modified: 20220120124800981
+tags: Tip
+title: start tlp
+type: text/vnd.tiddlywiki
+
+sudo systemctl start tlp to accerlate this power charging
