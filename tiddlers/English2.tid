@@ -5,7 +5,7 @@ grade: -1
 history: []
 interval: 0
 lapses: 0
-modified: 20220119085914364
+modified: 20220120141631777
 recall: NaN
 reps: 1
 retrievability: 1
@@ -13,7 +13,7 @@ review: 20220118160250643
 se-type: 
 stability: 2
 tags: English ?
-title: English/a2
+title: English2
 type: text/vnd.tiddlywiki
 
 !!!sentence

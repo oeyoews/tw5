@@ -1,0 +1,19 @@
+{
+    "title": "English/a1",
+    "created": "20220107152809357",
+    "difficulty": "4.2",
+    "due": "20220114174442588",
+    "history": "[{\"due\":\"20220114174442588\",\"interval\":\"0\",\"difficulty\":4.2,\"stability\":2,\"recall\":1,\"lapses\":0,\"reps\":2,\"review\":\"20220112174442587\"}]",
+    "interval": "0",
+    "lapses": "0",
+    "modified": "20220112174630692",
+    "recall": "1",
+    "reps": "2",
+    "review": "20220112174442587",
+    "stability": "2",
+    "tags": "English",
+    "type": "text/vnd.tiddlywiki",
+    "text": "!!! sentence\n<p style=\"text-indent:2em\">\n''\n__This success__, coupled __later research__ showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one.\n''\n</p>\n\n<hr>\n\n!!! translate\n<p style=\"text-indent:2em\">\n译文赏析：这种成功和后来表明记忆本身并不是先天决定的研究使爱立信总结道，记忆的行为与其说是一种先天的行为不如说是一种习得的行为。\n</p>\n\n<hr>\n\n!!! vocabulary\n* cognitive  认知的（后天习得的）\n<<<\n\"\"\"\nNature先天；\nnurture后天；\nborn ;先天的；\nmade 后天的；\ninnate天生的；\nAcquired后天习得；\n\"\"\"\n<<<\n\n* coupled with 相当于and,类似的表达还有along with ; combined with等。\n\n* determine 决定\n\n<hr>\n\n!!! analyze\n* more ... than 与其说， 不如说\n\n* 由于主语中的第二个并列成分比较长，且是用两个逗号隔开的，在阅读的时候可以跳读；把This success和动词led先连起来然后再来解析其他成分。\n\n* 其他成分：在research后面接一个现在分词短语做后置定语，在这个现在分词短语中that引导的从句做showing 的宾语；在不定式短语中that引导的从句做conclude的宾语；",
+    "revision": "0",
+    "bag": "default"
+}
