@@ -1,3 +1,13 @@
+<!-- vim-markdown-toc GitLab -->
+
+* [Usage](#usage)
+  * [Linux](#linux)
+* [Window](#window)
+  * [methos1](#methos1)
+  * [methos2](#methos2)
+
+<!-- vim-markdown-toc -->
+
 ## Usage
 ### Linux
 * install `cmake` `node` `git`
@@ -6,9 +16,9 @@
 ---
 
 ## Window
-### methos 1
+### methos1
 * install node git
 * `npm i -g tiddlywiki`(important)
 * click run.bat
-### methos 2
+### methos2
 * use tidGIt-desktop(太微)
