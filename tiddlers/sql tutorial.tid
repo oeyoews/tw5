@@ -1,0 +1,13 @@
+created: 20220121185644737
+modified: 20220121185745107
+tags: sql
+title: sql tutorial
+type: text/vnd.tiddlywiki
+
+```sql
+-- comment 1
+# comment 2
+/*
+multi lines
+*/ 
+```
