@@ -1,16 +1,16 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022刘晓艳 你还在背“单”词吗？/SearchWord}}
 created: 20220118152122977
-difficulty: 5
-due: 20220122162329869
-grade: -1
-history: []
-interval: 0
+difficulty: 4.148683298050514
+due: 20220126085734034
+grade: 2
+history: [{"due":"20220126085734034","interval":"1","difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":"2","lapses":0,"reps":2,"review":"20220122085734033"}]
+interval: 1
 lapses: 0
-modified: 20220120162329869
-reps: 1
-retrievability: 1
-review: 20220120162329869
-stability: 2
+modified: 20220122085734034
+reps: 2
+retrievability: 0.9486832980505138
+review: 20220122085734033
+stability: 4.03183163653078
 tags: [[第一部分 核心词汇趣讲 Unit 1]] ?
 title: 2022刘晓艳 你还在背“单”词吗？/20220118152122977301
 type: text/vnd.tiddlywiki
