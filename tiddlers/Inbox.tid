@@ -1,10 +1,11 @@
 created: 20220104055546661
 list: hello! one [[one  1]] test [[thisis a demo]] two [[two 1]] [[storylist ???]] [[add bat for tw]] [[artifacts ???]] [[github or gitlab to use crontab functions]] [[headmap ？？？]] [[how adjust window scale]] [[how to add indent in tw wiki?]] [[how to use vim bingings for tw]] [[learn bat in cmd]] 大数据？ [[leetcode use java?]] [[powershell is different cmd]] [[shadow??? ]] [[c go java]]
 list-before: $:/core/ui/SideBar/Open
-modified: 20220113063353530
+modified: 20220123093351323
 tags: $:/tags/SideBar
 title: Inbox
 tmap.id: 3e24dc7b-66fe-4c38-a65d-64183e1b0e1b
 type: text/vnd.tiddlywiki
 
+<h3 align="center"> Inbox </h3>
 {{$:/plugins/nico/projectify/ui/dashboard/Dashboard}}
