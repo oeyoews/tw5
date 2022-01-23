@@ -1,0 +1,7 @@
+created: 20220123084513553
+modified: 20220123084540113
+tags: Linux Tip
+title: edit timer
+type: text/vnd.tiddlywiki
+
+sudo systemctl edit fstrim.timer

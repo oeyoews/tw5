@@ -1,7 +1,7 @@
 created: 20220109150740747
-modified: 20220109150913401
+modified: 20220123090049373
 tags: Custom
 title: list-filter
 type: text/vnd.tiddlywiki
 
-<<list-search filter:"[tag[English]limit[10]]">>
+<<list-search filter:"[tag[English]limit[100]]">>
