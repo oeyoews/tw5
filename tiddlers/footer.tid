@@ -1,14 +1,14 @@
 created: 20220109112901644
-modified: 20220118164708819
+modified: 20220123091507153
 tags: Custom
 title: footer
 type: text/vnd.tiddlywiki
 
 <div style="color:DarkGray;font-size:90%;" align="Right">
 <$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
-
+Last Updated:
 <$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss"/> 
-updated<br>
+
 
 </$list>
 </div>
