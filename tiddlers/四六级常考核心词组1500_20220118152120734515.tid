@@ -1,16 +1,16 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/四六级常考核心词组1500/SearchWord}}
 created: 20220118152120734
-difficulty: 6.148683298050514
-due: 20220123164848246
-grade: 0
-history: [{"due":"20220123164848246","interval":"1","difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":"0","lapses":1,"reps":1,"review":"20220122164848245"}]
+difficulty: 5.280041887453755
+due: 20220127114410738
+grade: 2
+history: [{"due":"20220123164848246","interval":"1","difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":"0","lapses":1,"reps":1,"review":"20220122164848245"},{"due":"20220127114410738","interval":"1","difficulty":5.280041887453755,"stability":3.303329330684263,"retrievability":0.9313585894032408,"grade":"2","lapses":1,"reps":2,"review":"20220124114410737"}]
 interval: 1
 lapses: 1
-modified: 20220122164848246
-reps: 1
-retrievability: 0.9486832980505138
-review: 20220122164848245
-stability: 1.4816364413634358
+modified: 20220124114410738
+reps: 2
+retrievability: 0.9313585894032408
+review: 20220124114410737
+stability: 3.303329330684263
 tags: [[Part 1 动词词组 Unit 1]] ?
 title: 四六级常考核心词组1500/20220118152120734515
 type: text/vnd.tiddlywiki
