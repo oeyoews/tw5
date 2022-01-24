@@ -1,0 +1,13 @@
+created: 20220124191241974
+modified: 20220124191632588
+parent: org-mode
+stream-list: org-mode/20220124191241972/20220124191439075 org-mode/20220124191241972/20220124191442381 org-mode/20220124191632585
+stream-type: default
+title: org-mode/20220124191241972
+type: text/vnd.tiddlywiki
+
+```org
+#+BEGIN_QUOTE
+引用内容
+#+END_QUOTE
+```

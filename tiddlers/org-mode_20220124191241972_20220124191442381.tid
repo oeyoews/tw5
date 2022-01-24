@@ -1,0 +1,10 @@
+created: 20220124191442383
+modified: 20220124191722365
+parent: org-mode/20220124191241972
+stream-type: default
+title: org-mode/20220124191241972/20220124191442381
+type: text/vnd.tiddlywiki
+
+src q 
+
+代码块稍微复杂一点，插入的话是通过输入"<s"然后按 TAB 键来达到，但插入后还要在"#+BEGIN_SRC"后指定代码的语言类型(如上例所示)。

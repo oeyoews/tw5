@@ -1,0 +1,9 @@
+created: 20220124191439077
+modified: 20220124191440354
+parent: org-mode/20220124191241972
+stream-list: 
+stream-type: default
+title: org-mode/20220124191241972/20220124191439075
+type: text/vnd.tiddlywiki
+
+在org文件中输入"<q"然后按 TAB 键会自动插入一个引用块，插入后在其中进行编辑即可。
