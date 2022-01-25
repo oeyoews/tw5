@@ -1,0 +1,7 @@
+created: 20220125105219591
+modified: 20220125105308973
+tags: Tip Linux
+title: grub parameter
+type: text/vnd.tiddlywiki
+
+in grub file, add `nowatchdog` parameter, to disable watchdog
