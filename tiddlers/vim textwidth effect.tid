@@ -1,0 +1,7 @@
+created: 20220125105530849
+modified: 20220125105627917
+tags: vim Bug
+title: vim textwidth effect
+type: text/vnd.tiddlywiki
+
+note: not set textwidth for grub file, two lines, don't do that.
