@@ -1,17 +1,9 @@
 created: 20211226165101472
-difficulty: 4.148683298050514
-due: 20220126085723541
 grade: 2
 history: [{"due":"20220126085723541","interval":"1","difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":"2","lapses":0,"reps":2,"review":"20220122085723540"}]
-interval: 1
-lapses: 0
-modified: 20220122085723542
+modified: 20220125161410597
 recall: 0.9
-reps: 2
-retrievability: 0.9486832980505138
-review: 20220122085723540
-stability: 4.03183163653078
-tags: Linux ?
+tags: Linux
 title: reference
 tmap.id: aee4db7a-2094-4e92-b4ef-440a0ba6cf36
 type: text/vnd.tiddlywiki
