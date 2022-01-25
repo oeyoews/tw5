@@ -1,8 +1,11 @@
 created: 20220125020050366
-modified: 20220125020138748
+modified: 20220125031124376
 tags: emacs
 title: emacs daemon
 type: text/vnd.tiddlywiki
 
 systemctl --user enable emacs
+
 emacsclient -c(just in terminal)
+
+systemctl --user restart emacs
