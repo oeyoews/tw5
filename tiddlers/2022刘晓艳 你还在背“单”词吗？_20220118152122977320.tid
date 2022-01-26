@@ -1,16 +1,16 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022刘晓艳 你还在背“单”词吗？/SearchWord}}
 created: 20220118152122977
-difficulty: 4.148683298050514
-due: 20220126164724720
-grade: 2
-history: [{"due":"20220126164724720","interval":"1","difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":"2","lapses":0,"reps":2,"review":"20220122164724720"}]
-interval: 1
+difficulty: 4.273281035577979
+due: 20220204204939635
+grade: 1
+history: [{"due":"20220126164724720","interval":"1","difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":"2","lapses":0,"reps":2,"review":"20220122164724720"},{"due":"20220204204939635","interval":"3","difficulty":4.273281035577979,"stability":9.21840816564016,"retrievability":0.9245977375274645,"grade":"1","lapses":0,"reps":3,"review":"20220126204939635"}]
+interval: 3
 lapses: 0
-modified: 20220122164724720
-reps: 2
-retrievability: 0.9486832980505138
-review: 20220122164724720
-stability: 4.03183163653078
+modified: 20220126204939635
+reps: 3
+retrievability: 0.9245977375274645
+review: 20220126204939635
+stability: 9.21840816564016
 tags: [[第一部分 核心词汇趣讲 Unit 1]] ?
 title: 2022刘晓艳 你还在背“单”词吗？/20220118152122977320
 type: text/vnd.tiddlywiki

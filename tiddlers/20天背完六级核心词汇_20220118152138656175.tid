@@ -1,15 +1,16 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/20天背完六级核心词汇/SearchWord}}
 created: 20220118152138656
-difficulty: 5
-due: 20220126161523337
-grade: -1
-history: []
+difficulty: NaN
+due: 20220127204902350
+grade: 1
+history: [{"due":"20220127204902350","interval":"0","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":2,"review":"20220126204902350"}]
 interval: 0
 lapses: 0
-modified: 20220125161523337
-reps: 1
-retrievability: 1
-review: 20220125161523337
+modified: 20220126204902350
+reps: 2
+retrievability: NaN
+review: 20220126204902350
+stability: NaN
 tags: [[Day 1 核心词汇]] ?
 title: 20天背完六级核心词汇/20220118152138656175
 type: text/vnd.tiddlywiki

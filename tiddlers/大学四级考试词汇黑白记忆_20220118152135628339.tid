@@ -1,15 +1,15 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/大学四级考试词汇黑白记忆/SearchWord}}
 created: 20220118152135628
-difficulty: 6.148683298050514
-due: 20220126161255744
-grade: 0
-history: [{"due":"20220126161255744","interval":"1","difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":"0","lapses":1,"reps":1,"review":"20220125161255743"}]
-interval: 1
+difficulty: 6.348683298050514
+due: 20220127204846230
+grade: 1
+history: [{"due":"20220126161255744","interval":"1","difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":"0","lapses":1,"reps":1,"review":"20220125161255743"},{"due":"20220127204846230","interval":"0","difficulty":6.348683298050514,"stability":1.4816364413634358,"retrievability":1,"grade":"1","lapses":1,"reps":2,"review":"20220126204846230"}]
+interval: 0
 lapses: 1
-modified: 20220125161255744
-reps: 1
-retrievability: 0.9486832980505138
-review: 20220125161255743
+modified: 20220126204846230
+reps: 2
+retrievability: 1
+review: 20220126204846230
 stability: 1.4816364413634358
 tags: [[Unit 1 文化教育：Lesson 1 读书]] ?
 title: 大学四级考试词汇黑白记忆/20220118152135628339

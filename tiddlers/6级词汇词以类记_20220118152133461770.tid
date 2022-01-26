@@ -1,16 +1,16 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/6级词汇词以类记/SearchWord}}
 created: 20220118152133461
-difficulty: 5
-due: 20220126201234663
-grade: -1
-history: []
-interval: 0
+difficulty: 5.148683298050514
+due: 20220130205216352
+grade: 1
+history: [{"due":"20220130205216352","interval":"1","difficulty":5.148683298050514,"stability":3.7467775080817907,"retrievability":0.9486832980505138,"grade":"1","lapses":0,"reps":2,"review":"20220126205216352"}]
+interval: 1
 lapses: 0
-modified: 20220124201234663
-reps: 1
-retrievability: 1
-review: 20220124201234663
-stability: 2
+modified: 20220126205216352
+reps: 2
+retrievability: 0.9486832980505138
+review: 20220126205216352
+stability: 3.7467775080817907
 tags: [[多彩生活：工作ING - 职场新鲜人]] ?
 title: 6级词汇词以类记/20220118152133461770
 type: text/vnd.tiddlywiki

@@ -1,8 +1,10 @@
 created: 20211230003544329
-modified: 20220112165158641
+modified: 20220126204715409
 tags: $:/tags/Commander/Working Bug
 title: bug/kitty
 tmap.id: de8d2b72-5475-4f28-8c26-05502ba32ea0
 type: text/vnd.tiddlywiki
 
 it's wired for kitty use window + enter (some is wrong in delay) may be 卡顿， just reboot your terminal
+
+<kbd>shift click</kbd> jump url in browser

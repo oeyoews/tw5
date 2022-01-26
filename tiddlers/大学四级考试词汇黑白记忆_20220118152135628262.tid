@@ -1,16 +1,16 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/大学四级考试词汇黑白记忆/SearchWord}}
 created: 20220118152135628
-difficulty: 4.148683298050514
-due: 20220126164811760
-grade: 2
-history: [{"due":"20220126164811760","interval":"1","difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":"2","lapses":0,"reps":2,"review":"20220122164811760"}]
-interval: 1
+difficulty: 4.273281035577979
+due: 20220204205028832
+grade: 1
+history: [{"due":"20220126164811760","interval":"1","difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":"2","lapses":0,"reps":2,"review":"20220122164811760"},{"due":"20220204205028832","interval":"3","difficulty":4.273281035577979,"stability":9.21840816564016,"retrievability":0.9245977375274645,"grade":"1","lapses":0,"reps":3,"review":"20220126205028831"}]
+interval: 3
 lapses: 0
-modified: 20220122164811760
-reps: 2
-retrievability: 0.9486832980505138
-review: 20220122164811760
-stability: 4.03183163653078
+modified: 20220126205028832
+reps: 3
+retrievability: 0.9245977375274645
+review: 20220126205028831
+stability: 9.21840816564016
 tags: [[Unit 1 文化教育：Lesson 1 读书]] ?
 title: 大学四级考试词汇黑白记忆/20220118152135628262
 type: text/vnd.tiddlywiki
