@@ -1,0 +1,7 @@
+created: 20220126143029680
+modified: 20220126143105675
+tags: Custom
+title: timelines template
+type: text/vnd.tiddlywiki
+
+<<timeline-vertical filter:"[tag[??]]" class:primary>>
