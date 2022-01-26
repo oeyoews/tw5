@@ -1,0 +1,10 @@
+created: 20220126124515883
+modified: 20220126124754471
+tags: Bug Linux gnome
+title: sound bugs
+type: text/vnd.tiddlywiki
+
+https://wiki.archlinux.org/title/PulseAudio_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
+
+[img width=512 align="center"[files/sound.png]]
+* don't select this simultaneous options in bluetooth mode
