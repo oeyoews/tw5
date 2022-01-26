@@ -1,0 +1,9 @@
+created: 20220126110223226
+modified: 20220126110446645
+tags: org
+title: org table lines
+type: text/vnd.tiddlywiki
+
+`|-` to insert table
+
+<kbd>ctrl c return</kbd> is more fast
