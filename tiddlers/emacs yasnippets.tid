@@ -1,7 +1,9 @@
 created: 20220125024817903
-modified: 20220125024838599
+modified: 20220126121931833
 tags: emacs
 title: emacs yasnippets
 type: text/vnd.tiddlywiki
 
 https://www.eoebook.com/posts/how-to-use-yasnippet/
+
+> if your custom snippets, cat popup, please reboot your daemon and `doom sync`, 
