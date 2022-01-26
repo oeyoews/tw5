@@ -1,14 +1,13 @@
-class: notebook
 created: 20220110064850710
 creator: oeyoews
 icon: 
-modified: 20220110153024878
+modified: 20220126145907885
 modifier: oeyoews
 page-cover: 
 stream-list: 
 stream-type: default
-tags: Journal
-title: 2022/01/10
+tags: Git Tip
+title: git push
 type: text/vnd.tiddlywiki
 
 git push -u url

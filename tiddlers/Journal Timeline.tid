@@ -1,7 +1,8 @@
 created: 20220126143142034
-modified: 20220126143238972
+modified: 20220126145821330
 tags: Custom
 title: Journal Timeline
 type: text/vnd.tiddlywiki
 
+<h3 align="center"> Time line </h3>
 <<timeline-vertical filter:"[tag[Journal]]" class:primary>>
