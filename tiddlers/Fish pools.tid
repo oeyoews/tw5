@@ -1,0 +1,10 @@
+created: 20220127134026601
+modified: 20220127135326443
+tags: Custom
+title: Fish pools
+type: text/vnd.tiddlywiki
+
+<h2 align="center">
+?? show
+</h2>
+<<presenter tag:"??" footer:"Hello vanilla" animation:slidedown theme:homa>>
