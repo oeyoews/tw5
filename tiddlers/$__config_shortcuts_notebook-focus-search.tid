@@ -1,6 +1,6 @@
 created: 20220106043757586
-modified: 20220106043800908
+modified: 20220128210231245
 title: $:/config/shortcuts/notebook-focus-search
 type: text/vnd.tiddlywiki
 
-ctrl+F
+ctrl-shift-F
