@@ -1,0 +1,8 @@
+created: 20220115164322753
+modified: 20220128205216067
+tags: Linux Tip
+title: systemctl commands
+type: text/vnd.tiddlywiki
+
+systemctl default
+systemctl daemon-reload
