@@ -1,0 +1,7 @@
+created: 20220128185005204
+modified: 20220128185031877
+tags: ??
+title: pm2 tw
+type: text/vnd.tiddlywiki
+
+pm2 start - -name mynewwiki /usr/bin/tiddlywiki -- --listen
