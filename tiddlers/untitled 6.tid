@@ -1,0 +1,12 @@
+created: 20220128174421789
+modified: 20220128174632966
+tags: ??
+title: untitled 6
+type: text/vnd.tiddlywiki
+
+[img [files/resetpasswdhalo.png]]
+
+* but can't new passwd, and save config extend
+
+>vim logs/spring.log
+>search `reset password`(last)
