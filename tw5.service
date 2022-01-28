@@ -1,0 +1,18 @@
+[Unit]
+Description=TiddlyWiki5 Service
+Documentation=https://oeyoews.top
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=oeyoews
+/*ExecStart=/home/oeyoews/.npm/bin/tiddlywiki -server -Xms256m -Xmx256m tiddlywiki /home/oeyoews/Repos --listen port=8090*/
+ExecStop=/bin/kill -s QUIT $MAINPID
+Restart=always
+StandOutput=syslog
+
+StandError=inherit
+
+[Install]
+WantedBy=multi-user.target
