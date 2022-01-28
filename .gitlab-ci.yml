@@ -14,7 +14,7 @@ pages:
     paths:
     - public
     #expire_in: 1 day
-    expire_in: 1 min
+    expire_in: 2 mins
     #expire_in: never
   only:
   #- main
