@@ -1,0 +1,9 @@
+created: 20220129130407648
+modified: 20220129131640442
+tags: $:/tags/Macro
+title: sayhi
+type: text/vnd.tiddlywiki
+
+\define sayhi(name:"兔八哥" address:"兔子坑")
+嗨，我是 $name$，住在 $address$.
+\end
