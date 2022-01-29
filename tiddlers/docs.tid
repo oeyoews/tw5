@@ -1,5 +1,5 @@
 created: 20220129135449279
-modified: 20220129135759297
+modified: 20220129143021670
 tags: Index
 title: docs
 type: text/vnd.tiddlywiki
@@ -7,8 +7,3 @@ type: text/vnd.tiddlywiki
 <h2 align="center">
 </h2>
 <<presenter tag:"docs" footer:"Hello" animation:slidedown theme:homa>>
-<div class="tc-table-of-contents">
-
-<<toc-selective-expandable 'docs'>>
-
-</div>
