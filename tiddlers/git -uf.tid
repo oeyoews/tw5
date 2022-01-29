@@ -1,7 +1,7 @@
 created: 20220128134547160
-modified: 20220128134602643
-tags: ??
-title: untitled 3
+modified: 20220129150307554
+tags: Git
+title: git -uf
 type: text/vnd.tiddlywiki
 
 git -uf origin main
