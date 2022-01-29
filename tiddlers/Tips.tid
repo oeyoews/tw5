@@ -1,0 +1,9 @@
+created: 20220129151914293
+modified: 20220129151925877
+tags: Index
+title: Tips
+type: text/vnd.tiddlywiki
+
+<h2 align="center">
+</h2>
+<<presenter tag:"Tips" footer:"Hello" animation:slidedown theme:homa>>

@@ -1,0 +1,10 @@
+{
+    "created": "20220108082756901",
+    "text": "<h2 align=\"center\">\nTip\n</h2>\n<<presenter tag:\"Tip\" footer:\"Hello\" animation:slidedown theme:homa>>\n\n<<tabs tabsList:\"[tag[Tip]]\" default:\"tips/1\" class:\"tc-vertical\">>\n\n<div class=\"tc-table-of-contents\">\n\n<<toc-selective-expandable 'Tip'>>\n\n</div>",
+    "title": "Tip",
+    "modified": "20220129134458888",
+    "tags": "Index",
+    "type": "text/vnd.tiddlywiki",
+    "bag": "default",
+    "revision": "2"
+}

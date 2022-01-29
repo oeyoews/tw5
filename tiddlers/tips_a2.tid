@@ -1,9 +1,9 @@
 created: 20211229113606042
 creator: oeyoews
 history: [{"due":"20220116165838564","interval":"1","difficulty":4.148683298050514,"stability":4.03183163653078,"recall":0.9486832980505138,"lapses":0,"reps":2,"review":"20220112165838563"},{"due":"20220120160449456","interval":"1","difficulty":3.3228896168697872,"stability":6.095397876296298,"recall":0.9742063188192731,"lapses":0,"reps":3,"review":"20220114160449456"}]
-modified: 20220129140212999
+modified: 20220129151848943
 modifier: oeyoews
-tags: Tip Tw
+tags: $:/tags/Commander/Working TiddlyWiki5 Tips
 title: tips/a2
 tmap.id: c0c98519-b7b0-4b5d-b184-a093e89cdb2d
 type: text/vnd.tiddlywiki
