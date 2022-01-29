@@ -1,0 +1,11 @@
+created: 20220129132457359
+modified: 20220129132624542
+tags: ??
+title: untitled 9
+type: text/vnd.tiddlywiki
+
+<<accordion label:"Test" content:"This is a sample text!">> 
+
+
+
+<$macrocall $name=accordion label="My Accordion" content=<<.lorem>> stateTid="temp/02"/>

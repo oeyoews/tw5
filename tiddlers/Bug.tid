@@ -1,11 +1,14 @@
 color: #d3b9e4
 created: 20211227064131826
-modified: 20220128205848430
+modified: 20220129134538866
 tags: Index
 title: Bug
 tmap.id: 464edb83-5b26-4eeb-b6dd-e0b03d1b0a67
 type: text/vnd.tiddlywiki
 
+<h2 align="center">
+</h2>
+<<presenter tag:"Bug" footer:"Hello" animation:slidedown theme:homa>>
 <div class="tc-table-of-contents">
 
 <<toc-selective-expandable 'Bug'>>

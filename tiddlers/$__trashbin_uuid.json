@@ -1,0 +1,7 @@
+{
+    "created": "20220129131811274",
+    "text": "(function() {\n\n    \"use strict\";\n\n    exports.name = \"uid\";\n\n    exports.params = [];\n\n    exports.run = function() {\n        let newID;\n        do {\n            newID = Math.random().toString(36).substr(2, 6);\n        } while (this.wiki.getTiddler(newID))\n        return newID;\n    };\n\n})();",
+    "tags": "$:/tags/Macro",
+    "title": "uuid",
+    "modified": "20220129131830937"
+}

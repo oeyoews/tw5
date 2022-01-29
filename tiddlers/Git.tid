@@ -1,10 +1,13 @@
 created: 20220104074754220
-modified: 20220128205824027
+modified: 20220129134639065
 tags: Index
 title: Git
 tmap.id: 1bc4babc-231a-488f-893e-6403be29a59c
 type: text/vnd.tiddlywiki
 
+<h2 align="center">
+</h2>
+<<presenter tag:"Git" footer:"Hello" animation:slidedown theme:homa>>
 <div class="tc-table-of-contents">
 
 <<toc-selective-expandable 'Git'>>

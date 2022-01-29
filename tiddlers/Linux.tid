@@ -1,9 +1,13 @@
 created: 20211229162758890
-modified: 20220113111238037
+modified: 20220129134620086
 tags: Index
 title: Linux
 tmap.id: 703bf95c-b7e5-4a18-aad1-840177b9e04b
 type: text/vnd.tiddlywiki
+
+<h2 align="center">
+</h2>
+<<presenter tag:"Linux" footer:"Hello" animation:slidedown theme:homa>>
 
 <div class="tc-table-of-contents">
 

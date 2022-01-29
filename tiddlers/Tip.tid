@@ -1,8 +1,13 @@
 created: 20220108082756901
-modified: 20220128205901402
+modified: 20220129134458888
 tags: Index
 title: Tip
 type: text/vnd.tiddlywiki
+
+<h2 align="center">
+Tip
+</h2>
+<<presenter tag:"Tip" footer:"Hello" animation:slidedown theme:homa>>
 
 <<tabs tabsList:"[tag[Tip]]" default:"tips/1" class:"tc-vertical">>
 

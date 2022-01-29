@@ -1,0 +1,19 @@
+created: 20220129132414789
+modified: 20220129132604905
+tags: $:/tags/Macro
+title: Test macro
+type: text/vnd.tiddlywiki
+
+\define acdetails(status)
+<details class="ac-dtl" $status$><summary style="display:none"></summary>
+<$transclude tiddler=<<__content__>> field=title mode=block/>
+</details>
+\end
+
+\define accordion(label:"Details", content:"", stateTid:"$:/state/accordion")
+<style>.ac-btn{font-weight:500}.ac-dtl{margin-top:0.0rem;padding:0 5px;}</style>
+<$button class="tc-btn-invisible ac-btn"> $label$
+<$action-listops $tiddler=<<__stateTid__>> $field="text" $subfilter="+[toggle[open]]" />
+</$button>
+<$macrocall $name=acdetails status={{{ [<__stateTid__>get[text]]}}}   />
+\end
