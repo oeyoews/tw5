@@ -1,16 +1,16 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/四六级常考词组必备/SearchWord}}
 created: 20220118152130989
-difficulty: 5
-due: 20220127160606079
-grade: -1
-history: []
-interval: 0
+difficulty: 5.0538149682454625
+due: 20220205094848574
+grade: 1
+history: [{"due":"20220205094848574","interval":"3","difficulty":5.0538149682454625,"stability":7.290234566162131,"retrievability":0.8538149682454624,"grade":"1","lapses":0,"reps":2,"review":"20220129094848573"}]
+interval: 3
 lapses: 0
-modified: 20220125160606079
-reps: 1
-retrievability: 1
-review: 20220125160606078
-stability: 2
+modified: 20220129094848574
+reps: 2
+retrievability: 0.8538149682454624
+review: 20220129094848573
+stability: 7.290234566162131
 tags: [[四级核心词组 Unit 1]] ?
 title: 四六级常考词组必备/20220118152130989108
 type: text/vnd.tiddlywiki

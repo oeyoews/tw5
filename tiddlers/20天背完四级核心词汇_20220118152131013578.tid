@@ -1,15 +1,15 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/20天背完四级核心词汇/SearchWord}}
 created: 20220118152131013
 difficulty: NaN
-due: 20220127205655991
+due: 20220130095221284
 grade: 1
-history: [{"due":"20220127205655991","interval":"0","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":2,"review":"20220126205655991"}]
-interval: 0
+history: [{"due":"20220127205655991","interval":"0","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":2,"review":"20220126205655991"},{"due":"20220130095221284","interval":"2","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":3,"review":"20220129095221283"}]
+interval: 2
 lapses: 0
-modified: 20220126205655991
-reps: 2
+modified: 20220129095221284
+reps: 3
 retrievability: NaN
-review: 20220126205655991
+review: 20220129095221283
 stability: NaN
 tags: [[Day 1 核心词汇]] ?
 title: 20天背完四级核心词汇/20220118152131013578
