@@ -30,5 +30,6 @@ sudo cp tw5.service /etc/systemd/system/
 systemctl daemon-reload
 
 ## run
-`npm run dev`
+`npm run dev` depend git bashui in windows
 `yarn dev`
+> NOTE: if you use npm run dev &, only use npm run dev again , and ctrl c to exit this node program
