@@ -13,9 +13,7 @@ pages:
   artifacts:
     paths:
     - public
-    #expire_in: 1 day
-    expire_in: 2 mins
-    #expire_in: never
+    expire_in: 7 days
   only:
   #- main
     - tags
