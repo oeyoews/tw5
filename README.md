@@ -6,12 +6,13 @@
   * [methos1](#methos1)
   * [methos2](#methos2)
 * [service](#service)
+* [run](#run)
 
 <!-- vim-markdown-toc -->
 
 ## Usage
 ### Linux
-* install `cmake` `node` `git`
+* install `make` `node` `git`
 * type make in current directory
 
 ---
@@ -27,3 +28,7 @@
 ## service
 sudo cp tw5.service /etc/systemd/system/
 systemctl daemon-reload
+
+## run
+`npm run dev`
+`yarn dev`
