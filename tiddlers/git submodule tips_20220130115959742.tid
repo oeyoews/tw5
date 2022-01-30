@@ -1,0 +1,9 @@
+created: 20220130115959747
+modified: 20220130120001009
+parent: git submodule tips
+stream-list: 
+stream-type: default
+title: git submodule tips/20220130115959742
+type: text/vnd.tiddlywiki
+
+git ls-files --stage | grep 160000
