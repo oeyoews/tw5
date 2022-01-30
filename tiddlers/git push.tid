@@ -1,12 +1,12 @@
 created: 20220110064850710
 creator: oeyoews
 icon: 
-modified: 20220129151848935
+modified: 20220130030454401
 modifier: oeyoews
 page-cover: 
 stream-list: 
 stream-type: default
-tags: Git $:/tags/Commander/Working Tips
+tags: $:/tags/Commander/Working Tips git
 title: git push
 type: text/vnd.tiddlywiki
 

@@ -1,0 +1,10 @@
+{
+    "title": "Win",
+    "created": "20220108161103970",
+    "modified": "20220129134658388",
+    "tags": "Index",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<h2 align=\"center\">\n</h2>\n<<presenter tag:\"Win\" footer:\"Hello\" animation:slidedown theme:homa>>\n<div class=\"tc-table-of-contents\">\n\n<<toc-selective-expandable 'Win'>>\n\n</div>",
+    "revision": "0",
+    "bag": "default"
+}
