@@ -1,0 +1,7 @@
+created: 20220130134204570
+modified: 20220130134256290
+tags: frontend
+title: markdown lint
+type: text/vnd.tiddlywiki
+
+[[markdownlint|https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md#md013---line-length]]
