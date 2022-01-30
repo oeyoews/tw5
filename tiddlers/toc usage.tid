@@ -1,5 +1,5 @@
 created: 20220130152546200
-modified: 20220130153053139
+modified: 20220130153417841
 tags: docs
 title: toc usage
 type: text/vnd.tiddlywiki
@@ -7,3 +7,6 @@ type: text/vnd.tiddlywiki
 \import [all[tiddlers+shadows]tag[$:/tags/Macro/Toc]]
 
 <<multilevel-toc-expandable tag:"Index" stateTiddler:"20200226">>
+
+<<toc-ui tag:"Index" stateTiddler:"202002201122">>
+> it's dangers
