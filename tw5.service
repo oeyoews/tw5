@@ -7,7 +7,7 @@ Wants=network-online.target
 [Service]
 Type=simple
 User=oeyoews
-ExecStart=/home/oeyoews/.npm/bin/tiddlywiki /home/oeyoews/Repos/TiddlyWiki5 --listen port=8090
+ExecStart=/home/oeyoews/.npm/bin/tiddlywiki /home/oeyoews/REPOS/TiddlyWiki5 --listen port=8090
 ExecStop=/bin/kill -s QUIT $MAINPID
 Restart=always
 
