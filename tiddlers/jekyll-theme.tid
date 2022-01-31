@@ -1,0 +1,7 @@
+created: 20220131125245773
+modified: 20220131125322242
+tags: frontend
+title: jekyll-theme
+type: text/vnd.tiddlywiki
+
+add _config.yml add echo `theme: jekyll-theme-cayman`
