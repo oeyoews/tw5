@@ -1,16 +1,16 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/大学四级考试词汇黑白记忆/SearchWord}}
 created: 20220118152135628
-difficulty: 7.4161121201057085
-due: 20220130094904092
-grade: 0
-history: [{"due":"20220126161255744","interval":"1","difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":"0","lapses":1,"reps":1,"review":"20220125161255743"},{"due":"20220127204846230","interval":"0","difficulty":6.348683298050514,"stability":1.4816364413634358,"retrievability":1,"grade":"1","lapses":1,"reps":2,"review":"20220126204846230"},{"due":"20220130094904092","interval":"2","difficulty":7.4161121201057085,"stability":0,"retrievability":0.8674288220551943,"grade":"0","lapses":2,"reps":1,"review":"20220129094904092"}]
+difficulty: 6.616112120105709
+due: 20220201093111876
+grade: 1
+history: [{"due":"20220126161255744","interval":"1","difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":"0","lapses":1,"reps":1,"review":"20220125161255743"},{"due":"20220127204846230","interval":"0","difficulty":6.348683298050514,"stability":1.4816364413634358,"retrievability":1,"grade":"1","lapses":1,"reps":2,"review":"20220126204846230"},{"due":"20220130094904092","interval":"2","difficulty":7.4161121201057085,"stability":0,"retrievability":0.8674288220551943,"grade":"0","lapses":2,"reps":1,"review":"20220129094904092"},{"due":"20220201093111876","interval":"2","difficulty":6.616112120105709,"stability":null,"retrievability":0,"grade":"1","lapses":2,"reps":2,"review":"20220131093111876"}]
 interval: 2
 lapses: 2
-modified: 20220129094904093
-reps: 1
-retrievability: 0.8674288220551943
-review: 20220129094904092
-stability: 0
+modified: 20220131093111876
+reps: 2
+retrievability: 0
+review: 20220131093111876
+stability: NaN
 tags: [[Unit 1 文化教育：Lesson 1 读书]] ?
 title: 大学四级考试词汇黑白记忆/20220118152135628339
 type: text/vnd.tiddlywiki

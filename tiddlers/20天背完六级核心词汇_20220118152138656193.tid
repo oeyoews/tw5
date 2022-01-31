@@ -1,15 +1,15 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/20天背完六级核心词汇/SearchWord}}
 created: 20220118152138656
 difficulty: NaN
-due: 20220130094943128
+due: 20220201093156576
 grade: 1
-history: [{"due":"20220127204910265","interval":"0","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":2,"review":"20220126204910265"},{"due":"20220130094943128","interval":"2","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":3,"review":"20220129094943127"}]
+history: [{"due":"20220127204910265","interval":"0","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":2,"review":"20220126204910265"},{"due":"20220130094943128","interval":"2","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":3,"review":"20220129094943127"},{"due":"20220201093156576","interval":"2","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":4,"review":"20220131093156575"}]
 interval: 2
 lapses: 0
-modified: 20220129094943128
-reps: 3
+modified: 20220131093156576
+reps: 4
 retrievability: NaN
-review: 20220129094943127
+review: 20220131093156575
 stability: NaN
 tags: [[Day 1 核心词汇]] ?
 title: 20天背完六级核心词汇/20220118152138656193
