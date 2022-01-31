@@ -1,16 +1,16 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/6级词汇词以类记/SearchWord}}
 created: 20220118152133461
-difficulty: 5.148683298050514
-due: 20220130205250222
+difficulty: 5.242297437222169
+due: 20220210141443256
 grade: 1
-history: [{"due":"20220130205250222","interval":"1","difficulty":5.148683298050514,"stability":3.7467775080817907,"retrievability":0.9486832980505138,"grade":"1","lapses":0,"reps":2,"review":"20220126205250221"}]
-interval: 1
+history: [{"due":"20220130205250222","interval":"1","difficulty":5.148683298050514,"stability":3.7467775080817907,"retrievability":0.9486832980505138,"grade":"1","lapses":0,"reps":2,"review":"20220126205250221"},{"due":"20220210141443256","interval":"4","difficulty":5.242297437222169,"stability":9.822564045265842,"retrievability":0.8936141391716548,"grade":"1","lapses":0,"reps":3,"review":"20220131141443255"}]
+interval: 4
 lapses: 0
-modified: 20220126205250222
-reps: 2
-retrievability: 0.9486832980505138
-review: 20220126205250221
-stability: 3.7467775080817907
+modified: 20220131141443256
+reps: 3
+retrievability: 0.8936141391716548
+review: 20220131141443255
+stability: 9.822564045265842
 tags: [[多彩生活：工作ING - 职场新鲜人]] ?
 title: 6级词汇词以类记/20220118152133461779
 type: text/vnd.tiddlywiki
