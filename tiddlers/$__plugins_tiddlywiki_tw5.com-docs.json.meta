@@ -1,8 +1,0 @@
-dependents: 
-description: Documentation from tiddlywiki.com
-list: 
-name: TW5.com Docs
-plugin-type: plugin
-title: $:/plugins/tiddlywiki/tw5.com-docs
-type: application/json
-version: 5.2.1
