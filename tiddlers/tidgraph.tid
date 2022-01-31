@@ -1,11 +1,10 @@
 created: 20220104154213266
-modified: 20220130051239651
+modified: 20220131135311878
 tags: docs
 title: tidgraph
 tmap.id: 4813a74d-b17a-41a2-9c5e-5d9d872e0f0c
 type: text/vnd.tiddlywiki
 
-<h2 align="center"> 
-Index
-<$tidgraph start="Index" maxdepth=1 layout="E"/>
-</h2>
+<h1 align="center"> 
+<$tidgraph start="Index" maxdepth=1 layout="S"/>
+</h1>
