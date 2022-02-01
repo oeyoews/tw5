@@ -19,8 +19,10 @@
 
 ### service
 
-sudo cp tw5.service /etc/systemd/system/
-systemctl daemon-reload
+* sudo cp tw5.service /etc/systemd/system/
+* systemctl daemon-reload
+* systemctl start xxx.service
+* systemctl enable xxx.service
 
 > if use service, to kill it, and it will start automaticaly instantly
 
