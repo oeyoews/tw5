@@ -1,0 +1,7 @@
+created: 20220131204121138
+modified: 20220131204157409
+tags: git
+title: get remote tags
+type: text/vnd.tiddlywiki
+
+git pull origin --tags
