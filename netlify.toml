@@ -7,11 +7,11 @@
   ##HUGO_THEMESDIR = "/opt/build"
   #HUGO_VERSION = "0.92.1"
 
-#[context.production.environment]
+[context.production.environment]
   #HUGO_VERSION = "0.92.1"
   #HUGO_ENV = "production"
   #HUGO_ENABLEGITINFO = "true"
-  #HUGO_BASEURL = "https://oeyoews.netlify.app/"
+  HUGO_BASEURL = "https://tw5.netlify.app/"
 
 #[context.split1]
 #command = "hugo --gc --minify --enableGitInfo"
