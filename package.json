@@ -10,7 +10,8 @@
   },
   "scripts": {
     "localbuild": "tiddlywiki --output public --build index",
-    "devbuild": "tiddlywiki --output public --password oeyoew --build index",
+    "devbuild": "tiddlywiki --output public --build index",
+    "devbuildp": "tiddlywiki --output public --password oeyoew --build index",
     "dev": "tiddlywiki  --listen port=8090",
     "copy": "cp -r files public"
   }
