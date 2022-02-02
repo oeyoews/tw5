@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "yarn devbuild"
+  command = "yarn netlifytw5"
 
 #[build.environment]
   ##HUGO_THEME = ""
