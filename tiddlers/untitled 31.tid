@@ -1,0 +1,33 @@
+created: 20220202105915376
+modified: 20220202110109024
+tags: ??
+title: untitled 31
+type: text/vnd.tiddlywiki
+
+```hyml
+<html>
+
+<head>
+
+<style type="text/css">
+
+h1.intro {color:blue;}
+
+p.important {color:green;}
+
+</style>
+
+</head>
+
+<body>
+
+<h1 class="intro">PHP中文网</h1>
+
+<p>一个编程网站</p>
+
+<p class="important">这里是PHP中文网</p>
+
+</body>
+
+</html>
+```
