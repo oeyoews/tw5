@@ -1,0 +1,13 @@
+created: 20220204091742703
+modified: 20220204092146921
+tags: Bug Linux
+title: untitled 41
+type: text/vnd.tiddlywiki
+
+localectl status 
+
+sudoedit /etc/vconsole.conf
+
+loadkeys: Unable to open file: cn: 没有那个文件或目录
+
+[[keymap|https://wiki.archlinux.org/title/Linux_console_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)/Keyboard_configuration_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)]]
