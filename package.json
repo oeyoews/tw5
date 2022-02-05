@@ -14,7 +14,7 @@
     "devbuildp": "tiddlywiki --output public --password oeyoew --build index",
     "dev": "tiddlywiki  --listen port=8090",
     "copy": "cp -r files public",
-    "copy": "cp files/google*.html public/",
+    "copyg": "cp files/google*.html public/",
     "netlifytw5": "tiddlywiki --output public --build index && cp -r files public"
   }
 }
