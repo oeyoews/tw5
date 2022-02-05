@@ -6,7 +6,8 @@ grade: 2
 history: [{"due":"20220206094837398","interval":"3","difficulty":4.0538149682454625,"stability":8.17310579005002,"retrievability":0.8538149682454624,"grade":"2","lapses":0,"reps":2,"review":"20220129094837397"}]
 interval: 3
 lapses: 0
-modified: 20220129094837398
+modified: 20220205104221133
+page-cover: https://cdn.jsDelivr.net/gh/oeyoews/img/twbanner.jpeg
 reps: 2
 retrievability: 0.8538149682454624
 review: 20220129094837397
