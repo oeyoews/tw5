@@ -1,8 +1,8 @@
 created: 20220123162056125
+encrypted: {"iv":"tuE6LRboqlueVTyTXNCDIw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"NzmIVI4y6vM=","ct":"GuA8sdISpZ2CS+aZgrultqQVFo+ejr0NHppcJAFXX2Fry82PY8MbEOEJNz9+J0KplAvv5nu0LBZr+tyQ280ebJyGTxp9pkmHJ3qQbq1PYW1KEFxWtDU5NGWAx9vY1mFGFOh7jhVuIDIHwJp6V2KfyA3tRJ5fWzq1Bu+0juS6vBl91/4DqQzC7SvkkZ16+EqdDEVRjFZ/IC/IwWZ0XaXCRqpnIz7HaUJAzsYEim9O1h3wTA/HgAxFSYtd/debwRubL51PFpA3JA=="}
 modified: 20220123162136368
 tags: private
 title: favourite item
 type: text/vnd.tiddlywiki
 
-history 
-poets
+!!This is an encrypted Tiddler

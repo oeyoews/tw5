@@ -1,33 +1,8 @@
 created: 20220104081144067
-difficulty: 5
-due: 20220114171555620
-history: []
-interval: 0
-lapses: 0
+encrypted: {"iv":"y6uDkLrvh1oAArWpW6UQZw==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"NzmIVI4y6vM=","ct":"BbBM5zDwv7v757njLA08Gy8jwaBE8GYKMwhW1Wvcoth9BhezO2XiMWwlSD+dvbLtKMXEuWcOKivEmniQ39LAOeAhNGrtqzFZRwHe/VZXQwBr8IIcNpZKr1NXI/eyuhQzmAt3FppXwSggDGVthP7y1F9L0eBbm7QRQ5cnTfA+OEICy/S+9I+qHpS2SM94xX8rA/W+AnybtyQS1gWfH/gR7eqRJBE7DXLPz+FF3975EioHTEkmCTr8mHChhiUWyd3MwQU4Xfg7Y2WzuOOEPNB9jEEZ4uOWne4G/39iD2u1BfvQwoGxCX2or9K+XWfqkvjK6mEWvhmmB1/d6JNkyiaEYRgXc8CvkS3Wl87g9FJT3C3zl/lqmSQ2jeAdk5j/VY+q80JZ0OCGg4sec+OAEWzstfDs+B/NWiIn6PUnTeRMR+gGeUZDUx3qJMlDj0L0KqTa0XAXt96OqVT0Sg39nqAtmfRYhj9Egq6W5cqXMvJk9PQ9uB9shALmosN8zZT9KScU8tuCBEoYdcCnM3CfuewXOhXuXoD6e3Wvqjgz+mLrsQS392gstqMdM5Q9wa/W7FipOqt7+zEyIkrtHOn9o6Z0UMrKPomNfJGsUnCAD+KtL8mCQzrx8qbweF9CBlbo9Knm7MpVBuNJhFAZ/io8f3IDLCsyYmko/pmOvHjihlKhu7vyyi++LmW/YMBUgrKkAyq10eyHO6kSsm1ykUwtScTQAjWdfLeypEHD6+2WlPdnW6cWiKpfc2ehGjpeFSkL/uzrWfrVNKSMqYv66tx7DonkikY7mJU="}
 modified: 20220129140212996
-recall: 1
-reps: 1
-review: 20220112171555619
-stability: 2
 tags: private
 title: resume/p1
 type: text/vnd.tiddlywiki
 
-<h1 align="center">xxxx</h1>
-
-!!! 基本信息
-* 姓名： xxx
-* 手机： xxx
-* 微信： 
-* 邮箱： jyao4783@gmail.com
-
-!!! 在校经历
-
-* 2019年-2023年  xxx大学 软件工程 本科
-
-!!! 实习经历
-
-
-!!! 项目经历
-
-!!! 职业技能
+!!This is an encrypted Tiddler

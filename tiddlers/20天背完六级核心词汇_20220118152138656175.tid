@@ -1,15 +1,15 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/20天背完六级核心词汇/SearchWord}}
 created: 20220118152138656
 difficulty: NaN
-due: 20220201093133930
-grade: 1
-history: [{"due":"20220127204902350","interval":"0","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":2,"review":"20220126204902350"},{"due":"20220130094934013","interval":"2","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":3,"review":"20220129094934013"},{"due":"20220201093133930","interval":"2","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":4,"review":"20220131093133930"}]
-interval: 2
+due: 20220206203113704
+grade: 2
+history: [{"due":"20220127204902350","interval":"0","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":2,"review":"20220126204902350"},{"due":"20220130094934013","interval":"2","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":3,"review":"20220129094934013"},{"due":"20220201093133930","interval":"2","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":4,"review":"20220131093133930"},{"due":"20220206203113704","interval":"5","difficulty":null,"stability":null,"retrievability":null,"grade":"2","lapses":0,"reps":5,"review":"20220205203113704"}]
+interval: 5
 lapses: 0
-modified: 20220131093133930
-reps: 4
+modified: 20220205203113704
+reps: 5
 retrievability: NaN
-review: 20220131093133930
+review: 20220205203113704
 stability: NaN
 tags: [[Day 1 核心词汇]] ?
 title: 20天背完六级核心词汇/20220118152138656175

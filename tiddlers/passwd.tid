@@ -1,8 +1,8 @@
 created: 20220118153726666
+encrypted: {"iv":"ifNRxvsrQ55BTApts0iQKg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"NzmIVI4y6vM=","ct":"TZdTGJ2ww61SWYD1iH+uaytQgJFuVAtMLRh1tWt/eweHwxMITCwDMOVbROdlWwqWqsCEEhHX7jKv3mrp5aI+iiK6IKBs1OdJK3CPQQsu9Hd79J/4CSF/Qqx0J9YOXLX768jhWYcn9gnY6FJpJmsu796jMBhS/ZUb68oQuGnxxmPS68gYmyVGo6h8x4bhTt9cuAYiOxQznQDfYqh6EUI03P0y3ffFELPtZl0lBen5j6ZQC7sXCYjvvffu8ttX+TqFwLDp43NmrEkIQj0ks51G+IxiNXopiCpKSrPRFRXIovHBi21kWQ2ordeNmTJn9Q8Jn8lCFlR3okLY1p9RwGAOO7GBZg=="}
 modified: 20220118153902254
 tags: private
 title: passwd
 type: text/vnd.tiddlywiki
 
-Meta
-* Microsoft: In Meta basicly, delete last dot symbol, just have fifteen number.
+!!This is an encrypted Tiddler

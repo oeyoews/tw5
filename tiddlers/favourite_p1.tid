@@ -1,10 +1,8 @@
 created: 20220116182836907
+encrypted: {"iv":"/185vWdxUx3xRgZiRiuhjg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"NzmIVI4y6vM=","ct":"MjVjcUbHfivBBOFvphq1Zg8v+sxgpJYOOCZczmbp40OYPKVFqONpTo0P0Z8t6/3UzoHAZF9Xtx5PzCyROT5DubSheZibGfdAbu5rOEa6P2IN9EU02bmPOqP4PHhXue0AgXaVBDDOv0ksLHLhBIDnAxn7grA+rpbZLbJflkc7vI3HNhLSs35y5WbvJB0+K7eyeQX3N9MbaCl5dIMVEBaTyH674K/hvNd3JDNGoqjmXC1y3UcqcPYT4b3T6EVlc8/QV3d/Col6XJA5+gPBD+KwjffnnI+j9fGcXRZwJ11QrvGnRMHx2HkX1ePcydH7eGEeFXI+R6HcFq3XMJrSNW1VG/rL1r26i/K89lV7PJZ3mDxquD/5cVgnCJ5HmwitLH8uuzdcCrogcbVgaDyULswQ5s14FpY0orjmy74HeN75PutORVnEFkioBWpexszz+6iwBb703WTWMnD21BLjnNrUsDnmRCzPsZPogqVWmr9pvh14"}
 modified: 20220116183321211
 tags: private
 title: favourite/p1
 type: text/vnd.tiddlywiki
 
-* 最喜欢使用的笔记软件： ''Tiddlywiki''
-* 最喜欢使用的桌面操作系统：'' Linux''
-* 最喜欢使用的编辑器： ''Neovim''
-* 经常看的网站： ''Hacker News''
+!!This is an encrypted Tiddler
