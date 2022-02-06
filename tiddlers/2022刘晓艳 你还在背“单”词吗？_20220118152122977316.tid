@@ -1,16 +1,16 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022刘晓艳 你还在背“单”词吗？/SearchWord}}
 created: 20220118152122977
 difficulty: NaN
-due: 20220201093532598
-grade: 1
-history: [{"due":"20220126164713408","interval":"1","difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":"2","lapses":0,"reps":2,"review":"20220122164713408"},{"due":"20220127204920374","interval":"3","difficulty":5.273281035577979,"stability":0,"retrievability":0.9245977375274645,"grade":"0","lapses":1,"reps":1,"review":"20220126204920374"},{"due":"20220130094959983","interval":"2","difficulty":4.473281035577979,"stability":null,"retrievability":0,"grade":"1","lapses":1,"reps":2,"review":"20220129094959982"},{"due":"20220201093532598","interval":"2","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":1,"reps":3,"review":"20220131093532598"}]
-interval: 2
-lapses: 1
-modified: 20220131093532598
-reps: 3
+due: 20220207183154700
+grade: 0
+history: [{"due":"20220126164713408","interval":"1","difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":"2","lapses":0,"reps":2,"review":"20220122164713408"},{"due":"20220127204920374","interval":"3","difficulty":5.273281035577979,"stability":0,"retrievability":0.9245977375274645,"grade":"0","lapses":1,"reps":1,"review":"20220126204920374"},{"due":"20220130094959983","interval":"2","difficulty":4.473281035577979,"stability":null,"retrievability":0,"grade":"1","lapses":1,"reps":2,"review":"20220129094959982"},{"due":"20220201093532598","interval":"2","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":1,"reps":3,"review":"20220131093532598"},{"due":"20220207183154700","interval":"6","difficulty":null,"stability":0,"retrievability":null,"grade":"0","lapses":2,"reps":1,"review":"20220206183154699"}]
+interval: 6
+lapses: 2
+modified: 20220206183154700
+reps: 1
 retrievability: NaN
-review: 20220131093532598
-stability: NaN
+review: 20220206183154699
+stability: 0
 tags: [[第一部分 核心词汇趣讲 Unit 1]] ?
 title: 2022刘晓艳 你还在背“单”词吗？/20220118152122977316
 type: text/vnd.tiddlywiki
