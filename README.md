@@ -7,6 +7,7 @@
     * [methos1](#methos1)
     * [methos2](#methos2)
   * [run(general)](#rungeneral)
+  * [bug](#bug)
 
 <!-- vim-markdown-toc -->
 
@@ -45,3 +46,8 @@
 `yarn dev`
 
 > NOTE: if you use npm run dev &, only use npm run dev again , and ctrl c to exit this node program
+
+## bug
+
+`\$__themes_nico_notebook_ui_Bottombar.tid`
+\$__themes_nico_notebook_ui_Topbar.tid
