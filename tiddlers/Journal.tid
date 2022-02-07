@@ -2,7 +2,7 @@ color: #e5a3e6
 created: 20211229105441495
 icon: $:/core/images/new-journal-button
 list: 2022/01/17 2022/01/19 2022/01/20 20220127
-modified: 20220130050018743
+modified: 20220207155837497
 tags: Index
 title: Journal
 tmap.id: c9b97d56-3fe3-48c2-8bbf-07cb6be7f701
@@ -11,8 +11,3 @@ type: text/vnd.tiddlywiki
 <h2 align="center">
 </h2>
 <<presenter tag:"Journal" footer:"Hello" animation:slidedown theme:homa>>
-<div class="tc-table-of-contents">
-
-<<toc-selective-expandable 'Journal'>>
-
-</div>
