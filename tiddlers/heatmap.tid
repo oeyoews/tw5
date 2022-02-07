@@ -1,10 +1,10 @@
 created: 20220111092324698
 creator: oeyoews
-modified: 20220129135707710
+modified: 20220207054231872
 modifier: oeyoews
 tags: docs
 title: heatmap
 type: text/vnd.tiddlywiki
 
 <h3 align="center"> HeatMap </h3>
-<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/oflg/CalendarHeatmap.js" $height="120px" />
+<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/oflg/CalendarHeatmap.js" $height="150px" />
