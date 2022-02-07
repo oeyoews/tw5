@@ -1,0 +1,15 @@
+created: 20190204123536452
+creator: jd
+modified: 20190204140310285
+modifier: jd
+title: $:/jd/fullscreen-editor/EditTemplate
+type: text/vnd.tiddlywiki
+
+<$navigator story="$:/fullscreen-editor">
+<$keyboard key=((cancel-edit-tiddler)) message="tm-cancel-tiddler">
+<$keyboard key=((save-tiddler)) actions="""<$action-sendmessage $message="tm-save-tiddler"/><$action-sendmessage $message="tm-close-tiddler"/>""" class="fullscreen-story-river" tag="div">
+{{||$:/core/ui/EditTemplate/controls}}
+{{||$:/core/ui/EditTemplate/body}}
+</$keyboard>
+</$keyboard>
+</$navigator>
