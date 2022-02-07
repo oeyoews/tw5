@@ -11,7 +11,7 @@
 
 <!-- vim-markdown-toc -->
 
-[<img src="https://api.netlify.com/api/v1/badges/2a2a2a02-e09a-4909-b4dd-0079e879b37d/deploy-status" alt="Netlify Status" style="zoom:80%;" />](https://app.netlify.com/sites/hugo2/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a42c9618-8fd5-41cd-9cb9-901b588369ad/deploy-status)](https://app.netlify.com/sites/tw5/deploys)
 # README
 
 ## Linux
