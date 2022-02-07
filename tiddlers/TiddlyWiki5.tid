@@ -1,6 +1,7 @@
 color: #65d7c4
 created: 20220122172247072
-modified: 20220130025732374
+icon: $:/core/icon
+modified: 20220207122637067
 tags: Index
 title: TiddlyWiki5
 type: text/vnd.tiddlywiki
