@@ -1,0 +1,12 @@
+{
+    "title": "$:/Tasker/Kanban",
+    "text": "<div class=\"kanban\">\n<p class=\"todo\">\n<strong>{{To do||$:/Tasker/Kanban/new-task}}</strong><br>\n{{$:/Tasker/Kanban/todo}}\n</p>\n<p class=\"doing\">\n<strong>Doing</strong><br>\n{{$:/Tasker/Kanban/doing}}\n</p>\n<p class=\"done\">\n<strong>Done</strong><br>\n{{$:/Tasker/Kanban/done}}\n</p>\n</div>\n<$reveal type=\"match\" default={{{ [tag[kt]] }}} text=\"\">\n\n//tip : add the tag `kt` to a tiddler to display a Kanban Tagging //\n\n</$reveal>",
+    "bag": "default",
+    "created": "20201112223028343",
+    "modified": "20210908092906525",
+    "tags": "$:/tags/SideBar $:/Tasker/Kanban $:/Tasker",
+    "type": "text/vnd.tiddlywiki",
+    "caption": "Kanban",
+    "tagging": "after",
+    "revision": "1"
+}
