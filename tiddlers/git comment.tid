@@ -1,0 +1,10 @@
+created: 20220208183255056
+modified: 20220208183331892
+tags: git
+title: git comment
+type: text/vnd.tiddlywiki
+
+```git
+# This is a comment
+*.log
+```
