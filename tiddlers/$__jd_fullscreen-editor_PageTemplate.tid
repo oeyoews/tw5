@@ -1,9 +1,0 @@
-created: 20190204123350692
-creator: jd
-modified: 20190204135522488
-modifier: jd
-tags: $:/tags/PageTemplate
-title: $:/jd/fullscreen-editor/PageTemplate
-type: text/vnd.tiddlywiki
-
-<$list filter="[list[$:/fullscreen-editor]]" template="$:/jd/fullscreen-editor/ViewTemplate" editTemplate="$:/jd/fullscreen-editor/EditTemplate"/>
