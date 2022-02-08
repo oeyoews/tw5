@@ -1,0 +1,43 @@
+created: 20220208065711462
+modified: 20220208071805848
+tags: git emoji
+title: git commit emoji
+type: text/vnd.tiddlywiki
+
+memo: add documentation(not document)
+
+lipstick: update ui 
+
+pencli2: fix typing errors
+
+sparkles: add new feature
+
+zap: pref
+
+fire: delete code or files
+
+trunk: rename or move some source(file)
+
+bug: 
+
+bookmark
+
+package
+
+recycle:(refactor)
+
+rocket:(deploy new function)
+
+construction_worker(ci/cd)
+
+green_heart(fix ci bug)
+
+alien(modify code because of add new api)
+
+art: fix struction or code style
+
+page_facingup: add lince file
+
+bulb: add comment in code
+
+ambulance: fix key program
