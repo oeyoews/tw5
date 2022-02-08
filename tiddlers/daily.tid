@@ -1,0 +1,20 @@
+created: 20220208180421830
+modified: 20220208182421765
+tags: daily
+title: daily
+type: text/vnd.tiddlywiki
+
+<<dbadge  status Ing success>> 
+
+!! typing 
+> [[typing|https://10fastfingers.com/typing-test/english/#]]
+
+!! weekly
+
+>[[weekly|https://github.com/ruanyf/weekly/issues]]
+
+!! emacs
+> [[emacs-china|https://emacs-china.org/new]]
+
+!! terminal
+> update system and nvim plugins
