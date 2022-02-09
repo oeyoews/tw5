@@ -86,7 +86,7 @@ tab-foreground: #666666
 table-border: #dddddd
 table-footer-background: #a8a8a8
 table-header-background: #f0f0f0
-tag-background: #ee6
+tag-background: #eeee66
 tag-background-hover: rgba(92, 112, 128, 1)
 tag-foreground: <<colour foreground>>
 tiddler-background: <<colour background>>

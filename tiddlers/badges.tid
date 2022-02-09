@@ -1,8 +1,7 @@
 created: 20220109145849973
-modified: 20220208181928237
+modified: 20220209184600453
 tags: $:/tags/Commander/Working docs
 title: badges
 type: text/vnd.tiddlywiki
 
-{{netlify}}
 <<dbadge github "support" success>> <<badge info "tiddlywiki5">>
