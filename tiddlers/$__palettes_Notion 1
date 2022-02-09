@@ -3,7 +3,7 @@ alert-border: #b99e2f
 alert-highlight: #881122
 alert-muted-foreground: #b99e2f
 background: #ffffff
-blockquote-bar: #8981f3
+blockquote-bar: #51afef
 button-background: rgba(0, 0, 0, 0.03)
 button-background-hover: rgba(0, 0, 0, 0.05)
 button-foreground: #333
@@ -30,12 +30,12 @@ dropdown-tab-background: #ececec
 dropzone-background: rgba(0,200,0,0.7)
 external-link-background-hover: #f3eded
 external-link-background-clip-image: linear-gradient(19deg, #333 0%, #CCC 100%)
-external-link-background-visited: #edd4d4
-external-link-background: #f8e8e8
-external-link-foreground-hover: #fbb7b7
-external-link-foreground-visited: #d1b3ea
+external-link-background-visited: #f4ecec
+external-link-background: #f7f2f2
+external-link-foreground-hover: #55d35d
+external-link-foreground-visited: #8f36d9
 external-link-foreground: #161313
-external-link-underline: #f3baba
+external-link-underline: #f0a8a8
 foreground: #322a2a
 message-background: #ecf2ff
 message-border: #cfd6e6
