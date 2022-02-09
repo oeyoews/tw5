@@ -1,6 +1,6 @@
 created: 20211226164705394
-modified: 20220118085246745
+modified: 20220209110515024
 title: $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/refresh
 type: text/vnd.tiddlywiki
 
-hide
+show

@@ -8,8 +8,8 @@ button-background: rgba(0, 0, 0, 0.03)
 button-background-hover: rgba(0, 0, 0, 0.05)
 button-foreground: #333
 button-border: none
-code-border: none
-code-foreground: #dd1144
+code-border: #dfa2fb
+code-foreground: #9377df
 diff-delete-background: #ffc9c9
 diff-delete-foreground: <<colour foreground>>
 diff-equal-background: 
@@ -52,7 +52,7 @@ notification-border: #999999
 page-background: #fafafa
 pre-background: #f5f5f5
 pre-border: #cccccc
-primary: #252027
+primary: #7f4bca
 selection-background: 
 selection-foreground: 
 select-tag-background: 
@@ -64,32 +64,32 @@ sidebar-foreground-shadow: rgba(15, 15, 15, 0.1) 0px 0px 5px 1px, rgba(15, 15, 1
 sidebar-foreground: #acacac
 sidebar-muted-foreground-hover: #444444
 sidebar-muted-foreground: #c0c0c0
-sidebar-tab-background-selected: #f4f4f4
+sidebar-tab-background-selected: #6f7ce2
 sidebar-tab-background: #e0e0e0
-sidebar-tab-border-selected: <<colour tab-border-selected>>
+sidebar-tab-border-selected: #75e85e
 sidebar-tab-border: <<colour tab-border>>
-sidebar-tab-divider: #e4e4e4
-sidebar-tab-foreground-selected: 
-sidebar-tab-foreground: <<colour tab-foreground>>
+sidebar-tab-divider: #ffffff
+sidebar-tab-foreground-selected: #2abb3b
+sidebar-tab-foreground: #110e0e
 sidebar-tiddler-link-foreground-hover: #444444
 sidebar-tiddler-link-foreground: #999999
 site-title-foreground: <<colour tiddler-title-foreground>>
 static-alert-foreground: #aaaaaa
-tab-background-selected: rgba(255, 255, 255, 0.1)
+tab-background-selected: #f4eff6
 tab-background: transparent
-tab-border-selected: #d8d8d8
-tab-border: #cccccc
+tab-border-selected: #11e415
+tab-border: #efeef6
 tab-divider: #d8d8d8
-tab-foreground-selected: <<colour tab-foreground>>
-tab-foreground: #666666
-table-border: #dddddd
+tab-foreground-selected: #101311
+tab-foreground: #0f1a1a
+table-border: #f2f4f0
 table-footer-background: #a8a8a8
 table-header-background: #f0f0f0
 tag-background: #cee698
 tag-background-hover: rgba(92, 112, 128, 1)
 tag-foreground: <<colour foreground>>
 tiddler-background: <<colour background>>
-tiddler-border: <<colour background>>
+tiddler-border: #f9fafb
 tiddler-controls-foreground-hover: #888888
 tiddler-controls-foreground-selected: #444444
 tiddler-controls-foreground: #cccccc
