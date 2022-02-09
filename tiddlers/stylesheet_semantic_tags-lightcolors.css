@@ -1,0 +1,9 @@
+/* Semantic light colors */
+[data-tags~="zcyan"]{ background: linear-gradient(to right, #9ee8fa 0%, #d6f9ff  50px, #ffffff 40%);}
+[data-tags~="zorange"]{ background: linear-gradient(to right, #FF7D32 0%, #FFEEE5 50px, #ffffff 40%);}
+[data-tags~="zlemon"]{ background: linear-gradient(to right, #FFEE70 0%, #FFFACD 50px, #ffffff 40%);}
+[data-tags~="zsilver"]{ background: linear-gradient(to right, #C0C0C0 0%, #E5E5E5 50px, #ffffff 40%);}
+[data-tags~="zblue"]{ background: linear-gradient(to right, #B2DBFF 0%, #EAF5FF 50px, #ffffff 40%);}
+[data-tags~="zgreen"]{ background: linear-gradient(to right, #99FF99 0%, #F0FFF0 50px, #ffffff 40%);}
+[data-tags~="zred"]{ background: linear-gradient(to right, #FF927F 0%, #FFEDEA 50px, #ffffff 40%);}
+[data-tags~="zpurple"]{ background: linear-gradient(to right, #CD75EA 0%, #FFECFF 50px, #ffffff 40%);}
