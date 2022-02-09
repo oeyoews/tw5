@@ -1,5 +1,5 @@
 created: 20220209180419309
-modified: 20220209183121167
+modified: 20220209183951177
 tags: $:/tags/Stylesheet
 title: $:/themes/linonetwo/itonnote/base
 type: text/vnd.tiddlywiki
@@ -23,7 +23,7 @@ p > code, li > code {
 
 .hljs {
   background-color: <<colour page-background>>;
-  border: none;
+  border: yes;
   box-shadow: <<colour sidebar-foreground-shadow>>
 }
 
@@ -68,23 +68,23 @@ pre {
 /** 去掉编辑模式下的很多边框 */
 /** 去掉预览的边框，除了左边框 */
 .tc-tiddler-preview-preview {
-  border: none;
+  border: yes;
   padding-left: 10px;
   border-left: 1px solid <<colour tiddler-editor-border>>;
 }
 /** 去掉代码编辑器的边框和底色，为所见即所得编辑做准备 */
 .CodeMirror {
-  border: none !important;
+  border: yes !important;
   background-color: unset !important;
 }
 /** 去掉所有其它文本编辑框的边框 */
 .tc-tiddler-frame input.tc-edit-texteditor {
-  border: none;
+  border: yes;
   background: unset;
 }
 /** 去掉标题下面的 tag 栏的边框 */
 .tc-edit-tags {
-  border: none;
+  border: yes;
   border-bottom: 1px solid <<colour tiddler-editor-border>>;
   padding: 4px 8px 4px 8px;
 }
@@ -141,7 +141,7 @@ button.tc-fold-banner {
   padding: 0;
   margin: 0;
   background: none;
-  border: none;
+  border: yes;
   width: 23px;
   text-align: center;
   margin-left: -35px;
@@ -165,22 +165,22 @@ button.tc-unfold-banner {
 
 /** Tab 上的按钮 */
 .tc-tab-buttons > button {
-	border-radius: 0px;
+	border-radius: 1px;
 }
 .tc-tab-buttons button:not(.tc-tab-selected) {
 	fill: none;
 	background-color: <<colour tab-background>>;
 	color: <<colour tab-foreground>>;
-	border: none;
-  border-radius: 0px;
+	border: yes;
+  border-radius: 1px;
 }
 .tc-tab-buttons button:not(.tc-tab-selected):hover {
 	background-color: <<colour button-background-hover>>;
 }
 .tc-sidebar-lists .tc-tab-buttons button.tc-tab-selected {
-	border: none;
+	border: yes;
 	border-bottom: 2px solid silver;
-  border-radius: 0px;
+  border-radius: 1px;
 }
 .tc-tab-buttons button.tc-tab-selected {
 	border: none;
