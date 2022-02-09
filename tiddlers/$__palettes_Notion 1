@@ -24,7 +24,7 @@ download-foreground: <<colour background>>
 dragger-background: <<colour foreground>>
 dragger-foreground: <<colour background>>
 dropdown-background: #fff
-dropdown-border: #111211
+dropdown-border: #a1a5a1
 dropdown-tab-background-selected: rgba(55, 53, 47, 0.08)
 dropdown-tab-background: #ececec
 dropzone-background: rgba(0,200,0,0.7)
@@ -58,13 +58,13 @@ selection-foreground:
 select-tag-background: 
 select-tag-foreground: 
 sidebar-button-foreground: <<colour foreground>>
-sidebar-controls-foreground-hover: #000000
-sidebar-controls-foreground: #aaaaaa
-sidebar-foreground-shadow: rgba(15, 15, 15, 0.1) 0px 0px 5px 1px, rgba(15, 15, 15, 0.1) 0px 2px 10px
-sidebar-foreground: #acacac
+sidebar-controls-foreground-hover: #33db6e
+sidebar-controls-foreground: #0d0c0d
+sidebar-foreground-shadow: #e88787
+sidebar-foreground: #0e2513
 sidebar-muted-foreground-hover: #444444
 sidebar-muted-foreground: #c0c0c0
-sidebar-tab-background-selected: #6f7ce2
+sidebar-tab-background-selected: #dea0cb
 sidebar-tab-background: #e8d5f0
 sidebar-tab-border-selected: #a35ee8
 sidebar-tab-border: #e8d9f7
@@ -128,7 +128,7 @@ wikilist-button-open: #4fb82b
 wikilist-button-open-hover: green
 wikilist-button-reveal: #5778d8
 wikilist-button-reveal-hover: blue
-wikilist-button-remove: #d85778
+wikilist-button-remove: #ed7895
 wikilist-button-remove-hover: red
 wikilist-toolbar-background: #d3d3d3
 wikilist-toolbar-foreground: #888
