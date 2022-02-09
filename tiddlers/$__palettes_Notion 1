@@ -24,7 +24,7 @@ download-foreground: <<colour background>>
 dragger-background: <<colour foreground>>
 dragger-foreground: <<colour background>>
 dropdown-background: #fff
-dropdown-border: <<colour muted-foreground>>
+dropdown-border: #111211
 dropdown-tab-background-selected: rgba(55, 53, 47, 0.08)
 dropdown-tab-background: #ececec
 dropzone-background: rgba(0,200,0,0.7)
