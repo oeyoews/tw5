@@ -65,9 +65,9 @@ sidebar-foreground: #0e2513
 sidebar-muted-foreground-hover: 
 sidebar-muted-foreground: #e4e2e2
 sidebar-tab-background-selected: #e8a1d1
-sidebar-tab-background: #e8c5f7
+sidebar-tab-background: #f3dffb
 sidebar-tab-border-selected: 
-sidebar-tab-border: #d2a8e6
+sidebar-tab-border: #f7e5ff
 sidebar-tab-divider: 
 sidebar-tab-foreground-selected: 
 sidebar-tab-foreground: #29282a
@@ -76,7 +76,7 @@ sidebar-tiddler-link-foreground: #797777
 site-title-foreground: <<colour tiddler-title-foreground>>
 static-alert-foreground: #aaaaaa
 tab-background-selected: #e8a1d1
-tab-background: #e0b7f0
+tab-background: #efd9f7
 tab-border-selected: #ece5f5
 tab-border: #efeef6
 tab-divider: #d8d8d8
