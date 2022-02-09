@@ -65,19 +65,19 @@ sidebar-foreground: #acacac
 sidebar-muted-foreground-hover: #444444
 sidebar-muted-foreground: #c0c0c0
 sidebar-tab-background-selected: #6f7ce2
-sidebar-tab-background: #e0e0e0
+sidebar-tab-background: #e8d5f0
 sidebar-tab-border-selected: #a35ee8
-sidebar-tab-border: <<colour tab-border>>
+sidebar-tab-border: #e8d9f7
 sidebar-tab-divider: #ffffff
-sidebar-tab-foreground-selected: #2abb3b
-sidebar-tab-foreground: #110e0e
+sidebar-tab-foreground-selected: #3dd14e
+sidebar-tab-foreground: #0d0d0d
 sidebar-tiddler-link-foreground-hover: #444444
 sidebar-tiddler-link-foreground: #999999
 site-title-foreground: <<colour tiddler-title-foreground>>
 static-alert-foreground: #aaaaaa
-tab-background-selected: #f4eff6
+tab-background-selected: #e0b7f0
 tab-background: transparent
-tab-border-selected: #7011e4
+tab-border-selected: #ece5f5
 tab-border: #efeef6
 tab-divider: #d8d8d8
 tab-foreground-selected: #101311
