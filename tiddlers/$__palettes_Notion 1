@@ -71,8 +71,8 @@ sidebar-tab-border: #e8d9f7
 sidebar-tab-divider: #ffffff
 sidebar-tab-foreground-selected: #3dd14e
 sidebar-tab-foreground: #0d0d0d
-sidebar-tiddler-link-foreground-hover: #444444
-sidebar-tiddler-link-foreground: #999999
+sidebar-tiddler-link-foreground-hover: #1c8230
+sidebar-tiddler-link-foreground: #5d67ee
 site-title-foreground: <<colour tiddler-title-foreground>>
 static-alert-foreground: #aaaaaa
 tab-background-selected: #e0b7f0
