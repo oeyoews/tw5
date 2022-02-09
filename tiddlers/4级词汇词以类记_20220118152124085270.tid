@@ -1,15 +1,15 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/4级词汇词以类记/SearchWord}}
 created: 20220118152124085
 difficulty: NaN
-due: 20220201140517790
+due: 20220210142515829
 grade: 2
-history: [{"due":"20220130095439066","interval":"2","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":2,"review":"20220129095439066"},{"due":"20220201140517790","interval":"2","difficulty":null,"stability":null,"retrievability":null,"grade":"2","lapses":0,"reps":3,"review":"20220131140517790"}]
-interval: 2
+history: [{"due":"20220130095439066","interval":"2","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":2,"review":"20220129095439066"},{"due":"20220201140517790","interval":"2","difficulty":null,"stability":null,"retrievability":null,"grade":"2","lapses":0,"reps":3,"review":"20220131140517790"},{"due":"20220210142515829","interval":"9","difficulty":null,"stability":null,"retrievability":null,"grade":"2","lapses":0,"reps":4,"review":"20220209142515828"}]
+interval: 9
 lapses: 0
-modified: 20220131140517790
-reps: 3
+modified: 20220209142515829
+reps: 4
 retrievability: NaN
-review: 20220131140517790
+review: 20220209142515828
 stability: NaN
 tags: [[多彩生活 工作ING 职场新鲜人]] ?
 title: 4级词汇词以类记/20220118152124085270

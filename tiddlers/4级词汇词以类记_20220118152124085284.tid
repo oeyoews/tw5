@@ -1,15 +1,16 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/4级词汇词以类记/SearchWord}}
 created: 20220118152124085
-difficulty: 5.175908413544972
-due: 20220201145744607
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220131145744607
+difficulty: NaN
+due: 20220210151146346
+grade: 0
+history: [{"due":"20220210151146346","interval":"9","difficulty":null,"stability":0,"retrievability":null,"grade":"0","lapses":1,"reps":1,"review":"20220209151146346"}]
+interval: 9
+lapses: 1
+modified: 20220209151146346
 reps: 1
-retrievability: 1
-review: 20220131145744607
+retrievability: NaN
+review: 20220209151146346
+stability: 0
 tags: [[多彩生活 工作ING 职场新鲜人]] ?
 title: 4级词汇词以类记/20220118152124085284
 type: text/vnd.tiddlywiki
