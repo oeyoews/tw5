@@ -57,20 +57,20 @@ selection-background:
 selection-foreground: 
 select-tag-background: 
 select-tag-foreground: 
-sidebar-button-foreground: <<colour foreground>>
+sidebar-button-foreground: 
 sidebar-controls-foreground-hover: #33db6e
 sidebar-controls-foreground: #787878
 sidebar-foreground-shadow: #e88787
 sidebar-foreground: #0e2513
 sidebar-muted-foreground-hover: #444444
 sidebar-muted-foreground: #8f3232
-sidebar-tab-background-selected: #dea0cb
-sidebar-tab-background: #e8d5f0
+sidebar-tab-background-selected: #e8a1d1
+sidebar-tab-background: #e8c5f7
 sidebar-tab-border-selected: #a35ee8
-sidebar-tab-border: #e8d9f7
-sidebar-tab-divider: #ffffff
-sidebar-tab-foreground-selected: #3dd14e
-sidebar-tab-foreground: #0d0d0d
+sidebar-tab-border: #f5f3f7
+sidebar-tab-divider: #faf9f9
+sidebar-tab-foreground-selected: #1cf235
+sidebar-tab-foreground: #29282a
 sidebar-tiddler-link-foreground-hover: #1c8230
 sidebar-tiddler-link-foreground: #5d67ee
 site-title-foreground: <<colour tiddler-title-foreground>>
