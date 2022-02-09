@@ -1,6 +1,6 @@
 created: 20220209152600104
-modified: 20220209152600104
+modified: 20220209194452492
 title: $:/config/ViewToolbarButtons/Visibility/$:/plugins/kookma/favorites/ui/buttons/add-remove
 type: text/vnd.tiddlywiki
 
-hide
+show
