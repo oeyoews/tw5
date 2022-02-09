@@ -60,36 +60,36 @@ select-tag-foreground:
 sidebar-button-foreground: 
 sidebar-controls-foreground-hover: #33db6e
 sidebar-controls-foreground: #787878
-sidebar-foreground-shadow: #e88787
+sidebar-foreground-shadow: #cccccc
 sidebar-foreground: #0e2513
-sidebar-muted-foreground-hover: #444444
-sidebar-muted-foreground: #8f3232
+sidebar-muted-foreground-hover: 
+sidebar-muted-foreground: #e4e2e2
 sidebar-tab-background-selected: #e8a1d1
 sidebar-tab-background: #e8c5f7
-sidebar-tab-border-selected: #a35ee8
-sidebar-tab-border: #f5f3f7
-sidebar-tab-divider: #faf9f9
-sidebar-tab-foreground-selected: #1cf235
+sidebar-tab-border-selected: 
+sidebar-tab-border: #d2a8e6
+sidebar-tab-divider: 
+sidebar-tab-foreground-selected: 
 sidebar-tab-foreground: #29282a
-sidebar-tiddler-link-foreground-hover: #1c8230
-sidebar-tiddler-link-foreground: #5d67ee
+sidebar-tiddler-link-foreground-hover: #2c2a2a
+sidebar-tiddler-link-foreground: #050505
 site-title-foreground: <<colour tiddler-title-foreground>>
 static-alert-foreground: #aaaaaa
-tab-background-selected: #e0b7f0
-tab-background: transparent
+tab-background-selected: #e8a1d1
+tab-background: #e0b7f0
 tab-border-selected: #ece5f5
 tab-border: #efeef6
 tab-divider: #d8d8d8
 tab-foreground-selected: #101311
 tab-foreground: #0f1a1a
-table-border: #f2f4f0
+table-border: #b5b8b2
 table-footer-background: #a8a8a8
 table-header-background: #f0f0f0
-tag-background: #cee698
+tag-background: #ec6
 tag-background-hover: rgba(92, 112, 128, 1)
 tag-foreground: <<colour foreground>>
 tiddler-background: <<colour background>>
-tiddler-border: #f9fafb
+tiddler-border: #bec6ca
 tiddler-controls-foreground-hover: #888888
 tiddler-controls-foreground-selected: #444444
 tiddler-controls-foreground: #cccccc

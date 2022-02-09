@@ -1,10 +1,10 @@
 caption: {{$:/plugins/kookma/shiraz/images/palette-switch}} {{$:/language/Buttons/Shiraz/Caption}}
 created: 20201210171047824
 creator: oeyoews
-dark-palette: $:/palettes/Nord
+dark-palette: $:/palettes/Notion 1
 description: Toggle between light/dark color palette
-light-palette: $:/themes/nico/notebook/palettes/palette-grey
-modified: 20220118085345253
+light-palette: $:/palettes/Vanilla
+modified: 20220209160428793
 modifier: oeyoews
 tags: $:/tags/PageControls
 title: $:/plugins/kookma/shiraz/ui/Buttons/SwitchPalette
