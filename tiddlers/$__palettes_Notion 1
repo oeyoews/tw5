@@ -33,9 +33,9 @@ external-link-background-clip-image: linear-gradient(19deg, #333 0%, #CCC 100%)
 external-link-background-visited: #edd4d4
 external-link-background: #f8e8e8
 external-link-foreground-hover: #fbb7b7
-external-link-foreground-visited: #666
-external-link-foreground: #251d1d
-external-link-underline: 1px solid #8357d7
+external-link-foreground-visited: #d1b3ea
+external-link-foreground: #161313
+external-link-underline: #f3baba
 foreground: #322a2a
 message-background: #ecf2ff
 message-border: #cfd6e6
