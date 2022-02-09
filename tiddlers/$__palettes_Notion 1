@@ -5,7 +5,7 @@ alert-muted-foreground: #b99e2f
 background: #ffffff
 blockquote-bar: #51afef
 button-background: rgba(0, 0, 0, 0.03)
-button-background-hover: rgba(0, 0, 0, 0.05)
+button-background-hover: #57db59
 button-foreground: #333
 button-border: none
 code-border: #dfa2fb
