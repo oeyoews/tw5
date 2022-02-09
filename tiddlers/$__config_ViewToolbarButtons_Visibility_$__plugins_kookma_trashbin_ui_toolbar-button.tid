@@ -1,6 +1,6 @@
 created: 20220106083409713
-modified: 20220202092416194
+modified: 20220209153053522
 title: $:/config/ViewToolbarButtons/Visibility/$:/plugins/kookma/trashbin/ui/toolbar-button
 type: text/vnd.tiddlywiki
 
-show
+hide
