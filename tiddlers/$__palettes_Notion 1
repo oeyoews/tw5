@@ -28,14 +28,14 @@ dropdown-border: #a1a5a1
 dropdown-tab-background-selected: rgba(55, 53, 47, 0.08)
 dropdown-tab-background: #ececec
 dropzone-background: rgba(0,200,0,0.7)
-external-link-background-hover: #f3eded
+external-link-background-hover: 
 external-link-background-clip-image: linear-gradient(19deg, #333 0%, #CCC 100%)
-external-link-background-visited: #f4ecec
+external-link-background-visited: 
 external-link-background: #f7f2f2
-external-link-foreground-hover: #55d35d
-external-link-foreground-visited: #8f36d9
+external-link-foreground-hover: #c260e6
+external-link-foreground-visited: 
 external-link-foreground: #161313
-external-link-underline: #9978e8
+external-link-underline: 
 foreground: #322a2a
 message-background: #ecf2ff
 message-border: #cfd6e6
