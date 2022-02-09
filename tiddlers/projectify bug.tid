@@ -1,0 +1,7 @@
+created: 20220209203722079
+modified: 20220209203902072
+tags: Bug
+title: projectify bug
+type: text/vnd.tiddlywiki
+
+projectify have bug, if use this plugin, and if you drop another plugin, this will not show tips friendly
