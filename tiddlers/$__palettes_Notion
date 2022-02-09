@@ -3,7 +3,7 @@ alert-border: #b99e2f
 alert-highlight: #881122
 alert-muted-foreground: #b99e2f
 background: #ffffff
-blockquote-bar: #8981f3
+blockquote-bar: #51afef
 button-background: rgba(0, 0, 0, 0.03)
 button-background-hover: rgba(0, 0, 0, 0.05)
 button-foreground: #333
