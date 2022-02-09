@@ -1,5 +1,5 @@
 created: 20220209180419309
-modified: 20220209183951177
+modified: 20220209191128702
 tags: $:/tags/Stylesheet
 title: $:/themes/linonetwo/itonnote/base
 type: text/vnd.tiddlywiki
@@ -291,7 +291,7 @@ a.tc-tiddlylink.tc-tiddlylink-resolves.tc-plugin-info.tc-popup-handle.tc-popup-a
 	overflow: -moz-scrollbars-none;
 }
 .tc-sidebar-scrollable::-webkit-scrollbar {
-	width: 0 !important
+	width: 10 !important
 }
 
 /** 顶栏 */
