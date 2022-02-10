@@ -1,5 +1,5 @@
 created: 20220208180421830
-modified: 20220209171727494
+modified: 20220210082743929
 se-type: 
 tags: daily
 title: daily
@@ -19,3 +19,6 @@ type: text/vnd.tiddlywiki
 
 !! terminal
 > update system and nvim plugins
+
+!! tiddlywiki5
+> [[talk|https://talk.tiddlywiki.org/]]

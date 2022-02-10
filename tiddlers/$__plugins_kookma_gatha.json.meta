@@ -1,0 +1,11 @@
+author: Mohammad Rahmani
+core-version: >=5.2.1
+dependents: 
+description: Plugin maker and content manager
+list: 
+name: Gatha
+plugin-type: plugin
+source: https://github.com/kookma/TW-Gatha
+title: $:/plugins/kookma/gatha
+type: application/json
+version: 0.6.0
