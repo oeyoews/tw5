@@ -58,9 +58,9 @@ selection-background:
 selection-foreground: 
 select-tag-background: 
 select-tag-foreground: 
-sidebar-button-foreground: #e5e0e0
-sidebar-controls-foreground-hover: #000000
-sidebar-controls-foreground: #aaaaaa
+sidebar-button-foreground: #ad9494
+sidebar-controls-foreground-hover: #c63939
+sidebar-controls-foreground: #f1efef
 sidebar-foreground-shadow: rgba(15, 15, 15, 0.1) 0px 0px 5px 1px, rgba(15, 15, 15, 0.1) 0px 2px 10px
 sidebar-foreground: #acacac
 sidebar-muted-foreground-hover: #444444
