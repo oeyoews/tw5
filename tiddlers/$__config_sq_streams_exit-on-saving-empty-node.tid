@@ -1,0 +1,9 @@
+caption: Exit editing on saving an empty node
+created: 20220210091206546
+description: Enable to exit edit mode on saving an empty node
+modified: 20220210091206546
+settings-template: $:/plugins/sq/streams/ui/templates/settings/input-switch
+title: $:/config/sq/streams/exit-on-saving-empty-node
+type: text/vnd.tiddlywiki
+
+yes
