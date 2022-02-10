@@ -1,5 +1,5 @@
 created: 20220209180419309
-modified: 20220210115705425
+modified: 20220210122027602
 tags: $:/tags/Stylesheet
 title: $:/themes/linonetwo/itonnote/base
 type: text/vnd.tiddlywiki
@@ -293,8 +293,7 @@ a.tc-tiddlylink.tc-tiddlylink-resolves.tc-plugin-info.tc-popup-handle.tc-popup-a
 	overflow: -moz-scrollbars-none;
 }
 .tc-sidebar-scrollable::-webkit-scrollbar {
-	width: 5 !important;
-	color: black;
+	width: 5 !important
 }
 
 /** 顶栏 */
@@ -384,8 +383,8 @@ input[type=search] {
 }
 
 * {
-  outline: none;
-  outline-color: none;
+  outline: yes;
+  outline-color: cyan;
   -webkit-font-smoothing: antialiased;
 }
 *:focus {
