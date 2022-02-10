@@ -29,11 +29,11 @@ dropdown-border: <<colour muted-foreground>>
 dropdown-tab-background-selected: rgba(55, 53, 47, 0.08)
 dropdown-tab-background: #ececec
 dropzone-background: rgba(0,200,0,0.7)
-external-link-background-hover: #333
+external-link-background-hover: #ce71f9
 external-link-background-clip-image: linear-gradient(19deg, #333 0%, #CCC 100%)
 external-link-background-visited: inherit
 external-link-background: inherit
-external-link-foreground-hover: inherit
+external-link-foreground-hover: #74fbb5
 external-link-foreground-visited: #666
 external-link-foreground: #666
 external-link-underline: 1px solid #8357d7
@@ -83,7 +83,7 @@ tab-border: #cccccc
 tab-divider: #d8d8d8
 tab-foreground-selected: <<colour tab-foreground>>
 tab-foreground: #666666
-table-border: #dddddd
+table-border: #ffffff
 table-footer-background: #a8a8a8
 table-header-background: #f0f0f0
 tag-background: #eeee66

@@ -1,5 +1,5 @@
 created: 20220209180419309
-modified: 20220209191128702
+modified: 20220210115705425
 tags: $:/tags/Stylesheet
 title: $:/themes/linonetwo/itonnote/base
 type: text/vnd.tiddlywiki
@@ -50,12 +50,12 @@ pre {
   /** fix menubar with sticky title https://github.com/Jermolene/TiddlyWiki5/issues/4471#issuecomment-594456486*/
   top: var(--menubar-height);
 }
-/** 编辑器工具栏 */
+/** 编辑器工具栏 <<colour tiddler-editor-background>> */
 .tc-editor-toolbar {
-  background: <<colour tiddler-editor-background>>;
+  background: none;
   backdrop-filter: blur(10px);
-  position: sticky;
-  top: 35px;
+  position: unset;
+  top: 25px;
   z-index: 1000;
 }
 .tc-tiddler-preview {
@@ -202,10 +202,11 @@ button.tc-tag-label, span.tc-tag-label {
   margin-bottom: 0.1em;
 }
 button.tc-tag-label, span.tc-tag-label:hover {
-  background-color: <<colour tag-background-hover>>;
+  /** hover tag color <<colour tag-background-hover>> */ 
+  background-color: none;
 }
 
-/**
+/** 
   链接样式
 */
 
@@ -232,6 +233,7 @@ a.tc-tiddlylink:hover {
 a.tc-tiddlylink-external, a.tc-tiddlylink-external:visited {
 	padding: 2px;
   padding-bottom: 0px;
+	/** remove underline <<colour external-link-underline>>; */
 	border-bottom: <<colour external-link-underline>>;
 	text-decoration: none;
   box-decoration-break: clone;
@@ -244,12 +246,12 @@ a.tc-tiddlylink-external:hover {
   background-image: <<colour external-link-background-clip-image>>;
   background-clip: border-box;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: black;
 }
 
-/** 预览状态标签下拉列表里的链接 */
+/** it's it 预览状态标签下拉列表里的链接 <<colour page-background>> */
 .tc-drop-down a.tc-tiddlylink:hover {
-  background-color: <<colour page-background>>;
+  background-color: lightcyan;
   color: <<colour tiddler-link-foreground>>;
 }
 /** 编辑器标签下拉列表当前鼠标悬浮状态的颜色 
@@ -283,7 +285,7 @@ a.tc-tiddlylink.tc-tiddlylink-resolves.tc-plugin-info.tc-popup-handle.tc-popup-a
 }
 
 .tc-site-title {
-	font-size: 1.75em;
+	font-size: 1.55em;
 }
 
 .tc-sidebar-scrollable {
@@ -291,7 +293,8 @@ a.tc-tiddlylink.tc-tiddlylink-resolves.tc-plugin-info.tc-popup-handle.tc-popup-a
 	overflow: -moz-scrollbars-none;
 }
 .tc-sidebar-scrollable::-webkit-scrollbar {
-	width: 10 !important
+	width: 5 !important;
+	color: black;
 }
 
 /** 顶栏 */
@@ -322,7 +325,7 @@ a.tc-tiddlylink.tc-tiddlylink-resolves.tc-plugin-info.tc-popup-handle.tc-popup-a
 
 .tc-search > input[type=search] {
 	flex: 1;
-  border: 1px solid #999;
+  border: 10px solid black;
 }
 /** 隐藏没用的搜索栏按钮 */
 .tc-search > span > button:nth-child(1), .tc-search > span > button:nth-child(2) {
@@ -357,7 +360,7 @@ a.tc-tiddlylink.tc-tiddlylink-resolves.tc-plugin-info.tc-popup-handle.tc-popup-a
 
 @media (min-width: 960px) {
 	nav.tc-menubar {
-	display: none !important;
+	display: yes !important;
 	}
 }
 
@@ -365,8 +368,8 @@ a.tc-tiddlylink.tc-tiddlylink-resolves.tc-plugin-info.tc-popup-handle.tc-popup-a
   去除按钮、搜索框选中时的蓝框
 */
 button:focus, button:active {
-  outline: none !important;
-  box-shadow: none;
+  outline: yes !important;
+  box-shadow: yes;
 }
 
 [placeholder]{
@@ -386,7 +389,7 @@ input[type=search] {
   -webkit-font-smoothing: antialiased;
 }
 *:focus {
-  outline: none;
+  outline: yes;
 }
 /** 去除输入框默认的边框 */
 textarea, input[type=text], input[type=search], input[type=""], input:not([type]) {
@@ -403,7 +406,7 @@ textarea, input[type=text], input[type=search], input[type=""], input:not([type]
   overflow: auto;
 }
 .tc-table-of-contents::-webkit-scrollbar {
-  display: none;
+  display: yes;
 }
 
 /**
