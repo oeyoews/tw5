@@ -13,7 +13,7 @@ pages:
   artifacts:
     paths:
     - public
-    expire_in: 2 minutes
+    expire_in: 20 minutes
   only:
     - tags
   #- main
