@@ -1,0 +1,12 @@
+author: oflg
+core-version: >=5.2.1
+dependents: $:/plugins/oflg/fishing
+description: Canned fish for Fishing
+list: readme license
+name: Fishing Canned Fish
+parent-plugin: $:/plugins/oflg/fishing
+plugin-type: plugin
+source: https://github.com/oflg/fishing-cannedfish
+title: $:/plugins/oflg/fishing-cannedfish
+type: application/json
+version: 0.0.1
