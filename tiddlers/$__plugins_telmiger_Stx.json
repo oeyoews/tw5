@@ -1,0 +1,152 @@
+{"tiddlers": {
+"$:/plugins/telmiger/Stx/about": {
+    "created": "20181125122609022",
+    "creator": "Thomas Elmiger",
+    "text": "Click the button at the bottom of the right side of the screen – it will take you to the top. The button design adapts to the style of your wiki.",
+    "modified": "20220206225114280",
+    "title": "$:/plugins/telmiger/Stx/about",
+    "tags": "",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Stx/icon": {
+    "created": "20170205205314072",
+    "creator": "Thomas Elmiger",
+    "text": "<svg class=\"tc-image-button telmiger-icon\" viewBox=\"0 0 128 128\" xmlns=\"http://www.w3.org/2000/svg\" width=\"22pt\" height=\"22pt\">\n  <path fill=\"#e2001a\" d=\"M64 2a62 62 0 1 0 0 124A62 62 0 0 0 64 2z\"/>\n  <path transform=\"rotate(180,64,60)\" fill=\"#fff\" d=\"M100.4 63.3a26 26 0 0 1-14 2.8h-8c-4.2 0-7.3.9-9.2 2.6-2 1.7-3.5 5-4.6 10.2 0 0-.2 1.4-.5 1.4s-.4-.8-.5-1.5a37.9 37.9 0 0 0-.7-2.8c-.7-2.1-1.3-3.7-2-4.8a10 10 0 0 0-2.8-3.3 8.3 8.3 0 0 0-4-1.5L52 66H41.7c-6.1 0-10.7-1-13.7-2.8-5-3.2-7.6-9.2-8-18l.1-2.1h.6c.4 4 3.7 7 6.1 9.2 2.4 2.2 6.3 3.2 11.6 3.2h9.3c5.4 0 9.3 1.3 11.7 3.7a18 18 0 0 1 4.4 10.4c.1.5 0 .8.2.8s.1-.3.2-.8c.7-6.1 3-10.2 7.1-12.3 2.5-1.3 6.4-2 11.9-1.9l6.3.1c4.3.1 8-.7 11-2.5 2.9-1.8 6.4-5 6.8-10h.5c.2.6.2 1.6.2 2.4-.4 8.8-3 14.7-7.6 17.8z\"/>\n</svg>",
+    "title": "$:/plugins/telmiger/Stx/icon",
+    "tags": "",
+    "modified": "20220206223833416",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Stx/license": {
+    "created": "20170205213335455",
+    "creator": "Thomas Elmiger",
+    "text": "!! Plugin license\n!!!The MIT License (MIT)\n\n```\nCopyright © 2022 Thomas Elmiger – thomas-elmiger.ch\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n```",
+    "title": "$:/plugins/telmiger/Stx/license",
+    "tags": "",
+    "modified": "20220206220402628",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Stx/styles.css": {
+    "created": "20220206140033113",
+    "creator": "Thomas Elmiger",
+    "text": "\\rules except list\n\n#stx-story-top {\n   position: fixed;\n   bottom: 1rem;\n   right: 1rem;\n   font-size: 1.75rem;\n   overflow: hidden;\n   z-index: 999;\n}\n\n#stx-story-top button {\n   opacity: 0.7;\n   min-width: 2.5em;\n}\n\n#stx-story-top .tc-btn-text {\n   margin-left: 0.3em;\n   vertical-align: middle;\n}\n\n#stx-story-top .tc-btn-invisible {\n   font-size: 0.75em;\n}\n\n#stx-story-top .tc-btn-invisible:hover,\n#stx-story-top .tc-btn-invisible:focus {\n   opacity: 1;\n}\n\n#stx-story-top .tc-btn-rounded {\n   font-size: 0.5em;\n   height: 2.5em;\n}\n\n#stx-story-top .tc-btn-boxed {\n   font-size: 0.6em;\n   padding-left: 0.5em;\n   padding-right: 0.5em;\n}\n\n#stx-story-top .tc-btn-rounded:focus,\n#stx-story-top .tc-btn-rounded:active {\n   padding-left: 0.75em;\n   padding-right: 1em;\n}\n\n\n<$reveal type=\"nomatch\" state=\"$:/config/Toolbar/Text\" text=\"yes\">\n\n/* button without text */\n\n#stx-story-top button:not(:focus):not(:active) .tc-btn-text {\n   clip: rect(0 0 0 0);\n   clip-path: inset(50%);\n   height: 1px;\n   overflow: hidden;\n   position: absolute;\n   white-space: nowrap; \n   width: 1px;\n}\n\n</$reveal>\n\n\n<$reveal type=\"match\" state=\"$:/config/Toolbar/Text\" text=\"yes\">\n\n/* button with text */\n\n#stx-story-top .tc-btn-rounded {\n   padding-left: 0.75em;\n   padding-right: 1em;\n}\n\n</$reveal>\n\n\n/* Fix active state */\n\n.tc-btn-rounded:active {\n\tborder: 1px solid <<colour muted-foreground>>;\n\tbackground: <<colour background>>;\n\tcolor: <<colour muted-foreground>>;\n}\n\nhtml body.tc-body .tc-btn-rounded:active svg {\n\tfill: <<colour muted-foreground>>;\n}\n\n.tc-btn-boxed:active {\n\tbackground: <<colour muted-foreground>>;\n\tcolor: <<colour background>>;\n}\n\nhtml body.tc-body .tc-btn-boxed:active svg {\n\tfill: <<colour background>>;\n}",
+    "title": "$:/plugins/telmiger/Stx/styles.css",
+    "tags": "$:/tags/Stylesheet",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220206224512313"
+},
+
+"$:/plugins/telmiger/Stx/support": {
+    "created": "20181103150753927",
+    "creator": "Thomas Elmiger",
+    "text": "!! Support the Author\n\n''Hi!''<br>\nI am Thomas, the author of [[tid.li/tw5/plugins.html|https://tid.li/tw5/plugins.html]]. Feedback is always welcome, as well as funding for maintenance, support and new projects :)\n\n---\n\n!!! One Time Support\n\nIf using my plugins just makes you happy, consider a one time payment via ~PayPal to reward the effort:\n\nhttps://www.paypal.me/telmiger\n\n---\n\n!!! Permanent Support\n\nIf my tools make you more productive or save you time in your job or your everyday life, you can support me as a Patron: \n\nhttps://www.patreon.com/telmiger\n\n---\n\n!!! Thank You\n\nSubstantial parts of my availabe time go to the deveopment of useful plugins for [[TiddlyWiki|https://tiddlywiki.com/]]. – Many others do the same and I would like to thank them all, especially [[Jeremy Ruston|https://tiddlywiki.com/#JeremyRuston]] and all the active members of the community!\n\n//Hereby I promise to share future revenues (if any) with other developers who’s works I use or who inspired me.//\n\nIf you like my work, I would be very happy to hear from you.\n\n''All the best,''<br>\n//Thomas//\n\nhttps://thomas-elmiger.ch",
+    "title": "$:/plugins/telmiger/Stx/support",
+    "tags": "",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220206221530434"
+},
+
+"$:/plugins/telmiger/Stx/readme": {
+    "created": "20220207223321755",
+    "creator": "Thomas Elmiger",
+    "text": "This is more than a simple scroll-to-the-top button. ''Story top express (Stx)'' sets the ''focus'' to one of the top focusable elements. Use the button in the lower right corner of the screen or a keyboard shortcut to go to the top of the story. Try: \n\n* <kbd>{{$:/config/shortcuts/story-top}}</kbd>\n* <kbd>{{$:/config/shortcuts-not-mac/story-top}}</kbd>\n\nIf that doesn’t work, you can configure your own shortcut in the [[control panel|$:/ControlPanel]].\n\n!! What is the focus?\nThe ''focus'' marks an element ready for action. With your keyboard you can hop from one focusable element to the next using the <kbd>Tab</kbd>  key. So if you want to edit the tiddler at the top after hitting the Stx button, just hit <kbd>Tab</kbd> or <kbd>shift+Tab</kbd> once or twice until the edit button has the focus and hit enter. \n\n\n!! How Stx works\n\nIn a standard wiki, the move to the top is a two step process:\n\n# The focus is set to the first button in the story river – that might be the first button in the tiddler toolbar of the first tiddler. (This step is only relevant for edge cases where the second step would not work.)\n# The focus is moved further to the first link in the story river. \n#* Usually this is the name of the last modifier of the first tiddler. Even if the name is missing, the link will be there.\n#* If you have chosen to display tiddler title as links in the [[control panel|$:/ControlPanel]], then the title will be the first link. – Did you? The answer is: {{$:/config/Tiddlers/TitleLinks}}. \n\nIf you share your wiki with others it is highly recommendable to set a ''user name'' on the //info// tab of the  [[control panel|$:/ControlPanel]]. This will improve the usablility. \n\n\n!! Does it work for you?\n\nThe ''Stx'' plugin was carefully crafted with usefulness and accessibility in mind. If you have suggestions for improvements, please contact the author. ",
+    "title": "$:/plugins/telmiger/Stx/readme",
+    "modified": "20220208071549270",
+    "type": "text/vnd.tiddlywiki",
+    "tags": "",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Stx/ui/KeyboardShortcuts/story-top": {
+    "created": "20220208062009788",
+    "creator": "Thomas Elmiger",
+    "text": "\\import $:/plugins/telmiger/Stx/macros\n<<StoryTopExpress>>",
+    "title": "$:/plugins/telmiger/Stx/ui/KeyboardShortcuts/story-top",
+    "modified": "20220208063646265",
+    "modifier": "Thomas Elmiger",
+    "tags": "$:/tags/KeyboardShortcut"
+},
+
+"$:/plugins/telmiger/Stx/macros": {
+    "created": "20220208062539270",
+    "creator": "Thomas Elmiger",
+    "text": "\\define StoryTopExpress()\n<$list variable=\"target\" filter=\"[list[$:/StoryList]first[]]\">\n<$action-sendmessage $message=\"tm-focus-selector\" $param=\"\"\".tc-story-river  button\"\"\" />\n<$action-sendmessage $message=\"tm-focus-selector\" $param=\"\"\".tc-story-river a\"\"\" />\n<$action-navigate $to=<<target>>/>\n</$list>\n\\end",
+    "title": "$:/plugins/telmiger/Stx/macros",
+    "modified": "20220208063338859",
+    "type": "text/vnd.tiddlywiki",
+    "tags": "$:/tags/Macro",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Stx/ui/Buttons/story-top": {
+    "created": "20160923195909375",
+    "creator": "Thomas Elmiger",
+    "text": "\\whitespace trim\n<div id=\"stx-story-top\">\n<$button class=<<tv-config-toolbar-class>> tooltip={{$:/language/Buttons/StoryTop/Hint}}>\n<<StoryTopExpress>>\n<$list filter=\"[<tv-config-toolbar-icons>match[yes]]\">\n{{$:/plugins/telmiger/Ticons/to-top}}\n</$list>\n<span class=\"tc-btn-text\">\n<$text text={{$:/language/Buttons/StoryTop/Caption}}/>\n</span>\n</$button>\n</div>",
+    "title": "$:/plugins/telmiger/Stx/ui/Buttons/story-top",
+    "tags": "$:/tags/PageTemplate",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220208065023624"
+},
+
+"$:/config/ShortcutInfo/story-top": {
+    "created": "20220208061742457",
+    "creator": "Thomas Elmiger",
+    "text": "Go to the top of the page",
+    "title": "$:/config/ShortcutInfo/story-top",
+    "modified": "20220208063442576",
+    "modifier": "Thomas Elmiger",
+    "tags": ""
+},
+
+"$:/config/shortcuts/story-top": {
+    "created": "20220208061658353",
+    "creator": "Thomas Elmiger",
+    "text": "cmd-Up",
+    "title": "$:/config/shortcuts/story-top",
+    "modified": "20220208070010354",
+    "modifier": "Thomas Elmiger",
+    "tags": ""
+},
+
+"$:/config/shortcuts-not-mac/story-top": {
+    "created": "20220208065905511",
+    "creator": "Thomas Elmiger",
+    "text": "ctrl-Up",
+    "title": "$:/config/shortcuts-not-mac/story-top",
+    "modified": "20220208070148536",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Ticons/to-top": {
+    "created": "20200126202432319",
+    "creator": "Thomas Elmiger",
+    "text": "<svg class=\"em-icon te-to-top tc-image-button\"  viewBox=\"0 0 22 22\" xmlns=\"http://www.w3.org/2000/svg\" width=\"22pt\" height=\"22pt\" role=\"img\" fill=\"currentColor\" stroke-width=\"0\"><path d=\"M9.625 10.695l-1.541 1.54a1.375 1.375 0 1 1-1.944-1.944l3.887-3.887c.258-.26.608-.404.973-.404h-.001c.353 0 .705.135.974.404l3.888 3.887a1.376 1.376 0 0 1-1.945 1.945l-1.541-1.541v8.93a1.375 1.375 0 1 1-2.75 0v-8.93z\"/><path d=\"M19.625 1H2.375C1.62 1 1 1.621 1 2.375S1.62 3.75 2.375 3.75h17.25C20.38 3.75 21 3.129 21 2.375S20.38 1 19.625 1z\"/></svg>",
+    "title": "$:/plugins/telmiger/Ticons/to-top",
+    "tags": "$:/tags/Image",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220206165032937"
+},
+
+"$:/language/Buttons/StoryTop/Caption": {
+    "created": "20220206122459568",
+    "creator": "Thomas Elmiger",
+    "text": "to the top",
+    "title": "$:/language/Buttons/StoryTop/Caption",
+    "tags": "",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220206122532503"
+},
+
+"$:/language/Buttons/StoryTop/Hint": {
+    "created": "20220206122210335",
+    "creator": "Thomas Elmiger",
+    "text": "Top of the story",
+    "title": "$:/language/Buttons/StoryTop/Hint",
+    "tags": "",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220206122445760"
+}}
+}
