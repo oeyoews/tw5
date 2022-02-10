@@ -2,7 +2,7 @@ color: #c2fb46
 created: 20211226085802818
 creator: oeyoews
 icon: $:/core/images/home-button
-modified: 20220210174903416
+modified: 20220210182012114
 modifier: oeyoews
 page-cover: 
 stream-type: default
@@ -17,3 +17,6 @@ type: text/vnd.tiddlywiki
 <<reuse-tiddler "Inbox">>
 
 <<reuse-tiddler "$:/plugins/oflg/fishing-analysis/calendar/calendar">>
+
+<<reuse-tiddler "daily">>
+<<reuse-tiddler "??">>
