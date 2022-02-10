@@ -1,16 +1,16 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/四六级常考核心词组1500/SearchWord}}
 created: 20220118152120734
-difficulty: 8.851752964062436
-due: 20220202094920123
-grade: 1
-history: [{"due":"20220123164826050","interval":"1","difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":"0","lapses":1,"reps":1,"review":"20220122164826049"},{"due":"20220125114056737","interval":"1","difficulty":7.280041887453755,"stability":1.097623272188053,"retrievability":0.9313585894032408,"grade":"0","lapses":2,"reps":1,"review":"20220124114056737"},{"due":"20220125201006747","interval":"0","difficulty":8.480041887453755,"stability":0.8131393194811983,"retrievability":1,"grade":"0","lapses":3,"reps":1,"review":"20220124201006746"},{"due":"20220126161310675","interval":"0","difficulty":8.680041887453754,"stability":0.8131393194811983,"retrievability":1,"grade":"1","lapses":3,"reps":2,"review":"20220125161310675"},{"due":"20220127204852855","interval":"0","difficulty":8.880041887453753,"stability":0.8131393194811983,"retrievability":1,"grade":"1","lapses":3,"reps":3,"review":"20220126204852854"},{"due":"20220202094920123","interval":"2","difficulty":8.851752964062436,"stability":3.6468958137121543,"retrievability":0.7717110766086834,"grade":"1","lapses":3,"reps":4,"review":"20220129094920123"}]
-interval: 2
-lapses: 3
-modified: 20220129094920123
-reps: 4
-retrievability: 0.7717110766086834
-review: 20220129094920123
-stability: 3.6468958137121543
+difficulty: 9.758780561473799
+due: 20220211174221613
+grade: 0
+history: [{"due":"20220123164826050","interval":"1","difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":"0","lapses":1,"reps":1,"review":"20220122164826049"},{"due":"20220125114056737","interval":"1","difficulty":7.280041887453755,"stability":1.097623272188053,"retrievability":0.9313585894032408,"grade":"0","lapses":2,"reps":1,"review":"20220124114056737"},{"due":"20220125201006747","interval":"0","difficulty":8.480041887453755,"stability":0.8131393194811983,"retrievability":1,"grade":"0","lapses":3,"reps":1,"review":"20220124201006746"},{"due":"20220126161310675","interval":"0","difficulty":8.680041887453754,"stability":0.8131393194811983,"retrievability":1,"grade":"1","lapses":3,"reps":2,"review":"20220125161310675"},{"due":"20220127204852855","interval":"0","difficulty":8.880041887453753,"stability":0.8131393194811983,"retrievability":1,"grade":"1","lapses":3,"reps":3,"review":"20220126204852854"},{"due":"20220202094920123","interval":"2","difficulty":8.851752964062436,"stability":3.6468958137121543,"retrievability":0.7717110766086834,"grade":"1","lapses":3,"reps":4,"review":"20220129094920123"},{"due":"20220211174221613","interval":"12","difficulty":9.758780561473799,"stability":0,"retrievability":0.7070275974113633,"grade":"0","lapses":4,"reps":1,"review":"20220210174221613"}]
+interval: 12
+lapses: 4
+modified: 20220210174221613
+reps: 1
+retrievability: 0.7070275974113633
+review: 20220210174221613
+stability: 0
 tags: [[Part 1 动词词组 Unit 1]] ?
 title: 四六级常考核心词组1500/20220118152120734505
 type: text/vnd.tiddlywiki
