@@ -1,11 +1,11 @@
 color: #65d7c4
 created: 20220122172247072
 icon: $:/core/icon
-modified: 20220207122637067
+modified: 20220210122413112
 tags: Index
 title: TiddlyWiki5
 type: text/vnd.tiddlywiki
 
 <h2 align="center">
 </h2>
-<<presenter tag:"TiddlyWiki5" footer:"Hello" animation:slidedown theme:homa>>
+<<presenter tag:"TiddlyWiki5" footer:"Hello" animation:slidedown theme:>>

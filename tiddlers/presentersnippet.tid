@@ -1,10 +1,10 @@
 caption: Name as shown in menu
 created: 20220129134328498
-modified: 20220129134356302
+modified: 20220210122336875
 tags: $:/tags/TextEditor/Snippet snippets
 title: presentersnippet
 type: text/vnd.tiddlywiki
 
 <h2 align="center">
 </h2>
-<<presenter tag:"" footer:"Hello" animation:slidedown theme:homa>>
+<<presenter tag:"" footer:"Hello" animation:slidedown theme:>>
