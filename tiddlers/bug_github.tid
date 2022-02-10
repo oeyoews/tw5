@@ -5,11 +5,12 @@ factor: 2.65
 history: []
 interval: 0
 lapses: 0
-modified: 20220112170612438
+modified: 20220210193342040
 recall: 1
 reps: 1
 review: 20220112165958469
 stability: 2
+status: rework
 tags: Bug archive fixed
 title: bug/github
 tmap.id: 9cadce19-75be-4333-97aa-73670b5c4527

@@ -1,8 +1,9 @@
 created: 20220125162601662
-modified: 20220125174319179
+modified: 20220210193342042
+status: rework
 stream-list: [[emacs font/20220125174307564]]
 stream-type: default
-tags: emacs Bug
+tags: Bug emacs
 title: emacs font
 type: text/vnd.tiddlywiki
 

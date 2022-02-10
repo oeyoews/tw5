@@ -2,7 +2,7 @@ color: #c2fb46
 created: 20211226085802818
 creator: oeyoews
 icon: $:/core/images/home-button
-modified: 20220210182012114
+modified: 20220210193233999
 modifier: oeyoews
 page-cover: 
 stream-type: default
@@ -20,3 +20,4 @@ type: text/vnd.tiddlywiki
 
 <<reuse-tiddler "daily">>
 <<reuse-tiddler "??">>
+<<reuse-tiddler "fastable">>

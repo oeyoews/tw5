@@ -1,6 +1,7 @@
 created: 20220125105530849
-modified: 20220125105627917
-tags: vim Bug
+modified: 20220210193342048
+status: rework
+tags: Bug vim
 title: vim textwidth effect
 type: text/vnd.tiddlywiki
 
