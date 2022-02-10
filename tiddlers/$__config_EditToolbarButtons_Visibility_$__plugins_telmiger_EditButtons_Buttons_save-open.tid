@@ -1,6 +1,6 @@
 created: 20220104152532813
-modified: 20220210111133059
+modified: 20220210125218375
 title: $:/config/EditToolbarButtons/Visibility/$:/plugins/telmiger/EditButtons/Buttons/save-open
 type: text/vnd.tiddlywiki
 
-show
+hide
