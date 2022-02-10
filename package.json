@@ -6,7 +6,7 @@
   "author": "oeyoews <jyao4783@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "tiddlywiki": "5.2.1"
+    "tiddlywiki": "5.2.2"
   },
   "scripts": {
     "localbuild": "tiddlywiki --output public --build index",
