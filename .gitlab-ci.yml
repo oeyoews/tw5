@@ -9,7 +9,6 @@ pages:
   # yarn install to fix cache first
   - yarn install
   - yarn devbuild && yarn copy && yarn copy
-  - java
 
   artifacts:
     paths:
