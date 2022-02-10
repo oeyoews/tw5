@@ -1,6 +1,6 @@
 color: #bacb7c
 created: 20211229162758890
-modified: 20220209150315255
+modified: 20220210212555261
 tags: Index
 title: Linux
 tmap.id: 703bf95c-b7e5-4a18-aad1-840177b9e04b
@@ -8,4 +8,4 @@ type: text/vnd.tiddlywiki
 
 <h2 align="center">
 </h2>
-<<presenter tag:"Linux" footer:"Hello" animation:slidedown theme:homa>>
+<<presenter tag:"Linux" footer:"Hello" animation:slidedown theme:>>
