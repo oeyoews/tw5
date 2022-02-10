@@ -58,7 +58,7 @@ selection-background:
 selection-foreground: 
 select-tag-background: 
 select-tag-foreground: 
-sidebar-button-foreground: <<colour foreground>>
+sidebar-button-foreground: #e5e0e0
 sidebar-controls-foreground-hover: #000000
 sidebar-controls-foreground: #aaaaaa
 sidebar-foreground-shadow: rgba(15, 15, 15, 0.1) 0px 0px 5px 1px, rgba(15, 15, 15, 0.1) 0px 2px 10px
@@ -68,7 +68,7 @@ sidebar-muted-foreground: #c0c0c0
 sidebar-tab-background-selected: #f4f4f4
 sidebar-tab-background: #e0e0e0
 sidebar-tab-border-selected: <<colour tab-border-selected>>
-sidebar-tab-border: <<colour tab-border>>
+sidebar-tab-border: #ffffff
 sidebar-tab-divider: #e4e4e4
 sidebar-tab-foreground-selected: 
 sidebar-tab-foreground: <<colour tab-foreground>>
