@@ -1,6 +1,6 @@
 created: 20220209130946047
-modified: 20220210135404818
+modified: 20220211081243858
 title: $:/config/Toolbar/ButtonClass
 type: text/vnd.tiddlywiki
 
-tc-btn-invisible
+tc-btn-boxed

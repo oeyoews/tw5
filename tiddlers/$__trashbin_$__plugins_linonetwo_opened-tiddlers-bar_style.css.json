@@ -1,0 +1,11 @@
+{
+    "title": "$:/plugins/linonetwo/opened-tiddlers-bar/style.css",
+    "created": "20220104080318530",
+    "creator": "LinOnetwo",
+    "modified": "20220211075606995",
+    "tags": "$:/tags/Stylesheet",
+    "type": "text/vnd.tiddlywiki",
+    "text": "/** 顶部tab栏 */\nsection.story-backdrop {\n  position: fixed;\n  top: 0;\n  z-index: 1000;\n  width: 100vw;\n  overflow-x: auto;\n  left: 0;\n  white-space: nowrap;\n  overflow: -moz-scrollbars-none;\n  scrollbar-width: none;\n}\nsection.story-backdrop::-webkit-scrollbar {\n  display: none;\n}\n/** tiddlers bar #eee8d5*/\nsection.story-backdrop > p, section.story-backdrop > p > div.tc-tab-buttons {\n  width: 100%;\n  margin: 0;\n  display: flex;\n  background-color: none;\n  backdrop-filter: blur(10px);\n  background: <<colour button-background>>;\n  /** make it possible to drag the app using this bar in TiddlyGit */\n  -webkit-app-region: drag;\n}\n\n\nsection.story-backdrop button {\n  border: none;\n  border-radius: 0;\n  margin: 0;\n  padding: 5px 10px;\n  padding-right: 2px;\n}\n/** x button */\nsection.story-backdrop button:not(.tc-tab) {\n  border: none;\n  border-radius: 0;\n  margin: 0;\n  padding: 0 5px;\n  opacity: 0;\n  background-color: none;\n}\nsection.story-backdrop button:not(.tc-tab):hover {\n  opacity: 1;\n}\nsection.story-backdrop button.tc-tab:not(.tc-tab-selected):hover {\n  border-bottom: 2px solid gray;\n}\nsection.story-backdrop button.tc-tab:nth-child(2) {\n  margin-left: -1em;\n}\n.tc-tab-buttons {\n  padding: 0;\n  margin: 0;\n}\n\ndiv.tc-page-container {\n  margin-top: 30px;\n}\n\ndiv.tc-tiddler-title {\n  top: 24px;\n}\ndiv.tc-editor-toolbar {\n  top: calc(35px + 24px);\n}\n/** 收起侧边栏的按钮 */\n.tc-topbar-right {\n  top: 18px;\n}\n",
+    "revision": "0",
+    "bag": "default"
+}
