@@ -399,7 +399,6 @@ textarea, input[type=text], input[type=search], input[type=""], input:not([type]
 
 /*
 ** TW-Locator and Bi-Link list
-*/
 .tc-table-of-contents {
   max-width: 140%;
   max-height: 200vh;
@@ -408,6 +407,7 @@ textarea, input[type=text], input[type=search], input[type=""], input:not([type]
 .tc-table-of-contents::-webkit-scrollbar {
   display: yes;
 }
+*/
 
 /**
 * Code Mirror
