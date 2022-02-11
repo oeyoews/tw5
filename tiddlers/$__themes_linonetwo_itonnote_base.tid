@@ -12,22 +12,22 @@ type: text/vnd.tiddlywiki
 /**
   代码样式
 
-p > code, li > code {
-  box-decoration-break: clone;
-  padding: .1rem .3rem .2rem;
-  border-radius: .2rem;
-  background: <<colour code-background>>
-}
+/*p > code, li > code {*/
+  /*box-decoration-break: clone;*/
+  /*padding: .1rem .3rem .2rem;*/
+  /*border-radius: .2rem;*/
+  /*background: <<colour code-background>>*/
+/*}*/
 
-.hljs {
-  background-color: <<colour page-background>>;
-  border: yes;
-  box-shadow: <<colour sidebar-foreground-shadow>>
-}
+/*.hljs {*/
+  /*background-color: <<colour page-background>>;*/
+  /*border: yes;*/
+  /*box-shadow: <<colour sidebar-foreground-shadow>>*/
+/*}*/
 
-pre {
-  word-break: break-all;
-}
+/*pre {*/
+  /*word-break: break-all;*/
+/*}*/
 */
 
 /**
@@ -401,7 +401,7 @@ textarea, input[type=text], input[type=search], input[type=""], input:not([type]
 ** TW-Locator and Bi-Link list
 */
 .tc-table-of-contents {
-  max-width: 100%;
+  max-width: 140%;
   max-height: 200vh;
   overflow: auto;
 }
@@ -411,7 +411,7 @@ textarea, input[type=text], input[type=search], input[type=""], input:not([type]
 
 /**
 * Code Mirror
-*/
 .cm-code-block-line {
   background-color: transparent;
 }
+*/
