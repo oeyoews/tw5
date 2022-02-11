@@ -70,8 +70,9 @@ button.tc-tag-label, span.tc-tag-label:hover {
 button:not(.tc-btn-invisible) {
   color: <<colour button-foreground>>;
   background-color: <<colour button-background>>;
-  padding: 5px 10px;
-	margin: 2px;
+  padding: 1px 1px;
+  /*margin: 0px;*/
+  /*弧度*/
   border-radius: 5px;
   border: <<colour button-border>>;
   cursor: pointer;
@@ -85,7 +86,7 @@ button:not(.tc-btn-invisible):hover {
 button:not(.tc-btn-invisible) svg {
 	fill: <<colour tab-foreground>>;
 }
-  
+
 /* Top and bottom bars */
 
 /* Hide the top-right bar */
