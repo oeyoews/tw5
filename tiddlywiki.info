@@ -6,8 +6,7 @@
         "tiddlywiki/highlight"
     ],
     "themes": [
-      "tiddlywiki/vanilla",
-    "tiddlywiki/snowwhite"
+      "tiddlywiki/vanilla"
     ],
     "build": {
       "index": [
