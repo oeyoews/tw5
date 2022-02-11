@@ -24,14 +24,14 @@ type: text/vnd.tiddlywiki
 */
 
 a.tc-tiddlylink, a.tc-tiddlylink:hover {
-  padding: 2px;
-  padding-bottom: 0;
+  /*padding: 1px;*/
+  /*padding-bottom: 0;*/
   white-space: normal;
   word-break: break-all;
   overflow: hidden;
   text-overflow: ellipsis;
   font-weight: none;
-  line-height: 1.3;
+  /*line-height: 1.3;*/
   color: <<colour tiddler-link-foreground>>;
 	/**  remove sidebar dire underline <<colour tiddler-link-underline>>*/
   border-bottom: none;
