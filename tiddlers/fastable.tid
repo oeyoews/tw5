@@ -1,12 +1,12 @@
 created: 20220210193015251
-modified: 20220210193226173
+modified: 20220211103653756
 tags: docs
 title: fastable
 type: text/vnd.tiddlywiki
 
 <$checkbox> 的为已读但未完成读书笔记的书籍，☑️的为已读并写完读书笔记的书籍。
 
-<$macrocall $name=table-dynamic filter="[tag[Bug]]" fields="tbl-checkbox tbl-expand title author genre created due" class="w-100" stateTiddler="your-state-tid"/>
+<$macrocall $name=table-dynamic filter="[tag[books]]" fields="tbl-checkbox tbl-expand title author genre created due" class="w-100" stateTiddler="your-state-tid"/>
 
 
 <$button message="tm-close-tiddler">Close Me!</$button>
