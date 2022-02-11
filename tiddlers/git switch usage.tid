@@ -1,0 +1,12 @@
+created: 20220211161355376
+modified: 20220211162006566
+tags: git
+title: git switch usage
+type: text/vnd.tiddlywiki
+
+`git switch <branchName>`
+
+`git switch -c newBranch [id]`
+
+`git switch -`
+

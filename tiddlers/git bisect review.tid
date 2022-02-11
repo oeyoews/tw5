@@ -1,0 +1,13 @@
+created: 20220211161106774
+modified: 20220211161348756
+tags: git
+title: git bisect review
+type: text/vnd.tiddlywiki
+
+`git bisect start <endpoint> <startpoint>`
+
+`git bisect good`
+
+`git bisect bad`
+
+`git bisect reset`
