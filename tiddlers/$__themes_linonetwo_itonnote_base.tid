@@ -1,5 +1,5 @@
 created: 20220209180419309
-modified: 20220210122027602
+modified: 20220211064125579
 tags: $:/tags/Stylesheet
 title: $:/themes/linonetwo/itonnote/base
 type: text/vnd.tiddlywiki
@@ -54,8 +54,8 @@ pre {
 .tc-editor-toolbar {
   background: none;
   backdrop-filter: blur(10px);
-  position: unset;
-  top: 25px;
+  position: sticky;
+  top: 35px;
   z-index: 1000;
 }
 .tc-tiddler-preview {
