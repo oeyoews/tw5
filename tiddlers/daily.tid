@@ -1,5 +1,5 @@
 created: 20220208180421830
-modified: 20220210132952268
+modified: 20220211112931338
 se-type: 
 tags: daily zolive
 title: daily
@@ -8,11 +8,11 @@ type: text/vnd.tiddlywiki
 <<dbadge  status Ing success>> 
 
 !! typing 
-> [[typing|https://10fastfingers.com/typing-test/english/#]]
+> [[typing expercise|https://10fastfingers.com/typing-test/english/#]]
 
 !! weekly
 
->[[weekly|https://github.com/ruanyf/weekly/issues]]
+>[[github ruanyf weekly|https://github.com/ruanyf/weekly/issues]]
 
 !! emacs
 > [[emacs-china|https://emacs-china.org/new]]
@@ -21,4 +21,4 @@ type: text/vnd.tiddlywiki
 > update system and nvim plugins
 
 !! tiddlywiki5
-> [[talk|https://talk.tiddlywiki.org/]]
+> [[talk tiddlywiki5|https://talk.tiddlywiki.org/]]

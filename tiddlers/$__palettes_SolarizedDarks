@@ -58,14 +58,14 @@ sidebar-tab-border: #08343f
 sidebar-tab-border-selected: #107884
 sidebar-tab-divider: #0c4250
 sidebar-tab-foreground: #657b83
-sidebar-tab-foreground-selected: #f15b97
-sidebar-tiddler-link-foreground: #be5b90
+sidebar-tab-foreground-selected: #e1419f
+sidebar-tiddler-link-foreground: #e1419f
 sidebar-tiddler-link-foreground-hover: #51f0c0
 site-title-foreground: #d33682
 static-alert-foreground: #93a1a1
 tab-background: #002b36
 tab-background-selected: #e0101a
-tab-border: #22a211
+tab-border: #86f877
 tab-border-selected: #e31616
 tab-divider: #93a1a1
 tab-foreground: #32b4c3
