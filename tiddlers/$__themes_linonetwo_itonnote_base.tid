@@ -1,14 +1,14 @@
 created: 20220209180419309
-modified: 20220211080727167
-tags: $:/tags/Stylesheet
+modified: 20220211093211268
+tags: backup $:/tags/Stylesheet
 title: $:/themes/linonetwo/itonnote/base
 type: text/vnd.tiddlywiki
 
 /*
-** Start with the vanilla theme and normalize CSS reset, and then belay some of its effects
-*/
+** Start with the vanilla theme and normalize CSS reset, and then belay some of its effects    oeyoews backup  $:/tags/Stylesheet
 
 {{$:/themes/tiddlywiki/vanilla/base}}
+*/
 
 /**
   代码样式
@@ -360,7 +360,7 @@ a.tc-tiddlylink.tc-tiddlylink-resolves.tc-plugin-info.tc-popup-handle.tc-popup-a
 	宽屏时隐藏顶部 MenuBar
 */
 
-@media (min-width: 960px) {
+@media (min-width: 860px) {
 	nav.tc-menubar {
 	display: yes !important;
 	}
