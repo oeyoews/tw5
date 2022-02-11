@@ -1,5 +1,5 @@
 created: 20200419141443144
-modified: 20220211123105999
+modified: 20220211124450658
 tags: $:/tags/Stylesheet
 title: $:/themes/nico/notebook/base
 type: text/vnd.tiddlywiki
@@ -17,6 +17,33 @@ type: text/vnd.tiddlywiki
     $text$
   </$reveal>
 \end
+
+/** 顶部标题栏半透明 */
+:root {
+  --menubar-height: 29px;
+}
+
+.tc-tiddler-title {
+  background: <<colour tiddler-title-background>>;
+  backdrop-filter: blur(10px);
+  /** fix menubar with sticky title https://github.com/Jermolene/TiddlyWiki5/issues/4471#issuecomment-594456486*/
+  top: var(--menubar-height);
+}
+/** 编辑器工具栏 <<colour tiddler-editor-background>> */
+.tc-editor-toolbar {
+  background: none;
+  backdrop-filter: blur(10px);
+	/** sticky */
+  position: sticky;
+  top: 80px;
+  z-index: 1000;
+}
+.tc-tiddler-preview {
+  overflow: unset;
+}
+.tc-block-dropdown {
+  z-index: 1001;
+}
 
 /** 标签 */
 button.tc-tag-label, span.tc-tag-label {
