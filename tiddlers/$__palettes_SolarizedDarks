@@ -9,7 +9,7 @@ button-border: #586e75
 button-foreground: #93a1a1
 code-background: #073642
 code-border: #586e75
-code-foreground: #93a1a1
+code-foreground: #d33682
 dirty-indicator: inherit
 download-background: #859900
 download-foreground: #073642
