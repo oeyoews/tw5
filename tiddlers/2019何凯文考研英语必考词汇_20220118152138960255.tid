@@ -1,15 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2019何凯文考研英语必考词汇/SearchWord}}
 created: 20220118152138960
-difficulty: 5.175908413544972
-due: 20220208074806738
-grade: -1
-history: []
-interval: 0
+creator: oeyoews
+difficulty: NaN
+due: 20220212180735314
+grade: 1
+history: [{"due":"20220212180735314","interval":"4","difficulty":null,"stability":null,"retrievability":null,"grade":"1","lapses":0,"reps":2,"review":"20220211180735313"}]
+interval: 4
 lapses: 0
-modified: 20220207074806738
-reps: 1
-retrievability: 1
-review: 20220207074806738
+modified: 20220211180735314
+modifier: oeyoews
+reps: 2
+retrievability: NaN
+review: 20220211180735313
+stability: NaN
 tags: [[必考核心词汇 Word List 1]] ?
 title: 2019何凯文考研英语必考词汇/20220118152138960255
 type: text/vnd.tiddlywiki
