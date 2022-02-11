@@ -54,7 +54,7 @@ pre {
 .tc-editor-toolbar {
   background: none;
   backdrop-filter: blur(10px);
-	/** sticky */ 
+	/** sticky */
   position: none;
   top: 40px;
   z-index: 1000;
@@ -203,11 +203,11 @@ button.tc-tag-label, span.tc-tag-label {
   margin-bottom: 0.1em;
 }
 button.tc-tag-label, span.tc-tag-label:hover {
-  /** hover tag color <<colour tag-background-hover>> */ 
+  /** hover tag color <<colour tag-background-hover>> */
   background-color: none;
 }
 
-/** 
+/**
   链接样式
 */
 
@@ -256,7 +256,7 @@ a.tc-tiddlylink-external:hover {
   background-color: lightcyan;
   color: <<colour tiddler-link-foreground>>;
 }
-/** 编辑器标签下拉列表当前鼠标悬浮状态的颜色 
+/** 编辑器标签下拉列表当前鼠标悬浮状态的颜色
 .tc-block-dropdown a {
   transition: background-color 0.2s;
 }
@@ -387,17 +387,18 @@ input[type=search] {
 
 * {
   outline: yes;
-  outline-color: cyan;
+  outline-color: black;
   -webkit-font-smoothing: antialiased;
 }
 *:focus {
   outline: yes;
 }
-/** 去除输入框默认的边框 */
+/** 去除输入框默认的边框
 textarea, input[type=text], input[type=search], input[type=""], input:not([type]) {
   border: 2px solid <<colour tiddler-editor-border>>;
   background: <<colour page-background>>;
 }
+*/
 
 /*
 ** TW-Locator and Bi-Link list
