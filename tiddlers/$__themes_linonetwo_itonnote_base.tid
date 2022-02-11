@@ -6,13 +6,11 @@ type: text/vnd.tiddlywiki
 
 /*
 ** Start with the vanilla theme and normalize CSS reset, and then belay some of its effects    oeyoews backup  $:/tags/Stylesheet
-
 {{$:/themes/tiddlywiki/vanilla/base}}
 */
 
 /**
   代码样式
-*/
 
 p > code, li > code {
   box-decoration-break: clone;
@@ -30,6 +28,7 @@ p > code, li > code {
 pre {
   word-break: break-all;
 }
+*/
 
 /**
   卡片、编辑器和背景样式
@@ -279,8 +278,6 @@ a.tc-tiddlylink.tc-tiddlylink-resolves.tc-plugin-info.tc-popup-handle.tc-popup-a
 
 /**
 	侧边栏
-*/
-
 .tc-page-controls {
   display: flex;
   flex-wrap: wrap;
@@ -298,8 +295,9 @@ a.tc-tiddlylink.tc-tiddlylink-resolves.tc-plugin-info.tc-popup-handle.tc-popup-a
 .tc-sidebar-scrollable::-webkit-scrollbar {
 	width: 5 !important
 }
+*/
 
-/** 顶栏 */
+/** 顶栏
 .tc-topbar {
   z-index: 100;
 }
@@ -315,10 +313,10 @@ a.tc-tiddlylink.tc-tiddlylink-resolves.tc-plugin-info.tc-popup-handle.tc-popup-a
 	  margin-top: 20px;
 	}
 }
+*/
 
 /**
 	侧边栏搜索框
-
 
 .tc-search {
 	display: flex;
@@ -348,27 +346,25 @@ a.tc-tiddlylink.tc-tiddlylink-resolves.tc-plugin-info.tc-popup-handle.tc-popup-a
 
 /**
 	卡片流
-*/
-
 @media (min-width: 960px) {
 	.tc-story-river {
 	  padding: 10px 0 0px 20px;
 	}
 }
+*/
 
 /**
 	宽屏时隐藏顶部 MenuBar
-*/
 
 @media (min-width: 860px) {
 	nav.tc-menubar {
 	display: yes !important;
 	}
 }
+*/
 
 /**
   去除按钮、搜索框选中时的蓝框
-*/
 button:focus, button:active {
   outline: yes !important;
   box-shadow: yes;
@@ -384,6 +380,7 @@ input[type=search] {
   appearance: none;
   -webkit-appearance: none;
 }
+*/
 
 * {
   outline: yes;

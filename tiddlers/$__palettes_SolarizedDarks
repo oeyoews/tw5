@@ -42,7 +42,7 @@ notification-border: #586e75
 page-background: #073642
 pre-background: inherit
 pre-border: #657b83
-primary: #859900
+primary: #765add
 select-tag-background: #002b36
 select-tag-foreground: #839496
 sidebar-button-foreground: #23d1d1
