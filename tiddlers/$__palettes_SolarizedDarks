@@ -67,7 +67,7 @@ tab-background: #002b36
 tab-background-selected: #e0101a
 tab-border: #86f877
 tab-border-selected: #e31616
-tab-divider: #93a1a1
+tab-divider: #073642
 tab-foreground: #32b4c3
 tab-foreground-selected: 
 table-border: #586e75
