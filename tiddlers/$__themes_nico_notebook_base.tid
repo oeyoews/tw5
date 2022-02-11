@@ -1,5 +1,5 @@
 created: 20200419141443144
-modified: 20220211124450658
+modified: 20220211133642509
 tags: $:/tags/Stylesheet
 title: $:/themes/nico/notebook/base
 type: text/vnd.tiddlywiki
@@ -18,6 +18,65 @@ type: text/vnd.tiddlywiki
   </$reveal>
 \end
 
+
+/**
+  链接样式
+*/
+
+a.tc-tiddlylink, a.tc-tiddlylink:hover {
+  padding: 2px;
+  padding-bottom: 0;
+  white-space: normal;
+  word-break: break-all;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: none;
+  line-height: 1.3;
+  color: <<colour tiddler-link-foreground>>;
+	/**  remove sidebar dire underline <<colour tiddler-link-underline>>*/
+  border-bottom: none;
+  text-decoration: none;
+  /** hover动画 */
+  transition: background 120ms ease-in 0s;
+}
+a.tc-tiddlylink:hover {
+  background-color: <<colour page-background>>;
+  color: <<colour tiddler-link-foreground>>;
+}
+
+a.tc-tiddlylink-external, a.tc-tiddlylink-external:visited {
+	padding: 2px;
+  padding-bottom: 0px;
+	/** remove underline <<colour external-link-underline>>; */
+	border-bottom: none;
+	text-decoration: none;
+  box-decoration-break: clone;
+  font-weight: normal;
+  color: <<external-link-foreground>>;
+}
+
+a.tc-tiddlylink-external:hover {
+  background-color: <<colour external-link-background-hover>>;
+  background-image: <<colour external-link-background-clip-image>>;
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: none;
+}
+
+/** it's it 预览状态标签下拉列表里的链接 <<colour page-background>> */
+.tc-drop-down a.tc-tiddlylink:hover {
+  background-color: lightcyan;
+  color: <<colour tiddler-link-foreground>>;
+}
+/** 编辑器标签下拉列表当前鼠标悬浮状态的颜色
+*/
+.tc-block-dropdown a {
+  transition: background-color 0.2s;
+}
+.tc-block-dropdown a:hover {
+  background-color: <<colour dropdown-background>>;
+}
+
 /** 顶部标题栏半透明 */
 :root {
   --menubar-height: 29px;
@@ -29,11 +88,12 @@ type: text/vnd.tiddlywiki
   /** fix menubar with sticky title https://github.com/Jermolene/TiddlyWiki5/issues/4471#issuecomment-594456486*/
   top: var(--menubar-height);
 }
+
 /** 编辑器工具栏 <<colour tiddler-editor-background>> */
 .tc-editor-toolbar {
-  background: none;
+  background: <<colour tiddler-editor-background>>;
   backdrop-filter: blur(10px);
-	/** sticky */
+	/** sticky  or none */
   position: sticky;
   top: 80px;
   z-index: 1000;
@@ -70,8 +130,8 @@ button.tc-tag-label, span.tc-tag-label:hover {
 button:not(.tc-btn-invisible) {
   color: <<colour button-foreground>>;
   background-color: <<colour button-background>>;
-  padding: 1px 1px;
-  /*margin: 0px;*/
+  padding: 4px 4px;
+  /*margin: 2px;*/
   /*弧度*/
   border-radius: 5px;
   border: <<colour button-border>>;
