@@ -1,6 +1,6 @@
 created: 20220204090923415
-modified: 20220204090923415
+modified: 20220211064502529
 title: $:/config/Plugins/Disabled/$:/plugins/tiddlywiki/browser-sniff
 type: text/vnd.tiddlywiki
 
-yes
+no
