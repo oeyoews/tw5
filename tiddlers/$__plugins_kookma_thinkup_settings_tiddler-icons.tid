@@ -1,6 +1,6 @@
 created: 20211116060428566
 creator: oeyoews
-modified: 20220212072300787
+modified: 20220212173544393
 modifier: oeyoews
 tags: $:/tags/TiddlerIconFilter
 title: $:/plugins/kookma/thinkup/settings/tiddler-icons
@@ -11,4 +11,3 @@ type: text/vnd.tiddlywiki
 [tag[People]then[$:/plugins/kookma/thinkup/images/people]]
 [tag[Source]then[$:/plugins/kookma/thinkup/images/bookshelf]]
 [tag[Task]then[$:/plugins/kookma/thinkup/images/tasks]]
-[tag[github]then[$:/core/images/github]]
