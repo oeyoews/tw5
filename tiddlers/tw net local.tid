@@ -1,0 +1,9 @@
+created: 20220212182002199
+creator: oeyoews
+modified: 20220212182053309
+modifier: oeyoews
+tags: TiddlyWiki5
+title: tw net local
+type: text/vnd.tiddlywiki
+
+use `tiddlywiki . --listen port:8090 host=0.0.0.0`
