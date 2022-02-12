@@ -3,7 +3,7 @@ created: 20211226085802818
 creator: oeyoews
 icon: $:/core/images/home-button
 keywords: Index
-modified: 20220211185440590
+modified: 20220212064003592
 modifier: oeyoews
 page-cover: 
 stream-type: default
@@ -17,8 +17,8 @@ type: text/vnd.tiddlywiki
 
 <<reuse-tiddler "Inbox">>
 
-<<reuse-tiddler "$:/plugins/oflg/fishing-analysis/calendar/calendar">>
-<<reuse-tiddler "badges">>
+<<reuse-tiddler "fishingAnalysics">>
+
 <<reuse-tiddler "heatmap">>
 
 <<reuse-tiddler "daily">>
