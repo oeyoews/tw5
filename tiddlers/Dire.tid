@@ -1,10 +1,11 @@
 caption: Dire
 created: 20211226162517298
+creator: oeyoews
 list-before: $:/core/ui/SideBar/Open
-modified: 20220129140224897
+modified: 20220212071415141
+modifier: oeyoews
 tags: $:/tags/SideBar $:/tags/Commander/Working docs
 title: Dire
-tmap.id: df7bf003-baeb-405b-ab90-f93e0975d075
 type: text/vnd.tiddlywiki
 
 <div class="tc-table-of-contents">
