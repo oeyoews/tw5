@@ -3,7 +3,7 @@ created: 20211226085802818
 creator: oeyoews
 icon: $:/core/images/home-button
 keywords: Index
-modified: 20220212100412079
+modified: 20220212101909126
 modifier: oeyoews
 page-cover: 
 stream-type: default
@@ -22,7 +22,5 @@ type: text/vnd.tiddlywiki
 <<reuse-tiddler "heatmap">>
 
 <<reuse-tiddler "daily">>
-
-<<reuse-tiddler "fastable">>
 
 <<reuse-tiddler "??">>
