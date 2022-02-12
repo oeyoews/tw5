@@ -1,6 +1,8 @@
 created: 20220106043757586
-modified: 20220128210231245
+creator: oeyoews
+modified: 20220212110049327
+modifier: oeyoews
 title: $:/config/shortcuts/notebook-focus-search
 type: text/vnd.tiddlywiki
 
-ctrl-shift-F
+alt-Q
