@@ -1,11 +1,17 @@
 color: #b0b030
 created: 20220131201324330
-modified: 20220211084749840
+creator: oeyoews
+modified: 20220212095951148
+modifier: oeyoews
 page-cover: 
 tags: Index
 title: ??
 type: text/vnd.tiddlywiki
 
-<h2 align="center">
-</h2>
-<<presenter tag:"??" footer:"Hello" animation:slidedown theme:>>
+<$macrocall
+	$name="toc-tabbed-external-nav"
+	tag="??"
+	selectedTiddler="$:/temp/toc/selectedTiddler"
+	unselectedText="<p>选择目录中的一个主题，点击箭头可展开主题。</p>"
+	missingText="<p>佚失条目。</p>"
+/>

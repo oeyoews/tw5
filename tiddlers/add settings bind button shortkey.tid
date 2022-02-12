@@ -1,7 +1,9 @@
 created: 20220212064655447
 creator: oeyoews
-modified: 20220212064655447
+modified: 20220212094514724
 modifier: oeyoews
-tags: Inbox todo
+tags: Inbox todo done
 title: add settings bind button shortkey
 type: text/vnd.tiddlywiki
+
+[[bram shortcuts|https://bramchen.github.io/tw5-docs/zh-Hans/#How%20to%20create%20keyboard%20shortcuts]]
