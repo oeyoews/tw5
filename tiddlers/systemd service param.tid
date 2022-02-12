@@ -1,0 +1,18 @@
+created: 20220212184406582
+creator: oeyoews
+modified: 20220212184753722
+modifier: oeyoews
+tags: Linux
+title: systemd service param
+type: text/vnd.tiddlywiki
+
+
+"""
+Restart=always                       # 只要不通过stop停止，任何情况下都必须重启服务
+RestartSec=5                         # 重启间隔，异常后等待5秒再启动，默认为100ms
+RestartPreventExitStatus=12 SIGKILL  # 当退出码为12或者受到KILL信号时不再自动重启
+"""
+
+如果设置为 on-failure ，那么当退出码为 0 时，将不会再重启，此时应该设置为 always 模式。
+
+

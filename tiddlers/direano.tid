@@ -1,17 +1,15 @@
-color: #7e68ee
-created: 20220206190107065
+caption: Name as shown in menu
+created: 20220212185827826
 creator: oeyoews
-icon: 
-modified: 20220212185956928
+modified: 20220212185909186
 modifier: oeyoews
-page-cover: 
-tags: Index
-title: books
+tags: $:/tags/TextEditor/Snippet snippets
+title: direano
 type: text/vnd.tiddlywiki
 
  <$macrocall
 	$name="toc-tabbed-internal-nav"
-	tag="books"
+	tag=""
 	selectedTiddler=""
 	unselectedText="<p></p>"
 	missingText="<p>佚失条目。</p>"
