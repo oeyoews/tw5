@@ -1,8 +1,10 @@
 caption: Favorites
 created: 20191228192318272
+creator: oeyoews
 list-after: $:/core/ui/SideBar/Open
-modified: 20220210114655844
-tags: $:/tags/SideBar
+modified: 20220212084839910
+modifier: oeyoews
+tags: 
 title: $:/plugins/kookma/favorites/frozen-list
 type: text/vnd.tiddlywiki
 

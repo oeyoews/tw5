@@ -1,0 +1,8 @@
+author: Simon Huber
+dependents: 
+description: KeeBoord - A plugin for global keyboard shortcuts
+list: readme config
+plugin-type: plugin
+title: $:/plugins/BurningTreeC/KeeBoord
+type: application/json
+version: 5.1.17
