@@ -1,9 +1,9 @@
 created: 20220210193015251
 creator: oeyoews
-modified: 20220212100439589
+modified: 20220212165849302
 modifier: oeyoews
 tags: examples
-title: fastable
+title: booklist
 type: text/vnd.tiddlywiki
 
 <$checkbox> 的为已读但未完成读书笔记的书籍，☑️的为已读并写完读书笔记的书籍。
