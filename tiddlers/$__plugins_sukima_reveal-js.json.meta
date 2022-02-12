@@ -1,0 +1,12 @@
+author: sukima
+core-version: >=5.1.21
+created: 20201225113221644
+dependents: 
+description: Embedded Reveal.js presentations
+list: readme license
+modified: 20201225113221645
+plugin-type: plugin
+source: https://github.com/sukima/tiddlywiki-reveal-js
+title: $:/plugins/sukima/reveal-js
+type: application/json
+version: 1.1.1
