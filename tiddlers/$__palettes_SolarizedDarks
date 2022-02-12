@@ -65,7 +65,7 @@ site-title-foreground: #d33682
 static-alert-foreground: #93a1a1
 tab-background: #002b36
 tab-background-selected: #e0101a
-tab-border: #86f877
+tab-border: #2f9122
 tab-border-selected: #e31616
 tab-divider: #073642
 tab-foreground: #32b4c3
