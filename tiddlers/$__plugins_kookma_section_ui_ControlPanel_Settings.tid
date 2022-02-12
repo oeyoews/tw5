@@ -1,8 +1,10 @@
 caption: Section Editor
 created: 20211009172215392
+creator: oeyoews
 list-after: $:/core/ui/ControlPanel/Settings/TiddlyWiki
-modified: 20220116093737278
-tags: $:/tags/ControlPanel/SettingsTab $:/tags/MoreSideBar
+modified: 20220212174218566
+modifier: oeyoews
+tags: $:/tags/ControlPanel/SettingsTab
 title: $:/plugins/kookma/section/ui/ControlPanel/Settings
 type: text/vnd.tiddlywiki
 
