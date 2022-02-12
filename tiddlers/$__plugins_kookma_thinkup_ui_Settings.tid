@@ -1,0 +1,26 @@
+caption: Thinkup
+created: 20210801161108093
+creator: oeyoews
+list: $:/plugins/kookma/thinkup/settings/smart-tabs $:/plugins/kookma/thinkup/settings/category-tabs
+list-after: $:/core/ui/ControlPanel/Settings/TiddlyWiki
+modified: 20220212125357018
+modifier: oeyoews
+tags: $:/tags/ControlPanel/SettingsTab
+title: $:/plugins/kookma/thinkup/ui/Settings
+type: text/vnd.tiddlywiki
+
+\import $:/plugins/kookma/thinkup/macros/definition
+
+These settings let you customise the behaviour of Thinkup plugin.
+
+---
+
+
+;Show Thinkup setting in more sidebar
+:<$checkbox tiddler="$:/plugins/kookma/thinkup/ui/Settings" tag="$:/tags/MoreSideBar"> Show setting in more sidebar</$checkbox>
+
+---
+
+<$list filter="[list[$:/plugins/kookma/thinkup/ui/Settings]]">
+<$macrocall $name=details label={{!!caption}} src=<<currentTiddler>> status=open/>
+</$list>

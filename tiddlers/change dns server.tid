@@ -1,6 +1,6 @@
 created: 20220212112655351
 creator: oeyoews
-modified: 20220212113251566
+modified: 20220212121428259
 modifier: oeyoews
 tags: website
 title: change dns server
@@ -10,3 +10,5 @@ modify dns server
 [[dns aliyun|https://help.aliyun.com/document_detail/54157.html?spm=a2c4g.11186623.0.0.3f505ec1Ztft3y]]
 
 https://www.rustc.cloud/blog-dev
+
+[[bug|https://vercel.com/support/articles/using-cloudflare-with-vercel?query=cloudflare]]
