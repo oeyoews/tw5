@@ -206,9 +206,10 @@ div.tc-tiddler-frame {
   padding: 42px 60px 60px 60px;
 }
 
+main title font size
 h1.tc-site-title {
   margin-top: 14px;
-  font-size: 1.5em !important;
+  font-size: 1.95em !important;
 }
 
 .nc-bar {
@@ -431,9 +432,10 @@ input[type="search"]::-webkit-search-cancel-button {
   float: right;
 }
 
+/*modify @oeyoews*/
 .nc-sidebar .content {
   padding: 6px 15px;
-  font-size: 1em;
+  font-size: 1.1em;
 }
 
 .nc-sidebar .tc-tiddlylink {
