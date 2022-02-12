@@ -38,16 +38,18 @@
 
 ### methos2
 
-* use tidGIt-desktop(太微)
+* use TidGi*
 
 ## run(general)
 
-`npm run dev` depend git bashui in windows
-`yarn dev`
+* `npm run dev` depend git bashui in windows
+* `yarn dev`
+* `yarn localbuild`
 
 > NOTE: if you use npm run dev &, only use npm run dev again , and ctrl c to exit this node program
 
 ## bug
 
-`\$__themes_nico_notebook_ui_Bottombar.tid`
-\$__themes_nico_notebook_ui_Topbar.tid
+* ~~`\$__themes_nico_notebook_ui_Bottombar.tid`
+\$__themes_nico_notebook_ui_Topbar.tid~~
+
