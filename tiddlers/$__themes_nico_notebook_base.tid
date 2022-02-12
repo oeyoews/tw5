@@ -96,7 +96,7 @@ a.tc-tiddlylink-external:hover {
   backdrop-filter: blur(10px);
 	/** sticky  or none */
   position: sticky;
-  top: 80px;
+  top: 92px;
   z-index: 1000;
 }
 .tc-tiddler-preview {
