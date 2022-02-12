@@ -92,11 +92,11 @@ tiddler-link-background: #002b36
 tiddler-link-foreground: #2aa198
 tiddler-subtitle-foreground: #839496
 tiddler-title-foreground: #d33682
-toolbar-cancel-button: #839496
-toolbar-close-button: #839496
+toolbar-cancel-button: #ffc72e
+toolbar-close-button: #9a37eb
 toolbar-delete-button: #dc322f
-toolbar-done-button: #839496
-toolbar-edit-button: #839496
+toolbar-done-button: #49fd17
+toolbar-edit-button: #33d4e6
 toolbar-info-button: #839496
 toolbar-new-button: #839496
 toolbar-options-button: #839496
