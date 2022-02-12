@@ -87,6 +87,7 @@ a.tc-tiddlylink-external:hover {
   backdrop-filter: blur(10px);
   /** fix menubar with sticky title https://github.com/Jermolene/TiddlyWiki5/issues/4471#issuecomment-594456486*/
   top: var(--menubar-height);
+  /*font-size: 1.5em !important;*/
 }
 
 /** 编辑器工具栏 <<colour tiddler-editor-background>> */
@@ -673,6 +674,7 @@ pre, code {
   font-family: {{$:/themes/nico/notebook/settings/codefontfamily}};
 }
 
+  tiddler title size
 .tc-titlebar, .tc-site-title {
   font-size: 28px !important;
   line-height: 34px !important;
