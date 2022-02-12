@@ -1,0 +1,36 @@
+created: 20220212200401023
+creator: oeyoews
+modified: 20220212201451133
+modifier: oeyoews
+tags: examples $:/tags/Stylesheet
+title: $:/oeyoews/scrollbar/style
+type: text/vnd.tiddlywiki
+
+\rules only filteredtranscludeinline transcludeinline macrodef macrocallinline html
+
+html {
+  --scrollbarBG: <<color page-background>>;
+  --thumbBG: <<color sidebar-tiddler-link-foreground>>; /*other candidate colors: foreground, sidebar-tiddler-link-foreground */
+}
+
+/* only for Twilight palette use <<color sidebar-muted-foreground>> */
+
+/* Works on Firefox */
+* {
+  scrollbar-width: thin;
+}
+/* for Chrome, Edge */
+::-webkit-scrollbar,
+  scrollbar-width {
+  width: 8px;
+  height:8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--scrollbarBG);
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 6px;
+  border: 1.5px solid var(--scrollbarBG);
+  background-color: var(--thumbBG) ;
+}
