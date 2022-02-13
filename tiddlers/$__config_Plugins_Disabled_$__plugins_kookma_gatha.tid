@@ -1,6 +1,8 @@
 created: 20220211083106047
-modified: 20220211083106047
+creator: oeyoews
+modified: 20220213222855089
+modifier: oeyoews
 title: $:/config/Plugins/Disabled/$:/plugins/kookma/gatha
 type: text/vnd.tiddlywiki
 
-yes
+no
