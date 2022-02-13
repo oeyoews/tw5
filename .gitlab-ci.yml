@@ -11,6 +11,7 @@ pages:
   - yarn devbuild && yarn copy && yarn copy
 
   artifacts:
+    enabled: false
     paths:
     - public
     expire_in: 20 minutes
