@@ -1,7 +1,22 @@
-created: 20220212175857766
+color: #aff024
+created: 20211226085802818
 creator: oeyoews
-modified: 20220213162846544
+icon: 
+keywords: Index
+modified: 20220213163348511
 modifier: oeyoews
+page-cover: 
+stream-type: default
 tags: Index
 title: Index
 type: text/vnd.tiddlywiki
+
+`Hello`
+
+<<reuse-tiddler "footer">>
+
+<<reuse-tiddler "Inbox">>
+
+<<reuse-tiddler "fishingAnalysics">>
+
+<<reuse-tiddler "TagCloud">>
