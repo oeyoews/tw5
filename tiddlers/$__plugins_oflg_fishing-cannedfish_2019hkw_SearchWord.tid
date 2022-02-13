@@ -1,0 +1,42 @@
+created: 20220213141113125
+creator: oeyoews
+modified: 20220213141225501
+modifier: oeyoews
+tags: $:/tags/QuestionTemplate
+title: $:/plugins/oflg/fishing-cannedfish/2019hkw/SearchWord
+type: text/vnd.tiddlywiki
+word: Canned fish
+
+<$reveal
+            state=<<folded-state>>
+            type="match"
+            text="hide"
+            animate="yes"
+        >
+            {{!!word}}
+        </$reveal>
+
+    <span
+        class="tc-fish-title"
+    >
+        <$reveal
+            state=<<folded-state>>
+            type="nomatch"
+            text="hide"
+            animate="yes"
+        >
+            <main style="width:100%;overflow:hidden;"> 
+                <iframe id={{!!word}}
+                    title={{!!word}}
+                    height="700px"
+                    width="100%"
+                    src={{{[{!!word}encodeuricomponent[]addprefix[https://www.youdao.com/result?word=]addsuffix[&lang=en]]}}}
+                    frameborder=0
+                    seamless="seamless"
+                    style="margin:-130px 0 -60px 0;"
+                    marginheight="0"
+                    marginwidth="0"
+                />
+            </main>
+        </$reveal>
+    </span>

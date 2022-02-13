@@ -1,19 +1,11 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/llyc5500/SearchWord}}
 created: 20220118152122230
 creator: oeyoews
-difficulty: 5.175908413544972
-due: 20220212194402246
 grade: -1
 history: []
-interval: 0
-lapses: 0
-modified: 20220211194402246
+modified: 20220213141508933
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220211194402246
-stability: 0.05
-tags: [[高频词汇 Unit 01]] ?
+tags: [[高频词汇 Unit 01]]
 title: llyc5500/20220118152122230931
 type: text/vnd.tiddlywiki
 word: state
