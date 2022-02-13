@@ -1,6 +1,8 @@
 created: 20220210125149991
-modified: 20220210125149991
+creator: oeyoews
+modified: 20220213201937741
+modifier: oeyoews
 title: $:/config/Plugins/Disabled/$:/plugins/telmiger/EditButtons
 type: text/vnd.tiddlywiki
 
-yes
+no
