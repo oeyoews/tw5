@@ -1,0 +1,13 @@
+{
+    "title": "$:/plugins/oeyoews/TimerCalendar",
+    "name": "timercalendar",
+    "description": "timer and calendar",
+    "author": "oeyoews",
+    "version": "0.0.1",
+    "core-version": "5.2.2-prerelease-2022-01-28",
+    "source": "",
+    "list": "readme license history",
+    "parent-plugin": "",
+    "dependents": "",
+    "plugin-type": "plugin"
+}
