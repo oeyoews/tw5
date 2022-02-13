@@ -1,0 +1,205 @@
+created: 20200808175138605
+modified: 20220208085503761
+places: Honolulu Anchorage Vancouver Seattle [[San Francisco]] [[Los Angeles]] Denver Phoenix Winnipeg Chicago [[New Orleans]] Montreal Toronto Boston [[New York]] Philadelphia Miami London Rome Moscow [[New Delhi]] Beijing Perth Tokyo Adelaide Sydney
+tags: 
+title: TiddlyTools/Time/WorldClocks
+type: text/vnd.tiddlywiki
+
+\define tt_time_config()  $:/config/TiddlyTools/Time
+\define default_offsets() TiddlyTools/Time/Places
+\define local_time()      local time
+\define popid()           $:/state/popup/worldclocks/select
+
+\define worldclocks_styles()
+<style>
+   .worldClock              { display:inline-block;text-align:center;margin:0 0.5em; }
+   .worldClock_lists        { width:100%;overflow:auto;margin-bottom:0.25em; }
+   .worldClock_lists option { overflow:hidden;text-overflow:ellipsis; }
+</style>
+\end
+
+\define worldclocks_select()
+<$button class="tc-button tt-button" popup=<<qualify "$(popid)$">>> select places... </$button>
+<$reveal type="popup" state=<<qualify "$(popid)$">> class="tc-popup-keep">
+   <div class="tc-drop-down tt-shadowbox" style="min-width:20em;padding:0.5em;text-align:left;font-size:90%;line-height:1.2em;">
+      <<worldclocks_select_lists>>
+      <div style="float:right;line-height:1.5em;vertical-align:bottom;">
+         <<worldclocks_select_edit>> <<worldclocks_select_copy>> <<worldclocks_select_delete>> <<worldclocks_select_close>>
+      </div>
+      <div style="clear:both;height:0.25em;"></div>
+      <div class="tt-shadowbox inset"> <<worldclocks_select_items>> </div>
+   </div>
+</$reveal>
+\end
+
+\define worldclocks_select_lists()
+<$vars filt="[enlist<default_offsets>] [tag[places]!enlist<default_offsets>] +[!has[draft.of]]">
+<$button class="tc-btn-invisible" style="float:left;white-space:nowrap;width:calc(100% - 7em);padding:0 0.25em;border:1px solid;border-radius:0.25em;"
+   popup=<<qualify "$(popid)$/lists">> tooltip="select list(s) of places">
+   <span style="float:right;margin-left:1em;">{{$:/core/images/down-arrow}}</span>
+   <$tiddler tiddler={{{ [enlist{!!offsets}is[tiddler]] ~[enlist<default_offsets>] +[first[]] }}}>
+      ''<$view field="caption"><$view field="title"/></$view>''
+   </$tiddler>
+</$button>
+<$reveal type="popup" state=<<qualify "$(popid)$/lists">> class="tc-popup-keep" style="width:calc(100% - 1.2em);">
+   <$eventcatcher $click='<$action-deletetiddler $tiddler=<<qualify "$(popid)$/lists">>/>'>
+   <$select class="worldClock_lists" field="offsets" default=<<default_offsets>> multiple="yes" size={{{ [subfilter<filt>count[]] }}}
+      tooltip="select list(s) of places - CTRL-CLICK or SHIFT-CLICK = select multiple"
+      actions="""<$list filter="[{!!offsets}match<default_offsets>]" variable="reset"><$action-setfield $field="offsets" /></$list>""">
+      <$list filter=<<filt>>><option value=<<currentTiddler>>><$view field="caption"><<currentTiddler>></$view></option></$list>
+   </$select>
+   </$eventcatcher>
+</$reveal>
+\end
+
+\define worldclocks_select_edit()
+<$vars tid={{{ [enlist{!!offsets}is[tiddler]] ~[enlist<default_offsets>] +[first[]] }}}>
+<$vars cap={{{ [<tid>get[caption]else<tid>] }}}>
+<$vars tip={{{ [<cap>addprefix[edit "]addsuffix["]] }}}>
+<$button class="tc-btn-invisible" style="display:inline;width:auto;padding:0 0.25em;line-height:1em;" tooltip=<<tip>>>
+   {{$:/core/images/edit-button}}
+   <$list filter="[<tid>is[tiddler]]">
+      <$action-sendmessage $message="tm-edit-tiddler" $param=<<currentTiddler>> />
+   </$list>
+   <$list filter="[<tid>is[missing]]">
+      <$action-sendmessage $message="tm-new-tiddler" $param=<<currentTiddler>>
+         text="" type="application/x-tiddler-dictionary" tags="places" caption=""/>
+   </$list>
+</$button>
+\end
+
+\define worldclocks_select_copy()
+<$vars offsets={{{ [enlist{!!offsets}is[tiddler]then{!!offsets}] ~[enlist<default_offsets>] }}} lf="
+">
+<$set name="list" filter="[enlist{!!places}] :map[enlist<offsets>get[text]splitregexp[\n]prefix<currentTiddler>]">
+<$button class="tc-btn-invisible" style="display:inline;width:auto;padding:0 0.25em;line-height:1em;" tooltip="copy selected places to a new list">
+   {{$:/core/images/clone-button}}
+   <$action-sendmessage $message="tm-new-tiddler" $param={{{ [enlist<offsets>limit[1]] }}}
+      text={{{ [enlist<list>join<lf>] }}} type="application/x-tiddler-dictionary" tags="places" caption=""/>
+</$button>
+\end
+
+\define worldclocks_select_delete()
+<$vars tid={{{ [enlist{!!offsets}is[tiddler]] ~[enlist<default_offsets>] +[first[]] }}}>
+<$vars cap={{{ [<tid>get[caption]else<tid>] }}}>
+<$vars tip={{{ [<cap>addprefix[delete "]addsuffix["]] }}}>
+<$button class="tc-btn-invisible" style="display:inline;width:auto;padding:0 0.25em;line-height:1em;" tooltip=<<tip>>>
+   {{$:/core/images/delete-button}}
+   <$action-confirm $message={{{ [<cap>addprefix[Are you sure you want to delete "]addsuffix["]] }}}>
+      <$action-deletetiddler $tiddler=<<tid>> />
+      <$action-listops $field="offsets" $subfilter="-[<tid>]"/>
+      <$list filter="[enlist{!!offsets}count[]match[1]]" variable="delete_offsets"><$action-deletefield offsets /></$list>
+      <$action-deletetiddler $tiddler=<<qualify "$(popid)$/lists">> />
+   </$action-confirm>
+</$button>
+\end
+
+\define worldclocks_select_close()
+<$button class="tc-btn-invisible" style="display:inline;width:auto;padding:0 0 0 0.25em;line-height:1em;" tooltip="close">
+   {{$:/core/images/close-button}}
+   <$action-deletetiddler $tiddler=<<qualify "$(popid)$">> />
+</$button>
+\end
+
+\define worldclocks_select_items()
+<$vars lf="
+">
+<$vars places={{{ [enlist{!!offsets}is[tiddler]] ~[enlist<default_offsets>] +[get[text]join<lf>] }}}>
+<$set name="items" filter="[<places>splitregexp[\n]splitbefore[:]removesuffix[:]trim[]]">
+<$list filter="[<items>match[]]"  variable="no_items" > <<worldclocks_select_empty>> </$list>
+<$list filter="[<items>!match[]]" variable="has_items">
+<div style="clear:both;padding-top:0.5em;column-count:3;column-gap:0.5em;"> 
+<<worldclocks_select_all>>
+<$list filter="[enlist<items>]" variable="place">
+   <div>
+   <$list filter="[<currentTiddler>contains:places<place>]">
+      <$eventcatcher $click='<$action-listops $field="places" $subfilter="-[<place>]"/>'>
+      <input type="checkbox" checked="checked"/> <$text text=<<place>>/>
+      </$eventcatcher>
+   </$list>
+   <$list filter="[<currentTiddler>!contains:places<place>]">
+      <$eventcatcher $click='<$action-listops $field="places" $subfilter="[<place>]"/><$action-listops $field="places" $filter="[enlist{!!places}sortby<items>]"/>'>
+      <input type="checkbox"/> <$text text=<<place>>/>
+      </$eventcatcher>
+   </$list>
+   </div>
+</$list>
+\end
+
+\define worldclocks_select_empty()
+<$vars tid={{{ [enlist{!!offsets}] ~[enlist<default_offsets>] +[first[]] }}}>
+<$vars cap={{{ [<tid>get[caption]else<tid>] }}}>
+<$vars tip={{{ [<cap>addprefix[edit "]addsuffix["]] }}}>
+<$button class="tc-btn-invisible" style="width:100%;text-align:center;line-height:2em;" tooltip=<<tip>>>
+   ''The list is empty - press {{$:/core/images/edit-button}} to add places''
+   <$list filter="[<tid>is[tiddler]]">
+      <$action-sendmessage $message="tm-edit-tiddler" $param=<<tid>> />
+   </$list>
+   <$list filter="[<tid>is[missing]]">
+      <$action-sendmessage $message="tm-new-tiddler" $param=<<tid>>
+         text="" type="application/x-tiddler-dictionary" tags="places" caption=""/>
+   </$list>
+</$button>
+\end
+
+\define worldclocks_select_all()
+<$list filter="[enlist<items>!enlist{!!places}count[]!match[0]]" variable="none_or_some">
+   <$button class="tc-btn-invisible" style="display:inline;width:auto;padding:0;line-height:1em;" tooltip="select all places">
+      <input type="checkbox"/> ''select all''
+      <$list filter="[enlist<items>]" variable="place"><$action-listops $field="places" $subfilter="[<place>]"/></$list>
+      <$action-listops $field="places" $filter="[enlist{!!places}sortby<items>]"/>
+   </$button>
+</$list>
+<$list filter="[enlist<items>!enlist{!!places}count[]match[0]]" variable="all">
+   <$button class="tc-btn-invisible" style="display:inline;width:auto;padding:0;line-height:1em;" tooltip="clear all places">
+      <input type="checkbox" checked="checked" /> ''clear all''
+      <$list filter="[enlist<items>]" variable="place"><$action-listops $field="places" $subfilter="-[<place>]"/></$list>
+   </$button>
+</$list>
+\end
+
+\define worldclocks_options()
+<$tiddler tiddler=<<tt_time_config>>>
+<$button class="tc-button tt-button" popup=<<qualify "$(popid)$/options">>> {{$:/core/images/options-button}} </$button>
+<$reveal type="popup" state=<<qualify "$(popid)$/options">> class="tc-popup-keep">
+   <div class="tc-drop-down tt-shadowbox" style="min-width:auto;padding:0.5em;text-align:left;transform:translateX(-8em);">
+      <$button class="tc-btn-invisible" style="float:right;display:inline;width:auto;padding:0 0 0 0.25em;line-height:1em;" tooltip="close">
+         {{$:/core/images/close-button}}
+         <$action-deletetiddler $tiddler=<<qualify "$(popid)$/options">> />
+      </$button>
+      ''~WorldClock settings''
+      <div style="clear:both;"></div>
+      <div class="tt-shadowbox inset" style="white-space:nowrap;">
+         clock size:
+         <span style="vertical-align:sub;"><$range field="world_size" min="50" max="200" increment="10" default="100"/></span>
+         <$button class="tc-btn-invisible" style="display:inline;width:auto;padding:0;" tooltip="reset to 100%">
+            <$text text={{{ [<currentTiddler>get[world_size]else[100]] }}}/>% <$action-setfield $field="world_size"/>
+         </$button><br>
+         <$checkbox field="world_digital" checked="yes" unchecked="no" default="yes"> show digital clocks: </$checkbox><br>
+         <$edit-text field="world_format" size="30" default="ddd, YYYY-0MM-0DD 0hh:0mm:0ss" placeholder="ddd, YYYY-0MM-0DD 0hh:0mm:0ss"/><br>
+      </div>
+   </div>
+</$reveal>
+\end
+
+\define worldclocks_show()
+\import TiddlyTools/Time/Clocks
+<$vars offsets={{{ [enlist{!!offsets}is[tiddler]then{!!offsets}] ~[<default_offsets>] }}}>
+<$vars TZD=<<now "TZD">> size={{{ [<tt_time_config>get[world_size]] ~[[100]] }}}
+    format={{{ [<tt_time_config>get[world_format]] ~[[ddd, YYYY-0MM-0DD 0hh:0mm:0ss]] }}}>
+<$list filter="[<local_time>] [enlist{!!places}]" variable="place">
+   <$list filter="[<place>match<local_time>then<TZD>] [enlist<offsets>getindex<place>unique[]]" variable="offset">
+      <div class="worldClock" style={{{ [[font-size:]addsuffix<size>addsuffix[%;line-height:1em;]] }}}>
+         ''<$text text=<<place>>/>''
+         <div style="font-size:60%;line-height:1em;">
+            <$macrocall $name="clock" type=analog  offset=<<offset>>/> <br>
+            <$list filter="[<tt_time_config>get[world_digital]else[yes]] +[!match[no]]" variable="show_digital">
+               <$macrocall $name="clock" type=digital offset=<<offset>> format=<<format>>/> <<offset>>
+            </$list>
+         </div>
+      </div>
+   </$list>
+</$list>
+\end
+
+<<worldclocks_styles>> <<worldclocks_select>> <<worldclocks_options>> <p/> <<worldclocks_show>>

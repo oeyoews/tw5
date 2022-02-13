@@ -1,0 +1,115 @@
+created: 20200725211229080
+modified: 20220124104844743
+tags: 
+title: TiddlyTools/Time/CountDown
+type: text/vnd.tiddlywiki
+
+\define temp() $:/temp/time/CountDown/$(here)$
+
+\define default_done() <$macrocall $name="showMessage" msg={{!!msg}} />
+
+\define countdown_tick()
+<!-- called from TiddlyTools/Time/Ticker -->
+<$list filter="[prefix[$:/temp/time/CountDown]]" variable="temp">
+   <$list filter="[<temp>get[go]match[go]then<temp>]">
+      <<showRemaining>>
+      <$list filter="[<temp>get[text]match[1]then<temp>]">
+         <$action-setfield $tiddler=<<temp>> go='stop' />
+         <$vars here={{{ [<temp>split[/]last[]] }}}> {{!!done}} </$vars>
+      </$list>
+      <$list filter="[<temp>get[text]!match[1]then<temp>]">
+         <$action-setfield $tiddler=<<temp>> text={{{ [<temp>get[text]subtract[1]] }}} />
+      </$list>
+   </$list>
+</$list>
+\end
+
+\define showRemaining()
+<$tiddler tiddler=<<temp>>>
+<$vars  R={{{ [<temp>get[text]subtract[1]]       }}}>
+<$vars  H={{{ [<R>divide[3600]trunc[]]           }}}>
+<$vars HM={{{ [<H>multiply[60]]                  }}}>
+<$vars  M={{{ [<R>divide[60]subtract<HM>trunc[]] }}}>
+<$vars HS={{{ [<H>multiply[3600]]                }}}>
+<$vars MS={{{ [<M>multiply[60]]                  }}}>
+<$vars  S={{{ [<R>subtract<HS>subtract<MS>]      }}}>
+<$action-setfield hours={{{ [<H>addprefix[00]split[]last[2]join[]] }}} />
+<$action-setfield  mins={{{ [<M>addprefix[00]split[]last[2]join[]] }}} />
+<$action-setfield  secs={{{ [<S>addprefix[00]split[]last[2]join[]] }}} />
+\end
+
+\define showMessage(msg:"Countdown completed")
+<$action-setfield $tiddler="$(temp)$/msg"
+   subtitle="""<$text text="$(here)$" />"""
+       text="""@@font-size:2em; $msg$@@"""
+     footer="""
+         <$button class="tc-button tt-button" message="tm-close-tiddler"> close
+            <$action-deletetiddler $tiddler="$(temp)$/msg" />
+         </$button>
+     """
+/>
+<$action-sendmessage $message="tm-modal" $param="$(temp)$/msg" />
+\end
+
+\define setCountdown(H:"00",M:"00",S:"00")
+<$tiddler tiddler=<<temp>>>
+<$action-setfield  text={{{ [[$H$]multiply[60]add[$M$]multiply[60]add[$S$]] }}} />
+<$action-setfield hours={{{ [[$H$]addprefix[00]split[]last[2]join[]] }}} />
+<$action-setfield  mins={{{ [[$M$]addprefix[00]split[]last[2]join[]] }}} />
+<$action-setfield  secs={{{ [[$S$]addprefix[00]split[]last[2]join[]] }}} />
+<$action-setfield  done=<<done>> />
+\end
+
+\define getCountdown()
+<style> .tt-countdown { width:2.5em; text-align:center; } </style>
+<span title="enter hours, minutes and seconds">
+<$list filter="[<temp>get[go]match[go]then<temp>] -[<temp>get[text]match[0]then<temp>]"
+   emptyMessage="""
+   <$edit-text tiddler=<<temp>> field="hours" tag="input" class="tt-countdown" default="" placeholder="hh" />
+   <$edit-text tiddler=<<temp>> field="mins"  tag="input" class="tt-countdown" default="" placeholder="mm" />
+   <$edit-text tiddler=<<temp>> field="secs"  tag="input" class="tt-countdown" default="" placeholder="ss" />
+   """>
+   <input value={{{ [<temp>get[hours]] }}} class="tt-countdown" style="background:#eee;" disabled="disabled">
+   <input value={{{ [<temp>get[mins]]  }}} class="tt-countdown" style="background:#eee;" disabled="disabled">
+   <input value={{{ [<temp>get[secs]]  }}} class="tt-countdown" style="background:#eee;" disabled="disabled">
+</$list>
+</span>
+\end
+
+\define getMessage()
+<$edit-text tiddler=<<temp>> field="msg" tag="input" size="30" default="" placeholder="enter a message" />
+\end
+
+\define start()
+<$tiddler tiddler=<<temp>>>
+<$vars H={{!!hours}} M={{!!mins}} S={{!!secs}}>
+<$button class="tc-button tt-button" tooltip="start countdown">
+   <$list filter="[<H>add<M>add<S>!match[0]]"  emptyMessage="@@color:gray; start@@" variable="if-not-zeros">
+      <$list filter="[<temp>{!!go}!match[go]]" emptyMessage="@@color:gray; start@@" variable="if-not-countdown">
+         start <$macrocall $name="setCountdown" H=<<H>> M=<<M>> S=<<S>> /> <$action-setfield go="go" />
+      </$list>
+   </$list>
+</$button>
+\end
+
+\define pause()
+<$tiddler tiddler=<<temp>>>
+<$button class="tc-button tt-button" tooltip="pause/resume countdown">
+   <$list filter="[<temp>get[text]compare:integer:gt[1]]" variable="has-countdown" emptyMessage="@@color:gray; pause@@">
+      <$list filter="[{!!go}match[]then<temp>]">      @@color:gray; pause@@                 </$list>
+      <$list filter="[{!!go}match[go]then<temp>]">    pause  <$action-setfield go="stop" /> </$list>
+      <$list filter="[{!!go}match[stop]then<temp>]">  resume <$action-setfield go="go"   /> </$list>
+      <$list filter="[{!!go}match[pause]then<temp>]"> resume <$action-setfield go="go"   /> </$list> <!-- for AutoSaver settings -->
+   </$list>
+</$button>
+\end
+
+\define reset()
+<$button class="tc-button tt-button" tooltip="stop/reset countdown"> stop
+   <$action-deletetiddler $tiddler=<<temp>> />
+</$button>
+\end
+
+<$vars here=<<currentTiddler>>>
+<$set  name="done" filter="[<done>!match[]]" value=<<done>> emptyValue=<<default_done>>>
+<<getCountdown>> <<getMessage>> <<start>> <<pause>> <<reset>>

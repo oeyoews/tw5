@@ -1,0 +1,356 @@
+created: 20200712174503125
+modified: 20210628154059318
+tags: $:/tags/Macro
+title: TiddlyTools/Time/Timers
+type: text/vnd.tiddlywiki
+
+\define tt_time_config() $:/config/TiddlyTools/Time
+
+\define timer_ticker() $:/temp/time/ticker
+\define timer_temp()   $:/temp/timer/input
+\define timer_config() $:/config/Timers
+
+\define timer_showdate(time)
+\whitespace trim
+<!-- show 17-digit date/time stamp as formatted date/time -->
+<$vars UTC="[UTC]">
+<$vars format={{{ [<tt_time_config>get[timer_format]] ~[[YYYY-0MM-0DD 0hh:0mm:0ss.0XXX]] +[addprefix<UTC>] }}}>
+<$reveal text=<<$time$>> type="nomatch" default="">
+   <$view tiddler=<<$time$>> field=title format="date" template=<<format>>/>
+</$reveal>
+\end
+
+\define timer_showtime(time,hidemsec)
+\whitespace trim
+<!-- show seconds.msec as 0hh:0mm:0ss.0XXX -->
+<$vars     hr={{{ [<$time$>divide[3600]trunc[]addprefix[0]split[]last[2]join[]] }}}>
+<$vars    min={{{ [<$time$>remainder[3600]divide[60]trunc[]addprefix[0]split[]last[2]join[]] }}}>
+<$vars    sec={{{ [<$time$>remainder[60]split[.]first[]addprefix[0]split[]last[2]join[]] }}}>
+<$vars   msec={{{ [<$time$>remainder[60]split[.]rest[]else[0]addsuffix[000]split[]first[3]join[]] }}}>
+<$reveal text=<<$time$>> type="nomatch" default="">
+   <<hr>>:<<min>>:<<sec>> <$reveal text="$hidemsec$" type="match" default=""> .<<msec>> </$reveal>
+</$reveal>
+\end
+
+\define timer_getseconds(time)
+\whitespace trim
+<!-- show DD0hh0mm0ss0XXX as seconds.msec -->
+<$vars 
+    day={{{ [[$time$]split[]first[ 8]last[2]join[]multiply[86400]] }}}
+   hour={{{ [[$time$]split[]first[10]last[2]join[]multiply[3600]]  }}}
+    min={{{ [[$time$]split[]first[12]last[2]join[]multiply[60]]    }}}
+    sec={{{ [[$time$]split[]first[14]last[2]join[]]                }}}
+   msec={{{ [[$time$]split[]first[17]last[3]join[]divide[1000]]    }}}>
+{{{ [<msec>add<sec>add<min>add<hour>add<day>] }}}
+\end
+
+\define timer_ticker_show()
+<$vars started={{{ [enlist{!!startlist}last[]] }}} stopped=<<now YYYY0MM0DD0hh0mm0ss0XXX>>>
+<$wikify name="start" text='<$macrocall $name="timer_getseconds" time=<<started>> />'>
+<$wikify name="stop"  text='<$macrocall $name="timer_getseconds" time=<<stopped>> />'>
+<$vars elapsed={{{ [<stop>subtract<start>trunc[]] }}}>
+<$list filter="[<timer_ticker>is[tiddler]]" emptyMessage="in progress...">
+   <<timer_showtime elapsed hidemsec>>
+</$list>
+\end
+
+\define timer_add()
+<div style="display:inline-block;">
+   Timer name:<br>
+   <$edit-text tiddler=<<timer_temp>> field="timername" size="20" placeholder="enter a new timer name"/>
+</div>
+<div style="display:inline-block;">
+   Description:<br>
+   <$edit-text tiddler=<<timer_temp>> field="description"  size="45" placeholder="enter a description"/>
+</div>
+<div style="display:inline-block;">
+   <br>
+   <$vars this_timer={{{ [<timer_temp>get[timername]else[Timer]addprefix[/]addprefix<timer_config>] }}}>
+   <$button class="tc-button tt-button" tooltip="add timer"> {{$:/core/images/new-button}}
+      <$action-createtiddler $basetitle=<<this_timer>> caption={{{ [<timer_temp>get[description]] }}}
+         text="@@display:inline-block;<<timer_buttons>> <<timer_elapsed>> <<timer_total>> <<timer_history>>@@"/>
+      <$action-deletetiddler $tiddler=<<timer_temp>> />
+   </$button>
+   </$vars>
+</div>
+\end
+
+\define timer_delete()
+<$button class="tc-button tt-button" tooltip="delete timer"> {{$:/core/images/delete-button}}
+   <$action-setfield $tiddler="$:/temp/timer/confirmdelete"
+      subtitle="Delete Timer"
+      text="""
+         Are you sure you want to delete
+         <blockquote> @@font-size:1.5em;''<$text text="$(currentTiddler)$" />''@@ </blockquote>
+      """
+      footer="""
+         <$button message="tm-close-tiddler" class="tc-button tt-button" tooltip="close"> cancel
+            <$action-deletetiddler $tiddler="$:/temp/timer/confirmdelete"/>
+         </$button>
+         <$button message="tm-close-tiddler" class="tc-button tt-button" tooltip="delete timer"> delete
+            <$action-deletetiddler $tiddler="$(currentTiddler)$"/>
+            <$action-deletetiddler $tiddler="$:/temp/timer/confirmdelete"/>
+         </$button>
+      """ />
+   <$action-sendmessage $message="tm-modal" $param="$:/temp/timer/confirmdelete" />
+</$button>
+\end
+
+\define timer_start()
+<$reveal default={{!!button}} type="nomatch" text="stop">
+   <$button class="tc-button tt-button" tooltip="start timer" actions="""
+      <$vars started=<<now YYYY0MM0DD0hh0mm0ss0XXX>>>
+      <$list filter="[<currentTiddler>is[missing]]"> <$action-setfield $tiddler=<<currentTiddler>> button="stop" /> </$list>
+      <$action-setfield $timestamp="no" startlist={{{ [{!!startlist}addsuffix[ ]addsuffix<started>trim[]] }}}/>
+      <$action-setfield $timestamp="no" button="stop"/>
+   """> {{$:/core/images/timestamp-on}}
+   </$button>
+</$reveal>
+<$reveal default={{!!button}} type="match" text="stop">
+   <$button class="tc-button tt-button" tooltip="stop timer" actions="""
+      <$vars started={{{ [enlist{!!startlist}last[]] }}} stopped=<<now YYYY0MM0DD0hh0mm0ss0XXX>>>
+      <$wikify name="start" text='<$macrocall $name="timer_getseconds" time=<<started>> />'>
+      <$wikify name="stop"  text='<$macrocall $name="timer_getseconds" time=<<stopped>> />'>
+      <$vars elapsed={{{ [<stop>subtract<start>fixed[3]] }}}>
+      <$vars   total={{{ [enlist{!!totallist}] ~[[0]] +[last[]add<elapsed>fixed[3]] }}}>
+      <$action-setfield $timestamp="no"    stoplist={{{ [{!!stoplist}addsuffix[ ]addsuffix<stopped>trim[]] }}}/>
+      <$action-setfield $timestamp="no" elapsedlist={{{ [{!!elapsedlist}addsuffix[ ]addsuffix<elapsed>trim[]] }}}/>
+      <$action-setfield $timestamp="no"   totallist={{{ [{!!totallist}addsuffix[ ]addsuffix<total>trim[]] }}}/>
+      <$action-setfield $timestamp="no" button="start"/>
+   """> {{$:/core/images/timestamp-off}}
+   </$button>
+</$reveal>
+\end
+
+\define timer_cancel()
+<style> .graysvg  { fill:#cccccc !important; } </style>
+<$reveal default={{!!button}} type="nomatch" text="stop">
+   <$button class="tc-button tt-button" tooltip="cancel timer"> @@.graysvg {{$:/core/images/cancel-button}}@@ </$button>
+</$reveal>
+<$reveal default={{!!button}} type="match" text="stop">
+   <$button class="tc-button tt-button" tooltip="cancel timer"> {{$:/core/images/cancel-button}}
+      <$action-setfield $tiddler="$:/temp/timer/confirmcancel"
+         subtitle="Cancel Timer"
+         text="""
+            Are you sure you want to stop/discard the current timer session for
+            <blockquote> @@font-size:1.5em;''<$text text="$(currentTiddler)$" />''@@ </blockquote>
+         """
+         footer="""
+            <$button message="tm-close-tiddler" class="tc-button tt-button" tooltip="close"> continue timer
+               <$action-deletetiddler $tiddler="$:/temp/timer/confirmcancel"/>
+            </$button>
+            <$button message="tm-close-tiddler" class="tc-button tt-button" tooltip="cancel timer"> discard timer
+               <$tiddler tiddler="$(currentTiddler)$">
+               <$action-setfield $timestamp="no" $tiddler="$(currentTiddler)$" startlist={{{ [enlist{!!startlist}butlast[]join[ ]] }}}/>
+               <$action-setfield $timestamp="no" $tiddler="$(currentTiddler)$" button="start"/>
+               <$action-deletetiddler $tiddler="$:/temp/timer/confirmcancel"/>
+               </$tiddler>
+            </$button>
+         """ />
+      <$action-sendmessage $message="tm-modal" $param="$:/temp/timer/confirmcancel" />
+   </$button>
+</$reveal>
+\end
+
+\define timer_history_button()
+<style> .graysvg  { fill:#cccccc !important; } </style>
+<$reveal default={{!!startlist}} type="match" text="">
+   <$button class="tc-button tt-button" tooltip="show history"> @@.graysvg {{$:/core/images/chevron-down}}@@ </$button>
+</$reveal>
+<$reveal default={{!!startlist}} type="nomatch" text="">
+   <$reveal default={{!!showhistory}} type="nomatch" text="show">
+      <$button class="tc-button tt-button" tooltip="show history"> {{$:/core/images/chevron-down}}
+         <$action-setfield $timestamp="no" showhistory="show" />
+      </$button>
+   </$reveal>
+   <$reveal default={{!!showhistory}} type="match" text="show">
+      <$button class="tc-button tt-button" tooltip="hide history"> {{$:/core/images/chevron-up}}
+         <$action-setfield $timestamp="no" showhistory="" />
+      </$button>
+   </$reveal>
+</$reveal>
+\end
+
+\define timer_reset()
+<style> .graysvg  { fill:#cccccc !important; } </style>
+<$reveal default={{!!stoplist}} type="match" text="">
+   <$button class="tc-button tt-button" tooltip="reset history"> @@.graysvg {{$:/core/images/refresh-button}}@@ </$button>
+</$reveal>
+<$reveal default={{!!stoplist}} type="nomatch" text="">
+   <$button class="tc-button tt-button" tooltip="reset history"> {{$:/core/images/refresh-button}}
+      <$action-setfield $tiddler="$:/temp/timer/confirmreset"
+         subtitle="Reset Timer History"
+         text="""
+            Are you sure you want to reset the history for
+            <blockquote> @@font-size:1.5em;''<$text text="$(currentTiddler)$" />''@@ </blockquote>
+         """
+         footer="""
+            <$button message="tm-close-tiddler" class="tc-button tt-button" tooltip="close"> cancel
+               <$action-deletetiddler $tiddler="$:/temp/timer/confirmreset"/>
+            </$button>
+            <$button message="tm-close-tiddler" class="tc-button tt-button" tooltip="reset timer history"> reset
+               <$tiddler tiddler="$(currentTiddler)$">
+                  <$list filter={{!!startlist}} variable="comment"><$action-setfield $timestamp="no" $field=<<comment>> /></$list>
+                  <$action-setfield $timestamp="no" $field="startlist"   />
+                  <$action-setfield $timestamp="no" $field="stoplist"    />
+                  <$action-setfield $timestamp="no" $field="elapsedlist" />
+                  <$action-setfield $timestamp="no" $field="totallist"   />
+                  <$action-setfield $timestamp="no" $field="button"      />
+                  <$action-setfield $timestamp="no" $field="showhistory" />
+               </$tiddler>
+               <$action-deletetiddler $tiddler="$:/temp/timer/confirmreset"/>
+            </$button>
+         """ />
+      <$action-sendmessage $message="tm-modal" $param="$:/temp/timer/confirmreset" />
+   </$button>
+</$reveal>
+\end
+
+\define timer_buttons(timername)
+<$tiddler tiddler={{{ [[$timername$]!match[]] ~[<currentTiddler>] }}}>
+<<timer_start>> <<timer_cancel>>
+\end
+
+\define timer_elapsed(timername,label:"elapsed:")
+<$tiddler tiddler={{{ [[$timername$]!match[]] ~[<currentTiddler>] }}}>
+<$vars elapsed={{{ [enlist{!!elapsedlist}last[]] }}}>
+<$reveal default={{!!button}} type="match" text="stop">
+   <$reveal default={{!!startlist}} type="nomatch" text="">
+      $label$ ''<<timer_ticker_show>>''
+   </$reveal>
+</$reveal>
+\end
+
+\define timer_total(timername,label:"total:")
+<$tiddler tiddler={{{ [[$timername$]!match[]] ~[<currentTiddler>] }}}>
+<$vars total={{{ [enlist{!!totallist}last[]] }}}>
+<$reveal default={{!!button}} type="nomatch" text="stop">
+   <$reveal text=<<total>> type="nomatch" default="">
+      $label$ ''<<timer_showtime total>>''
+   </$reveal>
+</$reveal>
+\end
+
+\define timer_history(timername)
+<$tiddler tiddler={{{ [[$timername$]!match[]] ~[<currentTiddler>] }}}>
+<$vars count={{{ [enlist{!!startlist}count[]] }}}>
+<table style="width:100%;font-size:90%;line-height:120%;text-align:left;margin:0.25em 0;">
+   <tr><th>#</th><th>started</th><th>stopped</th><th>elapsed</th><th>total</th><th></th></tr>
+   <$list filter="[range<count>]" variable="item">
+      <$vars started={{{ [enlist{!!startlist}nth<item>]   }}}
+             stopped={{{ [enlist{!!stoplist}nth<item>]    }}}
+             elapsed={{{ [enlist{!!elapsedlist}nth<item>] }}}
+               total={{{ [enlist{!!totallist}nth<item>]   }}}>
+      <tr>
+         <td><<item>></td>
+         <td><<timer_showdate started>></td>
+         <td><<timer_showdate stopped>></td>
+         <td><<timer_showtime elapsed>></td>
+         <td><<timer_showtime total>></td>
+         <td style="padding:0;padding-bottom:1px;"><<timer_history_note_button>></td>
+      </tr>
+      <$reveal stateTitle=<<timer_temp>> stateField="show" type="nomatch" text=<<started>> tag="tr">
+         <<timer_history_note_view>>
+      </$reveal>
+      <$reveal stateTitle=<<timer_temp>> stateField="show" type="match"   text=<<started>> tag="tr">
+         <<timer_history_note_edit>>
+      </$reveal>
+      </$vars>
+   </$list>
+</table>
+\end
+
+\define timer_history_note_button()
+<$list filter="[<timer_temp>!has[show]]" variable="enable_button">
+   <$button class="tc-button tt-button" style="font-size:90%;line-height:100%;" tooltip="add/edit a comment">
+      {{$:/core/images/edit-button}}
+      <$action-setfield $tiddler=<<timer_temp>> comment={{{ [<currentTiddler>get<started>] }}} />
+      <$action-setfield $tiddler=<<timer_temp>> show=<<started>> />
+   </$button>
+</$list>
+<$list filter="[<timer_temp>has[show]]" variable="disable_button">
+   <$button class="tc-button tt-button" style="font-size:90%;line-height:100%;color:gray;fill:gray;" tooltip="add/edit a comment">
+      {{$:/core/images/edit-button}}
+   </$button>
+</$list>
+\end
+
+\define timer_history_note_view()
+\whitespace trim
+<$list filter="[<currentTiddler>has<started>]" variable="view_note">
+   <td><<item>></td>
+   <td colspan="4">
+      <$button class="tc-btn-invisible" tooltip="edit this comment" style="float:left;width:100%;height:1.5em;text-align:left;">
+         {{!!$(started)$}}
+         <$action-setfield $tiddler=<<timer_temp>> comment={{{ [<currentTiddler>get<started>] }}} />
+         <$action-setfield $tiddler=<<timer_temp>> show=<<started>> />
+      </$button>
+   </td>
+   <td style="padding:0;padding-bottom:1px;"><<timer_history_note_button>></td>
+</$list>
+\end
+
+\define timer_history_note_edit()
+\whitespace trim
+<style> .timer_comment { width:calc(100% - 8em);height:1.5em;padding-left:0.5em;border:0;outline:0; } </style>
+<td><<item>></td>
+<td colspan="5" style="padding:0;padding-right:1px;white-space:nowrap;">
+   <$keyboard class="inline" key="escape" actions=<<timer_history_note_cancel>>>
+   <$keyboard class="inline" key="enter"  actions=<<timer_history_note_ok>>>
+      <$edit-text tiddler=<<timer_temp>> field="comment" focus="yes" class="timer_comment" placeholder="enter a comment"/>
+   </$keyboard>
+   </$keyboard>
+   <div style="float:right;">
+   <$button class="tc-button tt-button" style="font-size:90%;" tooltip="delete this comment">
+      {{$:/core/images/delete-button}} <<timer_history_note_delete>>
+   </$button>
+   <$button class="tc-button tt-button" style="font-size:90%;" tooltip="cancel changes">
+      {{$:/core/images/close-button}}  <<timer_history_note_cancel>>
+   </$button>
+   <$button class="tc-button tt-button" style="font-size:90%;" tooltip="save this comment">
+      {{$:/core/images/done-button}}   <<timer_history_note_ok>>
+   </$button>
+   </div>
+</td>
+\end
+
+\define timer_history_note_delete()
+<$action-deletefield   $field=<<started>> />
+<$action-deletetiddler $tiddler=<<timer_temp>> />
+\end
+
+\define timer_history_note_cancel()
+<$action-deletetiddler $tiddler=<<timer_temp>> />
+\end
+
+\define timer_history_note_ok()
+<$action-setfield $timestamp="no" $field=<<started>> $value={{{ [<timer_temp>get[comment]] }}}/>
+<$action-deletetiddler $tiddler=<<timer_temp>> />
+\end
+
+\define timer(timername)
+<$tiddler tiddler={{{ [[$timername$]!match[]] ~[<currentTiddler>] }}}>
+<$vars name={{{ [<currentTiddler>removeprefix<timer_config>removeprefix[/]else<currentTiddler>] }}}>
+<$link>''<$text text=<<name>>/>''</$link>: ''<$text text={{!!caption}}/>''<br/>
+@@float:right;<<timer_history_button>> <<timer_reset>> <<timer_delete>>@@
+@@float:left; <<timer_buttons>> <<timer_elapsed>> <<timer_total>>@@
+@@display:block;clear:both;@@
+<$reveal default={{!!startlist}} type="nomatch" text="">
+   <$reveal default={{!!showhistory}} type="match" text="show"> <<timer_history>> </$reveal>
+</$reveal>
+\end
+
+\define timer_list()
+<$list filter="[prefix<timer_config>!sort[created]] -[<timer_config>]">
+   <div class="tt-shadowbox inset" style="margin-bottom:0.5em;"> <<timer>> </div>
+</$list>
+\end
+
+\define timers()
+<div style="display:inline-block;">
+   <<timer_add>>
+   <div style="margin-top:0.5em;"> <<timer_list>> </div>
+</div>
+\end
+
+<<timers>>

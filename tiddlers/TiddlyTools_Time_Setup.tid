@@ -1,0 +1,106 @@
+created: 20201003001310270
+modified: 20220213110703883
+tags: 
+title: TiddlyTools/Time/Setup
+type: text/vnd.tiddlywiki
+
+\define tt_time_config() $:/config/TiddlyTools/Time
+
+\define editSetup(field,default,width:"30em",align:"left")
+<style> .editSetup_$field$ { width:$width$; text-align:$align$; } </style>
+<$edit-text tag="input" class="editSetup_$field$" tiddler=<<tt_time_config>> field="$field$" default="$default$" placeholder="$default$"/>
+\end
+
+\define checkboxSetup(field,default,checked,unchecked,label)
+<$checkbox tiddler=<<tt_time_config>> field="$field$" default="$default$" checked="$checked$" unchecked="$unchecked$"> $label$ </$checkbox>
+\end
+
+\define rangeSetup(field,min,max,step,default)
+<$range tiddler=<<tt_time_config>> field="$field$" min="$min$" max="$max$" increment="$step$" default="$default$" />
+<$button class="tc-btn-invisible" tooltip="reset to $default$%"> <$text text={{{ [<tt_time_config>get[$field$]else[$default$]] }}}/>%
+   <$action-setfield $tiddler=<<tt_time_config>> $field$="$default$" />
+</$button>
+\end
+
+\define note(text)     @@font-size:80%;$text$@@
+\define note_order()   <<note "0=Sunday, 6=Saturday">>
+\define note_colors()  <<note "[[CSS colors|https://en.wikipedia.org/wiki/Web_colors]]">>
+\define note_fonts()   <<note "[[CSS fonts|https://developer.mozilla.org/en-US/docs/Web/CSS/font]]">>
+\define note_borders() <<note "[[CSS borders|https://www.w3schools.com/css/css_border.asp]]">>
+\define note_units()   <<note "[[CSS units|https://www.w3schools.com/cssref/css_units.asp]]">>
+\define note_dates()   <<note "[[TiddlyWiki Date Format codes|https://tiddlywiki.com/#DateFormat]]">>
+\define note_filters() <<note "[[TiddlyWiki Filter Syntax|https://tiddlywiki.com/#Filter%20Syntax:%5B%5BFilter%20Syntax%5D%5D%20%5B%5BIntroduction%20to%20filter%20notation%5D%5D%20%5B%5BFilter%20Operators%5D%5D]]">>
+
+<style>
+   .resize svg   { height:1em; width:1em; }
+   .nobullets    { list-style-type:none;  }
+   .nobullets li { list-style-type:none;  }
+   .borderless table, .borderless tr, .borderless td { border:0; margin:0; padding:0 1em 0 0; white-space:nowrap; line-height:100%; }
+</style>
+
+* Settings are stored in <$link to=<<tt_time_config>>/>.  To change these settings, you can use the controls shown below.
+* You can also create or update these settings by <$button class="tc-btn-invisible tc-tiddlylink" message="tm-edit-tiddler" param=<<tt_time_config>>>editing <$text text=<<tt_time_config>> /></$button>. You can get a copy of the default settings [[here|http://TiddlyTools.com/timer.html#%24%3A%2Fconfig%2FTiddlyTools%2FTime]].
+* If you clear a setting or <$button class="tc-btn-invisible tc-tiddlylink" message="tm-delete-tiddler" param=<<tt_time_config>>>delete <$text text=<<tt_time_config>> /></$button>, hard-coded default values will be used.
+
+@@.resize.nobullets
+* [[TiddlyTools/Time/Timers]]:
+** ''timer_format:'' <<note_dates>><br><<editSetup "timer_format" "YYYY-0MM-0DD 0hh:0mm:0ss.0XXX">>
+
+* [[TiddlyTools/Time/Calendar]]:
+** <div class="borderless"><$importvariables filter="TiddlyTools/Time/Calendar">
+
+|@@line-height:140%; ''calendar_showevents:''   @@|@@display:block;position:relative;padding-right:0.5em; <<controls_events_toggleall "show events and timelines">>@@|
+|>|@@display:inline-block;position:relative;width:30em;padding:0.25em 0.5em;border:1px solid;border-radius:0.5em;line-height:140%; <<controls_events_list "/setup">>@@|
+|@@line-height:140%; ''calendar_showalarms:''   @@|<<checkboxSetup calendar_showalarms   no  yes no "show alarms">>|
+|@@line-height:140%; ''calendar_showtimers:''   @@|<<checkboxSetup calendar_showtimers   no  yes no "show timers">>|
+|@@line-height:140%; ''calendar_showjournals:'' @@|<<checkboxSetup calendar_showjournals no  yes no "show journals">>|
+|@@line-height:140%; ''calendar_showcreated:''  @@|<<checkboxSetup calendar_showcreated  yes yes no "show created"  >>|
+|@@line-height:140%; ''calendar_showmodified:'' @@|<<checkboxSetup calendar_showmodified yes yes no "show modified" >>|
+|@@line-height:140%; ''calendar_showtiddlers:'' @@|<<checkboxSetup calendar_showtiddlers yes yes no "include tiddler changes" >>|
+|@@line-height:140%; ''calendar_showsystem:''   @@|<<checkboxSetup calendar_showsystem   no  yes no "include system changes"  >>|
+|@@line-height:140%; ''calendar_showcustom:''   @@|<<checkboxSetup calendar_showcustom   no  yes no "include filtered changes">>|
+</$importvariables></div>
+** ''calendar_customfilter:'' <<note_filters>>               <br><<editSetup "calendar_customfilter" "[prefix[$:/config]]">>
+** ''calendar_background:''   <<note_colors>>                <br><<editSetup "calendar_background"   "LightGray"  >>
+** ''calendar_foreground:''   <<note_colors>>, <<note_fonts>><br><<editSetup "calendar_foreground"   "White"      >>
+** ''calendar_today:''        <<note_colors>>, <<note_fonts>><br><<editSetup "calendar_today"        "Gold"       >>
+** ''calendar_timers:''       <<note_colors>>, <<note_fonts>><br><<editSetup "calendar_timers"       "Orange"     >>
+** ''calendar_alarms:''       <<note_colors>>, <<note_fonts>><br><<editSetup "calendar_alarms"       "Red"        >>
+** ''calendar_journals:''     <<note_colors>>, <<note_fonts>><br><<editSetup "calendar_journals"     "OliveDrab"  >>
+** ''calendar_events:''       <<note_colors>>, <<note_fonts>><br><<editSetup "calendar_events"       "LightGreen" >>
+** ''calendar_created:''      <<note_colors>>, <<note_fonts>><br><<editSetup "calendar_created"      "RoyalBlue"  >>
+** ''calendar_modified:''     <<note_colors>>, <<note_fonts>><br><<editSetup "calendar_modified"     "LightBlue"  >>
+** ''calendar_numbers:''      <<note_colors>>, <<note_fonts>><br><<editSetup "calendar_numbers"      "Black;font-size:1.5em;font-weight:bold;">>
+** ''calendar_dayformat:''    <<note_dates>>                 <br><<editSetup "calendar_dayformat"    "DDth MMM YYYY">>
+** ''calendar_order:''        <<note_order>>                 <br><<editSetup "calendar_order"        "0 1 2 3 4 5 6" >>
+
+* [[TiddlyTools/Time/Clocks]]:
+** ''clock_format:''     <<note_dates>>                 <br><<editSetup "clock_format" "DDD, YYYY-0MM-0DD 0hh:0mm:0ss">>
+** ''clock_size:''       <<note_units>>                 <br><<editSetup "clock_size"       "15em">>
+** ''clock_background:'' <<note_colors>>                <br><<editSetup "clock_background" "LightGray">>
+** ''clock_border:''     <<note_borders>>               <br><<editSetup "clock_border"     "2px solid gray;">>
+** ''clock_hands:''      <<note_colors>>                <br><<editSetup "clock_hands"      "Black">>
+** ''clock_ticks:''      <<note_colors>>                <br><<editSetup "clock_ticks"      "Black">>
+** ''clock_numbers:''    <<note_colors>>, <<note_fonts>><br><<editSetup "clock_numbers"    "Black;font-size:1.5em;">>
+
+* [[TiddlyTools/Time/SidebarCalendar]] and [[TiddlyTools/Time/SidebarClocks]]:
+**<div class="borderless">
+
+|''sidebar_calendar:'' <br><$checkbox tiddler="TiddlyTools/Time/SidebarCalendar" tag="$:/tags/SideBar"> show calendar </$checkbox>|''sidebar_calendar_size:'' <br><<rangeSetup sidebar_calendar_size 50 150 5 100>>|
+|''sidebar_analog:'' <br><<checkboxSetup sidebar_analog  yes yes no "show analog clock">> |''sidebar_analog_size:'' <br><<rangeSetup sidebar_analog_size  50 150 5 100>>|
+|''sidebar_digital:''<br><<checkboxSetup sidebar_digital yes yes no "show digital clock">>|''sidebar_digital_size:''<br><<rangeSetup sidebar_digital_size 50 150 5 100>>|
+</div>
+** ''sidebar_format:'' <<note_dates>><br><<editSetup "sidebar_format" "DDD, YYYY-0MM-0DD 0hh:0mm:0ss">>
+
+* [[TiddlyTools/Time/WorldClocks]]:
+** ''world_size:'' <<rangeSetup world_size 50 200 10 100>>
+** ''world_digital:'' <<checkboxSetup world_digital yes yes no "show digital clocks">>
+** ''world_format:'' <<note_dates>><br><<editSetup "world_format" "ddd, YYYY-0MM-0DD 0hh:0mm:0ss">>
+
+* [[TiddlyTools/Time/AutoSaver]]:
+**<div class="borderless">
+
+|''autosave_countdown'': |<<editSetup "autosave_hours" "00" 2.5em center>> : <<editSetup "autosave_mins"  "30" 2.5em center>> : <<editSetup "autosave_secs"  "00" 2.5em center>> @@font-size:80%;(hours, minutes, seconds)@@|
+|''autosave_ask'':       |<<checkboxSetup autosave_ask yes yes no "ask before saving">>|
+</div>
+@@

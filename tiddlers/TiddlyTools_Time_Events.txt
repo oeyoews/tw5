@@ -1,0 +1,19 @@
+....0202;Groundhog Day
+....0401;April Fools Day
+....0505;Cinco de Mayo
+....0614;Flag Day (US)
+....0619;Juneteenth
+....0911;Patriot Day (9/11 Remembrance)
+....1224;Christmas Eve
+....1226;Kwanzaa (first day)
+....1231;New Year's Eve
+
+20200308;Daylight Saving Time starts
+20201101;Daylight Saving Time ends
+20201103;Election Day (US)
+20201211;Hanukkah (first day)
+
+20210120;Inauguration Day (US)
+20210314;Daylight Saving Time starts
+20211107;Daylight Saving Time ends
+20211129;Hanukkah (first day)

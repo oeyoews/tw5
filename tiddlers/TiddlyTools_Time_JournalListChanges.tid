@@ -1,0 +1,21 @@
+created: 20220207205953956
+modified: 20220210020625535
+tags: $:/tags/ViewTemplate
+title: TiddlyTools/Time/JournalListChanges
+type: text/vnd.tiddlywiki
+
+<$list filter="[<currentTiddler>tag[Journal]]">
+
+<$vars journaldate={{{ [{!!journal-date}split[]first[8]join[]] }}}>
+<$wikify name="titledate" text="""<$macrocall $name="convertdate" from={{!!title}} to="YYYY0MM0DD"/>""">
+<$vars createddate={{{ [{!!created}format:date[YYYY0MM0DD]] }}}>
+
+<$set name="thisdate"  value=<<journaldate>> emptyValue=<<titledate>>>
+<$set name="thisdate" filter="[<thisdate>search:title[NaN]]" value=<<createddate>> emptyValue=<<thisdate>>>
+<$set name="thisdate" filter="[<thisdate>match[]]"           value=<<createddate>> emptyValue=<<thisdate>>>
+
+<$set name="created"  filter="[!is[system]!has[draft.of]]                 :filter[<currentTiddler>get[created]format:date[YYYY0MM0DD]match<thisdate>]">
+<$set name="modified" filter="[!is[system]!has[draft.of]!enlist<created>] :filter[<currentTiddler>get[modified]format:date[YYYY0MM0DD]match<thisdate>]">
+
+<$list filter="[<created>!match[]]" >Created: <ul><$list filter="[enlist<created>sort[]]"          ><li><$link/></li></$list></ul></$list>
+<$list filter="[<modified>!match[]]">Modified:<ul><$list filter="[enlist<modified>!sort[modified]]"><li><$link/></li></$list></ul></$list>
