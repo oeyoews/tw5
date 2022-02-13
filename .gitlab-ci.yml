@@ -11,10 +11,11 @@ pages:
   - yarn devbuild && yarn copy && yarn copy
 
   artifacts:
-    enabled: false
+    #enabled: false
     paths:
     - public
     expire_in: 20 minutes
+
   only:
     - tags
   #- main
