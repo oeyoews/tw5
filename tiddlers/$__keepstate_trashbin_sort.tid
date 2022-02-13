@@ -1,6 +1,8 @@
 created: 20220105054347541
-modified: 20220107165310446
+creator: oeyoews
+modified: 20220213232005732
+modifier: oeyoews
 title: $:/keepstate/trashbin/sort
 type: text/vnd.tiddlywiki
 
-sort[modified]
+!sort[modified]

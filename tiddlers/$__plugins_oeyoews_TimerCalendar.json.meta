@@ -3,7 +3,7 @@ created: 20220213223832847
 creator: oeyoews
 extra-tiddlers: TiddlyTools/Time/action-timeout.js TiddlyTools/Time/Alarms TiddlyTools/Time/AutoSaver TiddlyTools/Time/Calendar TiddlyTools/Time/Clocks TiddlyTools/Time/ConvertDate TiddlyTools/Time/CountDown TiddlyTools/Time/EditDate TiddlyTools/Time/Events TiddlyTools/Time/Info TiddlyTools/Time/JournalListChanges TiddlyTools/Time/Places TiddlyTools/Time/Places/Summer TiddlyTools/Time/Setup TiddlyTools/Time/SidebarCalendar TiddlyTools/Time/SidebarClocks TiddlyTools/Time/Ticker TiddlyTools/Time/Timers TiddlyTools/Time/WorldClocks $:/config/TiddlyTools/Time $:/config/Timers/SampleTimer $:/config/ViewTemplateBodyFilters/$:/config/Time
 list: readme license history
-modified: 20220213224929828
+modified: 20220213232009762
 modifier: oeyoews
 plugin-draft: plugin
 plugin-type: plugin
