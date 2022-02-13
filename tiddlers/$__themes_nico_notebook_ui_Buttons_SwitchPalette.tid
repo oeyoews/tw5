@@ -1,11 +1,13 @@
 created: 20201210171047824
 creator: oeyoews
 description: Toggle between grey/beige colour palette
-modified: 20220213075538016
+modified: 20220213083718016
 modifier: oeyoews
 tags: deprecated
 title: $:/themes/nico/notebook/ui/Buttons/SwitchPalette
 type: text/vnd.tiddlywiki
+
+/** $:/tags/PageControls */ 
 
 <span class="desktop-only">
   <$vars
