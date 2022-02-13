@@ -2,12 +2,16 @@ color: #63d9c6
 created: 20220122172247072
 creator: oeyoews
 icon: $:/core/icon
-modified: 20220212204706878
+modified: 20220213183449874
 modifier: oeyoews
 tags: TiddlyWiki5 Index
 title: TiddlyWiki5
 type: text/vnd.tiddlywiki
 
-<h2 align="center">
-</h2>
-<<presenter tag:"TiddlyWiki5" footer:"Hello" animation:slidedown theme:>>
+ <$macrocall
+	$name="toc-tabbed-internal-nav"
+	tag="TiddlyWiki5"
+	selectedTiddler=""
+	unselectedText="<p></p>"
+	missingText="<p>佚失条目。</p>"
+/>
