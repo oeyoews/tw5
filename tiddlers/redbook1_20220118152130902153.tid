@@ -1,19 +1,11 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/redbook1/SearchWord}}
 created: 20220118152130902
 creator: oeyoews
-difficulty: 5.175908413544972
-due: 20220214103738425
 grade: -1
 history: []
-interval: 0
-lapses: 0
-modified: 20220213103738425
+modified: 20220213185624233
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220213103738425
-stability: 0.05
-tags: 全书 ?
+tags: 全书
 title: redbook1/20220118152130902153
 type: text/vnd.tiddlywiki
 word: the Olympic Extension
