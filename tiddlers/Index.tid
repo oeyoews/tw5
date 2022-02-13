@@ -3,7 +3,7 @@ created: 20211226085802818
 creator: oeyoews
 icon: 
 keywords: Index
-modified: 20220213165946123
+modified: 20220213181204724
 modifier: oeyoews
 page-cover: 
 stream-type: default
@@ -11,9 +11,7 @@ tags: Index
 title: Index
 type: text/vnd.tiddlywiki
 
-`Hello`
-
-> NOTE: 
+> NOTE: This page is not yet well adapted to mobile！！！
  
 <<reuse-tiddler "footer">>
 
