@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/img5500/SearchWord}}
 created: 20220118152143231
 creator: oeyoews
-difficulty: 5.175908413544972
-due: 20220214160328342
-grade: -1
+difficulty: 5.375908413544972
+due: 20220215110517408
+grade: 1
 hide-body: no
-history: []
+history: [{"due":"20220215110517408","interval":"0","difficulty":5.375908413544972,"stability":0.05,"retrievability":1,"grade":"1","lapses":0,"reps":2,"review":"20220214110517408"}]
 interval: 0
 lapses: 0
-modified: 20220214091859193
+modified: 20220214110517408
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220213160328341
+review: 20220214110517408
 stability: 0.05
 tags: 拟音 ?
 title: img5500/20220118152143231870
