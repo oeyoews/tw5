@@ -1,5 +1,7 @@
 created: 20211227064117498
-list: $:/plugins/nico/projectify/ui/buttons/ToggleTodo $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/new-here $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold-bar $:/core/ui/Buttons/info $:/plugins/kookma/favorites/ui/buttons/add-remove $:/core/ui/Buttons/fold $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/delete $:/plugins/kookma/trashbin/ui/toolbar-button $:/core/ui/Buttons/clone $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/core/ui/Buttons/open-window $:/core/ui/Buttons/export-tiddler $:/plugins/Gk0Wk/page-toc/PageTOCButton $:/core/ui/Buttons/edit $:/core/ui/Buttons/close-others $:/xp/manageTags/button $:/core/ui/Buttons/close
-modified: 20220202094601597
+creator: oeyoews
+list: $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/new-here $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold-bar $:/core/ui/Buttons/info $:/plugins/kookma/favorites/ui/buttons/add-remove $:/core/ui/Buttons/fold $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/delete $:/plugins/kookma/trashbin/ui/toolbar-button $:/core/ui/Buttons/clone $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/core/ui/Buttons/open-window $:/core/ui/Buttons/export-tiddler $:/plugins/Gk0Wk/page-toc/PageTOCButton $:/core/ui/Buttons/edit $:/core/ui/Buttons/close-others $:/plugins/kookma/favorites/viewtoolbar $:/xp/manageTags/button $:/core/ui/Buttons/close $:/plugins/danielo515/encryptTiddler/crypt-button
+modified: 20220214154803224
+modifier: oeyoews
 title: $:/tags/ViewToolbar
 type: text/vnd.tiddlywiki
