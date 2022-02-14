@@ -77,7 +77,7 @@ a.tc-tiddlylink-external:hover {
   background-color: <<colour dropdown-background>>;
 }
 
-/** 顶部标题栏半透明 */
+/** 顶部标题栏半透明
 :root {
   --menubar-height: 29px;
 }
@@ -89,8 +89,9 @@ a.tc-tiddlylink-external:hover {
   top: var(--menubar-height);
   /*font-size: 1.5em !important;*/
 }
+*/
 
-/** 编辑器工具栏 <<colour tiddler-editor-background>> */
+/** 编辑器工具栏 <<colour tiddler-editor-background>>
 .tc-editor-toolbar {
   background: <<colour tiddler-editor-background>>;
   backdrop-filter: blur(10px);
@@ -105,6 +106,7 @@ a.tc-tiddlylink-external:hover {
 .tc-block-dropdown {
   z-index: 1001;
 }
+*/
 
 /** 标签 */
 button.tc-tag-label, span.tc-tag-label {
