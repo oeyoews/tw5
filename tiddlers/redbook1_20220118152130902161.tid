@@ -1,19 +1,11 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/redbook1/SearchWord}}
 created: 20220118152130902
 creator: oeyoews
-difficulty: 5.375908413544972
-due: 20220215110535016
 grade: 1
 history: [{"due":"20220215110535016","interval":"0","difficulty":5.375908413544972,"stability":0.05,"retrievability":1,"grade":"1","lapses":0,"reps":2,"review":"20220214110535016"}]
-interval: 0
-lapses: 0
-modified: 20220214110535016
+modified: 20220214164639105
 modifier: oeyoews
-reps: 2
-retrievability: 1
-review: 20220214110535016
-stability: 0.05
-tags: 全书 ?
+tags: 全书
 title: redbook1/20220118152130902161
 type: text/vnd.tiddlywiki
 word: white-collar crime
