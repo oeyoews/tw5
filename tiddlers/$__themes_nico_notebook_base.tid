@@ -688,10 +688,10 @@ pre, code {
 }
 
 /*@oeyoews*/
-  tiddler title size
+  /*tiddler title size*/
 .tc-titlebar, .tc-site-title {
   font-size: 28px !important;
-  line-height: 24px !important;
+  line-height: 34px !important;
   font-weight: 600 !important;
   letter-spacing: -0.5px !important;
 }
