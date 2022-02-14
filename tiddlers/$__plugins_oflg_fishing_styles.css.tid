@@ -1,0 +1,29 @@
+created: 20220214081853360
+creator: oeyoews
+modified: 20220214081858321
+modifier: oeyoews
+tags: $:/tags/Stylesheet
+title: $:/plugins/oflg/fishing/styles.css
+type: text/vnd.tiddlywiki
+
+blockquote.tc-fish-quote {
+	border-left: 1px solid <<colour message-border>>;
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+button.tc-tag-label, span.tc-tag-label {
+  white-space: normal;
+}
+
+.tc-fish-title{
+    font-size: {{$:/themes/tiddlywiki/vanilla/metrics/bodyfontsize}};
+	line-height: {{$:/themes/tiddlywiki/vanilla/metrics/bodylineheight}};
+}
+
+<$list filter="[tag[?]]">
+a.tc-tiddlylink[href^="#{{{[<currentTiddler>encodeuricomponent[]]}}}"]:before {
+  content: "";
+  display: inline-block;
+}
+</$list>
