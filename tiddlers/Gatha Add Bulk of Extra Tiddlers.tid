@@ -1,9 +1,9 @@
 created: 20220210172215455
 creator: oeyoews
-modified: 20220213230419345
+modified: 20220214184222700
 modifier: oeyoews
 tags: 
-target-plugin: $:/plugins/oeyoews/beausidebar
+target-plugin: $:/plugins/oeyoews/tidybar
 title: Gatha Add Bulk of Extra Tiddlers
 type: text/vnd.tiddlywiki
 
