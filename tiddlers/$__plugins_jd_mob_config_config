@@ -1,7 +1,7 @@
 freshinstall: yes
 defaultconfirm: cancel
 configtype: vtabs
-fontsize: medium
+fontsize: small
 scrollbars: show
 barpreset: 5
 storyfix: no
