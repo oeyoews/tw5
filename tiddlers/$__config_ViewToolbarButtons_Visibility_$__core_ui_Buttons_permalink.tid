@@ -1,6 +1,8 @@
 created: 20211227234949019
-modified: 20220209152618710
+creator: oeyoews
+modified: 20220214092302584
+modifier: oeyoews
 title: $:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/permalink
 type: text/vnd.tiddlywiki
 
-hide
+show
