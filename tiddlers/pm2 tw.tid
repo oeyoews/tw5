@@ -1,7 +1,9 @@
 created: 20220128185005204
-modified: 20220128185031877
-tags: ??
+creator: oeyoews
+modified: 20220214211830732
+modifier: oeyoews
+tags: TiddlyWiki5
 title: pm2 tw
 type: text/vnd.tiddlywiki
 
-pm2 start - -name mynewwiki /usr/bin/tiddlywiki -- --listen
+* pm2 start - -name mynewwiki /usr/bin/tiddlywiki -- --listen

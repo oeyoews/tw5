@@ -1,7 +1,9 @@
 created: 20220130121503101
-modified: 20220130121520056
-tags: ??
-title: untitled 1
+creator: oeyoews
+modified: 20220214211331818
+modifier: oeyoews
+tags: git
+title: gitmodules intro
 type: text/vnd.tiddlywiki
 
 atal: 请确认 .gitmodules 文件在工作区里

@@ -1,0 +1,9 @@
+created: 20220201092602485
+creator: oeyoews
+modified: 20220214211648718
+modifier: oeyoews
+tags: ?? Linux
+title: git branch tips
+type: text/vnd.tiddlywiki
+
+* don't use multi branch workflows to deploy gh-pages
