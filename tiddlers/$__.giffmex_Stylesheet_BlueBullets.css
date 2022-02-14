@@ -1,0 +1,5 @@
+/*LIST BULLETS*/
+
+html body.tc-body ul {list-style: none;}
+html body.tc-body ul li::before {content: "•"; color:#66f;font-size:170%;
+ display: inline-block; vertical-align:top;margin-left: -.6em;width:.6em;}

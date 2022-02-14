@@ -1,0 +1,9 @@
+author: Saq Imtiaz
+created: 20200803172923614
+description: Editor AutoList - editor extension to automatically continue lists
+modified: 20200803173012976
+name: Editor AutoList
+plugin-type: plugin
+title: $:/plugins/sq/editor-autolist
+type: application/json
+version: 0.1.10

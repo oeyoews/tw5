@@ -1,0 +1,98 @@
+{
+    "tiddlers": {
+        "$:/plugins/sq/editor-autolist/editor-operation-autolist": {
+            "text": "/*\\\ntitle: $:/plugins/sq/editor-autolist/editor-operation-autolist.js\ntype: application/javascript\nmodule-type: texteditoroperation\nText editor operation to automate syntax for lists\n\\*/\n(function(){\n\n/*jslint node: true, browser: true */\n/*global $tw: false */\n\"use strict\";\n\nexports[\"autolist\"] = function(event,operation) {\n\t\n\tvar lineStart = $tw.utils.findPrecedingLineBreak(operation.text,operation.selStart);\n\tvar lineEnd = $tw.utils.findFollowingLineBreak(operation.text,operation.selStart);\n\tvar line = operation.text.substring(lineStart,lineEnd);\t\n\t\n\tvar listPrefixRegex = /^((\\*|#)+).*/;\n\tvar match = line.match(listPrefixRegex);\n\t\n\tvar mode = event.paramObject? event.paramObject.mode : undefined;\n\t\n\t//ensure we only handle lines starting with * or #\n\tif(match != null && match[1]) {\n\t\t// check if we are handling indent level\n\t\tif(mode === \"indent\" || mode === \"unindent\") {\n\t\t\tvar indentRegExp = /^((\\*|#)+)(.*)$/;\n\t\t\tvar indentMatch = line.match(indentRegExp);\n\t\t\tif(indentMatch != null) {\n\t\t\t\t//check if the line has content\n\t\t\t\tvar content = (indentMatch[3].trim().length != 0) ? indentMatch[3].trim() : \"\";\n\t\t\t\toperation.cutStart = lineStart;\n\t\t\t\toperation.cutEnd = lineEnd;\n\t\t\t\tif(mode === \"indent\") {\t\t\t\t\n\t\t\t\t\t//indent a line\n\t\t\t\t\toperation.replacement = indentMatch[1] + indentMatch[2] + \" \" + content;\n\t\t\t\t\toperation.newSelStart = operation.selStart + 1;\n\t\t\t\t\toperation.newSelEnd = operation.selEnd + 1;\n\t\t\t\t} else if(mode === \"unindent\") {\n\t\t\t\t\t//unindent a line\n\t\t\t\t\toperation.replacement = indentMatch[1].substring(0,indentMatch[1].length - 1) + \" \" + content;\n\t\t\t\t\toperation.newSelStart = operation.selStart - 1;\n\t\t\t\t\toperation.newSelEnd = operation.selEnd - 1;\t\t\t\t\t\n\t\t\t\t}\n\t\t\t}\n\t\t} else {\n\t\t\t//handle enter key, meaning new line\n\t\t\tvar trimmed = match[0].replace(/\\s\\s*$/, '');\n\t\t\tvar prefixRegEx = /^((\\*|#)+)$/;\n\t\t\tvar trimmedMatch = trimmed.match(prefixRegEx);\n\t\t\tif(trimmedMatch != null) {\n\t\t\t\t// the line only contains * or # characters and optional whitespace\n\t\t\t\t//terminate the list\n\t\t\t\toperation.replacement = \"\\n\";\n\t\t\t\toperation.cutStart = lineStart;\n\t\t\t\toperation.cutEnd = operation.selStart;\n\t\t\t\toperation.newSelStart = lineStart + 1;\n\t\t\t\toperation.newSelEnd = lineStart + 1;\n\t\t\t} else {\n\t\t\t\t// continue indent level on next line\n\t\t\t\tvar prefix = match[1];\n\t\t\t\toperation.replacement = \"\\n\" + prefix + \" \";\n\t\t\t\toperation.cutStart = operation.selStart;\n\t\t\t\toperation.cutEnd = operation.selStart;\n\t\t\t\t\n\t\t\t\t//check if there is trailing whitespace on the line we are on\n\t\t\t\tvar lineEnd = $tw.utils.findFollowingLineBreak(operation.text,operation.selStart);\n\t\t\t\tvar trailingText = operation.text.substring(operation.selStart,lineEnd);\n\t\t\t\tif(trailingText.trim().length == 0) {\n\t\t\t\t\toperation.cutEnd = lineEnd;\n\t\t\t\t}\n\t\t\t\t\n\t\t\t\toperation.newSelStart = operation.selStart + prefix.length + 2;\n\t\t\t\toperation.newSelEnd = operation.selEnd + prefix.length + 2;\n\t\t\t}\n\t\t}\n\t} else if(mode != \"indent\" && mode != \"unindent\") {\n\t\t// we need to manually add a linebreak for lines not starting with list markup\n\t\toperation.replacement = \"\\n\";\n\t\toperation.cutStart = operation.selStart;\n\t\toperation.cutEnd = operation.selEnd;\n\t\toperation.newSelStart = operation.selStart + 1;\n\t\toperation.newSelEnd = operation.selEnd + 1;\n\t}\n};\n\n})();",
+            "type": "application/javascript",
+            "title": "$:/plugins/sq/editor-autolist/editor-operation-autolist",
+            "tags": "",
+            "module-type": "texteditoroperation",
+            "modified": "20200804125155562",
+            "created": "20200803160356743"
+        },
+        "$:/plugins/sq/editor-autolist/EditorToolbar-autolist": {
+            "created": "20200803165453913",
+            "text": "<$action-sendmessage\n\t$message=\"tm-edit-text-operation\"\n\t$param=\"autolist\"\n/>\n",
+            "title": "$:/plugins/sq/editor-autolist/EditorToolbar-autolist",
+            "tags": "$:/tags/EditorToolbar",
+            "shortcuts": "((autolist-newline))",
+            "modified": "20200804124434675",
+            "icon": "$:/core/images/list-bullet",
+            "description": "",
+            "condition": "[<targetTiddler>!has[type]] [<targetTiddler>type[text/vnd.tiddlywiki]]",
+            "caption": "",
+            "button-classes": "sq-text-editor-btn-hidden"
+        },
+        "$:/plugins/sq/editor-autolist/styles": {
+            "text": ".sq-text-editor-btn-hidden {\n\tdisplay: none;\n}",
+            "title": "$:/plugins/sq/editor-autolist/styles",
+            "tags": "$:/tags/Stylesheet",
+            "modified": "20200803172530073",
+            "created": "20200803171440138"
+        },
+        "$:/plugins/sq/editor-autolist/EditorToolbar-autolist-indent": {
+            "created": "20200803213912954",
+            "text": "<$action-sendmessage\n\t$message=\"tm-edit-text-operation\"\n\t$param=\"autolist\"\n\tmode=\"indent\"\n/>\n",
+            "title": "$:/plugins/sq/editor-autolist/EditorToolbar-autolist-indent",
+            "tags": "$:/tags/EditorToolbar",
+            "shortcuts": "((autolist-indent))",
+            "modified": "20200804124659294",
+            "icon": "$:/core/images/list-bullet",
+            "description": "",
+            "condition": "[<targetTiddler>!has[type]] [<targetTiddler>type[text/vnd.tiddlywiki]]",
+            "caption": "",
+            "button-classes": "sq-text-editor-btn-hidden"
+        },
+        "$:/plugins/sq/editor-autolist/EditorToolbar-autolist-unindent": {
+            "created": "20200804122848593",
+            "text": "<$action-sendmessage\n\t$message=\"tm-edit-text-operation\"\n\t$param=\"autolist\"\n\tmode=\"unindent\"\n/>\n",
+            "title": "$:/plugins/sq/editor-autolist/EditorToolbar-autolist-unindent",
+            "tags": "$:/tags/EditorToolbar",
+            "shortcuts": "((autolist-unindent))",
+            "modified": "20200804124808496",
+            "icon": "$:/core/images/list-bullet",
+            "description": "",
+            "condition": "[<targetTiddler>!has[type]] [<targetTiddler>type[text/vnd.tiddlywiki]]",
+            "caption": "",
+            "button-classes": "sq-text-editor-btn-hidden"
+        },
+        "$:/config/shortcuts/autolist-newline": {
+            "created": "20200804124551033",
+            "title": "$:/config/shortcuts/autolist-newline",
+            "text": "Enter",
+            "modified": "20200804124551033"
+        },
+        "$:/config/shortcuts/autolist-indent": {
+            "created": "20200804124746636",
+            "title": "$:/config/shortcuts/autolist-indent",
+            "text": "Tab",
+            "modified": "20200804124746636"
+        },
+        "$:/config/shortcuts/autolist-unindent": {
+            "created": "20200804124833452",
+            "title": "$:/config/shortcuts/autolist-unindent",
+            "text": "shift-Tab",
+            "modified": "20200804124833452"
+        },
+        "$:/config/ShortcutInfo/autolist-newline": {
+            "created": "20200804124436341",
+            "text": "Add a newline and list markup if in a list",
+            "tags": "",
+            "title": "$:/config/ShortcutInfo/autolist-newline",
+            "modified": "20200804124533962"
+        },
+        "$:/config/ShortcutInfo/autolist-indent": {
+            "created": "20200804124703604",
+            "text": "Indent a line in a list",
+            "tags": "",
+            "title": "$:/config/ShortcutInfo/autolist-indent",
+            "modified": "20200804124720020"
+        },
+        "$:/config/ShortcutInfo/autolist-unindent": {
+            "created": "20200804124811668",
+            "text": "Unindent a line in a list",
+            "tags": "",
+            "title": "$:/config/ShortcutInfo/autolist-unindent",
+            "modified": "20200804124823040"
+        }
+    }
+}
