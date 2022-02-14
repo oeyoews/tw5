@@ -1,13 +1,13 @@
 created: 20200428151856963
 creator: oeyoews
-modified: 20220213081617947
+modified: 20220214100710313
 modifier: oeyoews
 title: $:/plugins/nico/projectify/images/checkbox
 type: text/vnd.tiddlywiki
 
 <svg
-  width="0.8em"
-  height="0.8em"
+  width="1em"
+  height="1em"
   viewBox="0 0 16 16"
   fill="currentColor"
   xmlns="http://www.w3.org/2000/svg"
