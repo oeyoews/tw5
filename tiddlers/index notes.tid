@@ -1,9 +1,9 @@
 created: 20220213235234964
 creator: oeyoews
-modified: 20220213235257053
+modified: 20220214143019727
 modifier: oeyoews
 tags: deprecated
 title: index notes
 type: text/vnd.tiddlywiki
 
-> NOTE: This page is not yet well adapted to mobile！！！
+<<.tip "This page is not yet adapted to mobile perfectly ! " >>
