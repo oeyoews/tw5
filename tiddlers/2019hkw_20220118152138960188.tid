@@ -1,17 +1,17 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2019hkw/SearchWord}}
 created: 20220118152138960
 creator: oeyoews
-difficulty: 4.99637142069628
-due: 20220215142315144
-grade: -1
-history: []
+difficulty: 5.1963714206962806
+due: 20220215165301515
+grade: 1
+history: [{"due":"20220215165301515","interval":"0","difficulty":5.1963714206962806,"stability":0.05,"retrievability":1,"grade":"1","lapses":0,"reps":2,"review":"20220214165301515"}]
 interval: 0
 lapses: 0
-modified: 20220214142315144
+modified: 20220214165301515
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220214142315144
+review: 20220214165301515
 stability: 0.05
 tags: [[必考核心词汇 Word List 1]] ?
 title: 2019hkw/20220118152138960188

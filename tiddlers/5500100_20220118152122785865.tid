@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/5500100/SearchWord}}
 created: 20220118152122785
 creator: oeyoews
-difficulty: 5.497485068135542
-due: 20220215142004201
+difficulty: 6.697485068135542
+due: 20220215165222290
 grade: 0
-history: [{"due":"20220215142004201","interval":"1","difficulty":5.497485068135542,"stability":0.0370409110340859,"retrievability":0.12157665459056936,"grade":"0","lapses":1,"reps":1,"review":"20220214142004200"}]
-interval: 1
-lapses: 1
-modified: 20220214142004201
+history: [{"due":"20220215142004201","interval":"1","difficulty":5.497485068135542,"stability":0.0370409110340859,"retrievability":0.12157665459056936,"grade":"0","lapses":1,"reps":1,"review":"20220214142004200"},{"due":"20220215165222290","interval":"0","difficulty":6.697485068135542,"stability":0.3303952126445657,"retrievability":1,"grade":"0","lapses":2,"reps":1,"review":"20220214165222289"}]
+interval: 0
+lapses: 2
+modified: 20220214165222290
 modifier: oeyoews
 reps: 1
-retrievability: 0.12157665459056936
-review: 20220214142004200
-stability: 0.0370409110340859
+retrievability: 1
+review: 20220214165222289
+stability: 0.3303952126445657
 tags: [[Sentence 1 核心词表]] ?
 title: 5500100/20220118152122785865
 type: text/vnd.tiddlywiki

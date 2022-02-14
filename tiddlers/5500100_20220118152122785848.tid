@@ -1,17 +1,17 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/5500100/SearchWord}}
 created: 20220118152122785
 creator: oeyoews
-difficulty: 5.497485068135542
-due: 20220215141905744
-grade: 0
-history: [{"due":"20220215141905744","interval":"1","difficulty":5.497485068135542,"stability":0.0370409110340859,"retrievability":0.12157665459056936,"grade":"0","lapses":1,"reps":1,"review":"20220214141905744"}]
-interval: 1
+difficulty: 5.697485068135542
+due: 20220215165203900
+grade: 1
+history: [{"due":"20220215141905744","interval":"1","difficulty":5.497485068135542,"stability":0.0370409110340859,"retrievability":0.12157665459056936,"grade":"0","lapses":1,"reps":1,"review":"20220214141905744"},{"due":"20220215165203900","interval":"0","difficulty":5.697485068135542,"stability":0.0370409110340859,"retrievability":1,"grade":"1","lapses":1,"reps":2,"review":"20220214165203900"}]
+interval: 0
 lapses: 1
-modified: 20220214141905744
+modified: 20220214165203900
 modifier: oeyoews
-reps: 1
-retrievability: 0.12157665459056936
-review: 20220214141905744
+reps: 2
+retrievability: 1
+review: 20220214165203900
 stability: 0.0370409110340859
 tags: [[Sentence 1 核心词表]] ?
 title: 5500100/20220118152122785848

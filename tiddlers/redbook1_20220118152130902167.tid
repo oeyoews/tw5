@@ -1,19 +1,11 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/redbook1/SearchWord}}
 created: 20220118152130902
 creator: oeyoews
-difficulty: 4.375908413544972
-due: 20220215141658244
 grade: 2
 history: [{"due":"20220215141658244","interval":"0","difficulty":4.375908413544972,"stability":0.05,"retrievability":1,"grade":"2","lapses":0,"reps":2,"review":"20220214141658244"}]
-interval: 0
-lapses: 0
-modified: 20220214141658244
+modified: 20220214164958833
 modifier: oeyoews
-reps: 2
-retrievability: 1
-review: 20220214141658244
-stability: 0.05
-tags: 全书 ?
+tags: 全书
 title: redbook1/20220118152130902167
 type: text/vnd.tiddlywiki
 word: century-old shop
