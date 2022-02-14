@@ -1,11 +1,15 @@
 author: NicolasPetton
 core-version: >=5.1.22
 created: 20210203201618013
+creator: oeyoews
 dependents: $:/themes/tiddlywiki/vanilla $:/plugins/nico/notebook-mobile
 description: A clean, uncluttered TiddlyWiki theme
+extra-tiddlers: $:/config/Search/AutoFocus $:/config/ShortcutInfo/notebook-focus-search $:/config/shortcuts/notebook-focus-search $:/config/shortcuts/sidebar-search $:/core/ui/PageTemplate/sidebar $:/themes/tiddlywiki/vanilla/themetweaks $:/palettes/SolarizedDarks
 list: LICENSE changelog
-modified: 20210203201618013
+modified: 20220214201319429
+modifier: oeyoews
 name: Notebook theme
+plugin-draft: theme
 plugin-type: theme
 source: https://github.com/NicolasPetton/Notebook
 title: $:/themes/nico/notebook
