@@ -8,7 +8,7 @@ Wants=network-online.target
 Type=simple
 User=oeyoews
 WorkingDirectory=/home/oeyoews/REPOS/TiddlyWiki5
-ExecStart=/home/oeyoews/.npm/bin/tiddlywiki --listen port=8090 anon-username=oeyoews use-browser-cache=yes gzip=yes  root-tiddler=$:/core/save/lazy-images
+ExecStart=/home/oeyoews/.npm/bin/tiddlywiki --listen port=8090 anon-username=oeyoews use-browser-cache=yes gzip=yes  root-tiddler=$:/core/save/lazy-all
 ExecStop=/bin/kill -s QUIT $MAINPID
 Restart=always
 
