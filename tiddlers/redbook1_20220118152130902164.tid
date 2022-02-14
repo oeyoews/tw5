@@ -1,17 +1,17 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/redbook1/SearchWord}}
 created: 20220118152130902
 creator: oeyoews
-difficulty: 5.175908413544972
-due: 20220214185638263
-grade: -1
-history: []
+difficulty: 4.375908413544972
+due: 20220215141646915
+grade: 2
+history: [{"due":"20220215141646915","interval":"0","difficulty":4.375908413544972,"stability":0.05,"retrievability":1,"grade":"2","lapses":0,"reps":2,"review":"20220214141646914"}]
 interval: 0
 lapses: 0
-modified: 20220213185638263
+modified: 20220214141646915
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220213185638263
+review: 20220214141646914
 stability: 0.05
 tags: 全书 ?
 title: redbook1/20220118152130902164
