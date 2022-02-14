@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2019hkw/SearchWord}}
 created: 20220118152138960
 creator: oeyoews
-difficulty: 5.175908413544972
-due: 20220215071453303
-grade: -1
-history: []
+difficulty: 6.575908413544973
+due: 20220215114721956
+grade: 1
+history: [{"due":"20220215114654195","interval":"0","difficulty":6.375908413544972,"stability":0.0370409110340859,"retrievability":1,"grade":"0","lapses":1,"reps":1,"review":"20220214114654194"},{"due":"20220215114721956","interval":"0","difficulty":6.575908413544973,"stability":0.0370409110340859,"retrievability":1,"grade":"1","lapses":1,"reps":2,"review":"20220214114721956"}]
 interval: 0
-lapses: 0
-modified: 20220214071453303
+lapses: 1
+modified: 20220214114721956
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220214071453302
-stability: 0.05
+review: 20220214114721956
+stability: 0.0370409110340859
 tags: [[必考核心词汇 Word List 1]] ?
 title: 2019hkw/20220118152138960169
 type: text/vnd.tiddlywiki
