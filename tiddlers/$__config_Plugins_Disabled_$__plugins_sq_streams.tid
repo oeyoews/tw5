@@ -1,6 +1,8 @@
 created: 20220130021116318
-modified: 20220130021201158
+creator: oeyoews
+modified: 20220214183743640
+modifier: oeyoews
 title: $:/config/Plugins/Disabled/$:/plugins/sq/streams
 type: text/vnd.tiddlywiki
 
-no
+yes
