@@ -687,10 +687,11 @@ pre, code {
   font-family: {{$:/themes/nico/notebook/settings/codefontfamily}};
 }
 
+/*@oeyoews*/
   tiddler title size
 .tc-titlebar, .tc-site-title {
   font-size: 28px !important;
-  line-height: 34px !important;
+  line-height: 24px !important;
   font-weight: 600 !important;
   letter-spacing: -0.5px !important;
 }
