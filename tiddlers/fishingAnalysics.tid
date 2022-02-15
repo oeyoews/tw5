@@ -1,9 +1,11 @@
 created: 20220212063911369
 creator: oeyoews
-modified: 20220212063937273
+modified: 20220215192140085
 modifier: oeyoews
-tags: docs
+tags: examples
 title: fishingAnalysics
 type: text/vnd.tiddlywiki
 
+<h2 align="center">FishingMap
+</h2>
 {{$:/plugins/oflg/fishing-analysis/calendar/calendar}}

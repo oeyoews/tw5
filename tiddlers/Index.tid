@@ -1,12 +1,9 @@
 color: #aff024
 created: 20211226085802818
 creator: oeyoews
-icon: 
 keywords: Index
-modified: 20220215175752480
+modified: 20220215192333953
 modifier: oeyoews
-page-cover: 
-stream-type: default
 tags: Index
 title: Index
 type: text/vnd.tiddlywiki
@@ -18,9 +15,10 @@ type: text/vnd.tiddlywiki
 
 <<reuse-tiddler "index notes">>
 
-<<reuse-tiddler "footer">>
-
 <<reuse-tiddler "fishingAnalysics">>
 
-<<reuse-tiddler "TagCloud">>
+<<reuse-tiddler "tagmap">>
+
+<<reuse-tiddler "footer">>
+
 </details>
