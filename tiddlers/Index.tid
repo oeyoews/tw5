@@ -3,7 +3,7 @@ created: 20211226085802818
 creator: oeyoews
 icon: 
 keywords: Index
-modified: 20220215122539508
+modified: 20220215175752480
 modifier: oeyoews
 page-cover: 
 stream-type: default
@@ -11,12 +11,16 @@ tags: Index
 title: Index
 type: text/vnd.tiddlywiki
 
+<<reuse-tiddler "Inbox">>
+
+<details>
+<summary>More</summary>
+
 <<reuse-tiddler "index notes">>
 
 <<reuse-tiddler "footer">>
 
-<<reuse-tiddler "Inbox">>
-
 <<reuse-tiddler "fishingAnalysics">>
 
 <<reuse-tiddler "TagCloud">>
+</details>
