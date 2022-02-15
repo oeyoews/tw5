@@ -2,22 +2,21 @@ created: 20220103072641287
 creator: oeyoews
 difficulty: 5
 due: 20220114170142996
-hide-body: yes
 history: []
 interval: 0
 lapses: 0
-modified: 20220214092021919
+modified: 20220215194426680
 modifier: oeyoews
-recall: 1
 reps: 1
 review: 20220112170142995
 stability: 2
 tags: java
 title: java/a1
-tmap.id: 8e529025-a135-42a8-8278-97a648fc5c6c
 type: text/vnd.tiddlywiki
 
 * abstract methos must included abstract class
+
+
 ```java
 // no detail come true method , just have a body, no big brackets;
 public abstract void abstractmethod();
