@@ -1,0 +1,11 @@
+created: 20220215090227078
+creator: oeyoews
+modified: 20220215090325102
+modifier: oeyoews
+tags: Linux
+title: cp interactive
+type: text/vnd.tiddlywiki
+
+`cp -i`
+
+* if overwrite, will tip you
