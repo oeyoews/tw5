@@ -1,17 +1,20 @@
 created: 20220208180421830
 creator: oeyoews
-modified: 20220214180658472
+modified: 20220215192827701
 modifier: oeyoews
-se-type: 
 tags: daily
 title: daily
 type: text/vnd.tiddlywiki
 
+<h2 align="center">daily
+</h2>
+
 !! typing 
+
 > [[typing expercise|https://10fastfingers.com/typing-test/english/#]]
 
 
-{{another typing website}}
+> {{another typing website}}
 
 !! weekly
 

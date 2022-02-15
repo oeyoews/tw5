@@ -2,12 +2,14 @@ color: #e5e561
 created: 20220131201324330
 creator: oeyoews
 icon: 
-modified: 20220212180542006
+modified: 20220215192917014
 modifier: oeyoews
 page-cover: 
 tags: examples
 title: ??
 type: text/vnd.tiddlywiki
+
+<details>
 
 <$macrocall
 	$name="toc-tabbed-external-nav"
@@ -16,3 +18,4 @@ type: text/vnd.tiddlywiki
 	unselectedText="<p>选择目录中的一个主题，点击箭头可展开主题。</p>"
 	missingText="<p>佚失条目。</p>"
 />
+</details>

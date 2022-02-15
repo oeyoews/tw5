@@ -2,7 +2,7 @@ color: #aff024
 created: 20211226085802818
 creator: oeyoews
 keywords: Index
-modified: 20220215192333953
+modified: 20220215192954964
 modifier: oeyoews
 tags: Index
 title: Index
@@ -16,6 +16,8 @@ type: text/vnd.tiddlywiki
 <<reuse-tiddler "index notes">>
 
 <<reuse-tiddler "fishingAnalysics">>
+
+<<reuse-tiddler "heatmap">>
 
 <<reuse-tiddler "tagmap">>
 
