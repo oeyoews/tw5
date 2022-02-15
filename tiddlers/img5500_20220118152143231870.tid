@@ -1,19 +1,20 @@
+_is_skinny: 
 caption: {{||$:/plugins/oflg/fishing-cannedfish/img5500/SearchWord}}
 created: 20220118152143231
 creator: oeyoews
-difficulty: 5.575908413544973
-due: 20220215164628910
-grade: 1
+difficulty: 6.775908413544973
+due: 20220216052158552
+grade: 0
 hide-body: no
-history: [{"due":"20220215110517408","interval":"0","difficulty":5.375908413544972,"stability":0.05,"retrievability":1,"grade":"1","lapses":0,"reps":2,"review":"20220214110517408"},{"due":"20220215164628910","interval":"0","difficulty":5.575908413544973,"stability":0.05,"retrievability":1,"grade":"1","lapses":0,"reps":3,"review":"20220214164628910"}]
+history: [{"due":"20220215110517408","interval":"0","difficulty":5.375908413544972,"stability":0.05,"retrievability":1,"grade":"1","lapses":0,"reps":2,"review":"20220214110517408"},{"due":"20220215164628910","interval":"0","difficulty":5.575908413544973,"stability":0.05,"retrievability":1,"grade":"1","lapses":0,"reps":3,"review":"20220214164628910"},{"due":"20220216052158552","interval":"0","difficulty":6.775908413544973,"stability":0.4459868877692133,"retrievability":1,"grade":"0","lapses":1,"reps":1,"review":"20220215052158551"}]
 interval: 0
-lapses: 0
-modified: 20220214164628910
+lapses: 1
+modified: 20220215052158552
 modifier: oeyoews
-reps: 3
+reps: 1
 retrievability: 1
-review: 20220214164628910
-stability: 0.05
+review: 20220215052158551
+stability: 0.4459868877692133
 tags: 拟音 ?
 title: img5500/20220118152143231870
 type: text/vnd.tiddlywiki
