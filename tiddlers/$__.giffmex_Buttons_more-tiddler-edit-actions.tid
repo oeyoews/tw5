@@ -1,8 +1,10 @@
 caption: {{$:/core/images/down-arrow}} {{$:/language/Buttons/More/Caption}}
 created: 20200519140835678
+creator: oeyoews
 description: {{$:/language/Buttons/More/Hint}}
-modified: 20200603190115295
-tags: $:/tags/EditToolbar $:/giffmex/bigeditarea $:/giffmex/stroll
+modified: 20220215133958712
+modifier: oeyoews
+tags: $:/giffmex/bigeditarea $:/giffmex/stroll deprecated
 title: $:/.giffmex/Buttons/more-tiddler-edit-actions
 type: text/vnd.tiddlywiki
 
