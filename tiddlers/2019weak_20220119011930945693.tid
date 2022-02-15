@@ -1,17 +1,17 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2019weak/SearchWord}}
 created: 20220119011930945
 creator: oeyoews
-difficulty: 4.99637142069628
-due: 20220216071246038
-grade: -1
-history: []
+difficulty: 4.1963714206962806
+due: 20220216182103818
+grade: 2
+history: [{"due":"20220216182103818","interval":"0","difficulty":4.1963714206962806,"stability":0.602019328518683,"retrievability":1,"grade":"2","lapses":0,"reps":2,"review":"20220215182103818"}]
 interval: 0
 lapses: 0
-modified: 20220215071246038
+modified: 20220215182103818
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220215071246038
+review: 20220215182103818
 stability: 0.602019328518683
 tags: [[美文原句 感悟人生]] ?
 title: 2019weak/20220119011930945693

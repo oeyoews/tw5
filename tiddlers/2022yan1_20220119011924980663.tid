@@ -1,17 +1,17 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022yan1/SearchWord}}
 created: 20220119011924980
 creator: oeyoews
-difficulty: 5.375908413544972
-due: 20220215164845056
+difficulty: 5.575908413544973
+due: 20220216181709242
 grade: 1
-history: [{"due":"20220215164845056","interval":"0","difficulty":5.375908413544972,"stability":0.05,"retrievability":1,"grade":"1","lapses":0,"reps":2,"review":"20220214164845056"}]
+history: [{"due":"20220215164845056","interval":"0","difficulty":5.375908413544972,"stability":0.05,"retrievability":1,"grade":"1","lapses":0,"reps":2,"review":"20220214164845056"},{"due":"20220216181709242","interval":"0","difficulty":5.575908413544973,"stability":0.05,"retrievability":1,"grade":"1","lapses":0,"reps":3,"review":"20220215181709241"}]
 interval: 0
 lapses: 0
-modified: 20220214164845056
+modified: 20220215181709242
 modifier: oeyoews
-reps: 2
+reps: 3
 retrievability: 1
-review: 20220214164845056
+review: 20220215181709241
 stability: 0.05
 tags: [[第一部分 大纲常考词 A]] ?
 title: 2022yan1/20220119011924980663

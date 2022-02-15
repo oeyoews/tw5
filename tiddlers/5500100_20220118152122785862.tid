@@ -1,17 +1,18 @@
+_is_skinny: 
 caption: {{||$:/plugins/oflg/fishing-cannedfish/5500100/SearchWord}}
 created: 20220118152122785
 creator: oeyoews
-difficulty: 6.697485068135542
-due: 20220215165212893
-grade: 0
-history: [{"due":"20220215141957215","interval":"1","difficulty":5.497485068135542,"stability":0.0370409110340859,"retrievability":0.12157665459056936,"grade":"0","lapses":1,"reps":1,"review":"20220214141957215"},{"due":"20220215165212893","interval":"0","difficulty":6.697485068135542,"stability":0.3303952126445657,"retrievability":1,"grade":"0","lapses":2,"reps":1,"review":"20220214165212893"}]
+difficulty: 6.897485068135542
+due: 20220216181801106
+grade: 1
+history: [{"due":"20220215141957215","interval":"1","difficulty":5.497485068135542,"stability":0.0370409110340859,"retrievability":0.12157665459056936,"grade":"0","lapses":1,"reps":1,"review":"20220214141957215"},{"due":"20220215165212893","interval":"0","difficulty":6.697485068135542,"stability":0.3303952126445657,"retrievability":1,"grade":"0","lapses":2,"reps":1,"review":"20220214165212893"},{"due":"20220216181801106","interval":"0","difficulty":6.897485068135542,"stability":0.3303952126445657,"retrievability":1,"grade":"1","lapses":2,"reps":2,"review":"20220215181801106"}]
 interval: 0
 lapses: 2
-modified: 20220214165212893
+modified: 20220215181801106
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220214165212893
+review: 20220215181801106
 stability: 0.3303952126445657
 tags: [[Sentence 1 核心词表]] ?
 title: 5500100/20220118152122785862

@@ -1,17 +1,18 @@
+_is_skinny: 
 caption: {{||$:/plugins/oflg/fishing-cannedfish/redbook1/SearchWord}}
 created: 20220118152130902
 creator: oeyoews
-difficulty: 6.575908413544973
-due: 20220215165142076
+difficulty: 6.775908413544973
+due: 20220216181726316
 grade: 1
-history: [{"due":"20220215141711877","interval":"0","difficulty":6.375908413544972,"stability":0.0370409110340859,"retrievability":1,"grade":"0","lapses":1,"reps":1,"review":"20220214141711877"},{"due":"20220215165142076","interval":"0","difficulty":6.575908413544973,"stability":0.0370409110340859,"retrievability":1,"grade":"1","lapses":1,"reps":2,"review":"20220214165142076"}]
+history: [{"due":"20220215141711877","interval":"0","difficulty":6.375908413544972,"stability":0.0370409110340859,"retrievability":1,"grade":"0","lapses":1,"reps":1,"review":"20220214141711877"},{"due":"20220215165142076","interval":"0","difficulty":6.575908413544973,"stability":0.0370409110340859,"retrievability":1,"grade":"1","lapses":1,"reps":2,"review":"20220214165142076"},{"due":"20220216181726316","interval":"0","difficulty":6.775908413544973,"stability":0.0370409110340859,"retrievability":1,"grade":"1","lapses":1,"reps":3,"review":"20220215181726316"}]
 interval: 0
 lapses: 1
-modified: 20220214165142076
+modified: 20220215181726317
 modifier: oeyoews
-reps: 2
+reps: 3
 retrievability: 1
-review: 20220214165142076
+review: 20220215181726316
 stability: 0.0370409110340859
 tags: 全书 ?
 title: redbook1/20220118152130902173

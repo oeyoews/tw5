@@ -1,17 +1,17 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/llyc5500/SearchWord}}
 created: 20220118152122230
 creator: oeyoews
-difficulty: 4.99637142069628
-due: 20220216083331900
-grade: -1
-history: []
+difficulty: 4.1963714206962806
+due: 20220216182606947
+grade: 2
+history: [{"due":"20220216182606947","interval":"0","difficulty":4.1963714206962806,"stability":0.602019328518683,"retrievability":1,"grade":"2","lapses":0,"reps":2,"review":"20220215182606947"}]
 interval: 0
 lapses: 0
-modified: 20220215083331900
+modified: 20220215182606947
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220215083331900
+review: 20220215182606947
 stability: 0.602019328518683
 tags: [[高频词汇 Unit 01]] ?
 title: llyc5500/20220118152122230989

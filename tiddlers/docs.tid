@@ -1,12 +1,21 @@
 color: #7eee68
 created: 20220129135449279
 creator: oeyoews
-modified: 20220212170007021
+modified: 20220215181055117
 modifier: oeyoews
 tags: docs Index
 title: docs
 type: text/vnd.tiddlywiki
 
-<h2 align="center">
-</h2>
-<<presenter tag:"docs" footer:"Hello" animation:slidedown theme:>>
+<details>
+
+
+<$macrocall
+	$name="toc-tabbed-internal-nav"
+	tag="docs"
+	selectedTiddler=""
+	unselectedText="<p></p>"
+	missingText="<p>佚失条目。</p>"
+/>
+
+</details>

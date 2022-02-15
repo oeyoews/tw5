@@ -1,0 +1,3 @@
+{
+    "dueorder": "[sort[due]reverse[]sortsub:number<priority>reverse[]]"
+}

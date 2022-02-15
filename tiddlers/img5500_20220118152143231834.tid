@@ -1,17 +1,18 @@
+_is_skinny: 
 caption: {{||$:/plugins/oflg/fishing-cannedfish/img5500/SearchWord}}
 created: 20220118152143231
 creator: oeyoews
-difficulty: 6.834075453955686
-due: 20220215165149599
+difficulty: 7.034075453955686
+due: 20220216181732218
 grade: 1
-history: [{"due":"20220214141559929","interval":"0","difficulty":6.375908413544972,"stability":0.0370409110340859,"retrievability":1,"grade":"0","lapses":1,"reps":1,"review":"20220213141559929"},{"due":"20220215141810254","interval":"1","difficulty":6.634075453955686,"stability":0.027440581804701325,"retrievability":0.0581670404107134,"grade":"0","lapses":2,"reps":1,"review":"20220214141810254"},{"due":"20220215165149599","interval":"0","difficulty":6.834075453955686,"stability":0.027440581804701325,"retrievability":1,"grade":"1","lapses":2,"reps":2,"review":"20220214165149599"}]
+history: [{"due":"20220214141559929","interval":"0","difficulty":6.375908413544972,"stability":0.0370409110340859,"retrievability":1,"grade":"0","lapses":1,"reps":1,"review":"20220213141559929"},{"due":"20220215141810254","interval":"1","difficulty":6.634075453955686,"stability":0.027440581804701325,"retrievability":0.0581670404107134,"grade":"0","lapses":2,"reps":1,"review":"20220214141810254"},{"due":"20220215165149599","interval":"0","difficulty":6.834075453955686,"stability":0.027440581804701325,"retrievability":1,"grade":"1","lapses":2,"reps":2,"review":"20220214165149599"},{"due":"20220216181732218","interval":"0","difficulty":7.034075453955686,"stability":0.027440581804701325,"retrievability":1,"grade":"1","lapses":2,"reps":3,"review":"20220215181732218"}]
 interval: 0
 lapses: 2
-modified: 20220214165149600
+modified: 20220215181732219
 modifier: oeyoews
-reps: 2
+reps: 3
 retrievability: 1
-review: 20220214165149599
+review: 20220215181732218
 stability: 0.027440581804701325
 tags: 拟音 ?
 title: img5500/20220118152143231834

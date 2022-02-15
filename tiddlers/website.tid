@@ -1,12 +1,14 @@
 created: 20220130141525476
 creator: oeyoews
 icon: $:/core/images/link
-modified: 20220213163208405
+modified: 20220215180532756
 modifier: oeyoews
 page-cover: 
 tags: Index
 title: website
 type: text/vnd.tiddlywiki
+
+ <details>
 
  <$macrocall
 	$name="toc-tabbed-internal-nav"
@@ -15,3 +17,5 @@ type: text/vnd.tiddlywiki
 	unselectedText="<p></p>"
 	missingText="<p>佚失条目。</p>"
 />
+
+</details>

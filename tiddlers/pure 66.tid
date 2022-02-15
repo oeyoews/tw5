@@ -1,9 +1,13 @@
 created: 20220114111647874
-modified: 20220114111957321
+creator: oeyoews
+modified: 20220215180351111
+modifier: oeyoews
 tags: English
 title: pure 66
 type: text/vnd.tiddlywiki
 
+<details>
+<summary>More</summary>
 """
 1.This success, coupled with later research showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one.
 
@@ -143,3 +147,4 @@ type: text/vnd.tiddlywiki
 
 66. Nor, if regularity and conformity to a standard pattern are as desirable to the scientist as the writing of his papers would appear to reflect, is management to be blamed for discriminating against the "odd balls" among researchers in favor of more conventional thinkers who "work well with the team.
 """
+<<details>

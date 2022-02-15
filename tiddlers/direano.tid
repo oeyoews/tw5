@@ -1,11 +1,13 @@
-caption: Name as shown in menu
+caption: another toc
 created: 20220212185827826
 creator: oeyoews
-modified: 20220212185909186
+modified: 20220215181232654
 modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet snippets
 title: direano
 type: text/vnd.tiddlywiki
+
+ <details>
 
  <$macrocall
 	$name="toc-tabbed-internal-nav"
@@ -14,3 +16,5 @@ type: text/vnd.tiddlywiki
 	unselectedText="<p></p>"
 	missingText="<p>佚失条目。</p>"
 />
+
+</details>
