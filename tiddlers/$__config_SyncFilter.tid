@@ -1,6 +1,6 @@
 created: 20220215091107009
 creator: oeyoews
-modified: 20220215105131625
+modified: 20220215125301502
 modifier: oeyoews
 tags: examples
 title: $:/config/SyncFilter
@@ -9,5 +9,3 @@ type: text/vnd.tiddlywiki
 [is[tiddler]] -[[$:/core]] -[[$:/library/sjcl.js]] -[prefix[$:/boot/]] -[prefix[$:/HistoryList]] -[status[pending]plugin-type[import]] -[[$:/isEncrypted]] -[prefix[$:/status/]] -[prefix[$:/state/]] -[prefix[$:/temp/]]
 
 [prefix[$:/state/notebook]] [prefix[$:/state/toc/]]
-
- [prefix[$:/state/advancedsearch/currentTab]]
