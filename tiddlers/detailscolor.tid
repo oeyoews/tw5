@@ -1,0 +1,17 @@
+caption: detailscolor
+created: 20220216191647722
+creator: oeyoews
+modified: 20220216194100396
+modifier: oeyoews
+tags: $:/tags/TextEditor/Snippet
+title: detailscolor
+type: text/vnd.tiddlywiki
+
+<div style="text-align: left;background: #073642;border-radius: 5px; float:none">
+
+<details>
+<summary>More</summary>
+$1
+</details>
+
+</div>

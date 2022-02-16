@@ -1,0 +1,26 @@
+created: 20220216191418980
+creator: oeyoews
+modified: 20220216191824230
+modifier: oeyoews
+tags: examples
+title: subIndex
+type: text/vnd.tiddlywiki
+
+<div style="text-align:left;background:#073642">
+
+<details>
+<summary>More</summary>
+
+<<reuse-tiddler "heatmap">>
+
+<<reuse-tiddler "fishingAnalysics">>
+
+<<reuse-tiddler "tagmap">>
+
+<<reuse-tiddler "The brains">>
+
+<<reuse-tiddler "footer">>
+
+</details>
+
+</div>
