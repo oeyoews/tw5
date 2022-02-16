@@ -1,0 +1,11 @@
+created: 20220216162803546
+creator: oeyoews
+modified: 20220216162916647
+modifier: oeyoews
+tags: TiddlyWiki5
+title: safeMode
+type: text/vnd.tiddlywiki
+
+* use safemode 
+* `127.0.0.1:8090/#safe`
+* don't use `locathost`
