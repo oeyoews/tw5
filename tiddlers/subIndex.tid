@@ -1,12 +1,12 @@
 created: 20220216191418980
 creator: oeyoews
-modified: 20220216191824230
+modified: 20220216200017406
 modifier: oeyoews
 tags: examples
 title: subIndex
 type: text/vnd.tiddlywiki
 
-<div style="text-align:left;background:#073642">
+<div style="text-align:left;background:#073642; border-radius: 5px; flot:none;">
 
 <details>
 <summary>More</summary>
@@ -22,5 +22,4 @@ type: text/vnd.tiddlywiki
 <<reuse-tiddler "footer">>
 
 </details>
-
 </div>
