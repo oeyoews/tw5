@@ -70,13 +70,13 @@ tab-border-selected: #5972d9
 tab-divider: #073642
 tab-foreground: #32b4c3
 tab-foreground-selected: 
-table-border: #586e75
+table-border: #7c99a2
 table-footer-background: #073642
 table-header-background: #073642
 tag-background: #b8f316
 tag-foreground: #002b36
 tiddler-background: #002b36
-tiddler-border: #37f6f6
+tiddler-border: #20f3f3
 tiddler-controls-foreground: inherit
 tiddler-controls-foreground-hover: #d33682
 tiddler-controls-foreground-selected: #2aa198
