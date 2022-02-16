@@ -1,5 +1,7 @@
 created: 20200419141443144
-modified: 20220211133642509
+creator: oeyoews
+modified: 20220216233005001
+modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/themes/nico/notebook/base
 type: text/vnd.tiddlywiki
@@ -210,7 +212,7 @@ div.tc-tiddler-frame {
   padding: 42px 60px 60px 60px;
 }
 
-main title font size
+/** main title font size */
 h1.tc-site-title {
   margin-top: 14px;
   font-size: 1.95em !important;
@@ -237,15 +239,23 @@ h1.tc-site-title {
   top: 0;
   background: <<colour page-background>>ee;
   max-width: calc({{$:/themes/nico/notebook/metrics/story-width}} + 40px);
+  /*max-width: 2000px;*/
   padding: 10px 20px;
   margin: 0 auto;
 }
 
-/*@oeyoews disable bottom in small screen
+/*@oeyoews disable bottom in small scree
 */
 .nc-bar.nc-bottombar {
   position: fixed;
+  /*background: <<colour page-background>>ee;*/
+  /*max-width: calc({{$:/themes/nico/notebook/metrics/story-width}} + 40px);*/
+  /*padding: 10px 20px;*/
+  /*margin: 0 auto;*/
+  /*margin-bottom: 80px !important;*/
   bottom: 0;
+  /*top: 0;*/
+  /*have sidebar  bug*/
   left: 0;
   right: 0;
   /* The z-index needs to be above the z-index used in tiddlers in zoomin view */
