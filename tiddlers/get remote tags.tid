@@ -1,7 +1,11 @@
 created: 20220131204121138
-modified: 20220131204157409
+creator: oeyoews
+modified: 20220216080157323
+modifier: oeyoews
 tags: git
 title: get remote tags
 type: text/vnd.tiddlywiki
 
 git pull origin --tags
+
+* git tag -a v1.0 <commitId>
