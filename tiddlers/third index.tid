@@ -1,11 +1,11 @@
 created: 20220216105324777
 creator: oeyoews
-modified: 20220216130432173
+modified: 20220216140836183
 modifier: oeyoews
 tags: examples
 title: third index
 type: text/vnd.tiddlywiki
 
-<<details label:"TOC" src: "{{TOC}} "labelClass:" text-info">>
+<<details label:"TOC" src: "{{TOC}} "labelClass:"bg-dark text-info">>
 
 <!--[[bootstrap|https://getbootstrap.com/docs/4.0/utilities/colors/]]-->

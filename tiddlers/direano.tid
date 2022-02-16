@@ -1,13 +1,14 @@
 caption: another toc
 created: 20220212185827826
 creator: oeyoews
-modified: 20220216074051168
+modified: 20220216141358499
 modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet snippets
 title: direano
 type: text/vnd.tiddlywiki
 
  <details>
+ <summary>TOC</summary>
 
  <$macrocall
 	$name="toc-tabbed-internal-nav"
