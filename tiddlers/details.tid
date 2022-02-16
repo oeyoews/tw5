@@ -1,11 +1,13 @@
 caption: details for html
 created: 20220105053205277
-modified: 20220129140224896
+creator: oeyoews
+modified: 20220216161348591
+modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet $:/tags/Commander/Working docs
 title: details
-tmap.id: 8cfbc545-e025-4759-b593-f0e20260e492
 type: text/vnd.tiddlywiki
 
 <details>
+<summary>TOC$1</summary>
 
 </details>
