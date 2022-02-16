@@ -1,7 +1,9 @@
 caption: {{$:/language/SideBar/Tools/Caption}}
-modified: 20220216123237438
+created: 20220216223845613
+creator: oeyoews
+modified: 20220216223847753
 modifier: oeyoews
-tags: $:/tags/SideBar
+tags: $:/tags/SideBar examples
 title: $:/core/ui/SideBar/Tools
 type: text/vnd.tiddlywiki
 
