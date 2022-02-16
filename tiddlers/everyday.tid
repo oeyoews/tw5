@@ -1,0 +1,20 @@
+created: 20220216171559447
+creator: oeyoews
+modified: 20220216171617507
+modifier: oeyoews
+tags: English
+title: everyday
+type: text/vnd.tiddlywiki
+
+ <details>
+ <summary>TOC</summary>
+
+ <$macrocall
+	$name="toc-tabbed-internal-nav"
+	tag="everyday"
+	selectedTiddler="$:/temp/toc/selectedTiddler"
+	unselectedText="<p>选择目录中的一个主题，点击箭头可展开主题</p>"
+	missingText="<p>佚失条目。</p>"
+/>
+
+</details>
