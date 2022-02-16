@@ -1,0 +1,8 @@
+caption: {{$:/language/SideBar/Recent/Caption}}
+modified: 20220216110116240
+modifier: oeyoews
+tags: $:/tags/SideBar
+title: $:/core/ui/SideBar/Recent
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="timeline" format={{$:/language/RecentChanges/DateFormat}}/>

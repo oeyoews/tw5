@@ -1,0 +1,9 @@
+caption: Sticky
+created: 20210904212917036
+modified: 20220216110116241
+modifier: oeyoews
+tags: $:/tags/SideBar
+title: $:/plugins/stobot/sticky/sidebar
+type: text/vnd.tiddlywiki
+
+<<sticky-sidebar>>

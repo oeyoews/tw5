@@ -1,6 +1,6 @@
 created: 20220109112901644
 creator: oeyoews
-modified: 20220215192235591
+modified: 20220216113813099
 modifier: oeyoews
 tags: $:/tags/Commander/Working docs
 title: footer
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 </h2>
 <div style="color:Gray;font-size:90%;" align="Right">
 <$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
-Last Updated:
+<<bc src:"Last Updated:" color:"lightgreen">>
 <$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss"/> 
 
 

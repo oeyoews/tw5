@@ -1,0 +1,10 @@
+caption: {{$:/language/SideBar/More/Caption}}
+modified: 20220216110116238
+modifier: oeyoews
+tags: $:/tags/SideBar
+title: $:/core/ui/SideBar/More
+type: text/vnd.tiddlywiki
+
+<div class="tc-more-sidebar">
+<$macrocall $name="tabs" tabsList="[all[shadows+tiddlers]tag[$:/tags/MoreSideBar]!has[draft.of]]" default={{$:/config/DefaultMoreSidebarTab}} state="$:/state/tab/moresidebar" class="tc-vertical tc-sidebar-tabs-more" explicitState="$:/state/tab/moresidebar-1850697562"/>
+</div>
