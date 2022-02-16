@@ -1,9 +1,14 @@
 caption: quote
 created: 20220109145321097
-modified: 20220109145408841
-tags: $:/tags/TextEditor/Snippet snippets
+creator: oeyoews
+modified: 20220216190131513
+modifier: oeyoews
+tags: $:/tags/TextEditor/Snippet snippets examples
 title: quote
 type: text/vnd.tiddlywiki
 
- <<alert primary src:"
+ <<alert primary src:"$1
  " class:"leftbar border-primary">>
+ 
+<!--come frome shiraz bootstrap
+-->
