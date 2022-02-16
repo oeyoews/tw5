@@ -1,8 +1,10 @@
 caption: reuse-tiddler
 created: 20220109131054682
-modified: 20220110053704600
+creator: oeyoews
+modified: 20220216074121085
+modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet
 title: reuse tiddler
 type: text/vnd.tiddlywiki
 
-<<reuse-tiddler "">>
+<<reuse-tiddler "$1">>
