@@ -1,9 +1,9 @@
 caption: 带有「编辑此块」的引用transclusion宏
 created: 20200408094804792
 creator: LinOnetwo
-modified: 20220214170314819
+modified: 20220216145030764
 modifier: oeyoews
-tags: $:/tags/Macro examples
+tags: $:/tags/Macro examples macro
 title: $:/plugins/linonetwo/itonnote/Macros/TransclusionWithEditMe
 type: text/vnd.tiddlywiki
 
@@ -26,8 +26,8 @@ type: text/vnd.tiddlywiki
 }
 .reuse-pane-content {
 	display: inline-block;
-	background-color: rgba(233, 233, 233, 0.9);
-	border-left: 4px solid rgba(0, 0, 0, 0.05);
+	background-color:  #002b36;
+	border-left: 4px solid cyan;
 	padding: 0px 5px;
 	padding-bottom: 2px;
 }
