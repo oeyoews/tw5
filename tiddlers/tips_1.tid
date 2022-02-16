@@ -4,12 +4,13 @@ due: 20220114171625294
 history: [{"due":"20220114171625294","interval":"0","difficulty":4.2,"stability":2,"recall":1,"lapses":0,"reps":2,"review":"20220112171625294"}]
 interval: 0
 lapses: 0
-modified: 20220130032402937
+modified: 20220216172251895
+modifier: oeyoews
 recall: 1
 reps: 2
 review: 20220112171625294
 stability: 2
-tags: $:/tags/Commander/Working tips
+tags: tips
 title: tips/1
 tmap.id: 52e139cf-ca34-49b9-af4e-df7372f4b505
 type: text/vnd.tiddlywiki
