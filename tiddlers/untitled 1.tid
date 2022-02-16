@@ -1,0 +1,12 @@
+created: 20220216121146268
+creator: oeyoews
+modified: 20220216121439859
+modifier: oeyoews
+tags: ??
+title: untitled 1
+type: text/vnd.tiddlywiki
+
+<<alert primary src:"Primary" class:"border-primary">>
+<<alert danger src:"Danger" class:"border-danger">>
+<<alert warning src:"Warning" class:"border-warning">>
+<<alert info src:"Info" class:"border-info">>
