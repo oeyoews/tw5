@@ -1,17 +1,17 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/5500100/SearchWord}}
 created: 20220118152122785
 creator: oeyoews
-difficulty: 6.1963714206962806
-due: 20220217074904400
-grade: 0
-history: [{"due":"20220217074904400","interval":"0","difficulty":6.1963714206962806,"stability":0.650459876136777,"retrievability":1,"grade":"0","lapses":1,"reps":1,"review":"20220216074904400"}]
+difficulty: 6.396371420696281
+due: 20220217160207431
+grade: 1
+history: [{"due":"20220217074904400","interval":"0","difficulty":6.1963714206962806,"stability":0.650459876136777,"retrievability":1,"grade":"0","lapses":1,"reps":1,"review":"20220216074904400"},{"due":"20220217160207431","interval":"0","difficulty":6.396371420696281,"stability":0.650459876136777,"retrievability":1,"grade":"1","lapses":1,"reps":2,"review":"20220216160207430"}]
 interval: 0
 lapses: 1
-modified: 20220216074904400
+modified: 20220216160207431
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220216074904400
+review: 20220216160207430
 stability: 0.650459876136777
 tags: [[Sentence 1 主题归纳 与“自我感觉良好”有关的词：]] ?
 title: 5500100/20220118152122785916
