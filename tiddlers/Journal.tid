@@ -2,18 +2,17 @@ color: #e5a3e6
 created: 20211229105441495
 creator: oeyoews
 icon: $:/core/images/new-journal-button
-list: 2022/01/17 2022/01/19 2022/01/20 20220127
-modified: 20220212180019292
+list: 
+modified: 20220216165844604
 modifier: oeyoews
 tags: Journal Index
 title: Journal
-tmap.id: c9b97d56-3fe3-48c2-8bbf-07cb6be7f701
 type: text/vnd.tiddlywiki
 
  <$macrocall
 	$name="toc-tabbed-internal-nav"
 	tag="Journal"
 	selectedTiddler=""
-	unselectedText="<p></p>"
+	unselectedText="<p>选择目录中的一个主题，点击箭头可展开主题</p>"
 	missingText="<p>佚失条目。</p>"
 />

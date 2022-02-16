@@ -1,7 +1,7 @@
 caption: another toc
 created: 20220212185827826
 creator: oeyoews
-modified: 20220216141358499
+modified: 20220216170054489
 modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet snippets
 title: direano
@@ -13,8 +13,8 @@ type: text/vnd.tiddlywiki
  <$macrocall
 	$name="toc-tabbed-internal-nav"
 	tag="$1"
-	selectedTiddler=""
-	unselectedText="<p></p>"
+	selectedTiddler="$:/temp/toc/selectedTiddler"
+	unselectedText="<p>选择目录中的一个主题，点击箭头可展开主题</p>"
 	missingText="<p>佚失条目。</p>"
 />
 

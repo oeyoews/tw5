@@ -1,6 +1,8 @@
 created: 20220210120757441
-modified: 20220210120757441
+creator: oeyoews
+modified: 20220216164616511
+modifier: oeyoews
 title: $:/config/ViewToolbarButtons/Visibility/$:/plugins/Gk0Wk/page-toc/PageTOCButton
 type: text/vnd.tiddlywiki
 
-hide
+show
