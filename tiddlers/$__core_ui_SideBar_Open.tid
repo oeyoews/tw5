@@ -1,7 +1,8 @@
 caption: {{$:/language/SideBar/Open/Caption}}
 created: 20220104160004468
-modified: 20220216123211304
+modified: 20220216123237437
 modifier: oeyoews
+tags: $:/tags/SideBar
 title: $:/core/ui/SideBar/Open
 type: text/vnd.tiddlywiki
 

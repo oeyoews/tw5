@@ -1,8 +1,8 @@
 created: 20220210120726481
 creator: oeyoews
-modified: 20220216123211306
+modified: 20220216123237436
 modifier: oeyoews
 title: $:/config/ViewToolbarButtons/Visibility/$:/xp/manageTags/button
 type: text/vnd.tiddlywiki
 
-hide
+show
