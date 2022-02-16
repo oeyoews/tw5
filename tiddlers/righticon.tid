@@ -1,0 +1,9 @@
+created: 20220216174120778
+creator: oeyoews
+modified: 20220216174152165
+modifier: oeyoews
+tags: examples
+title: righticon
+type: text/vnd.tiddlywiki
+
+<span style="float:right;width:32px;">{{$:/favicon.ico}}</span>
