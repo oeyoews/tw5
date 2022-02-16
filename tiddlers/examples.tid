@@ -1,8 +1,21 @@
 _is_skinny: 
 created: 20220212200437203
 creator: oeyoews
-modified: 20220215115417443
+modified: 20220216182049025
 modifier: oeyoews
 tags: examples
 title: examples
 type: text/vnd.tiddlywiki
+
+ <details>
+ <summary>TOC</summary>
+
+ <$macrocall
+	$name="toc-tabbed-internal-nav"
+	tag="examples"
+	selectedTiddler="$:/temp/toc/selectedTiddler"
+	unselectedText="<p>选择目录中的一个主题，点击箭头可展开主题</p>"
+	missingText="<p>佚失条目。</p>"
+/>
+
+</details>

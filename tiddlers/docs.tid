@@ -1,21 +1,16 @@
 color: #7eee68
 created: 20220129135449279
 creator: oeyoews
-modified: 20220215181055117
+modified: 20220216183845185
 modifier: oeyoews
 tags: docs Index
 title: docs
 type: text/vnd.tiddlywiki
 
-<details>
+<<tabs tabsList:"[tag[docs]]" default:"" class:"tc-horizonal">>
 
+<hr>
 
-<$macrocall
-	$name="toc-tabbed-internal-nav"
-	tag="docs"
-	selectedTiddler=""
-	unselectedText="<p></p>"
-	missingText="<p>佚失条目。</p>"
-/>
-
-</details>
+<div class="tc-table-of-contents">
+<<toc-selective-expandable 'footer'>>
+</div>

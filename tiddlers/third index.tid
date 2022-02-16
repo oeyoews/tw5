@@ -1,12 +1,12 @@
 created: 20220216105324777
 creator: oeyoews
-modified: 20220216170657194
+modified: 20220216182009782
 modifier: oeyoews
 tags: examples
 title: third index
 type: text/vnd.tiddlywiki
 
-<<details label:"TOC" src: "{{TOC}} [[anoTOC|thrDire]]"labelClass:"bg-dark text-info">>
+<<details label:"TOC" src: "{{TOC}} [[anoTOC|thrDire]]"labelClass:"bg-dark text-warning">>
 
 
 
