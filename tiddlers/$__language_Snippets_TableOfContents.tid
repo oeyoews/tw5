@@ -1,0 +1,14 @@
+caption: Table of Contents
+created: 20220217163413921
+creator: oeyoews
+modified: 20220217163418471
+modifier: oeyoews
+tags: $:/tags/TextEditor/Snippet
+title: $:/language/Snippets/TableOfContents
+type: text/vnd.tiddlywiki
+
+<div class="tc-table-of-contents">
+
+<<toc-selective-expandable '$1'>>
+
+</div>
