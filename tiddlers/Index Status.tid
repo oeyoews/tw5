@@ -1,9 +1,9 @@
 created: 20220216181013887
 creator: oeyoews
-modified: 20220216181204989
+modified: 20220217051729507
 modifier: oeyoews
 tags: examples
 title: Index Status
 type: text/vnd.tiddlywiki
 
-<<dbadge Tiddlywiki 5.2.1+ primary>> <<dbadge License MIT success>> <<dbadge Release "v10.6+" warning>> <<dbadge Status "dev" danger>>
+<<dbadge Tiddlywiki 5.2.1+ primary>> <<dbadge License MIT success>> <<dbadge Release "v11.0+" warning>> <<dbadge Status "dev" danger>>

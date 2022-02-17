@@ -1,7 +1,9 @@
 created: 20210111103027104
-modified: 20220202065254541
+creator: oeyoews
+modified: 20220217052029310
+modifier: oeyoews
 tags: 
 title: $:/config/projectify/DefaultDashboardTab
 type: text/vnd.tiddlywiki
 
-$:/plugins/nico/projectify/ui/dashboard/InboxAndProjects
+$:/plugins/nico/projectify/ui/dashbaord/Today

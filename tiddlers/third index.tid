@@ -1,12 +1,12 @@
 created: 20220216105324777
 creator: oeyoews
-modified: 20220217034827387
+modified: 20220217051811198
 modifier: oeyoews
 tags: examples
 title: third index
 type: text/vnd.tiddlywiki
 
-<div style="text-align: left;background: #073642;border-radius:5px">
+<div style="text-align: left;background: #073642;border-radius:5px;float:left">
 <details>
 <summary>TOC</summary>
 

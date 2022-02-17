@@ -1,6 +1,8 @@
 created: 20220104070751763
-modified: 20220210114531324
+creator: oeyoews
+modified: 20220217052014983
+modifier: oeyoews
 title: $:/config/projectify/ShowCompletedTodos
 type: text/vnd.tiddlywiki
 
-yes
+no
