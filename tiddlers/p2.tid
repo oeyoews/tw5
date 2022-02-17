@@ -1,11 +1,11 @@
 caption: p2
 created: 20220111165154588
-modified: 20220217114047165
+creator: oeyoews
+modified: 20220217145124117
 modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet snippets
 title: p2
 type: text/vnd.tiddlywiki
 
-<p>
-
+<p>$1
 </p>

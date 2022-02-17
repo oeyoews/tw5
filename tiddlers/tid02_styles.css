@@ -1,0 +1,80 @@
+/* Other element styles */
+
+.carousel-control {
+  --size: clamp(1rem, 8vw, 2rem);
+
+  position: relative;
+  cursor: pointer;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  color: white;
+  fill: currentcolor;
+  background: dodgerblue;
+  border: none;
+  width: var(--size);
+  height: var(--size);
+  padding: 0.25rem;
+  touch-action: manipulation;
+  transform: translateY(0);
+}
+
+.carousel-control:active {
+  transform: translateY(1px);
+}
+
+.carousel-control svg {
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+
+.container{
+  display: grid;
+  grid-template: "container" 1fr;
+  place-items: center;
+  place-content: center;
+  overflow: hidden;
+/*	border:1px dotted blue; dbg*/
+}
+
+.container > * {
+  grid-area: container;
+  max-width: 1000px;
+}
+
+.carousel-control.prev {
+  place-self: center left;
+}
+
+.carousel-control.next {
+  place-self: center right;
+}
+
+.carousel-dots {
+  place-self: end center; /*put at the bottom center*/
+}
+
+
+.carousel-dots {
+  display: flex;
+  gap: 0.4rem;
+  padding:0.5rem;
+	align-items:center;
+	justify-content:center;
+	/*border:1px dotted yellow; dbg*/
+}
+
+.carousel-dots .dot {
+  padding: 0;
+  font-size: 0;
+  background-color: white; /*white;*/
+  border-radius: 50%;
+  width:  0.8rem; /*var(--size);*/
+  height: 0.8rem; /*var(--size);*/
+}
+
+.carousel-dots .dot.active {
+  background-color: dodgerblue;
+}

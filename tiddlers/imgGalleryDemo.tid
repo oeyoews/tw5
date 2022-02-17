@@ -1,0 +1,11 @@
+created: 20220217144842921
+creator: oeyoews
+modified: 20220217145051350
+modifier: oeyoews
+tags: examples
+title: imgGalleryDemo
+type: text/vnd.tiddlywiki
+
+<h2 align="center"> imgGallery
+</h2>
+{{tid02/carousel}}
