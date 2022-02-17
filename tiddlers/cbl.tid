@@ -1,11 +1,12 @@
 caption: code block
 created: 20220103073701087
-modified: 20220108114044906
+creator: oeyoews
+modified: 20220217112510486
+modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet
-title: codeblock
-tmap.id: 8ee1f7c5-921e-4674-b2a2-15a9c4793e51
+title: cbl
 type: text/vnd.tiddlywiki
 
-```
+```$1
 
 ```
