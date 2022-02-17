@@ -1,5 +1,6 @@
 created: 20220211133924091
-modified: 20220217114047160
+creator: oeyoews
+modified: 20220217123237109
 modifier: oeyoews
 tags: frontend
 title: margin padding
@@ -8,3 +9,13 @@ type: text/vnd.tiddlywiki
 margin is distance between divs
 
 padding is distance in one div
+
+"""
+以margin为例，padding同理
+
+margin为4个时，margin:上  右  下  左;（为顺时针方向）
+
+margin为3个时，margin:上   左=右   下;
+margin为2个时，margin:上=下   左=右;
+margin为1个时，margin:上=右=下=左;
+"""

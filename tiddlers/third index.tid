@@ -1,6 +1,6 @@
 created: 20220216105324777
 creator: oeyoews
-modified: 20220217120451712
+modified: 20220217130259791
 modifier: oeyoews
 tags: examples
 title: third index
@@ -16,7 +16,6 @@ type: text/vnd.tiddlywiki
 
 
 </div>
-
 
 <!--
 <<details label:"TOC" src: "{{TOC}} [[anoTOC|thrDire]]"labelClass:"bg-dark text-warning">>

@@ -2,7 +2,7 @@ color: #aff024
 created: 20211226085802818
 creator: oeyoews
 keywords: Index
-modified: 20220217120510587
+modified: 20220217130516110
 modifier: oeyoews
 sticky-footer: Index
 tags: Index
@@ -12,8 +12,10 @@ type: text/vnd.tiddlywiki
 <<reuse-tiddler "Index Status">>
 
 <<reuse-tiddler "third index">>
+<<reuse-tiddler "scratch2">>
+
 <<reuse-tiddler "netmusic">>
-{{scratch2}}
-{{Inbox}}
+
+<<reuse-tiddler "Inbox">>
 
 <<reuse-tiddler "subIndex">>
