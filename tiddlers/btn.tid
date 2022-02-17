@@ -1,10 +1,10 @@
 caption: keybutton
 created: 20220104181417393
-modified: 20220216172251891
+creator: oeyoews
+modified: 20220217112158734
 modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet docs
-title: keybutton
-tmap.id: bd302e2d-adc7-41a6-8f46-64ac1bd3cfb8
+title: btn
 type: text/vnd.tiddlywiki
 
-<kbd></kbd>
+<kbd>$1</kbd>
