@@ -1,6 +1,7 @@
 created: 20220113071135065
 history: [{"due":"20220116160239390","interval":"0","difficulty":4.2,"stability":2,"recall":1,"lapses":0,"reps":2,"review":"20220114160239390"},{"due":"20220115160248141","interval":"-1","difficulty":3.4540925533894606,"stability":-0.30986100838416064,"recall":1.0540925533894598,"lapses":0,"reps":3,"review":"20220114160248141"},{"due":"20220115160251813","interval":"-1","difficulty":2.3658450217465194,"stability":null,"recall":0.7117524683570589,"lapses":0,"reps":4,"review":"20220114160251813"},{"due":"20220115160300754","interval":"-1","difficulty":null,"stability":null,"recall":null,"lapses":0,"reps":5,"review":"20220114160300754"}]
-modified: 20220114160421466
+modified: 20220217114047180
+modifier: oeyoews
 tags: record
 title: typing website
 type: text/vnd.tiddlywiki

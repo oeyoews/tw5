@@ -1,9 +1,9 @@
 created: 20211230003544329
-modified: 20220210193342041
+modified: 20220217114047118
+modifier: oeyoews
 status: rework
 tags: Bug
 title: bug/kitty
-tmap.id: de8d2b72-5475-4f28-8c26-05502ba32ea0
 type: text/vnd.tiddlywiki
 
 it's wired for kitty use window + enter (some is wrong in delay) may be 卡顿， just reboot your terminal

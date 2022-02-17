@@ -1,9 +1,9 @@
 created: 20211230004020393
 history: []
-modified: 20220114160406926
+modified: 20220217114047164
+modifier: oeyoews
 tags: Linux
 title: nginx/a2
-tmap.id: d38044ba-d855-485e-a748-cceb26be2a3e
 type: text/vnd.tiddlywiki
 
 in apt system, httpd-tools packname is apache2-utils, apache apache-tools in arch seris

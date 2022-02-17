@@ -1,10 +1,10 @@
 author: oeyoews
 created: 20211226162252217
-modified: 20220210193512272
+modified: 20220217114047118
+modifier: oeyoews
 status: rework
 tags: Bug
 title: bug/a
-tmap.id: f39a925d-1490-4507-9c88-ae40b7bf3caf
 type: text/vnd.tiddlywiki
 
 * in tw(node), this default tab is dymantic(maybe is the reason)

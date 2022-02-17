@@ -1,0 +1,10 @@
+dependents: 
+description: Synchronize changes from the node.js server to the local filesystem
+list: readme
+modified: 20220217112848676
+modifier: oeyoews
+name: Filesystem
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/filesystem
+type: application/json
+version: 5.2.2-prerelease-2022-01-28

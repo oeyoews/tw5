@@ -5,7 +5,8 @@ factor: 2.65
 history: []
 interval: 0
 lapses: 0
-modified: 20220210193342040
+modified: 20220217114047118
+modifier: oeyoews
 recall: 1
 reps: 1
 review: 20220112165958469
@@ -13,7 +14,6 @@ stability: 2
 status: rework
 tags: Bug archive fixed
 title: bug/github
-tmap.id: 9cadce19-75be-4333-97aa-73670b5c4527
 type: text/vnd.tiddlywiki
 
 * [[set-node|https://github.com/actions/setup-node/issues/354]]

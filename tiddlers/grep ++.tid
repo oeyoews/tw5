@@ -1,11 +1,10 @@
 created: 20211226170858749
 factor: 2.80
 history: [{"due":"20220115160503616","interval":"-1","difficulty":4.25409255338946,"stability":0.0035668474990400156,"recall":1.0540925533894598,"lapses":0,"reps":2,"review":"20220114160503615"}]
-modified: 20220216172251887
+modified: 20220217114047152
 modifier: oeyoews
 tags: tips
 title: grep ++
-tmap.id: 021ad36c-b985-4516-98af-02952e824f8a
 type: text/vnd.tiddlywiki
 
 * pgrep(xxx)

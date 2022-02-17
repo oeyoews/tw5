@@ -1,9 +1,8 @@
 created: 20211227071150990
-modified: 20220216172251859
+modified: 20220217114047115
 modifier: oeyoews
 tags: git
 title: add domain(gitlab)
-tmap.id: 836c5f2c-b605-4537-ab2f-d0e18697f2a7
 type: text/vnd.tiddlywiki
 
 * need add two record(txt and cname)<br>

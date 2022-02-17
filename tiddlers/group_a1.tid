@@ -1,11 +1,11 @@
 created: 20211229162855357
 history: [{"due":"20220115160337213","interval":"-1","difficulty":4.25409255338946,"stability":0.0035668474990400156,"recall":1.0540925533894598,"lapses":0,"reps":2,"review":"20220114160337212"},{"due":"20220115160340690","interval":"-1","difficulty":10,"stability":-0.1282524168211392,"recall":6738334168637.574,"lapses":0,"reps":3,"review":"20220114160340689"}]
-modified: 20220129140212992
+modified: 20220217114047152
+modifier: oeyoews
 stream-list: group/a1/20211229170501613 group/a1/20211229170511886
 stream-type: default
 tags: Linux
 title: group/a1
-tmap.id: 9ff968b0-fc34-4f2a-ac52-706023498be2
 type: text/vnd.tiddlywiki
 
 * groupdel xxx

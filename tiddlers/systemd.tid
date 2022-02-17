@@ -1,8 +1,8 @@
 created: 20211230014205147
-modified: 20220107175700981
+modified: 20220217114047173
+modifier: oeyoews
 tags: Linux
 title: systemd
-tmap.id: 5c82d7fe-7163-43c5-b0cb-1d6e53e9f81b
 type: text/vnd.tiddlywiki
 
 * /etc/systemd/system/xxx 

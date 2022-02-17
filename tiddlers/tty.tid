@@ -1,8 +1,8 @@
 created: 20211231095220183
-modified: 20220107175700981
+modified: 20220217114047177
+modifier: oeyoews
 tags: Linux
 title: tty
-tmap.id: 8ffa4a26-54d1-4d87-973f-c41dc82493b3
 type: text/vnd.tiddlywiki
 
 * systemctl get-default

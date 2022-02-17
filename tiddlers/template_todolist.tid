@@ -1,9 +1,8 @@
 created: 20220102170147899
-modified: 20220216172251893
+modified: 20220217114047173
 modifier: oeyoews
 tags: $:/tags/ViewTemplate docs
 title: template/todolist
-tmap.id: 05cdb6e7-ec8a-427b-bae1-00f48be07db9
 type: text/vnd.tiddlywiki
 
 <$list filter="[all[current]tag[Task]]">

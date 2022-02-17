@@ -7,7 +7,7 @@ grade: 1
 history: [{"due":"20220217075119622","interval":"1","difficulty":6.035818495021234,"stability":0.650459876136777,"retrievability":0.8394470743249529,"grade":"0","lapses":1,"reps":1,"review":"20220216075119622"},{"due":"20220217160331938","interval":"0","difficulty":6.235818495021234,"stability":0.650459876136777,"retrievability":1,"grade":"1","lapses":1,"reps":2,"review":"20220216160331938"}]
 interval: 0
 lapses: 1
-modified: 20220216160331938
+modified: 20220217114047108
 modifier: oeyoews
 reps: 2
 retrievability: 1

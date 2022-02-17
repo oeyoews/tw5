@@ -1,6 +1,7 @@
 created: 20220110132329718
 history: [{"due":"20220116070702386","interval":"0","difficulty":4.2,"stability":2,"recall":1,"lapses":0,"reps":2,"review":"20220114070702384"},{"due":"20220116160242654","interval":"0","difficulty":3.4000000000000004,"stability":2,"recall":1,"lapses":0,"reps":3,"review":"20220114160242654"}]
-modified: 20220129150756555
+modified: 20220217114047120
+modifier: oeyoews
 tags: website
 title: chrome download
 type: text/vnd.tiddlywiki

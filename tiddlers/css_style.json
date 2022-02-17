@@ -4,8 +4,9 @@
         "text": "@@.tc-tiddler-frame\n@@width:200px;\n<!-- write here\n-->\n\n@@",
         "tags": "$:/tags/TextEditor/Snippet snippets",
         "title": "css/style",
-        "modified": "20220109065404209",
+        "modified": "20220217114047121",
         "type": "text/vnd.tiddlywiki",
+        "modifier": "oeyoews",
         "caption": " square-css"
     }
 ]

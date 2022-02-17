@@ -8,7 +8,7 @@ grade: 1
 history: [{"due":"20220215164751060","interval":"0","difficulty":5.375908413544972,"stability":0.05,"retrievability":1,"grade":"1","lapses":0,"reps":2,"review":"20220214164751060"},{"due":"20220216052245223","interval":"0","difficulty":5.575908413544973,"stability":0.05,"retrievability":1,"grade":"1","lapses":0,"reps":3,"review":"20220215052245223"},{"due":"20220216181912262","interval":"0","difficulty":5.775908413544973,"stability":0.05,"retrievability":1,"grade":"1","lapses":0,"reps":4,"review":"20220215181912261"},{"due":"20220217074815238","interval":"0","difficulty":5.975908413544973,"stability":0.05,"retrievability":1,"grade":"1","lapses":0,"reps":5,"review":"20220216074815237"},{"due":"20220217160111085","interval":"0","difficulty":5.175908413544973,"stability":0.05,"retrievability":1,"grade":"2","lapses":0,"reps":6,"review":"20220216160111085"},{"due":"20220217201712757","interval":"-1","difficulty":10,"stability":-1.0389576479010725,"retrievability":8.225263339969954,"grade":"1","lapses":0,"reps":7,"review":"20220216201712756"}]
 interval: -1
 lapses: 0
-modified: 20220216201712757
+modified: 20220217114047108
 modifier: oeyoews
 reps: 7
 retrievability: 8.225263339969954

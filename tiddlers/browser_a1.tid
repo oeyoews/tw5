@@ -4,7 +4,7 @@ due: 20220114170158900
 history: []
 interval: 0
 lapses: 0
-modified: 20220216172251861
+modified: 20220217114047118
 modifier: oeyoews
 recall: 1
 reps: 1
@@ -12,7 +12,6 @@ review: 20220112170158900
 stability: 2
 tags: tips
 title: browser/a1
-tmap.id: 3bdffa28-ccfc-46f9-bc12-7cd4e148700c
 type: text/vnd.tiddlywiki
 
 * `alt+p`  // pin a tag page

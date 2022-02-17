@@ -5,7 +5,7 @@ due: 20220116165750980
 history: [{"due":"20220116165750980","interval":"1","difficulty":4.148683298050514,"stability":4.03183163653078,"recall":0.9486832980505138,"lapses":0,"reps":2,"review":"20220112165750979"}]
 interval: 1
 lapses: 0
-modified: 20220129140213000
+modified: 20220217114047178
 modifier: oeyoews
 recall: 0.9486832980505138
 reps: 2
@@ -13,7 +13,6 @@ review: 20220112165750979
 stability: 4.03183163653078
 tags: archive
 title: tw recomment links
-tmap.id: 307992af-8542-4b88-a2a4-264ed4179d06
 type: text/vnd.tiddlywiki
 
 * [[onetwo|https://onetwo.ren/wiki/#Index:Index]]

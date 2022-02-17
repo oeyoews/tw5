@@ -1,9 +1,9 @@
 created: 20211226174011329
 history: []
-modified: 20220115180001533
+modified: 20220217114047172
+modifier: oeyoews
 tags: Linux
 title: systemctl/a
-tmap.id: c9460806-59ae-42fb-991a-df67cf56922c
 type: text/vnd.tiddlywiki
 
 * systemctl list-unit-files
