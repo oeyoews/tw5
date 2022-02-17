@@ -1,13 +1,13 @@
 created: 20220216162803546
 creator: oeyoews
-modified: 20220217114047169
+modified: 20220217155249089
 modifier: oeyoews
 tags: TiddlyWiki5
 title: safeMode
 type: text/vnd.tiddlywiki
 
 * use safemode 
-* `127.0.0.1:8090/#safe`
+* `127.0.0.1:8090/#:safe`
 * don't use `locathost`
 
 * [[safemode|https://bramchen.github.io/tw5-docs/zh-Hans/]]

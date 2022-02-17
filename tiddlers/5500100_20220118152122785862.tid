@@ -2,18 +2,18 @@ _is_skinny:
 caption: {{||$:/plugins/oflg/fishing-cannedfish/5500100/SearchWord}}
 created: 20220118152122785
 creator: oeyoews
-difficulty: 7.840804947421776
-due: 20220217201551561
+difficulty: 8.040804947421776
+due: 20220218160633653
 grade: 1
-history: [{"due":"20220215141957215","interval":"1","difficulty":5.497485068135542,"stability":0.0370409110340859,"retrievability":0.12157665459056936,"grade":"0","lapses":1,"reps":1,"review":"20220214141957215"},{"due":"20220215165212893","interval":"0","difficulty":6.697485068135542,"stability":0.3303952126445657,"retrievability":1,"grade":"0","lapses":2,"reps":1,"review":"20220214165212893"},{"due":"20220216181801106","interval":"0","difficulty":6.897485068135542,"stability":0.3303952126445657,"retrievability":1,"grade":"1","lapses":2,"reps":2,"review":"20220215181801106"},{"due":"20220217074803621","interval":"0","difficulty":6.097485068135542,"stability":0.3303952126445657,"retrievability":1,"grade":"2","lapses":2,"reps":3,"review":"20220216074803620"},{"due":"20220217160059655","interval":"0","difficulty":7.2974850681355425,"stability":0.3569799488361424,"retrievability":1,"grade":"0","lapses":3,"reps":1,"review":"20220216160059654"},{"due":"20220217201551561","interval":"-1","difficulty":7.840804947421776,"stability":-1.4522453478289075,"retrievability":1.343319879286233,"grade":"1","lapses":3,"reps":2,"review":"20220216201551560"}]
-interval: -1
+history: [{"due":"20220215141957215","interval":"1","difficulty":5.497485068135542,"stability":0.0370409110340859,"retrievability":0.12157665459056936,"grade":"0","lapses":1,"reps":1,"review":"20220214141957215"},{"due":"20220215165212893","interval":"0","difficulty":6.697485068135542,"stability":0.3303952126445657,"retrievability":1,"grade":"0","lapses":2,"reps":1,"review":"20220214165212893"},{"due":"20220216181801106","interval":"0","difficulty":6.897485068135542,"stability":0.3303952126445657,"retrievability":1,"grade":"1","lapses":2,"reps":2,"review":"20220215181801106"},{"due":"20220217074803621","interval":"0","difficulty":6.097485068135542,"stability":0.3303952126445657,"retrievability":1,"grade":"2","lapses":2,"reps":3,"review":"20220216074803620"},{"due":"20220217160059655","interval":"0","difficulty":7.2974850681355425,"stability":0.3569799488361424,"retrievability":1,"grade":"0","lapses":3,"reps":1,"review":"20220216160059654"},{"due":"20220217201551561","interval":"-1","difficulty":7.840804947421776,"stability":-1.4522453478289075,"retrievability":1.343319879286233,"grade":"1","lapses":3,"reps":2,"review":"20220216201551560"},{"due":"20220218160633653","interval":"0","difficulty":8.040804947421776,"stability":null,"retrievability":1,"grade":"1","lapses":3,"reps":3,"review":"20220217160633653"}]
+interval: 0
 lapses: 3
-modified: 20220217114047108
+modified: 20220217160633653
 modifier: oeyoews
-reps: 2
-retrievability: 1.343319879286233
-review: 20220216201551560
-stability: -1.4522453478289075
+reps: 3
+retrievability: 1
+review: 20220217160633653
+stability: NaN
 tags: [[Sentence 1 核心词表]] ?
 title: 5500100/20220118152122785862
 type: text/vnd.tiddlywiki
