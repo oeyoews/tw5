@@ -69,7 +69,7 @@ tab-border: #5972d9
 tab-border-selected: #5972d9
 tab-divider: #073642
 tab-foreground: #32b4c3
-tab-foreground-selected: 
+tab-foreground-selected: #689df3
 table-border: #7c99a2
 table-footer-background: #073642
 table-header-background: #073642

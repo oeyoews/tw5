@@ -1,7 +1,7 @@
 caption: {{$:/language/SideBar/Tools/Caption}}
 created: 20220216223845613
 creator: oeyoews
-modified: 20220216223847753
+modified: 20220217053332183
 modifier: oeyoews
 tags: $:/tags/SideBar examples
 title: $:/core/ui/SideBar/Tools
@@ -12,8 +12,8 @@ type: text/vnd.tiddlywiki
 $:/config/PageControlButtons/Visibility/$(listItem)$
 \end
 
-<<lingo Basics/Version/Prompt>> <<version>>
-
+<!--<<lingo Basics/Version/Prompt>> <<version>>
+-->
 <$vars tv-config-toolbar-icons="yes" tv-config-toolbar-text="yes" tv-config-toolbar-class="">
 
 <$list filter="[all[shadows+tiddlers]tag[$:/tags/PageControls]!has[draft.of]]" variable="listItem">
