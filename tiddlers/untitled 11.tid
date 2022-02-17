@@ -1,0 +1,16 @@
+created: 20220217102114342
+creator: oeyoews
+modified: 20220217102228039
+modifier: oeyoews
+tags: examples
+title: untitled 11
+type: text/vnd.tiddlywiki
+
+<$presentation>
+<$slide>Welcome to ''Reveal.js''</$slide>
+<$slide>Embedded inside TiddlyWiki</$slide>
+<$slide>
+  <$slide>Vertical Slides</$slide>
+  <$slide>Can also me manged with one level of nesting</$slide>
+</$slide>
+</$presentation>
