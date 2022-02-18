@@ -1,0 +1,9 @@
+created: 20220218061821644
+creator: oeyoews
+modified: 20220218062104093
+modifier: oeyoews
+tags: examples
+title: getMorePlugins
+type: text/vnd.tiddlywiki
+
+{{$:/core/ui/ControlPanel/Plugins/AddPlugins}}
