@@ -1,11 +1,11 @@
 created: 20220130121503101
 creator: oeyoews
-modified: 20220217114047152
+modified: 20220218200205373
 modifier: oeyoews
 tags: git
-title: gitmodules intro
+title: gitmodulesIntro1
 type: text/vnd.tiddlywiki
 
-atal: 请确认 .gitmodules 文件在工作区里
+* fatal: 请确认 .gitmodules 文件在工作区里
 
 > commit and push old file changes
