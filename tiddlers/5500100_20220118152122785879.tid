@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/5500100/SearchWord}}
 created: 20220118152122785
 creator: oeyoews
-difficulty: 8.435818495021234
-due: 20220218160349475
+difficulty: 9.635818495021233
+due: 20220219160931993
 grade: 0
-history: [{"due":"20220217075045850","interval":"1","difficulty":6.035818495021234,"stability":0.650459876136777,"retrievability":0.8394470743249529,"grade":"0","lapses":1,"reps":1,"review":"20220216075045850"},{"due":"20220217160238751","interval":"0","difficulty":7.235818495021234,"stability":0.4818725280644978,"retrievability":1,"grade":"0","lapses":2,"reps":1,"review":"20220216160238751"},{"due":"20220218160349475","interval":"0","difficulty":8.435818495021234,"stability":0.3569799488361424,"retrievability":1,"grade":"0","lapses":3,"reps":1,"review":"20220217160349475"}]
+history: [{"due":"20220217075045850","interval":"1","difficulty":6.035818495021234,"stability":0.650459876136777,"retrievability":0.8394470743249529,"grade":"0","lapses":1,"reps":1,"review":"20220216075045850"},{"due":"20220217160238751","interval":"0","difficulty":7.235818495021234,"stability":0.4818725280644978,"retrievability":1,"grade":"0","lapses":2,"reps":1,"review":"20220216160238751"},{"due":"20220218160349475","interval":"0","difficulty":8.435818495021234,"stability":0.3569799488361424,"retrievability":1,"grade":"0","lapses":3,"reps":1,"review":"20220217160349475"},{"due":"20220219160931993","interval":"0","difficulty":9.635818495021233,"stability":0.2644572505158417,"retrievability":1,"grade":"0","lapses":4,"reps":1,"review":"20220218160931993"}]
 interval: 0
-lapses: 3
-modified: 20220217160349475
+lapses: 4
+modified: 20220218160931993
 modifier: oeyoews
 reps: 1
 retrievability: 1
-review: 20220217160349475
-stability: 0.3569799488361424
+review: 20220218160931993
+stability: 0.2644572505158417
 tags: [[Sentence 1 主题归纳 与“自我感觉良好”有关的词：]] ?
 title: 5500100/20220118152122785879
 type: text/vnd.tiddlywiki
