@@ -1,8 +1,8 @@
 created: 20220217104916067
 creator: oeyoews
-modified: 20220217104917052
+modified: 20220218084137457
 modifier: oeyoews
 title: $:/config/ViewToolbarButtons/Visibility/$:/plugins/kookma/favorites/viewtoolbar
 type: text/vnd.tiddlywiki
 
-show
+hide

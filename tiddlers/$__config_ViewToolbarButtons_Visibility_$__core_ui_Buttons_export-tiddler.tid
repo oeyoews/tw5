@@ -1,6 +1,8 @@
 created: 20211227234846648
-modified: 20220211071754499
+creator: oeyoews
+modified: 20220218084124780
+modifier: oeyoews
 title: $:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/export-tiddler
 type: text/vnd.tiddlywiki
 
-hide
+show
