@@ -1,0 +1,10 @@
+created: 20220131193053167
+creator: oeyoews
+modified: 20220218165841428
+modifier: oeyoews
+tags: git
+title: gitmoudlesTip
+type: text/vnd.tiddlywiki
+
+* del .gitmodules modules .gitconfig and relative repo to solve 
+* [img width=512 [https://cdn.jsDelivr.net/gh/oeyoews/img/gitbug.png]]

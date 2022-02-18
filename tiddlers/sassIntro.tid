@@ -1,9 +1,9 @@
 created: 20220202151124702
 creator: oeyoews
-modified: 20220217114047169
+modified: 20220218165642096
 modifier: oeyoews
 tags: frontend
-title: sass intro
+title: sassIntro
 type: text/vnd.tiddlywiki
 
-sass is css plus
+* sass is css plus

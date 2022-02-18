@@ -1,11 +1,12 @@
 created: 20220112075457518
-modified: 20220217114047157
+creator: oeyoews
+modified: 20220218165752942
 modifier: oeyoews
 tags: docs
 title: latex 公式
 type: text/vnd.tiddlywiki
 
-"""
+
 * $$x_2$$
 * $$x^2$$
 * $$\delta$$
@@ -26,6 +27,5 @@ $$\vec a$$
 $$\int {x_1} {y_2}$$
 $$\int_{1}^{2}{x}dx$$
 $$\sum {a+b}$$
-"""
 
-[[link|https://blog.csdn.net/mingzhuo_126/article/details/82722455]]
+* [[link|https://blog.csdn.net/mingzhuo_126/article/details/82722455]]

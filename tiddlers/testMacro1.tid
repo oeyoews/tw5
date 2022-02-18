@@ -1,8 +1,9 @@
 created: 20220129132414789
-modified: 20220217114047174
+creator: oeyoews
+modified: 20220218165353788
 modifier: oeyoews
 tags: $:/tags/Macro
-title: Test macro
+title: testMacro1
 type: text/vnd.tiddlywiki
 
 \define acdetails(status)
