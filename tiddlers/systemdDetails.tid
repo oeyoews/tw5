@@ -1,12 +1,13 @@
 created: 20211230014205147
-modified: 20220217114047173
+creator: oeyoews
+modified: 20220218153039447
 modifier: oeyoews
 tags: Linux
-title: systemd
+title: systemdDetails
 type: text/vnd.tiddlywiki
 
 * /etc/systemd/system/xxx 
 
 * systemd-analyze dot --to-pattern='*.target' --from-pattern='*.target' | dot -Tsvg > targets.svg
 
-http://www.jinbuguo.com/systemd/systemd-analyze.html
+* http://www.jinbuguo.com/systemd/systemd-analyze.html

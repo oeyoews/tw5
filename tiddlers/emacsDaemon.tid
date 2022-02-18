@@ -1,0 +1,13 @@
+created: 20220125020050366
+creator: oeyoews
+modified: 20220218152650382
+modifier: oeyoews
+tags: emacs
+title: emacsDaemon
+type: text/vnd.tiddlywiki
+
+* systemctl --user enable emacs
+
+* emacsclient -c(just in terminal)
+
+* systemctl --user restart emacs

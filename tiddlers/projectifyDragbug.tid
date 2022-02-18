@@ -1,10 +1,10 @@
 created: 20220209203722079
 creator: oeyoews
-modified: 20220218145727995
+modified: 20220218152931151
 modifier: oeyoews
 status: rework
 tags: bug/1
-title: projectify bug
+title: projectifyDragbug
 type: text/vnd.tiddlywiki
 
 * projectify have bug, if use this plugin, and if you drop another plugin, this will not show tips friendly
