@@ -1,9 +1,11 @@
 created: 20220215072150354
 creator: oeyoews
-modified: 20220217114047180
+modified: 20220218140320567
 modifier: oeyoews
-tags: ??
-title: untitled
+tags: git
+title: git/reset
 type: text/vnd.tiddlywiki
 
 `git reset <id>`
+
+> todo
