@@ -1,13 +1,13 @@
 created: 20220217120102457
 creator: oeyoews
-modified: 20220217130202915
+modified: 20220218082902049
 modifier: oeyoews
-tags: ?? examples
+tags: examples
 title: netmusic
 type: text/vnd.tiddlywiki
 
 <p align="right">
 
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110  src="//music.163.com/outchain/player?type=0&id=7267820416&auto=0&height=90"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=110  src="//music.163.com/outchain/player?type=0&id=7267820416&auto=1&height=90"></iframe>
 </p>

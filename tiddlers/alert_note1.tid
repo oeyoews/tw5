@@ -1,0 +1,9 @@
+created: 20220218081628907
+creator: oeyoews
+modified: 20220218081719248
+modifier: oeyoews
+tags: examples
+title: alert/note1
+type: text/vnd.tiddlywiki
+
+<<alert danger "NOTE: NOT FIL PHONE">>
