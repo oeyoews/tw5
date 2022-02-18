@@ -1,13 +1,16 @@
 created: 20220216191153785
 creator: oeyoews
-modified: 20220217130359650
+modified: 20220218085115944
 modifier: oeyoews
 tags: examples
 title: scratch2
 type: text/vnd.tiddlywiki
 
+<!--
 <div style="text-align: right;background: #073642;border-radius: 5px;">
 [[SCRATCH]]
 
 
-</div> 
+</div>
+-->
+[[SCRATCH]]
