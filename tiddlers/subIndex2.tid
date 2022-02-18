@@ -1,12 +1,12 @@
 created: 20220218071636934
 creator: oeyoews
-modified: 20220218091236591
+modified: 20220218132735900
 modifier: oeyoews
 tags: examples
 title: subIndex2
 type: text/vnd.tiddlywiki
 
-<$appear show="open &raquo;" hide="&laquo; close"  $state="pink-button" selectedClass="pink">
+<$appear show="open more &raquo;" hide="&laquo; close"  $state="pink-button" selectedClass="pink">
 
 <<reuse-tiddler "docs/changelog">>
 
