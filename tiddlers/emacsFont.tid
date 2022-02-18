@@ -1,0 +1,20 @@
+created: 20220125162601662
+creator: oeyoews
+modified: 20220218195916580
+modifier: oeyoews
+status: rework
+stream-list: [[emacs font/20220125174307564]]
+stream-type: default
+tags: Bug emacs
+title: emacsFont
+type: text/vnd.tiddlywiki
+
+* https://emacs-china.org/t/emacs/18009/4 
+
+* 使用font manager, disable all TC fonts.
+
+* 台湾标点符号在中间
+
+* TC: traditional chinese 繁体
+* SC: simple chinese
+* gothic 微软哥特体
