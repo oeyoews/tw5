@@ -1,0 +1,9 @@
+created: 20220119103710847
+creator: oeyoews
+modified: 20220218201432120
+modifier: oeyoews
+tags: git
+title: gitGetBranch
+type: text/vnd.tiddlywiki
+
+* git pull origin gh-pages

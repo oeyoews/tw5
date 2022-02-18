@@ -1,9 +1,9 @@
 created: 20220216121146268
 creator: oeyoews
-modified: 20220217114047180
+modified: 20220218201405718
 modifier: oeyoews
-tags: ??
-title: untitled 1
+tags: examples
+title: shiraz/demo1
 type: text/vnd.tiddlywiki
 
 <<alert primary src:"Primary" class:"border-primary">>
