@@ -1,6 +1,6 @@
 created: 20220216191418980
 creator: oeyoews
-modified: 20220217145110222
+modified: 20220218195049088
 modifier: oeyoews
 tags: examples
 title: subIndex
@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
 
 <<reuse-tiddler "tagmap">>
 
-<<reuse-tiddler "The brains">>
+<<reuse-tiddler "theBrains">>
 
 <<reuse-tiddler "imgGalleryDemo">>
 

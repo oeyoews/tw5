@@ -1,10 +1,11 @@
 created: 20220129082519599
-modified: 20220217114047151
+creator: oeyoews
+modified: 20220218194853039
 modifier: oeyoews
 stream-list: [[git submodule tips/20220130115959742]] [[git submodule tips/20220130120059799]]
 stream-type: default
 tags: git
-title: git submodule tips
+title: gitSubmodules1
 type: text/vnd.tiddlywiki
 
 git submodule url name
@@ -15,3 +16,6 @@ or git clone --depth 1 --recursive
 [img[gitsubmodule.png]] 
 
 > rm submodule repo
+
+* git submodule sync
+* git ls-files –stage | grep 160000

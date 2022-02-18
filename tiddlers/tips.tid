@@ -1,8 +1,9 @@
 created: 20220110153026828
-modified: 20220217114047176
+creator: oeyoews
+modified: 20220218194914979
 modifier: oeyoews
 tags: tips
 title: tips
 type: text/vnd.tiddlywiki
 
-use <kbd>ctrl+c </kbd> or <kbd>ctrl+[ </kbd> to exit insert mode for codemirror editor vim
+ 
