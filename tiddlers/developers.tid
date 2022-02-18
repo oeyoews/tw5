@@ -1,14 +1,15 @@
 created: 20220217153117327
 creator: oeyoews
-modified: 20220217153414865
+modified: 20220218131045430
 modifier: oeyoews
 tags: wiki
 title: developers
 type: text/vnd.tiddlywiki
 
 !!some  developers
-* [[doom emacs|]]
+* [[doom emacsr|]]
 * [[nvim cmp|]]
 * [[TiddlyWiki5| ]]
 * [[kookma plugin|]]
-* [[]]
+* [[tobibeer|https://github.com/tobibeer?tab=repositories]]
+> a filter tw5 plugin developer

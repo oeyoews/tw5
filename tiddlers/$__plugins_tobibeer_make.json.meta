@@ -1,0 +1,12 @@
+author: Tobias Beer
+core-version: >=5.1.9
+dependents: 
+description: Use the make filter to generate unique or random tiddler titles
+documentation: https://tobibeer.github.io/tw5-make
+list: readme
+plugin-type: plugin
+requires: 
+source: https://github.com/tobibeer/tw5-make
+title: $:/plugins/tobibeer/make
+type: application/json
+version: 0.6.0
