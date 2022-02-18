@@ -1,6 +1,6 @@
 created: 20220218071636934
 creator: oeyoews
-modified: 20220218075641941
+modified: 20220218091236591
 modifier: oeyoews
 tags: examples
 title: subIndex2
@@ -21,4 +21,4 @@ type: text/vnd.tiddlywiki
 <<reuse-tiddler "imgGalleryDemo">>
 
 <<reuse-tiddler "footer">>
-Some content for you.</$appear>
+</$appear>
