@@ -1,6 +1,6 @@
 created: 20220218071636934
 creator: oeyoews
-modified: 20220218072151688
+modified: 20220218075641941
 modifier: oeyoews
 tags: examples
 title: subIndex2
@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 
 <$appear show="open &raquo;" hide="&laquo; close"  $state="pink-button" selectedClass="pink">
 
-<summary>More</summary>
+<<reuse-tiddler "docs/changelog">>
 
 <<reuse-tiddler "heatmap">>
 

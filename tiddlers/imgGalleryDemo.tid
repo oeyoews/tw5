@@ -1,11 +1,22 @@
 created: 20220217144842921
 creator: oeyoews
-modified: 20220217145051350
+modified: 20220218080259371
 modifier: oeyoews
 tags: examples
 title: imgGalleryDemo
 type: text/vnd.tiddlywiki
 
+<h2 align="center">
+spanner</h2>
+<details>
+<!--
+<details open="open"
+-->
+<summary>ImgGallery</summary>
+
+
 <h2 align="center"> imgGallery
 </h2>
 {{tid02/carousel}}
+
+</details>
