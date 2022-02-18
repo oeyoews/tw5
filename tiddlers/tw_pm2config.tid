@@ -1,0 +1,10 @@
+created: 20220107070124578
+creator: oeyoews
+modified: 20220218151640646
+modifier: oeyoews
+tags: TiddlyWiki5
+title: tw/pm2config
+type: text/vnd.tiddlywiki
+
+* [[tw deploy server|https://www.cnblogs.com/caibh/p/13762930.html]]
+* use pm2 config

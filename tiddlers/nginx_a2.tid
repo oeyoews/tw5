@@ -1,10 +1,11 @@
 created: 20211230004020393
+creator: oeyoews
 history: []
-modified: 20220217114047164
+modified: 20220218151700717
 modifier: oeyoews
 tags: Linux
 title: nginx/a2
 type: text/vnd.tiddlywiki
 
-in apt system, httpd-tools packname is apache2-utils, apache apache-tools in arch seris
+* in apt system, httpd-tools packname is apache2-utils, apache apache-tools in arch seris
 * this command is htpasswd to setup passwd
