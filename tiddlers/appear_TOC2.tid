@@ -1,0 +1,12 @@
+created: 20220218073330825
+creator: oeyoews
+modified: 20220218074229053
+modifier: oeyoews
+tags: config
+title: appear/TOC2
+type: text/vnd.tiddlywiki
+
+<$appear show="TOC &raquo;" type=popup $state="popup-button">
+
+{{TOC}}
+</$appear>

@@ -1,0 +1,9 @@
+created: 20220218065413683
+creator: oeyoews
+modified: 20220218065507109
+modifier: oeyoews
+tags: examples config
+title: demo/alert
+type: text/vnd.tiddlywiki
+
+<<alert danger "Hello">>

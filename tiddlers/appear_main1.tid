@@ -1,0 +1,9 @@
+created: 20220218072441167
+creator: oeyoews
+modified: 20220218073540518
+modifier: oeyoews
+tags: config
+title: appear/main1
+type: text/vnd.tiddlywiki
+
+<$appear show="oeyoews" type=popup $state="popup-button">  Hello, oeyoews</$appear> 

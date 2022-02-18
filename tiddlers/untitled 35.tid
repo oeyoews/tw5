@@ -1,0 +1,13 @@
+created: 20220218071428386
+creator: oeyoews
+modified: 20220218071457297
+modifier: oeyoews
+tags: ??
+title: untitled 35
+type: text/vnd.tiddlywiki
+
+before <$appear type="popup">
+
+`Hello`
+
+Clicking anywhere outside will close me.</$appear> after
