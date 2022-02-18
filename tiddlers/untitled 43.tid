@@ -1,0 +1,18 @@
+created: 20220218122300096
+creator: oeyoews
+modified: 20220218123342760
+modifier: oeyoews
+tags: ??
+title: untitled 43
+type: text/vnd.tiddlywiki
+
+<script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+
+<orbit-reviewarea color="lime">
+      <orbit-prompt
+        question="What's the working name for Andy's experimental mnemonic medium platform?"
+        answer="Orbit"
+      ></orbit-prompt>
+    </orbit-reviewarea>
+		
+		Demo 
