@@ -1,7 +1,9 @@
 caption: <$text text={{{[{$:/language}removeprefix[$:/]addprefix[$:/plugins/oflg/fishing-analysis/]getindex[fishing]]~[[$:/plugins/oflg/fishing-analysis/languages/en-GB]getindex[fishing]]}}}/>
 created: 20220210174926993
-modified: 20220210174931146
-tags: docs
+creator: oeyoews
+modified: 20220218163035259
+modifier: oeyoews
+tags: $:/tags/SideBar config
 title: $:/core/ui/SideBar/FishingAnalysis
 type: text/vnd.tiddlywiki
 

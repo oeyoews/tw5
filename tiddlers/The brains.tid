@@ -2,7 +2,7 @@ caption: TheBrain
 created: 20220105074538367
 creator: oeyoews
 list-before: $:/core/ui/SideBar/Open
-modified: 20220218080050701
+modified: 20220218164723554
 modifier: oeyoews
 tags: docs
 title: The brains
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 </h2>
 
 <details>
-<summary>thebrain</summary>
+<summary>Thebrain</summary>
 
 
 <$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TheBrain.js" $height=300px/>

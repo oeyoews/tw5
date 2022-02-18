@@ -2,12 +2,12 @@ caption: {{||$:/plugins/oflg/fishing-cannedfish/5500100/SearchWord}}
 created: 20220118152122785
 creator: oeyoews
 difficulty: 8.796371420696278
-due: 20220219160831902
+due: 20220225164043082
 grade: 1
 history: [{"due":"20220217074840757","interval":"0","difficulty":6.1963714206962806,"stability":0.4459868877692133,"retrievability":1,"grade":"0","lapses":1,"reps":1,"review":"20220216074840756"},{"due":"20220217160136635","interval":"0","difficulty":7.396371420696281,"stability":0.4818725280644978,"retrievability":1,"grade":"0","lapses":2,"reps":1,"review":"20220216160136635"},{"due":"20220218160150010","interval":"0","difficulty":8.59637142069628,"stability":0.3569799488361424,"retrievability":1,"grade":"0","lapses":3,"reps":1,"review":"20220217160150009"},{"due":"20220219160831902","interval":"0","difficulty":8.796371420696278,"stability":0.3569799488361424,"retrievability":1,"grade":"1","lapses":3,"reps":2,"review":"20220218160831901"}]
 interval: 0
 lapses: 3
-modified: 20220218160831902
+modified: 20220218164043082
 modifier: oeyoews
 reps: 2
 retrievability: 1

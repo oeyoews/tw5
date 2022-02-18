@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/5500100/SearchWord}}
 created: 20220118152122786
 creator: oeyoews
-difficulty: 5.204133319080166
-due: 20220219160757290
-grade: -1
-history: []
+difficulty: 6.404133319080167
+due: 20220219164028828
+grade: 0
+history: [{"due":"20220219164028828","interval":"0","difficulty":6.404133319080167,"stability":0.7526963703205589,"retrievability":1,"grade":"0","lapses":1,"reps":1,"review":"20220218164028828"}]
 interval: 0
-lapses: 0
-modified: 20220217160757290
+lapses: 1
+modified: 20220218164028828
 modifier: oeyoews
 reps: 1
 retrievability: 1
-review: 20220217160757290
-stability: 0.8780289927780245
+review: 20220218164028828
+stability: 0.7526963703205589
 tags: [[Sentence 3 主题归纳 与“商业合作”有关的词：]] ?
 title: 5500100/20220118152122786204
 type: text/vnd.tiddlywiki

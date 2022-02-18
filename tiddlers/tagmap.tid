@@ -1,6 +1,6 @@
 created: 20220215191711417
 creator: oeyoews
-modified: 20220218153535054
+modified: 20220218164707934
 modifier: oeyoews
 tags: examples
 title: tagmap
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 <h2 align="center"> TagCloud
  </h2>
 
-<<details demo {{TagCloud}} >>
+<<details TagCloud {{TagCloud}} >>
