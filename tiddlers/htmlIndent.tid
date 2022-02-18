@@ -1,9 +1,10 @@
-caption: html indent
+caption: htmlIndent
 created: 20220107173929657
-modified: 20220217114047154
+creator: oeyoews
+modified: 20220218192856669
 modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet snippets
-title: html indent
+title: htmlIndent
 type: text/vnd.tiddlywiki
 
 <p style="text-indent:2em">

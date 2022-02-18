@@ -1,0 +1,10 @@
+created: 20220125052014182
+creator: oeyoews
+modified: 20220218192438464
+modifier: oeyoews
+status: rework
+tags: bug
+title: neteaseFcitx5
+type: text/vnd.tiddlywiki
+
+* in neteasecloud, setup this fcitx5 pop menu is verical, to enter Chinese fonts.

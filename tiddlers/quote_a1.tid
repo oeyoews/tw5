@@ -1,10 +1,10 @@
 caption: quote
 created: 20220109145321097
 creator: oeyoews
-modified: 20220217114047168
+modified: 20220218192713672
 modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet snippets examples
-title: quote
+title: quote/a1
 type: text/vnd.tiddlywiki
 
  <<alert primary src:"$1

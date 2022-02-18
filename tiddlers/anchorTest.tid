@@ -1,9 +1,9 @@
 created: 20220216155637809
 creator: oeyoews
-modified: 20220216155651967
+modified: 20220218192543534
 modifier: oeyoews
 tags: examples
-title: anchortest
+title: anchorTest
 type: text/vnd.tiddlywiki
 
-hello, anchor
+* hello, anchor

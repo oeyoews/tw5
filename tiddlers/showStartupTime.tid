@@ -1,0 +1,9 @@
+created: 20220113174856491
+creator: oeyoews
+modified: 20220218192745815
+modifier: oeyoews
+tags: Linux
+title: showStartupTime
+type: text/vnd.tiddlywiki
+
+* systemd-analyze
