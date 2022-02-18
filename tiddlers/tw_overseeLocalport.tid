@@ -1,9 +1,9 @@
 created: 20220212182002199
 creator: oeyoews
-modified: 20220217114047178
+modified: 20220218195652923
 modifier: oeyoews
 tags: TiddlyWiki5
-title: tw net local
+title: tw/overseeLocalport
 type: text/vnd.tiddlywiki
 
-use `tiddlywiki . --listen port:8090 host=0.0.0.0`
+* use `tiddlywiki . --listen port:8090 host=0.0.0.0`
