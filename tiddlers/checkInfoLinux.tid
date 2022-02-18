@@ -1,0 +1,9 @@
+created: 20220113174720439
+creator: oeyoews
+modified: 20220218144811235
+modifier: oeyoews
+tags: Linux tips
+title: checkInfoLinux
+type: text/vnd.tiddlywiki
+
+* cat /etc/os-release

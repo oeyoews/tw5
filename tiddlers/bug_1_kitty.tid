@@ -1,0 +1,11 @@
+created: 20211230003544329
+modified: 20220218145727918
+modifier: oeyoews
+status: rework
+tags: Bug
+title: bug/1/kitty
+type: text/vnd.tiddlywiki
+
+it's wired for kitty use window + enter (some is wrong in delay) may be 卡顿， just reboot your terminal
+
+<kbd>shift click</kbd> jump url in browser

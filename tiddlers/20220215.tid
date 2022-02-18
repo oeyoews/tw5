@@ -1,6 +1,6 @@
 created: 20220215072928879
 creator: oeyoews
-modified: 20220217114047104
+modified: 20220218145023971
 modifier: oeyoews
 tags: Journal
 title: 20220215
@@ -8,4 +8,4 @@ type: text/vnd.tiddlywiki
 
  <<hslines "20220215"   1 2  "" "html">>
 
-*8 [[examples|https://kookma.github.io/TW-Hsl/]]
+* [[highlightExamples|https://kookma.github.io/TW-Hsl/]]

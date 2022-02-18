@@ -1,0 +1,9 @@
+created: 20220210172343969
+creator: oeyoews
+modified: 20220218150424993
+modifier: oeyoews
+tags: nvim markdown
+title: vimMarkdownJumpAnchor
+type: text/vnd.tiddlywiki
+
+* for vim-markdown anchor, don't exist like this <kbd>white space</kbd> space, to better jump use <kbd>ge</kbd>

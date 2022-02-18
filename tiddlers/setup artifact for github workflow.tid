@@ -1,9 +1,0 @@
-created: 20220118101649222
-creator: oeyoews
-modified: 20220217114047170
-modifier: oeyoews
-tags: tips github
-title: setup artifact for github workflow
-type: text/vnd.tiddlywiki
-
-[[github actions|https://docs.github.com/cn/organizations/managing-organization-settings/configuring-the-retention-period-for-github-actions-artifacts-and-logs-in-your-organization]]

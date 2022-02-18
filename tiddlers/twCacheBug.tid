@@ -1,0 +1,9 @@
+created: 20220212164320131
+creator: oeyoews
+modified: 20220218145744008
+modifier: oeyoews
+tags: bug/1 todo done
+title: twCacheBug
+type: text/vnd.tiddlywiki
+
+* tw refresh is nothing, must be close current window

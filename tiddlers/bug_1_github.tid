@@ -1,0 +1,21 @@
+created: 20211227093201583
+difficulty: 5
+due: 20220114165958470
+factor: 2.65
+history: []
+interval: 0
+lapses: 0
+modified: 20220218145727842
+modifier: oeyoews
+recall: 1
+reps: 1
+review: 20220112165958469
+stability: 2
+status: rework
+tags: Bug archive fixed
+title: bug/1/github
+type: text/vnd.tiddlywiki
+
+* [[set-node|https://github.com/actions/setup-node/issues/354]]
+* use this latest version（for all actions) __v2.5.0__ 
+* waiting ...
