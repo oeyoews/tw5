@@ -1,8 +1,9 @@
 created: 20211230020144181
-modified: 20220217114047176
+creator: oeyoews
+modified: 20220218194107617
 modifier: oeyoews
-tags: Linux tips
-title: time img
+tags: Linux
+title: timeImg
 type: text/vnd.tiddlywiki
 
 * systemd-anayse plot > /tmp/time.svg

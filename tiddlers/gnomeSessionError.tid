@@ -1,8 +1,9 @@
 created: 20220115164244961
-modified: 20220217114047152
+creator: oeyoews
+modified: 20220218194206442
 modifier: oeyoews
 tags: gnome tips
-title: gnome session
+title: gnomeSessionError
 type: text/vnd.tiddlywiki
 
 remove .config/monitor.xml
