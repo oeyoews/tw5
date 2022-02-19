@@ -1,10 +1,11 @@
 created: 20220103152730212
+creator: oeyoews
 difficulty: 5
 due: 20220114170158900
 history: []
 interval: 0
 lapses: 0
-modified: 20220217114047118
+modified: 20220219142224862
 modifier: oeyoews
 recall: 1
 reps: 1
@@ -14,4 +15,5 @@ tags: tips
 title: browser/a1
 type: text/vnd.tiddlywiki
 
-* `alt+p`  // pin a tag page
+* `alt+p` 
+> pin a tag page

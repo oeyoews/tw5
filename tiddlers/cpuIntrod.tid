@@ -1,9 +1,9 @@
 created: 20220131090510713
 creator: oeyoews
-modified: 20220217114047121
+modified: 20220219142039639
 modifier: oeyoews
 tags: wiki
-title: cpu introd
+title: cpuIntrod
 type: text/vnd.tiddlywiki
 
 这里要区别CPU负载和CPU利用率，它们是差别的两个概念，但它们的信息可以在同一个top下令中举行表现。CPU利用率表现的是程序在运行期间实时占用的CPU百分比，这是对一个时间段内CPU利用状态的统计，通过这个指标可以看出在某一个时间段内CPU被占用的环境，
