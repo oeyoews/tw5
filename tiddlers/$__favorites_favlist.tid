@@ -1,7 +1,7 @@
 created: 20220103042943419
 creator: oeyoews
-list: $:/config/SyncFilter booklist $:/plugins/kookma/utility/author/exclude-items [[sub Index]] $:/oeyoews/settings/tiddler-icons [[power settings]]
-modified: 20220215104942114
+list: $:/config/SyncFilter booklist $:/plugins/kookma/utility/author/exclude-items [[sub Index]] $:/oeyoews/settings/tiddler-icons powerSettings
+modified: 20220219073415553
 modifier: oeyoews
 title: $:/favorites/favlist
 type: text/vnd.tiddlywiki

@@ -1,8 +1,9 @@
 created: 20220207041859821
-modified: 20220217114047166
+creator: oeyoews
+modified: 20220219073415536
 modifier: oeyoews
 tags: Linux
-title: power settings
+title: powerSettings
 type: text/vnd.tiddlywiki
 
 don't setup suspend autoically for power

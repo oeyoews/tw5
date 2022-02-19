@@ -1,14 +1,13 @@
 created: 20220109063647809
 creator: oeyoews
-modified: 20220218145921405
+modified: 20220219072913611
 modifier: oeyoews
 tags: usage TiddlyWiki5
 title: tw/usage1
 type: text/vnd.tiddlywiki
 
 <<wikitext-example-without-html 
-src:"""; define this is ademo
-: hello thisi s ad emo
-; test define
-: hello
-""">>
+src:
+"""de
+"""
+>>
