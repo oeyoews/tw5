@@ -1,10 +1,10 @@
 created: 20220218132032740
 creator: oeyoews
-modified: 20220218132110739
+modified: 20220220054537450
 modifier: oeyoews
 tags: TiddlyWiki5
 title: plugins/motion
 type: text/vnd.tiddlywiki
 
-* $:/plugins/benwebber/motion
+* [[$:/plugins/benwebber/motion]]
 > like vim shortcuts

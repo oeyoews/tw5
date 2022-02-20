@@ -1,13 +1,13 @@
 created: 20220110064850710
 creator: oeyoews
 icon: 
-modified: 20220217114047151
+modified: 20220220054513198
 modifier: oeyoews
 page-cover: 
 stream-list: 
 stream-type: default
-tags: git tips
-title: git push
+tags: git
+title: gitPush
 type: text/vnd.tiddlywiki
 
-git push -u url
+* git push -u url
