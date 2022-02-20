@@ -1,12 +1,9 @@
 created: 20220218082127596
 creator: oeyoews
-modified: 20220218082741758
+modified: 20220220053442555
 modifier: oeyoews
 tags: config
 title: appear/NeteaseMusic
 type: text/vnd.tiddlywiki
 
-<$appear show="NeteaseMusic &raquo;" hide=" &laquo; NeteaseMusic close " $state="popup-button">
-
-{{netmusic}}
-</$appear>
+[[netmusic]]
