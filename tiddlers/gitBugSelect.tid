@@ -1,8 +1,9 @@
 created: 20211229090321045
-modified: 20220217114047151
+creator: oeyoews
+modified: 20220220055647667
 modifier: oeyoews
 tags: git
-title: git bug select
+title: gitBugSelect
 type: text/vnd.tiddlywiki
 
 * git bisect 
