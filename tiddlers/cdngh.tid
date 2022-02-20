@@ -1,10 +1,10 @@
 caption: cdngh
 created: 20220131122645081
 creator: oeyoews
-modified: 20220217114047119
+modified: 20220220075921695
 modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet docs
 title: cdngh
 type: text/vnd.tiddlywiki
 
-[img width=512 [https://cdn.jsDelivr.net/gh/oeyoews/img/.png]]
+[img width=512 [https://cdn.jsDelivr.net/gh/oeyoews/img/$1.png]]
