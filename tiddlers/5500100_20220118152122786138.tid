@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/5500100/SearchWord}}
 created: 20220118152122786
 creator: oeyoews
-difficulty: 6.291056749287828
-due: 20220219162411175
+difficulty: 7.360434592266837
+due: 20220221045649922
 grade: 0
-history: [{"due":"20220219162411175","interval":"1","difficulty":6.291056749287828,"stability":0.7526963703205589,"retrievability":0.8869234302076622,"grade":"0","lapses":1,"reps":1,"review":"20220218162411175"}]
+history: [{"due":"20220219162411175","interval":"1","difficulty":6.291056749287828,"stability":0.7526963703205589,"retrievability":0.8869234302076622,"grade":"0","lapses":1,"reps":1,"review":"20220218162411175"},{"due":"20220221045649922","interval":"1","difficulty":7.360434592266837,"stability":0.5954805146294468,"retrievability":0.8693778429790089,"grade":"0","lapses":2,"reps":1,"review":"20220220045649922"}]
 interval: 1
-lapses: 1
-modified: 20220218162411175
+lapses: 2
+modified: 20220220045649922
 modifier: oeyoews
 reps: 1
-retrievability: 0.8869234302076622
-review: 20220218162411175
-stability: 0.7526963703205589
+retrievability: 0.8693778429790089
+review: 20220220045649922
+stability: 0.5954805146294468
 tags: [[Sentence 3 核心词表]] ?
 title: 5500100/20220118152122786138
 type: text/vnd.tiddlywiki

@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/5500100/SearchWord}}
 created: 20220118152122785
 creator: oeyoews
-difficulty: 7.023272507067218
-due: 20220219161116392
+difficulty: 7.0268769589515685
+due: 20220221042835294
 grade: 1
-history: [{"due":"20220217141935133","interval":"1","difficulty":4.497485068135542,"stability":2.7327109550771085,"retrievability":0.12157665459056936,"grade":"1","lapses":0,"reps":2,"review":"20220214141935133"},{"due":"20220217160414427","interval":"2","difficulty":5.623272507067218,"stability":0.650459876136777,"retrievability":0.9257874389316756,"grade":"0","lapses":1,"reps":1,"review":"20220216160414427"},{"due":"20220218160607183","interval":"0","difficulty":6.823272507067218,"stability":0.4818725280644978,"retrievability":1,"grade":"0","lapses":2,"reps":1,"review":"20220217160607183"},{"due":"20220219161116392","interval":"0","difficulty":7.023272507067218,"stability":0.4818725280644978,"retrievability":1,"grade":"1","lapses":2,"reps":2,"review":"20220218161116392"}]
-interval: 0
+history: [{"due":"20220217141935133","interval":"1","difficulty":4.497485068135542,"stability":2.7327109550771085,"retrievability":0.12157665459056936,"grade":"1","lapses":0,"reps":2,"review":"20220214141935133"},{"due":"20220217160414427","interval":"2","difficulty":5.623272507067218,"stability":0.650459876136777,"retrievability":0.9257874389316756,"grade":"0","lapses":1,"reps":1,"review":"20220216160414427"},{"due":"20220218160607183","interval":"0","difficulty":6.823272507067218,"stability":0.4818725280644978,"retrievability":1,"grade":"0","lapses":2,"reps":1,"review":"20220217160607183"},{"due":"20220219161116392","interval":"0","difficulty":7.023272507067218,"stability":0.4818725280644978,"retrievability":1,"grade":"1","lapses":2,"reps":2,"review":"20220218161116392"},{"due":"20220221042835294","interval":"1","difficulty":7.0268769589515685,"stability":2.336426494629407,"retrievability":0.8036044518843506,"grade":"1","lapses":2,"reps":3,"review":"20220220042835293"}]
+interval: 1
 lapses: 2
-modified: 20220218161116392
+modified: 20220220042835294
 modifier: oeyoews
-reps: 2
-retrievability: 1
-review: 20220218161116392
-stability: 0.4818725280644978
+reps: 3
+retrievability: 0.8036044518843506
+review: 20220220042835293
+stability: 2.336426494629407
 tags: [[Sentence 1 核心词表]] ?
 title: 5500100/20220118152122785859
 type: text/vnd.tiddlywiki

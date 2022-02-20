@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/5500100/SearchWord}}
 created: 20220118152122786
 creator: oeyoews
-difficulty: 6.291056749287828
-due: 20220219162122735
+difficulty: 7.360434592266837
+due: 20220221045552143
 grade: 0
-history: [{"due":"20220219162122735","interval":"1","difficulty":6.291056749287828,"stability":0.7526963703205589,"retrievability":0.8869234302076622,"grade":"0","lapses":1,"reps":1,"review":"20220218162122735"}]
+history: [{"due":"20220219162122735","interval":"1","difficulty":6.291056749287828,"stability":0.7526963703205589,"retrievability":0.8869234302076622,"grade":"0","lapses":1,"reps":1,"review":"20220218162122735"},{"due":"20220221045552143","interval":"1","difficulty":7.360434592266837,"stability":0.5954805146294468,"retrievability":0.8693778429790089,"grade":"0","lapses":2,"reps":1,"review":"20220220045552143"}]
 interval: 1
-lapses: 1
-modified: 20220218162122735
+lapses: 2
+modified: 20220220045552143
 modifier: oeyoews
 reps: 1
-retrievability: 0.8869234302076622
-review: 20220218162122735
-stability: 0.7526963703205589
+retrievability: 0.8693778429790089
+review: 20220220045552143
+stability: 0.5954805146294468
 tags: [[Sentence 2 主题归纳 与“音乐家”有关的词：]] ?
 title: 5500100/20220118152122786116
 type: text/vnd.tiddlywiki

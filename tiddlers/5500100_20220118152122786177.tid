@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/5500100/SearchWord}}
 created: 20220118152122786
 creator: oeyoews
-difficulty: 4.291056749287828
-due: 20220219162533031
-grade: 2
-history: [{"due":"20220219162533031","interval":"1","difficulty":4.291056749287828,"stability":3.21321563174711,"retrievability":0.8869234302076622,"grade":"2","lapses":0,"reps":2,"review":"20220218162533031"}]
+difficulty: 4.458798761751936
+due: 20220221045815720
+grade: 1
+history: [{"due":"20220219162533031","interval":"1","difficulty":4.291056749287828,"stability":3.21321563174711,"retrievability":0.8869234302076622,"grade":"2","lapses":0,"reps":2,"review":"20220218162533031"},{"due":"20220221045815720","interval":"1","difficulty":4.458798761751936,"stability":4.970780930926938,"retrievability":0.9677420124641076,"grade":"1","lapses":0,"reps":3,"review":"20220220045815720"}]
 interval: 1
 lapses: 0
-modified: 20220218162533031
+modified: 20220220045815720
 modifier: oeyoews
-reps: 2
-retrievability: 0.8869234302076622
-review: 20220218162533031
-stability: 3.21321563174711
+reps: 3
+retrievability: 0.9677420124641076
+review: 20220220045815720
+stability: 4.970780930926938
 tags: [[Sentence 3 主题归纳 与“商业合作”有关的词：]] ?
 title: 5500100/20220118152122786177
 type: text/vnd.tiddlywiki

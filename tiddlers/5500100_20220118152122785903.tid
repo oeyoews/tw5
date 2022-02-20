@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/5500100/SearchWord}}
 created: 20220118152122785
 creator: oeyoews
-difficulty: 1.996371420696281
-due: 20220219161213603
+difficulty: 1.035818495021234
+due: 20220221043210482
 grade: 2
-history: [{"due":"20220217074826400","interval":"0","difficulty":4.1963714206962806,"stability":0.602019328518683,"retrievability":1,"grade":"2","lapses":0,"reps":2,"review":"20220216074826400"},{"due":"20220217160122937","interval":"0","difficulty":3.3963714206962807,"stability":0.602019328518683,"retrievability":1,"grade":"2","lapses":0,"reps":3,"review":"20220216160122936"},{"due":"20220218111843325","interval":"0","difficulty":3.596371420696281,"stability":0.602019328518683,"retrievability":1,"grade":"1","lapses":0,"reps":4,"review":"20220217111843325"},{"due":"20220218160657564","interval":"0","difficulty":2.796371420696281,"stability":0.602019328518683,"retrievability":1,"grade":"2","lapses":0,"reps":5,"review":"20220217160657564"},{"due":"20220219161213603","interval":"0","difficulty":1.996371420696281,"stability":0.602019328518683,"retrievability":1,"grade":"2","lapses":0,"reps":6,"review":"20220218161213603"}]
-interval: 0
+history: [{"due":"20220217074826400","interval":"0","difficulty":4.1963714206962806,"stability":0.602019328518683,"retrievability":1,"grade":"2","lapses":0,"reps":2,"review":"20220216074826400"},{"due":"20220217160122937","interval":"0","difficulty":3.3963714206962807,"stability":0.602019328518683,"retrievability":1,"grade":"2","lapses":0,"reps":3,"review":"20220216160122936"},{"due":"20220218111843325","interval":"0","difficulty":3.596371420696281,"stability":0.602019328518683,"retrievability":1,"grade":"1","lapses":0,"reps":4,"review":"20220217111843325"},{"due":"20220218160657564","interval":"0","difficulty":2.796371420696281,"stability":0.602019328518683,"retrievability":1,"grade":"2","lapses":0,"reps":5,"review":"20220217160657564"},{"due":"20220219161213603","interval":"0","difficulty":1.996371420696281,"stability":0.602019328518683,"retrievability":1,"grade":"2","lapses":0,"reps":6,"review":"20220218161213603"},{"due":"20220221043210482","interval":"1","difficulty":1.035818495021234,"stability":7.3954514255347,"retrievability":0.8394470743249529,"grade":"2","lapses":0,"reps":7,"review":"20220220043210482"}]
+interval: 1
 lapses: 0
-modified: 20220218161213603
+modified: 20220220043210482
 modifier: oeyoews
-reps: 6
-retrievability: 1
-review: 20220218161213603
-stability: 0.602019328518683
+reps: 7
+retrievability: 0.8394470743249529
+review: 20220220043210482
+stability: 7.3954514255347
 tags: [[Sentence 1 主题归纳 与“自我感觉良好”有关的词：]] ?
 title: 5500100/20220118152122785903
 type: text/vnd.tiddlywiki
