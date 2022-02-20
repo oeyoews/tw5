@@ -1,0 +1,9 @@
+created: 20220130134204570
+creator: oeyoews
+modified: 20220220131621422
+modifier: oeyoews
+tags: frontend
+title: markdownLint
+type: text/vnd.tiddlywiki
+
+* [[markdownlint|https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md#md013---line-length]]

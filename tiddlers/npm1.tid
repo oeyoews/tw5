@@ -1,0 +1,18 @@
+created: 20220131222644482
+creator: oeyoews
+due: 20220221124238296
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220220131805135
+modifier: oeyoews
+reps: 1
+retrievability: 1
+review: 20220220124238296
+stability: 1.136788053021157
+tags: frontend
+title: npm1
+type: text/vnd.tiddlywiki
+
+* npm root -g

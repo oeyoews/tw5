@@ -1,8 +1,18 @@
 created: 20220201094153982
-modified: 20220217114047181
+creator: oeyoews
+due: 20220221132505271
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220220132505271
 modifier: oeyoews
-tags: ??
-title: untitled 22
+reps: 1
+retrievability: 1
+review: 20220220132505271
+stability: 1.136788053021157
+tags: ?? ?
+title: timezoneStand
 type: text/vnd.tiddlywiki
 
 T表示分隔符，Z表示的是UTC。

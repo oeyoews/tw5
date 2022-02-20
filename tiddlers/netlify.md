@@ -1,1 +1,0 @@
-[<img src="https://api.netlify.com/api/v1/badges/2a2a2a02-e09a-4909-b4dd-0079e879b37d/deploy-status" alt="Netlify Status" style="zoom:100%;" />](https://app.netlify.com/sites/hugo2/deploys)

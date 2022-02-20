@@ -1,3 +1,0 @@
-[demo](#anchortest)
-
-* anchor test

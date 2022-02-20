@@ -1,8 +1,17 @@
 created: 20220201092602485
 creator: oeyoews
-modified: 20220217114047151
+due: 20220221132411510
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220220132411510
 modifier: oeyoews
-tags: ?? Linux
+reps: 1
+retrievability: 1
+review: 20220220132411510
+stability: 1.136788053021157
+tags: ?? Linux ?
 title: git branch tips
 type: text/vnd.tiddlywiki
 
