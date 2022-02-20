@@ -2,7 +2,7 @@ caption: Recently added
 created: 20200103090757281
 creator: a revised version of Andrew Harrison favorite plugin
 list: $:/config/SyncFilter booklist $:/plugins/kookma/utility/author/exclude-items [[sub Index]] $:/oeyoews/settings/tiddler-icons [[Image and Icons]] [[Favorites More Examples]]
-modified: 20220215104942114
+modified: 20220220145300496
 modifier: oeyoews
 tags: $:/tags/Favorites/Folder
 title: $:/plugins/kookma/favorites/recent
