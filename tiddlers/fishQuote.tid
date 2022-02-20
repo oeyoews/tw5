@@ -1,11 +1,12 @@
 caption: fquote
 created: 20220111085329627
-modified: 20220217114047149
+creator: oeyoews
+modified: 20220220032729546
 modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet snippets
-title: fish quote
+title: fishQuote
 type: text/vnd.tiddlywiki
 
 <<<.tc-fish-quote
-
+$1
 <<<
