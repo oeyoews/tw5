@@ -1,13 +1,11 @@
 created: 20201210171047824
 creator: oeyoews
 description: Show all todos scheduled for today
-modified: 20220213084003985
+modified: 20220220051227608
 modifier: oeyoews
-tags: deprecated
+tags: $:/tags/PageControls
 title: $:/plugins/nico/projectify/ui/buttons/Scheduled
 type: text/vnd.tiddlywiki
-
-/** $:/tags/PageControls */ 
 
 \define lingo-base() $:/language/projectify/
 
