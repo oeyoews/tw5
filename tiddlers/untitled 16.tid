@@ -1,17 +1,18 @@
 created: 20220131221441477
 creator: oeyoews
-due: 20220221124243625
-grade: -1
-history: []
+difficulty: NaN
+due: 20220221162631277
+grade: 2
+history: [{"due":"20220221162631277","interval":"0","difficulty":null,"stability":null,"retrievability":1,"grade":"2","lapses":0,"reps":2,"review":"20220220162631277"}]
 interval: 0
 lapses: 0
-modified: 20220220124243625
+modified: 20220220162853251
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220220124243625
-stability: 1.136788053021157
-tags: ?? ?
+review: 20220220162631277
+stability: NaN
+tags: ??
 title: untitled 16
 type: text/vnd.tiddlywiki
 
