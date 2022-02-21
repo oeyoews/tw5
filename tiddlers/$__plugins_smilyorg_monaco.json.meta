@@ -1,0 +1,11 @@
+author: Miha Lunar
+core-version: >=5.1.21
+dependents: 
+description: Monaco Editor packaged for TiddlyWiki
+list: readme license
+name: Monaco
+plugin-type: plugin
+source: https://github.com/smilyorg/tw5-monaco
+title: $:/plugins/smilyorg/monaco
+type: application/json
+version: 0.1.0
