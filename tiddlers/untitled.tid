@@ -1,0 +1,16 @@
+created: 20220221123432700
+creator: oeyoews
+modified: 20220221123659014
+modifier: oeyoews
+tags: ??
+title: untitled
+type: text/vnd.tiddlywiki
+
+<$button> 
+<$list filter="tag[??]">
+<$action-setfield 
+$tiddler={{{[<currentTiddler>addprefix[$:/state/folded/]]}}}
+text="hide"
+/>
+</$list>
+</$button>
