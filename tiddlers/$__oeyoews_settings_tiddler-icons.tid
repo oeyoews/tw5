@@ -1,7 +1,7 @@
 caption: selficon
 created: 20220212075520970
 creator: oeyoews
-modified: 20220221071930026
+modified: 20220221072356323
 modifier: oeyoews
 tags: $:/tags/TiddlerIconFilter Source
 title: $:/oeyoews/settings/tiddler-icons
@@ -34,3 +34,5 @@ type: text/vnd.tiddlywiki
 [tag[?]then[$:/plugins/oflg/fishing/icon]]
 
 [tag[408]then[$:/images/coreui-icons/brand/cib-safari]]
+
+[tag[Index]then[$:/plugins/kookma/todolist/images/lightbulb]]
