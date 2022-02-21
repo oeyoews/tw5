@@ -1,7 +1,7 @@
 abstract: Navigate to a random tiddler
 created: 20210725102925324
 creator: oeyoews
-modified: 20220221025832272
+modified: 20220221030953051
 modifier: oeyoews
 tags: $:/tags/Actions
 title: $:/core/ui/Actions/RandomSelection
@@ -11,4 +11,4 @@ type: text/vnd.tiddlywiki
 <$action-navigate $to="$link$" />
 \end
 
-<$macrocall $name="navigateTo" link={{{ [!is[system]random[1]!tag[todo]!tag[snippets]!tag[docs]!tag[examples]!tag[$:/tags/TextEditor/Snippet]!prefix[-]!tag[done]!tag[$:/tags/Stylesheet]]}}} />
+<$macrocall $name="navigateTo" link={{{ [!is[system]random[1]!tag[todo]!tag[snippets]!tag[docs]!tag[examples]!tag[$:/tags/TextEditor/Snippet]!prefix[-]!tag[done]!tag[$:/tags/Stylesheet]!prefix[$:/tags/]!prefix[xx$]!tag[Project]!tag[private]!tag[deprecated]!tag[jpg]]}}} />
