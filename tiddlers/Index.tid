@@ -2,7 +2,7 @@ color: #aff024
 created: 20211226085802818
 creator: oeyoews
 keywords: Index
-modified: 20220221082135623
+modified: 20220221150639290
 modifier: oeyoews
 rating: 5
 sticky-footer: Index
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 
 {{indexStatus}}
 
-{{getMorePlugins}}
+[[getMorePlugins]]
 
 <<reuse-tiddler "appear/TOC2">>
 
