@@ -1,18 +1,10 @@
 created: 20220202112857453
 creator: oeyoews
-difficulty: NaN
-due: 20220222125912595
 grade: 1
 history: [{"due":"20220222125912595","interval":"1","difficulty":null,"stability":null,"retrievability":0.9114827243340647,"grade":"1","lapses":0,"reps":2,"review":"20220221125912595"}]
-interval: 1
-lapses: 0
-modified: 20220221125912595
+modified: 20220221235535438
 modifier: oeyoews
-reps: 2
-retrievability: 0.9114827243340647
-review: 20220221125912595
-stability: NaN
-tags: ?? ?
+tags: ??
 title: untitled 33
 type: text/vnd.tiddlywiki
 

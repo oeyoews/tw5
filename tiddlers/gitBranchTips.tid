@@ -1,19 +1,11 @@
 created: 20220201092602485
 creator: oeyoews
-difficulty: NaN
-due: 20220222125901538
 grade: 1
 history: [{"due":"20220222125901538","interval":"1","difficulty":null,"stability":null,"retrievability":0.9114827243340647,"grade":"1","lapses":0,"reps":2,"review":"20220221125901538"}]
-interval: 1
-lapses: 0
-modified: 20220221125901538
+modified: 20220221235511370
 modifier: oeyoews
-reps: 2
-retrievability: 0.9114827243340647
-review: 20220221125901538
-stability: NaN
-tags: ?? Linux ?
-title: git branch tips
+tags: ?? Linux
+title: gitBranchTips
 type: text/vnd.tiddlywiki
 
 * don't use multi branch workflows to deploy gh-pages
