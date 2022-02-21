@@ -1,0 +1,11 @@
+created: 20220221032611286
+creator: oeyoews
+modified: 20220221032941789
+modifier: oeyoews
+tags: examples
+title: fixIcon
+type: text/vnd.tiddlywiki
+
+<<.link-badge-fixed "https://github.com/Jermolene/TiddlyWiki5/pull/6438">>
+
+<<.warning Demo>>
