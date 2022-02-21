@@ -1,9 +1,9 @@
 created: 20220215090227078
 creator: oeyoews
-modified: 20220217114047121
+modified: 20220221070651839
 modifier: oeyoews
 tags: Linux
-title: cp interactive
+title: cpInteractive
 type: text/vnd.tiddlywiki
 
 `cp -i`
