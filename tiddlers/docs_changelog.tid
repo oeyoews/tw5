@@ -1,6 +1,6 @@
 created: 20220218075024799
 creator: oeyoews
-modified: 20220218164636415
+modified: 20220221082222774
 modifier: oeyoews
 tags: docs
 title: docs/changelog
@@ -9,6 +9,7 @@ type: text/vnd.tiddlywiki
 <h2 align="center">CHANGELOG
 </h2>
 
+* ''16:22, 21st February 2022'' -- deprecated fishing plugin
 
 * ''00:45, 19th February 2022'' -- deprecated two columns layout
 
