@@ -1,9 +1,9 @@
 created: 20220115172138460
 creator: oeyoews
-modified: 20220217114047122
+modified: 20220221094853775
 modifier: oeyoews
 tags: Linux
-title: dmesg introd
+title: dmesgIntrod
 type: text/vnd.tiddlywiki
 
-sudo dmesg | more
+* dmesg | more
