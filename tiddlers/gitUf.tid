@@ -1,8 +1,9 @@
 created: 20220128134547160
-modified: 20220217114047150
+creator: oeyoews
+modified: 20220221065303915
 modifier: oeyoews
 tags: git
-title: git -uf
+title: gitUf
 type: text/vnd.tiddlywiki
 
 git -uf origin main

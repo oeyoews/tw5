@@ -1,8 +1,9 @@
 created: 20220108091444713
-modified: 20220217114047148
+creator: oeyoews
+modified: 20220221065427390
 modifier: oeyoews
-tags: tips
-title: favicon tips
+tags: TiddlyWiki5
+title: faviconTips
 type: text/vnd.tiddlywiki
 
 > this favicon's tiddler filetype must be png format, can't use reference to instead of it.

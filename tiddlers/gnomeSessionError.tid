@@ -1,9 +1,9 @@
 created: 20220115164244961
 creator: oeyoews
-modified: 20220218194206442
+modified: 20220221065231154
 modifier: oeyoews
 tags: gnome tips
 title: gnomeSessionError
 type: text/vnd.tiddlywiki
 
-remove .config/monitor.xml
+* remove .config/monitor.xml

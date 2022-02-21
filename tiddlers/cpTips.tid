@@ -1,8 +1,9 @@
 created: 20220113094725048
-modified: 20220217114047121
+creator: oeyoews
+modified: 20220221065343844
 modifier: oeyoews
 tags: Linux tips
-title: cp tips
+title: cpTips
 type: text/vnd.tiddlywiki
 
 1、cp -r ：cp -r既复制当前目录下的文件，也复制当前目录下的文件夹。
