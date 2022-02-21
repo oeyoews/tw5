@@ -1,8 +1,18 @@
 created: 20220221084520661
 creator: oeyoews
-modified: 20220221084536010
+difficulty: 5
+due: 20220223134523232
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220221134523232
 modifier: oeyoews
-tags: EnglishWord
+reps: 1
+retrievability: 1
+review: 20220221134523232
+stability: 2
+tags: EnglishWord ?
 title: match
 type: text/vnd.tiddlywiki
 

@@ -1,9 +1,19 @@
 created: 20220118091016330
 creator: oeyoews
-modified: 20220218145408412
+difficulty: 5
+due: 20220223133255167
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220221133255167
 modifier: oeyoews
+reps: 1
+retrievability: 1
+review: 20220221133255167
 se-type: 
-tags: EnglishWord
+stability: 2
+tags: EnglishWord ?
 title: CET
 type: text/vnd.tiddlywiki
 
