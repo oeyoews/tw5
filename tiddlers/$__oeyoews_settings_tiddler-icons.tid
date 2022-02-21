@@ -1,7 +1,7 @@
 caption: selficon
 created: 20220212075520970
 creator: oeyoews
-modified: 20220221071703554
+modified: 20220221071930026
 modifier: oeyoews
 tags: $:/tags/TiddlerIconFilter Source
 title: $:/oeyoews/settings/tiddler-icons
@@ -32,3 +32,5 @@ type: text/vnd.tiddlywiki
 [tag[wine]then[$:/images/google-material-design/maps/two-tone/24px/wine-bar]]
 
 [tag[?]then[$:/plugins/oflg/fishing/icon]]
+
+[tag[408]then[$:/images/coreui-icons/brand/cib-safari]]
