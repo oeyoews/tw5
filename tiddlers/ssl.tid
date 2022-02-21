@@ -1,9 +1,9 @@
 created: 20220212121811021
 creator: oeyoews
-modified: 20220217114047172
+modified: 20220221064437974
 modifier: oeyoews
 tags: wiki
 title: ssl
 type: text/vnd.tiddlywiki
 
-SSL(Secure Sockets Layer 安全套接字协议),及其继任者传输层安全（Transport Layer Security，TLS）是为网络通信提供安全及数据完整性的一种安全协议。
+* SSL(Secure Sockets Layer 安全套接字协议),及其继任者传输层安全（Transport Layer Security，TLS）是为网络通信提供安全及数据完整性的一种安全协议。

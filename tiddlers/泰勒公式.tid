@@ -1,6 +1,6 @@
 created: 20220221015528443
 creator: oeyoews
-modified: 20220221034256583
+modified: 20220221034554846
 modifier: oeyoews
 tags: ??
 title: 泰勒公式
@@ -9,3 +9,9 @@ type: text/vnd.tiddlywiki
 !! taylor
 * 泰勒公式是将一个在x=x0处具有n阶导数的函数f(x)利用关于(x-x0)的n次多项式来逼近函数的方法。
 * 泰勒公式一句话描述：就是用多项式函数去逼近光滑函数
+* <div style="text-align: center">
+<p> 
+</p>
+<img src="https://cdn.jsDelivr.net/gh/oeyoews/img/taylor1.png
+" title="img" alt="img" style="zoom: 100%" />
+</div>

@@ -1,9 +1,0 @@
-created: 20220113145012184
-modified: 20220217114047134
-modifier: oeyoews
-status: rework
-tags: Bug TiddlyWiki5
-title: editor font size
-type: text/vnd.tiddlywiki
-
-editor font size can't resize in settings, but after toggle theme, it's working

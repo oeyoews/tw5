@@ -5,14 +5,14 @@ grade: -1
 history: []
 interval: 0
 lapses: 0
-modified: 20220220163056950
+modified: 20220221064705408
 modifier: oeyoews
 reps: 1
 retrievability: 1
 review: 20220220132742859
 stability: 1.136788053021157
-tags: ?? frontend
-title: w3c introd
+tags: frontend
+title: w3cIntrod
 type: text/vnd.tiddlywiki
 
 * `w3c` 
