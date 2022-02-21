@@ -1,0 +1,10 @@
+created: 20220221151557526
+creator: oeyoews
+list-after: $:/core/ui/SideBar/Open
+modified: 20220221151710713
+modifier: oeyoews
+tags: $:/tags/SideBar
+title: Fishings
+type: text/vnd.tiddlywiki
+
+{{$:/plugins/oflg/fishing-analysis/calendar/calendar}}
