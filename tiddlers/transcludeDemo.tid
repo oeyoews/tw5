@@ -5,18 +5,17 @@ grade: -1
 history: []
 interval: 0
 lapses: 0
-modified: 20220220163056950
+modified: 20220221071138946
 modifier: oeyoews
 reps: 1
 retrievability: 1
 review: 20220220132729276
 stability: 1.136788053021157
-tags: ??
-title: untitled 69
+tags: deprecated
+title: transcludeDemo
 type: text/vnd.tiddlywiki
 
-<$transclude mode="block" tiddler=booklogsinfo/>
-
+<$transclude mode="block" tiddler=e22/>
 
 <<slider label:"关联和参考" src:"<$transclude tiddler=bookkeywords/>"
 srcClass:"alert alert-secondary">>

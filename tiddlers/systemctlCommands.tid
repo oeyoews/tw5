@@ -1,0 +1,10 @@
+created: 20220115164322753
+creator: oeyoews
+modified: 20220221070957031
+modifier: oeyoews
+tags: Linux
+title: systemctlCommands
+type: text/vnd.tiddlywiki
+
+* systemctl default
+* systemctl daemon-reload
