@@ -1,0 +1,10 @@
+author: Mario Pietsch
+core-version: >=5.1.22
+dependents: 
+description: Enhances the prettylink-parser
+list: readme history license
+name: Uni-Link
+plugin-type: plugin
+title: $:/plugins/wikilabs/uni-link
+type: application/json
+version: 2.1.0
