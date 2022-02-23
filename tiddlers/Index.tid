@@ -2,7 +2,7 @@ color: #aff024
 created: 20211226085802818
 creator: oeyoews
 keywords: Index
-modified: 20220223133201419
+modified: 20220223145116911
 modifier: oeyoews
 rating: 5
 sticky-footer: Index
@@ -12,4 +12,4 @@ type: text/vnd.tiddlywiki
 
 {{indexStatus}}
 
-<<reuse-tiddler "Inbox">>
+{{Inbox}}
