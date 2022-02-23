@@ -1,6 +1,8 @@
 created: 20220104084210901
-modified: 20220104084210901
+creator: oeyoews
+modified: 20220223015550320
+modifier: oeyoews
 title: $:/config/EditorToolbarButtons/Visibility/$:/core/ui/EditorToolbar/italic
 type: text/vnd.tiddlywiki
 
-hide
+show
