@@ -1,7 +1,7 @@
 caption: selficon
 created: 20220212075520970
 creator: oeyoews
-modified: 20220222020011861
+modified: 20220223022603580
 modifier: oeyoews
 tags: $:/tags/TiddlerIconFilter Source
 title: $:/oeyoews/settings/tiddler-icons
@@ -40,5 +40,7 @@ type: text/vnd.tiddlywiki
 [tag[Math]then[$:/images/forge-icons/mathematics]]
 
 [tag[config]then[$:/images/templarian-material-design/powershell]]
+
+[tag[docs]then[$:/images/svg-icon/books]]
 
 [tag[Index]then[$:/plugins/kookma/todolist/images/lightbulb]]
