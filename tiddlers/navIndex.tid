@@ -1,0 +1,11 @@
+created: 20220223125209778
+creator: oeyoews
+modified: 20220223130353573
+modifier: oeyoews
+tags: config $:/tags/PageControls
+title: navIndex
+type: text/vnd.tiddlywiki
+
+<$button to="Index" tooltip="打开「Index」">
+{{$:/plugins/kookma/todolist/images/lightbulb}}
+</$button>

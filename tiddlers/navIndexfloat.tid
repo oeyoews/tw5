@@ -1,0 +1,11 @@
+created: 20220223125717478
+creator: oeyoews
+modified: 20220223125852191
+modifier: oeyoews
+tags: config $:/tags/PageControls
+title: navIndexfloat
+type: text/vnd.tiddlywiki
+
+<$button message="tm-modal" param="Index">
+{{$:/core/images/help}}
+</$button>
