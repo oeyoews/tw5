@@ -1,14 +1,12 @@
 created: 20220218071636934
 creator: oeyoews
-modified: 20220223063308603
+modified: 20220223063832173
 modifier: oeyoews
 tags: examples
 title: subIndex2
 type: text/vnd.tiddlywiki
 
 <$appear show="open more &raquo;" hide="&laquo; close"  $state="pink-button" selectedClass="pink">
-
-<<reuse-tiddler "docs/changelog">>
 
 <<reuse-tiddler "heatmap">>
 
