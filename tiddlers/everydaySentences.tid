@@ -1,7 +1,23 @@
 created: 20220221000622549
 creator: oeyoews
-modified: 20220221001737021
+modified: 20220224130031643
 modifier: oeyoews
 tags: English everydaySentences
 title: everydaySentences
 type: text/vnd.tiddlywiki
+
+ <details>
+ <!--
+ <details open="open"
+-->
+ <summary>TOC</summary>
+
+ <$macrocall
+	$name="toc-tabbed-internal-nav"
+	tag="everydaySentences"
+	selectedTiddler="$:/temp/toc/selectedTiddler"
+	unselectedText="<p>选择目录中的一个主题，点击箭头可展开主题</p>"
+	missingText="<p>佚失条目。</p>"
+/>
+
+</details>
