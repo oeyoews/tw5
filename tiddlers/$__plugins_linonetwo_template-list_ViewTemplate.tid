@@ -1,0 +1,12 @@
+created: 20220224052932666
+creator: LinOnetwo
+modified: 20220224052949700
+modifier: oeyoews
+tags: $:/tags/ViewTemplate
+title: $:/plugins/linonetwo/template-list/ViewTemplate
+type: text/vnd.tiddlywiki
+
+
+<$list filter="[all[current]get[text]else<currentTiddler>match<currentTiddler>!tag[?]]">
+<<template-list targetBlankTiddler >>
+</$list>
