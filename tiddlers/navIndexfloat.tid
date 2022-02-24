@@ -2,12 +2,16 @@ caption: Index
 created: 20220223125717478
 creator: oeyoews
 description: floatIndex
-modified: 20220223131209033
+modified: 20220224084426154
 modifier: oeyoews
 tags: config $:/tags/PageControls
 title: navIndexfloat
 type: text/vnd.tiddlywiki
 
-<$button message="tm-modal" param="Index">
+<$button message="tm-modal" param="Index" tooltip="float Index">
 {{$:/core/images/help}}
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text"><$text text=
+"float index"/></span>
+</$list>
 </$button>

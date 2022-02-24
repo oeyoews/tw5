@@ -2,12 +2,16 @@ caption: showIndex
 created: 20220223125209778
 creator: oeyoews
 description: Index1
-modified: 20220223131101377
+modified: 20220224084440244
 modifier: oeyoews
 tags: config $:/tags/PageControls
 title: navIndex
 type: text/vnd.tiddlywiki
 
-<$button to="Index" tooltip="打开「Index」">
+<$button to="Index" tooltip="open「Index」">
 {{$:/plugins/kookma/todolist/images/lightbulb}}
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text"><$text text=
+navIndex/></span>
+</$list>
 </$button>

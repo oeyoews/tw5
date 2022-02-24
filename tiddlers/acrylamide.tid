@@ -1,17 +1,17 @@
 created: 20220221085554785
 creator: oeyoews
-difficulty: 5
-due: 20220224081010928
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20220302082852496
+grade: 1
+history: [{"due":"20220302082852496","interval":2,"difficulty":5.1000000000000005,"stability":5.512139752431654,"retrievability":0.9,"grade":1,"lapses":0,"reps":2,"review":"20220224082852495"}]
+interval: 2
 lapses: 0
-modified: 20220222081010928
+modified: 20220224082852496
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220222081010928
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20220224082852495
+stability: 5.512139752431654
 tags: EnglishWord ?
 title: acrylamide
 type: text/vnd.tiddlywiki

@@ -2,7 +2,7 @@ caption: livenotw
 created: 20191026205653440
 creator: Mohammad
 description: livenote
-modified: 20220223131414038
+modified: 20220224084617580
 modifier: oeyoews
 tags: $:/tags/PageControls config
 title: $:/kookma/livenote/button/create-new-note
@@ -10,4 +10,8 @@ type: text/vnd.tiddlywiki
 
 <$button actions=<<newTiddler>> class=<<tv-config-toolbar-class>> tooltip="create new livenote">
 {{$:/core/images/new-journal-button}}
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text"><$text text=
+scratch/></span>
+</$list>
 </$button>

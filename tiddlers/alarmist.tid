@@ -1,17 +1,17 @@
 created: 20220221090747176
 creator: oeyoews
-difficulty: 3.7478003092274337
-due: 20220223163633150
-grade: -1
-history: []
-interval: 0
+difficulty: 3.780372221787294
+due: 20220227082858630
+grade: 1
+history: [{"due":"20220227082858630","interval":1,"difficulty":3.780372221787294,"stability":3.3438749088254522,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20220224082858630"}]
+interval: 1
 lapses: 0
-modified: 20220222163633150
+modified: 20220224082858630
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220222163633150
-stability: 0.5750000000000001
+reps: 2
+retrievability: 0.8325719125598604
+review: 20220224082858630
+stability: 3.3438749088254522
 tags: EnglishWord ?
 title: alarmist
 type: text/vnd.tiddlywiki

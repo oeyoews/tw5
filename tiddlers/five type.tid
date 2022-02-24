@@ -1,16 +1,18 @@
 created: 20220108111444428
 creator: oeyoews
-difficulty: 5
-due: 20220114174400182
+difficulty: 3.7478003092274337
+due: 20220225083104659
+grade: -1
 history: []
 interval: 0
 lapses: 0
-modified: 20220221063817876
+modified: 20220224083104659
 modifier: oeyoews
 reps: 1
-review: 20220112174400182
-stability: 2
-tags: English
+retrievability: 1
+review: 20220224083104659
+stability: 0.3375
+tags: English ?
 title: five type
 type: text/vnd.tiddlywiki
 

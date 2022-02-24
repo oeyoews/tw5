@@ -1,17 +1,17 @@
 created: 20220221090122456
 creator: oeyoews
-difficulty: 5
-due: 20220224081333520
-grade: -1
-history: []
-interval: 0
+difficulty: 4.1000000000000005
+due: 20220302083033830
+grade: 2
+history: [{"due":"20220302083033830","interval":2,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20220224083033830"}]
+interval: 2
 lapses: 0
-modified: 20220222081333520
+modified: 20220224083033830
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220222081333520
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20220224083033830
+stability: 6.091873624375545
 tags: EnglishWord ?
 title: toast
 type: text/vnd.tiddlywiki
