@@ -1,17 +1,17 @@
 created: 20220215171543157
 creator: oeyoews
-difficulty: 6.148683298050514
-due: 20220223161204024
-grade: 0
-history: [{"due":"20220223161204024","interval":1,"difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222161204024"}]
+difficulty: 5.280041887453755
+due: 20220227001601683
+grade: 2
+history: [{"due":"20220223161204024","interval":1,"difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222161204024"},{"due":"20220227001601683","interval":1,"difficulty":5.280041887453755,"stability":3.303329330684263,"retrievability":0.9313585894032408,"grade":2,"lapses":1,"reps":2,"review":"20220224001601682"}]
 interval: 1
 lapses: 1
-modified: 20220222161204025
+modified: 20220224001601683
 modifier: oeyoews
-reps: 1
-retrievability: 0.9486832980505138
-review: 20220222161204024
-stability: 1.4816364413634358
+reps: 2
+retrievability: 0.9313585894032408
+review: 20220224001601682
+stability: 3.303329330684263
 tags: EnglishWord ?
 title: broke introd
 type: text/vnd.tiddlywiki
