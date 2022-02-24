@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/20four/SearchWord}}
 created: 20220119011921264
 creator: oeyoews
-difficulty: 6.148683298050514
-due: 20220223163058139
-grade: 0
-history: [{"due":"20220223163058139","interval":1,"difficulty":6.148683298050514,"stability":0.4259704768919878,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222163058138"}]
+difficulty: 6.129556656232493
+due: 20220227085404686
+grade: 1
+history: [{"due":"20220223163058139","interval":1,"difficulty":6.148683298050514,"stability":0.4259704768919878,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222163058138"},{"due":"20220227085404686","interval":1,"difficulty":6.129556656232493,"stability":2.513347864961621,"retrievability":0.780873358181979,"grade":1,"lapses":1,"reps":2,"review":"20220224085404686"}]
 interval: 1
 lapses: 1
-modified: 20220222163058139
+modified: 20220224085404686
 modifier: oeyoews
-reps: 1
-retrievability: 0.9486832980505138
-review: 20220222163058138
-stability: 0.4259704768919878
+reps: 2
+retrievability: 0.780873358181979
+review: 20220224085404686
+stability: 2.513347864961621
 tags: [[Day 1 认知词汇]] ?
 title: 20four/20220119011921264878
 type: text/vnd.tiddlywiki

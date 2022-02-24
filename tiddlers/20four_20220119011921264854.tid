@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/20four/SearchWord}}
 created: 20220119011921264
 creator: oeyoews
-difficulty: 6.148683298050514
-due: 20220223162934858
-grade: 0
-history: [{"due":"20220223162934858","interval":1,"difficulty":6.148683298050514,"stability":0.7778591317158038,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222162934858"}]
+difficulty: 5.222006691583267
+due: 20220227085313550
+grade: 2
+history: [{"due":"20220223162934858","interval":1,"difficulty":6.148683298050514,"stability":0.7778591317158038,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222162934858"},{"due":"20220227085313550","interval":1,"difficulty":5.222006691583267,"stability":2.861774387301945,"retrievability":0.8733233935327525,"grade":2,"lapses":1,"reps":2,"review":"20220224085313550"}]
 interval: 1
 lapses: 1
-modified: 20220222162934858
+modified: 20220224085313550
 modifier: oeyoews
-reps: 1
-retrievability: 0.9486832980505138
-review: 20220222162934858
-stability: 0.7778591317158038
+reps: 2
+retrievability: 0.8733233935327525
+review: 20220224085313550
+stability: 2.861774387301945
 tags: [[Day 1 核心词汇]] ?
 title: 20four/20220119011921264854
 type: text/vnd.tiddlywiki
