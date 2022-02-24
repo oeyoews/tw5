@@ -2,7 +2,7 @@ category: todo
 created: 20220224155904555
 creator: oeyoews
 description: todo
-modified: 20220224162657700
+modified: 20220224163905564
 modifier: oeyoews
 tags: Project
 title: daily todo
@@ -14,4 +14,4 @@ type: text/vnd.tiddlywiki
 
 <<sticky "''__iciba__'': everyday sentence">>
 
-<<sticky "''__fishing__'': finish english words ">>
+<<sticky-done "''__fishing__'': finish english words " " Completed: 2022-02-25 12:39 am ">>

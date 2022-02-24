@@ -1,16 +1,16 @@
 created: 20220221112837543
 creator: oeyoews
-difficulty: 2.9854211216321387
-due: 20220225130842254
-grade: -1
-history: []
+difficulty: 2.185421121632139
+due: 20220225163807562
+grade: 2
+history: [{"due":"20220225163807562","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163807562"}]
 interval: 0
 lapses: 0
-modified: 20220224130842254
+modified: 20220224163807562
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220224130842254
+review: 20220224163807562
 stability: 0.3375
 tags: EnglishWord ?
 title: booby

@@ -1,16 +1,16 @@
 created: 20220221091920610
 creator: oeyoews
-difficulty: 2.9854211216321387
-due: 20220225090047094
-grade: -1
-history: []
+difficulty: 2.185421121632139
+due: 20220225163607481
+grade: 2
+history: [{"due":"20220225163607481","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163607480"}]
 interval: 0
 lapses: 0
-modified: 20220224090047094
+modified: 20220224163607481
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220224090047094
+review: 20220224163607480
 stability: 0.3375
 tags: EnglishWord ?
 title: pudding

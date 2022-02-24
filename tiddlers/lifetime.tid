@@ -1,16 +1,16 @@
 created: 20220221092004564
 creator: oeyoews
-difficulty: 2.9854211216321387
-due: 20220225090049517
-grade: -1
-history: []
+difficulty: 2.185421121632139
+due: 20220225163611541
+grade: 2
+history: [{"due":"20220225163611541","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163611541"}]
 interval: 0
 lapses: 0
-modified: 20220224090049517
+modified: 20220224163611541
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220224090049517
+review: 20220224163611541
 stability: 0.3375
 tags: EnglishWord ?
 title: lifetime

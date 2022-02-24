@@ -1,18 +1,10 @@
 created: 20220120142328889
 creator: oeyoews
-difficulty: NaN
-due: 20220225083139333
 grade: 1
 history: [{"due":"20220225083139333","interval":4,"difficulty":null,"stability":null,"retrievability":0.6902298974320726,"grade":1,"lapses":0,"reps":2,"review":"20220224083139333"}]
-interval: 4
-lapses: 0
-modified: 20220224083139333
+modified: 20220224163318082
 modifier: oeyoews
-reps: 2
-retrievability: 0.6902298974320726
-review: 20220224083139333
-stability: NaN
-tags: English tips ?
+tags: English tips
 title: english writting
 type: text/vnd.tiddlywiki
 

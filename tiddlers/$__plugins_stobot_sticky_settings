@@ -1,11 +1,11 @@
-list-style: none
-list-search: .*?(\<\<sticky\s".+?"\>\>).*
-table-style: todo
+list-style: line
+list-search: (.*)
+table-style: none
 table-search: .*?(\<\<sticky\s".+?"\>\>).*
 table-searchbar: show
-sidebar-style: trim
-sidebar-search: ^\W*?(\w|\<.*)
-sidebar-searchbar: show
+sidebar-style: none
+sidebar-search: .*?(\<\<sticky\s".+?"\>\>).*
+sidebar-searchbar: hide
 line-search: (.*)
 trim-search: ^\W*?(\w|\<.*)
 todo-search: .*?(\<\<sticky\s".+?"\>\>).*

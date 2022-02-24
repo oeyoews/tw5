@@ -1,17 +1,17 @@
 created: 20220221094218982
 creator: oeyoews
-difficulty: 2.9854211216321387
-due: 20220225090142081
-grade: -1
-history: []
+difficulty: 4.185421121632139
+due: 20220225163658279
+grade: 0
+history: [{"due":"20220225163658279","interval":0,"difficulty":4.185421121632139,"stability":0.16205398577412577,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220224163658279"}]
 interval: 0
-lapses: 0
-modified: 20220224090142081
+lapses: 1
+modified: 20220224163658279
 modifier: oeyoews
 reps: 1
 retrievability: 1
-review: 20220224090142081
-stability: 0.3375
+review: 20220224163658279
+stability: 0.16205398577412577
 tags: EnglishWord ?
 title: conclusive
 type: text/vnd.tiddlywiki

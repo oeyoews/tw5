@@ -1,16 +1,16 @@
 created: 20220221112707706
 creator: oeyoews
-difficulty: 2.9854211216321387
-due: 20220225121516020
-grade: -1
-history: []
+difficulty: 3.185421121632139
+due: 20220225163801113
+grade: 1
+history: [{"due":"20220225163801113","interval":0,"difficulty":3.185421121632139,"stability":0.3375,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220224163801113"}]
 interval: 0
 lapses: 0
-modified: 20220224121516020
+modified: 20220224163801113
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220224121516020
+review: 20220224163801113
 stability: 0.3375
 tags: EnglishWord ?
 title: proposal
