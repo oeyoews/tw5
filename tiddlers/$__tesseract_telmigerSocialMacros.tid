@@ -1,0 +1,34 @@
+caption: The Button
+created: 20161230024640688
+modified: 20170101165957335
+tags: $:/tags/ViewToolbar SocialMacros
+title: $:/tesseract/telmigerSocialMacros
+type: text/vnd.tiddlywiki
+
+\define contentendcoded()
+<$view format="urlencoded">
+\end
+\define titleencoded()
+<$view tiddler="$:/state/title" format="urlencoded">
+\end
+\define titleandbody(firstprefix secondprefix icon)
+<$set name=bar filter="[<heading>addprefix[$firstprefix$]addsuffix[$secondprefix$]]">
+<$set name=presto filter="[<foo>addprefix<bar>]">
+<a target="_blank" href=<<presto>>> {{$icon$}}</a>
+</$set></$set>
+\end
+
+<$button popup=<<qualify $:/state/social>> class="tc-btn-invisible tc-btn-socialRaw">{{$:/core/images/globe}}<$action-setfield $tiddler="$:/state/title" text={{!!title}}/></$button>
+<$reveal state=<<qualify $:/state/social>> type="popup" class="thinwidthdropdown animated fadeIn">
+<$tiddler tiddler={{$:/state/title}}>
+<$wikify name=heading text=<<titleencoded>>>
+<$wikify name=foo text=<<contentendcoded>>>
+<<titleandbody "https://www.reddit.com/r/TiddlyWiki5/submit?title=" "&text=" "reddit.svg">><br/>
+<$set name=bar filter="[<foo>addprefix[https://twitter.com/intent/tweet?text=]]">
+<a target="_blank" href=<<bar>>> {{twitter.svg}}</a>
+</$set><br/>
+<<titleandbody "mailto:?Subject=" "&body=" "mail.svg">><br/>
+</$wikify>
+</$wikify>
+</$tiddler>
+</$reveal>

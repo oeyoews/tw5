@@ -1,0 +1,11 @@
+caption: Stylesheet
+created: 20161230025541198
+modified: 20161230052023321
+tags: $:/tags/Stylesheet SocialMacros
+title: $:/tesseract/telmigerSocialMacros/Stylesheet
+type: text/vnd.tiddlywiki
+
+.thinwidthdropdown svg {
+	height: 35px;
+	width: 35px;
+}
