@@ -1,0 +1,10 @@
+created: 20210730031455792
+creator: Télumire
+description: TODO : carrousel
+modified: 20220225064331045
+modifier: Télumire
+tags: $:/Lightbox $:/right-story
+title: $:/Lightbox/demo
+type: text/vnd.tiddlywiki
+
+<<lightbox "http://placekitten.com/200/300" "Kitten 1" "https://placekitten.com/">> <<lightbox "http://placekitten.com/300/300" "Kitten 2" "https://placekitten.com/">> <<lightbox "http://placekitten.com/350/300" "Kitten 3" "https://placekitten.com/">>

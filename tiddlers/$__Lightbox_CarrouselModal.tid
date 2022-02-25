@@ -1,0 +1,12 @@
+class: carrousel
+created: 20210730130629828
+modified: 20211128165443958
+tags: $:/Lightbox
+task: todo
+title: $:/Lightbox/CarrouselModal
+type: text/vnd.tiddlywiki
+
+{{||$:/Lightbox/SampleModal}}
+
+
+Navigate button

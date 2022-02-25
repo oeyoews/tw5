@@ -1,0 +1,87 @@
+created: 20210729212308116
+modified: 20211128173216163
+tags: $:/Lightbox $:/tags/Stylesheet
+title: $:/Lightbox/style
+type: text/vnd.tiddlywiki
+
+.lightbox {
+    z-index: 10000;
+}
+
+.lightbox .tc-modal {
+background:unset;
+    display: flex;
+    flex-direction: column;
+    inset: 0;
+    width: 100%;
+}
+
+.lightbox .tc-modal:after {
+    background: <<color modal-backdrop>>;
+    content: "";
+    inset: 0;
+    opacity: .3;
+    position: absolute;
+    z-index: -2;
+}
+
+.lightbox .tc-modal-header {
+    background: <<color background>>;
+    font-size: 1.2em;
+    line-height: 1.4;
+    text-align: center;
+}
+
+.lightbox .tc-modal-body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    max-height: unset;
+    overflow: auto;
+    padding: 0;
+    text-align: center;
+}
+
+.tc-modal-wrapper.lightbox .tc-modal-backdrop{
+    background:none;
+}
+
+.lightbox .tc-modal-body :is(div, p) {
+    display: contents;
+}
+
+.lightbox .tc-modal-body img {
+    height: 100%;
+    object-fit: contain;
+    width: 100%;
+}
+
+.lightbox .tc-modal-footer {
+    display: contents;
+}
+
+```
+.lightbox .tc-modal-footer button {
+    cursor: url('data:image/svg+xml;utf-8,<svg width="36px" height="36px" version="1.1" viewBox="-3 -3 6 6" xmlns="http://www.w3.org/2000/svg"><circle cx="0" cy="0" r="3" fill="black" opacity=".5"/><path d="M-1-1 1 1M-1 1 1-1" stroke="white" stroke-width=".5"/></svg>') 18 18, auto;
+    inset: 0;
+    opacity: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+```
+
+.lightbox-note {
+    background: <<color background>>;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 4em;
+    width: 100%;
+    z-index: 2;
+}
+
+.lightbox-note:empty {
+    display: none;
+}

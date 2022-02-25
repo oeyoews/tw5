@@ -1,0 +1,10 @@
+class: lightbox
+created: 20210730010526685
+modified: 20211128163547499
+subtitle: <<title>>
+tags: $:/Lightbox
+title: $:/Lightbox/SampleModal
+type: text/vnd.tiddlywiki
+
+<$image source=<<img>> />
+<span class="lightbox-note"><<note>></span>
