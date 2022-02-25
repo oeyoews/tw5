@@ -1,9 +1,9 @@
-created: 20220104145923181
+created: 20220225113145039
 creator: oeyoews
 modified: 20220225113357861
 modifier: oeyoews
 tags: $:/tags/PageTemplate
-title: $:/plugins/linonetwo/preview-glass/popups
+title: $:/plugins/tobibeer/preview/popups
 type: text/vnd.tiddlywiki
 
 \define state(num)
@@ -17,12 +17,12 @@ tc-popup appear appear-block appear-reveal tc-preview-tiddler tc-preview-tiddler
 \define level(num)
 <$reveal tag="div" type="popup" state=<<state $num$>> class=<<classes $num$>>>
 <$tiddler tiddler={{$:/temp/tobibeer/preview-$num$-tiddler}}>
-<$transclude tiddler={{$:/plugins/linonetwo/preview-glass/defaults/template}} mode="block"/>
+<$transclude tiddler={{$:/plugins/tobibeer/preview/defaults/template}} mode="block"/>
 </$tiddler>
 </$reveal>
 \end
 
-<$vars default-classes={{$:/plugins/linonetwo/preview-glass/defaults/class}}>
+<$vars default-classes={{$:/plugins/tobibeer/preview/defaults/class}}>
 <$list filter="1 2 3 4 5 6 7 8 9">
 <$macrocall $name="level" num={{!!title}}/>
 </$list>
