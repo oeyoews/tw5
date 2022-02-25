@@ -1,11 +1,15 @@
 created: 20220221032611286
 creator: oeyoews
-modified: 20220225110837757
+modified: 20220225143448357
 modifier: oeyoews
 tags: examples TiddlyWiki5
-title: fixIcon
+title: fixIcon tw5
 type: text/vnd.tiddlywiki
 
 <<.link-badge-fixed "https://github.com/Jermolene/TiddlyWiki5/pull/6438">>
 
 <<.warning Demo>>
+
+<<.icon "$:/core/icon">> demo for your 
+
+<<.icon "$:/core/images/warning">>

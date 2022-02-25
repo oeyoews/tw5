@@ -1,12 +1,12 @@
 created: 20220109112901644
 creator: oeyoews
-modified: 20220224091805690
+modified: 20220225144526744
 modifier: oeyoews
 tags: docs
 title: footer
 type: text/vnd.tiddlywiki
 
-<div style="color:Gray;font-size:90%;" align="Right">
+<div style="color: #32b4c3;font-size:90%;" align="Right">
 <$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
 Last Updated:
 <$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss"/> 
