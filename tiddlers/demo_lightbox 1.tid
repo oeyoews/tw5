@@ -1,0 +1,11 @@
+created: 20220225064628792
+creator: oeyoews
+modified: 20220225064915245
+modifier: oeyoews
+tags: demo
+title: demo/lightbox 1
+type: text/vnd.tiddlywiki
+
+<<lightbox "http://placekitten.com/200/300" "Demo" "https://placekitten.com/">>
+
+<<lightbox "https://cdn.jsdelivr.net/gh/oeyoews/img/202243.png" "demo" >>
