@@ -1,8 +1,8 @@
 created: 20220112111835929
 creator: oeyoews
-modified: 20220218164314128
+modified: 20220226151511261
 modifier: oeyoews
 title: $:/config/section-editor/style-in-use
 type: text/vnd.tiddlywiki
 
-$:/plugins/kookma/section/styles/themes/basic
+$:/plugins/kookma/section/styles/themes/numbered
