@@ -1,8 +1,8 @@
 created: 20220204090923415
 creator: oeyoews
-modified: 20220214205503387
+modified: 20220226161912630
 modifier: oeyoews
 title: $:/config/Plugins/Disabled/$:/plugins/tiddlywiki/browser-sniff
 type: text/vnd.tiddlywiki
 
-yes
+no
