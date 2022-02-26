@@ -1,17 +1,17 @@
 created: 20220221084339149
 creator: oeyoews
-difficulty: 8.480041887453755
-due: 20220225163122375
+difficulty: 9.144057448109363
+due: 20220227012859553
 grade: 0
-history: [{"due":"20220223161402492","interval":1,"difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222161402491"},{"due":"20220225011355715","interval":1,"difficulty":7.280041887453755,"stability":0.3155666907540653,"retrievability":0.9313585894032408,"grade":0,"lapses":2,"reps":1,"review":"20220224011355715"},{"due":"20220225163122375","interval":0,"difficulty":8.480041887453755,"stability":0.13721726016245223,"retrievability":1,"grade":0,"lapses":3,"reps":1,"review":"20220224163122375"}]
-interval: 0
-lapses: 3
-modified: 20220224163122375
+history: [{"due":"20220223161402492","interval":1,"difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222161402491"},{"due":"20220225011355715","interval":1,"difficulty":7.280041887453755,"stability":0.3155666907540653,"retrievability":0.9313585894032408,"grade":0,"lapses":2,"reps":1,"review":"20220224011355715"},{"due":"20220225163122375","interval":0,"difficulty":8.480041887453755,"stability":0.13721726016245223,"retrievability":1,"grade":0,"lapses":3,"reps":1,"review":"20220224163122375"},{"due":"20220227012859553","interval":1,"difficulty":9.144057448109363,"stability":0.0658862338557942,"retrievability":0.4640155606556087,"grade":0,"lapses":4,"reps":1,"review":"20220226012859552"}]
+interval: 1
+lapses: 4
+modified: 20220226012859554
 modifier: oeyoews
 reps: 1
-retrievability: 1
-review: 20220224163122375
-stability: 0.13721726016245223
+retrievability: 0.4640155606556087
+review: 20220226012859552
+stability: 0.0658862338557942
 tags: EnglishWord ?
 title: culinary
 type: text/vnd.tiddlywiki

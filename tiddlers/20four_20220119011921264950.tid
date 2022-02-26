@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/20four/SearchWord}}
 created: 20220119011921264
 creator: oeyoews
-difficulty: 8.329556656232493
-due: 20220225163431620
+difficulty: 8.9935722168881
+due: 20220227013303071
 grade: 0
-history: [{"due":"20220223163333071","interval":1,"difficulty":6.148683298050514,"stability":0.4259704768919878,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222163333071"},{"due":"20220225085436493","interval":1,"difficulty":7.129556656232493,"stability":0.18522392718173394,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20220224085436493"},{"due":"20220225163431620","interval":0,"difficulty":8.329556656232493,"stability":0.13721726016245223,"retrievability":1,"grade":0,"lapses":3,"reps":1,"review":"20220224163431620"}]
-interval: 0
-lapses: 3
-modified: 20220224163431620
+history: [{"due":"20220223163333071","interval":1,"difficulty":6.148683298050514,"stability":0.4259704768919878,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222163333071"},{"due":"20220225085436493","interval":1,"difficulty":7.129556656232493,"stability":0.18522392718173394,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20220224085436493"},{"due":"20220225163431620","interval":0,"difficulty":8.329556656232493,"stability":0.13721726016245223,"retrievability":1,"grade":0,"lapses":3,"reps":1,"review":"20220224163431620"},{"due":"20220227013303071","interval":1,"difficulty":8.9935722168881,"stability":0.0658862338557942,"retrievability":0.4640155606556087,"grade":0,"lapses":4,"reps":1,"review":"20220226013303070"}]
+interval: 1
+lapses: 4
+modified: 20220226013303071
 modifier: oeyoews
 reps: 1
-retrievability: 1
-review: 20220224163431620
-stability: 0.13721726016245223
+retrievability: 0.4640155606556087
+review: 20220226013303070
+stability: 0.0658862338557942
 tags: [[Day 1 大纲新增词汇]] ?
 title: 20four/20220119011921264950
 type: text/vnd.tiddlywiki

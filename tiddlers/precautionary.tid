@@ -1,17 +1,17 @@
 created: 20220221091302765
 creator: oeyoews
-difficulty: 4.185421121632139
-due: 20220225163542987
+difficulty: 5.0415500414207175
+due: 20220227013433076
 grade: 0
-history: [{"due":"20220225163542987","interval":0,"difficulty":4.185421121632139,"stability":0.2500261494800798,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220224163542986"}]
-interval: 0
-lapses: 1
-modified: 20220224163542987
+history: [{"due":"20220225163542987","interval":0,"difficulty":4.185421121632139,"stability":0.2500261494800798,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220224163542986"},{"due":"20220227013433076","interval":1,"difficulty":5.0415500414207175,"stability":0.1200525453955683,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20220226013433076"}]
+interval: 1
+lapses: 2
+modified: 20220226013433076
 modifier: oeyoews
 reps: 1
-retrievability: 1
-review: 20220224163542986
-stability: 0.2500261494800798
+retrievability: 0.6561289197885782
+review: 20220226013433076
+stability: 0.1200525453955683
 tags: EnglishWord ?
 title: precautionary
 type: text/vnd.tiddlywiki

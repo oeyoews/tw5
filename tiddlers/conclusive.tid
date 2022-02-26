@@ -1,17 +1,17 @@
 created: 20220221094218982
 creator: oeyoews
-difficulty: 4.185421121632139
-due: 20220225163658279
-grade: 0
-history: [{"due":"20220225163658279","interval":0,"difficulty":4.185421121632139,"stability":0.16205398577412577,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220224163658279"}]
-interval: 0
+difficulty: 3.9073850002350987
+due: 20220301013639742
+grade: 1
+history: [{"due":"20220225163658279","interval":0,"difficulty":4.185421121632139,"stability":0.16205398577412577,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220224163658279"},{"due":"20220301013639742","interval":1,"difficulty":3.9073850002350987,"stability":3.4653763219429745,"retrievability":0.5219638786029598,"grade":1,"lapses":1,"reps":2,"review":"20220226013639742"}]
+interval: 1
 lapses: 1
-modified: 20220224163658279
+modified: 20220226013639742
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220224163658279
-stability: 0.16205398577412577
+reps: 2
+retrievability: 0.5219638786029598
+review: 20220226013639742
+stability: 3.4653763219429745
 tags: EnglishWord ?
 title: conclusive
 type: text/vnd.tiddlywiki

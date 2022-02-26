@@ -1,18 +1,10 @@
 created: 20220221091849314
 creator: oeyoews
-difficulty: 2.185421121632139
-due: 20220225163604400
 grade: 2
 history: [{"due":"20220225163604400","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163604399"}]
-interval: 0
-lapses: 0
-modified: 20220224163604400
+modified: 20220226013502477
 modifier: oeyoews
-reps: 2
-retrievability: 1
-review: 20220224163604399
-stability: 0.3375
-tags: EnglishWord ?
+tags: EnglishWord
 title: Yorkshire
 type: text/vnd.tiddlywiki
 

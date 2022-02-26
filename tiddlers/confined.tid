@@ -1,17 +1,17 @@
 created: 20220221112615445
 creator: oeyoews
-difficulty: 4.185421121632139
-due: 20220225163755941
+difficulty: 4.907385000235099
+due: 20220227013804852
 grade: 0
-history: [{"due":"20220225163755941","interval":0,"difficulty":4.185421121632139,"stability":0.16205398577412577,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220224163755941"}]
-interval: 0
-lapses: 1
-modified: 20220224163755941
+history: [{"due":"20220225163755941","interval":0,"difficulty":4.185421121632139,"stability":0.16205398577412577,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220224163755941"},{"due":"20220227013804852","interval":1,"difficulty":4.907385000235099,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20220226013804852"}]
+interval: 1
+lapses: 2
+modified: 20220226013804852
 modifier: oeyoews
 reps: 1
-retrievability: 1
-review: 20220224163755941
-stability: 0.16205398577412577
+retrievability: 0.5219638786029598
+review: 20220226013804852
+stability: 0.1200525453955683
 tags: EnglishWord ?
 title: confined
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20220221112707706
 creator: oeyoews
-difficulty: 3.185421121632139
-due: 20220225163801113
+difficulty: 3.1172714132007706
+due: 20220302013817329
 grade: 1
-history: [{"due":"20220225163801113","interval":0,"difficulty":3.185421121632139,"stability":0.3375,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220224163801113"}]
-interval: 0
+history: [{"due":"20220225163801113","interval":0,"difficulty":3.185421121632139,"stability":0.3375,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220224163801113"},{"due":"20220302013817329","interval":1,"difficulty":3.1172714132007706,"stability":3.829174176904166,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":3,"review":"20220226013817329"}]
+interval: 1
 lapses: 0
-modified: 20220224163801113
+modified: 20220226013817329
 modifier: oeyoews
-reps: 2
-retrievability: 1
-review: 20220224163801113
-stability: 0.3375
+reps: 3
+retrievability: 0.7318502915686316
+review: 20220226013817329
+stability: 3.829174176904166
 tags: EnglishWord ?
 title: proposal
 type: text/vnd.tiddlywiki

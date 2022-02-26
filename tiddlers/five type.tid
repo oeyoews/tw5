@@ -1,17 +1,17 @@
 created: 20220108111444428
 creator: oeyoews
-difficulty: 2.947800309227434
-due: 20220225163245593
-grade: 2
-history: [{"due":"20220225163245593","interval":0,"difficulty":2.947800309227434,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163245593"}]
-interval: 0
+difficulty: 2.8796506007960656
+due: 20220302013114322
+grade: 1
+history: [{"due":"20220225163245593","interval":0,"difficulty":2.947800309227434,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163245593"},{"due":"20220302013114322","interval":1,"difficulty":2.8796506007960656,"stability":4.028449349311518,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":3,"review":"20220226013114322"}]
+interval: 1
 lapses: 0
-modified: 20220224163245594
+modified: 20220226013114323
 modifier: oeyoews
-reps: 2
-retrievability: 1
-review: 20220224163245593
-stability: 0.3375
+reps: 3
+retrievability: 0.7318502915686316
+review: 20220226013114322
+stability: 4.028449349311518
 tags: English ?
 title: five type
 type: text/vnd.tiddlywiki
@@ -21,9 +21,9 @@ type: text/vnd.tiddlywiki
 >`I will leave`
 * 主谓宾 
 >`I love you`
-* 主谓宾宾
+* 主谓双宾
 > `I give you a book`
-* 主谓宾宾补
+* 主谓宾(宾)补
 > `love makes you crazy`
 * 主系表
 > `I am a student`
