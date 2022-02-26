@@ -1,8 +1,0 @@
-dependents: $:/plugins/tiddlywiki/sax
-description: Tools for slicing text into tiddlers
-list: readme docs
-name: Text Slicer
-plugin-type: plugin
-title: $:/plugins/tiddlywiki/text-slicer
-type: application/json
-version: 5.2.1
