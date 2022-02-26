@@ -13,6 +13,6 @@ done-message: Congratulations, All TODO is done!
 done-tooltip: Completed: <<now "YYYY-0MM-0DD hh12:0mm pm">>
 char-unchecked: &#x2610;
 char-checked: &#x2611;
-active-css: color: #e1419f; font-weight: 200;
-done-css: color: #765add; font-weight: 700;
+active-css: color: #e1419f; font-weight: 400;
+done-css: color: #765add; font-weight: 400;
 delete-key: shift

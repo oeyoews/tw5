@@ -1,8 +1,8 @@
 created: 20211227234956803
 creator: oeyoews
-modified: 20220221115712013
+modified: 20220226153712572
 modifier: oeyoews
 title: $:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold-bar
 type: text/vnd.tiddlywiki
 
-show
+hide
