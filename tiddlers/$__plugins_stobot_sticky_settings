@@ -1,8 +1,8 @@
-list-style: line
+list-style: none
 list-search: (.*)
 table-style: none
 table-search: .*?(\<\<sticky\s".+?"\>\>).*
-table-searchbar: show
+table-searchbar: hide
 sidebar-style: none
 sidebar-search: .*?(\<\<sticky\s".+?"\>\>).*
 sidebar-searchbar: hide

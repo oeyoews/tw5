@@ -2,7 +2,7 @@ category: todo
 created: 20220224155904555
 creator: oeyoews
 description: todo
-modified: 20220226050041175
+modified: 20220226065836903
 modifier: oeyoews
 tags: Project
 title: dtodo
@@ -12,13 +12,12 @@ type: text/vnd.tiddlywiki
 
 <<sticky "''__bili__'': english listening videos">>
 
-<<sticky "''__anki__'': review">>
+<<sticky-done "''__anki__'': review" " Completed: 2022-02-26 2:35 pm ">>
 
+---
 !! pc
 <<sticky-done "''__iciba__'': everyday sentence" " Completed: 2022-02-26 9:39 am ">>
 
-
-<<sticky "__''tianjingshadow''__: everyday sentence">>
 
 * <<sticky-done "jjzy: video" " Completed: 2022-02-26 10:47 am ">>
 
@@ -26,3 +25,9 @@ type: text/vnd.tiddlywiki
 <<sticky-done "''__fishing__'': finish english words " " Completed: 2022-02-26 9:39 am ">>
 
 <<sticky-done "''__english:__'' 真题一篇" " Completed: 2022-02-26 10:40 am ">>
+---
+!! notebook
+
+
+<<sticky-done "__''tianjingshadow''__: everyday sentence" " Completed: 2022-02-26 2:58 pm ">>
+
