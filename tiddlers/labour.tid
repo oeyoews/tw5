@@ -1,10 +1,18 @@
 created: 20220221112944989
 creator: oeyoews
-grade: -1
-history: []
-modified: 20220226013843008
+difficulty: NaN
+due: 20220227033357334
+grade: 2
+history: [{"due":"20220227033357334","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220226033357334"}]
+interval: 0
+lapses: NaN
+modified: 20220226033357334
 modifier: oeyoews
-tags: EnglishWord
+reps: NaN
+retrievability: NaN
+review: 20220226033357334
+stability: NaN
+tags: EnglishWord ?
 title: labour
 type: text/vnd.tiddlywiki
 
