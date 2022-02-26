@@ -1,19 +1,11 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/20four/SearchWord}}
 created: 20220119011921264
 creator: oeyoews
-difficulty: 4.148683298050514
-due: 20220226161830648
 grade: 2
 history: [{"due":"20220226161830648","interval":1,"difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":2,"lapses":0,"reps":2,"review":"20220222161830648"}]
-interval: 1
-lapses: 0
-modified: 20220222161830648
+modified: 20220226163204161
 modifier: oeyoews
-reps: 2
-retrievability: 0.9486832980505138
-review: 20220222161830648
-stability: 4.03183163653078
-tags: [[Day 1 核心词汇]] ?
+tags: [[Day 1 核心词汇]]
 title: 20four/20220119011921264697
 type: text/vnd.tiddlywiki
 word: character

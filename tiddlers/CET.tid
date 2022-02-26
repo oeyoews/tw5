@@ -1,23 +1,23 @@
 created: 20220118091016330
 creator: oeyoews
-difficulty: 4.148683298050514
-due: 20220226161007124
+difficulty: 3.2732810355779787
+due: 20220308163811108
 grade: 2
-history: [{"due":"20220226161007124","interval":1,"difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":2,"lapses":0,"reps":2,"review":"20220222161007124"}]
-interval: 1
+history: [{"due":"20220226161007124","interval":1,"difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":2,"lapses":0,"reps":2,"review":"20220222161007124"},{"due":"20220308163811108","interval":3,"difficulty":3.2732810355779787,"stability":10.282486264713498,"retrievability":0.9245977375274645,"grade":2,"lapses":0,"reps":3,"review":"20220226163811108"}]
+interval: 3
 lapses: 0
-modified: 20220224115723470
+modified: 20220226163811108
 modifier: oeyoews
-reps: 2
-retrievability: 0.9486832980505138
-review: 20220222161007124
+reps: 3
+retrievability: 0.9245977375274645
+review: 20220226163811108
 se-type: 
-stability: 4.03183163653078
+stability: 10.282486264713498
 tags: EnglishWord ?
 title: CET
 type: text/vnd.tiddlywiki
 
-* cet: college english band
+* cet: college english Test
 
 * TEM: test english major
 

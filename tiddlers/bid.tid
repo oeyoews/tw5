@@ -1,16 +1,16 @@
 created: 20220222005648115
 creator: oeyoews
-difficulty: 2.4476805400532036
-due: 20220227112816007
-grade: -1
-history: []
+difficulty: 1.6476805400532035
+due: 20220227163728201
+grade: 2
+history: [{"due":"20220227163728201","interval":0,"difficulty":1.6476805400532035,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220226163728200"}]
 interval: 0
 lapses: 0
-modified: 20220226112816007
+modified: 20220226163728201
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220226112816007
+review: 20220226163728200
 stability: 0.21875
 tags: EnglishWord ?
 title: bid

@@ -1,16 +1,16 @@
 created: 20220221112944989
 creator: oeyoews
 difficulty: NaN
-due: 20220227033357334
+due: 20220227164013169
 grade: 2
-history: [{"due":"20220227033357334","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220226033357334"}]
+history: [{"due":"20220227033357334","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220226033357334"},{"due":"20220227164013169","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220226164013169"}]
 interval: 0
 lapses: NaN
-modified: 20220226033357334
+modified: 20220226164013169
 modifier: oeyoews
 reps: NaN
 retrievability: NaN
-review: 20220226033357334
+review: 20220226164013169
 stability: NaN
 tags: EnglishWord ?
 title: labour

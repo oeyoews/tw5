@@ -1,17 +1,17 @@
 created: 20220221120547911
 creator: oeyoews
-difficulty: 2.4476805400532036
-due: 20220227050833814
-grade: -1
-history: []
+difficulty: 3.6476805400532037
+due: 20220227163905385
+grade: 0
+history: [{"due":"20220227163905385","interval":0,"difficulty":3.6476805400532037,"stability":0.11806790392114878,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220226163905385"}]
 interval: 0
-lapses: 0
-modified: 20220226050833814
+lapses: 1
+modified: 20220226163905385
 modifier: oeyoews
 reps: 1
 retrievability: 1
-review: 20220226050833814
-stability: 0.21875
+review: 20220226163905385
+stability: 0.11806790392114878
 tags: EnglishWord ?
 title: desperation
 type: text/vnd.tiddlywiki

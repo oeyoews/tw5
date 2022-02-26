@@ -1,16 +1,16 @@
 created: 20220221114941240
 creator: oeyoews
-difficulty: 2.4476805400532036
-due: 20220227033418695
-grade: -1
-history: []
+difficulty: 1.6476805400532035
+due: 20220227163722112
+grade: 2
+history: [{"due":"20220227163722112","interval":0,"difficulty":1.6476805400532035,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220226163722112"}]
 interval: 0
 lapses: 0
-modified: 20220226033418695
+modified: 20220226163722113
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220226033418695
+review: 20220226163722112
 stability: 0.21875
 tags: EnglishWord ?
 title: award

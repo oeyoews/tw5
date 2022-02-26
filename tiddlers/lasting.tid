@@ -1,16 +1,16 @@
 created: 20220221125305368
 creator: oeyoews
-difficulty: 2.4476805400532036
-due: 20220227050925230
-grade: -1
-history: []
+difficulty: 1.6476805400532035
+due: 20220227164017789
+grade: 2
+history: [{"due":"20220227164017789","interval":0,"difficulty":1.6476805400532035,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220226164017789"}]
 interval: 0
 lapses: 0
-modified: 20220226050925230
+modified: 20220226164017790
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220226050925230
+review: 20220226164017789
 stability: 0.21875
 tags: EnglishWord ?
 title: lasting

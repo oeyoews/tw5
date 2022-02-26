@@ -1,17 +1,17 @@
 created: 20220221121308932
 creator: oeyoews
-difficulty: 2.4476805400532036
-due: 20220227050856791
-grade: -1
-history: []
+difficulty: 3.6476805400532037
+due: 20220227164004963
+grade: 0
+history: [{"due":"20220227164004963","interval":0,"difficulty":3.6476805400532037,"stability":0.0960748629946603,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220226164004963"}]
 interval: 0
-lapses: 0
-modified: 20220226050856791
+lapses: 1
+modified: 20220226164004963
 modifier: oeyoews
 reps: 1
 retrievability: 1
-review: 20220226050856791
-stability: 0.21875
+review: 20220226164004963
+stability: 0.0960748629946603
 tags: EnglishWord ?
 title: institute
 type: text/vnd.tiddlywiki

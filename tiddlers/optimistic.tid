@@ -1,16 +1,16 @@
 created: 20220221130856480
 creator: oeyoews
-difficulty: 2.4476805400532036
-due: 20220227051042584
-grade: -1
-history: []
+difficulty: 2.6476805400532037
+due: 20220227164110811
+grade: 1
+history: [{"due":"20220227164110811","interval":0,"difficulty":2.6476805400532037,"stability":0.21875,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220226164110811"}]
 interval: 0
 lapses: 0
-modified: 20220226051042584
+modified: 20220226164110811
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220226051042584
+review: 20220226164110811
 stability: 0.21875
 tags: EnglishWord ?
 title: optimistic

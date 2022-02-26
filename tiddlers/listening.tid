@@ -1,17 +1,17 @@
 created: 20220221084240035
 creator: oeyoews
-difficulty: 5.148683298050514
-due: 20220226161355343
-grade: 1
-history: [{"due":"20220226161355343","interval":1,"difficulty":5.148683298050514,"stability":3.7467775080817907,"retrievability":0.9486832980505138,"grade":1,"lapses":0,"reps":2,"review":"20220222161355343"}]
-interval: 1
+difficulty: 4.267782785316615
+due: 20220307164031745
+grade: 2
+history: [{"due":"20220226161355343","interval":1,"difficulty":5.148683298050514,"stability":3.7467775080817907,"retrievability":0.9486832980505138,"grade":1,"lapses":0,"reps":2,"review":"20220222161355343"},{"due":"20220307164031745","interval":3,"difficulty":4.267782785316615,"stability":9.01389472472236,"retrievability":0.9190994872661005,"grade":2,"lapses":0,"reps":3,"review":"20220226164031745"}]
+interval: 3
 lapses: 0
-modified: 20220222161355343
+modified: 20220226164031746
 modifier: oeyoews
-reps: 2
-retrievability: 0.9486832980505138
-review: 20220222161355343
-stability: 3.7467775080817907
+reps: 3
+retrievability: 0.9190994872661005
+review: 20220226164031745
+stability: 9.01389472472236
 tags: EnglishWord ?
 title: listening
 type: text/vnd.tiddlywiki
