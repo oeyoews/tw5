@@ -1,5 +1,6 @@
 output
 public/*.html
+public
 node_modules
 nohup*
 .log.txt
