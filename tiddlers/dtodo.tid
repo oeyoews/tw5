@@ -2,34 +2,30 @@ category: Ing
 created: 20220224155904555
 creator: oeyoews
 description: todo
-modified: 20220227034728803
+modified: 20220227065037851
 modifier: oeyoews
 se-type: 
 tags: Project
 title: dtodo
 type: text/vnd.tiddlywiki
 
-!!# iphone
+!!# notebook
 
-# <<sticky "__bili__:  english listening videos">>[[listen|https://space.bilibili.com/2080146436/dynamic]]
-
-# <<sticky "__anki__: review">>
-
+# <<sticky-done "__tianjingshadow__: daily sentence" " Completed: 2022-02-27 10:10 am ">>
 
 !!# pc
 # <<sticky-done "__iciba__: everyday sentence" " Completed: 2022-02-27 10:11 am ">>
 
 
-# <<sticky-done "__jjzy__: video" " Completed: 2022-02-27 11:47 am ">>
+# <<sticky-done "__jjzy__: app's video" " Completed: 2022-02-27 11:47 am ">>
+
+# <<sticky "__english:__ a chapter paper reading">>
+
+# <<sticky "__fishing__: finish due words ">>
 
 
-# <<sticky "__fishing__: finish english words ">>
+!!# mobile phone
 
-# <<sticky "__english:__ 真题一篇">>
+# <<sticky "__bili__:  listening videos">>[[listen|https://space.bilibili.com/2080146436/dynamic]]
 
-
-!!# notebook
-
-
-# <<sticky-done "__tianjingshadow__: everyday sentence" " Completed: 2022-02-27 10:10 am ">>
-
+# <<sticky "__anki__: review">>
