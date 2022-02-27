@@ -15,11 +15,11 @@
     "devbuildp": "tiddlywiki --output public --password oeyoew --build index",
     "dev": "tiddlywiki  --listen port=8090",
     "copy": "cp -r files public",
+    "cache1": "npx workbox injectManifest workbox-config.js",
     "copydep@deprecated": "cp -r files/dep/* public",
     "netlifytw5@deprecated": "tiddlywiki --output public --build index && cp -r files public",
     "vercel@deprecated": "tiddlywiki --output public --build index && cp -r files public",
     "workbox@demo": "workbox wizard --injectManifest",
-    "cache1": "npx workbox injectManifest workbox-config.js",
     "workboxDep@deprecated": "workbox generateSW workbox-config.js"
   }
 }
