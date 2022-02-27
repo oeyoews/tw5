@@ -1,5 +1,5 @@
 output
-public
+public/*.html
 node_modules
 nohup*
 .log.txt
@@ -19,3 +19,4 @@ Draft*
 \$__livenote*
 202*.json
 !2022hkw.json
+
