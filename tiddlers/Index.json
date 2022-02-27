@@ -2,9 +2,9 @@
     {
         "created": "20211226085802818",
         "creator": "oeyoews",
-        "text": "{{indexStatus}}\n\n{{Inbox}}\n\n",
+        "text": "{{indexStatus}}\n\n{{Inbox}}\n\n{{KanBan}}",
         "title": "Index",
-        "modified": "20220225144625258",
+        "modified": "20220227090038859",
         "modifier": "oeyoews",
         "tags": "Index",
         "type": "text/vnd.tiddlywiki",
