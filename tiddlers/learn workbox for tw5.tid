@@ -1,9 +1,11 @@
 created: 20220227061801015
 creator: oeyoews
-due: 
-modified: 20220227061801022
+due: 20230401120000000
+modified: 20220227130233932
 modifier: oeyoews
 priority: 
 tags: [[long todo]] todo
 title: learn workbox for tw5
 type: text/vnd.tiddlywiki
+
+* https://lavas-project.github.io/pwa-book/chapter05/5-workbox.html
