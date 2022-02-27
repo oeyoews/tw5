@@ -1,8 +1,8 @@
 created: 20220105061156692
 creator: oeyoews
-modified: 20220224130858594
+modified: 20220227145304832
 modifier: oeyoews
 title: $:/config/projectify/ShowWelcomeMessages
 type: text/vnd.tiddlywiki
 
-no
+yes
