@@ -1,0 +1,11 @@
+created: 20220227080555546
+creator: oeyoews
+list: Todo Done
+modified: 20220227080652610
+modifier: oeyoews
+muuri-tiddler-width: 1
+tags: config
+title: KanBan
+type: text/vnd.tiddlywiki
+
+{{||$:/plugins/BTC/Muuri-Kanban/ui/KanbanTemplate}}
