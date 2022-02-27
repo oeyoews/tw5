@@ -1,18 +1,18 @@
 created: 20220221114221143
 creator: oeyoews
-difficulty: 2.4476805400532036
-due: 20220227033404164
-grade: -1
-history: []
-interval: 0
+difficulty: 2.265444972427654
+due: 20220304113118580
+grade: 1
+history: [{"due":"20220304113118580","interval":1,"difficulty":2.265444972427654,"stability":4.890454470379596,"retrievability":0.6177644323744501,"grade":1,"lapses":0,"reps":2,"review":"20220227113118580"}]
+interval: 1
 lapses: 0
-modified: 20220226033404164
+modified: 20220227113118580
 modifier: oeyoews
 page-cover: 
-reps: 1
-retrievability: 1
-review: 20220226033404164
-stability: 0.21875
+reps: 2
+retrievability: 0.6177644323744501
+review: 20220227113118580
+stability: 4.890454470379596
 tags: EnglishWord ?
 title: sought
 type: text/vnd.tiddlywiki

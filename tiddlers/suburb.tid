@@ -1,17 +1,17 @@
 created: 20220221120642154
 creator: oeyoews
-difficulty: 2.4476805400532036
-due: 20220227050839471
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220226050839471
+difficulty: 3.265444972427654
+due: 20220228113138201
+grade: 0
+history: [{"due":"20220228113138201","interval":1,"difficulty":3.265444972427654,"stability":0.0960748629946603,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20220227113138201"}]
+interval: 1
+lapses: 1
+modified: 20220227113138201
 modifier: oeyoews
 reps: 1
-retrievability: 1
-review: 20220226050839471
-stability: 0.21875
+retrievability: 0.6177644323744501
+review: 20220227113138201
+stability: 0.0960748629946603
 tags: EnglishWord ?
 title: suburb
 type: text/vnd.tiddlywiki

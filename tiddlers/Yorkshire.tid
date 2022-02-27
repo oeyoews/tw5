@@ -1,16 +1,16 @@
 created: 20220221091849314
 creator: oeyoews
 difficulty: NaN
-due: 20220227033348771
+due: 20220228113324824
 grade: 2
-history: [{"due":"20220225163604400","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163604399"},{"due":"20220227033348771","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220226033348771"}]
-interval: 0
+history: [{"due":"20220225163604400","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163604399"},{"due":"20220227033348771","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220226033348771"},{"due":"20220228113324824","interval":1,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220227113324824"}]
+interval: 1
 lapses: NaN
-modified: 20220226033348771
+modified: 20220227113324824
 modifier: oeyoews
 reps: NaN
 retrievability: NaN
-review: 20220226033348771
+review: 20220227113324824
 stability: NaN
 tags: EnglishWord ?
 title: Yorkshire
