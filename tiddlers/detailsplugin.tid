@@ -1,0 +1,9 @@
+created: 20220227163838775
+creator: oeyoews
+modified: 20220227164119713
+modifier: oeyoews
+tags: $:/tags/TextEditor/Snippet
+title: detailsplugin
+type: text/vnd.tiddlywiki
+
+<$details class="success" summary="$1" state="">
