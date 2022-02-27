@@ -6,7 +6,8 @@
   "author": "oeyoews <jyao4783@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@tiddlygit/tiddlywiki": "5.2.2-prerelease-2022-01-28"
+    "@tiddlygit/tiddlywiki": "5.2.2-prerelease-2022-01-28",
+    "workbox-cli": "6.5.0"
   },
   "scripts": {
     "localbuild": "tiddlywiki --output public --build index",
@@ -16,6 +17,7 @@
     "copy": "cp -r files public",
     "copydep@deprecated": "cp -r files/dep/* public",
     "netlifytw5@deprecated": "tiddlywiki --output public --build index && cp -r files public",
-    "vercel@deprecated": "tiddlywiki --output public --build index && cp -r files public"
+    "vercel@deprecated": "tiddlywiki --output public --build index && cp -r files public",
+    "workboxDep": "workbox generateSW workbox-config.js"
   }
 }
