@@ -18,6 +18,7 @@
     "netlifytw5@deprecated": "tiddlywiki --output public --build index && cp -r files public",
     "vercel@deprecated": "tiddlywiki --output public --build index && cp -r files public",
     "workbox@demo": "workbox wizard --injectManifest",
+    "cache1": "npx workbox injectManifest workbox-config.js",
     "workboxDep@deprecated": "workbox generateSW workbox-config.js"
   }
 }
