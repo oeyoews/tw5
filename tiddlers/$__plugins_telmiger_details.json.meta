@@ -1,0 +1,10 @@
+author: Thomas Elmiger
+core-version: 5.1.13
+created: 20170205215504722
+description: DetailsWidget
+list: readme license
+modified: 20180111041211088
+plugin-type: plugin
+title: $:/plugins/telmiger/details
+type: application/json
+version: 0.6.1
