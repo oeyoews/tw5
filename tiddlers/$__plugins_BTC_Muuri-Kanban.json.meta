@@ -1,0 +1,9 @@
+author: Simon Huber
+dependents: 
+description: A Kanban based on Muuri
+list: readme license config
+muuri-tiddler-width: 1
+plugin-type: plugin
+title: $:/plugins/BTC/Muuri-Kanban
+type: application/json
+version: 0.1.14
