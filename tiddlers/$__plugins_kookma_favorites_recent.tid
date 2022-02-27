@@ -1,8 +1,8 @@
 caption: Recently added
 created: 20200103090757281
 creator: a revised version of Andrew Harrison favorite plugin
-list: EVERYSENTENCES buttonDemo PRESENTER $:/core/ui/Actions/RandomSelection $:/config/SyncFilter booklist $:/plugins/kookma/utility/author/exclude-items $:/oeyoews/settings/tiddler-icons [[Image and Icons]] [[Favorites More Examples]]
-modified: 20220224123736537
+list: TW5 EVERYSENTENCES buttonDemo $:/core/ui/Actions/RandomSelection $:/config/SyncFilter booklist $:/plugins/kookma/utility/author/exclude-items $:/oeyoews/settings/tiddler-icons [[Image and Icons]] [[Favorites More Examples]]
+modified: 20220227150922348
 modifier: oeyoews
 tags: $:/tags/Favorites/Folder
 title: $:/plugins/kookma/favorites/recent
