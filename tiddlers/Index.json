@@ -4,12 +4,14 @@
         "creator": "oeyoews",
         "text": "{{Inbox}}",
         "title": "Index",
-        "modified": "20220227164210456",
+        "modified": "20220227164528448",
         "modifier": "oeyoews",
         "tags": "Index",
         "type": "text/vnd.tiddlywiki",
         "color": "#aff024",
         "keywords": "Index",
-        "sticky-footer": "{{footer}} "
+        "sticky-footer": "{{footer}} ",
+        "page-cover": "https://cdn.jsDelivr.net/gh/oeyoews/img/twbanner.jpeg",
+        "icon": "🎉"
     }
 ]
