@@ -1,17 +1,17 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932302
 creator: oeyoews
-difficulty: 1.6476805400532035
-due: 20220227160856912
-grade: 2
-history: [{"due":"20220227160856912","interval":0,"difficulty":1.6476805400532035,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220226160856912"}]
+difficulty: 1.8476805400532033
+due: 20220228160547935
+grade: 1
+history: [{"due":"20220227160856912","interval":0,"difficulty":1.6476805400532035,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220226160856912"},{"due":"20220228160547935","interval":0,"difficulty":1.8476805400532033,"stability":0.21875,"retrievability":1,"grade":1,"lapses":0,"reps":3,"review":"20220227160547935"}]
 interval: 0
 lapses: 0
-modified: 20220226160856912
+modified: 20220227160547935
 modifier: oeyoews
-reps: 2
+reps: 3
 retrievability: 1
-review: 20220226160856912
+review: 20220227160547935
 stability: 0.21875
 tags: [[必考核心词汇 Word List 1]] ?
 title: 2022hkw/20220119011932302047
