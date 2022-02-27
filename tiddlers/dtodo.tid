@@ -2,7 +2,7 @@ category: Ing
 created: 20220224155904555
 creator: oeyoews
 description: todo
-modified: 20220227065037851
+modified: 20220227073055935
 modifier: oeyoews
 se-type: 
 tags: Project
@@ -11,21 +11,21 @@ type: text/vnd.tiddlywiki
 
 !!# notebook
 
-# <<sticky-done "__tianjingshadow__: daily sentence" " Completed: 2022-02-27 10:10 am ">>
+# <<sticky-done "__tianjingshadow__: daily sentence -- //(20 minutes//)" " Completed: 2022-02-27 10:10 am ">>
 
 !!# pc
-# <<sticky-done "__iciba__: everyday sentence" " Completed: 2022-02-27 10:11 am ">>
+# <<sticky-done "__iciba__: everyday sentence //(five minutes)//" " Completed: 2022-02-27 10:11 am ">>
 
 
-# <<sticky-done "__jjzy__: app's video" " Completed: 2022-02-27 11:47 am ">>
+# <<sticky-done "__jjzy__: app's video -- //(one hour)//"  " Completed: 2022-02-27 11:47 am ">>
 
-# <<sticky "__english:__ a chapter paper reading">>
+# <<sticky "__english:__ a chapter paper reading -- //(fiften minutes)//">>
 
-# <<sticky "__fishing__: finish due words ">>
+# <<sticky "__fishing__: finish due words -- //(thirty minutes)//">>
 
 
 !!# mobile phone
 
-# <<sticky "__bili__:  listening videos">>[[listen|https://space.bilibili.com/2080146436/dynamic]]
+# <<sticky "__bili__:  listening videos -- //(ten minutes )//">>[[listen|https://space.bilibili.com/2080146436/dynamic]]
 
-# <<sticky "__anki__: review">>
+# <<sticky "__anki__: review -- //(thirty minutes)//">>
