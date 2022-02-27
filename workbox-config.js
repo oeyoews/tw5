@@ -4,5 +4,5 @@ module.exports = {
 		'**/*.{webmanifest,js}'
 	],
 	swDest: 'public/service-worker.js',
-	swSrc: 'public/service-worker.js'
+	swSrc: 'public-dist/service-worker.js'
 };
