@@ -1,0 +1,47 @@
+{
+    "tiddlers": {
+        "$:/PSaT/lastModified": {
+            "text": "*Hide after first edit\n\n;Related tiddlers\n\n<$list filter=\"[prefix[$:/PSaT/lastModified]] [[$:/temp/lastModifiedDate]] [[$:/temp/lastModifiedSystemDate]]\">\n\n</$list>",
+            "title": "$:/PSaT/lastModified",
+            "modifier": "dev",
+            "modified": "20191222032604024",
+            "list-after": "$:/core/ui/SideBarSegments/site-subtitle",
+            "creator": "dev",
+            "created": "20191222021640568"
+        },
+        "$:/PSaT/lastModified/sidebar": {
+            "text": "<small>\n<$wikify name=last-tooltip text=\"\"\"Last saved change \"{{$:/temp/lastModifiedDate!!last-modified-tiddler}}\" (excludes system tiddlers)\"\"\">\n<$button tooltip=<<last-tooltip>> class=\"tc-btn-invisible\">{{$:/core/images/info-button}} </$button>\nLast Change: <$view tiddler=\"$:/temp/lastModifiedDate\" format=date template=\"hh:mm on DDth of MMM YYYY\" /><<lastModifiedDate>>\n</$wikify>\n<$wikify name=last-tooltip text=\"\"\"System tiddler {{$:/temp/lastModifiedSystemDate!!last-modified-tiddler}} at <$view tiddler=\"$:/temp/lastModifiedSystemDate\" format=date template=\"hh:mm on DDth of MMM YYYY\" /><<lastModifiedDate>> (excludes state and temp tiddlers) \"\"\">\n<$button tooltip=<<last-tooltip>> class=\"tc-btn-invisible\"> {{$:/core/images/options-button}}</$button>\n</$wikify>\n</small>",
+            "title": "$:/PSaT/lastModified/sidebar",
+            "tags": "$:/tags/SideBarSegment",
+            "modifier": "dev",
+            "modified": "20191222035702541",
+            "list-after": "$:/core/ui/SideBarSegments/site-subtitle",
+            "creator": "dev",
+            "created": "20191222022907035"
+        },
+        "$:/PSaT/lastModified/StartupActions": {
+            "text": "\\import [[$:/core/ui/PageMacros]] [all[shadows+tiddlers]tag[$:/tags/Macro]!has[draft.of]]\n<$list filter=\"[!is[system]is[tiddler]!modified[]!sort[modified]limit[1]]\" variable=lastModifiedTiddler>\n  <$action-setfield $tiddler=\"$:/temp/lastModifiedDate\" text={{{ [<lastModifiedTiddler>get[modified]] }}} last-modified-tiddler=<<lastModifiedTiddler>> /></$list>\n<$list filter=\"[is[system]!modified[]!prefix[$:/state]!prefix[$:/temp]!sort[modified]limit[1]]\" variable=lastModifiedSystemTiddler>\n  <$action-setfield $tiddler=\"$:/temp/lastModifiedSystemDate\" text={{{ [<lastModifiedSystemTiddler>get[modified]] }}} last-modified-tiddler=<<lastModifiedSystemTiddler>> /></$list>",
+            "title": "$:/PSaT/lastModified/StartupActions",
+            "tags": "$:/tags/StartupAction",
+            "modifier": "dev",
+            "modified": "20191222035727820",
+            "list-after": "$:/core/ui/SideBarSegments/site-subtitle",
+            "creator": "dev",
+            "created": "20191222023127603"
+        },
+        "$:/temp/lastModifiedDate": {},
+        "$:/temp/lastModifiedSystemDate": {},
+        "last-modified.bundle": {
+            "text": "<pre>{{!!filter}}</pre>",
+            "wiki-owner": "http://192.168.1.81/Development/!SandboxWikis/VariouseSandbox.html",
+            "title": "last-modified.bundle",
+            "tags": "$:/tags/Filter",
+            "modifier": "dev",
+            "modified": "20191222034814578",
+            "filter": "[prefix[$:/PSaT/lastModified]] [prefix[$:/temp/lastModified]] [[last-modified.bundle]]",
+            "description": "Display last modified tiddler/system tiddler in SideBar at load",
+            "creator": "dev",
+            "created": "20191222034514259"
+        }
+    }
+}
