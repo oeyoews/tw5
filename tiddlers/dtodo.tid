@@ -1,33 +1,22 @@
+caption: {{||Select}}
 category: Ing
 created: 20220224155904555
 creator: oeyoews
 description: todo
-modified: 20220227144516609
+modified: 20220227171358895
 modifier: oeyoews
-se-type: 
 tags: Project
 title: dtodo
 type: text/vnd.tiddlywiki
 
 !!# notebook
 
-# <<sticky-done "__tianjingshadow__: daily sentence -- //(20 minutes//)" " Completed: 2022-02-27 10:10 am ">>
+# <<sticky "__tianjingshadow__: daily sentence -- //(20 minutes//)">>
 
 !!# pc
-# <<sticky-done "__iciba__: everyday sentence //(five minutes)//" " Completed: 2022-02-27 10:11 am ">>
 
+# <<sticky "__jjzy__: apps video -- //(one hour)//">>
 
-# <<sticky-done "__jjzy__: app's video -- //(one hour)//"  " Completed: 2022-02-27 11:47 am ">>
+# <<sticky "__english:__ a chapter paper reading -- //(fiften minutes)//">>
 
-# <<sticky-done "__english:__ a chapter paper reading -- //(fiften minutes)//" " Completed: 2022-02-27 5:02 pm ">>
-
-# <<sticky-done "__math__: evening" " Completed: 2022-02-27 10:44 pm ">>
-
-# <<sticky-done "__fishing__: finish due words -- //(thirty minutes)//" " Completed: 2022-02-27 10:45 pm ">>
-
-
-!!# mobile phone
-
-# <<sticky-done "__bili__:  listening videos -- //(ten minutes )//" " Completed: 2022-02-27 10:45 pm ">>[[listen|https://space.bilibili.com/2080146436/dynamic]]
-
-# <<sticky-done "__anki__: review -- //(thirty minutes)//" " Completed: 2022-02-27 10:45 pm ">>
+# <<sticky "__math__: evening">>
