@@ -2,7 +2,7 @@ category: Ing
 created: 20220224155904555
 creator: oeyoews
 description: todo
-modified: 20220227025221980
+modified: 20220227034728803
 modifier: oeyoews
 se-type: 
 tags: Project
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 # <<sticky-done "__iciba__: everyday sentence" " Completed: 2022-02-27 10:11 am ">>
 
 
-# <<sticky "__jjzy__: video">>
+# <<sticky-done "__jjzy__: video" " Completed: 2022-02-27 11:47 am ">>
 
 
 # <<sticky "__fishing__: finish english words ">>
