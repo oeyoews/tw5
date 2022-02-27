@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/20four/SearchWord}}
 created: 20220119011921264
 creator: oeyoews
-difficulty: 7.095745402769124
-due: 20220227013241203
-grade: 0
-history: [{"due":"20220223163149664","interval":1,"difficulty":6.148683298050514,"stability":0.4259704768919878,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222163149664"},{"due":"20220225085411182","interval":1,"difficulty":7.129556656232493,"stability":0.18522392718173394,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20220224085411182"},{"due":"20220225163409074","interval":0,"difficulty":6.329556656232493,"stability":0.18522392718173394,"retrievability":1,"grade":2,"lapses":2,"reps":2,"review":"20220224163409074"},{"due":"20220227013241203","interval":1,"difficulty":7.095745402769124,"stability":0.08893711306825607,"retrievability":0.5661887465366303,"grade":0,"lapses":3,"reps":1,"review":"20220226013241203"}]
+difficulty: 5.601594606935005
+due: 20220302091901426
+grade: 2
+history: [{"due":"20220223163149664","interval":1,"difficulty":6.148683298050514,"stability":0.4259704768919878,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222163149664"},{"due":"20220225085411182","interval":1,"difficulty":7.129556656232493,"stability":0.18522392718173394,"retrievability":0.780873358181979,"grade":0,"lapses":2,"reps":1,"review":"20220224085411182"},{"due":"20220225163409074","interval":0,"difficulty":6.329556656232493,"stability":0.18522392718173394,"retrievability":1,"grade":2,"lapses":2,"reps":2,"review":"20220224163409074"},{"due":"20220227013241203","interval":1,"difficulty":7.095745402769124,"stability":0.08893711306825607,"retrievability":0.5661887465366303,"grade":0,"lapses":3,"reps":1,"review":"20220226013241203"},{"due":"20220302091901426","interval":1,"difficulty":5.601594606935005,"stability":2.6859301919389544,"retrievability":0.3058492041658807,"grade":2,"lapses":3,"reps":2,"review":"20220227091901425"}]
 interval: 1
 lapses: 3
-modified: 20220226013241204
+modified: 20220227091901426
 modifier: oeyoews
-reps: 1
-retrievability: 0.5661887465366303
-review: 20220226013241203
-stability: 0.08893711306825607
+reps: 2
+retrievability: 0.3058492041658807
+review: 20220227091901425
+stability: 2.6859301919389544
 tags: [[Day 1 认知词汇]] ?
 title: 20four/20220119011921264904
 type: text/vnd.tiddlywiki

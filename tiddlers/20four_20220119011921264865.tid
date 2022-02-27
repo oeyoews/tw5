@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/20four/SearchWord}}
 created: 20220119011921264
 creator: oeyoews
-difficulty: 5.222006691583267
-due: 20220227085320289
+difficulty: 4.317438240930701
+due: 20220307091744792
 grade: 2
-history: [{"due":"20220223163006686","interval":1,"difficulty":6.148683298050514,"stability":0.7778591317158038,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222163006686"},{"due":"20220227085320289","interval":1,"difficulty":5.222006691583267,"stability":2.861774387301945,"retrievability":0.8733233935327525,"grade":2,"lapses":1,"reps":2,"review":"20220224085320289"}]
-interval: 1
+history: [{"due":"20220223163006686","interval":1,"difficulty":6.148683298050514,"stability":0.7778591317158038,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222163006686"},{"due":"20220227085320289","interval":1,"difficulty":5.222006691583267,"stability":2.861774387301945,"retrievability":0.8733233935327525,"grade":2,"lapses":1,"reps":2,"review":"20220224085320289"},{"due":"20220307091744792","interval":3,"difficulty":4.317438240930701,"stability":8.371202794133112,"retrievability":0.8954315493474347,"grade":2,"lapses":1,"reps":3,"review":"20220227091744792"}]
+interval: 3
 lapses: 1
-modified: 20220224085320289
+modified: 20220227091744792
 modifier: oeyoews
-reps: 2
-retrievability: 0.8733233935327525
-review: 20220224085320289
-stability: 2.861774387301945
+reps: 3
+retrievability: 0.8954315493474347
+review: 20220227091744792
+stability: 8.371202794133112
 tags: [[Day 1 认知词汇]] ?
 title: 20four/20220119011921264865
 type: text/vnd.tiddlywiki
