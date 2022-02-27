@@ -18,6 +18,6 @@
     "copydep@deprecated": "cp -r files/dep/* public",
     "netlifytw5@deprecated": "tiddlywiki --output public --build index && cp -r files public",
     "vercel@deprecated": "tiddlywiki --output public --build index && cp -r files public",
-    "workboxDep@deprecated": "workbox generateSW workbox-config.js",
+    "workboxDep@deprecated": "workbox generateSW workbox-config.js"
   }
 }
