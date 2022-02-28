@@ -1,15 +1,19 @@
+<div style="text-align: left;background: white;border-radius: 5px; float:none">
+
+<details>
+<summary>More</summary>
+
 <!-- vim-markdown-toc GitLab -->
 
 * [README](#readme)
   * [Linux](#linux)
     * [service](#service)
-  * [Window](#window)
-    * [methos1](#methos1)
-    * [methos2](#methos2)
   * [run(general)](#rungeneral)
 
 <!-- vim-markdown-toc -->
+</details>
 
+</div>
 <!--[![Netlify Status](https://api.netlify.com/api/v1/badges/a42c9618-8fd5-41cd-9cb9-901b588369ad/deploy-status)](https://app.netlify.com/sites/tw5/deploys)-->
 
 # README
@@ -28,17 +32,17 @@
 
 > if use service, to kill it, and it will start automaticaly instantly
 
-## Window
+<!-- ## Window-->
 
-### methos1
+<!-- ### methos1-->
 
-* install node git
-* `npm i -g tiddlywiki`(important)
-* click run.bat
+<!--* install node git-->
+<!--* `npm i -g tiddlywiki`(important)-->
+<!--* click run.bat-->
 
-### methos2
+<!-- ### methos2-->
 
-* use TidGi*
+<!--* use TidGi*-->
 
 ## run(general)
 
