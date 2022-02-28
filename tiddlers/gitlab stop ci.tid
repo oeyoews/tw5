@@ -1,0 +1,9 @@
+created: 20220228134118553
+creator: oeyoews
+modified: 20220228134203786
+modifier: oeyoews
+tags: gitlab
+title: gitlab stop ci
+type: text/vnd.tiddlywiki
+
+* https://docs.gitlab.com/ee/ci/jobs/#hide-jobs

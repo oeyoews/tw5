@@ -1,9 +1,9 @@
 image: node:latest
 
-stages:
+.stages:
   - deploy
 
-.pages:
+pages:
   stage: deploy
   script:
   # yarn install to fix cache first
