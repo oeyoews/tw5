@@ -1,7 +1,8 @@
+caption: {{$:/plugins/nico/projectify/images/calendar}}
 created: 20201210171047824
 creator: oeyoews
 description: Show all todos scheduled for today
-modified: 20220220051227608
+modified: 20220228122149657
 modifier: oeyoews
 tags: $:/tags/PageControls
 title: $:/plugins/nico/projectify/ui/buttons/Scheduled
