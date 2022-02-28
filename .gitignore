@@ -1,5 +1,5 @@
 output
-public/*.html
+# public/*.html
 public
 node_modules
 nohup*
