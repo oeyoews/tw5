@@ -3,7 +3,7 @@ image: node:latest
 stages:
   - deploy
 
-pages:
+.pages:
   stage: deploy
   script:
   # yarn install to fix cache first
@@ -17,7 +17,7 @@ pages:
     expire_in: 20 minutes
 
   only:
-    #- tags
+    - tags
   #- main
 
 cache:
