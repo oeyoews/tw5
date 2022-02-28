@@ -1,0 +1,11 @@
+created: 20220228124858382
+creator: oeyoews
+modified: 20220228125138787
+modifier: oeyoews
+tags: config TiddlyWiki5
+title: notion page img gallery
+type: text/vnd.tiddlywiki
+
+<<lightbox "https://cdn.jsdelivr.net/gh/oeyoews/img/cat-scape.jpg" "Hello" >>
+
+<<lightbox "https://cdn.jsdelivr.net/gh/oeyoews/img/twbanner.jpeg" "Hello" >>
