@@ -1,13 +1,13 @@
 image: node:latest
 
 stages:
-  - hello
   - deploy
 
 test:
   stage: hello
   script:
   - echo "This is a echo statement."
+
 
 .pages:
   stage: deploy
@@ -23,8 +23,8 @@ test:
     expire_in: 20 minutes
 
   only:
-    - tags
-  #- main
+    #- tags
+    - null
 
 cache:
   paths:
