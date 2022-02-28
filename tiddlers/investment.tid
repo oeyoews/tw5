@@ -1,17 +1,17 @@
 created: 20220221112442186
 creator: oeyoews
-difficulty: 6.107385000235099
-due: 20220227164009339
-grade: 0
-history: [{"due":"20220225163748077","interval":0,"difficulty":4.185421121632139,"stability":0.16205398577412577,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220224163748077"},{"due":"20220227013738585","interval":1,"difficulty":4.907385000235099,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20220226013738585"},{"due":"20220227164009339","interval":0,"difficulty":6.107385000235099,"stability":0.052727002747608956,"retrievability":1,"grade":0,"lapses":3,"reps":1,"review":"20220226164009339"}]
-interval: 0
+difficulty: 4.442960458270144
+due: 20220303022426890
+grade: 2
+history: [{"due":"20220225163748077","interval":0,"difficulty":4.185421121632139,"stability":0.16205398577412577,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220224163748077"},{"due":"20220227013738585","interval":1,"difficulty":4.907385000235099,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20220226013738585"},{"due":"20220227164009339","interval":0,"difficulty":6.107385000235099,"stability":0.052727002747608956,"retrievability":1,"grade":0,"lapses":3,"reps":1,"review":"20220226164009339"},{"due":"20220303022426890","interval":1,"difficulty":4.442960458270144,"stability":2.8087310965019925,"retrievability":0.1355754580350447,"grade":2,"lapses":3,"reps":2,"review":"20220228022426890"}]
+interval: 1
 lapses: 3
-modified: 20220226164009339
+modified: 20220228022426891
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220226164009339
-stability: 0.052727002747608956
+reps: 2
+retrievability: 0.1355754580350447
+review: 20220228022426890
+stability: 2.8087310965019925
 tags: EnglishWord ?
 title: investment
 type: text/vnd.tiddlywiki

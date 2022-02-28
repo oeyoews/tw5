@@ -1,17 +1,17 @@
 created: 20220222004912568
 creator: oeyoews
-difficulty: 2.6476805400532037
-due: 20220227163827617
-grade: 1
-history: [{"due":"20220227163827617","interval":0,"difficulty":2.6476805400532037,"stability":0.21875,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220226163827617"}]
-interval: 0
+difficulty: 1.465444972427654
+due: 20220307021604128
+grade: 2
+history: [{"due":"20220227163827617","interval":0,"difficulty":2.6476805400532037,"stability":0.21875,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220226163827617"},{"due":"20220307021604128","interval":1,"difficulty":1.465444972427654,"stability":6.5560484940720665,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":3,"review":"20220228021604127"}]
+interval: 1
 lapses: 0
-modified: 20220226163827617
+modified: 20220228021604128
 modifier: oeyoews
-reps: 2
-retrievability: 1
-review: 20220226163827617
-stability: 0.21875
+reps: 3
+retrievability: 0.6177644323744501
+review: 20220228021604127
+stability: 6.5560484940720665
 tags: EnglishWord ?
 title: consolidate
 type: text/vnd.tiddlywiki

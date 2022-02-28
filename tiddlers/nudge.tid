@@ -1,17 +1,17 @@
 created: 20220221133226955
 creator: oeyoews
-difficulty: 3.6476805400532037
-due: 20220227164058638
+difficulty: 4.181668552156494
+due: 20220301022511226
 grade: 0
-history: [{"due":"20220227164058638","interval":0,"difficulty":3.6476805400532037,"stability":0.0960748629946603,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220226164058638"}]
-interval: 0
-lapses: 1
-modified: 20220226164058638
+history: [{"due":"20220227164058638","interval":0,"difficulty":3.6476805400532037,"stability":0.0960748629946603,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220226164058638"},{"due":"20220301022511226","interval":1,"difficulty":4.181668552156494,"stability":0.06302758633267336,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20220228022511226"}]
+interval: 1
+lapses: 2
+modified: 20220228022511226
 modifier: oeyoews
 reps: 1
-retrievability: 1
-review: 20220226164058638
-stability: 0.0960748629946603
+retrievability: 0.33398801210329004
+review: 20220228022511226
+stability: 0.06302758633267336
 tags: EnglishWord ?
 title: nudge
 type: text/vnd.tiddlywiki
