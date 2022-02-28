@@ -1,7 +1,7 @@
 image: node:latest
 
 stages:
-  - deploy
+  #- deploy
 
 .pages:
   stage: deploy
