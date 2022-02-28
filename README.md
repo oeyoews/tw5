@@ -1,7 +1,7 @@
-<div style="text-align: left;background: white;border-radius: 5px; float:none">
+<div style="text-align: left;background: lightgreen;border-radius: 5px; float:none">
 
 <details>
-<summary>More</summary>
+<summary>TOC</summary>
 
 <!-- vim-markdown-toc GitLab -->
 
