@@ -9,7 +9,7 @@
     "@tiddlygit/tiddlywiki": "5.2.2-prerelease-2022-02-25"
   },
   "scripts": {
-    "localbuild": "tiddlywiki --output public --build index",
+    "offline": "tiddlywiki --output public --build index",
     "devbuild": "tiddlywiki --output public --build index",
     "devbuildp": "tiddlywiki --output public --password oeyoew --build index",
     "dev": "tiddlywiki  --listen port=8090",
