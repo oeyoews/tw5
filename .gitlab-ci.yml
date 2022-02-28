@@ -22,8 +22,8 @@ pages:
     expire_in: 20 minutes
 
   only:
+    - dev
     #- tags
-    - null
 
 cache:
   paths:
