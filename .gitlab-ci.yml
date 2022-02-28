@@ -3,11 +3,6 @@ image: node:latest
 stages:
   - deploy
 
-test:
-  stage: hello
-  script:
-  - echo "This is a echo statement."
-
 pages:
   stage: deploy
   script:
