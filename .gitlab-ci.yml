@@ -3,8 +3,8 @@ image: node:latest
 stages:
   - deploy
 
-pages:
-  .stage: deploy
+.pages:
+  stage: deploy
   script:
   # yarn install to fix cache first
   - yarn install
