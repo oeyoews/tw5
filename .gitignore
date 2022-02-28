@@ -23,13 +23,13 @@ tiddlers/\$__config_muuri_storyview_columns.tid
 
 # tiddlers/\$__config_muuri_storyview_drag-enabled.tid
 
-# foler
-subwiki
-livenote
-
-# submodule
-img
-
 \$__state_notebook-sidebar*
 
+# submodule
+subwiki
+img
+
+# local foler
 2022hkw
+deprecated
+livenote
