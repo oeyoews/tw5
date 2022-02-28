@@ -4,7 +4,7 @@ configtype: vtabs
 fontsize: small
 scrollbars: show
 barpreset: 5
-storyfix: no
+storyfix: yes
 titlebaradjust: no
 topbar: hide
 topbarchoice: hide
@@ -23,4 +23,4 @@ barpreset2ops: hide
 barpreset3ops: hide
 barpreset4ops: hide
 searchbutton: hide
-focus: show
+focus: hide
