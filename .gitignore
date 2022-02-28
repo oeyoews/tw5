@@ -31,4 +31,5 @@ livenote
 # submodule
 img
 
-# \$__state_notebook-sidebar*
+\$__state_notebook-sidebar*
+!tiddlers/\$__state_notebook-sidebar.tid
