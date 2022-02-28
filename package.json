@@ -6,9 +6,11 @@
   "author": "oeyoews <jyao4783@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "html-minifier-terser": "6.1.0",
     "@tiddlygit/tiddlywiki": "5.2.2-prerelease-2022-02-25"
   },
   "scripts": {
+    "htmlmin": "html-minifier-terser -c ./htmlmin.json -o public/index.html public/index.html",
     "offline": "tiddlywiki --output public --build index",
     "devbuild": "tiddlywiki --output public --build index",
     "devbuildp": "tiddlywiki --output public --password oeyoew --build index",
