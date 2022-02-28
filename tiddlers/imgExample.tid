@@ -1,9 +1,12 @@
 created: 20211226064652275
 creator: oeyoews
-modified: 20220221064621081
+modified: 20220228115009503
 modifier: oeyoews
 tags: png
 title: imgExample
 type: text/vnd.tiddlywiki
 
-[img width=200 [files/img.png]]
+<!--[img width=200 [files/img.png]]
+-->
+
+<<lightbox "files/img.png" "Hello" >>
