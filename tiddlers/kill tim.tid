@@ -1,10 +1,10 @@
 created: 20220118161849319
 creator: oeyoews
-modified: 20220221070027883
+modified: 20220228013218380
 modifier: oeyoews
 status: rework
 tags: wine
-title: TIMStartup
+title: kill tim
 type: text/vnd.tiddlywiki
 
 * 如果手动kill tim.exe, must kill all *.exe, unless appear can't starup error
