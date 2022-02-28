@@ -1,0 +1,10 @@
+created: 20220130024229104
+dependents: 
+description: Insert a html code
+list: readme
+modified: 20220227131636798
+name: HTML Button
+plugin-type: plugin
+title: $:/xp/html-button
+type: application/json
+version: 5.2.1.1
