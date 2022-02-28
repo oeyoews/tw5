@@ -1,0 +1,9 @@
+created: 20220228012732017
+creator: oeyoews
+modified: 20220228012925663
+modifier: oeyoews
+tags: Linux
+title: transferred symbols
+type: text/vnd.tiddlywiki
+
+* in linux terminal, this `$` is need to updown it, because it is a variable quote
