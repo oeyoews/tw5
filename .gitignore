@@ -12,7 +12,7 @@ Draft*
 # \$__themes_nico_notebook_ui_Topbar.tid
 \$__plugins_felixhayashi_tiddlymap*
 # \$__todolist*
-\$__trashbin*
+# \$__trashbin*
 
 \$__state_notebook-sidebar*
 \$__xp_manageTags_tagging.tid
@@ -26,3 +26,4 @@ tiddlers/\$__config_muuri_storyview_columns.tid
 # tiddlers/\$__config_muuri_storyview_drag-enabled.tid
 
 subwiki
+livenote

@@ -3,7 +3,7 @@ category: Ing
 created: 20220224155904555
 creator: oeyoews
 description: todo
-modified: 20220227171358895
+modified: 20220228083109196
 modifier: oeyoews
 tags: Project
 title: dtodo
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 
 !!# notebook
 
-# <<sticky "__tianjingshadow__: daily sentence -- //(20 minutes//)">>
+# <<sticky-done "__tianjingshadow__: daily sentence -- //(20 minutes//)" " Completed: 2022-02-28 4:31 pm ">>
 
 !!# pc
 
