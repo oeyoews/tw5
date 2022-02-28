@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/20four/SearchWord}}
 created: 20220119011921264
 creator: oeyoews
-difficulty: 8.344057448109362
-due: 20220227163046843
+difficulty: 6.7461301141789365
+due: 20220302003323360
 grade: 2
-history: [{"due":"20220223161641067","interval":1,"difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222161641067"},{"due":"20220225011420523","interval":1,"difficulty":7.280041887453755,"stability":0.3155666907540653,"retrievability":0.9313585894032408,"grade":0,"lapses":2,"reps":1,"review":"20220224011420523"},{"due":"20220225163133889","interval":0,"difficulty":8.480041887453755,"stability":0.13721726016245223,"retrievability":1,"grade":0,"lapses":3,"reps":1,"review":"20220224163133889"},{"due":"20220227012946973","interval":1,"difficulty":9.144057448109363,"stability":0.0658862338557942,"retrievability":0.4640155606556087,"grade":0,"lapses":4,"reps":1,"review":"20220226012946973"},{"due":"20220227163046843","interval":0,"difficulty":8.344057448109362,"stability":0.0658862338557942,"retrievability":1,"grade":2,"lapses":4,"reps":2,"review":"20220226163046843"}]
-interval: 0
+history: [{"due":"20220223161641067","interval":1,"difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222161641067"},{"due":"20220225011420523","interval":1,"difficulty":7.280041887453755,"stability":0.3155666907540653,"retrievability":0.9313585894032408,"grade":0,"lapses":2,"reps":1,"review":"20220224011420523"},{"due":"20220225163133889","interval":0,"difficulty":8.480041887453755,"stability":0.13721726016245223,"retrievability":1,"grade":0,"lapses":3,"reps":1,"review":"20220224163133889"},{"due":"20220227012946973","interval":1,"difficulty":9.144057448109363,"stability":0.0658862338557942,"retrievability":0.4640155606556087,"grade":0,"lapses":4,"reps":1,"review":"20220226012946973"},{"due":"20220227163046843","interval":0,"difficulty":8.344057448109362,"stability":0.0658862338557942,"retrievability":1,"grade":2,"lapses":4,"reps":2,"review":"20220226163046843"},{"due":"20220302003323360","interval":1,"difficulty":6.7461301141789365,"stability":2.251334323848644,"retrievability":0.20207266606957394,"grade":2,"lapses":4,"reps":3,"review":"20220228003323359"}]
+interval: 1
 lapses: 4
-modified: 20220226163046843
+modified: 20220228003323360
 modifier: oeyoews
-reps: 2
-retrievability: 1
-review: 20220226163046843
-stability: 0.0658862338557942
+reps: 3
+retrievability: 0.20207266606957394
+review: 20220228003323359
+stability: 2.251334323848644
 tags: [[Day 1 核心词汇]] ?
 title: 20four/20220119011921264659
 type: text/vnd.tiddlywiki
