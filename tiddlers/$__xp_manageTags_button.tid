@@ -1,8 +1,10 @@
 caption: {{$:/xp/manageTags/images/tag}} manage tags
 created: 20220202094522695
+creator: oeyoews
 description: Manage tags in view mode
-modified: 20220202094524197
-tags: TPP $:/tags/ViewToolbar
+modified: 20220228162340156
+modifier: oeyoews
+tags: TPP $:/tags/PageControls
 title: $:/xp/manageTags/button
 type: text/vnd.tiddlywiki
 
