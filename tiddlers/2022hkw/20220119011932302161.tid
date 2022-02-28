@@ -1,0 +1,19 @@
+caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
+created: 20220119011932302
+creator: oeyoews
+difficulty: 3.0476805400532037
+due: 20220301165327218
+grade: 0
+history: [{"due":"20220227161550669","interval":0,"difficulty":2.6476805400532037,"stability":0.21875,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220226161550669"},{"due":"20220228173754793","interval":0,"difficulty":1.8476805400532037,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":3,"review":"20220227173754792"},{"due":"20220301165327218","interval":0,"difficulty":3.0476805400532037,"stability":0.08507834253141604,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220228165327218"}]
+interval: 0
+lapses: 1
+modified: 20220228165327218
+modifier: oeyoews
+reps: 1
+retrievability: 1
+review: 20220228165327218
+stability: 0.08507834253141604
+tags: [[必考核心词汇 Word List 1]] ?
+title: 2022hkw/20220119011932302161
+type: text/vnd.tiddlywiki
+word: justify
