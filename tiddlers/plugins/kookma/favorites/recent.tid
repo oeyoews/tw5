@@ -1,8 +1,8 @@
 caption: Recently added
 created: 20200103090757281
 creator: a revised version of Andrew Harrison favorite plugin
-list: $:/plugins/nico/projectify/ui/buttons/Scheduled $:/config/FileSystemPaths TW5 EVERYSENTENCES buttonDemo $:/core/ui/Actions/RandomSelection $:/config/SyncFilter booklist $:/plugins/kookma/utility/author/exclude-items $:/oeyoews/settings/tiddler-icons [[Image and Icons]] [[Favorites More Examples]]
-modified: 20220228122214165
+list: $:/config/FileSystemPaths TW5 EVERYSENTENCES buttonDemo $:/core/ui/Actions/RandomSelection $:/config/SyncFilter booklist $:/plugins/kookma/utility/author/exclude-items $:/oeyoews/settings/tiddler-icons [[Image and Icons]] [[Favorites More Examples]]
+modified: 20220228235220410
 modifier: oeyoews
 tags: $:/tags/Favorites/Folder
 title: $:/plugins/kookma/favorites/recent
