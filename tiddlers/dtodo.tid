@@ -3,7 +3,7 @@ category: Ing
 created: 20220224155904555
 creator: oeyoews
 description: todo
-modified: 20220228083109196
+modified: 20220228113028885
 modifier: oeyoews
 tags: Project
 title: dtodo
@@ -15,7 +15,7 @@ type: text/vnd.tiddlywiki
 
 !!# pc
 
-# <<sticky "__jjzy__: apps video -- //(one hour)//">>
+# <<sticky-done "__jjzy__: apps video -- //(one hour)//" " Completed: 2022-02-28 5:15 pm ">>
 
 # <<sticky "__english:__ a chapter paper reading -- //(fiften minutes)//">>
 

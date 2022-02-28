@@ -1,17 +1,17 @@
 created: 20220227113016561
 creator: oeyoews
-difficulty: 1.7275095844283441
-due: 20220228113023513
-grade: -1
-history: []
-interval: 0
+difficulty: 1.371293090683986
+due: 20220307113320383
+grade: 1
+history: [{"due":"20220307113320383","interval":1,"difficulty":1.371293090683986,"stability":7.113414924099716,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20220228113320383"}]
+interval: 1
 lapses: 0
-modified: 20220227113023513
+modified: 20220228113320383
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220227113023513
-stability: 0.1296875
+reps: 2
+retrievability: 0.4437835062556419
+review: 20220228113320383
+stability: 7.113414924099716
 tags: EnglishWord ?
 title: roast
 type: text/vnd.tiddlywiki
