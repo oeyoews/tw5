@@ -1,7 +1,13 @@
 image: node:latest
 
 stages:
-  #- deploy
+  - hello
+  - deploy
+
+test:
+  stage: hello
+  script:
+  - echo "This is a echo statement."
 
 .pages:
   stage: deploy
