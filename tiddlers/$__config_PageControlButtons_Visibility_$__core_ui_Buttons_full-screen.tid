@@ -1,8 +1,8 @@
 created: 20211226085856432
 creator: oeyoews
-modified: 20220209161842964
+modified: 20220228015241113
 modifier: oeyoews
 title: $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/full-screen
 type: text/vnd.tiddlywiki
 
-hide
+show
