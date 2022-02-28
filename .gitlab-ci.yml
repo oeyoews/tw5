@@ -8,8 +8,7 @@ test:
   script:
   - echo "This is a echo statement."
 
-
-.pages:
+pages:
   stage: deploy
   script:
   # yarn install to fix cache first
