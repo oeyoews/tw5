@@ -1,23 +1,20 @@
-caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220301085713420
 creator: oeyoews
-difficulty: 1.0984764469154382
-due: 20220302073523549
-grade: -1
-history: []
+difficulty: 2.2984764469154384
+due: 20220302163901349
+grade: 0
+history: [{"due":"20220302163901349","interval":0,"difficulty":2.2984764469154384,"stability":0.08507834253141604,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220301163901349"}]
 interval: 0
-lapses: 0
-modified: 20220301085738022
+lapses: 1
+modified: 20220301163901349
 modifier: oeyoews
-page-cover: https://cdn.jsdelivr.net/gh/oeyoews/img/cat-scape.jpg
 reps: 1
 retrievability: 1
-review: 20220301073523548
-stability: 0.11484375000000001
+review: 20220301163901349
+stability: 0.08507834253141604
 tags: EnglishWord ?
 title: intuitively
 type: text/vnd.tiddlywiki
-word: intvutively
 
 <<<.tc-fish-quote
 """intuitively

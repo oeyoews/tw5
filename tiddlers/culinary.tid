@@ -1,17 +1,17 @@
 created: 20220221084339149
 creator: oeyoews
 difficulty: 10
-due: 20220302072538760
+due: 20220302164203488
 grade: 0
-history: [{"due":"20220223161402492","interval":1,"difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222161402491"},{"due":"20220225011355715","interval":1,"difficulty":7.280041887453755,"stability":0.3155666907540653,"retrievability":0.9313585894032408,"grade":0,"lapses":2,"reps":1,"review":"20220224011355715"},{"due":"20220225163122375","interval":0,"difficulty":8.480041887453755,"stability":0.13721726016245223,"retrievability":1,"grade":0,"lapses":3,"reps":1,"review":"20220224163122375"},{"due":"20220227012859553","interval":1,"difficulty":9.144057448109363,"stability":0.0658862338557942,"retrievability":0.4640155606556087,"grade":0,"lapses":4,"reps":1,"review":"20220226012859552"},{"due":"20220227163856427","interval":0,"difficulty":10,"stability":0.035561369273656,"retrievability":1,"grade":0,"lapses":5,"reps":1,"review":"20220226163856427"},{"due":"20220301022334508","interval":1,"difficulty":10,"stability":0.018983544194197833,"retrievability":0.051675057728194654,"grade":0,"lapses":6,"reps":1,"review":"20220228022334507"},{"due":"20220302072538760","interval":1,"difficulty":10,"stability":0.014063355432178392,"retrievability":0.0038870793642343214,"grade":0,"lapses":7,"reps":1,"review":"20220301072538760"}]
-interval: 1
-lapses: 7
-modified: 20220301072538761
+history: [{"due":"20220223161402492","interval":1,"difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222161402491"},{"due":"20220225011355715","interval":1,"difficulty":7.280041887453755,"stability":0.3155666907540653,"retrievability":0.9313585894032408,"grade":0,"lapses":2,"reps":1,"review":"20220224011355715"},{"due":"20220225163122375","interval":0,"difficulty":8.480041887453755,"stability":0.13721726016245223,"retrievability":1,"grade":0,"lapses":3,"reps":1,"review":"20220224163122375"},{"due":"20220227012859553","interval":1,"difficulty":9.144057448109363,"stability":0.0658862338557942,"retrievability":0.4640155606556087,"grade":0,"lapses":4,"reps":1,"review":"20220226012859552"},{"due":"20220227163856427","interval":0,"difficulty":10,"stability":0.035561369273656,"retrievability":1,"grade":0,"lapses":5,"reps":1,"review":"20220226163856427"},{"due":"20220301022334508","interval":1,"difficulty":10,"stability":0.018983544194197833,"retrievability":0.051675057728194654,"grade":0,"lapses":6,"reps":1,"review":"20220228022334507"},{"due":"20220302072538760","interval":1,"difficulty":10,"stability":0.014063355432178392,"retrievability":0.0038870793642343214,"grade":0,"lapses":7,"reps":1,"review":"20220301072538760"},{"due":"20220302164203488","interval":0,"difficulty":10,"stability":0.01041838994808097,"retrievability":1,"grade":0,"lapses":8,"reps":1,"review":"20220301164203488"}]
+interval: 0
+lapses: 8
+modified: 20220301164203488
 modifier: oeyoews
 reps: 1
-retrievability: 0.0038870793642343214
-review: 20220301072538760
-stability: 0.014063355432178392
+retrievability: 1
+review: 20220301164203488
+stability: 0.01041838994808097
 tags: EnglishWord ?
 title: culinary
 type: text/vnd.tiddlywiki

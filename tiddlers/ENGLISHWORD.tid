@@ -1,18 +1,17 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220221084858815
 creator: oeyoews
-difficulty: 1.0984764469154382
-due: 20220302073523549
-grade: -1
-history: []
+difficulty: 1
+due: 20220302163826285
+grade: 2
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"}]
 interval: 0
 lapses: 0
-modified: 20220301113016203
+modified: 20220301163826285
 modifier: oeyoews
-page-cover: 
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220301073523548
+review: 20220301163826285
 stability: 0.11484375000000001
 tags: $:/tags/TextEditor/Template EnglishWord ?
 title: ENGLISHWORD
