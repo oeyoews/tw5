@@ -1,8 +1,8 @@
-caption: showIndex
+caption: {{$:/plugins/nico/projectify/images/waving-hand}}
 created: 20220223125209778
 creator: oeyoews
 description: Index1
-modified: 20220301055213190
+modified: 20220301055611290
 modifier: oeyoews
 tags: config $:/tags/PageControls
 title: navIndex
