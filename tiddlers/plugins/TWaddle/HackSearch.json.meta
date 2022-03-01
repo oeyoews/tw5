@@ -1,0 +1,10 @@
+author: Mat von TWaddle
+created: 20210305221948108
+description: Find TW internal components
+list: readme
+modified: 20210305221948108
+name: HackSearch
+plugin-type: plugin
+title: $:/plugins/TWaddle/HackSearch
+type: application/json
+version: 0.0.6
