@@ -1,0 +1,19 @@
+caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
+created: 20220119011932302
+creator: oeyoews
+difficulty: 4.247680540053205
+due: 20220302161850806
+grade: 1
+history: [{"due":"20220227160719271","interval":0,"difficulty":2.6476805400532037,"stability":0.21875,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220226160719270"},{"due":"20220228160433889","interval":0,"difficulty":3.847680540053204,"stability":0.08507834253141604,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220227160433889"},{"due":"20220301160137393","interval":0,"difficulty":4.0476805400532045,"stability":0.08507834253141604,"retrievability":1,"grade":1,"lapses":1,"reps":2,"review":"20220228160137393"},{"due":"20220302161850806","interval":0,"difficulty":4.247680540053205,"stability":0.08507834253141604,"retrievability":1,"grade":1,"lapses":1,"reps":3,"review":"20220301161850805"}]
+interval: 0
+lapses: 1
+modified: 20220301161850806
+modifier: oeyoews
+reps: 3
+retrievability: 1
+review: 20220301161850805
+stability: 0.08507834253141604
+tags: [[必考核心词汇 Word List 1]] ?
+title: 2022hkw/20220119011932302005
+type: text/vnd.tiddlywiki
+word: sensation
