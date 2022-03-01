@@ -1,6 +1,6 @@
 created: 20220127031436259
 creator: oeyoews
-modified: 20220218150458642
+modified: 20220301154138575
 modifier: oeyoews
 tags: git
 title: removeGitTag
@@ -11,3 +11,4 @@ type: text/vnd.tiddlywiki
 * git push origin --tags
 * git push -uf origin main
 * git push origin :refs/tags/v10.1-7
+* git tag -d v0.1
