@@ -1,6 +1,8 @@
 created: 20220104180353271
-modified: 20220104180353271
+creator: oeyoews
+modified: 20220301060548822
+modifier: oeyoews
 title: $:/config/PageControlButtons/Visibility/$:/plugins/test/getplugins/button
 type: text/vnd.tiddlywiki
 
-hide
+show
