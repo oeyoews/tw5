@@ -1,0 +1,19 @@
+caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
+created: 20220119011932302
+creator: oeyoews
+difficulty: 3.4573632880765772
+due: 20220302004455651
+grade: 0
+history: [{"due":"20220227162234964","interval":0,"difficulty":3.6476805400532037,"stability":0.11806790392114878,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220226162234964"},{"due":"20220228174102661","interval":0,"difficulty":2.8476805400532035,"stability":0.11806790392114878,"retrievability":1,"grade":2,"lapses":1,"reps":2,"review":"20220227174102660"},{"due":"20220302004455651","interval":1,"difficulty":3.4573632880765772,"stability":0.06302758633267336,"retrievability":0.40968274802337346,"grade":0,"lapses":2,"reps":1,"review":"20220301004455651"}]
+interval: 1
+lapses: 2
+modified: 20220301004455651
+modifier: oeyoews
+reps: 1
+retrievability: 0.40968274802337346
+review: 20220301004455651
+stability: 0.06302758633267336
+tags: [[必考核心词汇 Word List 2]] ?
+title: 2022hkw/20220119011932302207
+type: text/vnd.tiddlywiki
+word: remedy
