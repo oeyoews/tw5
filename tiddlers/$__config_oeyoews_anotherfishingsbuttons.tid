@@ -1,0 +1,17 @@
+caption: {{$:/images/jam/fish}} Fishing button
+created: 20220301090030797
+creator: oeyoews
+description: copy fishing calendar
+modified: 20220301091112449
+modifier: oeyoews
+tags: $:/tags/PageControls button
+title: $:/config/oeyoews/anotherfishingsbuttons
+type: text/vnd.tiddlywiki
+
+<$button to="Fishings" tooltip="open「Fishings」">
+{{$:/images/jam/fish}}
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text"><$text text=
+Fishings/></span>
+</$list>
+</$button>

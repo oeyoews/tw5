@@ -1,7 +1,8 @@
 caption: {{$:/core/images/download-button}} get plugins
 created: 20220301060719149
 creator: oeyoews
-modified: 20220301060753997
+description: get plugin button
+modified: 20220301090945804
 modifier: oeyoews
 tags: $:/tags/PageControls TPP config
 title: $:/config/oeyoews/getplugins/button
