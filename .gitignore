@@ -1,7 +1,9 @@
+# npm files
+node_modules
+
 output
 # public/*.html
 public
-node_modules
 nohup*
 .log.txt
 *\$__StoryList*
@@ -29,8 +31,9 @@ tiddlers/\$__config_muuri_storyview_columns.tid
 subwiki
 img
 
+# some ignore folder
 livenote
-# 2022hkw
 trashbin
 
+# log file
 yarn-error.log
