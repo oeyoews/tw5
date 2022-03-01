@@ -1,16 +1,16 @@
 created: 20220222014750811
 creator: oeyoews
-difficulty: 1.0984764469154382
-due: 20220302125447471
-grade: -1
-history: []
+difficulty: 1
+due: 20220302164440575
+grade: 2
+history: [{"due":"20220302164440575","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301164440575"}]
 interval: 0
 lapses: 0
-modified: 20220301125447471
+modified: 20220301164440575
 modifier: oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220301125447471
+review: 20220301164440575
 stability: 0.11484375000000001
 tags: EnglishWord ?
 title: publishing

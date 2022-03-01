@@ -1,17 +1,17 @@
 created: 20220221090038950
 creator: oeyoews
-difficulty: 4.1000000000000005
-due: 20220302082941867
+difficulty: 3.21715730213948
+due: 20220317164403238
 grade: 2
-history: [{"due":"20220302082941867","interval":2,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20220224082941867"}]
-interval: 2
+history: [{"due":"20220302082941867","interval":2,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20220224082941867"},{"due":"20220317164403238","interval":5,"difficulty":3.21715730213948,"stability":15.798958562813516,"retrievability":0.9171573021394794,"grade":2,"lapses":0,"reps":3,"review":"20220301164403238"}]
+interval: 5
 lapses: 0
-modified: 20220224082941867
+modified: 20220301164403238
 modifier: oeyoews
-reps: 2
-retrievability: 0.9
-review: 20220224082941867
-stability: 6.091873624375545
+reps: 3
+retrievability: 0.9171573021394794
+review: 20220301164403238
+stability: 15.798958562813516
 tags: EnglishWord ?
 title: pizza
 type: text/vnd.tiddlywiki

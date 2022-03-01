@@ -1,17 +1,17 @@
 created: 20220222014258265
 creator: oeyoews
-difficulty: 1.0984764469154382
-due: 20220302125437112
-grade: -1
-history: []
+difficulty: 2.2984764469154384
+due: 20220302164455042
+grade: 0
+history: [{"due":"20220302164455042","interval":0,"difficulty":2.2984764469154384,"stability":0.07958008229979391,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220301164455041"}]
 interval: 0
-lapses: 0
-modified: 20220301125437112
+lapses: 1
+modified: 20220301164455042
 modifier: oeyoews
 reps: 1
 retrievability: 1
-review: 20220301125437112
-stability: 0.11484375000000001
+review: 20220301164455041
+stability: 0.07958008229979391
 tags: EnglishWord ?
 title: skeptical
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20220222010952330
 creator: oeyoews
-difficulty: 1.8682990579651733
-due: 20220302072550236
+difficulty: 3.0682990579651737
+due: 20220302164302224
 grade: 0
-history: [{"due":"20220302072550236","interval":1,"difficulty":1.8682990579651733,"stability":0.08507834253141604,"retrievability":0.3995465906210927,"grade":0,"lapses":1,"reps":1,"review":"20220301072550235"}]
-interval: 1
-lapses: 1
-modified: 20220301072550236
+history: [{"due":"20220302072550236","interval":1,"difficulty":1.8682990579651733,"stability":0.08507834253141604,"retrievability":0.3995465906210927,"grade":0,"lapses":1,"reps":1,"review":"20220301072550235"},{"due":"20220302164302224","interval":0,"difficulty":3.0682990579651737,"stability":0.06302758633267336,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220301164302224"}]
+interval: 0
+lapses: 2
+modified: 20220301164302224
 modifier: oeyoews
 reps: 1
-retrievability: 0.3995465906210927
-review: 20220301072550235
-stability: 0.08507834253141604
+retrievability: 1
+review: 20220301164302224
+stability: 0.06302758633267336
 tags: EnglishWord ?
 title: deceive
 type: text/vnd.tiddlywiki

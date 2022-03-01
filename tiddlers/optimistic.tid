@@ -1,16 +1,16 @@
 created: 20220221130856480
 creator: oeyoews
-difficulty: 3.955294291863795
-due: 20220302072703168
-grade: 0
-history: [{"due":"20220227164110811","interval":0,"difficulty":2.6476805400532037,"stability":0.21875,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220226164110811"},{"due":"20220301022549706","interval":1,"difficulty":3.465444972427654,"stability":0.08507834253141604,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20220228022549705"},{"due":"20220302072703168","interval":1,"difficulty":3.955294291863795,"stability":0.06302758633267336,"retrievability":0.28984931943614073,"grade":0,"lapses":2,"reps":1,"review":"20220301072703168"}]
-interval: 1
+difficulty: 3.155294291863796
+due: 20220302164350589
+grade: 2
+history: [{"due":"20220227164110811","interval":0,"difficulty":2.6476805400532037,"stability":0.21875,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220226164110811"},{"due":"20220301022549706","interval":1,"difficulty":3.465444972427654,"stability":0.08507834253141604,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20220228022549705"},{"due":"20220302072703168","interval":1,"difficulty":3.955294291863795,"stability":0.06302758633267336,"retrievability":0.28984931943614073,"grade":0,"lapses":2,"reps":1,"review":"20220301072703168"},{"due":"20220302164350589","interval":0,"difficulty":3.155294291863796,"stability":0.06302758633267336,"retrievability":1,"grade":2,"lapses":2,"reps":2,"review":"20220301164350589"}]
+interval: 0
 lapses: 2
-modified: 20220301072703168
+modified: 20220301164350589
 modifier: oeyoews
-reps: 1
-retrievability: 0.28984931943614073
-review: 20220301072703168
+reps: 2
+retrievability: 1
+review: 20220301164350589
 stability: 0.06302758633267336
 tags: EnglishWord ?
 title: optimistic
