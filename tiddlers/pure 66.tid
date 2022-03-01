@@ -1,10 +1,18 @@
 created: 20220114111647874
 creator: oeyoews
-grade: -1
-history: []
-modified: 20220224083156280
+difficulty: NaN
+due: 20220302164706461
+grade: 2
+history: [{"due":"20220302164706461","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301164706461"}]
+interval: 0
+lapses: NaN
+modified: 20220301164706461
 modifier: oeyoews
-tags: English
+reps: NaN
+retrievability: NaN
+review: 20220301164706461
+stability: NaN
+tags: English ?
 title: pure 66
 type: text/vnd.tiddlywiki
 

@@ -1,10 +1,19 @@
 color: #e8a1a1
 created: 20220107153519708
 creator: oeyoews
+difficulty: 0.956170980055279
+due: 20220302164700146
+grade: -1
 history: []
-modified: 20220224130059459
+interval: 0
+lapses: 0
+modified: 20220301164700147
 modifier: oeyoews
-tags: Index English
+reps: 1
+retrievability: 1
+review: 20220301164700146
+stability: 0.107421875
+tags: Index English ?
 title: English
 type: text/vnd.tiddlywiki
 

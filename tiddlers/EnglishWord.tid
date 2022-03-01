@@ -1,10 +1,18 @@
 created: 20220118090725423
 creator: oeyoews
-grade: -1
-history: []
-modified: 20220221235620829
+difficulty: NaN
+due: 20220302164730340
+grade: 2
+history: [{"due":"20220302164730340","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301164730339"}]
+interval: 0
+lapses: NaN
+modified: 20220301164730340
 modifier: oeyoews
-tags: English EnglishWord
+reps: NaN
+retrievability: NaN
+review: 20220301164730339
+stability: NaN
+tags: English EnglishWord ?
 title: EnglishWord
 type: text/vnd.tiddlywiki
 
