@@ -1,12 +1,16 @@
 created: 20220228060333093
 creator: oeyoews
-modified: 20220228164907257
+modified: 20220301051503986
 modifier: oeyoews
 tags: config
 title: $:/config/FileSystemPaths
 type: text/vnd.tiddlywiki
 
 [tag[private]addprefix[subwiki/private/]]
+
+[tag[todo]addprefix[subwiki/todo/]]
+
+[tag[Project]addprefix[subwiki/Project/]]
 
 [tag[livenote]addprefix[livenote/]]
 [tag[deprecated]addprefix[deprecated/]]
@@ -16,3 +20,4 @@ type: text/vnd.tiddlywiki
 [tag[Journal]addprefix[Journal/]]
 [prefix[2022hkw]addprefix[]]
 [tag[408]addprefix[408/]]
+

@@ -1,0 +1,24 @@
+created: 20220301051844242
+creator: oeyoews
+modified: 20220301052107991
+modifier: oeyoews
+tags: Index
+title: TODO
+type: text/vnd.tiddlywiki
+
+ <<alert primary "personal todo in subwiki folder
+ " width:100%>> <details>
+ <!--
+ <details open="open"
+-->
+ <summary>TOC</summary>
+
+ <$macrocall
+	$name="toc-tabbed-internal-nav"
+	tag="todo"
+	selectedTiddler="$:/temp/toc/selectedTiddler"
+	unselectedText="<p>选择目录中的一个主题，点击箭头可展开主题</p>"
+	missingText="<p>佚失条目。</p>"
+/>
+
+</details>

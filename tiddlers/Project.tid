@@ -1,0 +1,25 @@
+created: 20220301051700692
+creator: oeyoews
+modified: 20220301051840337
+modifier: oeyoews
+tags: Index
+title: Project
+type: text/vnd.tiddlywiki
+
+ <<alert primary "personal projects
+ " width:100%>>
+<details>
+ <!--
+ <details open="open"
+-->
+ <summary>TOC</summary>
+
+ <$macrocall
+	$name="toc-tabbed-internal-nav"
+	tag="Project"
+	selectedTiddler="$:/temp/toc/selectedTiddler"
+	unselectedText="<p>选择目录中的一个主题，点击箭头可展开主题</p>"
+	missingText="<p>佚失条目。</p>"
+/>
+
+</details>
