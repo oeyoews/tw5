@@ -1,6 +1,6 @@
 created: 20220112133313256
 creator: oeyoews
-modified: 20220222113512250
+modified: 20220301120632625
 modifier: oeyoews
 parent: crontab syntax/20220112133101380
 stream-list: 
@@ -8,6 +8,10 @@ stream-type: default
 tags: Linux
 title: crontabSyntax
 type: text/vnd.tiddlywiki
+
+* crontab -e
+* systemctl status cronie.service
+---
 
 * 星号（*）：代表所有可能的值，例如month字段如果是星号，则表示在满足其它字段的制约条件后每月都执行该命令操作。
 
