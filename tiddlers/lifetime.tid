@@ -1,16 +1,16 @@
 created: 20220221092004564
 creator: oeyoews
 difficulty: NaN
-due: 20220301022459716
+due: 20220302072634341
 grade: 2
-history: [{"due":"20220225163611541","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163611541"},{"due":"20220227033352878","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220226033352878"},{"due":"20220227164023124","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220226164023124"},{"due":"20220301022459716","interval":1,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220228022459715"}]
+history: [{"due":"20220225163611541","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163611541"},{"due":"20220227033352878","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220226033352878"},{"due":"20220227164023124","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220226164023124"},{"due":"20220301022459716","interval":1,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220228022459715"},{"due":"20220302072634341","interval":1,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301072634340"}]
 interval: 1
 lapses: NaN
-modified: 20220228022459716
+modified: 20220301072634341
 modifier: oeyoews
 reps: NaN
 retrievability: NaN
-review: 20220228022459715
+review: 20220301072634340
 stability: NaN
 tags: EnglishWord ?
 title: lifetime

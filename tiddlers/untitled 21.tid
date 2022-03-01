@@ -1,25 +1,25 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
-created: 20220221084858815
+created: 20220301073228524
 creator: oeyoews
 difficulty: 1.0984764469154382
-due: 20220302073523549
+due: 20220302073527775
 grade: -1
 history: []
 interval: 0
 lapses: 0
-modified: 20220301073523549
+modified: 20220301073527775
 modifier: oeyoews
 page-cover: https://cdn.jsdelivr.net/gh/oeyoews/img/cat-scape.jpg
 reps: 1
 retrievability: 1
-review: 20220301073523548
+review: 20220301073527775
 stability: 0.11484375000000001
-tags: $:/tags/TextEditor/Template EnglishWord ?
-title: ENGLISHWORD
+tags: EnglishWord ?
+title: untitled 21
 type: text/vnd.tiddlywiki
-word: english
+word: abandon
 
 <<<.tc-fish-quote
-"""
+"""first word use template
 """
 <<<

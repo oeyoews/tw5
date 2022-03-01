@@ -1,17 +1,17 @@
 created: 20220222010657353
 creator: oeyoews
-difficulty: 1.2687524673440806
-due: 20220301154816426
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220228154816426
+difficulty: 1.8682990579651733
+due: 20220302072758434
+grade: 0
+history: [{"due":"20220302072758434","interval":1,"difficulty":1.8682990579651733,"stability":0.08507834253141604,"retrievability":0.3995465906210927,"grade":0,"lapses":1,"reps":1,"review":"20220301072758434"}]
+interval: 1
+lapses: 1
+modified: 20220301072758434
 modifier: oeyoews
 reps: 1
-retrievability: 1
-review: 20220228154816425
-stability: 0.11484375000000001
+retrievability: 0.3995465906210927
+review: 20220301072758434
+stability: 0.08507834253141604
 tags: EnglishWord ?
 title: speculate
 type: text/vnd.tiddlywiki
