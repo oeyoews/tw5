@@ -1,9 +1,11 @@
 caption: {{$:/core/images/list-bullet}} {{$:/plugins/Gk0Wk/page-toc/PageTOCButton!!hint}}
 created: 20211227064117496
+creator: oeyoews
 description: Show TOC of this tiddler
 hint: Page TOC
-modified: 20211227064117496
-tags: $:/tags/ViewToolbar
+modified: 20220301170557647
+modifier: oeyoews
+tags: deprecated
 title: $:/plugins/Gk0Wk/page-toc/PageTOCButton
 type: text/vnd.tiddlywiki
 
