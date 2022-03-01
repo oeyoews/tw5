@@ -1,8 +1,8 @@
 created: 20211227234834538
 creator: oeyoews
-modified: 20220217055749687
+modified: 20220301004251511
 modifier: oeyoews
 title: $:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/info
 type: text/vnd.tiddlywiki
 
-show
+hide

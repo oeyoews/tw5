@@ -1,6 +1,8 @@
 created: 20200519141000553
-list: $:/.giffmex/Buttons/more-tiddler-edit-actions $:/core/ui/Buttons/delete $:/core/ui/Buttons/cancel $:/core/ui/Buttons/save
-modified: 20200521145647980
+creator: oeyoews
+list: $:/plugins/kookma/trashbin/ui/toolbar-button $:/core/ui/Buttons/delete $:/core/ui/Buttons/cancel $:/core/ui/Buttons/save
+modified: 20220301004048158
+modifier: oeyoews
 tags: $:/giffmex/bigeditarea $:/giffmex/stroll
 title: $:/tags/EditToolbar
 type: text/vnd.tiddlywiki
