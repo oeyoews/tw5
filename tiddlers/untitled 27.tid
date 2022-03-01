@@ -1,10 +1,15 @@
 created: 20220301114233512
 creator: oeyoews
 kanban-history: [[20220301194233511,column: TODO1,created]]
-modified: 20220301114311709
+modified: 20220301122543844
 modifier: oeyoews
 tags: TiddlyWiki5
 title: untitled 27
 type: text/vnd.tiddlywiki
 
 * add crontab for tw5, use another tips commmit
+* use timer to replace crontab
+
+* check the crontab bug
+
+* use smtp in crontab
