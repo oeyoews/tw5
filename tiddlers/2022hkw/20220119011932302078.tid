@@ -1,0 +1,19 @@
+caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
+created: 20220119011932302
+creator: oeyoews
+difficulty: 1.247680540053204
+due: 20220302162108676
+grade: 2
+history: [{"due":"20220227161000500","interval":0,"difficulty":2.6476805400532037,"stability":0.21875,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220226161000500"},{"due":"20220228160639108","interval":0,"difficulty":2.847680540053204,"stability":0.21875,"retrievability":1,"grade":1,"lapses":0,"reps":3,"review":"20220227160639108"},{"due":"20220301162835824","interval":0,"difficulty":2.047680540053204,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":4,"review":"20220228162835823"},{"due":"20220302162108676","interval":0,"difficulty":1.247680540053204,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":5,"review":"20220301162108676"}]
+interval: 0
+lapses: 0
+modified: 20220301162108676
+modifier: oeyoews
+reps: 5
+retrievability: 1
+review: 20220301162108676
+stability: 0.21875
+tags: [[必考核心词汇 Word List 1]] ?
+title: 2022hkw/20220119011932302078
+type: text/vnd.tiddlywiki
+word: distinct

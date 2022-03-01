@@ -1,0 +1,19 @@
+caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
+created: 20220119011932302
+creator: oeyoews
+difficulty: 5.247680540053204
+due: 20220302162155526
+grade: 0
+history: [{"due":"20220227161032953","interval":0,"difficulty":3.6476805400532037,"stability":0.16205398577412577,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220226161032953"},{"due":"20220228160715304","interval":0,"difficulty":4.8476805400532035,"stability":0.06302758633267336,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220227160715304"},{"due":"20220301163114974","interval":0,"difficulty":4.047680540053204,"stability":0.06302758633267336,"retrievability":1,"grade":2,"lapses":2,"reps":2,"review":"20220228163114974"},{"due":"20220302162155526","interval":0,"difficulty":5.247680540053204,"stability":0.04669198436083444,"retrievability":1,"grade":0,"lapses":3,"reps":1,"review":"20220301162155526"}]
+interval: 0
+lapses: 3
+modified: 20220301162155526
+modifier: oeyoews
+reps: 1
+retrievability: 1
+review: 20220301162155526
+stability: 0.04669198436083444
+tags: [[必考核心词汇 Word List 1]] ?
+title: 2022hkw/20220119011932302100
+type: text/vnd.tiddlywiki
+word: initiative
