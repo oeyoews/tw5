@@ -1,13 +1,12 @@
-created: 20220301051844242
+created: 20220301052608655
 creator: oeyoews
-modified: 20220301052658443
+modified: 20220301052747521
 modifier: oeyoews
-tags: subwiki
-title: TODO
+tags: subwiki Index
+title: subwiki
 type: text/vnd.tiddlywiki
 
- <<alert primary "personal todo in subwiki folder
- " width:100%>> <details>
+ <details>
  <!--
  <details open="open"
 -->
@@ -15,7 +14,7 @@ type: text/vnd.tiddlywiki
 
  <$macrocall
 	$name="toc-tabbed-internal-nav"
-	tag="todo"
+	tag="subwiki"
 	selectedTiddler="$:/temp/toc/selectedTiddler"
 	unselectedText="<p>选择目录中的一个主题，点击箭头可展开主题</p>"
 	missingText="<p>佚失条目。</p>"
