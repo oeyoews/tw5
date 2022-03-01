@@ -1,7 +1,7 @@
 created: 20220301114233512
 creator: oeyoews
 kanban-history: [[20220301194233511,column: TODO1,created]]
-modified: 20220301122543844
+modified: 20220301124700942
 modifier: oeyoews
 tags: TiddlyWiki5
 title: untitled 27
@@ -12,4 +12,4 @@ type: text/vnd.tiddlywiki
 
 * check the crontab bug
 
-* use smtp in crontab
+* use smtp in crontab(just learn, don't use it)
