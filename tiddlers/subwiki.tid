@@ -1,12 +1,13 @@
 created: 20220301052608655
 creator: oeyoews
-modified: 20220301052747521
+modified: 20220301113629977
 modifier: oeyoews
 tags: subwiki Index
 title: subwiki
 type: text/vnd.tiddlywiki
 
- <details>
+ <<alert primary "This is a subwiki, just in local
+ " width:100%>> <details>
  <!--
  <details open="open"
 -->
