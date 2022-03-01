@@ -1,9 +1,19 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932302
 creator: oeyoews
-modified: 20220301112937683
+difficulty: 1.0984764469154382
+due: 20220302163124173
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220301163124173
 modifier: oeyoews
 page-cover: https://cdn.jsDelivr.net/gh/oeyoews/img/twbanner.jpeg
+reps: 1
+retrievability: 1
+review: 20220301163124173
+stability: 0.11484375000000001
 tags: [[必考核心词汇 Word List 2]] ?
 title: 2022hkw/20220119011932302366
 type: text/vnd.tiddlywiki
