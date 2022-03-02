@@ -1,10 +1,10 @@
 created: 20211117104937921
 creator: oeyoews
-modified: 20220227171602096
+modified: 20220302071249271
 modifier: oeyoews
 status: disabled
 tags: 
 title: $:/config/Thinkup/Journal/EnableFilter
 type: text/vnd.tiddlywiki
 
-.__smart__tabs__disabled__
+ [all[current]tag[Journal]] 
