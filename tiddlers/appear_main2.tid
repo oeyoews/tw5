@@ -1,9 +1,11 @@
 created: 20220218072617844
 creator: oeyoews
-modified: 20220218072754922
+modified: 20220302035636538
 modifier: oeyoews
 tags: config
 title: appear/main2
 type: text/vnd.tiddlywiki
 
-<$appear show="TiddlyWiki5" type=popup $state="popup-button">  Hello TiddlyWiki5</$appear> 
+<!--<$appear show="TiddlyWiki5" type=popup $state="popup-button">  Hello TiddlyWiki5</$appear> 
+-->
+[[Gitlab|https://gitlab.com/oeyoews]]
