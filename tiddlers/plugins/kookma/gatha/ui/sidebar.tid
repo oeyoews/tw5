@@ -1,8 +1,9 @@
 caption: Gatha
 created: 20220201102742703
-modified: 20220217053702060
+creator: oeyoews
+modified: 20220302081122262
 modifier: oeyoews
-tags: $:/tags/SideBar
+tags: config
 title: $:/plugins/kookma/gatha/ui/sidebar
 type: text/vnd.tiddlywiki
 
