@@ -6,16 +6,16 @@
   "author": "oeyoews <jyao4783@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "html-minifier-terser": "6.1.0",
-    "@tiddlygit/tiddlywiki": "5.2.2-prerelease-2022-02-25"
+    "@tiddlygit/tiddlywiki": "5.2.2-prerelease-2022-02-25",
+    "html-minifier-terser": "6.1.0"
   },
   "scripts": {
+    "devbuild": "tiddlywiki --output public --build index",
+    "copy": "cp -r files public",
     "htmlmin": "html-minifier-terser -c ./htmlmin.json -o public/index.html public/index.html",
     "offline": "tiddlywiki --output public --build index",
-    "devbuild": "tiddlywiki --output public --build index",
     "devbuildp": "tiddlywiki --output public --password oeyoew --build index",
     "dev": "tiddlywiki  --listen port=8090",
-    "copy": "cp -r files public",
     "cache1": "npx workbox injectManifest workbox-config.js",
     "copydep@deprecated": "cp -r files/dep/* public",
     "netlifytw5@deprecated": "tiddlywiki --output public --build index && cp -r files public",
