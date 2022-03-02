@@ -1,6 +1,6 @@
 created: 20220302125017794
 creator: oeyoews
-modified: 20220302130033176
+modified: 20220302130220877
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/plugins/tiddlywiki/github-fork-ribbon/styles
@@ -56,7 +56,7 @@ type: text/vnd.tiddlywiki
   padding: 2px 0;
 
   /* Add "stitching" effect */
-  border-width: 3px 0;
+  border-width: 1px 0;
   border-style: dotted;
   border-color: rgba(255,255,255,0.7);
 }
