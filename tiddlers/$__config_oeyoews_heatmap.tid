@@ -1,6 +1,9 @@
 created: 20220106163749000
-modified: 20220106163749000
-title: $:/plugins/Gk0Wk/echarts/addons/oflg/CalendarHeatmap/CalendarHeatmapExample
+creator: oeyoews
+modified: 20220302072824285
+modifier: oeyoews
+tags: config
+title: $:/config/oeyoews/heatmap
 type: text/vnd.tiddlywiki
 
 <$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/oflg/CalendarHeatmap/CalendarHeatmap.js" $height="180px"/>

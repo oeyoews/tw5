@@ -1,10 +1,10 @@
 caption: Fishing
 created: 20220221151557526
 creator: oeyoews
-modified: 20220302034513735
+modified: 20220302072545498
 modifier: oeyoews
-tags: copy $:/tags/SideBar
-title: Fishings
+tags: copy $:/tags/SideBar config
+title: $:/config/oeyoews/Fishings
 type: text/vnd.tiddlywiki
 
 {{$:/plugins/oflg/fishing-analysis/calendar/calendar}}

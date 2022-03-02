@@ -1,9 +1,9 @@
 created: 20220218071636934
 creator: oeyoews
-modified: 20220223063832173
+modified: 20220302073726596
 modifier: oeyoews
 tags: examples
-title: subIndex2
+title: $:/config/oeyoews/subIndex2
 type: text/vnd.tiddlywiki
 
 <$appear show="open more &raquo;" hide="&laquo; close"  $state="pink-button" selectedClass="pink">
