@@ -7,9 +7,8 @@ grade: 2
 history: [{"due":"20220302163950232","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163950232"}]
 interval: 0
 lapses: 0
-modified: 20220301163950232
+modified: 20220302122200342
 modifier: oeyoews
-page-cover: https://cdn.jsdelivr.net/gh/oeyoews/img/cat-scape.jpg
 reps: 2
 retrievability: 1
 review: 20220301163950232
@@ -26,3 +25,5 @@ adj. __普遍的__；通用的；宇宙的；全世界的；全体的
 n. 一般概念；普通性
 """
 <<<
+---
+* university n. 大学；综合性大学；大学校舍

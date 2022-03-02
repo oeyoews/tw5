@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220227163815702","interval":0,"difficulty":1.6476805400532035,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220226163815702"},{"due":"20220308021250884","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":3,"review":"20220228021250883"}]
 interval: 1
 lapses: 0
-modified: 20220228021250884
+modified: 20220302122057725
 modifier: oeyoews
 reps: 3
 retrievability: 0.6177644323744501
@@ -25,4 +25,4 @@ CET4 TEM4  ( colleagues )
 """
 <<<
 ---
-* college
+* college 专科学院
