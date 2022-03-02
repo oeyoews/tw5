@@ -1,8 +1,8 @@
 created: 20220221133005761
 creator: oeyoews
-modified: 20220302025006544
+modified: 20220302064434463
 modifier: oeyoews
-requestInterval: 1
+requestInterval: 3
 requestRecall: 0.9
 title: $:/plugins/oflg/fishing/data
 type: application/json

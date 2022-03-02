@@ -1,8 +1,18 @@
 created: 20220222020409752
 creator: oeyoews
-modified: 20220222020416972
+difficulty: 0.956170980055279
+due: 20220303063513163
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220302063513163
 modifier: oeyoews
-tags: EnglishWord
+reps: 1
+retrievability: 1
+review: 20220302063513162
+stability: 0.107421875
+tags: EnglishWord ?
 title: journals
 type: text/vnd.tiddlywiki
 
@@ -10,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 journals
 英/美 ['dʒɝnl]
-n. 学术期刊（journal的复数）；日记；日记账
+n. __学术期刊__（journal的复数）；日记；日记账
 CET4 TEM4  ( journals )
 """
 <<<
