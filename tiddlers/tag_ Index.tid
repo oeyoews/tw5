@@ -1,9 +1,9 @@
 caption: Tag {{{ [<currentTab>split[tag: ]last[]] }}}
 created: 20220301070140430
 creator: oeyoews
-modified: 20220302034457746
+modified: 20220302080351522
 modifier: oeyoews
-tags: $:/tags/SideBar
+tags: config
 title: tag: Index
 type: text/vnd.tiddlywiki
 
