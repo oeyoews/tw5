@@ -11,6 +11,7 @@
   * [Linux](#linux)
     * [service](#service)
   * [run(general)](#rungeneral)
+  * [todo](#todo)
 
 <!-- vim-markdown-toc -->
 </details>
@@ -70,3 +71,8 @@
 <!--* ~~`\$__themes_nico_notebook_ui_Bottombar.tid`-->
 <!--\$__themes_nico_notebook_ui_Topbar.tid~~-->
 
+## todo
+
+- [ ] use workbox-cli
+- [ ] use submodule to manage
+- [ ] use timer or crontab to push automaticaly with smtp

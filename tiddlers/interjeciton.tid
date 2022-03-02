@@ -1,0 +1,27 @@
+caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
+created: 20220302022035216
+creator: oeyoews
+difficulty: 1
+due: 20220302163826285
+grade: 2
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"}]
+interval: 0
+lapses: 0
+modified: 20220302022046329
+modifier: oeyoews
+reps: 2
+retrievability: 1
+review: 20220301163826285
+stability: 0.11484375000000001
+tags: EnglishWord ?
+title: interjeciton
+type: text/vnd.tiddlywiki
+word: interjection
+
+<<<.tc-fish-quote
+"""interjection
+英 [ɪntə'dʒekʃ(ə)n]  美 [,ɪntɚ'dʒɛkʃən]
+n. [语] 感叹词；插入语；突然的发声
+TEM8  ( interjections )
+"""
+<<<

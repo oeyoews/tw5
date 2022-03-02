@@ -1,0 +1,29 @@
+caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
+created: 20220302021358657
+creator: oeyoews
+difficulty: 1
+due: 20220302163826285
+grade: 2
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"}]
+interval: 0
+lapses: 0
+modified: 20220302021435053
+modifier: oeyoews
+reps: 2
+retrievability: 1
+review: 20220301163826285
+stability: 0.11484375000000001
+tags: EnglishWord ?
+title: bag
+type: text/vnd.tiddlywiki
+word: bag
+
+<<<.tc-fish-quote
+"""bag
+英 [bæg]  美 [bæɡ]
+n. 袋；猎获物；（俚）一瓶啤酒
+vt. 猎获；把…装入袋中；占据，__私吞__；使膨大
+vi. 松垂
+CET4 TEM4  ( bags )
+"""
+<<<
