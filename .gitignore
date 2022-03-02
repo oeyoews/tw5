@@ -1,40 +1,37 @@
 # npm files
 node_modules
+yarn-error.log
 
-output
-# public/*.html
-public
+
+# linux system
 nohup*
 .log.txt
-*\$__StoryList*
-Draft*
 
-\$__Import.tid
-# \$__themes_nico_notebook_ui_Bottombar.tid
-# \$__themes_nico_notebook_ui_Topbar.tid
-\$__plugins_felixhayashi_tiddlymap*
-# \$__todolist*
-# \$__trashbin*
-
-\$__xp_manageTags_tagging.tid
-
-\$__livenote*
-# 202*.json
-
-tiddlers/\$__config_muuri_storyview_columns.tid
-
-# tiddlers/\$__config_muuri_storyview_drag-enabled.tid
-
-\$__state_notebook-sidebar*
 
 # submodule
 subwiki
 img
+
 
 # some ignore folder
 livenote
 trashbin
 2022hkw
 
-# log file
-yarn-error.log
+
+# tw5
+\$__Import.tid
+output
+public
+\$__StoryList*
+Draft*
+\$__xp_manageTags_tagging.tid
+# \$__themes_nico_notebook_ui_Bottombar.tid
+# \$__themes_nico_notebook_ui_Topbar.tid
+
+
+# tiddlers/\$__config_muuri_storyview_drag-enabled.tid
+tiddlers/\$__config_muuri_storyview_columns.tid
+# 202*.json
+\$__state_notebook-sidebar*
+\$__livenote*
