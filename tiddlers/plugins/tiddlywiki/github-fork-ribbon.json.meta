@@ -1,0 +1,9 @@
+author: Simon Whitaker
+dependents: 
+description: GitHub-inspired corner ribbon
+list: readme usage
+name: GitHub Fork Ribbon
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/github-fork-ribbon
+type: application/json
+version: 5.2.1
