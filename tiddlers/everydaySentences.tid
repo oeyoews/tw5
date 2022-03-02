@@ -6,7 +6,7 @@ grade: -1
 history: []
 interval: 0
 lapses: 0
-modified: 20220302152444734
+modified: 20220302155159863
 modifier: oeyoews
 reps: 1
 retrievability: 1
@@ -16,18 +16,4 @@ tags: everydaySentences ? English
 title: everydaySentences
 type: text/vnd.tiddlywiki
 
- <details>
- <!--
- <details open="open"
--->
- <summary>TOC</summary>
-
- <$macrocall
-	$name="toc-tabbed-internal-nav"
-	tag="everydaySentences"
-	selectedTiddler="$:/temp/toc/selectedTiddler"
-	unselectedText="<p>选择目录中的一个主题，点击箭头可展开主题</p>"
-	missingText="<p>佚失条目。</p>"
-/>
-
-</details>
+ 

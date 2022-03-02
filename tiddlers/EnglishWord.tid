@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220302164730340","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301164730339"}]
 interval: 0
 lapses: NaN
-modified: 20220302152451238
+modified: 20220302155136492
 modifier: oeyoews
 reps: NaN
 retrievability: NaN
@@ -16,14 +16,4 @@ tags: EnglishWord ? English
 title: EnglishWord
 type: text/vnd.tiddlywiki
 
-<details>
-<!--
-<details open="open"
--->
-<summary>TOC</summary>
-<div class="tc-table-of-contents">
-
-<<toc-selective-expandable 'EnglishWord'>>
-
-</div>
-</details>
+ 
