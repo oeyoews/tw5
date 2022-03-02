@@ -2,14 +2,12 @@ caption: {{$:/core/images/list-bullet}} TOC
 created: 20211226162517298
 creator: oeyoews
 list-before: $:/core/ui/SideBar/Open
-modified: 20220302092212885
+modified: 20220302150915634
 modifier: oeyoews
-tags: docs $:/tags/SideBar
+tags: $:/tags/SideBar config
 title: TOC
 type: text/vnd.tiddlywiki
 
 <div class="tc-table-of-contents">
-
 <<toc-selective-expandable 'Index'>>
-
 </div>
