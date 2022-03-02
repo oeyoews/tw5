@@ -1,16 +1,12 @@
-caption: all display
+caption: alldisplay
 created: 20220109062852994
 creator: oeyoews
-modified: 20220217114047116
+modified: 20220302151710774
 modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet snippets
 title: alldisplay
 type: text/vnd.tiddlywiki
 
-<<tabs tabsList:"[tag[$1]]" default:"" class:"tc-vertical">>
-
-<hr>
-
 <div class="tc-table-of-contents">
-<<toc-selective-expandable ''>>
+<<toc-selective-expandable '$1'>>
 </div>
