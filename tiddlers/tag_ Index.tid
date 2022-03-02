@@ -1,0 +1,23 @@
+caption: {{$:/core/images/tag-button}} Tag {{{ [<currentTab>split[tag: ]last[]] }}}
+created: 20220301070140430
+creator: oeyoews
+list-after: 
+modified: 20220302012637398
+modifier: oeyoews
+tags: $:/tags/SideBar
+title: tag: Index
+type: text/vnd.tiddlywiki
+
+\define close-title() ]]
+<$set name=currentTab filter="""[<transclusion>split[|]nth[2]]""">
+<$set name=currentTiddler value=<<currentTiddler>> emptyValue=<<currentTab>> >
+<$wikify name=currentTab text="""<<currentTab>>""">
+<$set name=tagname value={{{ [<currentTab>split[tag: ]last[]] }}} >
+<<currentTiddler>> <small>Your tiddlers tagged</small> <$macrocall $name=tag tag=<<tagname>>/> <br>
+<$list filter="[tag<tagname>sort[]]">
+   {{||$:/core/ui/Buttons/edit}} <$link/><br>
+</$list>
+</$set>
+</$wikify>
+</$set>
+</$set>

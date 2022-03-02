@@ -1,8 +1,8 @@
-caption: TOC
+caption: {{$:/plugins/Gk0Wk/page-toc/PageTOCButton}} TOC
 created: 20211226162517298
 creator: oeyoews
 list-before: $:/core/ui/SideBar/Open
-modified: 20220217114047176
+modified: 20220302012417573
 modifier: oeyoews
 tags: docs $:/tags/SideBar
 title: TOC

@@ -3,9 +3,9 @@ created: 20211227064117496
 creator: oeyoews
 description: Show TOC of this tiddler
 hint: Page TOC
-modified: 20220301170557647
+modified: 20220302012548716
 modifier: oeyoews
-tags: deprecated
+tags: button $:/tags/Image
 title: $:/plugins/Gk0Wk/page-toc/PageTOCButton
 type: text/vnd.tiddlywiki
 
