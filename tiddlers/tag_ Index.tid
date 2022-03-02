@@ -1,8 +1,7 @@
-caption: {{$:/core/images/tag-button}} Tag {{{ [<currentTab>split[tag: ]last[]] }}}
+caption: Tag {{{ [<currentTab>split[tag: ]last[]] }}}
 created: 20220301070140430
 creator: oeyoews
-list-after: 
-modified: 20220302012637398
+modified: 20220302034457746
 modifier: oeyoews
 tags: $:/tags/SideBar
 title: tag: Index

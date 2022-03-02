@@ -1,8 +1,7 @@
-caption: {{$:/plugins/oflg/fishing/icon}} Fishing
+caption: Fishing
 created: 20220221151557526
 creator: oeyoews
-list-after: $:/core/ui/SideBar/Open
-modified: 20220302014954651
+modified: 20220302034513735
 modifier: oeyoews
 tags: copy $:/tags/SideBar
 title: Fishings
