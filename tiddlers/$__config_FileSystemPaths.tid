@@ -1,6 +1,6 @@
 created: 20220228060333093
 creator: oeyoews
-modified: 20220302030915210
+modified: 20220302032807853
 modifier: oeyoews
 tags: config
 title: $:/config/FileSystemPaths
@@ -23,4 +23,4 @@ type: text/vnd.tiddlywiki
 
 [prefix[Index]addprefix[subwiki/Index/]]
 
-[suffix[png]addprefix[img/]]
+[suffix[png]addprefix[dragimgs/]]
