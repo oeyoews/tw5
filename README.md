@@ -72,4 +72,4 @@
 
 - [ ] use workbox-cli
 - [ ] use submodule to manage
-- [ ] use timer or crontab to push automaticaly with smtp
+- [x] use timer or crontab to push automaticaly with smtp
