@@ -2,16 +2,16 @@ caption: {{$:/plugins/nico/projectify/images/waving-hand}} navigation
 created: 20220223125209778
 creator: oeyoews
 description: Index1
-modified: 20220303011712036
+modified: 20220303013713888
 modifier: oeyoews
 tags: config $:/tags/PageControls button
-title: navIndex
+title: $:/config/oeyoews/hideindex
 type: text/vnd.tiddlywiki
 
 <$button to="Index" tooltip="open「Index」">
-{{$:/plugins/nico/projectify/images/waving-hand}}
+{{$:/images/coreui-icons/brand/cib-arch-linux}}
 <$list filter="[<tv-config-toolbar-text>match[yes]]">
 <span class="tc-btn-text"><$text text=
-navIndex/></span>
+hidedIndex/></span>
 </$list>
 </$button>
