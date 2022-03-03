@@ -1,4 +1,4 @@
-created: 20220221084858815
+created: 20220303064746589
 creator: oeyoews
 difficulty: 1
 due: 20220302163826285
@@ -6,18 +6,21 @@ grade: 2
 history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"}]
 interval: 0
 lapses: 0
-modified: 20220303064828574
+modified: 20220303064758451
 modifier: oeyoews
 reps: 2
 retrievability: 1
 review: 20220301163826285
 se-type: 
 stability: 0.11484375000000001
-tags: $:/tags/TextEditor/Template EnglishWord ?
-title: ENGLISHWORD
+tags: EnglishWord ?
+title: explicit
 type: text/vnd.tiddlywiki
 
 <<<.tc-fish-quote
-"""
+"""explicit
+英 [ɪk'splɪsɪt; ek-]  美 [ɪk'splɪsɪt]
+adj. 明确的；清楚的；直率的；详述的
+CET4
 """
 <<<
