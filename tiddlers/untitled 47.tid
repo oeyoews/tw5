@@ -1,0 +1,13 @@
+created: 20220303025720092
+creator: oeyoews
+modified: 20220303030232635
+modifier: oeyoews
+tags: python
+title: untitled 47
+type: text/vnd.tiddlywiki
+
+* python里的end是print函数中的参数，为末尾end传递一个字符串，这样print函数不会在字符串末尾添加一个换行符，而是添加一个字符串，其实这也是一个语法要求，表示这个语句没结束。
+
+* end意思就是以给定字符串或制表符结尾，但是不默认换行。
+
+<<lightbox "https://cdn.jsdelivr.net/gh/oeyoews/img/pythonend.png" "Hello" >>

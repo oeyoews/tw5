@@ -1,15 +1,15 @@
 created: 20220301064431602
 creator: oeyoews
 icon: Hello
-modified: 20220302160031017
+modified: 20220303030026143
 modifier: oeyoews
 sticky-footer: {{footer}}
 tags: hello
 title: GettingStarted
 type: text/vnd.tiddlywiki
 
-{{indexStatus}}
-Welcome to ~TiddlyWiki and the ~TiddlyWiki community
+* {{indexStatus}}
+* Welcome to ~TiddlyWiki and the ~TiddlyWiki community
 
 
-Visit https://tiddlywiki.com/ to find out more about ~TiddlyWiki and what it can do.
+* Visit https://tiddlywiki.com/ to find out more about ~TiddlyWiki and what it can do.
