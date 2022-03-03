@@ -1,6 +1,8 @@
+caption: gitfork
 created: 20220302124805957
 creator: oeyoews
-modified: 20220302151516986
+description: gitfork button
+modified: 20220303000633435
 modifier: oeyoews
 tags: config $:/tags/PageControls
 title: $:/config/oeyoews/gitforbutton
@@ -8,3 +10,4 @@ type: text/vnd.tiddlywiki
 
 <div class="github-fork-ribbon-wrapper right-bottom"><div class="github-fork-ribbon"><a href="https://gitlab.com/oeyoews/tw5"><<.icon "$:/images/boxicons/logos/bxl-gitlab">>Gitlab </a></div>
 </div>
+<$text text="get plugins"/>

@@ -1,8 +1,8 @@
 created: 20211226164516098
 creator: oeyoews
 list: $:/core/ui/Buttons/import $:/core/ui/Buttons/more-page-actions $:/plugins/oflg/fishing/fishingfloat $:/core/ui/Buttons/new-tiddler $:/core/ui/Buttons/control-panel $:/core/ui/Buttons/home $:/core/ui/Buttons/close-all $:/plugins/kookma/shiraz/ui/Buttons/SwitchPalette $:/core/ui/Buttons/fold-all $:/core/ui/Buttons/unfold-all $:/core/ui/Buttons/permaview $:/plugins/tiddlywiki/markdown/new-markdown-button $:/core/ui/Buttons/new-journal $:/core/ui/Buttons/new-image $:/plugins/kookma/utility/ui/Buttons/ViewFields $:/core/ui/Buttons/export-page $:/core/ui/Buttons/advanced-search $:/plugins/kookma/commander/buttons/pagecontrol $:/core/ui/Buttons/manager $:/core/ui/Buttons/tag-manager $:/core/ui/Buttons/language $:/core/ui/Buttons/palette $:/core/ui/Buttons/theme $:/core/ui/Buttons/storyview $:/core/ui/Buttons/encryption $:/core/ui/Buttons/timestamp $:/core/ui/Buttons/full-screen $:/core/ui/Buttons/print $:/core/ui/Buttons/save-wiki $:/core/ui/Buttons/refresh $:/plugins/kookma/solution/buttons/pagecontrol $:/core/ui/Buttons/RandomSelection $:/kookma/livenote/button/create-new-note $:/xp/manageTags/button navIndex
-modified: 20220302151516993
+modified: 20220302235720216
 modifier: oeyoews
-tags: $:/tags/PageControls examples
+tags: examples
 title: $:/tags/PageControls
 type: text/vnd.tiddlywiki
