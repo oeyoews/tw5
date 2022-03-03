@@ -1,4 +1,4 @@
-created: 20220221084858815
+created: 20220303021516629
 creator: oeyoews
 difficulty: 1
 due: 20220302163826285
@@ -6,17 +6,24 @@ grade: 2
 history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"}]
 interval: 0
 lapses: 0
-modified: 20220303015411609
+modified: 20220303021530413
 modifier: oeyoews
 reps: 2
 retrievability: 1
 review: 20220301163826285
 stability: 0.11484375000000001
-tags: $:/tags/TextEditor/Template EnglishWord ?
-title: ENGLISHWORD
+tags: EnglishWord ?
+title: negate
 type: text/vnd.tiddlywiki
 
 <<<.tc-fish-quote
-"""
+"""negate
+英 [nɪ'geɪt]  美 [nɪˈɡet]
+vt. 否定；取消；使无效
+vi. 否定；否认；无效
+n. 对立面；反面
+TEM8  ( negating, negated, negates )
 """
 <<<
+---
+* negative

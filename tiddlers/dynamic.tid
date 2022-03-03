@@ -7,9 +7,9 @@ grade: 2
 history: [{"due":"20220302163758903","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163758903"}]
 interval: 0
 lapses: 0
-modified: 20220301163758904
+modified: 20220303015327348
 modifier: oeyoews
-page-cover: https://cdn.jsdelivr.net/gh/oeyoews/img/cat-scape.jpg
+page-cover: 
 reps: 2
 retrievability: 1
 review: 20220301163758903

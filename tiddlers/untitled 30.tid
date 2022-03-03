@@ -1,0 +1,10 @@
+created: 20220303022044435
+creator: oeyoews
+modified: 20220303022131573
+modifier: oeyoews
+tags: python
+title: untitled 30
+type: text/vnd.tiddlywiki
+
+* and  ：从左到右计算表达式，若所有值均为真，则返回最后一个值，若存在假，返回第一个假值。 
+* or：当有一个条件为真时，该条件即为真

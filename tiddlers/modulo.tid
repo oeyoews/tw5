@@ -1,4 +1,4 @@
-created: 20220221084858815
+created: 20220303020947472
 creator: oeyoews
 difficulty: 1
 due: 20220302163826285
@@ -6,17 +6,20 @@ grade: 2
 history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"}]
 interval: 0
 lapses: 0
-modified: 20220303015411609
+modified: 20220303020952866
 modifier: oeyoews
 reps: 2
 retrievability: 1
 review: 20220301163826285
 stability: 0.11484375000000001
-tags: $:/tags/TextEditor/Template EnglishWord ?
-title: ENGLISHWORD
+tags: EnglishWord ?
+title: modulo
 type: text/vnd.tiddlywiki
 
 <<<.tc-fish-quote
-"""
+"""modulo
+英 [ˈmɒdjʊləʊ]  美 [ˈmɑːdjəˌloʊ]
+prep. 以……为模
+adj. 按模的
 """
 <<<

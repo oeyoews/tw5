@@ -1,0 +1,17 @@
+created: 20220303022242442
+creator: oeyoews
+modified: 20220303022351253
+modifier: oeyoews
+tags: python
+title: python
+type: text/vnd.tiddlywiki
+
+<details>
+<!--
+<details open="open"
+-->
+<summary>TOC</summary>
+<div class="tc-table-of-contents">
+<<toc-selective-expandable 'python' "sort[title]">>
+</div>
+</details>
