@@ -1,0 +1,17 @@
+created: 20220303031731932
+creator: oeyoews
+modified: 20220303031929695
+modifier: oeyoews
+tags: python
+title: untitled 49
+type: text/vnd.tiddlywiki
+
+* use three `"` to comment multi code
+* e.g.
+```python
+"""
+THis is
+a comment line
+"""
+print("THis is a comment line")
+```
