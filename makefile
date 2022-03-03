@@ -8,9 +8,8 @@ krun:
 lrun:
 	setsid tiddlywiki --listen port=8090 host=0.0.0.0 /tmp/tw.log 2>&1 &
 
-
 gitsync:
-	@#git add . && git commit -m "This is an crontab automatic push" && git push
+	git add . && git commit -m "This is an crontab automatic push" && git push
 
 output:
 	@#TODO
