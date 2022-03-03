@@ -1,20 +1,11 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220301112538472
 creator: oeyoews
-difficulty: 1
-due: 20220302163758903
-grade: 2
 history: [{"due":"20220302163758903","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163758903"}]
-interval: 0
-lapses: 0
-modified: 20220303015327348
+modified: 20220303132801188
 modifier: oeyoews
 page-cover: 
-reps: 2
-retrievability: 1
-review: 20220301163758903
-stability: 0.11484375000000001
-tags: EnglishWord ?
+tags: EnglishWord
 title: dynamic
 type: text/vnd.tiddlywiki
 word: dynamic
