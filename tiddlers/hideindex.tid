@@ -2,10 +2,10 @@ caption: Index
 created: 20220223125209778
 creator: oeyoews
 description: Index1
-modified: 20220304071856403
+modified: 20220304072234830
 modifier: oeyoews
 tags: config $:/tags/PageControls button
-title: $:/config/oeyoews/hideindex
+title: hideindex
 type: text/vnd.tiddlywiki
 
 <$button to="Index" tooltip="open「Index」">
