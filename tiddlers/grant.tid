@@ -1,17 +1,17 @@
 created: 20220224020919681
 creator: oeyoews
-difficulty: 0.956170980055279
-due: 20220304075850019
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220331140757665
+grade: 1
+history: [{"due":"20220304075850019","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075850018"}]
+interval: 1
 lapses: 0
-modified: 20220303075850019
+modified: 20220304140757665
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220303075850018
-stability: 0.107421875
+reps: 2
+retrievability: 0.3750069880117309
+review: 20220304140757665
+stability: 26.783090178331225
 tags: EnglishWord ?
 title: grant
 type: text/vnd.tiddlywiki

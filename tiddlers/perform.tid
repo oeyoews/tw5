@@ -1,0 +1,27 @@
+created: 20220222015021740
+creator: oeyoews
+difficulty: 1
+due: 20220415140555886
+grade: 1
+history: [{"due":"20220303063116555","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302063116555"}]
+interval: 2
+lapses: 0
+modified: 20220304140555886
+modifier: oeyoews
+reps: 2
+retrievability: 0.14063024105763047
+review: 20220304140555885
+stability: 41.943552755493144
+tags: EnglishWord ?
+title: perform
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+perform
+英 [pə'fɔːm]  美 [pɚ'fɔrm]
+vt. 执行；完成；演奏
+vi. 执行，机器运转；表演
+CET4 TEM4  ( performing, performed, performs )
+"""
+<<<
