@@ -27,7 +27,8 @@
 
 ## feature
 
-- [ ] todo
+- [x] git
+* [x] timer
 
 ## Linux
 
