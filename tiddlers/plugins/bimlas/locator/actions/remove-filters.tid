@@ -1,0 +1,12 @@
+created: 20220304151831629
+creator: oeyoews
+modified: 20220304151833552
+modifier: oeyoews
+opened-fields-filters: 
+tags: $:/tags/Actions
+title: $:/plugins/bimlas/locator/actions/remove-filters
+type: text/vnd.tiddlywiki
+
+<$action-deletetiddler $tiddler=<<intersectionState>>/>
+<$action-deletetiddler $tiddler=<<differenceState>>/>
+<$action-setfield $tiddler=<<contextState>> opened-fields-filters=""/>
