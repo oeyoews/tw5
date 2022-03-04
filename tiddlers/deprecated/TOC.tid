@@ -2,9 +2,9 @@ caption: {{$:/core/images/list-bullet}} TOC
 created: 20211226162517298
 creator: oeyoews
 list-before: $:/core/ui/SideBar/Open
-modified: 20220302155330713
+modified: 20220304001058416
 modifier: oeyoews
-tags: $:/tags/SideBar config
+tags: config deprecated
 title: TOC
 type: text/vnd.tiddlywiki
 
