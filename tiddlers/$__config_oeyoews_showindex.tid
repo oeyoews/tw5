@@ -2,13 +2,13 @@ caption: Index
 created: 20220223125209778
 creator: oeyoews
 description: Index1
-modified: 20220304072234830
+modified: 20220304073949829
 modifier: oeyoews
 tags: config $:/tags/PageControls button
-title: hideindex
+title: $:/config/oeyoews/showindex
 type: text/vnd.tiddlywiki
 
-<$button to="Index" tooltip="open「Index」">
+<$button to="Index" tooltip="open「Index」"  >
 {{$:/images/coreui-icons/brand/cib-arch-linux}}
 <$list filter="[<tv-config-toolbar-text>match[yes]]">
 <span class="tc-btn-text"><$text text=
