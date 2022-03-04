@@ -6,7 +6,7 @@
 <!-- vim-markdown-toc GitLab -->
 
 * [dependency](#dependency)
-* [feature](#feature)
+* [features](#features)
 * [Linux](#linux)
   * [service](#service)
 * [run(general)](#rungeneral)
@@ -25,7 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/oeyoews/img/tw5graph.png" width=512 title="img" alt="img" style="zoom: 100%" />
 </div>
 
-## feature
+## features
 
 - [x] git
 * [x] timer

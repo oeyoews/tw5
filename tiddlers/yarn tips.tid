@@ -1,0 +1,13 @@
+created: 20220304031332214
+creator: oeyoews
+modified: 20220304031449496
+modifier: oeyoews
+tags: frontend
+title: yarn tips
+type: text/vnd.tiddlywiki
+
+```yarn
+warning You don't appear to have an internet connection. Try the --offline flag to use the cache for registry queries.
+```
+
+* because it not interest(just yarn, npm is not that)
