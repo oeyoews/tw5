@@ -1,4 +1,4 @@
 {
     "dueorder": "[!sortsub:number{$:/plugins/oflg/fishing/fishingpond!!autopriority}]",
-    "neworder": "[!sortsub:number{$:/plugins/oflg/fishing/fishingpond!!autopriority}]"
+    "neworder": "[sort[created]]"
 }

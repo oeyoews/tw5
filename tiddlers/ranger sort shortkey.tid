@@ -1,5 +1,6 @@
 created: 20220210171940255
-modified: 20220217114047168
+creator: oeyoews
+modified: 20220304015544474
 modifier: oeyoews
 tags: tools
 title: ranger sort shortkey
@@ -8,3 +9,6 @@ type: text/vnd.tiddlywiki
 <kbd>om</kbd>
 
 > sort file by time
+
+* cw rename
+* :bulkrename(marked)

@@ -1,11 +1,13 @@
 created: 20220215074142893
 creator: oeyoews
-modified: 20220304012651171
+modified: 20220304015411361
 modifier: oeyoews
 tags: TiddlyWiki5
 title: sixthPlib
 type: text/vnd.tiddlywiki
 
+<<dbadge Status "failed" warning>>
 * [[six lib|http://j.d.revisions.tiddlyspot.com/]]
 
 * reversion
+<<lightbox "https://cdn.jsdelivr.net/gh/oeyoews/img/blockhost1.png" "Hello" >>
