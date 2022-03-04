@@ -1,13 +1,15 @@
 created: 20220303052547381
 creator: oeyoews
-modified: 20220303054926684
+modified: 20220304064712931
 modifier: oeyoews
 tags: frontend
 title: renovate@deprecated
 type: text/vnd.tiddlywiki
 
+<<dbadge Status "ing" >>
 * https://juejin.cn/post/7067112072986755108
 * https://docs.renovatebot.com/getting-started/installing-onboarding/
 
 * https://wxsm.space/2020/integrate-renovate-with-gitlab/
-
+---
+* https://gitlab.com/gitlab-com/gl-infra/renovate/renovate-runner
