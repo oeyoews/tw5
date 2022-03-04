@@ -2,9 +2,9 @@ caption: kanban
 created: 20220304071341515
 creator: oeyoews
 description: kanban workspace
-modified: 20220304071524074
+modified: 20220304163448477
 modifier: oeyoews
-tags: config $:/tags/PageControls button
+tags: config button
 title: $:/config/oeyoews/kanban
 type: text/vnd.tiddlywiki
 
