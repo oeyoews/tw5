@@ -1,18 +1,17 @@
-caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220301081909463
 creator: oeyoews
 difficulty: 1
-due: 20220302163950232
+due: 20220414005657224
 grade: 2
-history: [{"due":"20220302163950232","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163950232"}]
-interval: 0
+history: [{"due":"20220302163950232","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163950232"},{"due":"20220302163950232","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163950232"}]
+interval: 2
 lapses: 0
-modified: 20220302122200342
+modified: 20220304005657225
 modifier: oeyoews
-reps: 2
-retrievability: 1
-review: 20220301163950232
-stability: 0.11484375000000001
+reps: 3
+retrievability: 0.15963747807693907
+review: 20220304005657224
+stability: 41.40413658012352
 tags: EnglishWord ?
 title: universal
 type: text/vnd.tiddlywiki
