@@ -1,15 +1,15 @@
-caption: Index
-created: 20220223125209778
+caption: kanban
+created: 20220304071341515
 creator: oeyoews
-description: Index1
-modified: 20220304071856403
+description: kanban workspace
+modified: 20220304071524074
 modifier: oeyoews
 tags: config $:/tags/PageControls button
-title: $:/config/oeyoews/hideindex
+title: $:/config/oeyoews/kanban
 type: text/vnd.tiddlywiki
 
-<$button to="Index" tooltip="open「Index」">
-{{$:/images/coreui-icons/brand/cib-arch-linux}}
+<$button to="Kkanban" tooltip="open「kanban」">
+{{$:/images/templarian-material-design/powershell}}
 <$list filter="[<tv-config-toolbar-text>match[yes]]">
 <span class="tc-btn-text"><$text text=
 hidedIndex/></span>
