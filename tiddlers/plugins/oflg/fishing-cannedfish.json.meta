@@ -9,4 +9,4 @@ plugin-type: plugin
 source: https://github.com/oflg/fishing-cannedfish
 title: $:/plugins/oflg/fishing-cannedfish
 type: application/json
-version: 0.0.3
+version: 0.1.0
