@@ -1,9 +1,10 @@
 author: oeyoews
 created: 20220213230255060
 creator: oeyoews
+description: a material scrollbar
 extra-tiddlers: $:/oeyoews/scrollbar/style
 list: readme license history
-modified: 20220303101914564
+modified: 20220304155123093
 modifier: oeyoews
 plugin-draft: plugin
 plugin-type: plugin
