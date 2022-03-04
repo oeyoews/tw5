@@ -1,28 +1,27 @@
-created: 20220303082818981
+created: 20220303005358816
 creator: oeyoews
 difficulty: 1
-due: 20220414132742412
+due: 20220414132450675
 grade: 1
 history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"}]
 interval: 2
 lapses: 0
-modified: 20220304132742412
+modified: 20220304132450675
 modifier: oeyoews
 reps: 3
 retrievability: 0.15963747807693907
-review: 20220304132742411
+review: 20220304132450674
 stability: 41.40413658012352
 tags: EnglishWord ?
-title: afford
+title: potential
 type: text/vnd.tiddlywiki
+word: potential
 
 <<<.tc-fish-quote
-"""afford
-英 [ə'fɔːd]  美 [ə'fɔrd]
-vt. 给予，提供；买得起
-n. (Afford)人名；(英)阿福德
-CET4 TEM4  ( affording, afforded, affords )
+"""potential
+英 [pəˈtenʃl]  美 [pə'tɛnʃl]
+n. 潜能；可能性；[电] 电势
+adj. 潜在的；可能的；势的
+CET4 TEM4
 """
 <<<
----
-* avoid

@@ -76,3 +76,4 @@
 - [ ] use submodule to manage img and tiddler/subwiki
 - [ ] customize respawn js, to fix during time bug(in logic)
 - [ ] use runner(renovate) for repository(tw5) in gitlab platform
+- [ ] add some broken setup notes for config tw5
