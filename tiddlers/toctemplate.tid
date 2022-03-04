@@ -1,0 +1,9 @@
+created: 20220304021236170
+creator: oeyoews
+modified: 20220304021316846
+modifier: oeyoews
+tags: $:/tags/TextEditor/Snippet
+title: toctemplate
+type: text/vnd.tiddlywiki
+
+<<locator-view baseTitle:"$1">>

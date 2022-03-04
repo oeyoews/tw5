@@ -1,16 +1,10 @@
 color: #7eee68
 created: 20220129135449279
 creator: oeyoews
-modified: 20220221075627429
+modified: 20220304021429158
 modifier: oeyoews
 tags: Index docs
 title: docs
 type: text/vnd.tiddlywiki
 
-<<tabs tabsList:"[tag[docs]]" default:"" class:"tc-horizonal">>
-
-<hr>
-
-<div class="tc-table-of-contents">
-<<toc-selective-expandable 'footer'>>
-</div>
+<<locator-view baseTitle:"docs">>

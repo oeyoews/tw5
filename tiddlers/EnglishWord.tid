@@ -6,13 +6,13 @@ grade: 2
 history: [{"due":"20220302164730340","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301164730339"}]
 interval: 0
 lapses: NaN
-modified: 20220303090045450
+modified: 20220304021100252
 modifier: oeyoews
 reps: NaN
 retrievability: NaN
 review: 20220301164730339
 stability: NaN
-tags: EnglishWord ? English
+tags: English
 title: EnglishWord
 type: text/vnd.tiddlywiki
 
