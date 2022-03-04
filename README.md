@@ -72,5 +72,6 @@
 ## todo
 
 - [x] use timer or crontab to push automaticaly with smtp
-- [ ] use workbox-cli
-- [ ] use submodule to manage
+- [ ] use workbox-cli to precache offline
+- [ ] use submodule to manage img and tiddler/subwiki
+- [ ] custom respawn js, to fix during time bug(logical)
