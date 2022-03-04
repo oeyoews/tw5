@@ -1,10 +1,18 @@
-caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220302010941471
 creator: oeyoews
-history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"}]
-modified: 20220303161126503
+difficulty: 0.956170980055279
+due: 20220305061947330
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220304061947330
 modifier: oeyoews
-tags: EnglishWord
+reps: 1
+retrievability: 1
+review: 20220304061947330
+stability: 0.107421875
+tags: EnglishWord ?
 title: greed
 type: text/vnd.tiddlywiki
 word: greed
