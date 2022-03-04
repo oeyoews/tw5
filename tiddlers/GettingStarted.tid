@@ -1,7 +1,7 @@
 created: 20220301064431602
 creator: oeyoews
 icon: Hello
-modified: 20220304164008016
+modified: 20220304172528472
 modifier: oeyoews
 sticky-footer: {{footer}}
 tags: hello
@@ -9,7 +9,7 @@ title: GettingStarted
 type: text/vnd.tiddlywiki
 
 {{indexStatus}}
-
+{{heatmap}}
 Welcome to ~TiddlyWiki and the ~TiddlyWiki community
 
 
