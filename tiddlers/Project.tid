@@ -1,6 +1,6 @@
 created: 20220301051700692
 creator: oeyoews
-modified: 20220302152101243
+modified: 20220305031335656
 modifier: oeyoews
 tags: subwiki
 title: Project
@@ -8,7 +8,4 @@ type: text/vnd.tiddlywiki
 
  <<alert primary "personal projects
  " width:100%>>
-
-<div class="tc-table-of-contents">
-<<toc-selective-expandable 'Project'>>
-</div>
+<<timeline-vertical filter:"[tag[Project]reverse[date]]" class:info>>
