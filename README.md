@@ -71,13 +71,13 @@
 
 ## Todo
 
-- [x] crontab: use timer or crontab to push automaticaly with smtp
-- [ ] precache: use workbox-cli to precache offline
-- [ ] git: use submodule to manage img and tiddler/subwiki
-- [ ] tw5: customize respawn js, to fix during time bug(in logic)
-- [ ] repo: use runner(renovate) for repository(tw5) in gitlab platform
-- [ ] doc: add some broken setup notes for config tw5
-- [ ] fix: Projectify schedule button disappear in mobile mode(tools)
-- [ ] try: try publish npm package use devops for relate tw5 project
-- [ ] bug: Fishing calendar cache disappear in sometimes
-- [ ] todo: Using shell to replace makefile, todo test(to manage multi repository push automaticaly)
+- [x] __crontab__: use timer or crontab to push automaticaly with smtp
+- [ ] __precache__: use workbox-cli to precache offline
+- [ ] __git__: use submodule to manage img and tiddler/subwiki
+- [ ] __tw5__: customize respawn js, to fix during time bug(in logic)
+- [ ] __repo__: use runner(renovate) for repository(tw5) in gitlab platform
+- [ ] __doc__: add some broken setup notes for config tw5
+- [ ] __fix__: Projectify schedule button disappear in mobile mode(tools)
+- [ ] __try__: try publish npm package use devops for relate tw5 project
+- [ ] __bug__: Fishing calendar cache disappear in sometimes
+- [ ] __todo__: Using shell to replace makefile, todo test(to manage multi repository push automaticaly)
