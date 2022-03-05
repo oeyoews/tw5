@@ -1,0 +1,10 @@
+created: 20220305022753960
+creator: oeyoews
+modified: 20220305022836034
+modifier: oeyoews
+tags: ??
+title: untitled 16
+type: text/vnd.tiddlywiki
+
+!! A horizontale timeline example
+<$macrocall $name="timeline-horizontal" filter="[tag[Journal]]" date=date/>
