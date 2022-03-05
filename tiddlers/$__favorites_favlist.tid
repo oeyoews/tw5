@@ -1,7 +1,7 @@
 created: 20220103042943419
 creator: oeyoews
-list: $:/plugins/kookma/gatha/ui/sidebar $:/config/oeyoews/getplugins/button $:/config/FileSystemPaths template/esentence buttonDemo $:/core/ui/Actions/RandomSelection $:/config/SyncFilter booklist $:/plugins/kookma/utility/author/exclude-items $:/oeyoews/settings/tiddler-icons powerSettings
-modified: 20220304071633484
+list: $:/plugins/kookma/gatha/ui/sidebar $:/config/oeyoews/getplugins/button $:/config/FileSystemPaths template/esentence $:/config/SyncFilter $:/plugins/kookma/utility/author/exclude-items $:/oeyoews/settings/tiddler-icons
+modified: 20220305035149720
 modifier: oeyoews
 title: $:/favorites/favlist
 type: text/vnd.tiddlywiki

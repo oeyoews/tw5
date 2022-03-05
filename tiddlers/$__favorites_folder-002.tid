@@ -1,7 +1,8 @@
 caption: Hello fav
 created: 20220207054001976
-list: powerSettings
-modified: 20220219073415553
+creator: oeyoews
+list: $:/plugins/kookma/gatha/ui/sidebar $:/plugins/kookma/utility/author/exclude-items
+modified: 20220305035024253
 modifier: oeyoews
 tags: $:/tags/Favorites/Folder
 title: $:/favorites/folder-002
