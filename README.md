@@ -5,7 +5,9 @@
 
 <!-- vim-markdown-toc GitLab -->
 
-* [Dependency](#dependency)
+* [DependencyGraph](#dependencygraph)
+* [ProjectStructure](#projectstructure)
+* [RelatedSoftwares](#relatedsoftwares)
 * [Features](#features)
 * [Linux](#linux)
   * [Service](#service)
@@ -18,12 +20,30 @@
 </div>
 <!--[![Netlify Status](https://api.netlify.com/api/v1/badges/a42c9618-8fd5-41cd-9cb9-901b588369ad/deploy-status)](https://app.netlify.com/sites/tw5/deploys)-->
 
-## Dependency
+## DependencyGraph
 
 <div style="text-align: center">
-<p> Hello </p>
-<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/tw5graph.png" width=512 title="img" alt="img" style="zoom: 100%" />
+<p> tw5graph2</p>
+<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/tw5graph2.png" width=512 title="img" alt="img" style="zoom: 100%" />
 </div>
+
+## ProjectStructure
+
+<div style="text-align: center">
+<p> FileTreeGraph</p>
+<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/filetreegraph.png" title="img" alt="img" style="zoom: 80%" />
+</div>
+
+## RelatedSoftwares
+
+* tw5 and it's form
+* vercel, netlify, gitlab or github workflow
+* mirroring(gitlab) repository to github and gitee
+* html-min ...
+* use jsdelivr to accelebrate images
+* flameshot and ranger to manage images
+* power filter
+* etc
 
 ## Features
 
