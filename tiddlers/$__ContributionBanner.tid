@@ -1,7 +1,7 @@
 created: 20220305054212626
 creator: oeyoews
 list-after: $:/core/ui/EditTemplate/title
-modified: 20220305055738768
+modified: 20220305062736634
 modifier: oeyoews
 tags: $:/tags/EditTemplate
 title: $:/ContributionBanner
@@ -15,7 +15,7 @@ https://gitlab.com/oeyoews/tw5/tree/main/tiddlers/
 <$list filter="[[$:/config/OriginalTiddlerPaths]getindex<draft-of>]" variable="target" >
 <div class="tc-improvement-banner">
 <<.icon "$:/core/images/star-filled">> Can you help us improve this documentation? [[Find out how|Improving TiddlyWiki Documentation]] to
-<a href={{{ [<target>addprefix<base-github>] }}} class="tc-tiddlylink-external" target="_blank" rel="noopener noreferrer">edit this tiddler on <<.icon "$:/config/oeyoews/gitforbutton">> Gitlab</a>
+<a href={{{ [<target>addprefix<base-github>] }}} class="tc-tiddlylink-external" target="_blank" rel="noopener noreferrer">edit this tiddler on Gitlab</a>
 </div>
 </$list>
 </$set>
