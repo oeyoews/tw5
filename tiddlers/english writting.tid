@@ -1,16 +1,16 @@
 created: 20220120142328889
 creator: oeyoews
 difficulty: NaN
-due: 20220302164746589
-grade: 2
-history: [{"due":"20220225083139333","interval":4,"difficulty":null,"stability":null,"retrievability":0.6902298974320726,"grade":1,"lapses":0,"reps":2,"review":"20220224083139333"},{"due":"20220302164746589","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301164746589"}]
-interval: 0
+due: 20220306003140000
+grade: 0
+history: [{"due":"20220225083139333","interval":4,"difficulty":null,"stability":null,"retrievability":0.6902298974320726,"grade":1,"lapses":0,"reps":2,"review":"20220224083139333"},{"due":"20220302164746589","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301164746589"},{"due":"20220302164746589","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301164746589"}]
+interval: 3
 lapses: NaN
-modified: 20220301164746589
+modified: 20220305003140000
 modifier: oeyoews
-reps: NaN
+reps: 1
 retrievability: NaN
-review: 20220301164746589
+review: 20220305003139999
 stability: NaN
 tags: English tips ?
 title: english writting

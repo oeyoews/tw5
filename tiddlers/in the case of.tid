@@ -1,17 +1,17 @@
 created: 20220214164434277
 creator: oeyoews
-difficulty: 4.8458076146549365
-due: 20220303022407132
-grade: 2
-history: [{"due":"20220223161153040","interval":1,"difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222161153040"},{"due":"20220227001557678","interval":1,"difficulty":5.280041887453755,"stability":3.303329330684263,"retrievability":0.9313585894032408,"grade":2,"lapses":1,"reps":2,"review":"20220224001557678"},{"due":"20220227163948328","interval":2,"difficulty":6.418243419150287,"stability":0.07117400905594407,"retrievability":0.9382015316965325,"grade":0,"lapses":2,"reps":1,"review":"20220226163948328"},{"due":"20220303022407132","interval":1,"difficulty":4.8458076146549365,"stability":2.867517164890657,"retrievability":0.22756419550464868,"grade":2,"lapses":2,"reps":2,"review":"20220228022407132"}]
-interval: 1
-lapses: 2
-modified: 20220228022407133
+difficulty: 5.877981522587684
+due: 20220306003455547
+grade: 0
+history: [{"due":"20220223161153040","interval":1,"difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222161153040"},{"due":"20220227001557678","interval":1,"difficulty":5.280041887453755,"stability":3.303329330684263,"retrievability":0.9313585894032408,"grade":2,"lapses":1,"reps":2,"review":"20220224001557678"},{"due":"20220227163948328","interval":2,"difficulty":6.418243419150287,"stability":0.07117400905594407,"retrievability":0.9382015316965325,"grade":0,"lapses":2,"reps":1,"review":"20220226163948328"},{"due":"20220303022407132","interval":1,"difficulty":4.8458076146549365,"stability":2.867517164890657,"retrievability":0.22756419550464868,"grade":2,"lapses":2,"reps":2,"review":"20220228022407132"},{"due":"20220303022407132","interval":1,"difficulty":4.8458076146549365,"stability":2.867517164890657,"retrievability":0.22756419550464868,"grade":2,"lapses":2,"reps":2,"review":"20220228022407132"}]
+interval: 5
+lapses: 3
+modified: 20220305003455547
 modifier: oeyoews
-reps: 2
-retrievability: 0.22756419550464868
-review: 20220228022407132
-stability: 2.867517164890657
+reps: 1
+retrievability: 0.832173907932748
+review: 20220305003455547
+stability: 0.042165720570753545
 tags: EnglishWord ?
 title: in the case of
 type: text/vnd.tiddlywiki

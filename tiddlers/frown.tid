@@ -1,17 +1,17 @@
 created: 20220223022009565
 creator: oeyoews
-difficulty: 0.956170980055279
-due: 20220303064309517
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220423003337653
+grade: 1
+history: [{"due":"20220303064309517","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064309517"}]
+interval: 3
 lapses: 0
-modified: 20220302064309517
+modified: 20220305003337653
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220302064309517
-stability: 0.107421875
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305003337653
+stability: 48.60974728794028
 tags: EnglishWord ?
 title: frown
 type: text/vnd.tiddlywiki
