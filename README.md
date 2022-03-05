@@ -78,4 +78,5 @@
 - [ ] use runner(renovate) for repository(tw5) in gitlab platform
 - [ ] add some broken setup notes for config tw5
 - [ ] Projectify schedule button disappear in mobile mode(tools)
+- [ ] try publish npm package use devops for relate tw5 project
 - [ ] Fishing calendar cache disappear in sometimes
