@@ -1,16 +1,10 @@
 created: 20220213230332940
 creator: oeyoews
-modified: 20220213230912820
+modified: 20220305025406610
 modifier: oeyoews
 tags: 
 title: $:/plugins/oeyoews/beausidebar/readme
 type: text/vnd.tiddlywiki
-
-; Shiraz[use correct name]
-describe what is the plugin in one paragraph
-
-;Code and demo
-fix: not sidebar, should be name as scrollbar
 
 * Demo:  
 * Code:  
