@@ -1,0 +1,16 @@
+author: oflg
+core-version: >=5.2.1
+created: 20220305065535534
+creator: oeyoews
+dependents: $:/plugins/oflg/fishing-cannedfish
+description: memory package
+list: readme
+modified: 20220305065541940
+modifier: oeyoews
+name: 2022hkw
+plugin-type: plugin
+prent-plugin: $:/plugins/oflg/fishing-cannedfish
+source: https://github.com/oflg/fishing-cannedfish
+title: $:/plugins/oflg/fishing-cannedfish/2022hkw
+type: application/json
+version: 0.0.2
