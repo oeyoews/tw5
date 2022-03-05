@@ -1,17 +1,17 @@
 created: 20220223065049397
 creator: oeyoews
-difficulty: 0.956170980055279
-due: 20220304015937480
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220303015937480
+difficulty: 1.2968012211129094
+due: 20220306015334314
+grade: 0
+history: [{"due":"20220304015937480","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303015937480"}]
+interval: 2
+lapses: 1
+modified: 20220305015334314
 modifier: oeyoews
 reps: 1
-retrievability: 1
-review: 20220303015937480
-stability: 0.107421875
+retrievability: 0.14063024105763047
+review: 20220305015334313
+stability: 0.07683095218398285
 tags: EnglishWord ?
 title: mandate
 type: text/vnd.tiddlywiki

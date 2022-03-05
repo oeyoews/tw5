@@ -1,18 +1,18 @@
 created: 20220221114657579
 creator: oeyoews
-difficulty: 5.387368353932193
-due: 20220302164428245
+difficulty: 5.587475869619779
+due: 20220306014737962
 grade: 0
-history: [{"due":"20220228112847778","interval":1,"difficulty":3.265444972427654,"stability":0.0960748629946603,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20220227112847778"},{"due":"20220301053632680","interval":1,"difficulty":3.7994329845309442,"stability":0.06302758633267336,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20220228053632680"},{"due":"20220302072720304","interval":1,"difficulty":4.187368353932193,"stability":0.04669198436083444,"retrievability":0.18793536940124844,"grade":0,"lapses":3,"reps":1,"review":"20220301072720304"},{"due":"20220302164428245","interval":0,"difficulty":5.387368353932193,"stability":0.03459027277429196,"retrievability":1,"grade":0,"lapses":4,"reps":1,"review":"20220301164428245"}]
-interval: 0
-lapses: 4
-modified: 20220301164428245
+history: [{"due":"20220228112847778","interval":1,"difficulty":3.265444972427654,"stability":0.0960748629946603,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20220227112847778"},{"due":"20220301053632680","interval":1,"difficulty":3.7994329845309442,"stability":0.06302758633267336,"retrievability":0.33398801210329004,"grade":0,"lapses":2,"reps":1,"review":"20220228053632680"},{"due":"20220302072720304","interval":1,"difficulty":4.187368353932193,"stability":0.04669198436083444,"retrievability":0.18793536940124844,"grade":0,"lapses":3,"reps":1,"review":"20220301072720304"},{"due":"20220302164428245","interval":0,"difficulty":5.387368353932193,"stability":0.03459027277429196,"retrievability":1,"grade":0,"lapses":4,"reps":1,"review":"20220301164428245"},{"due":"20220302164428245","interval":0,"difficulty":5.387368353932193,"stability":0.03459027277429196,"retrievability":1,"grade":0,"lapses":4,"reps":1,"review":"20220301164428245"}]
+interval: 3
+lapses: 5
+modified: 20220305014737962
 modifier: oeyoews
 page-cover: 
 reps: 1
-retrievability: 1
-review: 20220301164428245
-stability: 0.03459027277429196
+retrievability: 0.000107515687586159
+review: 20220305014737961
+stability: 0.023141038093518796
 tags: EnglishWord ?
 title: prestigious
 type: text/vnd.tiddlywiki

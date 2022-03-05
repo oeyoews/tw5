@@ -1,17 +1,17 @@
 created: 20220224110911940
 creator: oeyoews
-difficulty: 0.956170980055279
-due: 20220304080735842
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220303080735842
+difficulty: 1.2968012211129094
+due: 20220306015338798
+grade: 0
+history: [{"due":"20220304080735842","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303080735842"}]
+interval: 2
+lapses: 1
+modified: 20220305015338798
 modifier: oeyoews
 reps: 1
-retrievability: 1
-review: 20220303080735842
-stability: 0.107421875
+retrievability: 0.14063024105763047
+review: 20220305015338798
+stability: 0.07683095218398285
 tags: EnglishWord ?
 title: congress
 type: text/vnd.tiddlywiki

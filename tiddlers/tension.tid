@@ -1,17 +1,17 @@
 created: 20220223123606418
 creator: oeyoews
-difficulty: 2.156170980055279
-due: 20220304234910047
+difficulty: 2.6222516217367717
+due: 20220306015439075
 grade: 0
-history: [{"due":"20220304074703932","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303074703932"}]
-interval: 0
-lapses: 1
-modified: 20220303234910047
+history: [{"due":"20220304074703932","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303074703932"},{"due":"20220304234910047","interval":0,"difficulty":2.156170980055279,"stability":0.07958008229979391,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220303234910046"}]
+interval: 1
+lapses: 2
+modified: 20220305015439075
 modifier: oeyoews
 reps: 1
-retrievability: 1
-review: 20220303234910046
-stability: 0.07958008229979391
+retrievability: 0.2660806416814927
+review: 20220305015439075
+stability: 0.05691776929022033
 tags: EnglishWord ?
 title: tension
 type: text/vnd.tiddlywiki

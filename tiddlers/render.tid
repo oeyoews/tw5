@@ -1,18 +1,9 @@
 created: 20220221084749109
 creator: oeyoews
-difficulty: 4.783420268419063
-due: 20220303113314902
-grade: 1
 history: [{"due":"20220226161417503","interval":1,"difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":2,"lapses":0,"reps":2,"review":"20220222161417503"},{"due":"20220228112954050","interval":4,"difficulty":5.249432256315774,"stability":0.0960748629946603,"retrievability":0.9007489582652597,"grade":0,"lapses":1,"reps":1,"review":"20220227112954050"},{"due":"20220303113314902","interval":1,"difficulty":4.783420268419063,"stability":3.010306329815367,"retrievability":0.33398801210329004,"grade":1,"lapses":1,"reps":2,"review":"20220228113314902"}]
-interval: 1
-lapses: 1
-modified: 20220228113314902
+modified: 20220305015024732
 modifier: oeyoews
-reps: 2
-retrievability: 0.33398801210329004
-review: 20220228113314902
-stability: 3.010306329815367
-tags: EnglishWord ?
+tags: EnglishWord
 title: render
 type: text/vnd.tiddlywiki
 

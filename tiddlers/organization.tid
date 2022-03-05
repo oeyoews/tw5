@@ -1,17 +1,17 @@
 created: 20220222013453860
 creator: oeyoews
 difficulty: 1
-due: 20220302164354722
-grade: 2
-history: [{"due":"20220302164354722","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301164354722"}]
-interval: 0
+due: 20220423014513779
+grade: 1
+history: [{"due":"20220302164354722","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301164354722"},{"due":"20220302164354722","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301164354722"}]
+interval: 3
 lapses: 0
-modified: 20220301164354723
+modified: 20220305014513779
 modifier: oeyoews
-reps: 2
-retrievability: 1
-review: 20220301164354722
-stability: 0.11484375000000001
+reps: 3
+retrievability: 0.06378261010099043
+review: 20220305014513779
+stability: 48.71120732285093
 tags: EnglishWord ?
 title: organization
 type: text/vnd.tiddlywiki

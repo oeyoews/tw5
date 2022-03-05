@@ -1,17 +1,17 @@
 created: 20220223020308339
 creator: oeyoews
-difficulty: 0.956170980055279
-due: 20220303064306623
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220423014823357
+grade: 1
+history: [{"due":"20220303064306623","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064306623"}]
+interval: 3
 lapses: 0
-modified: 20220302064306623
+modified: 20220305014823357
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220302064306623
-stability: 0.107421875
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305014823356
+stability: 48.60974728794028
 tags: EnglishWord ?
 title: prior
 type: text/vnd.tiddlywiki
@@ -25,3 +25,5 @@ adv. 在前，居先
 n. (Prior)人名；(法、西、葡、捷)普里奥尔；(英)普赖尔；(意)普廖尔
 """
 <<<
+---
+* priority

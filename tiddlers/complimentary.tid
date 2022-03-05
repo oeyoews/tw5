@@ -1,17 +1,17 @@
 created: 20220225030640045
 creator: oeyoews
-difficulty: 0.956170980055279
-due: 20220305061917558
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220304061917558
+difficulty: 1.53117796806701
+due: 20220306015227768
+grade: 0
+history: [{"due":"20220305061917558","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220304061917558"}]
+interval: 1
+lapses: 1
+modified: 20220305015227768
 modifier: oeyoews
 reps: 1
-retrievability: 1
-review: 20220304061917558
-stability: 0.107421875
+retrievability: 0.3750069880117309
+review: 20220305015227768
+stability: 0.07683095218398285
 tags: EnglishWord ?
 title: complimentary
 type: text/vnd.tiddlywiki

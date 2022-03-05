@@ -1,17 +1,17 @@
 created: 20220301085713420
 creator: oeyoews
-difficulty: 2.2984764469154384
-due: 20220302163901349
+difficulty: 2.5228274499587857
+due: 20220306013315886
 grade: 0
-history: [{"due":"20220302163901349","interval":0,"difficulty":2.2984764469154384,"stability":0.08507834253141604,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220301163901349"}]
-interval: 0
-lapses: 1
-modified: 20220301163901349
+history: [{"due":"20220302163901349","interval":0,"difficulty":2.2984764469154384,"stability":0.08507834253141604,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220301163901349"},{"due":"20220302163901349","interval":0,"difficulty":2.2984764469154384,"stability":0.08507834253141604,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220301163901349"}]
+interval: 3
+lapses: 2
+modified: 20220305013315886
 modifier: oeyoews
 reps: 1
-retrievability: 1
-review: 20220301163901349
-stability: 0.08507834253141604
+retrievability: 0.024351003043347287
+review: 20220305013315886
+stability: 0.05691776929022033
 tags: EnglishWord ?
 title: intuitively
 type: text/vnd.tiddlywiki
