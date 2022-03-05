@@ -80,3 +80,4 @@
 - [ ] Projectify schedule button disappear in mobile mode(tools)
 - [ ] try publish npm package use devops for relate tw5 project
 - [ ] Fishing calendar cache disappear in sometimes
+- [ ] Using shell to replace makefile, todo test(to manage multi repository push automaticaly)
