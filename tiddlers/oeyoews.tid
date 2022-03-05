@@ -1,9 +1,11 @@
 created: 20211226092409637
 creator: oeyoews
-modified: 20220221023750505
+modified: 20220305064134729
 modifier: oeyoews
-tags: deprecated
+tags: docs
 title: oeyoews
 type: text/vnd.tiddlywiki
 
-* [[ Hugo2|https://oeyoews.top]]
+~~* [[ Hugo2|https://oeyoews.top]]~~
+
+[[GettingStarted]]

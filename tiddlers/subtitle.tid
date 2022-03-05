@@ -1,6 +1,6 @@
 created: 20220218072617844
 creator: oeyoews
-modified: 20220303130957341
+modified: 20220305064354316
 modifier: oeyoews
 tags: config
 title: subtitle
@@ -8,4 +8,4 @@ type: text/vnd.tiddlywiki
 
 <!--<$appear show="TiddlyWiki5" type=popup $state="popup-button">  Hello TiddlyWiki5</$appear> 
 -->
-<<.icon "$:/images/boxicons/logos/bxl-gitlab">>  [[TiddlyWiki5|https://gitlab.com/oeyoews/tw5]] a unique non-linear notebook
+<<.icon "$:/images/boxicons/logos/bxl-gitlab">>  [[Gitlab Repository|https://gitlab.com/oeyoews/tw5]]
