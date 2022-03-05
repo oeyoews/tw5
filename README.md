@@ -77,3 +77,5 @@
 - [ ] customize respawn js, to fix during time bug(in logic)
 - [ ] use runner(renovate) for repository(tw5) in gitlab platform
 - [ ] add some broken setup notes for config tw5
+- [ ] Projectify schedule button disappear in mobile mode(tools)
+- [ ] Fishing calendar cache disappear in sometimes
