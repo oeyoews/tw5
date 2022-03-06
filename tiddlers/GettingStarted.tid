@@ -1,18 +1,17 @@
 created: 20220301064431602
 creator: oeyoews
 icon: Hello
-modified: 20220306013326748
+modified: 20220306025756341
 modifier: oeyoews
 sticky-footer: {{$:/config/oeyoews/footer}}
 tags: hello
 title: GettingStarted
 type: text/vnd.tiddlywiki
 
-{{indexStatus}}
+<<reuse-tiddler "indexStatus">>
 
 {{heatmap}}
 
-{{$:/plugins/oflg/fishing-analysis/calendar/calendar}}
 Welcome to TiddlyWiki and the TiddlyWiki community
 
 Visit https://tiddlywiki.com/ to find out more about TiddlyWiki and what it can do.  
