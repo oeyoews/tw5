@@ -12,7 +12,8 @@
 * [Linux](#linux)
   * [Service](#service)
 * [Run(general)](#rungeneral)
-* [Todo](#todo)
+* [TODO](#todo)
+* [Broken](#broken)
 
 <!-- vim-markdown-toc -->
 </details>
@@ -91,7 +92,7 @@
 <!--* ~~`\$__themes_nico_notebook_ui_Bottombar.tid`-->
 <!--\$__themes_nico_notebook_ui_Topbar.tid~~-->
 
-## Todo
+## TODO
 
 - [x] __crontab__: use timer or crontab to push automaticaly with smtp
 - [ ] __precache__: use workbox-cli to precache offline
@@ -99,7 +100,12 @@
 - [ ] __tw5__: customize respawn js, to fix during time bug(in logic)
 - [x] __repo__: use runner(renovate) for repository(tw5) in gitlab platform
 - [ ] __doc__: add some broken setup notes for config tw5
+    1. - [ ] bug: draggin file no appear highlight because this projectify's two macro
 - [ ] __fix__: Projectify schedule button disappear in mobile mode(tools)
 - [ ] __try__: try publish npm package use devops for relate tw5 project
 - [ ] __bug__: Fishing calendar cache disappear in sometimes
 - [ ] __todo__: Using shell to replace makefile, todo test(to manage multi repository push automaticaly)
+
+## Broken
+
+- [ ] xxx
