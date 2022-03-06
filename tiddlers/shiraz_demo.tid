@@ -1,0 +1,12 @@
+created: 20220306064920344
+creator: oeyoews
+modified: 20220306065152571
+modifier: oeyoews
+tags: demo
+title: shiraz/demo
+type: text/vnd.tiddlywiki
+
+<<alert primary src:"Leftbar alert primary" class:"leftbar border-primary">>
+<<alert danger src:"Leftbar alert danger" class:"leftbar border-danger">>
+<<alert success src:"Leftbar alert success" class:"leftbar border-success">>
+<<alert warning src:"Leftbar alert warning" class:"leftbar border-warning">>

@@ -1,7 +1,7 @@
 created: 20220301064431602
 creator: oeyoews
 icon: Hello
-modified: 20220306063815691
+modified: 20220306065714219
 modifier: oeyoews
 sticky-footer: {{$:/config/oeyoews/footer}}
 tags: hello
@@ -17,5 +17,3 @@ Visit https://tiddlywiki.com/ to find out more about TiddlyWiki and what it can 
 
 
 {{heatmap}}
-
-{{$:/plugins/oflg/fishing-analysis/calendar/calendar}}
