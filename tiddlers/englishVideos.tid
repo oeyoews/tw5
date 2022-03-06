@@ -1,18 +1,9 @@
 created: 20220215153704206
 creator: oeyoews
-difficulty: NaN
-due: 20220306003157692
-grade: 1
 history: [{"due":"20220225083149660","interval":4,"difficulty":null,"stability":null,"retrievability":0.6902298974320726,"grade":1,"lapses":0,"reps":2,"review":"20220224083149660"},{"due":"20220302164856056","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301164856056"},{"due":"20220302164856056","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301164856056"}]
-interval: 3
-lapses: NaN
-modified: 20220305003157692
+modified: 20220306053742378
 modifier: oeyoews
-reps: NaN
-retrievability: NaN
-review: 20220305003157692
-stability: NaN
-tags: English ?
+tags: English
 title: englishVideos
 type: text/vnd.tiddlywiki
 
