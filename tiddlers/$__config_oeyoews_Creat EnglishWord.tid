@@ -1,0 +1,34 @@
+caption: EnglishWord
+created: 20220306155133884
+creator: oeyoews
+description: creat englishword
+modified: 20220306160653301
+modifier: oeyoews
+tags: $:/tags/PageControls
+title: $:/config/oeyoews/Creat EnglishWord
+type: text/vnd.tiddlywiki
+
+\define creat-englishword()
+<$action-sendmessage 
+    $message="tm-new-tiddler"
+    tags="EnglishWord"
+		text='<<<.tc-fish-quote
+"""
+
+"""
+'/>
+\end
+
+
+<$button 
+ actions=<<creat-englishword>> 
+ tooltip="creat new word" 
+ aria-label={{$:/language/Buttons/Solution/Caption}} 
+ class=<<tv-config-toolbar-class>> >
+<$list filter="[<tv-config-toolbar-icons>prefix[yes]]">
+{{$:/images/coreui-icons/brand/cib-apple}}
+</$list>
+<$list filter="[<tv-config-toolbar-text>prefix[yes]]">
+<span class="tc-btn-text"><$text text="Creat Word"/></span>
+</$list>
+</$button>
