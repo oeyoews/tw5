@@ -1,6 +1,6 @@
 created: 20211226094152512
 creator: oeyoews
-modified: 20220302152157213
+modified: 20220306150100275
 modifier: oeyoews
 tags: docs
 title: Add fastly
@@ -34,7 +34,7 @@ type: text/vnd.tiddlywiki
 <hr>
 
   <$button>
-	[[English]]
+	[[]]
 	</$button>
 	
 </fieldset>
