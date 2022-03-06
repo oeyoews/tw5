@@ -1,7 +1,7 @@
 created: 20220301064431602
 creator: oeyoews
 icon: Hello
-modified: 20220306065714219
+modified: 20220306071549514
 modifier: oeyoews
 sticky-footer: {{$:/config/oeyoews/footer}}
 tags: hello
@@ -14,6 +14,4 @@ Welcome to TiddlyWiki and the TiddlyWiki community
 
 Visit https://tiddlywiki.com/ to find out more about TiddlyWiki and what it can do.  
 [[Index]]
-
-
 {{heatmap}}
