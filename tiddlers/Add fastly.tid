@@ -1,40 +1,26 @@
 created: 20211226094152512
 creator: oeyoews
-modified: 20220306150100275
+modified: 20220306155058443
 modifier: oeyoews
 tags: docs
 title: Add fastly
 type: text/vnd.tiddlywiki
 
-<<.tip >>
-<h3 align=center> Templates </h3>
 <fieldset>
 	<legend>Entry</legend>
-
-	<$button>
-		<$action-sendmessage $message="tm-new-tiddler" title=<<now "YYYY0MM0DD">> tags="Journal" class="notebook" />
-	Journal
-	</$button>
 	
 	<$button>
 		<$action-sendmessage $message="tm-new-tiddler" title=<<now>>  tags="??" />
 	??
 	</$button>
 	
-		<$button>
-		<$action-sendmessage $message="tm-new-tiddler" title="e" tags="English"  se-type="" />
-	English66
-	</$button>	
-	
 			<$button>
-		<$action-sendmessage $message="tm-new-tiddler" tags="EnglishWord"  se-type="" />
+		<$action-sendmessage $message="tm-new-tiddler" tags="EnglishWord" text='<<<.tc-fish-quote
+"""
+
+"""
+<<<'/>
 	EnglishWord
 	</$button>
-	
-<hr>
 
-  <$button>
-	[[]]
-	</$button>
-	
 </fieldset>
