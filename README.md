@@ -95,7 +95,7 @@
 - [ ] __precache__: use workbox-cli to precache offline
 - [ ] __git__: use submodule to manage img and tiddler/subwiki
 - [ ] __tw5__: customize respawn js, to fix during time bug(in logic)
-- [ ] __repo__: use runner(renovate) for repository(tw5) in gitlab platform
+- [x] __repo__: use runner(renovate) for repository(tw5) in gitlab platform
 - [ ] __doc__: add some broken setup notes for config tw5
 - [ ] __fix__: Projectify schedule button disappear in mobile mode(tools)
 - [ ] __try__: try publish npm package use devops for relate tw5 project
