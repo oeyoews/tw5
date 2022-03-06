@@ -1,10 +1,10 @@
 created: 20220301052608655
 creator: oeyoews
-modified: 20220306065246675
+modified: 20220306105347969
 modifier: oeyoews
 tags: Index
 title: subwiki
 type: text/vnd.tiddlywiki
 
-<<alert danger src:"This is a subwiki, just in local" class:"leftbar border-danger">>
-<<locator-view baseTitle:"subwiki">>
+<<alert danger src:"This is a subwiki, just in private gitlab repository" class:"leftbar border-danger">>
+<<locator-view baseTitle:"private">>
