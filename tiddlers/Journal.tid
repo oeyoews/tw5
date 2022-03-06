@@ -3,16 +3,10 @@ created: 20211229105441495
 creator: oeyoews
 icon: $:/core/images/new-journal-button
 list: 
-modified: 20220305022653068
+modified: 20220306005229336
 modifier: oeyoews
 tags: Index
 title: Journal
 type: text/vnd.tiddlywiki
 
- <$macrocall
-	$name="toc-tabbed-internal-nav"
-	tag="Journal"
-	selectedTiddler=""
-	unselectedText="<p>选择目录中的一个主题，点击箭头可展开主题</p>"
-	missingText="<p>佚失条目。</p>"
-/>
+<<locator-view baseTitle:"Journal">>
