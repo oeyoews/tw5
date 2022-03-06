@@ -1,6 +1,6 @@
 created: 20200419141443144
 creator: oeyoews
-modified: 20220228010209194
+modified: 20220306145826603
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/themes/nico/notebook/base
@@ -137,8 +137,8 @@ button.tc-tag-label, span.tc-tag-label:hover {
 button:not(.tc-btn-invisible) {
   color: <<colour button-foreground>>;
   background-color: <<colour button-background>>;
-  padding: 5px 5px;
-  margin: 1px;
+  padding: 3px 3px;
+  margin: 0.5px;
   /*弧度*/
   border-radius: 5px;
   border: <<colour button-border>>;
