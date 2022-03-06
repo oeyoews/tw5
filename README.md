@@ -105,6 +105,7 @@
 - [ ] __try__: try publish npm package use devops for relate tw5 project
 - [ ] __bug__: Fishing calendar cache disappear in sometimes
 - [ ] __todo__: Using shell to replace makefile, todo test(to manage multi repository push automaticaly)
+- [ ] template: make a tw template
 
 ## Broken
 
