@@ -14,10 +14,9 @@ img
 
 
 # some ignore folder
+localignore
 livenote
 trashbin
-# 2022hkw
-
 
 # tw5
 \$__Import.tid
