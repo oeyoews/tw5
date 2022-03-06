@@ -31,7 +31,7 @@
 
 <div style="text-align: center">
 <p> FileTreeGraph</p>
-<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/filetreegraph.png" title="img" alt="img" style="zoom: 80%" />
+<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/filetreegraph.png" title="img" alt="img" width=256 style="zoom: 80%" />
 </div>
 
 ## RelatedSoftwares
