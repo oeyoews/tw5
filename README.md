@@ -43,12 +43,14 @@
 * use jsdelivr to accelebrate images
 * flameshot and ranger to manage images
 * power filter
+* FileSystemPath
 * etc
 
 ## Features
 
 - [x] git
 * [x] timer
+* [x] private subwiki(git or local)
 
 ## Linux
 
