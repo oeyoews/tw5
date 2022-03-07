@@ -93,7 +93,7 @@ a.tc-tiddlylink-external:hover {
 }
 */
 
-/* NOTE: effect tag square button*/
+/* NOTE: effect tag square button */
 /** 编辑器工具栏 <<colour tiddler-editor-background>>
 */
 .tc-editor-toolbar {
