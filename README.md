@@ -108,6 +108,7 @@
 - [ ] __template__: make a tw template
 - [x] __bug__: fix this scrool homepage bug
 ~~- [x] bug: storyview zoomin just show one tiddler(it a feature)~~
+- [ ] bug: fix renoavte-bot release step error
 
 ## Broken
 
