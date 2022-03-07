@@ -1,0 +1,15 @@
+created: 20220307144018782
+creator: @oeyoews
+modified: 20220307144124814
+modifier: @oeyoews
+tags: $:/tags/Macro
+title: Englishword Macro
+type: text/vnd.tiddlywiki
+
+\define englishword(w)
+<<<.tc-fish-quote
+"""
+$w$
+"""
+<<<
+\end

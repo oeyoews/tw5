@@ -1,13 +1,13 @@
 created: 20220301064431602
 creator: oeyoews
 icon: Hello
-modified: 20220307141639550
+modified: 20220307145854607
 modifier: @oeyoews
 sticky-footer: {{$:/config/oeyoews/footer}}
 title: GettingStarted
 type: text/vnd.tiddlywiki
 
-<<reuse-tiddler "indexStatus">>
+{{indexStatus}}
 
 Welcome to TiddlyWiki and the TiddlyWiki community
 
