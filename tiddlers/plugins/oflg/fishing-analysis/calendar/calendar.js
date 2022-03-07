@@ -97,7 +97,7 @@ exports.onUpdate = function (myChart) {
             {
                 top: "15%",
                 left: "center",
-                width: "80%",
+                width: "90%",
                 height: "35%",
                 range: [year + "-01-01", year + "-06-30"],
                 splitLine: {
@@ -120,7 +120,7 @@ exports.onUpdate = function (myChart) {
             {
                 top: "60%",
                 left: "center",
-                width: "80%",
+                width: "90%",
                 height: "35%",
                 range: [year + "-07-01", year + "-12-31"],
                 splitLine: {

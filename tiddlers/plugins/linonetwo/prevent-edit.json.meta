@@ -1,10 +1,12 @@
 author: LinOnetwo
 core-version: >=5.1.22
 created: 20211028154057606
+creator: @oeyoews
 dependents: 
-description: Prevent "This page is asking you to confirm that you want to leave" in a read-only site
+description: less click
 list: readme
-modified: 20211028154057606
+modified: 20220307055546010
+modifier: @oeyoews
 plugin-type: plugin
 title: $:/plugins/linonetwo/prevent-edit
 type: application/json

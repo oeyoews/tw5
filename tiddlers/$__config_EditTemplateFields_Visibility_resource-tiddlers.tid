@@ -1,8 +1,8 @@
 created: 20220218061642242
 creator: oeyoews
-modified: 20220303152028608
-modifier: oeyoews
+modified: 20220307053929347
+modifier: @oeyoews
 title: $:/config/EditTemplateFields/Visibility/resource-tiddlers
 type: text/vnd.tiddlywiki
 
-show
+hide

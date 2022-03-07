@@ -1,0 +1,23 @@
+created: 20220307054138143
+creator: @oeyoews
+modified: 20220307054603412
+modifier: @oeyoews
+tags: 
+title: untitled 60
+type: text/vnd.tiddlywiki
+
+<!-- 新的: 描述宏的注释
+ -->
+\define test()
+一些文本 <!-- 内联注释 -->
+\end
+
+\define Hello(p1="demo" p2="demo2")
+
+THis is $p1$ 
+; THis is a demo
+\end
+
+<<Hello "demoemeo">>
+
+<<test>>
