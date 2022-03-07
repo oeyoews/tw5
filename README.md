@@ -110,7 +110,7 @@
 ~~- [x] bug: storyview zoomin just show one tiddler(it a feature)~~
 - [ ] bug: fix renoavte-bot release step error
 - [ ] bug: tiny notebook theme style(minimum it)
-- [ ] __todo__: gitlab runner for tw5
+- [x] __todo__: gitlab runner for tw5
 
 ## Broken
 
