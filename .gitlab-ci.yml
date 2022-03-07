@@ -4,8 +4,7 @@ stages:
   - test
   - deploy
 
-#pages:
-
+pages:
 .test:
   script:
     echo "THIS"
