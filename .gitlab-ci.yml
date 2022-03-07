@@ -3,7 +3,7 @@ stages:
   - deploy
 
 tests:
-  echo: "Hello"
+  echo "Hello"
 
 deploy:
   image: node:latest
