@@ -1,7 +1,7 @@
 created: 20211227064117498
 creator: oeyoews
-list: $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/new-here $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold-bar $:/plugins/kookma/trashbin/ui/toolbar-button $:/core/ui/Buttons/info $:/plugins/kookma/favorites/ui/buttons/add-remove $:/core/ui/Buttons/fold $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/delete $:/core/ui/Buttons/clone $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/core/ui/Buttons/open-window $:/core/ui/Buttons/export-tiddler $:/plugins/Gk0Wk/page-toc/PageTOCButton $:/core/ui/Buttons/edit $:/core/ui/Buttons/close-others $:/xp/manageTags/button $:/plugins/linonetwo/markdown-transformer/ViewToolbarButton $:/core/ui/Buttons/close $:/plugins/danielo515/encryptTiddler/crypt-button $:/tesseract/telmigerSocialMacros
-modified: 20220227141810601
-modifier: oeyoews
+list: $:/core/ui/Buttons/fold $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/new-here $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold-bar $:/plugins/kookma/trashbin/ui/toolbar-button $:/core/ui/Buttons/info $:/plugins/kookma/favorites/ui/buttons/add-remove $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/delete $:/core/ui/Buttons/clone $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/plugins/bimlas/locator/viewtemplate/open-in-sidebar $:/core/ui/Buttons/open-window $:/core/ui/Buttons/export-tiddler $:/core/ui/Buttons/edit $:/core/ui/Buttons/close-others $:/core/ui/Buttons/close $:/tesseract/telmigerSocialMacros
+modified: 20220307023849833
+modifier: @oeyoews
 title: $:/tags/ViewToolbar
 type: text/vnd.tiddlywiki

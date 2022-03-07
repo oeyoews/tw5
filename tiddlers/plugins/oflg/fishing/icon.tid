@@ -1,14 +1,15 @@
 created: 20220306145035624
 creator: oeyoews
-modified: 20220306145118252
-modifier: oeyoews
+modified: 20220307023051422
+modifier: @oeyoews
 tags: $:/tags/Image
 title: $:/plugins/oflg/fishing/icon
 type: text/vnd.tiddlywiki
 
 <svg
-    width="17pt"
-    height="17pt"
+    width="22pt"
+    height="22pt"
+		class="tc-home-button tc-image-button"
     viewBox="0 0 1024 1022"
     version="1.1"
     xmlns:xlink="http://www.w3.org/1999/xlink"

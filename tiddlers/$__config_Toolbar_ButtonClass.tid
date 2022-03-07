@@ -1,8 +1,8 @@
 created: 20220209130946047
 creator: oeyoews
-modified: 20220213163851071
-modifier: oeyoews
+modified: 20220307025517764
+modifier: @oeyoews
 title: $:/config/Toolbar/ButtonClass
 type: text/vnd.tiddlywiki
 
-tc-btn-boxed
+tc-btn-invisible
