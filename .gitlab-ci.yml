@@ -27,6 +27,7 @@ deploy:
   only:
     - main
     #- tags
-  cache:
+
+cache:
    paths:
    - node_modules
