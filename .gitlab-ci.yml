@@ -2,23 +2,20 @@ stages:
   - deploy
 
 deploy:
-  #stage: deploy
   image: node:latest
   script:
-  # yarn install to fix cache first
-  - yarn install
-  - yarn clean && yarn devbuild && yarn copy
+    - yarn install
+    - yarn clean && yarn devbuild && yarn copy
 
   artifacts:
     #enabled: false
     paths:
-    - public
+      - public
     expire_in: 20 minutes
 
   only:
     - main
-    #- tags
 
-cache:
-   paths:
-   - node_modules
+  cache:
+    paths:
+      - node_modules
