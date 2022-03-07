@@ -6,7 +6,7 @@ stages:
 
 #pages:
 
-test:
+.test:
   script:
     echo "THIS"
 
