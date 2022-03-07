@@ -2,6 +2,9 @@ stages:
   - test
   - deploy
 
+test:
+  echo: "Hello"
+
 .deploy:
   image: node:latest
   stage: deploy
