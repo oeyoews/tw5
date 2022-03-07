@@ -185,7 +185,7 @@ div.tc-sidebar-header {
   min-height: 0;
 }
 
-/*@oeyoews*/
+/*@oeyoews center tc-story-river */
 .tc-story-river {
   padding: 6px 6px !important;
   width: 100% !important;
