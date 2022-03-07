@@ -1,7 +1,7 @@
 created: 20200419141443144
 creator: oeyoews
-modified: 20220306145826603
-modifier: oeyoews
+modified: 20220307154024300
+modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/themes/nico/notebook/base
 type: text/vnd.tiddlywiki
@@ -20,6 +20,41 @@ type: text/vnd.tiddlywiki
   </$reveal>
 \end
 
+/**
+* Hide toolbar buttons if not hover
+* From tb_demo_onhover-toolbar-styles
+*/
+.tc-tiddler-frame .tc-titlebar button {
+  opacity: 0;
+  transition: opacity .5s ease-in-out;
+}
+.tc-tiddler-frame:hover .tc-titlebar button {
+  zoom: 1;
+  filter: alpha(opacity=100);
+  opacity: 1;
+}
+
+/** fix https://github.com/Jermolene/TiddlyWiki5/discussions/5821 */
+video::-webkit-media-controls-timeline {
+  width: 200px;
+}
+
+/**
+	自定义字体
+*/
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css);
+
+* {
+  font-variant-ligatures: contextual;
+  font-display: swap;
+}
+
+/* Specify in CSS */
+code { font-family: 'Fira Code', monospace; }
+
+@supports (font-variation-settings: normal) {
+  code { font-family: 'Fira Code VF', monospace; }
+}
 
 /**
   链接样式
@@ -150,8 +185,9 @@ div.tc-sidebar-header {
   min-height: 0;
 }
 
+/*@oeyoews*/
 .tc-story-river {
-  padding: 6px 0 !important;
+  padding: 6px 6px !important;
   width: 100% !important;
   max-width: {{$:/themes/nico/notebook/metrics/story-width}} !important;
   margin: 0 auto !important;
@@ -281,7 +317,7 @@ input[type="search"]::-webkit-search-cancel-button {
   }
 
   .tc-story-river {
-    padding: 0 !important;
+    padding: 10px 10px !important;
     margin-top: 0 !important;
     margin-bottom: 60px !important;
   }
