@@ -1,14 +1,9 @@
 #image: node:latest
 
 stages:
-  - test
   - deploy
 
 pages:
-.test:
-  script:
-    echo "THIS"
-
 deploy:
   stage: deploy
   image: node:latest
