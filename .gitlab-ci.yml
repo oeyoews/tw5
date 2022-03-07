@@ -16,7 +16,7 @@ deploy:
   script:
   # yarn install to fix cache first
   - yarn install
-  - yarn devbuild && yarn copy
+  - yarn clean && yarn devbuild && yarn copy
 
   artifacts:
     #enabled: false
