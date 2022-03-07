@@ -46,7 +46,7 @@ primary: #765add
 select-tag-background: #002b36
 select-tag-foreground: #839496
 sidebar-button-foreground: #23d1d1
-sidebar-controls-foreground: #e1419f
+sidebar-controls-foreground: #6192f5
 sidebar-controls-foreground-hover: #6678d1
 sidebar-foreground: #93a1a1
 sidebar-foreground-shadow: transparent
