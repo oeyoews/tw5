@@ -65,51 +65,6 @@ a.tc-tiddlylink-external:hover {
   -webkit-text-fill-color: none;
 }
 
-/** it's it 预览状态标签下拉列表里的链接 <<colour page-background>> */
-.tc-drop-down a.tc-tiddlylink:hover {
-  background-color: lightcyan;
-  color: <<colour tiddler-link-foreground>>;
-}
-/** 编辑器标签下拉列表当前鼠标悬浮状态的颜色
-*/
-.tc-block-dropdown a {
-  transition: background-color 0.2s;
-}
-.tc-block-dropdown a:hover {
-  background-color: <<colour dropdown-background>>;
-}
-
-/** 顶部标题栏半透明
-:root {
-  --menubar-height: 29px;
-}
-
-.tc-tiddler-title {
-  background: <<colour tiddler-title-background>>;
-  backdrop-filter: blur(10px);
-  /** fix menubar with sticky title https://github.com/Jermolene/TiddlyWiki5/issues/4471#issuecomment-594456486*/
-  top: var(--menubar-height);
-  /*font-size: 1.5em !important;*/
-}
-*/
-
-/* NOTE: effect tag square button */
-/** 编辑器工具栏 <<colour tiddler-editor-background>>
-*/
-.tc-editor-toolbar {
-  background: <<colour tiddler-editor-background>>;
-  backdrop-filter: blur(10px);
-	/** sticky  or none */
-  position: none;
-  top: 92px;
-  z-index: 1000;
-}
-.tc-tiddler-preview {
-  overflow: unset;
-}
-.tc-block-dropdown {
-  z-index: 1001;
-}
 
 /** 标签 */
 button.tc-tag-label, span.tc-tag-label {
@@ -137,8 +92,8 @@ button.tc-tag-label, span.tc-tag-label:hover {
 button:not(.tc-btn-invisible) {
   color: <<colour button-foreground>>;
   background-color: <<colour button-background>>;
-  padding: 5px 5px;
-  margin: 3px;
+  padding: 3px 3px;
+  margin: 1px;
   /*弧度*/
   border-radius: 5px;
   border: <<colour button-border>>;
