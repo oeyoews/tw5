@@ -5,13 +5,13 @@ stages:
 
 #pages:
 
-deploy:
+.deploy:
   stage: deploy
   image: node:latest
   script:
   # yarn install to fix cache first
   - yarn install
-  - yarn devbuildp && yarn copy
+  - yarn devbuild && yarn copy
 
   artifacts:
     #enabled: false
@@ -21,7 +21,7 @@ deploy:
 
   only:
     - main
-    #- tags
+    - tags
 
 cache:
   paths:
