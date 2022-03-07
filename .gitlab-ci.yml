@@ -1,6 +1,7 @@
 #image: node:latest
 
 stages:
+  - test
   - deploy
 
 #pages:
