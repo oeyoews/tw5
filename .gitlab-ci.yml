@@ -3,7 +3,7 @@
 stages:
   - deploy
 
-pages:
+.pages:
   stage: deploy
   image: node:latest
   script:
