@@ -15,7 +15,7 @@ download-background: #859900
 download-foreground: #073642
 dragger-background: #073642
 dragger-foreground: #839496
-dropdown-background: #8cdaee
+dropdown-background: #002b36
 dropdown-border: #5ee4e4
 dropdown-tab-background: #002b36
 dropdown-tab-background-selected: #073642
@@ -88,7 +88,7 @@ tiddler-editor-fields-odd: #073642
 tiddler-info-background: #073642
 tiddler-info-border: #657b83
 tiddler-info-tab-background: #002b36
-tiddler-link-background: #002b36
+tiddler-link-background: #77d6ee
 tiddler-link-foreground: #2aa198
 tiddler-subtitle-foreground: #839496
 tiddler-title-foreground: #d33682
