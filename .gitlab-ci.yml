@@ -5,6 +5,10 @@ stages:
 
 #pages:
 
+test:
+  script:
+    echo "THIS"
+
 .deploy:
   stage: deploy
   image: node:latest
@@ -20,7 +24,7 @@ stages:
     expire_in: 20 minutes
 
   only:
-    - main
+    #- main
     - tags
   cache:
    paths:
