@@ -1,7 +1,7 @@
 created: 20220301064431602
 creator: oeyoews
 icon: Hello
-modified: 20220307073406698
+modified: 20220307141639550
 modifier: @oeyoews
 sticky-footer: {{$:/config/oeyoews/footer}}
 title: GettingStarted
@@ -13,4 +13,3 @@ Welcome to TiddlyWiki and the TiddlyWiki community
 
 Visit https://tiddlywiki.com/ to find out more about TiddlyWiki and what it can do.  
 <$link overrideClass="btn btn-success" to="Index">Index</$link>
-{{heatmap}}
