@@ -43,7 +43,7 @@ type: text/vnd.tiddlywiki
                                     tooltip={{{[{$:/language}removeprefix[$:/]addprefix[$:/plugins/oflg/fishing/]getindex<easetip>]~[[$:/plugins/oflg/fishing/languages/en-GB]getindex<easetip>]}}}
                                     aria-label={{{[{$:/language}removeprefix[$:/]addprefix[$:/plugins/oflg/fishing/]getindex<easetip>]~[[$:/plugins/oflg/fishing/languages/en-GB]getindex<easetip>]}}}
                                     class="tc-btn-invisible tc-tiddlylink"
-                                    style={{{[<ease>match[learn]then[margin-left:10px;color:green;]]~[<ease>match[forget]then[margin-left:10px;color:red;background-color: #073642;border: 1px solid red;padding:5px;]]~[<ease>match[remember]then[margin-left:10px;color:green;background-color: #073642;border: 1px solid green;padding:5px;]]~[<ease>match[grasp]then[margin-left:10px;color:yellow;background-color: #073642;border: 1px solid yellow;padding:5px;]]}}}
+                                    style={{{[<ease>match[learn]then[margin-left:10px;color:green;]]~[<ease>match[forget]then[border-radius:5px;margin-left:10px;color:red;background-color: #073642;border: 1px solid red;padding:5px;]]~[<ease>match[remember]then[border-radius:5px;margin-left:10px;color:green;background-color: #073642;border: 1px solid green;padding:5px;]]~[<ease>match[grasp]then[border-radius:5px;margin-left:10px;color:yellow;background-color: #073642;border: 1px solid yellow;padding:5px;]]}}}
                                 >
                                     <$action-sendmessage
                                         $message="tm-add-tag"
