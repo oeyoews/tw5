@@ -20,10 +20,9 @@ dropdown-border: #5ee4e4
 dropdown-tab-background: #002b36
 dropdown-tab-background-selected: #073642
 dropzone-background: #859900
-external-link-background-hover: #af1818
+external-link-background-hover: 
 external-link-background-visited: inherit
 external-link-foreground: #1a8de0
-external-link-foreground-hover: #2aa198
 external-link-foreground-visited: #268bd2
 foreground: #839496
 message-background: #002b36
@@ -102,3 +101,4 @@ toolbar-options-button: #839496
 toolbar-save-button: inherit
 untagged-background: #586e75
 very-muted-foreground: #586e75
+external-link-foreground-hover: #4b7bec
