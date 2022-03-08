@@ -1,6 +1,6 @@
 created: 20220218072617844
 creator: oeyoews
-modified: 20220308053807231
+modified: 20220308053932228
 modifier: @oeyoews
 tags: config
 title: subtitle
@@ -8,6 +8,11 @@ type: text/vnd.tiddlywiki
 
 <!--<$appear show="TiddlyWiki5" type=popup $state="popup-button">  Hello TiddlyWiki5</$appear> 
 -->
-<<.icon "$:/images/boxicons/logos/bxl-gitlab">>  [[GitlabRepo |https://gitlab.com/oeyoews/tw5]]
 
+<!--
+
+<<.icon "$:/images/boxicons/logos/bxl-gitlab">>  [[GitlabRepo |https://gitlab.com/oeyoews/tw5]]
 <<dbadge gitlab "🌐">>
+-->
+
+{{indexStatus}}
