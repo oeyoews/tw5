@@ -171,6 +171,7 @@ div.tc-sidebar-header {
 
 /*@oeyoews center tc-story-river */
 .tc-story-river {
+  /*@oeyoews pc top margin*/
   padding: 6px 6px !important;
   width: 100% !important;
   max-width: {{$:/themes/nico/notebook/metrics/story-width}} !important;
@@ -295,17 +296,17 @@ input[type="search"]::-webkit-search-cancel-button {
   }
 
   .tc-story-river {
-    padding: 5px 0px 0px 0px !important;
+    padding: 0px !important;
     margin-top: 0 !important;
     margin-bottom: 60px !important;
   }
 
+/*@oeyoews fix this frame overflow because this border too width*/
   div.tc-tiddler-frame {
-    margin: 10px;
+    margin: 0px;
     box-shadow: none;
     border-radius: 5px;
     border: 3px solid cyan;
-    /*border: 5px solid red;*/
   }
 }
 
