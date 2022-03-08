@@ -1,10 +1,12 @@
 created: 20220210101258721
 creator: oeyoews
-modified: 20220221065620442
-modifier: oeyoews
+modified: 20220308151313612
+modifier: @oeyoews
 tags: TiddlyWiki5
-title: tw/tagging
+title: tw/tag
 type: text/vnd.tiddlywiki
 
 * Bug docs +[tagging[]]  
 > check multi tags
+
+* [tag[1]tag[2]]
