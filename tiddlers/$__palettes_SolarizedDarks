@@ -20,7 +20,6 @@ dropdown-border: #5ee4e4
 dropdown-tab-background: #002b36
 dropdown-tab-background-selected: #073642
 dropzone-background: #859900
-external-link-background: #073642
 external-link-background-hover: #af1818
 external-link-background-visited: inherit
 external-link-foreground: #1a8de0
