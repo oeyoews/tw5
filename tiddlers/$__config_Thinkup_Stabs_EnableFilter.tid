@@ -1,9 +1,9 @@
 created: 20220210114715679
 creator: oeyoews
-modified: 20220227171600875
-modifier: oeyoews
+modified: 20220308012818446
+modifier: @oeyoews
 status: disabled
 title: $:/config/Thinkup/Stabs/EnableFilter
 type: text/vnd.tiddlywiki
 
-.__smart__tabs__disabled__
+ [all[current]!is[system]] 
