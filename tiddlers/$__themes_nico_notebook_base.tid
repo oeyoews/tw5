@@ -301,7 +301,7 @@ input[type="search"]::-webkit-search-cancel-button {
   }
 
   .tc-story-river {
-    padding: 1px 0px 0px 0px !important;
+    padding: 10px 0px 0px 0px !important;
     margin-top: 0 !important;
     margin-bottom: 60px !important;
   }
