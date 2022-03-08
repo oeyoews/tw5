@@ -50,7 +50,7 @@
 ## Features
 
 - [x] git
-* [x] timer
+* [x] timer(optional default is disabled)
 * [x] private subwiki(git or local)
 
 ## Linux
