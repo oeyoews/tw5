@@ -1,9 +1,13 @@
 created: 20220216181013887
 creator: oeyoews
-modified: 20220308012457150
+modified: 20220308054239268
 modifier: @oeyoews
 tags: examples
 title: indexStatus
 type: text/vnd.tiddlywiki
 
-<<dbadge Tiddlywiki5 5.2.1+ primary>> <<dbadge Release "16.0+" warning>> <<dbadge Status "Ing" success>> <<badge Status "[[Index]]" success>>
+<<dbadge TW5 5.2.1+ primary>> <<dbadge Release "16.0" warning>> <<dbadge Status "😄" success>> 
+
+<!--
+<<badge Status "[[Index]]" success>>
+-->
