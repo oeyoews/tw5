@@ -6,13 +6,13 @@ grade: 2
 history: [{"due":"20220303025006544","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302025006544"}]
 interval: 3
 lapses: 0
-modified: 20220305014725712
-modifier: oeyoews
+modified: 20220308144545352
+modifier: @oeyoews
 reps: 2
 retrievability: 0.05273732312238567
 review: 20220305014725712
 stability: 48.60974728794028
-tags: English ?
+tags: English
 title: nounOfNoun
 type: text/vnd.tiddlywiki
 

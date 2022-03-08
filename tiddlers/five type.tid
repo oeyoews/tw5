@@ -1,18 +1,18 @@
-created: 20220108111444428
-creator: oeyoews
+created: 20220308143829194
+creator: @oeyoews
 difficulty: 2.0041874816984064
 due: 20220314164311340
 grade: 2
 history: [{"due":"20220225163245593","interval":0,"difficulty":2.947800309227434,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163245593"},{"due":"20220302013114322","interval":1,"difficulty":2.8796506007960656,"stability":4.028449349311518,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":3,"review":"20220226013114322"},{"due":"20220314164311340","interval":3,"difficulty":2.0041874816984064,"stability":12.841558289396136,"retrievability":0.9245368809023407,"grade":2,"lapses":0,"reps":4,"review":"20220301164311340"}]
 interval: 3
 lapses: 0
-modified: 20220301164311340
-modifier: oeyoews
+modified: 20220308143838360
+modifier: @oeyoews
 reps: 4
 retrievability: 0.9245368809023407
 review: 20220301164311340
 stability: 12.841558289396136
-tags: English ?
+tags: English
 title: five type
 type: text/vnd.tiddlywiki
 

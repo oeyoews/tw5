@@ -6,13 +6,13 @@ grade: 1
 history: [{"due":"20220302164851442","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220301164851442"}]
 interval: 2
 lapses: 0
-modified: 20220304155517750
-modifier: oeyoews
+modified: 20220308144532464
+modifier: @oeyoews
 reps: 2
 retrievability: 0.14063024105763047
 review: 20220304155517749
 stability: 41.943552755493144
-tags: English ?
+tags: English
 title: englishTip
 type: text/vnd.tiddlywiki
 
