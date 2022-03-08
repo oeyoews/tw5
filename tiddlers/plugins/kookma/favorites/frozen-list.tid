@@ -2,8 +2,8 @@ caption: Favorites
 created: 20191228192318272
 creator: oeyoews
 list-after: $:/core/ui/SideBar/Open
-modified: 20220228090928053
-modifier: oeyoews
+modified: 20220308064646292
+modifier: @oeyoews
 tags: 
 title: $:/plugins/kookma/favorites/frozen-list
 type: text/vnd.tiddlywiki
