@@ -1,8 +1,8 @@
-caption: {{$:/language/SideBar/Tools/Caption}}
+caption: {{$:/images/svg-icon/mootools_badge}} {{$:/language/SideBar/Tools/Caption}}
 created: 20220216223845613
 creator: oeyoews
-modified: 20220217053702059
-modifier: oeyoews
+modified: 20220308172013880
+modifier: @oeyoews
 tags: examples $:/tags/SideBar
 title: $:/core/ui/SideBar/Tools
 type: text/vnd.tiddlywiki

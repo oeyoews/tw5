@@ -1,6 +1,8 @@
-caption: {{$:/language/SideBar/Recent/Caption}}
-modified: 20220217053702059
-modifier: oeyoews
+caption: {{$:/images/templarian-material-design/email-receive-outline}} {{$:/language/SideBar/Recent/Caption}}
+created: 20220308171853376
+creator: @oeyoews
+modified: 20220308171902215
+modifier: @oeyoews
 tags: $:/tags/SideBar
 title: $:/core/ui/SideBar/Recent
 type: text/vnd.tiddlywiki
