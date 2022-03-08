@@ -1,0 +1,18 @@
+caption: <$text text={{{[{$:/language}removeprefix[$:/]addprefix[$:/plugins/oflg/fishing-analysis/]getindex[fishing]]~[[$:/plugins/oflg/fishing-analysis/languages/en-GB]getindex[fishing]]}}}/>
+modified: 20220308025336836
+modifier: @oeyoews
+title: $:/core/ui/SideBar/FishingAnalysis
+type: text/vnd.tiddlywiki
+
+<div
+    class="tc-more-sidebar"
+>
+<$macrocall
+    $name="tabs"
+    tabsList="[all[shadows+tiddlers]tag[fishing-analysis]!has[draft.of]]"
+    default="$:/plugins/oflg/fishing-analysis/calendar/calendar"
+    state="$:/state/tab/fishing-analysis"
+    class="tc-vertical tc-sidebar-tabs-more"
+    explicitState="$:/state/tab/fishing-analysis"
+/>
+</div>
