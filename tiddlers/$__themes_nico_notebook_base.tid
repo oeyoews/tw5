@@ -214,7 +214,6 @@ h1.tc-site-title {
   top: 0;
   background: <<colour page-background>>ee;
   max-width: calc({{$:/themes/nico/notebook/metrics/story-width}} + 40px);
-  /*max-width: 2000px;*/
   padding: 10px 20px;
   margin: 0 auto;
 }
@@ -223,14 +222,7 @@ h1.tc-site-title {
 */
 .nc-bar.nc-bottombar {
   position: fixed;
-  /*background: <<colour page-background>>ee;*/
-  /*max-width: calc({{$:/themes/nico/notebook/metrics/story-width}} + 40px);*/
-  /*padding: 10px 20px;*/
-  /*margin: 0 auto;*/
-  /*margin-bottom: 80px !important;*/
   bottom: 0;
-  /*top: 0;*/
-  /*have sidebar  bug*/
   left: 0;
   right: 0;
   /* The z-index needs to be above the z-index used in tiddlers in zoomin view */
