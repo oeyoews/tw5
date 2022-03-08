@@ -106,9 +106,9 @@ type: text/vnd.tiddlywiki
                         tooltip={{{[{$:/language}removeprefix[$:/]addprefix[$:/plugins/oflg/fishing/]getindex[moretip]]~[[$:/plugins/oflg/fishing/languages/en-GB]getindex[moretip]]}}}
                         aria-label={{{[{$:/language}removeprefix[$:/]addprefix[$:/plugins/oflg/fishing/]getindex[moretip]]~[[$:/plugins/oflg/fishing/languages/en-GB]getindex[moretip]]}}}
                         class="tc-btn-invisible tc-tiddlylink"
-                        style="padding-left:10px;"
+                        style="margin-left:10px;padding:5px;border-radius:5px;border:1px solid cyan;"
                     >
-                        ⁝
+                        more
                     </$button>
                     <$reveal
                         state=<<qualify "$:/state/popup/$:/plugins/oflg/fishing/fishing/more">>
