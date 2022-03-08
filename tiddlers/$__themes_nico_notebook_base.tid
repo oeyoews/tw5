@@ -177,7 +177,6 @@ div.tc-sidebar-header {
   max-width: {{$:/themes/nico/notebook/metrics/story-width}} !important;
   margin: 0 auto !important;
   margin-top: 34px !important;
-  /*border: 3px solid cyan;*/
 }
 
 div.tc-tiddler-frame {
@@ -187,7 +186,7 @@ div.tc-tiddler-frame {
   box-shadow: 0 5px 20px rgba(0,0,0, 0.12);
   border-radius: 15px;
   padding: 42px 60px 60px 60px;
-  border: 3px solid cyan;
+  border: 2px solid cyan;
 }
 
 /** main title font size */
@@ -305,8 +304,8 @@ input[type="search"]::-webkit-search-cancel-button {
   div.tc-tiddler-frame {
     margin: 0px;
     box-shadow: none;
-    border-radius: 5px;
-    border: 3px solid cyan;
+    border-radius: 3px;
+    border: 2px solid cyan;
   }
 }
 
