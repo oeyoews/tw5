@@ -1,9 +1,9 @@
 created: 20220104152851413
 creator: oeyoews
-modified: 20220303033242736
-modifier: oeyoews
+modified: 20220308062212592
+modifier: @oeyoews
 tags: $:/tags/RawMarkupWikified/TopBody
 title: $:/SplashScreen
 type: text/vnd.tiddlywiki
 
-{{$:/xp/SplashScreen/layouts/circle}}
+{{$:/xp/SplashScreen/layouts/doublecircle}}
