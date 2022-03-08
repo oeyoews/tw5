@@ -1,6 +1,6 @@
 {
     "language": "en-GB",
-    "realtime-hint": "false",
+    "realtime-hint": "true",
     "clickable-links": "true",
     "hint-preview": "true"
 }

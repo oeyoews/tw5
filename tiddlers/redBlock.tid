@@ -1,0 +1,11 @@
+caption: warning
+created: 20220109145200190
+creator: @oeyoews
+modified: 20220308051034571
+modifier: @oeyoews
+tags: $:/tags/TextEditor/Snippet
+title: redBlock
+type: text/vnd.tiddlywiki
+
+ <<alert warning "$1
+ " width:100%>>

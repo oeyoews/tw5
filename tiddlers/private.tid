@@ -1,11 +1,11 @@
 created: 20220216141203430
 creator: oeyoews
-modified: 20220306065328852
-modifier: oeyoews
+modified: 20220308052718931
+modifier: @oeyoews
 tags: subwiki
 title: private
 type: text/vnd.tiddlywiki
 
 <<alert danger src:"This is a subwiki, just in local" class:"leftbar border-danger">>
 
-<<timeline-vertical filter:"[tag[private]reverse[date]limit[10]]" class:info>>
+<<locator-view baseTitle:"private">>
