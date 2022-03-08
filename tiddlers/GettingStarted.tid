@@ -2,9 +2,8 @@ created: 20220301064431602
 creator: oeyoews
 icon: Hello
 keywords: start
-modified: 20220308045719081
+modified: 20220308124058784
 modifier: @oeyoews
-sticky-footer: {{$:/config/oeyoews/footer}}
 title: GettingStarted
 type: text/vnd.tiddlywiki
 
@@ -12,4 +11,6 @@ type: text/vnd.tiddlywiki
 
 Welcome to TiddlyWiki and the TiddlyWiki community
 
-Visit https://tiddlywiki.com/ to find out more about TiddlyWiki and what it can do.  
+Visit https://tiddlywiki.com/ to find out more about TiddlyWiki and what it can do. 
+
+{{$:/config/oeyoews/footer}}
