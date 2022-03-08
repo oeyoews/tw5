@@ -23,8 +23,8 @@ dropzone-background: #859900
 external-link-background: #073642
 external-link-background-hover: #af1818
 external-link-background-visited: inherit
-external-link-foreground: #487493
-external-link-foreground-hover: 
+external-link-foreground: #1a8de0
+external-link-foreground-hover: #2aa198
 external-link-foreground-visited: #268bd2
 foreground: #839496
 message-background: #002b36

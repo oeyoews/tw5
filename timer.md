@@ -1,1 +1,1 @@
-*/30 * * * * cd ~/REPOS/TiddlyWiki5 && make gitsync
+* */1 * * * cd ~/REPOS/TiddlyWiki5 && make gitsync
