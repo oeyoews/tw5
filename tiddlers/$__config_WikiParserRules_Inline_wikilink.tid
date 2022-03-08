@@ -1,6 +1,8 @@
 created: 20211226164621722
-modified: 20211226164621722
+creator: @oeyoews
+modified: 20220308045338596
+modifier: @oeyoews
 title: $:/config/WikiParserRules/Inline/wikilink
 type: text/vnd.tiddlywiki
 
-disable
+enable
