@@ -106,7 +106,7 @@ type: text/vnd.tiddlywiki
                         tooltip={{{[{$:/language}removeprefix[$:/]addprefix[$:/plugins/oflg/fishing/]getindex[moretip]]~[[$:/plugins/oflg/fishing/languages/en-GB]getindex[moretip]]}}}
                         aria-label={{{[{$:/language}removeprefix[$:/]addprefix[$:/plugins/oflg/fishing/]getindex[moretip]]~[[$:/plugins/oflg/fishing/languages/en-GB]getindex[moretip]]}}}
                         class="tc-btn-invisible tc-tiddlylink"
-                        style="margin-left:10px;margin-top:10px;padding:5px;border-radius:5px;border:1px solid cyan;"
+                        style="margin-left:10px;margin-top:10px;padding:5px;border-radius:5px;border:1px solid cyan;background-color: #073642;"
                     >
                         more
                     </$button>
