@@ -1,0 +1,9 @@
+caption: {{$:/language/ThemeTweaks/ThemeTweaks}}
+created: 20201217163834291
+creator: @oeyoews
+modified: 20220309162013902
+modifier: @oeyoews
+title: $:/themes/tiddlywiki/vanilla/themetweaks
+type: text/vnd.tiddlywiki
+
+Overwritten by $:/themes/nico/notebook so that the Vanilla theme tweaks do not appear in the control panel. 
