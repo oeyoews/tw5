@@ -1,0 +1,77 @@
+/*LINKS*/
+
+html body.tc-body .greentheme a.tc-tiddlylink {font-family: 'Arial', sans-serif;font-size:100%;text-decoration: none;font-style: normal;font-weight: normal;color:#1b0;} 
+html body.tc-body .greentheme  a.tc-tiddlylink-missing {font-family: 'Arial', sans-serif;font-size:100%;font-weight:normal; color:#777;font-weight:normal;}
+html body.tc-body .greentheme a.tc-tiddlylink-external {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-weight: bold;color: #1b0;}
+html body.tc-body .greentheme a.tc-tiddlylink-visited {font-family: 'Arial', sans-serif;font-size:100%;text-decoration: none;font-weight: normal;color: #1b0;}
+
+html body.tc-body .pinktheme a.tc-tiddlylink {font-family: 'Arial', sans-serif;font-size:100%;text-decoration: none;font-style: normal;font-weight: normal;color:#f18;}
+html body.tc-body .pinktheme  a.tc-tiddlylink-missing {font-family:  'Arial', sans-serif;font-size:100%;font-weight:bold; color:#777;font-weight:normal;}
+html body.tc-body .pinktheme a.tc-tiddlylink-external {font-family: 'Arial', sans-serif;font-size:100%;text-decoration: none;font-weight: bold;color: #f18;}
+html body.tc-body .pinktheme a.tc-tiddlylink-visited {font-family: 'Arial', sans-serif;font-size:100%;text-decoration: none;font-weight: normal;color: #f18;}
+
+html body.tc-body .bluetheme a.tc-tiddlylink {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-style: normal;font-weight: normal;color:#43f;}
+html body.tc-body .bluetheme  a.tc-tiddlylink-missing {font-family: 'Arial', sans-serif;font-size:100%;font-weight:bold; color:#777;font-weight:normal;}
+html body.tc-body .bluetheme a.tc-tiddlylink-external {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-weight: bold;color: #43f;}
+html body.tc-body .bluetheme a.tc-tiddlylink-visited {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-weight: normal;color: #43f;}
+
+html body.tc-body .indigotheme a.tc-tiddlylink {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-style: normal;font-weight: normal;color:#209;}
+html body.tc-body .indigotheme  a.tc-tiddlylink-missing {font-family: 'Arial', sans-serif;font-size:100%;font-weight:bold; color:#777;font-weight:normal;}
+html body.tc-body .indigotheme a.tc-tiddlylink-external {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-weight: bold;color: #209;}
+html body.tc-body .indigotheme a.tc-tiddlylink-visited {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-weight: normal;color: #209;}
+
+html body.tc-body .dkgoldtheme a.tc-tiddlylink {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-style: normal;font-weight: normal;color:#880;}
+html body.tc-body .dkgoldtheme  a.tc-tiddlylink-missing {font-family: 'Arial', sans-serif;font-size:100%;font-weight:bold; color:#777;font-weight:normal;}
+html body.tc-body .dkgoldtheme a.tc-tiddlylink-external {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-weight: bold;color: #880;}
+html body.tc-body .dkgoldtheme a.tc-tiddlylink-visited {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-weight: normal;color: #880;}
+
+html body.tc-body .winetheme a.tc-tiddlylink {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-style: normal;font-weight: normal;color:#906;}
+html body.tc-body .winetheme  a.tc-tiddlylink-missing {font-family: 'Arial', sans-serif;font-size:100%;font-weight:bold; color:#777;font-weight:normal;}
+html body.tc-body .winetheme a.tc-tiddlylink-external {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-weight: bold;color: #906;}
+html body.tc-body .winetheme a.tc-tiddlylink-visited {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-weight: normal;color: #906;}
+
+html body.tc-body .pinetheme a.tc-tiddlylink {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-style: normal;font-weight: normal;color:#270;}
+html body.tc-body .pinetheme  a.tc-tiddlylink-missing {font-family: 'Arial', sans-serif;font-size:100%;font-weight:bold; color:#777;font-weight:normal;}
+html body.tc-body .pinetheme a.tc-tiddlylink-external {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-weight: bold;color: #270;}
+html body.tc-body .pinetheme a.tc-tiddlylink-visited {font-family:  'Arial', sans-serif;font-size:100%;text-decoration: none;font-weight: normal;color: #270;}
+
+/*MODALS*/
+
+html body.tc-body .greentheme .tc-image-open-window {stroke: white;fill:#0c0;}
+html body.tc-body .pinktheme .tc-image-open-window {stroke: white;fill:#f18;}
+html body.tc-body .bluetheme .tc-image-open-window {stroke: white;fill:#43f;}
+
+html body.tc-body .dkgoldtheme .tc-image-open-window {stroke: white;fill:#880;}
+html body.tc-body .pinetheme .tc-image-open-window {stroke: white;fill:#270;}
+html body.tc-body .indigotheme .tc-image-open-window {stroke: white;fill:#209;}
+html body.tc-body .winetheme .tc-image-open-window {stroke: white;fill:#906;}
+
+/*BULLETS*/
+
+html body.tc-body .greentheme ul {list-style: none;}
+html body.tc-body .greentheme ul li::before {content: "•"; color:#0c0;font-size:140%;
+ display: inline-block; vertical-align:top;margin-left: -.8em;width:.8em;}
+
+html body.tc-body .pinktheme ul {list-style: none;}
+html body.tc-body .pinktheme ul li::before {content: "•"; color:#f18;font-size:140%;
+ display: inline-block; vertical-align:top;margin-left: -.8em;width:.8em;}
+
+html body.tc-body .bluetheme ul {list-style: none;}
+html body.tc-body .bluetheme ul li::before {content: "•"; color:#43f;font-size:140%;
+ display: inline-block; vertical-align:top;margin-left: -.8em;width:.8em;}
+
+html body.tc-body .indigotheme ul {list-style: none;}
+html body.tc-body .indigotheme ul li::before {content: "•"; color:#209;font-size:140%;
+ display: inline-block; vertical-align:top;margin-left: -.8em;width:.8em;}
+
+html body.tc-body .winetheme ul {list-style: none;}
+html body.tc-body .winetheme ul li::before {content: "•"; color:#906;font-size:140%;
+ display: inline-block; vertical-align:top;margin-left: -.8em;width:.8em;}
+
+html body.tc-body .pinetheme ul {list-style: none;}
+html body.tc-body .pinetheme ul li::before {content: "•"; color:#270;font-size:140%;
+ display: inline-block; vertical-align:top;margin-left: -.8em;width:.8em;}
+
+html body.tc-body .dkgoldtheme ul {list-style: none;}
+html body.tc-body .dkgoldtheme ul li::before {content: "•"; color:#880;font-size:140%;
+ display: inline-block; vertical-align:top;margin-left: -.8em;width:.8em;}
