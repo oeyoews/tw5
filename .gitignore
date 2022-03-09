@@ -16,6 +16,7 @@ img
 # some ignore folder
 localignore
 livenote
+# trashbin
 trash
 
 # tw5
