@@ -2,9 +2,9 @@ caption: Utility
 created: 20190930212747824
 creator: @oeyoews
 list-after: $:/core/ui/ControlPanel/Settings/TiddlyWiki
-modified: 20220307155646728
+modified: 20220309002219228
 modifier: @oeyoews
-tags: $:/tags/ControlPanel/SettingsTab $:/tags/MoreSideBar
+tags: $:/tags/ControlPanel/SettingsTab
 title: $:/plugins/kookma/utility/ui/ControlPanel/Settings
 type: text/vnd.tiddlywiki
 
