@@ -66,6 +66,7 @@
 - [x] git
 * [x] timer(optional default is disabled)
 * [x] private subwiki(git or local)
+* [x] support github gitlab workflow
 
 ## Linux
 
