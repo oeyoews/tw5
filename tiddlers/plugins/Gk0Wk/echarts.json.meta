@@ -1,6 +1,5 @@
 author: Gk0Wk
-core-version: >=5.2.0
-dependents: $:/plugins/felixhayashi/hotzone
+dependents: 
 description: ECharts for TiddlyWiki5
 list: readme LICENSE
 name: ECharts
