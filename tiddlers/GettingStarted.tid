@@ -2,12 +2,13 @@ created: 20220301064431602
 creator: oeyoews
 icon: Hello
 keywords: start
-modified: 20220308144815091
+modified: 20220309054559413
 modifier: @oeyoews
 title: GettingStarted
 type: text/vnd.tiddlywiki
 
-{{indexStatus}}
+{{indexStatus}} 
+{{$:/plugins/oflg/fishing/fishingfloat}}
 
 Welcome to TiddlyWiki and the TiddlyWiki community
 
