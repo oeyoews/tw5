@@ -1,0 +1,9 @@
+created: 20220309144935127
+creator: @oeyoews
+modified: 20220309144947548
+modifier: @oeyoews
+tags: gnome
+title: untitled 70
+type: text/vnd.tiddlywiki
+
+* sudo systemctl unmask power-profiles-daemon.service

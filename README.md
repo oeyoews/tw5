@@ -125,6 +125,7 @@
 - [ ] bug: fix renoavte-bot release step error
 - [ ] bug: tiny notebook theme style(minimum it)
 - [x] __todo__: gitlab runner for tw5
+- [ ] fishing: fishing multi group how to discard
 
 ## Broken
 
