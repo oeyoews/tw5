@@ -1,6 +1,8 @@
 created: 20220105163140785
-modified: 20220209160352874
+creator: @oeyoews
+modified: 20220309163127403
+modifier: @oeyoews
 title: $:/layout
 type: text/vnd.tiddlywiki
 
-$:/core/ui/PageTemplate
+$:/themes/cdr/captivate/ui/PageLayout
