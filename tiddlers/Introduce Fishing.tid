@@ -1,10 +1,9 @@
-caption: {{||Excerpt}}
-created: 20211111053940936
-due: 20220301052851798
-interval: 8
-modified: 20220221052851798
-tags: 钓鱼插件 ?
-title: 介绍
+created: 20220309111928358
+creator: @oeyoews
+modified: 20220309111945062
+modifier: @oeyoews
+tags: ?
+title: Introduce Fishing
 type: text/vnd.tiddlywiki
 
 基于 TiddlyWiki 的[[渐进学习|https://www.yuque.com/supermemo/wiki/incremental_learning]]程序。''终身知识，深入脑海。''
