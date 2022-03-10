@@ -699,9 +699,9 @@ div.tc-tab-buttons button {
   font-size: 1.2em;
   line-height: 1em;
   padding: .6em .8em .4em .8em;
-  border: 0;
-  border-radius: 0;
-  background: transparent;
+  /*border: none;*/
+  border-radius: 3px;
+  /*background: transparent;*/
   cursor: pointer;
   transition: background ease-in .2s;
 }
@@ -711,8 +711,9 @@ div.tc-tab-buttons button:hover {
 }
 
 div.tc-tab-buttons button.tc-tab-selected {
-  border: 0;
-  background: transparent;
+  border: 1px;
+  /*background: transparent;*/
+  border-radius: 3px;
   border-bottom: 4px solid <<colour primary>>;
 }
 
