@@ -1,6 +1,6 @@
 created: 20220228060333093
 creator: oeyoews
-modified: 20220310155014946
+modified: 20220310160756937
 modifier: @oeyoews
 tags: config
 title: $:/config/FileSystemPaths
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 [tag[Project]addprefix[subwiki/Project/]]
 [tag[EnglishWord]addprefix[subwiki/englishword/]]
 
-[tag[$:/tags/trashbin]removeprefix[$:/]addprefix[localignore/trash/]]
+[tag[$:/tags/trashbin]removeprefix[$:/]addprefix[trash/]]
 
 [tag[deprecated]addprefix[deprecated/]]
 [tag[??]addprefix[temporary/]]
