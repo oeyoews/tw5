@@ -2,8 +2,8 @@ caption: EnglishWord
 created: 20220306155133884
 creator: oeyoews
 description: creat englishword
-modified: 20220306160653301
-modifier: oeyoews
+modified: 20220310072420699
+modifier: @oeyoews
 tags: $:/tags/PageControls
 title: $:/config/oeyoews/Creat EnglishWord
 type: text/vnd.tiddlywiki
@@ -16,6 +16,7 @@ type: text/vnd.tiddlywiki
 """
 
 """
+<<<
 '/>
 \end
 
