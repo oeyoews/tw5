@@ -109,7 +109,7 @@ type: text/vnd.tiddlywiki
                         style="margin-left:10px;margin-top:10px;padding:5px;border-radius:5px;border:2px solid cyan;background-color: #135160;"
                     >
                         <!-- more -->
-                         ⁝more
+                         more
                     </$button>
                     <$reveal
                         state=<<qualify "$:/state/popup/$:/plugins/oflg/fishing/fishing/more">>
