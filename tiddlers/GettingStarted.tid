@@ -2,16 +2,17 @@ created: 20220301064431602
 creator: oeyoews
 icon: Hello
 keywords: start
-modified: 20220310011918391
+modified: 20220310025347752
 modifier: @oeyoews
 title: GettingStarted
 type: text/vnd.tiddlywiki
 
 {{indexStatus}} 
 
-* Welcome to TiddlyWiki and the TiddlyWiki community
+<<.preamble 
+"Welcome to TiddlyWiki and the TiddlyWiki community" >>
 
-* Visit https://tiddlywiki.com/ to find out more about TiddlyWiki and what it can do. 
+<<.preamble "Visit https://tiddlywiki.com/ to find out more about TiddlyWiki and what it can do">>
 
-> Tips: to better view experience, please open current website use your tablet
+<<.preamble "Tips: to better view experience, please open current website use your tablet">>
 {{$:/config/oeyoews/footer}}
