@@ -1,8 +1,8 @@
 caption: Kookma
 created: 20220207054001976
 creator: oeyoews
-list: $:/plugins/kookma/trashbin/sidebar-tab $:/plugins/kookma/gatha/ui/sidebar $:/plugins/kookma/utility/author/exclude-items
-modified: 20220309002833883
+list: $:/plugins/kookma/gatha/ui/sidebar $:/plugins/kookma/utility/author/exclude-items
+modified: 20220310140223686
 modifier: @oeyoews
 tags: $:/tags/Favorites/Folder
 title: $:/favorites/folder-002

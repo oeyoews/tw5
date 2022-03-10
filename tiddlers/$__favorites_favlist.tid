@@ -1,7 +1,7 @@
 created: 20220103042943419
 creator: oeyoews
-list: $:/plugins/kookma/trashbin/sidebar-tab [[$:/config/oeyoews/Creat EnglishWord]] [[CSS only Timer]] $:/config/oeyoews/footer $:/ContributionBanner $:/plugins/kookma/gatha/ui/sidebar $:/config/oeyoews/getplugins/button $:/config/FileSystemPaths $:/config/SyncFilter $:/plugins/kookma/utility/author/exclude-items $:/oeyoews/settings/tiddler-icons
-modified: 20220309002756000
+list: [[$:/config/oeyoews/Creat EnglishWord]] [[CSS only Timer]] $:/config/oeyoews/footer $:/ContributionBanner $:/plugins/kookma/gatha/ui/sidebar $:/config/oeyoews/getplugins/button $:/config/FileSystemPaths $:/config/SyncFilter $:/plugins/kookma/utility/author/exclude-items $:/oeyoews/settings/tiddler-icons
+modified: 20220310140223683
 modifier: @oeyoews
 title: $:/favorites/favlist
 type: text/vnd.tiddlywiki

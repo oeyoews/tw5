@@ -1,6 +1,6 @@
 created: 20200419141443144
 creator: oeyoews
-modified: 20220307154024300
+modified: 20220310140301952
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/themes/nico/notebook/base
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
   </$reveal>
 \end
 
-/**
+/** test
 * Hide toolbar buttons if not hover
 * From tb_demo_onhover-toolbar-styles
 */
