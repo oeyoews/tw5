@@ -1,0 +1,11 @@
+created: 20220218080526756
+creator: oeyoews
+grade: 1
+history: [{"due":"20220222133005761","interval":1,"difficulty":null,"stability":null,"retrievability":0.9114827243340647,"grade":1,"lapses":0,"reps":2,"review":"20220221133005760"}]
+modified: 20220310165951802
+modifier: @oeyoews
+tags: ??
+title: BOX
+type: text/vnd.tiddlywiki
+
+{{$:/plugins/nico/projectify/QuickCapture}}

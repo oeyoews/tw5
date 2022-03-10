@@ -1,0 +1,18 @@
+created: 20220128205610844
+creator: oeyoews
+modified: 20220310165951820
+modifier: @oeyoews
+tags: deprecated
+title: mermain example
+type: text/vnd.tiddlywiki
+
+<h2 align="center"> mermaid
+</h2>
+<$mermaid text='
+  graph TD;
+    浏览器内存 --> 本地硬盘
+		浏览器内存 --内置Git保存器--> Git服务器
+    本地硬盘 --太记桌面版--> Git服务器
+    浏览器内存 --相关插件--> WebDav/自建云服务器
+    浏览器内存 --SoLiD或IPFS插件--> Web3
+'></$mermaid>

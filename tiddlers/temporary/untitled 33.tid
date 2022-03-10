@@ -1,0 +1,13 @@
+created: 20220202112857453
+creator: oeyoews
+grade: 1
+history: [{"due":"20220222125912595","interval":"1","difficulty":null,"stability":null,"retrievability":0.9114827243340647,"grade":"1","lapses":0,"reps":2,"review":"20220221125912595"}]
+modified: 20220310165951835
+modifier: @oeyoews
+tags: ??
+title: untitled 33
+type: text/vnd.tiddlywiki
+
+我们利用class来为元素添加样式----css
+
+我们利用id来为元素添加行为----js/jQuery
