@@ -1,9 +1,11 @@
 created: 20220309151608812
 creator: @oeyoews
-modified: 20220309152457481
+modified: 20220310052134102
 modifier: @oeyoews
 tags: config
 title: heatmap
 type: text/vnd.tiddlywiki
 
- <$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/oflg/CalendarHeatmap/CalendarHeatmap.js" $height="180px" year="2022"/>
+```
+<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/oflg/CalendarHeatmap/CalendarHeatmap.js" $height="180px" year="2022"/>
+```
