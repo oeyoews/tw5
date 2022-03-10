@@ -1,0 +1,18 @@
+caption: {{$:/language/Buttons/MonoLine/Caption}} (Markdown)
+condition: [<targetTiddler>type[text/x-markdown]]
+created: 20220104084145587
+description: {{$:/language/Buttons/MonoLine/Hint}}
+icon: $:/core/images/mono-line
+modified: 20220310164023547
+modifier: @oeyoews
+shortcuts: ((mono-line))
+tags: $:/tags/EditorToolbar
+title: $:/plugins/tiddlywiki/markdown/EditorToolbar/mono-line
+type: text/vnd.tiddlywiki
+
+<$action-sendmessage
+	$message="tm-edit-text-operation"
+	$param="wrap-selection"
+	prefix="`"
+	suffix="`"
+/>

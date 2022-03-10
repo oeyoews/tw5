@@ -3,6 +3,8 @@ core-version: >=5.1.5
 dependents: 
 description: Respawn – Open default tiddlers when river is empty
 list: Configuration License Readme
+modified: 20220310164023541
+modifier: @oeyoews
 name: Respawn
 plugin-type: plugin
 released: 

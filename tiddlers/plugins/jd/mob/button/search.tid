@@ -1,0 +1,22 @@
+caption: {{$:/core/images/advanced-search-button}} search
+created: 20171122115403541
+creator: JD
+description: Toggle searchbar visibility
+modified: 20220310164023542
+modifier: @oeyoews
+tags: $:/tags/jd/mobbutton
+title: $:/plugins/jd/mob/button/search
+type: text/vnd.tiddlywiki
+
+<$reveal type="nomatch" state="$:/plugins/jd/mob/config/config##searchbar" text="yes">
+<$button class="tc-btn-invisible" tooltip="Show searchbar" set="$:/plugins/jd/mob/config/config##searchbar" setTo="yes">
+<<jdconfig topbar search>>
+{{$:/core/images/advanced-search-button}}
+</$button>
+</$reveal>
+<$reveal type="match" state="$:/plugins/jd/mob/config/config##searchbar" text="yes">
+<$button class="tc-btn-invisible" tooltip="Hide searchbar" set="$:/plugins/jd/mob/config/config##searchbar" setTo="no">
+<<jdconfig topbar hide>>
+{{$:/core/images/advanced-search-button}}
+</$button>
+</$reveal>

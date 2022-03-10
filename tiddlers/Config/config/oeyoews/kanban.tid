@@ -1,0 +1,17 @@
+caption: kanban
+created: 20220304071341515
+creator: oeyoews
+description: kanban workspace
+modified: 20220310163904065
+modifier: @oeyoews
+tags: config button
+title: $:/config/oeyoews/kanban
+type: text/vnd.tiddlywiki
+
+<$button to="Kkanban" tooltip="open「kanban」">
+{{$:/images/templarian-material-design/powershell}}
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text"><$text text=
+hidedIndex/></span>
+</$list>
+</$button>

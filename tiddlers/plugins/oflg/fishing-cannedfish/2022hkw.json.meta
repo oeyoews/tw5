@@ -5,8 +5,8 @@ creator: oeyoews
 dependents: $:/plugins/oflg/fishing-cannedfish
 description: memory package
 list: readme
-modified: 20220305065541940
-modifier: oeyoews
+modified: 20220310164023545
+modifier: @oeyoews
 name: 2022hkw
 plugin-type: plugin
 prent-plugin: $:/plugins/oflg/fishing-cannedfish

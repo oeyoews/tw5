@@ -1,8 +1,0 @@
-created: 20211220145021989
-list-before: 
-modified: 20220103130954790
-tags: $:/tags/ViewTemplateBodyFilter
-title: $:/config/ViewTemplateBodyFilters/$:/config/Time
-type: text/vnd.tiddlywiki
-
-[prefix[$:/config/Time]] +[limit[1]then[$:/core/ui/ViewTemplate/body/default]]

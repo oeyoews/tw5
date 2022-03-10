@@ -1,0 +1,43 @@
+calendar_admin_width: auto
+calendar_alarms: Red
+calendar_background: LightGray
+calendar_customfilter: 
+calendar_dayformat: DDth MMM YYYY
+calendar_events: LightGreen
+calendar_foreground: White
+calendar_journals: OliveDrab
+calendar_numbers: Black;font-size:1.5em;font-weight:bold;
+calendar_order: 0 1 2 3 4 5 6
+calendar_showalarms: yes
+calendar_showchanges: yes
+calendar_showcreated: yes
+calendar_showcustom: no
+calendar_showevents: yes
+calendar_showjournals: yes
+calendar_showmodified: yes
+calendar_showsystem: no
+calendar_showtiddlers: yes
+calendar_showtimers: yes
+calendar_timers: Orange
+calendar_today: Gold
+clock_background: LightGray
+clock_border: 2px solid gray;
+clock_format: DDD, YYYY-0MM-0DD 0hh:0mm:0ss
+clock_hands: Black
+clock_numbers: Black;font-size:1.5em;
+clock_size: 15em
+clock_ticks: Black
+created: 20200723071051066
+modified: 20220310163904067
+modifier: @oeyoews
+sidebar_analog: yes
+sidebar_analog_size: 100
+sidebar_calendar_size: 100
+sidebar_digital: yes
+sidebar_digital_size: 100
+sidebar_format: DDD, YYYY-0MM-0DD 0hh:0mm:0ss
+tags: AU_Holidays_2021 CA_Holidays_2021 UK_Holidays_2021 US_Holidays_2021 UN_Observances_2021 [[Pastafarian Holidays]] TiddlyTools/Time/Events
+timer_format: YYYY-0MM-0DD 0hh:0mm:0ss.0XXX
+title: $:/config/TiddlyTools/Time
+type: text/vnd.tiddlywiki
+world_format: ddd, YYYY-0MM-0DD 0hh:0mm:0ss

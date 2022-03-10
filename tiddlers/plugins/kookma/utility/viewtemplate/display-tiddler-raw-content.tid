@@ -1,7 +1,7 @@
 created: 20181212041419278
 creator: oeyoews
 description: this view template displays the content of global macro tiddlers
-modified: 20220309063044645
+modified: 20220310164023544
 modifier: @oeyoews
 tags: $:/tags/ViewTemplate
 title: $:/plugins/kookma/utility/viewtemplate/display-tiddler-raw-content

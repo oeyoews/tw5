@@ -1,0 +1,8 @@
+created: 20210111103027104
+creator: oeyoews
+modified: 20220310163904067
+modifier: @oeyoews
+title: $:/config/projectify/DefaultDashboardTab
+type: text/vnd.tiddlywiki
+
+$:/plugins/nico/projectify/ui/dashboard/InboxAndProjects

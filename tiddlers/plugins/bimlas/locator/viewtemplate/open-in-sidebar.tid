@@ -2,7 +2,7 @@ caption: {{$:/core/images/chevron-right}} locator sidebar
 created: 20220307023849831
 creator: @oeyoews
 description: Browse hierarchy of tag in Locator sidebar
-modified: 20220307023849831
+modified: 20220310164023541
 modifier: @oeyoews
 tags: $:/tags/ViewToolbar
 title: $:/plugins/bimlas/locator/viewtemplate/open-in-sidebar

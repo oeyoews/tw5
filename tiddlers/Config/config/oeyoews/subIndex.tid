@@ -1,0 +1,27 @@
+created: 20220216191418980
+creator: oeyoews
+modified: 20220310163904065
+modifier: @oeyoews
+tags: examples
+title: $:/config/oeyoews/subIndex
+type: text/vnd.tiddlywiki
+
+<div style="text-align:left;background:#073642; border-radius: 5px; flot:none;">
+
+<details>
+<summary>More</summary>
+
+<<reuse-tiddler "heatmap">>
+
+<<reuse-tiddler "fishingAnalysics">>
+
+<<reuse-tiddler "tagmap">>
+
+<<reuse-tiddler "theBrains">>
+
+<<reuse-tiddler "imgGalleryDemo">>
+
+<<reuse-tiddler "footer">>
+
+</details>
+</div>

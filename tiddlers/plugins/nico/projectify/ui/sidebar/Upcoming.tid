@@ -1,0 +1,12 @@
+caption: {{$:/language/projectify/Upcoming}}
+created: 20201212215945467
+list-before: $:/plugins/nico/projectify/NotebookSidebar/Projects
+modified: 20220310164023545
+modifier: @oeyoews
+tags: $:/themes/nico/notebook/tags/SidebarSection
+title: $:/plugins/nico/projectify/ui/sidebar/Upcoming
+type: text/vnd.tiddlywiki
+
+<div class="py-sidebar-section">
+  {{$:/plugins/nico/projectify/ui/dashbaord/Upcoming}}
+</div>

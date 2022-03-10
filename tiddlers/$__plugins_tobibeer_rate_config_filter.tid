@@ -1,8 +1,0 @@
-created: 20220218141642947
-creator: oeyoews
-modified: 20220218141648799
-modifier: oeyoews
-title: $:/plugins/tobibeer/rate/config/filter
-type: text/vnd.tiddlywiki
-
-[all[current]is[tiddler]!is[system]tag[??]]

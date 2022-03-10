@@ -1,0 +1,20 @@
+created: 20220307153542603
+creator: @oeyoews
+modified: 20220310163904065
+modifier: @oeyoews
+tags: $:/tags/Stylesheet
+title: $:/config/oeyoews/dbadgefix
+type: text/vnd.tiddlywiki
+
+/** 带链接的 Kookma badge，为了适应彩色背景，需要把链接默认蓝色背景色去掉，变成白色，与主题无关 */
+.dbadge a,.dbadge a:hover {
+  color: white !important;
+  border: unset;
+  -webkit-text-fill-color: unset !important;
+  font-weight: unset;
+  text-decoration: none;
+}
+
+a.tc-tiddlylink.tc-tiddlylink-resolves.tc-plugin-info.tc-popup-handle.tc-popup-absolute:hover {
+	background-color: <<colour modal-border>>;
+}

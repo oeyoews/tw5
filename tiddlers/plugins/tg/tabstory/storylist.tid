@@ -1,0 +1,7 @@
+created: 20191229183003085
+modified: 20220310164023546
+modifier: @oeyoews
+title: $:/plugins/tg/tabstory/storylist
+type: text/vnd.tiddlywiki
+
+<div class="tc-story-tabs"><$list filter="[list[$:/StoryList]]"><$link to={{!!title}}><$view field="title"/></$link><$button message="tm-close-tiddler" class="tc-btn-invisible tc-x">&times;</$button></$list><div class="tc-tab-divider"/></div>
