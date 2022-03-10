@@ -1,19 +1,24 @@
 created: 20220309112322425
 creator: @oeyoews
-difficulty: 3.5105146107135394
-due: 20220310121530843
-grade: -1
-history: []
-interval: 0
+difficulty: 2.0596188436347647
+due: 20220315055725968
+grade: 2
+history: [{"due":"20220310121530843","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220309121530842"}]
+interval: 1
 lapses: 0
-modified: 20220309121530843
+modified: 20220310062503047
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220309121530842
-stability: 0.10011596679687501
-tags: ?
+reps: 2
+retrievability: 0.34910423292122506
+review: 20220310055725968
+stability: 5.365067619210177
+tags: ? docs
 title: Fishing Manual
 type: text/vnd.tiddlywiki
 
-<<lightbox "https://cdn.jsdelivr.net/gh/oeyoews/img/fishing.png" "" >>
+<div style="text-align: center">
+<p> 
+</p>
+<img src="https://cdn.jsDelivr.net/gh/oeyoews/img/fishing.png
+" title="Fishing" alt="Fishing" style="zoom: 100%" width=512/>
+</div>
