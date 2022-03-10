@@ -1,6 +1,6 @@
 created: 20220218072617844
 creator: oeyoews
-modified: 20220308054057906
+modified: 20220310033304749
 modifier: @oeyoews
 tags: config
 title: subtitle
@@ -15,4 +15,8 @@ type: text/vnd.tiddlywiki
 <<dbadge gitlab "🌐">>
 -->
 
+<!--
 <<dbadge TW5 5.2.1 success>>
+-->
+
+<$count filter="[has[text]]-[is[system]]-[type[image/jpeg]]-[type[image/png]]"/> ideas and counting!

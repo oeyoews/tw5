@@ -1,8 +1,9 @@
 created: 20220109150740747
-modified: 20220217114047158
-modifier: oeyoews
+creator: @oeyoews
+modified: 20220310032003530
+modifier: @oeyoews
 tags: docs
 title: list-filter
 type: text/vnd.tiddlywiki
 
-<<list-search filter:"[tag[English]limit[100]]">>
+<<list-search filter:"[tag[Index]limit[10]]">>

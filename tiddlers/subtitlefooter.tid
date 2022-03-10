@@ -1,0 +1,15 @@
+created: 20220310033519322
+creator: @oeyoews
+modified: 20220310033639799
+modifier: @oeyoews
+tags: config
+title: subtitlefooter
+type: text/vnd.tiddlywiki
+
+<div style="color: #1a8de0;font-size:60%;" align="left">
+<$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
+
+Last Updated:
+<$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss"/> 
+</$list>
+</div>
