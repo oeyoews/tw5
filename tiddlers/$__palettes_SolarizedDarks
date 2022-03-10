@@ -62,7 +62,7 @@ sidebar-tiddler-link-foreground-hover: #51f0c0
 site-title-foreground: #d33682
 static-alert-foreground: #93a1a1
 tab-background: #073642
-tab-background-selected: #5972d9
+tab-background-selected: #073642
 tab-border: #5972d
 tab-border-selected: #5972d9
 tab-divider: #073642
