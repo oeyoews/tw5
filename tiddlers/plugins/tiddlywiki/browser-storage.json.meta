@@ -1,8 +1,0 @@
-dependents: 
-description: Local storage in the browser
-list: readme settings
-name: Browser Storage
-plugin-type: plugin
-title: $:/plugins/tiddlywiki/browser-storage
-type: application/json
-version: 5.2.1

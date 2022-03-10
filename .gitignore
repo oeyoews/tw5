@@ -15,7 +15,6 @@ img
 
 # some ignore folder
 localignore
-livenote
 # trashbin
 trash
 
@@ -38,7 +37,6 @@ tiddlers/\$__config_muuri_storyview_columns.tid
 \$__state_notebook-sidebar*.tid
 # in mobile, this is a bug
 #$__state_notebook-sidebar.tid
-\$__livenote*
 \?
 
 -\$*
