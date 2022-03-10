@@ -44,7 +44,7 @@ primary: cyan
 select-tag-background: #002b36
 select-tag-foreground: #839496
 sidebar-button-foreground: #23d1d1
-sidebar-controls-foreground: cyan
+sidebar-controls-foreground: #32b4c3
 sidebar-controls-foreground-hover: #6678d1
 sidebar-foreground: #93a1a1
 sidebar-foreground-shadow: transparent
@@ -59,7 +59,7 @@ sidebar-tab-foreground: #657b83
 sidebar-tab-foreground-selected: #41dfe1
 sidebar-tiddler-link-foreground: cyan
 sidebar-tiddler-link-foreground-hover: #51f0c0
-site-title-foreground: cyan
+site-title-foreground: #32b4c3
 static-alert-foreground: #93a1a1
 tab-background: #073642
 tab-background-selected: #5972d9
