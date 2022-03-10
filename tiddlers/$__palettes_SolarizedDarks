@@ -40,11 +40,11 @@ notification-border: #586e75
 page-background: #073642
 pre-background: inherit
 pre-border: #657b83
-primary: #765add
+primary: cyan
 select-tag-background: #002b36
 select-tag-foreground: #839496
 sidebar-button-foreground: #23d1d1
-sidebar-controls-foreground: #
+sidebar-controls-foreground: cyan
 sidebar-controls-foreground-hover: #6678d1
 sidebar-foreground: #93a1a1
 sidebar-foreground-shadow: transparent
@@ -89,7 +89,7 @@ tiddler-info-tab-background: #002b36
 tiddler-link-background: #77d6ee
 tiddler-link-foreground: #2aa198
 tiddler-subtitle-foreground: #839496
-tiddler-title-foreground: #755add
+tiddler-title-foreground: #40a7b5
 toolbar-cancel-button: #ffc72e
 toolbar-close-button: #28d5d7
 toolbar-delete-button: #dc322f
