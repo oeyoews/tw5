@@ -57,9 +57,9 @@ sidebar-tab-border-selected: #107884
 sidebar-tab-divider: #0c4250
 sidebar-tab-foreground: #657b83
 sidebar-tab-foreground-selected: #41dfe1
-sidebar-tiddler-link-foreground: #e1419f
+sidebar-tiddler-link-foreground: cyan
 sidebar-tiddler-link-foreground-hover: #51f0c0
-site-title-foreground: #755add
+site-title-foreground: #28ccc1
 static-alert-foreground: #93a1a1
 tab-background: #073642
 tab-background-selected: #5972d9
