@@ -1,13 +1,14 @@
 created: 20220309144935127
 creator: @oeyoews
-modified: 20220309145513484
+modified: 20220310084109612
 modifier: @oeyoews
 tags: gnome
 title: untitled 70
 type: text/vnd.tiddlywiki
 
-* sudo systemctl unmask power-profiles-daemon.service
+* sudo systemctl unmask ''power-profiles-daemon.service''
 
+* https://www.cnblogs.com/jaycethanks/p/12623655.html
 <div style="text-align: center">
 <p> 
 </p>
