@@ -1,12 +1,15 @@
 created: 20220216181013887
 creator: oeyoews
-modified: 20220309054309670
+modified: 20220310012007675
 modifier: @oeyoews
 tags: examples
 title: indexStatus
 type: text/vnd.tiddlywiki
 
-<<dbadge TW5 5.2.1 primary>> <<dbadge Release "[[16.0|https://gitlab.com/oeyoews/tw5]]" warning>> <<dbadge Status "[[dev|Index]]" info>> 
+<!--
+<<dbadge TW5 5.2.1 primary>> 
+-->
+<<dbadge Release "[[16.0|https://gitlab.com/oeyoews/tw5]]" warning>> <<dbadge Status "[[dev|Index]]" info>> 
 
 <!--
 <<badge Status "[[Index]]" success>>
