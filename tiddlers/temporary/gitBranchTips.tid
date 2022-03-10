@@ -2,9 +2,9 @@ created: 20220201092602485
 creator: oeyoews
 grade: 1
 history: [{"due":"20220222125901538","interval":"1","difficulty":null,"stability":null,"retrievability":0.9114827243340647,"grade":"1","lapses":0,"reps":2,"review":"20220221125901538"}]
-modified: 20220310165951814
+modified: 20220310170608192
 modifier: @oeyoews
-tags: ?? Linux
+tags: Linux
 title: gitBranchTips
 type: text/vnd.tiddlywiki
 
