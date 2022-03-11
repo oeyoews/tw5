@@ -1,8 +1,6 @@
 dependents: 
 description: Search and replace for CodeMirror
 list: readme
-modified: 20220310164023547
-modifier: @oeyoews
 name: CodeMirror Search and Replace
 parent-plugin: $:/plugins/tiddlywiki/codemirror
 plugin-type: plugin

@@ -1,17 +1,17 @@
 created: 20220226033750878
 creator: oeyoews
-difficulty: 3.5503788105201037
-due: 20220311013216076
+difficulty: 2.6426442329275828
+due: 20220325145947489
 grade: 2
-history: [{"due":"20220307114913156","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306114913155"}]
-interval: 1
+history: [{"due":"20220307114913156","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306114913155"},{"due":"20220311013216076","interval":1,"difficulty":3.5503788105201037,"stability":3.6971315838315895,"retrievability":0.35037881052010367,"grade":2,"lapses":0,"reps":2,"review":"20220307013216076"}]
+interval: 4
 lapses: 0
-modified: 20220311044418226
+modified: 20220311145947489
 modifier: @oeyoews
-reps: 2
-retrievability: 0.35037881052010367
-review: 20220307013216076
-stability: 3.6971315838315895
+reps: 3
+retrievability: 0.8922654224074793
+review: 20220311145947489
+stability: 13.536687015770887
 tags: EnglishWord ?
 title: seal
 type: text/vnd.tiddlywiki

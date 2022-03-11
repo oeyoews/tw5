@@ -1,8 +1,6 @@
 dependents: 
 description: CodeMirror editor
 list: readme usage keyboard license
-modified: 20220310164023546
-modifier: @oeyoews
 name: CodeMirror
 plugin-type: plugin
 title: $:/plugins/tiddlywiki/codemirror

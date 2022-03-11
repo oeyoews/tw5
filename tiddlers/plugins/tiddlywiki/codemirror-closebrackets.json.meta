@@ -1,8 +1,6 @@
 dependents: 
 description: Close brackets for CodeMirror
 list: readme
-modified: 20220310164023546
-modifier: @oeyoews
 name: CodeMirror Close Brackets
 parent-plugin: $:/plugins/tiddlywiki/codemirror
 plugin-type: plugin
