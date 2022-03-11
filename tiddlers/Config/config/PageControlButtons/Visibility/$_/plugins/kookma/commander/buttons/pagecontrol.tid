@@ -1,7 +1,8 @@
 created: 20220109181621244
-modified: 20220310163904066
+creator: @oeyoews
+modified: 20220311040204968
 modifier: @oeyoews
 title: $:/config/PageControlButtons/Visibility/$:/plugins/kookma/commander/buttons/pagecontrol
 type: text/vnd.tiddlywiki
 
-hide
+show
