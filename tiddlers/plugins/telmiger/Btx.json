@@ -1,0 +1,422 @@
+{"tiddlers": {
+"$:/plugins/telmiger/Btx/Buttons/InsertHere": {
+    "created": "20190128171145652",
+    "creator": "Thomas Elmiger",
+    "text": "\\whitespace trim\n<$button tooltip={{$:/language/Buttons/InsertHere/Hint}} aria-label={{$:/language/Buttons/InsertHere/Caption}} class={{{ lox-story-btn [<tv-config-toolbar-class>!is[blank]] +[join[ ]] }}}>\n<$action-createtiddler $basetitle={{$:/language/DefaultNewTiddlerTitle}} $savetitle=\"$:/temp/new-tiddler-below\"/>\n<$action-listops $tiddler=\"$:/StoryList\" $subfilter=\"[{$:/temp/new-tiddler-below}] +[putafter<currentTiddler>]\"/>\n<$action-sendmessage $message=\"tm-edit-tiddler\" $param={{$:/temp/new-tiddler-below}}/>\n<$list filter=\"[<tv-config-toolbar-icons>match[yes]]\">\n{{$:/plugins/telmiger/Btx/icons/insert-here}}\n</$list>\n<$list filter=\"[<tv-config-toolbar-text>match[yes]]\">\n<span class=\"tc-btn-text\">\n<$text text={{$:/language/Buttons/InsertHere/Caption}}/>\n</span>\n</$list>\n</$button>",
+    "title": "$:/plugins/telmiger/Btx/Buttons/InsertHere",
+    "tags": "$:/tags/ToolbarBottom",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220220214918595",
+    "description": "{{$:/language/Buttons/InsertHere/Hint}}",
+    "caption": "{{$:/language/Buttons/InsertHere/Caption}}"
+},
+
+"$:/plugins/telmiger/Btx/Buttons/TiddlerNext": {
+    "created": "20220306203114133",
+    "creator": "Thomas Elmiger",
+    "text": "\\whitespace trim\n<$button tooltip={{$:/language/Buttons/NextTiddler/Hint}} aria-label={{$:/language/Buttons/NextTiddler/Caption}} class={{{ lox-story-btn [<tv-config-toolbar-class>!is[blank]] +[join[ ]] }}}>\n<<TiddlerExpress \"1\">>\n<$list filter=\"[<tv-config-toolbar-icons>match[yes]]\">\n{{$:/plugins/telmiger/Btx/icons/tiddler-next}}\n</$list>\n<$list filter=\"[<tv-config-toolbar-text>match[yes]]\">\n<span class=\"tc-btn-text\">\n<$text text={{$:/language/Buttons/NextTiddler/Caption}}/>\n</span>\n</$list>\n</$button>",
+    "title": "$:/plugins/telmiger/Btx/Buttons/TiddlerNext",
+    "tags": "$:/tags/ViewToolbar",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220307221014581",
+    "description": "{{$:/language/Buttons/NextTiddler/Hint}}",
+    "caption": "{{$:/language/Buttons/NextTiddler/Caption}}",
+    "list-after": "$:/plugins/telmiger/Btx/Buttons/TiddlerPrev"
+},
+
+"$:/plugins/telmiger/Btx/Buttons/TiddlerPrev": {
+    "created": "20220306221555289",
+    "creator": "Thomas Elmiger",
+    "text": "\\whitespace trim\n<$button tooltip={{$:/language/Buttons/PrevTiddler/Hint}} aria-label={{$:/language/Buttons/PrevTiddler/Caption}} class={{{ lox-story-btn [<tv-config-toolbar-class>!is[blank]] +[join[ ]] }}}>\n<<TiddlerExpress \"-1\">>\n<$list filter=\"[<tv-config-toolbar-icons>match[yes]]\">\n{{$:/plugins/telmiger/Btx/icons/tiddler-prev}}\n</$list>\n<$list filter=\"[<tv-config-toolbar-text>match[yes]]\">\n<span class=\"tc-btn-text\">\n<$text text={{$:/language/Buttons/PrevTiddler/Caption}}/>\n</span>\n</$list>\n</$button>",
+    "title": "$:/plugins/telmiger/Btx/Buttons/TiddlerPrev",
+    "tags": "$:/tags/ViewToolbar",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220307221711048",
+    "description": "{{$:/language/Buttons/PrevTiddler/Hint}}",
+    "caption": "{{$:/language/Buttons/PrevTiddler/Caption}}",
+    "list-before": "$:/core/ui/Buttons/close"
+},
+
+"$:/plugins/telmiger/Btx/Buttons/TiddlerTop": {
+    "created": "20220120193817741",
+    "creator": "Thomas Elmiger",
+    "text": "\\whitespace trim\n<$button tooltip={{$:/language/Buttons/TiddlerTop/Hint}} aria-label={{$:/language/Buttons/TiddlerTop/Caption}} class={{{ lox-story-btn [<tv-config-toolbar-class>!is[blank]] +[join[ ]] }}}>\n<<TiddlerExpress>>\n<$list filter=\"[<tv-config-toolbar-icons>match[yes]]\">\n{{$:/plugins/telmiger/Btx/icons/tiddler-top}}\n</$list>\n<$list filter=\"[<tv-config-toolbar-text>match[yes]]\">\n<span class=\"tc-btn-text\">\n<$text text={{$:/language/Buttons/TiddlerTop/Caption}}/>\n</span>\n</$list>\n</$button>",
+    "title": "$:/plugins/telmiger/Btx/Buttons/TiddlerTop",
+    "tags": "$:/tags/ToolbarBottom",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220307221751116",
+    "description": "{{$:/language/Buttons/InsertHere/Hint}}",
+    "caption": "{{$:/language/Buttons/InsertHere/Caption}}"
+},
+
+"$:/plugins/telmiger/Btx/history": {
+    "created": "20220209065729684",
+    "creator": "Thomas Elmiger",
+    "text": "''Change Log''\n\n* ''0.1.2'' -- 2022-03-10 -- initial release\n\n",
+    "title": "$:/plugins/telmiger/Btx/history",
+    "modified": "20220310203209113",
+    "tags": "",
+    "type": "text/vnd.tiddlywiki",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Btx/icons/insert-here": {
+    "created": "20190128165452603",
+    "creator": "Thomas Elmiger",
+    "text": "{{$:/core/images/new-button}}",
+    "title": "$:/plugins/telmiger/Btx/icons/insert-here",
+    "tags": "$:/tags/Image",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220116112455749"
+},
+
+"$:/plugins/telmiger/Btx/icons/tiddler-next": {
+    "created": "20220306202902972",
+    "creator": "Thomas Elmiger",
+    "text": "<svg transform=\"translate(-3.5,0) rotate(90)\" width=\"22pt\" height=\"22pt\" class=\"tc-image-up-arrow tc-image-button\" viewBox=\"0 0 128 128\"><path d=\"M63.9.3c2 0 4 .8 5.6 2.3l56 56a8 8 0 0 1 0 11.2 8 8 0 0 1-11.2 0L63.9 19.4 13.5 69.8a8 8 0 0 1-11.2 0 8 8 0 0 1 0-11.2l56-56A7.9 7.9 0 0 1 63.9.3z\"/></svg>",
+    "tags": "$:/tags/Image",
+    "title": "$:/plugins/telmiger/Btx/icons/tiddler-next",
+    "modified": "20220306225139053",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Btx/icons/tiddler-prev": {
+    "created": "20220306203036519",
+    "creator": "Thomas Elmiger",
+    "text": "<svg transform=\"translate(1.5,-1) rotate(270)\" width=\"22pt\" height=\"22pt\" class=\"tc-image-up-arrow tc-image-button\" viewBox=\"0 0 128 128\"><path d=\"M63.9.3c2 0 4 .8 5.6 2.3l56 56a8 8 0 0 1 0 11.2 8 8 0 0 1-11.2 0L63.9 19.4 13.5 69.8a8 8 0 0 1-11.2 0 8 8 0 0 1 0-11.2l56-56A7.9 7.9 0 0 1 63.9.3z\"/></svg>",
+    "tags": "$:/tags/Image",
+    "title": "$:/plugins/telmiger/Btx/icons/tiddler-prev",
+    "modified": "20220306225007653",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Btx/icons/tiddler-top": {
+    "created": "20220120200153373",
+    "creator": "Thomas Elmiger",
+    "text": "<svg transform=\"translate(0,2.5)\" width=\"22pt\" height=\"22pt\" class=\"tc-image-up-arrow tc-image-button\" viewBox=\"0 0 128 128\"><path d=\"M63.9.3c2 0 4 .8 5.6 2.3l56 56a8 8 0 0 1 0 11.2 8 8 0 0 1-11.2 0L63.9 19.4 13.5 69.8a8 8 0 0 1-11.2 0 8 8 0 0 1 0-11.2l56-56A7.9 7.9 0 0 1 63.9.3z\"/></svg>",
+    "tags": "$:/tags/Image",
+    "title": "$:/plugins/telmiger/Btx/icons/tiddler-top",
+    "modified": "20220220231020326",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Btx/license": {
+    "created": "20220209065729688",
+    "creator": "Thomas Elmiger",
+    "text": "Distributed under an MIT license.\n\nCopyright (c) 2022 Thomas Elmiger\n\n<<<\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n<<<",
+    "title": "$:/plugins/telmiger/Btx/license",
+    "modified": "20220209065833752",
+    "tags": "",
+    "type": "text/vnd.tiddlywiki",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Btx/macros": {
+    "created": "20220306151329575",
+    "creator": "Thomas Elmiger",
+    "text": "\\define TiddlerExpress(step:\"0\")\n<$let\n\tnth={{{ [list[$:/StoryList]allbefore:include<currentTiddler>count[]add[$step$]] }}}\n\ttarget={{{ [list[$:/StoryList]nth<nth>] }}}\n\tfocus={{{ section.lox-tiddler:nth-child([<nth>] n+1) button :and[join[]] }}}\n\trefocus={{{ section.lox-tiddler:nth-child([<nth>] n+1) a :and[join[]] }}}\n>\n<$action-sendmessage $message=\"tm-focus-selector\" $param=<<focus>> preventScroll=\"true\"/>\n<$action-sendmessage $message=\"tm-focus-selector\" $param=<<refocus>> preventScroll=\"true\"/>\n<$action-navigate $to=<<target>>/>\n</$let>\n\\end",
+    "title": "$:/plugins/telmiger/Btx/macros",
+    "modified": "20220308061950746",
+    "type": "text/vnd.tiddlywiki",
+    "tags": "$:/tags/Macro",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Btx/readme": {
+    "created": "20220209065729691",
+    "creator": "Thomas Elmiger",
+    "text": "!! Bottom Toolbar Experience\n\nAn additional toolbar at the bottom comes in handy for actions you might use after seeing through a tiddler.\n\n!!! Special buttons included\n\n<details><summary>Special buttons for the bottom toolbar</summary>\nAt the moment there are these:\n\n<ul>\n<$list filter=\"\"\"[all[shadows+tiddlers]tag[$:/tags/ToolbarBottom]]\"\"\">\n<li><<currentTiddler>></li>\n</$list>\n</ul>\n\nMore buttons for the ''bottom toolbar'' can be added by tagging them with <<tag $:/tags/ToolbarBottom>>. \n\n</details>\n\nMost buttons from the standard view toolbar – the one at the top of each tiddler – can also be activated in the bottom toolbar. \n\nThis plugin includes new buttons for the standard toolbar too, they can be useful at the top and at the bottom. \n\n<details><summary>Additional buttons for the tiddler toolbar</summary>\nAt the moment there are these:\n\n<ul>\n<$list filter=\"\"\"[all[shadows+tiddlers]prefix[$:/plugins/telmiger/Btx]tag[$:/tags/ViewToolbar]]\"\"\">\n<li><<currentTiddler>></li>\n</$list>\n</ul>\n\n</details>\n\n{{$:/plugins/telmiger/Btx/cfx}}\n",
+    "title": "$:/plugins/telmiger/Btx/readme",
+    "modified": "20220309222155566",
+    "tags": "",
+    "type": "text/vnd.tiddlywiki",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Btx/styles/buttons.css": {
+    "created": "20220220152839486",
+    "creator": "Thomas Elmiger",
+    "text": ".lox-tiddler-toolbar span {\n  line-height: 0;\n}\n\n.lox-tiddler-bottom .lox-tiddler-toolbar > button, \n.lox-tiddler-bottom .lox-tiddler-toolbar > span > button,\n.lox-tiddler-bottom .lox-tiddler-toolbar > span > span > button {\n   margin-bottom: -0.75em;\n   padding-left: 0.07em;\n   background: <<colour tiddler-background>>;\n   border: 1px solid <<colour tiddler-border>>;\n   border-radius: 1em;\n   height: 1.5em;\n   width: 1.5em;\n   font-size: 1em;\n   line-height: 0;\n}\n\n.lox-tiddler-bottom .lox-tiddler-toolbar > button:hover, \n.lox-tiddler-bottom .lox-tiddler-toolbar > span > button:hover,\n.lox-tiddler-bottom .lox-tiddler-toolbar > span > span > button:hover {\n   background: <<colour tiddler-background>>;\n}\n\n.lox-tiddler-bottom .lox-tiddler-toolbar > button .tc-btn-text, \n.lox-tiddler-bottom .lox-tiddler-toolbar > span > button .tc-btn-text,\n.lox-tiddler-bottom .lox-tiddler-toolbar > span > span > button .tc-btn-text {\n   position: absolute;\n   margin-top: -0.5em;\n   margin-left: 0.5rem;\n   font-size: 0.5em;\n   line-height: 0.8;\n}\n\n.lox-tiddler-bottom .lox-tiddler-toolbar button .tc-btn-text:first-child {\n   margin-top: -1.25em;\n   margin-left: 1.75em;\n}",
+    "tags": "$:/tags/Stylesheet",
+    "title": "$:/plugins/telmiger/Btx/styles/buttons.css",
+    "modified": "20220309223558035",
+    "modifier": "Thomas Elmiger",
+    "list-after": "$:/plugins/telmiger/Tix/elements/styles/toolbars.css"
+},
+
+"$:/plugins/telmiger/Btx/styles/style.css": {
+    "created": "20220302224816190",
+    "creator": "Thomas Elmiger",
+    "text": ".lox-tiddler-bottom {\n   position: relative;\n   display: flex;\n   flex-direction: row;\n   flex-wrap: wrap;\n   justify-content: space-between;\n   align-items: baseline;\n   padding-bottom: 0.25em;\n}\n\n.lox-tiddler-bottom .lox-tiddler-toolbar {\n   position: relative;\n   align-content: center;\n   display: flex;\n   justify-content: space-evenly;\n   width: 100%;\n   margin: 0 calc(35% - 4em) 0 calc(35% - 4em);\n   padding-top: 1.125rem;\n   border: 1px solid transparent;\n   border-bottom: 1px solid <<colour tiddler-border>>;\n   font-size: 1.5em;\n}\n\n\n /* enlarge bottom toolbar spacing if top is invisible and tiddler spacing is off */\n\n<$list filter=\"\"\"[all[shadows+tiddlers]suffix[styles/hide/top.css]tag[$:/tags/Stylesheet]]\"\"\">\n<$list filter=\"\"\"[all[shadows+tiddlers]suffix[styles/tiddler-spacing.css]!tag[$:/tags/Stylesheet]]\"\"\">\n\n.lox-tiddler-bottom .lox-tiddler-toolbar {\n   margin-bottom: 2rem;\n}\n\n</$list>\n</$list>\n\n\n /* Left border animation – for Lox tiddlers only */\n\n.lox-tiddler .lox-tiddler-bottom .lox-tiddler-toolbar::before {\n   content: \"\";\n   position: absolute;\n   bottom: 0;\n   left: -1px;\n   height: 0%;\n   width: 1px;\n} \n\n.lox-tiddler .lox-tiddler-bottom .lox-tiddler-toolbar:hover::before {\n   height: 100%;\n   border-left: 1px solid <<colour tab-divider>>;\n   border-left: 1px solid <<colour tiddler-border>>;\n   transition: border-color 0s, height cubic-bezier(.08,.82,.17,1) {{$:/config/AnimationDuration}}ms;\n} \n\n\n/* readme / config */\n\n.tc-plugin-info-dropdown legend {\n   padding: 0 0.5em;\n}\n\n.tc-plugin-info-dropdown fieldset {\n   margin-bottom: 1rem;\n}",
+    "tags": "$:/tags/Stylesheet",
+    "title": "$:/plugins/telmiger/Btx/styles/style.css",
+    "modified": "20220310210210353",
+    "modifier": "Thomas Elmiger",
+    "list-after": "$:/plugins/telmiger/Tix/elements/styles/toolbars.css"
+},
+
+"$:/plugins/telmiger/Btx/toolbar": {
+    "created": "20220115221929459",
+    "creator": "Thomas Elmiger",
+    "text": "\\whitespace trim\n<$list filter=\"\"\"[all[shadows+tiddlers]suffix[styles/hide/bottom-toolbar.css]!tag[$:/tags/Stylesheet]]\"\"\" variable=\"none\">\n<$set name=\"tv-config-toolbar-class\" value=\"tc-btn-invisible\">\n<div class=\"lox-tiddler-toolbar tc-tiddler-controls\">\n<$list filter=\"[all[shadows+tiddlers]tag[$:/tags/ToolbarBottom]] [all[shadows+tiddlers]tag[$:/tags/ViewToolbar]] -[[$:/core/ui/Buttons/fold-bar]] +[!is[draft]] :filter[lookup[$:/config/Tix/ToolbarBottomButtons/Visibility/]match[show]] :sort:date[lookup:modified[$:/config/Tix/ToolbarBottomButtons/Visibility/]] :sort:date[lookup[$:/config/Tix/ToolbarBottomButtons/Timestamp/]]\" variable=\"listItem\" storyview=\"pop\"><$transclude tiddler=<<listItem>>/></$list>\n</div>\n</$set>\n</$list>",
+    "title": "$:/plugins/telmiger/Btx/toolbar",
+    "tags": "$:/tags/TiddlerBottom",
+    "modified": "20220303205249734",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Btx/Tools": {
+    "created": "20220220141007965",
+    "creator": "Thomas Elmiger",
+    "text": "\\define lingo-base() $:/language/TiddlerInfo/\n\\define config-title()\n$:/config/Tix/ToolbarBottomButtons/Visibility/$(listItem)$\n\\end\n\\define config-timestamp()\n$:/config/Tix/ToolbarBottomButtons/Timestamp/$(listItem)$\n\\end\n\\define setTimestamp()\n<$action-setfield $tiddler=<<config-timestamp>> text=<<now [UTC]YYYY0MM0DD0hh0mm0ssXXX>>/>\n\\end\n\n<$set name=\"tv-config-toolbar-icons\" value=\"yes\">\n<$set name=\"tv-config-toolbar-text\" value=\"yes\">\n<$set name=\"tv-config-toolbar-class\" value=\"\">\n<div class=\"lox-toolbar-config\">\n<$list filter=\"[all[shadows+tiddlers]tag[$:/tags/ToolbarBottom]sort[]] [all[shadows+tiddlers]tag[$:/tags/ViewToolbar]sort[]] -[[$:/core/ui/Buttons/fold-bar]] +[!is[draft]]\" variable=\"listItem\">\n<$checkbox tiddler=<<config-title>> field=\"text\" checked=\"show\" checkactions=<<setTimestamp>> unchecked=\"hide\" default=\"hide\"> <$transclude tiddler=<<listItem>>/> <span class=\"visually-hidden\"><$transclude tiddler=<<listItem>> field=\"description\"/></span></$checkbox><br>\n</$list>\n</div>\n</$set>\n</$set>\n</$set>",
+    "title": "$:/plugins/telmiger/Btx/Tools",
+    "tags": "$:/tags/TiddlerInfo",
+    "modified": "20220309213644651",
+    "modifier": "Thomas Elmiger",
+    "caption": "Bottom-Tools",
+    "list-before": "$:/core/ui/TiddlerInfo/References"
+},
+
+"$:/plugins/telmiger/Btx/styles/hide/bottom-toolbar.css": {
+    "created": "20220220221648252",
+    "creator": "Thomas Elmiger",
+    "text": "body .lox-tiddler-bottom .lox-tiddler-toolbar {\n   display: none;\n}",
+    "tags": "",
+    "title": "$:/plugins/telmiger/Btx/styles/hide/bottom-toolbar.css",
+    "modified": "20220308225035649",
+    "modifier": "Thomas Elmiger",
+    "list-after": "$:/plugins/telmiger/Tix/styles/styles.css"
+},
+
+"$:/plugins/telmiger/Btx/ViewTemplate/bottom": {
+    "created": "20220117165136171",
+    "creator": "Thomas Elmiger",
+    "text": "<section class=\"lox-tiddler-bottom\">\n<$list filter=\"[all[shadows+tiddlers]tag[$:/tags/TiddlerBottom]!has[draft.of]]\" variable=\"listItem\">\n<$transclude tiddler=<<listItem>>/>\n</$list>\n</section>",
+    "title": "$:/plugins/telmiger/Btx/ViewTemplate/bottom",
+    "tags": "$:/tags/Tix/ViewTemplate $:/tags/ViewTemplate",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220308223153062"
+},
+
+"$:/plugins/telmiger/Btx/icon": {
+    "created": "20220308223451801",
+    "creator": "Thomas Elmiger",
+    "text": "<svg class=\"tc-image-button telmiger-icon\" viewBox=\"0 0 128 128\" xmlns=\"http://www.w3.org/2000/svg\" width=\"22pt\" height=\"22pt\">\n  <path fill=\"#e2001a\" d=\"M64 2a62 62 0 1 0 0 124A62 62 0 0 0 64 2z\"/>\n  <path transform=\"rotate(180,64,60)\" fill=\"#fff\" d=\"M100.4 63.3a26 26 0 0 1-14 2.8h-8c-4.2 0-7.3.9-9.2 2.6-2 1.7-3.5 5-4.6 10.2 0 0-.2 1.4-.5 1.4s-.4-.8-.5-1.5a37.9 37.9 0 0 0-.7-2.8c-.7-2.1-1.3-3.7-2-4.8a10 10 0 0 0-2.8-3.3 8.3 8.3 0 0 0-4-1.5L52 66H41.7c-6.1 0-10.7-1-13.7-2.8-5-3.2-7.6-9.2-8-18l.1-2.1h.6c.4 4 3.7 7 6.1 9.2 2.4 2.2 6.3 3.2 11.6 3.2h9.3c5.4 0 9.3 1.3 11.7 3.7a18 18 0 0 1 4.4 10.4c.1.5 0 .8.2.8s.1-.3.2-.8c.7-6.1 3-10.2 7.1-12.3 2.5-1.3 6.4-2 11.9-1.9l6.3.1c4.3.1 8-.7 11-2.5 2.9-1.8 6.4-5 6.8-10h.5c.2.6.2 1.6.2 2.4-.4 8.8-3 14.7-7.6 17.8z\"/>\n</svg>",
+    "title": "$:/plugins/telmiger/Btx/icon",
+    "tags": "",
+    "modified": "20220308223508760",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Btx/about": {
+    "created": "20220308223320835",
+    "creator": "Thomas Elmiger",
+    "text": "Add an additional toolbar to the bottom of every tiddler. It comes with buttons to jump to the top of a tiddler, to the next or to the previous tiddler and one more button that inserts a new tiddler just below. The bottom toolbar also accepts standard toolbar buttons.",
+    "title": "$:/plugins/telmiger/Btx/about",
+    "modified": "20220310203133750",
+    "type": "text/vnd.tiddlywiki",
+    "tags": "",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/plugins/telmiger/Btx/cfx": {
+    "created": "20220309203650116",
+    "creator": "Thomas Elmiger",
+    "text": "<h2>Bottom Toolbar Configuration</h2>\n\nChoose, what you would like to see.\n\n> The buttons in the bottom toolbar are sorted in the order of their activation.\n\n<form method=\"post\" action=\"#\">\n<fieldset>\n<legend>Show toolbar</legend>\n\n<$checkbox tiddler=\"$:/plugins/telmiger/Btx/styles/hide/bottom-toolbar.css\" tag=\"$:/tags/Stylesheet\" invertTag=\"yes\"> tiddler bottom toolbar</$checkbox>\n\n</fieldset>\n<fieldset>\n<legend>Show buttons</legend>\n\n{{$:/plugins/telmiger/Btx/Tools}}\n\n</fieldset>\n</form>",
+    "modified": "20220310211143928",
+    "modifier": "Thomas Elmiger",
+    "title": "$:/plugins/telmiger/Btx/cfx",
+    "tags": "",
+    "caption": "Bottom Toolbar"
+},
+
+"$:/plugins/telmiger/Btx/support": {
+    "created": "20220309212323540",
+    "creator": "Thomas Elmiger",
+    "text": "!! Support the Author\n\n''Hi!''<br>\nI am Thomas, the author of [[tid.li/tw5/plugins.html|https://tid.li/tw5/plugins.html]]. Feedback is always welcome, as well as funding for maintenance, support and new projects :)\n\n---\n\n!!! One Time Support\n\nIf using my plugins just makes you happy, consider a one time payment via ~PayPal to reward the effort:\n\nhttps://www.paypal.me/telmiger\n\n---\n\n!!! Permanent Support\n\nIf my tools make you more productive or save you time in your job or your everyday life, you can support me as a Patron: \n\nhttps://www.patreon.com/telmiger\n\n---\n\n!!! Thank You\n\nSubstantial parts of my availabe time go to the deveopment of useful plugins for [[TiddlyWiki|https://tiddlywiki.com/]]. – Many others do the same and I would like to thank them all, especially [[Jeremy Ruston|https://tiddlywiki.com/#JeremyRuston]] and all the active members of the community!\n\n//Hereby I promise to share future revenues (if any) with other developers who’s works I use or who inspired me.//\n\nIf you like my work, I would be very happy to hear from you.\n\n''All the best,''<br>\n//Thomas//\n\nhttps://thomas-elmiger.ch",
+    "title": "$:/plugins/telmiger/Btx/support",
+    "tags": "",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220309221458291"
+},
+
+"$:/language/Buttons/InsertHere/Caption": {
+    "created": "20190128184309875",
+    "creator": "Thomas Elmiger",
+    "text": "insert here",
+    "title": "$:/language/Buttons/InsertHere/Caption",
+    "tags": "",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220119172709370"
+},
+
+"$:/language/Buttons/InsertHere/Hint": {
+    "created": "20190128184343201",
+    "creator": "Thomas Elmiger",
+    "text": "Insert a new tiddler here",
+    "title": "$:/language/Buttons/InsertHere/Hint",
+    "tags": "",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220123141103343"
+},
+
+"$:/language/Buttons/TiddlerTop/Caption": {
+    "created": "20220120195047054",
+    "creator": "Thomas Elmiger",
+    "text": "move up",
+    "title": "$:/language/Buttons/TiddlerTop/Caption",
+    "tags": "",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220120195103028"
+},
+
+"$:/language/Buttons/TiddlerTop/Hint": {
+    "created": "20220120194812936",
+    "creator": "Thomas Elmiger",
+    "text": "To the top of this tiddler",
+    "title": "$:/language/Buttons/TiddlerTop/Hint",
+    "tags": "",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220123141137498"
+},
+
+"$:/plugins/telmiger/support": {
+    "created": "20200604213259310",
+    "text": "!! Support the Author\n\n''Hi!'' I’m Thomas, the author of [[tid.li/tw5/plugins.html|https://tid.li/tw5/plugins.html]]. Feedback is always welcome, as well as funding for maintenance, support and new projects :)\n\n---\n\n!!! One Time Support\n\nIf using my plugins just makes you happy, consider a one time payment via ~PayPal to reward the effort:\n\nhttps://www.paypal.me/telmiger\n\n---\n\n!!! Permanent Support\n\nIf my tools make you more productive or save you time in your job or your everyday life, you can support me as a Patron: \n\nhttps://www.patreon.com/telmiger\n\n---\n\n!!! Thank You\n\nSubstantial parts of my availabe time go to the deveopment of useful plugins for [[TiddlyWiki|https://tiddlywiki.com/]]. – Many others do the same and I would like to thank them all, especially [[Jeremy Ruston|https://tiddlywiki.com/#JeremyRuston]] and all the active members of the community!\n\n//Hereby I promise to share future revenues (if any) with other developers who’s works I use or who inspired me.//\n\nIf you like my work, I would be very happy to hear from you.\n\n''Thank you very much for your support!''<br>\n//Thomas//\n\nhttps://thomas-elmiger.ch",
+    "title": "$:/plugins/telmiger/support",
+    "tags": "",
+    "modifier": "Thomas Elmiger",
+    "modified": "20200604213305050",
+    "creator": "Thomas Elmiger"
+},
+
+"$:/language/Buttons/NextTiddler/Caption": {
+    "created": "20220306230122825",
+    "creator": "Thomas Elmiger",
+    "text": "next",
+    "title": "$:/language/Buttons/NextTiddler/Caption",
+    "tags": "",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220306230136401"
+},
+
+"$:/language/Buttons/NextTiddler/Hint": {
+    "created": "20220306225640353",
+    "creator": "Thomas Elmiger",
+    "text": "Go to the next tiddler",
+    "title": "$:/language/Buttons/NextTiddler/Hint",
+    "tags": "",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220306225840806"
+},
+
+"$:/language/Buttons/PrevTiddler/Caption": {
+    "created": "20220306230047858",
+    "creator": "Thomas Elmiger",
+    "text": "previous",
+    "title": "$:/language/Buttons/PrevTiddler/Caption",
+    "tags": "",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220306230111250"
+},
+
+"$:/language/Buttons/PrevTiddler/Hint": {
+    "created": "20220306225859127",
+    "creator": "Thomas Elmiger",
+    "text": "Go to the previous tiddler",
+    "title": "$:/language/Buttons/PrevTiddler/Hint",
+    "tags": "",
+    "modifier": "Thomas Elmiger",
+    "modified": "20220306225918123"
+},
+
+"$:/config/Tix/ToolbarBottomButtons/Timestamp/$:/plugins/telmiger/Btx/Buttons/InsertHere": {
+    "created": "20220220182952352",
+    "creator": "Thomas Elmiger",
+    "title": "$:/config/Tix/ToolbarBottomButtons/Timestamp/$:/plugins/telmiger/Btx/Buttons/InsertHere",
+    "text": "20220309202645924",
+    "modified": "20220309202645924",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/config/Tix/ToolbarBottomButtons/Timestamp/$:/plugins/telmiger/Btx/Buttons/TiddlerNext": {
+    "created": "20220306225232360",
+    "creator": "Thomas Elmiger",
+    "title": "$:/config/Tix/ToolbarBottomButtons/Timestamp/$:/plugins/telmiger/Btx/Buttons/TiddlerNext",
+    "text": "20220309202641272",
+    "modified": "20220309202641272",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/config/Tix/ToolbarBottomButtons/Timestamp/$:/plugins/telmiger/Btx/Buttons/TiddlerPrev": {
+    "created": "20220306225230338",
+    "creator": "Thomas Elmiger",
+    "title": "$:/config/Tix/ToolbarBottomButtons/Timestamp/$:/plugins/telmiger/Btx/Buttons/TiddlerPrev",
+    "text": "20220309202638451",
+    "modified": "20220309202638452",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/config/Tix/ToolbarBottomButtons/Timestamp/$:/plugins/telmiger/Btx/Buttons/TiddlerTop": {
+    "created": "20220220182851123",
+    "creator": "Thomas Elmiger",
+    "title": "$:/config/Tix/ToolbarBottomButtons/Timestamp/$:/plugins/telmiger/Btx/Buttons/TiddlerTop",
+    "text": "20220309202644064",
+    "modified": "20220309202644064",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/config/Tix/ToolbarBottomButtons/Visibility/$:/plugins/telmiger/Btx/Buttons/InsertHere": {
+    "created": "20220220144308207",
+    "creator": "Thomas Elmiger",
+    "text": "show",
+    "title": "$:/config/Tix/ToolbarBottomButtons/Visibility/$:/plugins/telmiger/Btx/Buttons/InsertHere",
+    "modified": "20220309202645922",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/config/Tix/ToolbarBottomButtons/Visibility/$:/plugins/telmiger/Btx/Buttons/TiddlerNext": {
+    "created": "20220306225232359",
+    "creator": "Thomas Elmiger",
+    "text": "show",
+    "title": "$:/config/Tix/ToolbarBottomButtons/Visibility/$:/plugins/telmiger/Btx/Buttons/TiddlerNext",
+    "modified": "20220309202641271",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/config/Tix/ToolbarBottomButtons/Visibility/$:/plugins/telmiger/Btx/Buttons/TiddlerPrev": {
+    "created": "20220306225230336",
+    "creator": "Thomas Elmiger",
+    "text": "show",
+    "title": "$:/config/Tix/ToolbarBottomButtons/Visibility/$:/plugins/telmiger/Btx/Buttons/TiddlerPrev",
+    "modified": "20220309202638450",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/config/Tix/ToolbarBottomButtons/Visibility/$:/plugins/telmiger/Btx/Buttons/TiddlerTop": {
+    "created": "20220220144309913",
+    "creator": "Thomas Elmiger",
+    "text": "show",
+    "title": "$:/config/Tix/ToolbarBottomButtons/Visibility/$:/plugins/telmiger/Btx/Buttons/TiddlerTop",
+    "modified": "20220309202644061",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/config/ViewToolbarButtons/Visibility/$:/plugins/telmiger/Btx/Buttons/TiddlerNext": {
+    "created": "20220309202418503",
+    "creator": "Thomas Elmiger",
+    "text": "hide",
+    "title": "$:/config/ViewToolbarButtons/Visibility/$:/plugins/telmiger/Btx/Buttons/TiddlerNext",
+    "modified": "20220309202419689",
+    "modifier": "Thomas Elmiger"
+},
+
+"$:/config/ViewToolbarButtons/Visibility/$:/plugins/telmiger/Btx/Buttons/TiddlerPrev": {
+    "created": "20220309202421576",
+    "creator": "Thomas Elmiger",
+    "text": "hide",
+    "title": "$:/config/ViewToolbarButtons/Visibility/$:/plugins/telmiger/Btx/Buttons/TiddlerPrev",
+    "modified": "20220309202422584",
+    "modifier": "Thomas Elmiger"
+}}
+}
