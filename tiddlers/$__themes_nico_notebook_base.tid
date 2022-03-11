@@ -714,8 +714,8 @@ div.tc-tab-buttons button:hover {
 div.tc-tab-buttons button.tc-tab-selected {
   border: none;
   background: transparent;
-  border-radius: 3px;
-  border-bottom: 2px solid <<colour primary>>;
+  border-radius: 1px;
+  border-bottom: 1px solid <<colour primary>>;
 }
 
 /* Dropdowns */
