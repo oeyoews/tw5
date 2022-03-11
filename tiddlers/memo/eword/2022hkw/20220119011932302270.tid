@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932302
 creator: oeyoews
-difficulty: 3.8425489147494165
-due: 20220311052836593
+difficulty: 4.05149569834818
+due: 20220312055747709
 grade: 0
-history: [{"due":"20220302004902693","interval":1,"difficulty":1.8682990579651733,"stability":0.08507834253141604,"retrievability":0.3995465906210927,"grade":0,"lapses":1,"reps":1,"review":"20220301004902692"},{"due":"20220302163405996","interval":0,"difficulty":3.0682990579651737,"stability":0.06302758633267336,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220301163405996"},{"due":"20220302163405996","interval":0,"difficulty":3.0682990579651737,"stability":0.06302758633267336,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220301163405996"},{"due":"20220305051225628","interval":2,"difficulty":3.3036187610371575,"stability":0.04367447516744718,"retrievability":0.03531970307198372,"grade":0,"lapses":3,"reps":1,"review":"20220304051225628"},{"due":"20220307051903683","interval":2,"difficulty":3.5116468425271763,"stability":0.030398849415162195,"retrievability":0.008028081490018674,"grade":0,"lapses":4,"reps":1,"review":"20220306051903682"},{"due":"20220310025201291","interval":1,"difficulty":2.742890539639052,"stability":2.98922863655367,"retrievability":0.031243697111875784,"grade":1,"lapses":4,"reps":2,"review":"20220307025201290"}]
-interval: 3
-lapses: 5
-modified: 20220311044458944
+history: [{"due":"20220302004902693","interval":1,"difficulty":1.8682990579651733,"stability":0.08507834253141604,"retrievability":0.3995465906210927,"grade":0,"lapses":1,"reps":1,"review":"20220301004902692"},{"due":"20220302163405996","interval":0,"difficulty":3.0682990579651737,"stability":0.06302758633267336,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220301163405996"},{"due":"20220302163405996","interval":0,"difficulty":3.0682990579651737,"stability":0.06302758633267336,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220301163405996"},{"due":"20220305051225628","interval":2,"difficulty":3.3036187610371575,"stability":0.04367447516744718,"retrievability":0.03531970307198372,"grade":0,"lapses":3,"reps":1,"review":"20220304051225628"},{"due":"20220307051903683","interval":2,"difficulty":3.5116468425271763,"stability":0.030398849415162195,"retrievability":0.008028081490018674,"grade":0,"lapses":4,"reps":1,"review":"20220306051903682"},{"due":"20220310025201291","interval":1,"difficulty":2.742890539639052,"stability":2.98922863655367,"retrievability":0.031243697111875784,"grade":1,"lapses":4,"reps":2,"review":"20220307025201290"},{"due":"20220311052836593","interval":3,"difficulty":3.8425489147494165,"stability":0.022338891704801602,"retrievability":0.8996583751103642,"grade":0,"lapses":5,"reps":1,"review":"20220310052836593"}]
+interval: 1
+lapses: 6
+modified: 20220311055747709
 modifier: @oeyoews
 reps: 1
-retrievability: 0.8996583751103642
-review: 20220310052836593
-stability: 0.022338891704801602
+retrievability: 0.00894678359876339
+review: 20220311055747709
+stability: 0.016539473413455685
 tags: [[必考核心词汇 Word List 2]] ?
 title: 2022hkw/20220119011932302270
 type: text/vnd.tiddlywiki
