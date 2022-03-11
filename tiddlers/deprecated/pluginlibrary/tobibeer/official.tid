@@ -1,7 +1,9 @@
 caption: Official Plugin Library by Tobias Beer
-modified: 20160120132137178
-modifier: Tobias Beer
-tags: $:/tags/PluginLibrary
+created: 20220311051211465
+creator: @oeyoews
+modified: 20220311051216890
+modifier: @oeyoews
+tags: deprecated
 title: $:/pluginlibrary/tobibeer/official
 type: text/vnd.tiddlywiki
 url: http://tobibeer.github.io/tw5-plugins/library/index.html

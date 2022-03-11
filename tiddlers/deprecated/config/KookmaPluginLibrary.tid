@@ -1,8 +1,9 @@
 caption: Kookma Plugin Library
 created: 20200306121057751
-modified: 20220310163904064
+creator: @oeyoews
+modified: 20220311051111130
 modifier: @oeyoews
-tags: $:/tags/PluginLibrary
+tags: deprecated
 title: $:/config/KookmaPluginLibrary
 type: text/vnd.tiddlywiki
 url: https://kookma.github.io/TW-PluginLibrary/library/index.html
