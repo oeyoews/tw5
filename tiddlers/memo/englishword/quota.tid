@@ -1,0 +1,26 @@
+created: 20220223023215494
+creator: oeyoews
+difficulty: 1
+due: 20220415034054534
+grade: 2
+history: [{"due":"20220303064325956","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064325956"}]
+interval: 2
+lapses: 0
+modified: 20220311044418223
+modifier: @oeyoews
+reps: 2
+retrievability: 0.14063024105763047
+review: 20220304034054534
+stability: 41.943552755493144
+tags: EnglishWord ?
+title: quota
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+quota
+英 ['kwəʊtə]  美 ['kwotə]
+n. 配额；定额；限额
+CET6 TEM4  ( quotas )
+"""
+<<<

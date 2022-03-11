@@ -1,0 +1,27 @@
+created: 20220222092511484
+creator: oeyoews
+difficulty: 1
+due: 20220423003410792
+grade: 1
+history: [{"due":"20220303064035628","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064035627"}]
+interval: 3
+lapses: 0
+modified: 20220311044418211
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305003410792
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: illustrate
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+illustrate
+英 ['ɪləstreɪt]  美 ['ɪləstret]
+vt. 阐明，举例说明；图解
+vi. 举例
+CET4 TEM4  ( illustrating, illustrated, illustrates )
+"""
+<<<

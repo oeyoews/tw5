@@ -1,0 +1,25 @@
+created: 20220224011750684
+creator: oeyoews
+difficulty: 1
+due: 20220317065618920
+grade: 1
+history: [{"due":"20220304074917363","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303074917363"},{"due":"20220307012004641","interval":3,"difficulty":1.2089083031776646,"stability":0.07545638712607733,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306012004640"},{"due":"20220307163802720","interval":0,"difficulty":1.4089083031776644,"stability":0.07545638712607733,"retrievability":1,"grade":1,"lapses":1,"reps":2,"review":"20220306163802720"}]
+interval: 1
+lapses: 1
+modified: 20220311044418200
+modifier: @oeyoews
+reps: 3
+retrievability: 0.24750856222931497
+review: 20220308065618920
+stability: 8.594869020011865
+tags: EnglishWord ?
+title: controversy
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""controversy
+英 ['kɒntrəvɜːsɪ; kən'trɒvəsɪ]  美 [ˈkɑntrəvɝ​sɪ]
+n. 争论；论战；辩论
+CET4 TEM4  ( controversies )
+"""
+<<<

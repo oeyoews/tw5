@@ -1,0 +1,26 @@
+created: 20220301013916909
+creator: oeyoews
+difficulty: 1
+due: 20220417012233658
+grade: 1
+history: [{"due":"20220305034038697","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220304034038697"}]
+interval: 2
+lapses: 0
+modified: 20220311044418224
+modifier: @oeyoews
+page-cover: https://cdn.jsdelivr.net/gh/oeyoews/img/cat-scape.jpg
+reps: 2
+retrievability: 0.14063024105763047
+review: 20220306012233658
+stability: 41.943552755493144
+tags: EnglishWord ?
+title: repository
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""repository
+英 [rɪ'pɒzɪt(ə)rɪ]  美 [rɪ'pɑzə'tɔri]
+n. 贮藏室，仓库；知识库；智囊团
+TEM8  ( repositories )
+"""
+<<<

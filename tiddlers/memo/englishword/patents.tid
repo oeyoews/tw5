@@ -1,0 +1,26 @@
+created: 20220302010729142
+creator: oeyoews
+difficulty: 1
+due: 20220418061750037
+grade: 2
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220304235313792","interval":1,"difficulty":1.5995465906210926,"stability":0.07958008229979391,"retrievability":0.3995465906210927,"grade":0,"lapses":1,"reps":1,"review":"20220303235313792"}]
+interval: 2
+lapses: 1
+modified: 20220311044418218
+modifier: @oeyoews
+reps: 2
+retrievability: 0.0707989078776349
+review: 20220306061750037
+stability: 43.111313371155894
+tags: EnglishWord ?
+title: patents
+type: text/vnd.tiddlywiki
+word: patents
+
+<<<.tc-fish-quote
+"""patents
+英 [ˈpeɪtnts]  美 [ˈpætnts]
+n. [专利] 专利（patent的复数形式）；专利权
+CET6 TEM4  ( patenting, patented, patents )
+"""
+<<<

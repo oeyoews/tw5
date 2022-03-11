@@ -1,0 +1,26 @@
+created: 20220303021725376
+creator: oeyoews
+difficulty: 1
+due: 20220418054712272
+grade: 1
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220305141746284","interval":2,"difficulty":1.359637478076939,"stability":0.07958008229979391,"retrievability":0.15963747807693907,"grade":0,"lapses":1,"reps":1,"review":"20220304141746283"}]
+interval: 2
+lapses: 1
+modified: 20220311044418196
+modifier: @oeyoews
+reps: 2
+retrievability: 0.0707989078776349
+review: 20220306054712272
+stability: 43.111313371155894
+tags: EnglishWord ?
+title: casts
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""casts
+英/美 [kɑ:s; kæst]
+n. 演员阵容；[生理] 管型（cast的复数）
+v. 投（cast的三单形式）
+CET4 TEM4  ( casting, casts )
+"""
+<<<

@@ -1,0 +1,21 @@
+created: 20220210082002861
+creator: oeyoews
+difficulty: 3.375889880621888
+due: 20220405083809152
+grade: 1
+history: [{"due":"20220226161011618","interval":1,"difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":2,"lapses":0,"reps":2,"review":"20220222161011618"},{"due":"20220308163647974","interval":3,"difficulty":3.2732810355779787,"stability":10.282486264713498,"retrievability":0.9245977375274645,"grade":2,"lapses":0,"reps":3,"review":"20220226163647974"},{"due":"20220308163647974","interval":3,"difficulty":3.2732810355779787,"stability":10.282486264713498,"retrievability":0.9245977375274645,"grade":2,"lapses":0,"reps":3,"review":"20220226163647974"}]
+interval: 10
+lapses: 0
+modified: 20220311044418192
+modifier: @oeyoews
+reps: 4
+retrievability: 0.9026088450439091
+review: 20220309083809150
+stability: 27.179008774083623
+tags: EnglishWord ?
+title: a-fit-of
+type: text/vnd.tiddlywiki
+
+* a fit of 突发， 一阵
+
+* fit(n)

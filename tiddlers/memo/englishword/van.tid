@@ -1,0 +1,27 @@
+created: 20220303020229481
+creator: oeyoews
+difficulty: 1
+due: 20220316012358487
+grade: 1
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220307002052168","interval":4,"difficulty":1.2254841244067651,"stability":0.07545638712607733,"retrievability":0.025484124406765195,"grade":0,"lapses":1,"reps":1,"review":"20220306002052168"}]
+interval: 1
+lapses: 1
+modified: 20220311044418233
+modifier: @oeyoews
+reps: 2
+retrievability: 0.24750856222931497
+review: 20220307012358486
+stability: 8.594869020011865
+tags: EnglishWord ?
+title: van
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""van
+英 [væn]  美 [væn]
+n. 先锋；厢式货车；增值网
+vt. 用车搬运
+n. (Van)人名；(老、泰、柬、缅)万
+CET4 TEM4  ( vans )
+"""
+<<<

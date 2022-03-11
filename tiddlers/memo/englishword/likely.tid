@@ -1,0 +1,26 @@
+created: 20220221094725303
+creator: oeyoews
+difficulty: 1
+due: 20220326061725699
+grade: 2
+history: [{"due":"20220225163707621","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163707620"},{"due":"20220305013656614","interval":1,"difficulty":1.1172714132007704,"stability":7.498354706664073,"retrievability":0.7318502915686316,"grade":2,"lapses":0,"reps":3,"review":"20220226013656613"},{"due":"20220305013656614","interval":1,"difficulty":1.1172714132007704,"stability":7.498354706664073,"retrievability":0.7318502915686316,"grade":2,"lapses":0,"reps":3,"review":"20220226013656613"}]
+interval: 8
+lapses: 0
+modified: 20220311044418214
+modifier: @oeyoews
+reps: 4
+retrievability: 0.8936784809252966
+review: 20220306061725699
+stability: 19.81675124772529
+tags: EnglishWord ?
+title: likely
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+likely
+英 ['laɪklɪ]  美 ['laɪkli]
+adj. 很可能的；合适的；有希望的
+adv. 很可能；或许
+"""
+<<<

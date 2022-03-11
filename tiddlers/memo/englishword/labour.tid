@@ -1,0 +1,18 @@
+created: 20220221112944989
+creator: oeyoews
+history: [{"due":"20220227033357334","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220226033357334"},{"due":"20220227164013169","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220226164013169"},{"due":"20220301022452782","interval":1,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220228022452781"},{"due":"20220302072631075","interval":1,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301072631075"},{"due":"20220302164330271","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301164330271"},{"due":"20220302164330271","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301164330271"},{"due":"20220305140747126","interval":2,"difficulty":null,"stability":null,"retrievability":null,"grade":1,"lapses":null,"reps":null,"review":"20220304140747126"},{"due":"20220307011600824","interval":2,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220306011600824"},{"due":"20220308013153085","interval":1,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220307013153084"}]
+modified: 20220311044418213
+modifier: @oeyoews
+tags: EnglishWord !
+title: labour
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+labour
+英/美 ['leɪbə]
+n. 劳动力，人工；分娩
+vi. 劳动；分娩；费力地前进
+CET4 TEM4  ( labouring, laboured, labours )
+"""
+<<<

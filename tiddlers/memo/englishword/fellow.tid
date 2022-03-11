@@ -1,0 +1,27 @@
+created: 20220303083150815
+creator: oeyoews
+difficulty: 1
+due: 20220423003305234
+grade: 1
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"}]
+interval: 3
+lapses: 0
+modified: 20220311044418206
+modifier: @oeyoews
+reps: 3
+retrievability: 0.06378261010099043
+review: 20220305003305234
+stability: 48.71120732285093
+tags: EnglishWord ?
+title: fellow
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""英 ['feləʊ]  美 ['fɛlo]
+n. 家伙；朋友；同事__；会员__
+adj. 同伴的，同事的；同道的
+vt. 使…与另一个对等；使…与另一个匹敌
+n. (Fellow)人名；(英)费洛
+CET4 TEM4  ( fellows )
+"""
+<<<

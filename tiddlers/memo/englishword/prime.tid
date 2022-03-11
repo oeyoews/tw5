@@ -1,0 +1,30 @@
+created: 20220223123227522
+creator: oeyoews
+difficulty: 1
+due: 20220424053222493
+grade: 1
+history: [{"due":"20220304074622047","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303074622047"}]
+interval: 3
+lapses: 0
+modified: 20220311044418220
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220306053222492
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: prime
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""prime
+英 [praɪm]  美 [praɪm]
+adj. 主要的；最好的；基本的
+adv. 极好地
+n. 初期；青年；精华；全盛时期
+vt. 使准备好；填装
+vi. 作准备
+n. (Prime)人名；(英)普赖姆；(德)普里梅
+CET4 TEM4  ( priming, primed, primes )
+"""
+<<<

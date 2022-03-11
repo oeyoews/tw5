@@ -1,0 +1,26 @@
+created: 20220302010941471
+creator: oeyoews
+difficulty: 1
+due: 20220417053429023
+grade: 1
+history: [{"due":"20220305061947330","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220304061947330"}]
+interval: 2
+lapses: 0
+modified: 20220311044418208
+modifier: @oeyoews
+reps: 2
+retrievability: 0.14063024105763047
+review: 20220306053429022
+stability: 41.943552755493144
+tags: EnglishWord ?
+title: greed
+type: text/vnd.tiddlywiki
+word: greed
+
+<<<.tc-fish-quote
+"""greed
+英 [griːd]  美 [ɡrid]
+n. 贪婪，贪心
+CET6+ TEM4
+"""
+<<<

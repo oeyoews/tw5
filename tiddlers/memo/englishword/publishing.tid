@@ -1,0 +1,27 @@
+created: 20220222014750811
+creator: oeyoews
+difficulty: 1
+due: 20220423014911098
+grade: 2
+history: [{"due":"20220302164440575","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301164440575"},{"due":"20220302164440575","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301164440575"}]
+interval: 3
+lapses: 0
+modified: 20220311044418223
+modifier: @oeyoews
+reps: 3
+retrievability: 0.06378261010099043
+review: 20220305014911098
+stability: 48.71120732285093
+tags: EnglishWord ?
+title: publishing
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+publishing
+英 ['pʌblɪʃɪŋ]  美 ['pʌblɪʃɪŋ]
+n. 出版；出版业
+adj. 出版的；出版业的
+v. 出版；发行（publish的现在分词形式）；发表
+"""
+<<<

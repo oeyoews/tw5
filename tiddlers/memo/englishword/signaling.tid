@@ -1,0 +1,25 @@
+created: 20220223065500869
+creator: oeyoews
+difficulty: 1
+due: 20220424054510152
+grade: 2
+history: [{"due":"20220304062412558","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303062412558"}]
+interval: 3
+lapses: 0
+modified: 20220311044418228
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220306054510151
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: signaling
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""signaling
+英/美 ['sɪɡnəlɪŋ]
+n. 发信号；打信号
+CET4 TEM4  ( signalling, signalled, signals )
+"""
+<<<

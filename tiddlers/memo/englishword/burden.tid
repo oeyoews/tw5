@@ -1,0 +1,28 @@
+created: 20220222112649992
+creator: oeyoews
+difficulty: 1
+due: 20220415132848405
+grade: 1
+history: [{"due":"20220303064151091","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064151091"}]
+interval: 2
+lapses: 0
+modified: 20220311044418196
+modifier: @oeyoews
+reps: 2
+retrievability: 0.14063024105763047
+review: 20220304132848404
+stability: 41.943552755493144
+tags: EnglishWord ?
+title: burden
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+burden
+英 ['bɜːd(ə)n]  美 ['bɝdn]
+n. 负担；责任；船的载货量
+vt. 使负担；烦扰；装货于
+n. (Burden)人名；(英)伯登
+CET4 TEM4  ( burdening, burdened, burdens )
+"""
+<<<

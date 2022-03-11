@@ -1,0 +1,25 @@
+created: 20220225022710999
+creator: oeyoews
+difficulty: 3.241408556451306
+due: 20220315014334692
+grade: 2
+history: [{"due":"20220308104845776","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104845776"},{"due":"20220309101437124","interval":1,"difficulty":4.983049552319485,"stability":0.07416773238429089,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220308101437124"}]
+interval: 2
+lapses: 1
+modified: 20220311044418218
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05835900413182145
+review: 20220310014334692
+stability: 5.215763676645758
+tags: EnglishWord ?
+title: personality
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""personality
+英 [pɜːsə'nælɪtɪ]  美 [,pɝsə'næləti]
+n. 个性；品格；名人
+CET4 TEM4  ( personalities )
+"""
+<<<

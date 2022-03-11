@@ -1,0 +1,26 @@
+created: 20220221112707706
+creator: oeyoews
+difficulty: 2.238040846893658
+due: 20220313164436365
+grade: 2
+history: [{"due":"20220225163801113","interval":0,"difficulty":3.185421121632139,"stability":0.3375,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220224163801113"},{"due":"20220302013817329","interval":1,"difficulty":3.1172714132007706,"stability":3.829174176904166,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":3,"review":"20220226013817329"},{"due":"20220313164436365","interval":3,"difficulty":2.238040846893658,"stability":12.069393846323678,"retrievability":0.9207694336928869,"grade":2,"lapses":0,"reps":4,"review":"20220301164436364"}]
+interval: 3
+lapses: 0
+modified: 20220311044418222
+modifier: @oeyoews
+reps: 4
+retrievability: 0.9207694336928869
+review: 20220301164436364
+stability: 12.069393846323678
+tags: EnglishWord ?
+title: proposal
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+proposal
+英 [prə'pəʊz(ə)l]  美 [prə'pozl]
+n. 提议，建议；求婚
+CET4 TEM4  ( proposals )
+"""
+<<<

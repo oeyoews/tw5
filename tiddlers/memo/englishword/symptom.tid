@@ -1,0 +1,24 @@
+created: 20220225020553582
+creator: oeyoews
+difficulty: 2.6756851053921578
+due: 20220318010842033
+grade: 2
+history: [{"due":"20220308104837633","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104837633"}]
+interval: 3
+lapses: 0
+modified: 20220311044418231
+modifier: @oeyoews
+reps: 2
+retrievability: 0.04301436359277706
+review: 20220310010842032
+stability: 7.78671456900173
+tags: EnglishWord ?
+title: symptom
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""symptom
+英 ['sɪm(p)təm]  美 ['sɪmptəm]
+n. [临床] 症状；征兆
+"""
+<<<

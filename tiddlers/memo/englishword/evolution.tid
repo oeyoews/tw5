@@ -1,0 +1,26 @@
+created: 20220224113311034
+creator: oeyoews
+difficulty: 1
+due: 20220424053941841
+grade: 1
+history: [{"due":"20220304083431886","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303083431886"}]
+interval: 3
+lapses: 0
+modified: 20220311044418205
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220306053941841
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: evolution
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""evolution
+英 [,iːvə'luːʃ(ə)n; 'ev-]  美 [ˌɛvəˈluʃən; (occas.) ˌ ivəˈluʃən]
+n. 演变；进化论；进展
+"""
+<<<
+---
+* evolve

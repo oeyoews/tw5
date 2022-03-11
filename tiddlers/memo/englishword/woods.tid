@@ -1,0 +1,27 @@
+created: 20220226021744293
+creator: oeyoews
+difficulty: 2.0596188436347647
+due: 20220315013542488
+grade: 2
+history: [{"due":"20220310154501511","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220309154501511"}]
+interval: 1
+lapses: 0
+modified: 20220311044418234
+modifier: @oeyoews
+reps: 2
+retrievability: 0.34910423292122506
+review: 20220310013542487
+stability: 5.365067619210177
+tags: EnglishWord ?
+title: woods
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""woods
+英/美 [wʊdz]
+n. [林] 树林；__森林__；木头（wood的复数）
+v. 供以木材；用森林覆盖（wood的第三人称单数）
+n. (Woods)人名；(英、葡)伍兹
+CET4 TEM4  ( woods )
+"""
+<<<

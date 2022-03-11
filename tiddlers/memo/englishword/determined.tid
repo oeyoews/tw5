@@ -1,0 +1,26 @@
+created: 20220221092727024
+creator: oeyoews
+difficulty: 3.9830495523194847
+due: 20220311070109163
+grade: 1
+history: [{"due":"20220308062259111","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307062259111"}]
+interval: 1
+lapses: 0
+modified: 20220311044418202
+modifier: @oeyoews
+reps: 2
+retrievability: 0.35037881052010367
+review: 20220308070109163
+stability: 3.4189622108044793
+tags: EnglishWord ?
+title: determined
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+determined
+英 [dɪ'tɜːmɪnd]  美 [dɪ'tɝmɪnd]
+adj. 决定了的；坚决的
+v. 决定；断定（determine的过去分词）
+"""
+<<<

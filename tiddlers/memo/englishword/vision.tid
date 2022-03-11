@@ -1,0 +1,27 @@
+created: 20220221131332453
+creator: oeyoews
+difficulty: 1.368613972773329
+due: 20220406063047895
+grade: 1
+history: [{"due":"20220306113309099","interval":1,"difficulty":1.2654449724276537,"stability":7.241586195028279,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":2,"review":"20220227113309099"},{"due":"20220306113309099","interval":1,"difficulty":1.2654449724276537,"stability":7.241586195028279,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":2,"review":"20220227113309099"}]
+interval: 7
+lapses: 0
+modified: 20220311044418234
+modifier: @oeyoews
+reps: 3
+retrievability: 0.9031690003456756
+review: 20220306063047894
+stability: 31.110474406893033
+tags: EnglishWord ?
+title: vision
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+vision
+英 ['vɪʒ(ə)n]  美 ['vɪʒən]
+n. 视力；美景；眼力；幻象；想象力；幻视（漫威漫画旗下超级英雄）
+vt. 想象；显现；梦见
+CET4 TEM4  ( visions )
+"""
+<<<

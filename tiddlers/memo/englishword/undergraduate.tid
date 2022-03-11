@@ -1,0 +1,27 @@
+created: 20220301005311544
+creator: oeyoews
+difficulty: 1
+due: 20220417054855443
+grade: 2
+history: [{"due":"20220305033557602","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220304033557602"}]
+interval: 2
+lapses: 0
+modified: 20220311044418232
+modifier: @oeyoews
+page-cover: https://cdn.jsdelivr.net/gh/oeyoews/img/cat-scape.jpg
+reps: 2
+retrievability: 0.14063024105763047
+review: 20220306054855443
+stability: 41.943552755493144
+tags: EnglishWord ?
+title: undergraduate
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""undergraduate
+英 [ʌndə'grædjʊət]  美 [,ʌndɚ'ɡrædʒuət]
+n. 大学生；大学肄业生
+adj. 大学生的
+CET4 TEM4  ( undergraduates )
+"""
+<<<

@@ -1,0 +1,26 @@
+created: 20220221112442186
+creator: oeyoews
+difficulty: 3.9830495523194847
+due: 20220311070838199
+grade: 1
+history: [{"due":"20220308062347048","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307062347048"}]
+interval: 1
+lapses: 0
+modified: 20220311044418213
+modifier: @oeyoews
+reps: 2
+retrievability: 0.35037881052010367
+review: 20220308070838198
+stability: 3.4189622108044793
+tags: EnglishWord ?
+title: investment
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+investment
+英 [ɪn'ves(t)m(ə)nt]  美 [ɪn'vɛstmənt]
+n. 投资；投入；封锁
+CET4 TEM4  ( investments )
+"""
+<<<

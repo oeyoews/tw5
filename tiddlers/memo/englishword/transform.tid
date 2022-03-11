@@ -1,0 +1,27 @@
+created: 20220221130750072
+creator: oeyoews
+difficulty: 2.7554360526608637
+due: 20220316083233290
+grade: 2
+history: [{"due":"20220308062356317","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307062356317"}]
+interval: 2
+lapses: 0
+modified: 20220311044418232
+modifier: @oeyoews
+reps: 2
+retrievability: 0.1227653108614827
+review: 20220309083233290
+stability: 6.693233418822354
+tags: EnglishWord ?
+title: transform
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+transform
+英 [træns'fɔːm; trɑːns-; -nz-]  美 [træns'fɔrm]
+vt. 改变，使…变形；转换
+vi. 变换，改变；转化
+CET4 TEM4  ( transforming, transformed, transforms )
+"""
+<<<

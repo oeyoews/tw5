@@ -1,0 +1,25 @@
+created: 20220222032103646
+creator: oeyoews
+difficulty: 1
+due: 20220316041645622
+grade: 2
+history: [{"due":"20220303063816921","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302063816921"},{"due":"20220307001949004","interval":4,"difficulty":1.1759478447552063,"stability":0.07545638712607733,"retrievability":0.019776864699927257,"grade":0,"lapses":1,"reps":1,"review":"20220306001949004"}]
+interval: 1
+lapses: 1
+modified: 20220311044418231
+modifier: @oeyoews
+reps: 2
+retrievability: 0.24750856222931497
+review: 20220307041645622
+stability: 8.594869020011865
+tags: EnglishWord ?
+title: thoroughly
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+thoroughly
+英 [ˈθʌrəli]  美 [ˈθʌrəʊli; θʌroli]
+adv. 彻底地，完全地
+"""
+<<<

@@ -1,0 +1,25 @@
+created: 20220223122146235
+creator: oeyoews
+difficulty: 2.07495476185396
+due: 20220311015119672
+grade: 0
+history: [{"due":"20220304074320757","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303074320757"},{"due":"20220307054159585","interval":3,"difficulty":1.2089083031776646,"stability":0.07476910459712456,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306054159585"},{"due":"20220307163757625","interval":0,"difficulty":1.4089083031776644,"stability":0.07476910459712456,"retrievability":1,"grade":1,"lapses":1,"reps":2,"review":"20220306163757625"},{"due":"20220309070834502","interval":1,"difficulty":1.8532603992758465,"stability":0.05500845146445375,"retrievability":0.2443520960981822,"grade":0,"lapses":2,"reps":1,"review":"20220308070834502"}]
+interval: 2
+lapses: 3
+modified: 20220311044418213
+modifier: @oeyoews
+reps: 1
+retrievability: 0.02169436257811349
+review: 20220310015119672
+stability: 0.040704114555206596
+tags: EnglishWord ?
+title: intervention
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""intervention
+英 [ɪntə'venʃ(ə)n]  美 [,ɪntɚ'vɛnʃən]
+n. 介入；调停；妨碍
+CET6+ TEM4  ( interventions )
+"""
+<<<

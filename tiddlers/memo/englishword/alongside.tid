@@ -1,0 +1,26 @@
+created: 20220221091624983
+creator: oeyoews
+difficulty: 1.210949894126067
+due: 52990913012503558
+grade: 1
+history: [{"due":"20220225163556321","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163556321"},{"due":"20220305013453321","interval":1,"difficulty":1.1172714132007704,"stability":7.498354706664073,"retrievability":0.7318502915686316,"grade":2,"lapses":0,"reps":3,"review":"20220226013453321"},{"due":"20220305013453321","interval":1,"difficulty":1.1172714132007704,"stability":7.498354706664073,"retrievability":0.7318502915686316,"grade":2,"lapses":0,"reps":3,"review":"20220226013453321"}]
+interval: 8
+lapses: 0
+modified: 20220311044418194
+modifier: @oeyoews
+reps: 4
+retrievability: 0.8936784809252966
+review: 20220306012503558
+stability: 1197091.4109935933
+tags: EnglishWord ?
+title: alongside
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+alongside
+英 [əlɒŋ'saɪd]  美 [ə'lɔŋ'saɪd]
+adv. 在旁边
+prep. 在……旁边
+"""
+<<<

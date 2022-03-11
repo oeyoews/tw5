@@ -1,0 +1,25 @@
+created: 20220225034158956
+creator: oeyoews
+difficulty: 2.9830495523194847
+due: 20220312070608213
+grade: 2
+history: [{"due":"20220308105102557","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307105102557"}]
+interval: 1
+lapses: 0
+modified: 20220311044418210
+modifier: @oeyoews
+reps: 2
+retrievability: 0.35037881052010367
+review: 20220308070608213
+stability: 4.163309058210984
+tags: EnglishWord ?
+title: hormone
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""hormone
+英 ['hɔːməʊn]  美 ['hɔrmon]
+n. [生理] 激素，荷尔蒙
+CET6 TEM8  ( hormones )
+"""
+<<<

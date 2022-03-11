@@ -1,0 +1,25 @@
+created: 20220224013150841
+creator: oeyoews
+difficulty: 1
+due: 20220316041702446
+grade: 2
+history: [{"due":"20220304075222198","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075222198"},{"due":"20220307054605420","interval":3,"difficulty":1.2089083031776646,"stability":0.07442546333264817,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306054605420"}]
+interval: 1
+lapses: 1
+modified: 20220311044418232
+modifier: @oeyoews
+reps: 2
+retrievability: 0.24276740922146145
+review: 20220307041702445
+stability: 8.576318957033282
+tags: EnglishWord ?
+title: tum
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""tum
+英/美 [tʌm]
+n. 弦音器；鼓所发出之声
+adj. 空的；中空的
+"""
+<<<

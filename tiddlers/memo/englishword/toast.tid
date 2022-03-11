@@ -1,0 +1,30 @@
+created: 20220221090122456
+creator: oeyoews
+difficulty: 3.21715730213948
+due: 20220317164521377
+grade: 2
+history: [{"due":"20220302083033830","interval":2,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20220224083033830"},{"due":"20220317164521377","interval":5,"difficulty":3.21715730213948,"stability":15.798958562813516,"retrievability":0.9171573021394794,"grade":2,"lapses":0,"reps":3,"review":"20220301164521376"}]
+interval: 5
+lapses: 0
+modified: 20220311044418232
+modifier: @oeyoews
+reps: 3
+retrievability: 0.9171573021394794
+review: 20220301164521376
+stability: 15.798958562813516
+tags: EnglishWord ?
+title: toast
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+toast
+英 [təʊst]  美 [tost]
+n. 干杯；烤面包；接受敬酒的人；（在某领域）广受赞誉的人
+vt. 向…祝酒，为…干杯
+vi. 烤火，取暖；使暖和；烘烤（面包片等）
+CET4 TEM4  ( toasting, toasted, toasts )
+"""
+<<<
+
+*  [[diff|http://blog.sina.com.cn/s/blog_6b34a2420102wbia.html]]

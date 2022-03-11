@@ -1,0 +1,24 @@
+created: 20220303021238981
+creator: oeyoews
+difficulty: 1.3426129596334564
+due: 20220314101505995
+grade: 1
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220306014644000","interval":3,"difficulty":1.2637826101009904,"stability":0.07683095218398285,"retrievability":0.06378261010099043,"grade":0,"lapses":1,"reps":1,"review":"20220305014643999"},{"due":"20220307053040768","interval":1,"difficulty":1.7175520764638095,"stability":0.055390315029607076,"retrievability":0.2537694663628191,"grade":0,"lapses":2,"reps":1,"review":"20220306053040768"},{"due":"20220308012827829","interval":1,"difficulty":2.066799932251151,"stability":0.04084556029864662,"retrievability":0.1492478557873414,"grade":0,"lapses":3,"reps":1,"review":"20220307012827829"}]
+interval: 1
+lapses: 3
+modified: 20220311044418219
+modifier: @oeyoews
+reps: 2
+retrievability: 0.07581302738230539
+review: 20220308101505995
+stability: 5.785889426651239
+tags: EnglishWord ?
+title: precedence
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""precedence
+英 ['presɪd(ə)ns; prɪ'siːd(ə)ns]  美 ['presidəns]
+n. 优先；居先
+"""
+<<<

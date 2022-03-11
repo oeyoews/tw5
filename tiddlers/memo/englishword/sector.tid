@@ -1,0 +1,27 @@
+created: 20220221131737359
+creator: oeyoews
+difficulty: 1.368613972773329
+due: 20220406063026945
+grade: 1
+history: [{"due":"20220306113054829","interval":1,"difficulty":1.2654449724276537,"stability":7.241586195028279,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":2,"review":"20220227113054829"},{"due":"20220306113054829","interval":1,"difficulty":1.2654449724276537,"stability":7.241586195028279,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":2,"review":"20220227113054829"}]
+interval: 7
+lapses: 0
+modified: 20220311044418228
+modifier: @oeyoews
+reps: 3
+retrievability: 0.9031690003456756
+review: 20220306063026945
+stability: 31.110474406893033
+tags: EnglishWord ?
+title: sector
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+sector
+英 ['sektə]  美 ['sɛktɚ]
+n. 部门；扇形，扇区；象限仪；函数尺
+vt. 把…分成扇形
+CET4 TEM4  ( sectors )
+"""
+<<<

@@ -1,0 +1,26 @@
+created: 20220221091508920
+creator: oeyoews
+difficulty: 1
+due: 20220326012731724
+grade: 2
+history: [{"due":"20220225163553272","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163553272"},{"due":"20220305013449765","interval":1,"difficulty":1.1172714132007704,"stability":7.498354706664073,"retrievability":0.7318502915686316,"grade":2,"lapses":0,"reps":3,"review":"20220226013449765"},{"due":"20220305013449765","interval":1,"difficulty":1.1172714132007704,"stability":7.498354706664073,"retrievability":0.7318502915686316,"grade":2,"lapses":0,"reps":3,"review":"20220226013449765"}]
+interval: 8
+lapses: 0
+modified: 20220311044418203
+modifier: @oeyoews
+reps: 4
+retrievability: 0.8936784809252966
+review: 20220306012731724
+stability: 19.81675124772529
+tags: EnglishWord ?
+title: doubtless
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+doubtless
+英 ['daʊtlɪs]  美 ['daʊtləs]
+adv. 无疑地；确定地；大概，多半
+adj. 无疑的；确定的
+"""
+<<<

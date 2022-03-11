@@ -1,0 +1,25 @@
+created: 20220225020445964
+creator: oeyoews
+difficulty: 2.9830495523194847
+due: 20220312070544064
+grade: 2
+history: [{"due":"20220308104835443","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104835442"}]
+interval: 1
+lapses: 0
+modified: 20220311044418207
+modifier: @oeyoews
+reps: 2
+retrievability: 0.35037881052010367
+review: 20220308070544063
+stability: 4.163309058210984
+tags: EnglishWord ?
+title: function
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""function
+英 ['fʌŋ(k)ʃ(ə)n]  美 ['fʌŋkʃən]
+n. 功能；[数] 函数；职责；盛大的集会
+vi. __运行__；活动；行使职责
+"""
+<<<

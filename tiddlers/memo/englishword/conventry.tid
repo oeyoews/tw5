@@ -1,0 +1,25 @@
+created: 20220221112411109
+creator: oeyoews
+difficulty: 3.9830495523194847
+due: 20220311065623662
+grade: 1
+history: [{"due":"20220308062343435","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307062343435"}]
+interval: 1
+lapses: 0
+modified: 20220311044418200
+modifier: @oeyoews
+reps: 2
+retrievability: 0.35037881052010367
+review: 20220308065623662
+stability: 3.4189622108044793
+tags: EnglishWord ?
+title: conventry
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+coventry
+英/美 ['kɔvəntri]
+n. 放逐；受排斥的状态
+"""
+<<<

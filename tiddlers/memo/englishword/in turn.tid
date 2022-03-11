@@ -1,0 +1,23 @@
+created: 20220303082555220
+creator: oeyoews
+difficulty: 1
+due: 20220406053140894
+grade: 1
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220306003458779","interval":3,"difficulty":1.2637826101009904,"stability":0.07683095218398285,"retrievability":0.06378261010099043,"grade":0,"lapses":1,"reps":1,"review":"20220305003458779"}]
+interval: 1
+lapses: 1
+modified: 20220311044418211
+modifier: @oeyoews
+reps: 2
+retrievability: 0.2537694663628191
+review: 20220306053140894
+stability: 30.891492188221793
+tags: EnglishWord ?
+title: in turn
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""in turn
+反过来；转而；轮流，依次
+"""
+<<<

@@ -1,0 +1,19 @@
+caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
+created: 20220119011932302
+creator: oeyoews
+difficulty: 4.3537410130701755
+due: 20220311052546167
+grade: 0
+history: [{"due":"20220302005127168","interval":1,"difficulty":1.8682990579651733,"stability":0.08507834253141604,"retrievability":0.3995465906210927,"grade":0,"lapses":1,"reps":1,"review":"20220301005127168"},{"due":"20220302163431865","interval":0,"difficulty":3.0682990579651737,"stability":0.06302758633267336,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220301163431865"},{"due":"20220302163431865","interval":0,"difficulty":3.0682990579651737,"stability":0.06302758633267336,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220301163431865"},{"due":"20220305051824523","interval":2,"difficulty":3.3036187610371575,"stability":0.04367447516744718,"retrievability":0.03531970307198372,"grade":0,"lapses":3,"reps":1,"review":"20220304051824523"},{"due":"20220307052000677","interval":2,"difficulty":3.5116468425271763,"stability":0.030398849415162195,"retrievability":0.008028081490018674,"grade":0,"lapses":4,"reps":1,"review":"20220306052000677"},{"due":"20220308025219314","interval":1,"difficulty":3.742890539639052,"stability":0.022416518774677457,"retrievability":0.031243697111875784,"grade":0,"lapses":5,"reps":1,"review":"20220307025219313"},{"due":"20220309065139068","interval":1,"difficulty":3.9519846493327226,"stability":0.01660656555253488,"retrievability":0.009094109693670313,"grade":0,"lapses":6,"reps":1,"review":"20220308065139068"},{"due":"20220309164341170","interval":0,"difficulty":4.151984649332722,"stability":0.01660656555253488,"retrievability":1,"grade":1,"lapses":6,"reps":2,"review":"20220308164341170"}]
+interval: 1
+lapses: 7
+modified: 20220311044458945
+modifier: @oeyoews
+reps: 1
+retrievability: 0.0017563637374525308
+review: 20220310052546167
+stability: 0.012259843705039443
+tags: [[必考核心词汇 Word List 2]] ?
+title: 2022hkw/20220119011932302308
+type: text/vnd.tiddlywiki
+word: discreet

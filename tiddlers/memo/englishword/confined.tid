@@ -1,0 +1,29 @@
+created: 20220221112615445
+creator: oeyoews
+difficulty: 4.39982395668329
+due: 20220315083302895
+grade: 1
+history: [{"due":"20220225163755941","interval":0,"difficulty":4.185421121632139,"stability":0.16205398577412577,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220224163755941"},{"due":"20220227013804852","interval":1,"difficulty":4.907385000235099,"stability":0.1200525453955683,"retrievability":0.5219638786029598,"grade":0,"lapses":2,"reps":1,"review":"20220226013804852"},{"due":"20220227163820155","interval":0,"difficulty":5.107385000235099,"stability":0.1200525453955683,"retrievability":1,"grade":1,"lapses":2,"reps":2,"review":"20220226163820155"},{"due":"20220301021559063","interval":1,"difficulty":5.7231562682682,"stability":0.04669198436083444,"retrievability":0.41577126803310094,"grade":0,"lapses":3,"reps":1,"review":"20220228021559063"},{"due":"20220304072500736","interval":1,"difficulty":4.027872500866858,"stability":2.8700749054003993,"retrievability":0.10471623259865726,"grade":2,"lapses":3,"reps":2,"review":"20220301072500736"},{"due":"20220304072500736","interval":1,"difficulty":4.027872500866858,"stability":2.8700749054003993,"retrievability":0.10471623259865726,"grade":2,"lapses":3,"reps":2,"review":"20220301072500736"},{"due":"20220307053838482","interval":5,"difficulty":5.060182664525872,"stability":0.030398849415162195,"retrievability":0.8323101636590139,"grade":0,"lapses":4,"reps":1,"review":"20220306053838481"},{"due":"20220309012546110","interval":1,"difficulty":4.291426361637748,"stability":2.193340235174888,"retrievability":0.031243697111875784,"grade":1,"lapses":4,"reps":2,"review":"20220307012546109"}]
+interval: 2
+lapses: 4
+modified: 20220311044418199
+modifier: @oeyoews
+reps: 3
+retrievability: 0.9083975950455423
+review: 20220309083302894
+stability: 6.017898308122594
+tags: EnglishWord ?
+title: confined
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+confined
+英 [kən'faɪnd]  美 [kən'faɪnd]
+adj. 狭窄的；幽禁的；有限制的；在分娩中的
+v. 限制（confine的过去式和过去分词）
+"""
+<<<
+---
+* be confined to
+> 局限于

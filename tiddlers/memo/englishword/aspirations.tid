@@ -1,0 +1,26 @@
+created: 20220221130825814
+creator: oeyoews
+difficulty: 4.766082255944446
+due: 20220311013924880
+grade: 0
+history: [{"due":"20220227163658368","interval":0,"difficulty":3.6476805400532037,"stability":0.11806790392114878,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220226163658368"},{"due":"20220304021107025","interval":1,"difficulty":3.2573632880765775,"stability":3.9411117355116088,"retrievability":0.40968274802337346,"grade":1,"lapses":1,"reps":2,"review":"20220228021107025"},{"due":"20220304021107025","interval":1,"difficulty":3.2573632880765775,"stability":3.9411117355116088,"retrievability":0.40968274802337346,"grade":1,"lapses":1,"reps":2,"review":"20220228021107025"},{"due":"20220307053828690","interval":6,"difficulty":4.309164391868695,"stability":0.055390315029607076,"retrievability":0.8518011037921169,"grade":0,"lapses":2,"reps":1,"review":"20220306053828690"},{"due":"20220310012244344","interval":1,"difficulty":3.6584122476560363,"stability":3.2627976886039773,"retrievability":0.1492478557873414,"grade":1,"lapses":2,"reps":2,"review":"20220307012244343"}]
+interval: 3
+lapses: 3
+modified: 20220311044418194
+modifier: @oeyoews
+reps: 1
+retrievability: 0.9076700082884098
+review: 20220310013924880
+stability: 0.040704114555206596
+tags: EnglishWord ?
+title: aspirations
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+aspirations
+英/美 [,æspə'reiʃən]
+n. 愿望
+CET4 TEM8  ( aspirations )
+"""
+<<<

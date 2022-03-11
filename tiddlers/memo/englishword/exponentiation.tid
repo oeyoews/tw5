@@ -1,0 +1,24 @@
+created: 20220303021157963
+creator: oeyoews
+difficulty: 1
+due: 20220315013122987
+grade: 2
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220306003302034","interval":3,"difficulty":1.2637826101009904,"stability":0.07958008229979391,"retrievability":0.06378261010099043,"grade":0,"lapses":1,"reps":1,"review":"20220305003302034"},{"due":"20220307053602243","interval":1,"difficulty":1.729863251782483,"stability":0.055390315029607076,"retrievability":0.2660806416814927,"grade":0,"lapses":2,"reps":1,"review":"20220306053602243"}]
+interval: 1
+lapses: 2
+modified: 20220311044418206
+modifier: @oeyoews
+reps: 2
+retrievability: 0.1492478557873414
+review: 20220307013122987
+stability: 8.007071752227509
+tags: EnglishWord ?
+title: exponentiation
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""exponentiation
+英 [ˌekspəˌnenʃɪˈeɪʃən]  美 [ˌekspoʊˌnenʃɪˈeɪʃn]
+n. [数] 取幂，求幂；乘方
+"""
+<<<

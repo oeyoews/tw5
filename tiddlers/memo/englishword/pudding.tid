@@ -1,0 +1,26 @@
+created: 20220221091920610
+creator: oeyoews
+difficulty: 1
+due: 20220325052850034
+grade: 2
+history: [{"due":"20220225163607481","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163607480"},{"due":"20220227013506757","interval":1,"difficulty":3.1172714132007706,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20220226013506756"},{"due":"20220305112921488","interval":1,"difficulty":1.8392352918037302,"stability":5.759954723180534,"retrievability":0.5219638786029598,"grade":2,"lapses":1,"reps":2,"review":"20220227112921488"},{"due":"20220305112921488","interval":1,"difficulty":1.8392352918037302,"stability":5.759954723180534,"retrievability":0.5219638786029598,"grade":2,"lapses":1,"reps":2,"review":"20220227112921488"}]
+interval: 7
+lapses: 1
+modified: 20220311044418223
+modifier: @oeyoews
+reps: 3
+retrievability: 0.8798152824711568
+review: 20220306052850034
+stability: 18.716384520926496
+tags: EnglishWord ?
+title: pudding
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+pudding
+英 ['pʊdɪŋ]  美 ['pʊdɪŋ]
+n. 布丁
+CET6 TEM4  ( puddings )
+"""
+<<<

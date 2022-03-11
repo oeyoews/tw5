@@ -1,0 +1,26 @@
+created: 20220222094550153
+creator: oeyoews
+difficulty: 1
+due: 20220423003341528
+grade: 1
+history: [{"due":"20220303064039444","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064039444"}]
+interval: 3
+lapses: 0
+modified: 20220311044418207
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305003341527
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: gizmo
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+gizmo
+英 ['gɪzməʊ]  美 ['ɡɪzmo]
+n. 小发明（等于gismo ）
+( gizmos )
+"""
+<<<

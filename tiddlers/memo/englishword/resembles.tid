@@ -1,0 +1,29 @@
+created: 20220222113124056
+creator: oeyoews
+difficulty: 1
+due: 20220423052251236
+grade: 1
+history: [{"due":"20220303064200987","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064200987"}]
+interval: 3
+lapses: 0
+modified: 20220311044418224
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305052251235
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: resembles
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+似乎 
+CET4 TEM4  ( resembling, resembled, resembles )
+
+1. [no cont]If one thing or person resembles another, they are similar to each other. 像
+  例: 
+	Some of the commercially produced venison resembles beef in flavour.
+	一些商业化生产的鹿肉味道像牛肉。
+"""
+<<<

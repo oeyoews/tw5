@@ -1,0 +1,27 @@
+created: 20220222010527490
+creator: oeyoews
+difficulty: 3.9830495523194847
+due: 20220311065756798
+grade: 1
+history: [{"due":"20220308104539489","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104539489"}]
+interval: 1
+lapses: 0
+modified: 20220311044418202
+modifier: @oeyoews
+reps: 2
+retrievability: 0.35037881052010367
+review: 20220308065756798
+stability: 3.4189622108044793
+tags: EnglishWord ?
+title: cynic
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+cynic
+英 ['sɪnɪk]  美 ['sɪnɪk]
+n. 愤世嫉俗者；犬儒学派的人
+adj. 犬儒学派的
+TEM8  ( cynics )
+"""
+<<<

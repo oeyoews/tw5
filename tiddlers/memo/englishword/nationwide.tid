@@ -1,0 +1,27 @@
+created: 20220223023937997
+creator: oeyoews
+difficulty: 1
+due: 20220423013520418
+grade: 2
+history: [{"due":"20220303064327990","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064327990"}]
+interval: 3
+lapses: 0
+modified: 20220311044418215
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305013520418
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: nationwide
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+nationwide
+英 ['neɪʃ(ə)nwaɪd; -'waɪd]  美 [,neʃn'waɪd]
+adj. 全国范围的；全国性的
+adv. 在全国
+CET4 TEM4
+"""
+<<<

@@ -1,0 +1,27 @@
+created: 20220222032831778
+creator: oeyoews
+difficulty: 1
+due: 20220423003113034
+grade: 1
+history: [{"due":"20220303063840730","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302063840730"}]
+interval: 3
+lapses: 0
+modified: 20220311044418204
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305003113034
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: emergency
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+emergency
+英 [ɪ'mɜːdʒ(ə)nsɪ]  美 [ɪ'mɝdʒənsi]
+n. 紧急情况；突发事件；非常时刻
+adj. 紧急的；备用的
+CET4  ( emergencies )
+"""
+<<<

@@ -1,0 +1,25 @@
+created: 20220224114643291
+creator: oeyoews
+difficulty: 1
+due: 20220401015056068
+grade: 2
+history: [{"due":"20220304234946041","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303234946041"}]
+interval: 1
+lapses: 0
+modified: 20220311044418219
+modifier: @oeyoews
+reps: 2
+retrievability: 0.3750069880117309
+review: 20220305015056068
+stability: 26.783090178331225
+tags: EnglishWord ?
+title: poverty
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""poverty
+英 ['pɒvətɪ]  美 ['pɑvɚti]
+n. 贫困；困难；缺少；低劣
+CET4 TEM4
+"""
+<<<

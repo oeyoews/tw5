@@ -1,0 +1,28 @@
+created: 20220224032545870
+creator: oeyoews
+difficulty: 1
+due: 20220424012459809
+grade: 1
+history: [{"due":"20220304080313807","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303080313807"}]
+interval: 3
+lapses: 0
+modified: 20220311044418228
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220306012459808
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: separate
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""separate
+英 [(for v.) ˈsepəreɪt; (for adj.) ˈseprət]  美 [(for v.) sɛpəˌret; (for adj.) sɛprɪt]
+vt. 使分离；使分开；使分居
+vi. 分开；隔开；分居
+adj. 单独的；分开的；不同的；各自的；
+n. .分开；抽印本
+CET4 TEM4  ( separating, separated, separates )
+"""
+<<<

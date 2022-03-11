@@ -1,0 +1,27 @@
+created: 20220222005054172
+creator: oeyoews
+difficulty: 1
+due: 20220324062355850
+grade: 2
+history: [{"due":"20220306112918514","interval":1,"difficulty":1.2654449724276537,"stability":7.241586195028279,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":2,"review":"20220227112918513"},{"due":"20220306112918514","interval":1,"difficulty":1.2654449724276537,"stability":7.241586195028279,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":2,"review":"20220227112918513"}]
+interval: 7
+lapses: 0
+modified: 20220311044418222
+modifier: @oeyoews
+reps: 3
+retrievability: 0.9031690003456756
+review: 20220306062355850
+stability: 18.29030744992418
+tags: EnglishWord ?
+title: promote
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+promote
+英 [prə'məʊt]  美 [prə'mot]
+vt. 促进；提升；推销；发扬
+vi. 成为王后或其他大于卒的子
+CET4 TEM4  ( promoting, promoted, promotes )
+"""
+<<<

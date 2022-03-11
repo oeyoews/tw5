@@ -1,0 +1,24 @@
+created: 20220224020913678
+creator: oeyoews
+difficulty: 1
+due: 20220316013055773
+grade: 1
+history: [{"due":"20220304075828112","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075828112"},{"due":"20220307054540935","interval":3,"difficulty":1.2089083031776646,"stability":0.07442546333264817,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306054540935"}]
+interval: 1
+lapses: 1
+modified: 20220311044418229
+modifier: @oeyoews
+reps: 2
+retrievability: 0.24276740922146145
+review: 20220307013055772
+stability: 8.576318957033282
+tags: EnglishWord ?
+title: specifics
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""specifics
+英/美 [spə'sɪfɪks]
+n. 细节；特性（specific的复数）；详情
+"""
+<<<

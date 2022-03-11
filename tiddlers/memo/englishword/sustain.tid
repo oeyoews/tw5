@@ -1,0 +1,26 @@
+created: 20220222004415048
+creator: oeyoews
+difficulty: 3.6756851053921578
+due: 20220316014048637
+grade: 1
+history: [{"due":"20220308062447209","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307062447209"}]
+interval: 3
+lapses: 0
+modified: 20220311044418231
+modifier: @oeyoews
+reps: 2
+retrievability: 0.04301436359277706
+review: 20220310014048637
+stability: 6.25481452551458
+tags: EnglishWord ?
+title: sustain
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+sustain
+英 [sə'steɪn]  美 [sə'sten]
+vt. 维持；支撑，承担；忍受；供养；证实
+CET4 TEM4  ( sustaining, sustained, sustains )
+"""
+<<<

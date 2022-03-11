@@ -1,0 +1,26 @@
+created: 20220225094855113
+creator: oeyoews
+difficulty: 3.0596188436347647
+due: 20220314014105491
+grade: 1
+history: [{"due":"20220310154458797","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220309154458797"}]
+interval: 1
+lapses: 0
+modified: 20220311044418224
+modifier: @oeyoews
+reps: 2
+retrievability: 0.34910423292122506
+review: 20220310014105490
+stability: 4.091082244434676
+tags: EnglishWord ?
+title: retreat
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""retreat
+英 [rɪ'triːt]  美 [rɪ'trit]
+n. 撤退；休息寓所；撤退
+vi. 撤退；退避；向后倾
+vt. 退（棋）；使后退
+"""
+<<<

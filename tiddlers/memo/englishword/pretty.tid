@@ -1,0 +1,28 @@
+created: 20220225094706227
+creator: oeyoews
+difficulty: 3.9830495523194847
+due: 20220311150031129
+grade: 1
+history: [{"due":"20220308151440814","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307151440814"}]
+interval: 1
+lapses: 0
+modified: 20220311044418220
+modifier: @oeyoews
+reps: 2
+retrievability: 0.35037881052010367
+review: 20220308150031129
+stability: 3.4189622108044793
+tags: EnglishWord ?
+title: pretty
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""pretty
+英 ['prɪtɪ]  美 [ˈprɪtɪ]
+adj. 漂亮的；可爱的；优美的
+__adv. 相当地；颇__
+n. 有吸引力的事物（尤指饰品）；漂亮的人
+n. Pretty，普雷蒂（人名）
+CET4 TEM4  ( prettier, prettiest )
+"""
+<<<

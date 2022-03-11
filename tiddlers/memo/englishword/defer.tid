@@ -1,0 +1,27 @@
+created: 20220227084717917
+creator: oeyoews
+difficulty: 1
+due: 20220417053728766
+grade: 2
+history: [{"due":"20220305033501801","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220304033501801"}]
+interval: 2
+lapses: 0
+modified: 20220311044418202
+modifier: @oeyoews
+reps: 2
+retrievability: 0.14063024105763047
+review: 20220306053728766
+stability: 41.943552755493144
+tags: EnglishWord ?
+title: defer
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""defer
+英 [dɪ'fɜː]  美 [dɪ'fɝ]
+vi. 推迟；延期；服从
+vt. 使推迟；使延期
+n. (Defer)人名；(法)德费
+CET6+ TEM8  ( deferring, deferred, defers )
+"""
+<<<

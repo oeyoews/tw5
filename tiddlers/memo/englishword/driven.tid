@@ -1,0 +1,26 @@
+created: 20220222110059449
+creator: oeyoews
+difficulty: 1
+due: 20220423003023733
+grade: 1
+history: [{"due":"20220303064051511","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064051511"}]
+interval: 3
+lapses: 0
+modified: 20220311044418204
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305003023732
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: driven
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+driven
+英 ['drɪvn]  美 ['drɪvn]
+adj. 被动的，受到驱策的；有紧迫感的；（人）发愤图强的
+v. 驾驶，开车（drive的过去分词）
+"""
+<<<

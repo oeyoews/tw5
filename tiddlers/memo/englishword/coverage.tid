@@ -1,0 +1,25 @@
+created: 20220305032630637
+creator: oeyoews
+difficulty: 3.654139149508474
+due: 20220319015056006
+grade: 2
+history: [{"due":"20220307114915847","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306114915847"},{"due":"20220310012237526","interval":1,"difficulty":4.550378810520104,"stability":3.1236112149237947,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220307012237525"}]
+interval: 3
+lapses: 0
+modified: 20220311044418200
+modifier: @oeyoews
+reps: 3
+retrievability: 0.9037603389883699
+review: 20220310015056006
+stability: 9.209823881730252
+tags: EnglishWord ?
+title: coverage
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+coverage
+英 ['kʌv(ə)rɪdʒ]  美 ['kʌvərɪdʒ]
+n. 覆盖，覆盖范围；__新闻报道__
+"""
+<<<

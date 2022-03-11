@@ -1,0 +1,25 @@
+created: 20220221092200635
+creator: oeyoews
+difficulty: 2.9830495523194847
+due: 20220312070748772
+grade: 2
+history: [{"due":"20220308061348944","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061348944"}]
+interval: 1
+lapses: 0
+modified: 20220311044418212
+modifier: @oeyoews
+reps: 2
+retrievability: 0.35037881052010367
+review: 20220308070748772
+stability: 4.163309058210984
+tags: EnglishWord ?
+title: intake
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+intake
+英 ['ɪnteɪk]  美 ['ɪn'tek]
+n. 摄取量；通风口；引入口；引入的量
+"""
+<<<

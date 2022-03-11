@@ -1,0 +1,25 @@
+created: 20220227082726994
+creator: oeyoews
+difficulty: 1
+due: 20220417053118053
+grade: 1
+history: [{"due":"20220305033515910","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220304033515910"}]
+interval: 2
+lapses: 0
+modified: 20220311044418206
+modifier: @oeyoews
+reps: 2
+retrievability: 0.14063024105763047
+review: 20220306053118053
+stability: 41.943552755493144
+tags: EnglishWord ?
+title: fiancial
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""financial
+英 [faɪ'nænʃ(ə)l; fɪ-]  美 [faɪˈnænʃəl;fəˈnæ-]
+adj. 金融的；财政的，财务的
+CET4 TEM4
+"""
+<<<

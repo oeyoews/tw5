@@ -1,0 +1,24 @@
+created: 20220225015424420
+creator: oeyoews
+difficulty: 1
+due: 20220315041517471
+grade: 2
+history: [{"due":"20220305033459490","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220304033459489"},{"due":"20220306015257867","interval":1,"difficulty":1.53117796806701,"stability":0.07683095218398285,"retrievability":0.3750069880117309,"grade":0,"lapses":1,"reps":1,"review":"20220305015257867"},{"due":"20220307012211164","interval":1,"difficulty":1.984947434429829,"stability":0.055899466449811495,"retrievability":0.2537694663628191,"grade":0,"lapses":2,"reps":1,"review":"20220306012211163"}]
+interval: 1
+lapses: 2
+modified: 20220311044418216
+modifier: @oeyoews
+reps: 2
+retrievability: 0.1518561648168685
+review: 20220307041517471
+stability: 8.029580651599877
+tags: EnglishWord ?
+title: neuro
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""neuro
+英 ['nju:rəʊ]  美 ['nʊro]
+n. 神经
+"""
+<<<

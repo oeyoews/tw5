@@ -1,0 +1,28 @@
+created: 20220226033750878
+creator: oeyoews
+difficulty: 3.5503788105201037
+due: 20220311013216076
+grade: 2
+history: [{"due":"20220307114913156","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306114913155"}]
+interval: 1
+lapses: 0
+modified: 20220311044418226
+modifier: @oeyoews
+reps: 2
+retrievability: 0.35037881052010367
+review: 20220307013216076
+stability: 3.6971315838315895
+tags: EnglishWord ?
+title: seal
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""seal
+英 [sil]  美 [sil]
+n. 密封；__印章__；海豹；封条；标志
+vt. 密封；盖章
+vi. 猎海豹
+n. (Seal)人名；(英)西尔
+CET4  ( sealing, sealed, seals )
+"""
+<<<

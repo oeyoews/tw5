@@ -1,0 +1,28 @@
+created: 20220221121352654
+creator: oeyoews
+difficulty: 1.1055925971131362
+due: 20220416065538042
+grade: 1
+history: [{"due":"20220227163815702","interval":0,"difficulty":1.6476805400532035,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220226163815702"},{"due":"20220308021250884","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":3,"review":"20220228021250883"},{"due":"20220308021250884","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":3,"review":"20220228021250883"}]
+interval: 8
+lapses: 0
+modified: 20220311044418198
+modifier: @oeyoews
+reps: 4
+retrievability: 0.9055925971131363
+review: 20220308065538042
+stability: 39.177764994287756
+tags: EnglishWord ?
+title: colleagues
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+colleagues
+英/美 [ˈkɔli:ɡz]
+n. 同事；同行（colleague的复数）
+CET4 TEM4  ( colleagues )
+"""
+<<<
+---
+* college 专科学院

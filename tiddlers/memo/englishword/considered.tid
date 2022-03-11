@@ -1,0 +1,25 @@
+created: 20220223024410020
+creator: oeyoews
+difficulty: 1
+due: 20220423002727272
+grade: 1
+history: [{"due":"20220303064342466","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064342466"}]
+interval: 3
+lapses: 0
+modified: 20220311044418200
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305002727272
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: considered
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+considered
+英 [kən'sɪdəd]  美 [kən'sɪdɚd]
+adj. 经过深思熟虑的；被尊重的
+"""
+<<<

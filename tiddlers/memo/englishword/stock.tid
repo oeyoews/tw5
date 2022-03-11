@@ -1,0 +1,28 @@
+created: 20220227090624655
+creator: oeyoews
+difficulty: 5.197012136186989
+due: 20220311011109691
+grade: 0
+history: [{"due":"20220308061406219","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061406219"},{"due":"20220310083035298","interval":2,"difficulty":4.755436052660864,"stability":0.07416773238429089,"retrievability":0.1227653108614827,"grade":0,"lapses":1,"reps":1,"review":"20220309083035297"}]
+interval: 1
+lapses: 2
+modified: 20220311044418230
+modifier: @oeyoews
+reps: 1
+retrievability: 0.24157608352612525
+review: 20220310011109690
+stability: 0.05494480753692821
+tags: EnglishWord ?
+title: stock
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""stock
+英 [stɒk]  美 [stɑk]
+n. 股份，股票；库存；血统；树干；家畜
+adj. 存货的，常备的；平凡的
+vt. 进货；备有；装把手于…
+vi. 囤积；办货；出新芽
+n. (Stock)人名；(德、匈、捷)施托克；(英、法、葡、瑞典)斯托克
+"""
+<<<

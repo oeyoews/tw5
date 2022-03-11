@@ -1,0 +1,26 @@
+created: 20220222030904942
+creator: oeyoews
+difficulty: 1
+due: 20220316041649226
+grade: 2
+history: [{"due":"20220303063759702","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302063759702"},{"due":"20220307001952221","interval":4,"difficulty":1.1759478447552063,"stability":0.07545638712607733,"retrievability":0.019776864699927257,"grade":0,"lapses":1,"reps":1,"review":"20220306001952221"}]
+interval: 1
+lapses: 1
+modified: 20220311044418232
+modifier: @oeyoews
+reps: 2
+retrievability: 0.24750856222931497
+review: 20220307041649226
+stability: 8.594869020011865
+tags: EnglishWord ?
+title: thrived
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+thrived
+英/美 [θraiv]
+v. 兴盛，繁荣（thrive的过去式和过去分词形式）
+CET4 TEM4  ( thriving, thrived, thrives )
+"""
+<<<

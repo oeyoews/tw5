@@ -1,0 +1,28 @@
+created: 20220227113016561
+creator: oeyoews
+difficulty: 1
+due: 20220413013232380
+grade: 2
+history: [{"due":"20220307113320383","interval":1,"difficulty":1.371293090683986,"stability":7.113414924099716,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20220228113320383"},{"due":"20220307113320383","interval":1,"difficulty":1.371293090683986,"stability":7.113414924099716,"retrievability":0.4437835062556419,"grade":1,"lapses":0,"reps":2,"review":"20220228113320383"}]
+interval: 7
+lapses: 0
+modified: 20220311044418225
+modifier: @oeyoews
+reps: 3
+retrievability: 0.9015131336415222
+review: 20220307013232380
+stability: 36.95031786204204
+tags: EnglishWord ?
+title: roast
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""roast
+英 [rəʊst]  美 [rost]
+vt. 烤，焙；烘，烘烤；暴露于某种热力下以得温暖；嘲笑，吐槽
+vi. 烤；烘
+adj. 烘烤的；烤过的
+n. 烤肉；烘烤
+CET4 TEM4  ( roasting, roasted, roasts )
+"""
+<<<

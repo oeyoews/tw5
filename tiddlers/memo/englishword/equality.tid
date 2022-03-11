@@ -1,0 +1,25 @@
+created: 20220223065134406
+creator: oeyoews
+difficulty: 1
+due: 20220424012507851
+grade: 1
+history: [{"due":"20220304020021298","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303020021298"}]
+interval: 3
+lapses: 0
+modified: 20220311044418205
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220306012507851
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: equality
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""equality
+英 [ɪ'kwɒlɪtɪ; iː-]  美 [ɪ'kwɑləti]
+n. 平等；相等；[数] 等式
+CET4 TEM4
+"""
+<<<

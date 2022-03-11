@@ -1,0 +1,25 @@
+created: 20220303022611958
+creator: oeyoews
+difficulty: 1
+due: 20220418054717407
+grade: 2
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220305141756134","interval":2,"difficulty":1.359637478076939,"stability":0.07958008229979391,"retrievability":0.15963747807693907,"grade":0,"lapses":1,"reps":1,"review":"20220304141756133"}]
+interval: 2
+lapses: 1
+modified: 20220311044418197
+modifier: @oeyoews
+reps: 2
+retrievability: 0.0707989078776349
+review: 20220306054717407
+stability: 43.111313371155894
+tags: EnglishWord ?
+title: chinning
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""chinning
+英 [ˈtʃɪnɪŋ]  美 [tʃɪn]
+v. 做引体向上动作；（非正式）击打下巴（chin 的现在分词）
+CET4 TEM4
+"""
+<<<

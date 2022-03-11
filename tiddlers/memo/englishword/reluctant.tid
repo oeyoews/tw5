@@ -1,0 +1,26 @@
+created: 20220221100800116
+creator: oeyoews
+difficulty: 1.7406700921128684
+due: 20220327014038334
+grade: 2
+history: [{"due":"20220225163716901","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163716901"},{"due":"20220303013710382","interval":1,"difficulty":2.1172714132007706,"stability":4.915042331306633,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":3,"review":"20220226013710382"},{"due":"20220303013710382","interval":1,"difficulty":2.1172714132007706,"stability":4.915042331306633,"retrievability":0.7318502915686316,"grade":1,"lapses":0,"reps":3,"review":"20220226013710382"},{"due":"20220306014956879","interval":7,"difficulty":3.177932589117153,"stability":0.07683095218398285,"retrievability":0.8606611759163824,"grade":0,"lapses":1,"reps":1,"review":"20220305014956878"},{"due":"20220310063017245","interval":1,"difficulty":2.6317020554799724,"stability":4.415532748562696,"retrievability":0.2537694663628191,"grade":1,"lapses":1,"reps":2,"review":"20220306063017245"}]
+interval: 4
+lapses: 1
+modified: 20220311044418224
+modifier: @oeyoews
+reps: 3
+retrievability: 0.9089680366328962
+review: 20220310014038334
+stability: 17.143158752387436
+tags: EnglishWord ?
+title: reluctant
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+reluctant
+英 [rɪ'lʌkt(ə)nt]  美 [rɪ'lʌktənt]
+adj. 不情愿的；勉强的；顽抗的
+CET4 TEM4
+"""
+<<<

@@ -1,0 +1,27 @@
+created: 20220306035616005
+creator: oeyoews
+difficulty: 1.683833622354247
+due: 20220317002952658
+grade: 2
+history: [{"due":"20220311015552377","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310015552377"}]
+interval: 1
+lapses: 0
+modified: 20220311044418221
+modifier: @oeyoews
+reps: 2
+retrievability: 0.34910423292122506
+review: 20220311002952658
+stability: 6.1623927798054465
+tags: EnglishWord ?
+title: produced
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+produced
+英/美 [prəʊ'djuːst]
+v. 产生；制造（produce的过去式和过去分词）；''创作''
+adj. 引长的；畸形地伸长的
+CET4 TEM4  ( producing, produced, produces )
+"""
+<<<

@@ -1,0 +1,25 @@
+created: 20220225083706744
+creator: oeyoews
+difficulty: 2.6756851053921578
+due: 20220318014338683
+grade: 2
+history: [{"due":"20220308151154353","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307151154353"}]
+interval: 3
+lapses: 0
+modified: 20220311044418234
+modifier: @oeyoews
+reps: 2
+retrievability: 0.04301436359277706
+review: 20220310014338683
+stability: 7.78671456900173
+tags: EnglishWord ?
+title: world
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""world
+英 [wɜːld]  美 [wɝld]
+n. 世界；__领域__；世俗；全人类；物质生活
+CET4 TEM4  ( worlds )
+"""
+<<<

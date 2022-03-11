@@ -1,0 +1,29 @@
+created: 20220223015424209
+creator: oeyoews
+difficulty: 1
+due: 20220423145908227
+grade: 1
+history: [{"due":"20220303064251555","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064251555"}]
+interval: 3
+lapses: 0
+modified: 20220311044418230
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305145908227
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: state
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+state
+英 [steɪt]  美 [stet]
+n. 国家；州；情形
+vt. 规定；声明；陈述
+adj. 国家的；州的；正式的
+n. (State)人名；(罗、瑞典)斯塔特；(英)斯泰特
+CET4 TEM4  ( stating, stated, states )
+"""
+<<<

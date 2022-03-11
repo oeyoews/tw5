@@ -1,0 +1,27 @@
+created: 20220224112940879
+creator: oeyoews
+difficulty: 1
+due: 20220424053137539
+grade: 1
+history: [{"due":"20220304083345523","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303083345522"}]
+interval: 3
+lapses: 0
+modified: 20220311044418217
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220306053137539
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: partiality
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""partiality
+英 [pɑːʃɪ'ælɪtɪ]  美 ['pɑrʃɪ'æləti]
+n. 偏心；偏袒；偏爱；癖好
+TEM8
+"""
+<<<
+---
+* partial

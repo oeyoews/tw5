@@ -1,0 +1,26 @@
+created: 20220224013219862
+creator: oeyoews
+difficulty: 1
+due: 20220416015522129
+grade: 2
+history: [{"due":"20220304075308713","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075308713"}]
+interval: 2
+lapses: 0
+modified: 20220311044418232
+modifier: @oeyoews
+reps: 2
+retrievability: 0.14063024105763047
+review: 20220305015522129
+stability: 41.943552755493144
+tags: EnglishWord ?
+title: trade
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""英 [treɪd]  美 [tred]
+n. 贸易，交易；行业；职业
+vi. 交易，买卖；以物易物
+vt. 用…进行交换
+CET4 TEM4  ( trading, traded, trades )
+"""
+<<<

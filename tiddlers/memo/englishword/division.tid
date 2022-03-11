@@ -1,0 +1,25 @@
+created: 20220303021029758
+creator: oeyoews
+difficulty: 1
+due: 20220414140738464
+grade: 1
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"}]
+interval: 2
+lapses: 0
+modified: 20220311044418203
+modifier: @oeyoews
+reps: 3
+retrievability: 0.15963747807693907
+review: 20220304140738463
+stability: 41.40413658012352
+tags: EnglishWord ?
+title: division
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""division
+英 [dɪ'vɪʒ(ə)n]  美 [də'vɪʒən]
+n. [数] __除法__；部门；分配；分割；师（军队）；赛区
+CET4 TEM4  ( divisions )
+"""
+<<<

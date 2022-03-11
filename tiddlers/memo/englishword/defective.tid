@@ -1,0 +1,25 @@
+created: 20220224113527953
+creator: oeyoews
+difficulty: 1
+due: 20220316012002009
+grade: 1
+history: [{"due":"20220304085120300","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303085120300"},{"due":"20220307053702550","interval":3,"difficulty":1.2089083031776646,"stability":0.07476910459712456,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306053702549"}]
+interval: 1
+lapses: 1
+modified: 20220311044418202
+modifier: @oeyoews
+reps: 2
+retrievability: 0.2443520960981822
+review: 20220307012002009
+stability: 8.582608156494905
+tags: EnglishWord ?
+title: defective
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""defective
+英 [dɪ'fektɪv]  美 [dɪ'fɛktɪv]
+adj. 有缺陷的；不完美的
+n. 有
+"""
+<<<

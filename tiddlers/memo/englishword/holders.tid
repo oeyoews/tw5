@@ -1,0 +1,26 @@
+created: 20220221130205065
+creator: oeyoews
+difficulty: 1
+due: 20220418070603398
+grade: 2
+history: [{"due":"20220227163941785","interval":0,"difficulty":1.6476805400532035,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220226163941785"},{"due":"20220308022404199","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":3,"review":"20220228022404199"},{"due":"20220308022404199","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":3,"review":"20220228022404199"}]
+interval: 8
+lapses: 0
+modified: 20220311044418210
+modifier: @oeyoews
+reps: 4
+retrievability: 0.9055925971131363
+review: 20220308070603398
+stability: 41.41095927418082
+tags: EnglishWord ?
+title: holders
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+holders
+英/美 ['həuldə]
+n. [专利] 持有人（holder的复数）
+CET6+ TEM4  ( holders )
+"""
+<<<

@@ -1,0 +1,25 @@
+created: 20220227035236722
+creator: oeyoews
+difficulty: 5.340109867130493
+due: 20220312154749226
+grade: 1
+history: [{"due":"20220307120005671","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306120005670"},{"due":"20220308041522938","interval":1,"difficulty":5.550378810520104,"stability":0.07442546333264817,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220307041522937"},{"due":"20220309101402193","interval":1,"difficulty":5.993146219741566,"stability":0.05494480753692821,"retrievability":0.24276740922146145,"grade":0,"lapses":2,"reps":1,"review":"20220308101402193"}]
+interval: 1
+lapses: 2
+modified: 20220311044418217
+modifier: @oeyoews
+reps: 2
+retrievability: 0.1469636473889265
+review: 20220309154749225
+stability: 2.510208711159803
+tags: EnglishWord ?
+title: ornate
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""ornate
+英 [ɔː'neɪt]  美 [ɔr'net]
+adj. 华丽的；装饰的；（文体）绚丽的
+TEM8
+"""
+<<<

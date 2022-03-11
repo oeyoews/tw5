@@ -1,0 +1,27 @@
+created: 20220222015113553
+creator: oeyoews
+difficulty: 1
+due: 20220406054907978
+grade: 1
+history: [{"due":"20220303063221880","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302063221880"},{"due":"20220306145833771","interval":3,"difficulty":1.2089083031776646,"stability":0.07545638712607733,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220305145833770"}]
+interval: 1
+lapses: 1
+modified: 20220311044418229
+modifier: @oeyoews
+reps: 2
+retrievability: 0.24750856222931497
+review: 20220306054907978
+stability: 31.089732568554098
+tags: EnglishWord ?
+title: specialist
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+specialist
+英 ['speʃ(ə)lɪst]  美 ['spɛʃəlɪst]
+n. 专家；专门医师
+adj. 专家的；专业的
+CET4 TEM4  ( specialists )
+"""
+<<<

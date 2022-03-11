@@ -1,0 +1,26 @@
+created: 20220224013907808
+creator: oeyoews
+difficulty: 1
+due: 20220424054554008
+grade: 2
+history: [{"due":"20220304075426345","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075426345"}]
+interval: 3
+lapses: 0
+modified: 20220311044418231
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220306054554008
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: tech
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""tech
+英/美 [tɛk]
+n. 技术学院或学校
+abbr. 技术（technology）；技术员（technician）
+n. (Tech)人名；(柬)德
+"""
+<<<

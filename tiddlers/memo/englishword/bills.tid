@@ -1,0 +1,28 @@
+created: 20220223015453105
+creator: oeyoews
+difficulty: 1
+due: 20220415132838628
+grade: 1
+history: [{"due":"20220303064254154","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064254154"}]
+interval: 2
+lapses: 0
+modified: 20220311044418195
+modifier: @oeyoews
+reps: 2
+retrievability: 0.14063024105763047
+review: 20220304132838628
+stability: 41.943552755493144
+tags: EnglishWord ?
+title: bills
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+bills
+英 [bɪls]  美 [bɪls]
+n. 账单；议案（bill的复数）
+v. 开账单（bill的第三人称单数形式）
+n. (Bills)人名；(英、德)比尔斯
+CET4 TEM4  ( billing, billed, bills )
+"""
+<<<

@@ -1,0 +1,27 @@
+created: 20220222010657353
+creator: oeyoews
+difficulty: 3.8814720290551032
+due: 20220311014612807
+grade: 0
+history: [{"due":"20220302072758434","interval":1,"difficulty":1.8682990579651733,"stability":0.08507834253141604,"retrievability":0.3995465906210927,"grade":0,"lapses":1,"reps":1,"review":"20220301072758434"},{"due":"20220302164501592","interval":0,"difficulty":3.0682990579651737,"stability":0.058954374971038004,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220301164501592"},{"due":"20220302164501592","interval":0,"difficulty":3.0682990579651737,"stability":0.058954374971038004,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220301164501592"},{"due":"20220306145851664","interval":3,"difficulty":3.2729931038673095,"stability":0.04141134327240674,"retrievability":0.004694045902135523,"grade":0,"lapses":3,"reps":1,"review":"20220305145851664"},{"due":"20220307012724942","interval":1,"difficulty":3.5515255911308308,"stability":0.030398849415162195,"retrievability":0.07853248726352124,"grade":0,"lapses":4,"reps":1,"review":"20220306012724942"},{"due":"20220310012847984","interval":1,"difficulty":2.7827692882427066,"stability":2.959483173902807,"retrievability":0.031243697111875784,"grade":1,"lapses":4,"reps":2,"review":"20220307012847983"}]
+interval: 3
+lapses: 5
+modified: 20220311044418230
+modifier: @oeyoews
+reps: 1
+retrievability: 0.8987027408123965
+review: 20220310014612807
+stability: 0.022338891704801602
+tags: EnglishWord ?
+title: speculate
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+speculate
+英 ['spekjʊleɪt]  美 ['spɛkjə'let]
+vi. 推测；投机；思索
+vt. 推断
+CET4 TEM4  ( speculating, speculated, speculates )
+"""
+<<<

@@ -1,0 +1,25 @@
+created: 20220227085049060
+creator: oeyoews
+difficulty: 1
+due: 20220417012702393
+grade: 2
+history: [{"due":"20220305062021068","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220304062021068"}]
+interval: 2
+lapses: 0
+modified: 20220311044418224
+modifier: @oeyoews
+reps: 2
+retrievability: 0.14063024105763047
+review: 20220306012702392
+stability: 41.943552755493144
+tags: EnglishWord ?
+title: respawn
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""respawn
+英 [ˌriːˈspɔːn]  美 [ˌriːˈspɔːn]
+vt. 复位
+vi. 重生
+"""
+<<<

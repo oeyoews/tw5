@@ -1,0 +1,29 @@
+created: 20220222020825845
+creator: oeyoews
+difficulty: 1.0056647211943208
+due: 20220315012233983
+grade: 1
+history: [{"due":"20220303063519925","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302063519925"},{"due":"20220306052431757","interval":3,"difficulty":1.2089083031776646,"stability":0.07545638712607733,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220305052431757"},{"due":"20220307052651902","interval":1,"difficulty":1.6564168654069795,"stability":0.055390315029607076,"retrievability":0.24750856222931497,"grade":0,"lapses":2,"reps":1,"review":"20220306052651901"}]
+interval: 1
+lapses: 2
+modified: 20220311044418228
+modifier: @oeyoews
+reps: 2
+retrievability: 0.1492478557873414
+review: 20220307012233982
+stability: 7.97569196279011
+tags: EnglishWord ?
+title: secured
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+secured
+英/美 [sɪ'kjʊr]
+adj. 有担保的
+v. 担保（secure的过去式）；保卫
+"""
+<<<
+
+---
+* security

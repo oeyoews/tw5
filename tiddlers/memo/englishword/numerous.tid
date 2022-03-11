@@ -1,0 +1,25 @@
+created: 20220226031612400
+creator: oeyoews
+difficulty: 2.0596188436347647
+due: 20220315015102570
+grade: 2
+history: [{"due":"20220310111718973","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220309111718973"}]
+interval: 1
+lapses: 0
+modified: 20220311044418216
+modifier: @oeyoews
+reps: 2
+retrievability: 0.34910423292122506
+review: 20220310015102570
+stability: 5.365067619210177
+tags: EnglishWord ?
+title: numerous
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""numerous
+英 ['njuːm(ə)rəs]  美 ['numərəs]
+adj. 许多的，很多的
+CET4 TEM4
+"""
+<<<

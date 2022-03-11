@@ -1,0 +1,28 @@
+created: 20220302122225450
+creator: oeyoews
+difficulty: 1.2182882952081846
+due: 20220314041511440
+grade: 1
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220304235240985","interval":1,"difficulty":1.5995465906210926,"stability":0.07958008229979391,"retrievability":0.3995465906210927,"grade":0,"lapses":1,"reps":1,"review":"20220303235240985"},{"due":"20220307054947180","interval":2,"difficulty":1.8703454984987276,"stability":0.055135739319504856,"retrievability":0.0707989078776349,"grade":0,"lapses":2,"reps":1,"review":"20220306054947179"}]
+interval: 1
+lapses: 2
+modified: 20220311044418214
+modifier: @oeyoews
+reps: 2
+retrievability: 0.14794279670945698
+review: 20220307041511439
+stability: 6.970614345260403
+tags: EnglishWord ?
+title: liberals
+type: text/vnd.tiddlywiki
+word: liberals
+
+<<<.tc-fish-quote
+"""liberal
+英 ['lɪb(ə)r(ə)l]  美 ['lɪbərəl]
+adj. 自由主义的；慷慨的；不拘泥的；宽大的
+n. 自由主义者
+n. (Liberal)人名；(葡)利贝拉尔
+CET4 TEM4  ( liberals )
+"""
+<<<

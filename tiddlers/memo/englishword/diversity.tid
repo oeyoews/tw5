@@ -1,0 +1,25 @@
+created: 20220223064939324
+creator: oeyoews
+difficulty: 1
+due: 20220424053917977
+grade: 1
+history: [{"due":"20220304015919186","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303015919186"}]
+interval: 3
+lapses: 0
+modified: 20220311044418203
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220306053917976
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: diversity
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""diversity
+英 [daɪ'vɜːsɪtɪ; dɪ-]  美 [dɪˈvəsɪti]
+n. 多样性；差异
+TEM4  ( diversities )
+"""
+<<<

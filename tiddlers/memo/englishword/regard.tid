@@ -1,0 +1,29 @@
+created: 20220222005853281
+creator: oeyoews
+difficulty: 1.89739559171708
+due: 20220329063010379
+grade: 1
+history: [{"due":"20220228112938399","interval":1,"difficulty":3.265444972427654,"stability":0.0960748629946603,"retrievability":0.6177644323744501,"grade":0,"lapses":1,"reps":1,"review":"20220227112938399"},{"due":"20220306113255437","interval":1,"difficulty":1.799432984530944,"stability":5.873655916223402,"retrievability":0.33398801210329004,"grade":2,"lapses":1,"reps":2,"review":"20220228113255436"},{"due":"20220306113255437","interval":1,"difficulty":1.799432984530944,"stability":5.873655916223402,"retrievability":0.33398801210329004,"grade":2,"lapses":1,"reps":2,"review":"20220228113255436"}]
+interval: 6
+lapses: 1
+modified: 20220311044418224
+modifier: @oeyoews
+reps: 3
+retrievability: 0.897962607186136
+review: 20220306063010379
+stability: 22.843287376663202
+tags: EnglishWord ?
+title: regard
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+regard
+英 [rɪ'gɑːd]  美 [rɪ'ɡɑrd]
+n. 注意；尊重；问候；凝视
+vt. 注重，考虑；看待；尊敬；把…看作；与…有关
+vi. 注意，注重；注视
+n. (Regard)人名；(西、意)雷加德；(法)勒加尔
+CET4 TEM4  ( regarding, regarded, regards )
+"""
+<<<

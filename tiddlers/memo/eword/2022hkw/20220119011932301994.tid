@@ -1,0 +1,19 @@
+caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
+created: 20220119011932301
+creator: oeyoews
+difficulty: 3.047081661461216
+due: 20220326041750679
+grade: 2
+history: [{"due":"20220225163159287","interval":0,"difficulty":4.947800309227434,"stability":0.2500261494800798,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220224163159287"},{"due":"20220301013032104","interval":1,"difficulty":4.8039292290160125,"stability":2.9578844671146283,"retrievability":0.6561289197885782,"grade":1,"lapses":1,"reps":2,"review":"20220226013032104"},{"due":"20220307160119827","interval":2,"difficulty":3.9351671746465193,"stability":6.85575917695423,"retrievability":0.9312379456305068,"grade":2,"lapses":1,"reps":3,"review":"20220228160119827"},{"due":"20220307160119827","interval":2,"difficulty":3.9351671746465193,"stability":6.85575917695423,"retrievability":0.9312379456305068,"grade":2,"lapses":1,"reps":3,"review":"20220228160119827"}]
+interval: 6
+lapses: 1
+modified: 20220311044458941
+modifier: @oeyoews
+reps: 4
+retrievability: 0.9119144868146967
+review: 20220307041750679
+stability: 18.67118120926329
+tags: [[必考核心词汇 Word List 1]] ?
+title: 2022hkw/20220119011932301994
+type: text/vnd.tiddlywiki
+word: correspond

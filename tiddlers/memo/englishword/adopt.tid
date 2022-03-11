@@ -1,0 +1,27 @@
+created: 20220223014528700
+creator: oeyoews
+difficulty: 1
+due: 20220415132704746
+grade: 1
+history: [{"due":"20220303064238004","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064238004"}]
+interval: 2
+lapses: 0
+modified: 20220311044418193
+modifier: @oeyoews
+reps: 2
+retrievability: 0.14063024105763047
+review: 20220304132704746
+stability: 41.943552755493144
+tags: EnglishWord ?
+title: adopt
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+adopt
+英 [ə'dɒpt]  美 [ə'dɑpt]
+vt. 采取；接受；收养；正式通过
+vi. 采取；过继
+CET4 TEM4  ( adopting, adopted, adopts )
+"""
+<<<

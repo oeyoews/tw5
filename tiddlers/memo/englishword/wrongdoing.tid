@@ -1,0 +1,25 @@
+created: 20220227112303488
+creator: oeyoews
+difficulty: 3.241408556451306
+due: 20220315014350700
+grade: 2
+history: [{"due":"20220308061413181","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061413181"},{"due":"20220309130739202","interval":1,"difficulty":4.983049552319485,"stability":0.07416773238429089,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220308130739201"}]
+interval: 2
+lapses: 1
+modified: 20220311044418234
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05835900413182145
+review: 20220310014350700
+stability: 5.215763676645758
+tags: EnglishWord ?
+title: wrongdoing
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""wrongdoing
+英 ['rɒŋduːɪŋ]  美 ['rɔŋduɪŋ]
+n. 坏事；不道德的行为
+( wrongdoings )
+"""
+<<<

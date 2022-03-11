@@ -1,0 +1,24 @@
+created: 20220223122639581
+creator: oeyoews
+difficulty: 1
+due: 20220424012046853
+grade: 1
+history: [{"due":"20220304074405240","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303074405240"}]
+interval: 3
+lapses: 0
+modified: 20220311044418211
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220306012046853
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: inevitably
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""inevitably
+英 [ɪ'nevɪtəblɪ; ɪn'evɪtəblɪ]  美 [ɪn'ɛvɪtəbli]
+adv. 不可避免地；必然地
+"""
+<<<

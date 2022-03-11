@@ -1,0 +1,25 @@
+created: 20220221100847665
+creator: oeyoews
+difficulty: 1
+due: 20220424121543819
+grade: 2
+history: [{"due":"20220225163722583","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163722583"},{"due":"20220227013715610","interval":1,"difficulty":3.1172714132007706,"stability":0.16205398577412577,"retrievability":0.7318502915686316,"grade":0,"lapses":1,"reps":1,"review":"20220226013715610"},{"due":"20220227163919906","interval":0,"difficulty":2.3172714132007703,"stability":0.16205398577412577,"retrievability":1,"grade":2,"lapses":1,"reps":2,"review":"20220226163919906"},{"due":"20220309022353465","interval":1,"difficulty":1.03923529180373,"stability":8.509845167751903,"retrievability":0.5219638786029598,"grade":2,"lapses":1,"reps":3,"review":"20220228022353465"},{"due":"20220309022353465","interval":1,"difficulty":1.03923529180373,"stability":8.509845167751903,"retrievability":0.5219638786029598,"grade":2,"lapses":1,"reps":3,"review":"20220228022353465"}]
+interval: 9
+lapses: 1
+modified: 20220311044418208
+modifier: @oeyoews
+reps: 4
+retrievability: 0.894554786523324
+review: 20220309121543818
+stability: 45.510871058723474
+tags: EnglishWord ?
+title: gradually
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+gradually
+英 ['grædʒʊlɪ; 'grædjʊəlɪ]  美 ['grædʒʊəli]
+adv. 逐步地；渐渐地
+"""
+<<<

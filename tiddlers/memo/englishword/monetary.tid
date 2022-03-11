@@ -1,0 +1,26 @@
+created: 20220222014914024
+creator: oeyoews
+difficulty: 1
+due: 20220406012714943
+grade: 1
+history: [{"due":"20220303063113240","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302063113239"},{"due":"20220306013514085","interval":3,"difficulty":1.2089083031776646,"stability":0.07683095218398285,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220305013514085"}]
+interval: 1
+lapses: 1
+modified: 20220311044418215
+modifier: @oeyoews
+reps: 2
+retrievability: 0.2537694663628191
+review: 20220306012714943
+stability: 30.891492188221793
+tags: EnglishWord ?
+title: monetary
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+monetary
+英 ['mʌnɪt(ə)rɪ]  美 ['mʌnɪtɛri]
+adj. 货币的；财政的
+CET6 TEM4
+"""
+<<<

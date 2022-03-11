@@ -1,0 +1,26 @@
+created: 20220224033933600
+creator: oeyoews
+difficulty: 1
+due: 20220424053914015
+grade: 1
+history: [{"due":"20220304080419415","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303080419415"}]
+interval: 3
+lapses: 0
+modified: 20220311044418202
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220306053914015
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: desirable
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""desirable
+英 [dɪ'zaɪərəb(ə)l]  美 [dɪ'zaɪərəbl]
+adj. 令人满意的；值得要的
+n. 合意的人或事物
+CET4 TEM4
+"""
+<<<

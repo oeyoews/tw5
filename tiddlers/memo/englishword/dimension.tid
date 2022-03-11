@@ -1,0 +1,26 @@
+created: 20220225065844731
+creator: oeyoews
+difficulty: 4.771986658950279
+due: 20220313013906826
+grade: 1
+history: [{"due":"20220308061815374","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061815374"},{"due":"20220309070124226","interval":1,"difficulty":4.983049552319485,"stability":0.07425364270040997,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220308070124226"},{"due":"20220310083206687","interval":1,"difficulty":5.425023011561352,"stability":0.05494480753692821,"retrievability":0.24197345924186736,"grade":0,"lapses":2,"reps":1,"review":"20220309083206687"}]
+interval: 1
+lapses: 2
+modified: 20220311044418203
+modifier: @oeyoews
+reps: 2
+retrievability: 0.1469636473889265
+review: 20220310013906825
+stability: 2.7113471775320885
+tags: EnglishWord ?
+title: dimension
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""dimension
+英 [dɪ'menʃ(ə)n; daɪ-]  美 [dəˈmɛnʃən, daɪ-]
+n. 方面;[数] 维；尺寸；次元；容积 vt. 标出尺寸
+adj. 规格的
+CET4 TEM4  ( dimensions )
+"""
+<<<

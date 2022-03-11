@@ -1,0 +1,24 @@
+created: 20220224121337413
+creator: oeyoews
+difficulty: 3.9830495523194847
+due: 20220311065343707
+grade: 1
+history: [{"due":"20220308061712724","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061712724"}]
+interval: 1
+lapses: 0
+modified: 20220311044418194
+modifier: @oeyoews
+reps: 2
+retrievability: 0.35037881052010367
+review: 20220308065343707
+stability: 3.4189622108044793
+tags: EnglishWord ?
+title: alphabetism
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""alphabetism
+英/美 [ˌælfəˈbətɪzəm]
+字母排序歧视
+"""
+<<<

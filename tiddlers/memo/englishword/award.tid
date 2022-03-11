@@ -1,0 +1,27 @@
+created: 20220221114941240
+creator: oeyoews
+difficulty: 1.1055925971131362
+due: 20220416065426342
+grade: 1
+history: [{"due":"20220227163722112","interval":0,"difficulty":1.6476805400532035,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220226163722112"},{"due":"20220308021235344","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":3,"review":"20220228021235344"},{"due":"20220308021235344","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":3,"review":"20220228021235344"}]
+interval: 8
+lapses: 0
+modified: 20220311044418195
+modifier: @oeyoews
+reps: 4
+retrievability: 0.9055925971131363
+review: 20220308065426342
+stability: 39.177764994287756
+tags: EnglishWord ?
+title: award
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+award
+英 [ə'wɔːd]  美 [ə'wɔrd]
+vt. 授予；判定
+n. 奖品；判决
+CET4 TEM4  ( awarding, awarded, awards )
+"""
+<<<

@@ -1,0 +1,25 @@
+created: 20220227082929707
+creator: oeyoews
+difficulty: 4.654139149508474
+due: 20220318014012099
+grade: 1
+history: [{"due":"20220307113916610","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306113916609"},{"due":"20220310031449883","interval":1,"difficulty":4.550378810520104,"stability":3.1236112149237947,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220307031449882"}]
+interval: 3
+lapses: 0
+modified: 20220311044418196
+modifier: @oeyoews
+reps: 3
+retrievability: 0.9037603389883699
+review: 20220310014012099
+stability: 8.26178898511264
+tags: EnglishWord ?
+title: capitalism
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""capitalism
+英 ['kæpɪt(ə)lɪz(ə)m]  美 ['kæpɪtəlɪzəm]
+n. 资本主义
+CET6+ TEM4
+"""
+<<<

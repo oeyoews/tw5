@@ -1,0 +1,26 @@
+created: 20220303020743894
+creator: oeyoews
+difficulty: 1
+due: 20220423014615294
+grade: 2
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"}]
+interval: 3
+lapses: 0
+modified: 20220311044418219
+modifier: @oeyoews
+reps: 3
+retrievability: 0.06378261010099043
+review: 20220305014615293
+stability: 48.71120732285093
+tags: EnglishWord ?
+title: positive
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""positive
+英 [ˈpɒzətɪv]  美 ['pɑzətɪv]
+adj. 积极的；[数] 正的，[医][化学] 阳性的；确定的，肯定的；实际的，真实的；绝对的
+n. 正数；[摄] 正片
+CET4 TEM4
+"""
+<<<

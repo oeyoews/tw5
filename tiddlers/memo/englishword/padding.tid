@@ -1,0 +1,26 @@
+created: 20220222024030636
+creator: oeyoews
+difficulty: 1
+due: 20220415140539529
+grade: 1
+history: [{"due":"20220303063637528","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302063637528"}]
+interval: 2
+lapses: 0
+modified: 20220311044418217
+modifier: @oeyoews
+reps: 2
+retrievability: 0.14063024105763047
+review: 20220304140539528
+stability: 41.943552755493144
+tags: EnglishWord ?
+title: padding
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+padding
+英 ['pædɪŋ]  美 ['pædɪŋ]
+n. 填料；垫料
+v. 填补（pad的ing形式）
+"""
+<<<

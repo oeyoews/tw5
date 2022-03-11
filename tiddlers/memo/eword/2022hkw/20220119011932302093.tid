@@ -1,0 +1,19 @@
+caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
+created: 20220119011932302
+creator: oeyoews
+difficulty: 8.385476086085792
+due: 20220311052541751
+grade: 1
+history: [{"due":"20220227161016944","interval":0,"difficulty":3.6476805400532037,"stability":0.16205398577412577,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220226161016943"},{"due":"20220228160702872","interval":0,"difficulty":4.8476805400532035,"stability":0.06302758633267336,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220227160702872"},{"due":"20220301162848088","interval":0,"difficulty":6.047680540053204,"stability":0.04669198436083444,"retrievability":1,"grade":0,"lapses":3,"reps":1,"review":"20220228162848087"},{"due":"20220302162122117","interval":0,"difficulty":7.247680540053204,"stability":0.03459027277429196,"retrievability":1,"grade":0,"lapses":4,"reps":1,"review":"20220301162122117"},{"due":"20220305160151738","interval":1,"difficulty":6.4952312799363705,"stability":1.7822426197541539,"retrievability":0.04755073988316659,"grade":1,"lapses":4,"reps":2,"review":"20220303160151738"},{"due":"20220305160151738","interval":1,"difficulty":6.4952312799363705,"stability":1.7822426197541539,"retrievability":0.04755073988316659,"grade":1,"lapses":4,"reps":2,"review":"20220303160151738"},{"due":"20220307054643327","interval":2,"difficulty":7.58371972234834,"stability":0.022416518774677457,"retrievability":0.8884884424119691,"grade":0,"lapses":5,"reps":1,"review":"20220306054643327"},{"due":"20220307163749246","interval":0,"difficulty":7.78371972234834,"stability":0.022416518774677457,"retrievability":1,"grade":1,"lapses":5,"reps":2,"review":"20220306163749246"},{"due":"20220308160147117","interval":0,"difficulty":8.98371972234834,"stability":0.01660656555253488,"retrievability":1,"grade":0,"lapses":6,"reps":1,"review":"20220307160147116"},{"due":"20220309162317812","interval":0,"difficulty":9.18371972234834,"stability":0.01660656555253488,"retrievability":1,"grade":1,"lapses":6,"reps":2,"review":"20220308162317811"}]
+interval: 1
+lapses: 6
+modified: 20220311044458942
+modifier: @oeyoews
+reps: 3
+retrievability: 0.0017563637374525308
+review: 20220310052541751
+stability: 0.8911729560224333
+tags: [[必考核心词汇 Word List 1]] ?
+title: 2022hkw/20220119011932302093
+type: text/vnd.tiddlywiki
+word: imperative

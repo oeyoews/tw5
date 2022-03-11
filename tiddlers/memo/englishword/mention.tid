@@ -1,0 +1,28 @@
+created: 20220222090632840
+creator: oeyoews
+difficulty: 1
+due: 20220423013449394
+grade: 2
+history: [{"due":"20220303064012153","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064012153"}]
+interval: 3
+lapses: 0
+modified: 20220311044418215
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305013449394
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: mention
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+mention
+英 ['menʃ(ə)n]  美 ['mɛnʃən]
+vt. 提到，谈到；提及，论及；说起
+n. 提及，说起
+n. (Mention)人名；(法)芒雄
+CET4 TEM4  ( mentioning, mentioned, mentions )
+"""
+<<<

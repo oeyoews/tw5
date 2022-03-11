@@ -1,0 +1,26 @@
+created: 20220304020736613
+creator: oeyoews
+difficulty: 3.0596188436347647
+due: 20220314011124255
+grade: 1
+history: [{"due":"20220310111721624","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220309111721624"}]
+interval: 1
+lapses: 0
+modified: 20220311044418193
+modifier: @oeyoews
+reps: 2
+retrievability: 0.34910423292122506
+review: 20220310011124255
+stability: 4.091082244434676
+tags: EnglishWord ?
+title: about-face
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""about-face
+英/美 [ə,baʊt'fes]
+n. 向后转；转回原来方向；（立场、观点等）彻底改变
+vi. 向后转；改变主张
+( about-faces )
+"""
+<<<

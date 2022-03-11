@@ -1,0 +1,25 @@
+created: 20220223072809962
+creator: oeyoews
+difficulty: 2.5067175845439085
+due: 20220311013959429
+grade: 0
+history: [{"due":"20220304062604574","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303062604574"},{"due":"20220307052917708","interval":3,"difficulty":1.2089083031776646,"stability":0.07476910459712456,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306052917707"},{"due":"20220308041556860","interval":1,"difficulty":1.6532603992758468,"stability":0.055135739319504856,"retrievability":0.2443520960981822,"grade":0,"lapses":2,"reps":1,"review":"20220307041556860"},{"due":"20220309101433377","interval":1,"difficulty":2.001203195985304,"stability":0.040704114555206596,"retrievability":0.14794279670945698,"grade":0,"lapses":3,"reps":1,"review":"20220308101433377"},{"due":"20220310083229565","interval":1,"difficulty":2.2763396989702485,"stability":0.03015434971921296,"retrievability":0.07513650298494459,"grade":0,"lapses":4,"reps":1,"review":"20220309083229564"}]
+interval: 1
+lapses: 5
+modified: 20220311044418218
+modifier: @oeyoews
+reps: 1
+retrievability: 0.030377885573659866
+review: 20220310013959429
+stability: 0.022338891704801602
+tags: EnglishWord ?
+title: perseverance
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""perseverance
+英 [pɜːsɪ'vɪər(ə)ns]  美 [,pɝsə'vɪrəns]
+n. 坚持不懈；不屈不挠
+n. 耐性；毅力
+"""
+<<<

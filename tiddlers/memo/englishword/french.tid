@@ -1,0 +1,26 @@
+created: 20220223023048350
+creator: oeyoews
+difficulty: 1
+due: 20220423003327028
+grade: 1
+history: [{"due":"20220303064323828","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064323828"}]
+interval: 3
+lapses: 0
+modified: 20220311044418207
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305003327028
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: french
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+french
+英 [frentʃ]  美 [frɛntʃ]
+adj. 法国的；法语的；法国人的
+n. 法语；法国人
+"""
+<<<

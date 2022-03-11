@@ -1,0 +1,28 @@
+created: 20220222111206499
+creator: oeyoews
+difficulty: 1
+due: 20220423014949737
+grade: 1
+history: [{"due":"20220303064106768","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064106768"}]
+interval: 3
+lapses: 0
+modified: 20220311044418223
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305014949737
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: range
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+range
+英 [reɪn(d)ʒ]  美 [rendʒ]
+n. 范围；幅度；排；山脉
+vi. （在...内）变动；平行，列为一行；延伸；漫游；射程达到
+vt. 漫游；放牧；使并列；归类于；来回走动
+CET4 TEM4  ( ranging, ranged, ranges )
+"""
+<<<

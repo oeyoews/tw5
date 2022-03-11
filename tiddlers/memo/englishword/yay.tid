@@ -1,0 +1,25 @@
+created: 20220303032137647
+creator: oeyoews
+difficulty: 1
+due: 20220427002101371
+grade: 2
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"}]
+interval: 4
+lapses: 0
+modified: 20220311044418234
+modifier: @oeyoews
+reps: 3
+retrievability: 0.025484124406765195
+review: 20220306002101371
+stability: 51.83226691544659
+tags: EnglishWord ?
+title: yay
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""yay
+英/美 [je]
+int. 哇（因高兴而欢呼）
+adv. 这么；非常
+"""
+<<<

@@ -1,0 +1,30 @@
+created: 20220221090936128
+creator: oeyoews
+difficulty: 2.8805674238453447
+due: 20220313113241242
+grade: 1
+history: [{"due":"20220228083030028","interval":1,"difficulty":2.780372221787294,"stability":4.00825033798033,"retrievability":0.8325719125598604,"grade":2,"lapses":0,"reps":2,"review":"20220224083030028"},{"due":"20220313113241242","interval":4,"difficulty":2.8805674238453447,"stability":13.125933169905455,"retrievability":0.9001952020580501,"grade":1,"lapses":0,"reps":3,"review":"20220228113241242"}]
+interval: 4
+lapses: 0
+modified: 20220311044418222
+modifier: @oeyoews
+reps: 3
+retrievability: 0.9001952020580501
+review: 20220228113241242
+stability: 13.125933169905455
+tags: EnglishWord ?
+title: proof
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+proof
+英 [pruːf]  美 [pruf]
+n. 证明；证据；校样；考验；验证；试验
+adj. 防…的；不能透入的；证明用的；耐…的
+vt. 试验；校对；使不被穿透
+"""
+<<<
+
+----
+* roof

@@ -1,0 +1,26 @@
+created: 20220224051249844
+creator: oeyoews
+difficulty: 1
+due: 20220424014047860
+grade: 1
+history: [{"due":"20220304080447034","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303080447034"}]
+interval: 3
+lapses: 0
+modified: 20220311044418213
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220306014047859
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: justify
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""justify
+英 ['dʒʌstɪfaɪ]  美 ['dʒʌstə'fai]
+vi. 证明合法；整理版面
+vt. 证明…是正当的；替…辩护
+CET4 TEM4  ( justifying, justified, justifies )
+"""
+<<<

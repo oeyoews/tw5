@@ -1,0 +1,28 @@
+created: 20220224011839526
+creator: oeyoews
+difficulty: 1
+due: 20220424012641678
+grade: 1
+history: [{"due":"20220304075010346","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075010346"}]
+interval: 3
+lapses: 0
+modified: 20220311044418233
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220306012641678
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: united
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""united
+英 [jʊ'naɪtɪd]  美 [jʊ'naɪtɪd]
+adj. 一致的，统一的；团结的，和睦的
+TEM4
+"""
+<<<
+---
+* united states
+美国

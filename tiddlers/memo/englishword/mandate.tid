@@ -1,0 +1,26 @@
+created: 20220223065049397
+creator: oeyoews
+difficulty: 1
+due: 20220406062232697
+grade: 1
+history: [{"due":"20220304015937480","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303015937480"},{"due":"20220306015334314","interval":2,"difficulty":1.2968012211129094,"stability":0.07683095218398285,"retrievability":0.14063024105763047,"grade":0,"lapses":1,"reps":1,"review":"20220305015334313"}]
+interval: 1
+lapses: 1
+modified: 20220311044418214
+modifier: @oeyoews
+reps: 2
+retrievability: 0.2537694663628191
+review: 20220306062232697
+stability: 30.891492188221793
+tags: EnglishWord ?
+title: mandate
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""mandate
+英 ['mændeɪt]  美 ['mændet]
+n. 授权；命令，指令；委托管理；受命进行的工作
+vt. 授权；托管
+CET6+ TEM8  ( mandating, mandated, mandates )
+"""
+<<<

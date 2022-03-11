@@ -1,0 +1,19 @@
+caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
+created: 20220119011932302
+creator: oeyoews
+difficulty: 3.310313889821818
+due: 20220320003827575
+grade: 1
+history: [{"due":"20220227162852986","interval":0,"difficulty":3.6476805400532037,"stability":0.11806790392114878,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220226162852985"},{"due":"20220305003256511","interval":1,"difficulty":2.2573632880765775,"stability":5.059975207810627,"retrievability":0.40968274802337346,"grade":2,"lapses":1,"reps":2,"review":"20220228003256511"},{"due":"20220305003256511","interval":1,"difficulty":2.2573632880765775,"stability":5.059975207810627,"retrievability":0.40968274802337346,"grade":2,"lapses":1,"reps":2,"review":"20220228003256511"},{"due":"20220306015327845","interval":5,"difficulty":3.358487931832464,"stability":0.05691776929022033,"retrievability":0.9011246437558862,"grade":0,"lapses":2,"reps":1,"review":"20220305015327845"},{"due":"20220307054700949","interval":1,"difficulty":3.715552141501244,"stability":0.04084556029864662,"retrievability":0.15706420966877976,"grade":0,"lapses":3,"reps":1,"review":"20220306054700949"},{"due":"20220308025138715","interval":1,"difficulty":3.9913651688835494,"stability":0.0302591353031912,"retrievability":0.07581302738230539,"grade":0,"lapses":4,"reps":1,"review":"20220307025138715"},{"due":"20220311064902559","interval":1,"difficulty":3.2221128490380773,"stability":2.6660687166943933,"retrievability":0.030747680154527977,"grade":1,"lapses":4,"reps":2,"review":"20220308064902558"}]
+interval: 3
+lapses: 4
+modified: 20220311044458944
+modifier: @oeyoews
+reps: 3
+retrievability: 0.88820104078374
+review: 20220311003827575
+stability: 9.393986067757899
+tags: [[必考核心词汇 Word List 2]] ?
+title: 2022hkw/20220119011932302257
+type: text/vnd.tiddlywiki
+word: vicinity

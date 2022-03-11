@@ -1,0 +1,29 @@
+created: 20220222010035881
+creator: oeyoews
+difficulty: 2.08784314821016
+due: 20220311011659701
+grade: 0
+history: [{"due":"20220309021544744","interval":1,"difficulty":1,"stability":8.856788036936313,"retrievability":0.3995465906210927,"grade":2,"lapses":0,"reps":2,"review":"20220228021544744"},{"due":"20220309021544744","interval":1,"difficulty":1,"stability":8.856788036936313,"retrievability":0.3995465906210927,"grade":2,"lapses":0,"reps":2,"review":"20220228021544744"}]
+interval: 10
+lapses: 1
+modified: 20220311044418198
+modifier: @oeyoews
+muuri-tiddler-width: 2
+reps: 1
+retrievability: 0.8878431482101599
+review: 20220310011659700
+stability: 0.07416773238429089
+tags: EnglishWord ?
+title: compromise
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+compromise
+英 ['kɒmprəmaɪz]  美 ['kɑmprəmaɪz]
+vt. 妥协；危害
+vi. 妥协；让步
+n. 妥协，和解；折衷
+CET4 TEM4  ( compromising, compromised, compromises )
+"""
+<<<

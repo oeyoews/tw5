@@ -1,0 +1,28 @@
+created: 20220226032013675
+creator: oeyoews
+difficulty: 2.9830495523194847
+due: 20220312080635001
+grade: 2
+history: [{"due":"20220308061807586","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061807586"}]
+interval: 1
+lapses: 0
+modified: 20220311044418214
+modifier: @oeyoews
+reps: 2
+retrievability: 0.35037881052010367
+review: 20220308080635001
+stability: 4.163309058210984
+tags: EnglishWord ?
+title: map
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""map
+英 [mæp]  美 [mæp]
+vt. 映射；计划；__绘制地图__；确定基因在染色体中的位置
+n. 地图；示意图；染色体图
+vi. 基因被安置
+n. (Map)人名；(法)马普
+CET4 TEM4  ( mapping, mapped, maps )
+"""
+<<<

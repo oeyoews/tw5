@@ -1,0 +1,24 @@
+created: 20220222105958834
+creator: oeyoews
+difficulty: 1
+due: 20220423014546312
+grade: 2
+history: [{"due":"20220303064048135","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064048134"}]
+interval: 3
+lapses: 0
+modified: 20220311044418218
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305014546312
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: paywalled
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+paywalled
+adj. 设付费门槛的，收费的
+"""
+<<<

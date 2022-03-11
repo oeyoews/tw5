@@ -1,0 +1,26 @@
+created: 20220221085639861
+creator: oeyoews
+difficulty: 3.21715730213948
+due: 20220317164148218
+grade: 2
+history: [{"due":"20220302082902571","interval":2,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20220224082902571"},{"due":"20220317164148218","interval":5,"difficulty":3.21715730213948,"stability":15.798958562813516,"retrievability":0.9171573021394794,"grade":2,"lapses":0,"reps":3,"review":"20220301164148218"}]
+interval: 5
+lapses: 0
+modified: 20220311044418200
+modifier: @oeyoews
+reps: 3
+retrievability: 0.9171573021394794
+review: 20220301164148218
+stability: 15.798958562813516
+tags: EnglishWord ?
+title: cooked
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+cooked
+英/美 [kʊkt]
+adj. 煮熟的
+v. 煮（cook的过去式、过去分词形式）
+"""
+<<<

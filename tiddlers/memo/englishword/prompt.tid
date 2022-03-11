@@ -1,0 +1,27 @@
+created: 20220224014742665
+creator: oeyoews
+difficulty: 1
+due: 20220424012653626
+grade: 1
+history: [{"due":"20220304075654204","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075654204"}]
+interval: 3
+lapses: 0
+modified: 20220311044418222
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220306012653626
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: prompt
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""英 [prɒm(p)t]  美 [prɑmpt]
+adj. 敏捷的，迅速的；立刻的
+vt. 提示；促进；激起；（给演员）提白
+n. 提示；付款期限；DOS命令：改变DOS系统提示符的风格
+adv. 准时地
+CET4 TEM4  ( prompting, prompted, prompts )
+"""
+<<<

@@ -1,0 +1,17 @@
+created: 20220221092004564
+creator: oeyoews
+history: [{"due":"20220225163611541","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163611541"},{"due":"20220227033352878","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220226033352878"},{"due":"20220227164023124","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220226164023124"},{"due":"20220301022459716","interval":1,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220228022459715"},{"due":"20220302072634341","interval":1,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301072634340"},{"due":"20220302164334310","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301164334310"},{"due":"20220302164334310","interval":0,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220301164334310"},{"due":"20220306013340854","interval":3,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220305013340854"},{"due":"20220307062229180","interval":1,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220306062229179"},{"due":"20220308013108667","interval":1,"difficulty":null,"stability":null,"retrievability":null,"grade":2,"lapses":null,"reps":null,"review":"20220307013108667"}]
+modified: 20220311044418214
+modifier: @oeyoews
+tags: EnglishWord !
+title: lifetime
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+lifetime
+英 ['laɪftaɪm]  美 ['laɪftaɪm]
+n. 一生；寿命；终生；使用期
+adj. 一生的；终身的
+"""
+<<<

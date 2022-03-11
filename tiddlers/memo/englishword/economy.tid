@@ -1,0 +1,26 @@
+created: 20220224111700345
+creator: oeyoews
+difficulty: 1
+due: 20220424052952323
+grade: 2
+history: [{"due":"20220304080819198","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303080819198"}]
+interval: 3
+lapses: 0
+modified: 20220311044418204
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220306052952323
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: economy
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""economy
+英 [ɪ'kɒnəmɪ]  美 [ɪˈkɑnəmɪ]
+n. 经济；节约；理财
+n. (Economy)人名；(英)伊科诺米
+CET4 TEM4  ( economies )
+"""
+<<<

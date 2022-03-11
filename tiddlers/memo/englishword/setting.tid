@@ -1,0 +1,27 @@
+created: 20220223025153896
+creator: oeyoews
+difficulty: 1
+due: 20220423060218748
+grade: 1
+history: [{"due":"20220303064414306","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064414306"}]
+interval: 3
+lapses: 0
+modified: 20220311044418228
+modifier: @oeyoews
+reps: 2
+retrievability: 0.05273732312238567
+review: 20220305060218747
+stability: 48.60974728794028
+tags: EnglishWord ?
+title: setting
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+setting
+英 ['setɪŋ]  美 ['sɛtɪŋ]
+n. 环境；安装；布置；[天] 沉落
+v. 放置；沉没；使…处于某位置（set的ing形式）
+CET4 TEM4  ( settings )
+"""
+<<<

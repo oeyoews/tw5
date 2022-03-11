@@ -1,0 +1,28 @@
+created: 20220223023019329
+creator: oeyoews
+difficulty: 1
+due: 20220316012821853
+grade: 2
+history: [{"due":"20220303064321315","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064321314"},{"due":"20220307001936888","interval":4,"difficulty":1.1759478447552063,"stability":0.07545638712607733,"retrievability":0.019776864699927257,"grade":0,"lapses":1,"reps":1,"review":"20220306001936888"}]
+interval: 1
+lapses: 1
+modified: 20220311044418231
+modifier: @oeyoews
+reps: 2
+retrievability: 0.24750856222931497
+review: 20220307012821852
+stability: 8.594869020011865
+tags: EnglishWord ?
+title: tax
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+tax
+英 [tæks]  美 [tæks]
+vt. 向…课税；使负重担
+n. 税金；重负
+n. (Tax)人名；(英、匈、捷)塔克斯
+CET4 TEM4  ( taxing, taxed, taxes )
+"""
+<<<

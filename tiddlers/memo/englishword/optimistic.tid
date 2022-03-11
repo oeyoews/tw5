@@ -1,0 +1,29 @@
+created: 20220221130856480
+creator: oeyoews
+difficulty: 3.9830495523194847
+due: 20220311081009874
+grade: 1
+history: [{"due":"20220308062404768","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307062404768"}]
+interval: 1
+lapses: 0
+modified: 20220311044418216
+modifier: @oeyoews
+reps: 2
+retrievability: 0.35037881052010367
+review: 20220308081009874
+stability: 3.4189622108044793
+tags: EnglishWord ?
+title: optimistic
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+optimistic
+英 [ɒptɪ'mɪstɪk]  美 [,ɑptɪ'mɪstɪk]
+adj. 乐观的；乐观主义的
+CET4 TEM4
+"""
+<<<
+
+---
+optimize
