@@ -20,6 +20,23 @@ type: text/vnd.tiddlywiki
   </$reveal>
 \end
 
+/**
+	自定义字体
+*/
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css);
+
+* {
+  font-variant-ligatures: contextual;
+  font-display: swap;
+}
+
+/* Specify in CSS */
+code { font-family: 'Fira Code', monospace; }
+
+@supports (font-variation-settings: normal) {
+  code { font-family: 'Fira Code VF', monospace; }
+}
+
 /** test
 * Hide toolbar buttons if not hover
 * From tb_demo_onhover-toolbar-styles
