@@ -51,7 +51,7 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover {
   word-break: break-all;
   overflow: hidden;
   text-overflow: ellipsis;
-  font-weight: bold;
+  font-weight: none;
   line-height: 0.8em;
   color: <<colour tiddler-link-foreground>>;
 	/**  remove sidebar and link title dire underline <<colour tiddler-link-underline>>*/

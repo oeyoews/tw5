@@ -1,13 +1,15 @@
 caption: selficon
 created: 20220212075520970
 creator: oeyoews
-modified: 20220311041626544
+modified: 20220312151851092
 modifier: @oeyoews
 tags: $:/tags/TiddlerIconFilter Source
 title: $:/oeyoews/settings/tiddler-icons
 type: text/vnd.tiddlywiki
 
 [tag[deprecated]then[$:/images/tabler-icons/trash-off]]
+
+[tag[EnglishWord]then[$:/images/remix-icon/editor/english-input]]
 
 [tag[books]then[$:/images/bootstrap/book]]
 
