@@ -56,7 +56,7 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover {
   color: <<colour tiddler-link-foreground>>;
 	/**  remove sidebar dire underline <<colour tiddler-link-underline>>*/
   border-bottom: none;
-  text-decoration: none;
+  text-decoration: underline;
   /** hover动画 */
   transition: background 120ms ease-in 0s;
 }
