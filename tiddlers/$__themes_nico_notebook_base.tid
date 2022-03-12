@@ -51,12 +51,12 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover {
   word-break: break-all;
   overflow: hidden;
   text-overflow: ellipsis;
-  font-weight: none;
+  font-weight: bold;
   line-height: 0.8em;
   color: <<colour tiddler-link-foreground>>;
-	/**  remove sidebar dire underline <<colour tiddler-link-underline>>*/
+	/**  remove sidebar and link title dire underline <<colour tiddler-link-underline>>*/
   border-bottom: none;
-  text-decoration: underline;
+  text-decoration: none;
   /** hover动画 */
   transition: background 120ms ease-in 0s;
 }
@@ -69,10 +69,10 @@ a.tc-tiddlylink-external, a.tc-tiddlylink-external:visited {
 	padding: 2px;
   padding-bottom: 0px;
 	/** remove underline <<colour external-link-underline>>; */
-	border-bottom: none;
-	text-decoration: none;
+	border-bottom: <<colour external-link-underline>>;
+	text-decoration: underline;
   box-decoration-break: clone;
-  font-weight: normal;
+  font-weight: bold;
   color: <<external-link-foreground>>;
 }
 
