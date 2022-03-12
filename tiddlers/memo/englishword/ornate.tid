@@ -1,17 +1,17 @@
 created: 20220227035236722
 creator: oeyoews
-difficulty: 6.4217966276790595
-due: 20220313143010760
+difficulty: 7.62179662767906
+due: 20220313165747691
 grade: 0
-history: [{"due":"20220307120005671","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306120005670"},{"due":"20220308041522938","interval":1,"difficulty":5.550378810520104,"stability":0.07442546333264817,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220307041522937"},{"due":"20220309101402193","interval":1,"difficulty":5.993146219741566,"stability":0.05494480753692821,"retrievability":0.24276740922146145,"grade":0,"lapses":2,"reps":1,"review":"20220308101402193"},{"due":"20220312154749226","interval":1,"difficulty":5.340109867130493,"stability":2.510208711159803,"retrievability":0.1469636473889265,"grade":1,"lapses":2,"reps":2,"review":"20220309154749225"}]
-interval: 3
-lapses: 3
-modified: 20220312143010760
+history: [{"due":"20220307120005671","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306120005670"},{"due":"20220308041522938","interval":1,"difficulty":5.550378810520104,"stability":0.07442546333264817,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220307041522937"},{"due":"20220309101402193","interval":1,"difficulty":5.993146219741566,"stability":0.05494480753692821,"retrievability":0.24276740922146145,"grade":0,"lapses":2,"reps":1,"review":"20220308101402193"},{"due":"20220312154749226","interval":1,"difficulty":5.340109867130493,"stability":2.510208711159803,"retrievability":0.1469636473889265,"grade":1,"lapses":2,"reps":2,"review":"20220309154749225"},{"due":"20220313143010760","interval":3,"difficulty":6.4217966276790595,"stability":0.04066875311934658,"retrievability":0.8816867605485663,"grade":0,"lapses":3,"reps":1,"review":"20220312143010760"}]
+interval: 0
+lapses: 4
+modified: 20220312165747691
 modifier: @oeyoews
 reps: 1
-retrievability: 0.8816867605485663
-review: 20220312143010760
-stability: 0.04066875311934658
+retrievability: 1
+review: 20220312165747691
+stability: 0.030128153323218394
 tags: EnglishWord ?
 title: ornate
 type: text/vnd.tiddlywiki
