@@ -22,7 +22,6 @@ type: text/vnd.tiddlywiki
 
 /**
 	自定义字体
-*/
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css);
 
 * {
@@ -36,6 +35,7 @@ code { font-family: 'Fira Code', monospace; }
 @supports (font-variation-settings: normal) {
   code { font-family: 'Fira Code VF', monospace; }
 }
+*/
 
 /** test
 * Hide toolbar buttons if not hover
@@ -69,7 +69,7 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover {
   overflow: hidden;
   text-overflow: ellipsis;
   font-weight: none;
-  line-height: 0.75em;
+  line-height: 0.8em;
   color: <<colour tiddler-link-foreground>>;
 	/**  remove sidebar and link title dire underline <<colour tiddler-link-underline>>*/
   border-bottom: none;
