@@ -1,17 +1,17 @@
 created: 20220224121735983
 creator: oeyoews
-difficulty: 4.425023011561352
-due: 20220312083130186
-grade: 1
-history: [{"due":"20220308104657543","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104657543"},{"due":"20220309070625330","interval":1,"difficulty":4.983049552319485,"stability":0.07425364270040997,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220308070625330"}]
-interval: 1
+difficulty: 3.527337017642883
+due: 20220321141611257
+grade: 2
+history: [{"due":"20220308104657543","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104657543"},{"due":"20220309070625330","interval":1,"difficulty":4.983049552319485,"stability":0.07425364270040997,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220308070625330"},{"due":"20220312083130186","interval":1,"difficulty":4.425023011561352,"stability":3.0749416523642665,"retrievability":0.24197345924186736,"grade":1,"lapses":1,"reps":2,"review":"20220309083130186"}]
+interval: 3
 lapses: 1
-modified: 20220311044418210
+modified: 20220312141611258
 modifier: @oeyoews
-reps: 2
-retrievability: 0.24197345924186736
-review: 20220309083130186
-stability: 3.0749416523642665
+reps: 3
+retrievability: 0.9023140060815306
+review: 20220312141611257
+stability: 9.33279084402518
 tags: EnglishWord ?
 title: humiliation
 type: text/vnd.tiddlywiki

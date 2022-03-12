@@ -2,17 +2,17 @@ caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932302
 creator: oeyoews
 difficulty: 1
-due: 20220311005802238
+due: 20220427141316199
 grade: 2
-history: [{"due":"20220227160744163","interval":0,"difficulty":1.6476805400532035,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220226160744162"},{"due":"20220228160443471","interval":0,"difficulty":1,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":3,"review":"20220227160443471"},{"due":"20220301160147118","interval":0,"difficulty":1,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":4,"review":"20220228160147117"},{"due":"20220302161900304","interval":0,"difficulty":1,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":5,"review":"20220301161900304"},{"due":"20220311005802238","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":6,"review":"20220303005802238"}]
-interval: 1
+history: [{"due":"20220227160744163","interval":0,"difficulty":1.6476805400532035,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220226160744162"},{"due":"20220228160443471","interval":0,"difficulty":1,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":3,"review":"20220227160443471"},{"due":"20220301160147118","interval":0,"difficulty":1,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":4,"review":"20220228160147117"},{"due":"20220302161900304","interval":0,"difficulty":1,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":5,"review":"20220301161900304"},{"due":"20220311005802238","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":6,"review":"20220303005802238"},{"due":"20220311005802238","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":6,"review":"20220303005802238"}]
+interval: 9
 lapses: 0
-modified: 20220311044458941
+modified: 20220312141316199
 modifier: @oeyoews
-reps: 6
-retrievability: 0.6177644323744501
-review: 20220303005802238
-stability: 8.499750752001383
+reps: 7
+retrievability: 0.8944364137170175
+review: 20220312141316199
+stability: 45.50938669548674
 tags: [[必考核心词汇 Word List 1]] ?
 title: 2022hkw/20220119011932302012
 type: text/vnd.tiddlywiki
