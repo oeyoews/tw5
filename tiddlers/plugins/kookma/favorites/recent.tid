@@ -1,8 +1,8 @@
 caption: Recently added
 created: 20200103090757281
 creator: a revised version of Andrew Harrison favorite plugin
-list: [[$:/config/oeyoews/Creat EnglishWord]] [[CSS only Timer]] $:/config/oeyoews/footer $:/ContributionBanner $:/config/oeyoews/getplugins/button $:/config/FileSystemPaths $:/config/SyncFilter $:/oeyoews/settings/tiddler-icons [[Image and Icons]] [[Favorites More Examples]]
-modified: 20220310164023543
+list: [[$:/config/oeyoews/Creat EnglishWord]] $:/config/oeyoews/footer $:/ContributionBanner $:/config/oeyoews/getplugins/button $:/config/FileSystemPaths $:/config/SyncFilter $:/oeyoews/settings/tiddler-icons [[Image and Icons]] [[Favorites More Examples]]
+modified: 20220312082930222
 modifier: @oeyoews
 tags: $:/tags/Favorites/Folder
 title: $:/plugins/kookma/favorites/recent
