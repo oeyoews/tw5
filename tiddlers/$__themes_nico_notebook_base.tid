@@ -70,9 +70,9 @@ a.tc-tiddlylink-external, a.tc-tiddlylink-external:visited {
   padding-bottom: 0px;
 	/** remove underline <<colour external-link-underline>>; */
 	border-bottom: <<colour external-link-underline>>;
-	text-decoration: underline;
+	text-decoration: none;
   box-decoration-break: clone;
-  font-weight: bold;
+  font-weight: normal;
   color: <<external-link-foreground>>;
 }
 
@@ -358,7 +358,7 @@ input[type="search"]::-webkit-search-cancel-button {
   margin: 0;
   padding: 0;
   list-style: none;
-  line-height: 1.8em;
+  line-height: 1.4em;
 }
 
 .nc-sidebar ol ol {
