@@ -85,7 +85,7 @@ a.tc-tiddlylink-external:hover {
 }
 
 
-/** 标签 */
+/** Tag style */
 button.tc-tag-label, span.tc-tag-label {
   border-radius: 3px;
   background-color: <<colour tag-background>>;

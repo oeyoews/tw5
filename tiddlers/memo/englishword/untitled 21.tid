@@ -1,20 +1,11 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220301073228524
 creator: oeyoews
-difficulty: 3.134729389433022
-due: 20220311090807599
-grade: -1
 history: []
-interval: 0
-lapses: 0
-modified: 20220311044418233
+modified: 20220312082238039
 modifier: @oeyoews
 page-cover: https://cdn.jsdelivr.net/gh/oeyoews/img/cat-scape.jpg
-reps: 1
-retrievability: 1
-review: 20220310090807599
-stability: 0.10011596679687501
-tags: EnglishWord ?
+tags: EnglishWord !
 title: untitled 21
 type: text/vnd.tiddlywiki
 word: abandon
