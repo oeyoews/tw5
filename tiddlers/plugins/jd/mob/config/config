@@ -2,9 +2,9 @@ freshinstall: yes
 defaultconfirm: cancel
 configtype: list
 fontsize: small
-scrollbars: show
+scrollbars: hide
 barpreset: 5
-storyfix: yes
+storyfix: no
 titlebaradjust: no
 topbar: hide
 topbarchoice: hide
