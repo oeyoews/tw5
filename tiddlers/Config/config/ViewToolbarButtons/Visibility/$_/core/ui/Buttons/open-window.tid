@@ -1,7 +1,8 @@
 created: 20211227235014668
-modified: 20220310163904068
+creator: @oeyoews
+modified: 20220312044819706
 modifier: @oeyoews
 title: $:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/open-window
 type: text/vnd.tiddlywiki
 
-hide
+show
