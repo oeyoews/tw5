@@ -3,8 +3,7 @@ created: 20200419143537510
 creator: soren
 description: Copy the name of this tiddler to the clipboard
 due: 20220312120000000
-list-after: $:/core/ui/Buttons/info
-modified: 20220311082355497
+modified: 20220312164952121
 modifier: @oeyoews
 tags: $:/tags/ViewToolbar
 title: $:/config/oeyoews/copybutton

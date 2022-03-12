@@ -1,18 +1,9 @@
 created: 20220210181058827
 creator: oeyoews
-difficulty: 3.5673654776615145
-due: 20220312022346045
-grade: 2
 history: [{"due":"20220223161017461","interval":1,"difficulty":6.148683298050514,"stability":1.4816364413634358,"retrievability":0.9486832980505138,"grade":0,"lapses":1,"reps":1,"review":"20220222161017460"},{"due":"20220224133851428","interval":0,"difficulty":5.348683298050514,"stability":1.4816364413634358,"retrievability":1,"grade":2,"lapses":1,"reps":2,"review":"20220223133851427"},{"due":"20220228082926613","interval":1,"difficulty":4.480041887453756,"stability":3.525368081053402,"retrievability":0.9313585894032408,"grade":2,"lapses":1,"reps":3,"review":"20220224082926613"},{"due":"20220312022346045","interval":4,"difficulty":3.5673654776615145,"stability":11.575473919831882,"retrievability":0.8873235902077584,"grade":2,"lapses":1,"reps":4,"review":"20220228022346045"}]
-interval: 4
-lapses: 1
-modified: 20220311044418203
+modified: 20220312164634492
 modifier: @oeyoews
-reps: 4
-retrievability: 0.8873235902077584
-review: 20220228022346045
-stability: 11.575473919831882
-tags: EnglishWord ?
+tags: EnglishWord !
 title: downtime
 type: text/vnd.tiddlywiki
 
