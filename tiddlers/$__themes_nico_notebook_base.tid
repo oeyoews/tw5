@@ -52,7 +52,7 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover {
   overflow: hidden;
   text-overflow: ellipsis;
   font-weight: none;
-  line-height: 0.8em;
+  line-height: 0.75em;
   color: <<colour tiddler-link-foreground>>;
 	/**  remove sidebar and link title dire underline <<colour tiddler-link-underline>>*/
   border-bottom: none;
@@ -662,6 +662,11 @@ html, body {
 pre, code {
   font-family: {{$:/themes/nico/notebook/settings/codefontfamily}};
   padding: 4px 2px 0px 2px;
+}
+
+pre.cm-quote-line {
+    padding-left: 0.4em !important;
+    border-left: #569b36 solid 0.2em !important;
 }
 
 /*@oeyoews*/
