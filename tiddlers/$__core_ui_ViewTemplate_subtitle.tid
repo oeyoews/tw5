@@ -1,6 +1,6 @@
 created: 20210611015734693
 creator: @oeyoews
-modified: 20220312044530655
+modified: 20220312053937111
 modifier: @oeyoews
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/subtitle
@@ -11,10 +11,10 @@ type: text/vnd.tiddlywiki
 <$reveal type="nomatch" stateTitle=<<folded-state>> text="hide" tag="div" retain="yes" animate="yes">
 <div class="tc-subtitle">
 <div>
-<i class="fa fa-history"/>&ensp;Created&nbsp;<$view field="created" format="date" template={{$:/language/Tiddler/DateFormat}} />
+<i class="fa fa-history"/>&ensp;Created &nbsp;<$view field="created" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss"/>
 </div>
 <div>
-<i class="fa fa-clock"/>&ensp;Updated&nbsp;<$view field="modified" format="date" template={{$:/language/Tiddler/DateFormat}} />
+<i class="fa fa-clock"/>&ensp;Updated &nbsp;<$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss" />
 </div>
 <$list filter="[all[current]has[description]]">
 	<div>
