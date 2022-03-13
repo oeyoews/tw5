@@ -1,19 +1,10 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932334
 creator: @oeyoews
-difficulty: 2.5144789956043523
-due: 20220313164747704
-grade: -1
 history: []
-interval: 0
-lapses: 0
-modified: 20220312164747704
+modified: 20220313160309373
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220312164747704
-stability: 0.10002899169921875
-tags: [[基础词汇 Word List 1]] ?
+tags: [[基础词汇 Word List 1]] !
 title: 2022hkw/20220119011932334801
 type: text/vnd.tiddlywiki
 word: bin

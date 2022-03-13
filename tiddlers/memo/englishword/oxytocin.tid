@@ -1,17 +1,17 @@
 created: 20220225034305548
 creator: oeyoews
-difficulty: 5.794000786808928
-due: 20220314043128891
+difficulty: 6.994000786808928
+due: 20220314160304522
 grade: 0
-history: [{"due":"20220308061742334","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061742334"},{"due":"20220309101419776","interval":1,"difficulty":4.983049552319485,"stability":0.07416773238429089,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220308101419776"},{"due":"20220311013815502","interval":2,"difficulty":5.241408556451306,"stability":0.05494480753692821,"retrievability":0.05835900413182145,"grade":0,"lapses":2,"reps":1,"review":"20220310013815502"},{"due":"20220312054251275","interval":1,"difficulty":5.588372203840233,"stability":0.04068054026463326,"retrievability":0.1469636473889265,"grade":0,"lapses":3,"reps":1,"review":"20220311054251275"}]
-interval: 2
-lapses: 4
-modified: 20220313043128891
+history: [{"due":"20220308061742334","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061742334"},{"due":"20220309101419776","interval":1,"difficulty":4.983049552319485,"stability":0.07416773238429089,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220308101419776"},{"due":"20220311013815502","interval":2,"difficulty":5.241408556451306,"stability":0.05494480753692821,"retrievability":0.05835900413182145,"grade":0,"lapses":2,"reps":1,"review":"20220310013815502"},{"due":"20220312054251275","interval":1,"difficulty":5.588372203840233,"stability":0.04068054026463326,"retrievability":0.1469636473889265,"grade":0,"lapses":3,"reps":1,"review":"20220311054251275"},{"due":"20220314043128891","interval":2,"difficulty":5.794000786808928,"stability":0.030123787257219304,"retrievability":0.005628582968693983,"grade":0,"lapses":4,"reps":1,"review":"20220313043128891"}]
+interval: 0
+lapses: 5
+modified: 20220313160304522
 modifier: @oeyoews
 reps: 1
-retrievability: 0.005628582968693983
-review: 20220313043128891
-stability: 0.030123787257219304
+retrievability: 1
+review: 20220313160304521
+stability: 0.0223146332454654
 tags: EnglishWord ?
 title: oxytocin
 type: text/vnd.tiddlywiki

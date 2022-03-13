@@ -1,17 +1,17 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932302
 creator: oeyoews
-difficulty: 5.186801095891741
-due: 20220314043502476
-grade: 0
-history: [{"due":"20220227161618823","interval":0,"difficulty":2.6476805400532037,"stability":0.21875,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220226161618822"},{"due":"20220228173916470","interval":0,"difficulty":1.8476805400532037,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":3,"review":"20220227173916469"},{"due":"20220301165803770","interval":0,"difficulty":3.0476805400532037,"stability":0.08507834253141604,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220228165803770"},{"due":"20220302163254744","interval":0,"difficulty":4.247680540053204,"stability":0.06302758633267336,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220301163254744"},{"due":"20220302163254744","interval":0,"difficulty":4.247680540053204,"stability":0.06302758633267336,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220301163254744"},{"due":"20220305034647496","interval":2,"difficulty":4.483000243125188,"stability":0.04367447516744718,"retrievability":0.03531970307198372,"grade":0,"lapses":3,"reps":1,"review":"20220304034647495"},{"due":"20220307002226467","interval":2,"difficulty":4.691028324615207,"stability":0.03067827763910418,"retrievability":0.008028081490018674,"grade":0,"lapses":4,"reps":1,"review":"20220306002226467"},{"due":"20220309021807697","interval":1,"difficulty":3.9232740860500357,"stability":2.346948854934562,"retrievability":0.03224576143482898,"grade":1,"lapses":4,"reps":2,"review":"20220307021807697"},{"due":"20220312164228210","interval":1,"difficulty":4.079374296618718,"stability":4.338395570206262,"retrievability":0.956100210568682,"grade":1,"lapses":4,"reps":3,"review":"20220308164228209"}]
-interval: 4
+difficulty: 5.386801095891741
+due: 20220314160406790
+grade: 1
+history: [{"due":"20220227161618823","interval":0,"difficulty":2.6476805400532037,"stability":0.21875,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220226161618822"},{"due":"20220228173916470","interval":0,"difficulty":1.8476805400532037,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":3,"review":"20220227173916469"},{"due":"20220301165803770","interval":0,"difficulty":3.0476805400532037,"stability":0.08507834253141604,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220228165803770"},{"due":"20220302163254744","interval":0,"difficulty":4.247680540053204,"stability":0.06302758633267336,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220301163254744"},{"due":"20220302163254744","interval":0,"difficulty":4.247680540053204,"stability":0.06302758633267336,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220301163254744"},{"due":"20220305034647496","interval":2,"difficulty":4.483000243125188,"stability":0.04367447516744718,"retrievability":0.03531970307198372,"grade":0,"lapses":3,"reps":1,"review":"20220304034647495"},{"due":"20220307002226467","interval":2,"difficulty":4.691028324615207,"stability":0.03067827763910418,"retrievability":0.008028081490018674,"grade":0,"lapses":4,"reps":1,"review":"20220306002226467"},{"due":"20220309021807697","interval":1,"difficulty":3.9232740860500357,"stability":2.346948854934562,"retrievability":0.03224576143482898,"grade":1,"lapses":4,"reps":2,"review":"20220307021807697"},{"due":"20220312164228210","interval":1,"difficulty":4.079374296618718,"stability":4.338395570206262,"retrievability":0.956100210568682,"grade":1,"lapses":4,"reps":3,"review":"20220308164228209"},{"due":"20220314043502476","interval":4,"difficulty":5.186801095891741,"stability":0.02231625047608781,"retrievability":0.9074267992730232,"grade":0,"lapses":5,"reps":1,"review":"20220313043502476"}]
+interval: 0
 lapses: 5
-modified: 20220313043502476
+modified: 20220313160406790
 modifier: @oeyoews
-reps: 1
-retrievability: 0.9074267992730232
-review: 20220313043502476
+reps: 2
+retrievability: 1
+review: 20220313160406790
 stability: 0.02231625047608781
 tags: [[必考核心词汇 Word List 1]] ?
 title: 2022hkw/20220119011932302172

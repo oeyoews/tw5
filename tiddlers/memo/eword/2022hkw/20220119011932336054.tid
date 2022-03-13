@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932336
 creator: @oeyoews
-difficulty: 3.3772760368314025
-due: 20220314043456179
+difficulty: 4.577276036831402
+due: 20220314160359352
 grade: 0
-history: [{"due":"20220311105910868","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310105910868"}]
-interval: 3
-lapses: 1
-modified: 20220313043456179
+history: [{"due":"20220311105910868","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310105910868"},{"due":"20220314043456179","interval":3,"difficulty":3.3772760368314025,"stability":0.07409256085768667,"retrievability":0.042546647398380294,"grade":0,"lapses":1,"reps":1,"review":"20220313043456179"}]
+interval: 0
+lapses: 2
+modified: 20220313160359352
 modifier: @oeyoews
 reps: 1
-retrievability: 0.042546647398380294
-review: 20220313043456179
-stability: 0.07409256085768667
+retrievability: 1
+review: 20220313160359351
+stability: 0.054885141354873004
 tags: [[基础词汇 Word List 4]] ?
 title: 2022hkw/20220119011932336054
 type: text/vnd.tiddlywiki
