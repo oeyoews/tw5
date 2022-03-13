@@ -20,22 +20,6 @@ type: text/vnd.tiddlywiki
   </$reveal>
 \end
 
-/**
-	自定义字体
-@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css);
-
-* {
-  font-variant-ligatures: contextual;
-  font-display: swap;
-}
-
-/* Specify in CSS */
-code { font-family: 'Fira Code', monospace; }
-
-@supports (font-variation-settings: normal) {
-  code { font-family: 'Fira Code VF', monospace; }
-}
-*/
 
 /** test
 * Hide toolbar buttons if not hover
@@ -62,14 +46,12 @@ video::-webkit-media-controls-timeline {
 */
 
 a.tc-tiddlylink, a.tc-tiddlylink:hover {
-  /*padding: 1px;*/
-  /*padding-bottom: 0;*/
   white-space: normal;
   word-break: break-all;
   overflow: hidden;
   text-overflow: ellipsis;
   font-weight: none;
-  line-height: 0.75em;
+  /*line-height: 1.3em;*/
   color: <<colour tiddler-link-foreground>>;
 	/**  remove sidebar and link title dire underline <<colour tiddler-link-underline>>*/
   border-bottom: none;
@@ -282,7 +264,7 @@ input[type="search"]::-webkit-search-cancel-button {
   border: 0;
   box-shadow: 0 0 6px 0 rgba(0,0,0,.2);
   border-radius: 6px;
-  padding: 20px 0;
+  padding: 10px;
 }
 
 .nc-bar p {
@@ -439,7 +421,8 @@ input[type="search"]::-webkit-search-cancel-button {
 /*modify @oeyoews*/
 .nc-sidebar .content {
   padding: 6px 15px;
-  font-size: 1.1em;
+  /*font-weight: normal;*/
+  font-size: 1.2em;
 }
 
 .nc-sidebar .tc-tiddlylink {
