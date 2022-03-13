@@ -1,9 +1,9 @@
 created: 20220129132048996
 creator: oeyoews
-modified: 20220218144240557
-modifier: oeyoews
+modified: 20220313121341785
+modifier: @oeyoews
 tags: $:/tags/Macro TiddlyWiki5
-title: doc tw5 macro
+title: Tw5 Doc Macros
 type: text/vnd.tiddlywiki
 
 \define .concat(1,2,3,4,5) $1$$2$$3$$4$$5$
