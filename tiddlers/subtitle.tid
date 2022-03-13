@@ -1,6 +1,6 @@
 created: 20220218072617844
 creator: oeyoews
-modified: 20220310064232689
+modified: 20220313054054916
 modifier: @oeyoews
 tags: config
 title: subtitle
@@ -19,4 +19,4 @@ type: text/vnd.tiddlywiki
 <<dbadge TW5 5.2.1 success>>
 -->
 
-<$count filter="[has[text]]-[is[system]]-[type[image/jpeg]]-[type[image/png]]"/> ideas!
+<i class="fa fa-flag"/> <$count filter="[has[text]]-[is[system]]-[type[image/jpeg]]-[type[image/png]]"/> ideas!
