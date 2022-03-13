@@ -1,16 +1,16 @@
 created: 20220221093306097
 creator: oeyoews
-difficulty: 5.0402507677058335
-due: 20220314050928128
-grade: 0
-history: [{"due":"20220308061402784","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061402784"},{"due":"20220311070752549","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308070752549"}]
-interval: 5
+difficulty: 5.240250767705834
+due: 20220314160024796
+grade: 1
+history: [{"due":"20220308061402784","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061402784"},{"due":"20220311070752549","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308070752549"},{"due":"20220314050928128","interval":5,"difficulty":5.0402507677058335,"stability":0.07409256085768667,"retrievability":0.8572012153863486,"grade":0,"lapses":1,"reps":1,"review":"20220313050928127"}]
+interval: 0
 lapses: 1
-modified: 20220313050928128
+modified: 20220313160024796
 modifier: @oeyoews
-reps: 1
-retrievability: 0.8572012153863486
-review: 20220313050928127
+reps: 2
+retrievability: 1
+review: 20220313160024794
 stability: 0.07409256085768667
 tags: EnglishWord ?
 title: intensify
