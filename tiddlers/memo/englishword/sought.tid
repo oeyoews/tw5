@@ -1,19 +1,10 @@
 created: 20220221114221143
 creator: oeyoews
-difficulty: 3.5503788105201037
-due: 20220311012809035
-grade: 2
 history: [{"due":"20220307141956345","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306141956345"}]
-interval: 1
-lapses: 0
-modified: 20220311044418229
+modified: 20220313051410869
 modifier: @oeyoews
 page-cover: 
-reps: 2
-retrievability: 0.35037881052010367
-review: 20220307012809035
-stability: 3.6971315838315895
-tags: EnglishWord ?
+tags: EnglishWord
 title: sought
 type: text/vnd.tiddlywiki
 
