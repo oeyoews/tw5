@@ -1,0 +1,11 @@
+caption: blue block
+created: 20220109083140834
+creator: oeyoews
+modified: 20220313115613900
+modifier: @oeyoews
+tags: $:/tags/TextEditor/Snippet
+title: blue
+type: text/vnd.tiddlywiki
+
+ <<alert primary "$1
+ " width:100%>>

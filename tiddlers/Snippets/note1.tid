@@ -1,0 +1,10 @@
+caption: note1
+created: 20220217162747930
+creator: oeyoews
+modified: 20220313115613907
+modifier: @oeyoews
+tags: $:/tags/TextEditor/Snippet
+title: note1
+type: text/vnd.tiddlywiki
+
+> @@color:White;background-color:Red;NOTE@@ $1

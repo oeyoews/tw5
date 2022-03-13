@@ -1,0 +1,12 @@
+caption: add indent use css style
+created: 20220109132508072
+modified: 20220313115613908
+modifier: @oeyoews
+tags: $:/tags/TextEditor/Snippet snippets
+title: para
+type: text/vnd.tiddlywiki
+
+<p style="text-indent:2em">
+<!-- write here -->
+
+</p>

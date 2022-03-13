@@ -1,0 +1,12 @@
+caption: alldisplay
+created: 20220109062852994
+creator: oeyoews
+modified: 20220313115613900
+modifier: @oeyoews
+tags: $:/tags/TextEditor/Snippet snippets
+title: alldisplay
+type: text/vnd.tiddlywiki
+
+<div class="tc-table-of-contents">
+<<toc-selective-expandable '$1' "sort[title]">>
+</div>

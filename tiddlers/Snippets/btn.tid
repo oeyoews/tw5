@@ -1,0 +1,10 @@
+caption: keybutton
+created: 20220104181417393
+creator: oeyoews
+modified: 20220313115613900
+modifier: @oeyoews
+tags: $:/tags/TextEditor/Snippet docs
+title: btn
+type: text/vnd.tiddlywiki
+
+<kbd>$1</kbd>

@@ -1,0 +1,10 @@
+caption: success
+created: 20220109145238830
+modified: 20220313115613904
+modifier: @oeyoews
+tags: $:/tags/TextEditor/Snippet snippets docs
+title: green
+type: text/vnd.tiddlywiki
+
+ <<alert success "
+ " width:100%>>

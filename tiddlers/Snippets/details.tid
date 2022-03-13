@@ -1,0 +1,13 @@
+caption: details for html
+created: 20220105053205277
+creator: oeyoews
+modified: 20220313115613901
+modifier: @oeyoews
+tags: $:/tags/TextEditor/Snippet
+title: details
+type: text/vnd.tiddlywiki
+
+<details>
+<summary>TOC$1</summary>
+
+</details>

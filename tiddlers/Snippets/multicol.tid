@@ -1,0 +1,10 @@
+caption: multicol
+created: 20220109151327594
+modified: 20220313115613906
+modifier: @oeyoews
+tags: $:/tags/TextEditor/Snippet snippets
+title: multicol
+type: text/vnd.tiddlywiki
+
+<<multicol src:"
+" ncol:"2" class:"">>

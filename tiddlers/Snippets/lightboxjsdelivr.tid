@@ -1,0 +1,9 @@
+created: 20220225064923193
+creator: oeyoews
+modified: 20220313115613905
+modifier: @oeyoews
+tags: $:/tags/TextEditor/Snippet
+title: lightboxjsdelivr
+type: text/vnd.tiddlywiki
+
+<<lightbox "https://cdn.jsdelivr.net/gh/oeyoews/img/$1.png" "Hello" >>

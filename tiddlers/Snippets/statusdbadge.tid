@@ -1,0 +1,9 @@
+created: 20220304013614573
+creator: oeyoews
+modified: 20220313115613910
+modifier: @oeyoews
+tags: $:/tags/TextEditor/Snippet
+title: statusdbadge
+type: text/vnd.tiddlywiki
+
+<<dbadge Status "$1" >>

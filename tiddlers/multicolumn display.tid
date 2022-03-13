@@ -1,9 +1,0 @@
-caption: multicolumn display
-created: 20220107153753445
-modified: 20220217114047161
-modifier: oeyoews
-tags: $:/tags/TextEditor/Snippet snippets
-title: multicolumn display
-type: text/vnd.tiddlywiki
-
-<<tabs tabsList:"[tag[]]" default:"" class:"tc-vertical">>
