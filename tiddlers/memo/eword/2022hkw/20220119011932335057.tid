@@ -1,19 +1,10 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932335
 creator: @oeyoews
-difficulty: 2.8048752853837478
-due: 20220313084919779
-grade: -1
 history: []
-interval: 0
-lapses: 0
-modified: 20220312084919779
+modified: 20220313052433694
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220312084919779
-stability: 0.10002899169921875
-tags: [[基础词汇 Word List 2]] ?
+tags: [[基础词汇 Word List 2]] !
 title: 2022hkw/20220119011932335057
 type: text/vnd.tiddlywiki
 word: briefcase

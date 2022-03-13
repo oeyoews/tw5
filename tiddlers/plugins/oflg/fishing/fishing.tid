@@ -49,6 +49,10 @@ type: text/vnd.tiddlywiki
                                         $message="tm-add-tag"
                                         $param="?"
                                     />
+                                    <$action-sendmessage
+                                        $message="tm-remove-tag"
+                                        $param="!"
+                                    />
                                     <$list
                                         filter="[<currentTiddler>!search:caption:literal[Excerpt}}]]"
                                         variable="null"
@@ -131,6 +135,10 @@ type: text/vnd.tiddlywiki
                                     $message="tm-remove-tag"
                                     $param="?"
                                 />
+                                <$action-sendmessage
+                                     $message="tm-add-tag"
+                                     $param="!"
+                                />
                                 <$action-deletefield
                                     due
                                     interval
@@ -169,6 +177,14 @@ type: text/vnd.tiddlywiki
                                 class="tc-btn-invisible tc-tiddlylink"
                                 style="padding:3px 10px;"
                             >
+                            <$action-sendmessage
+                              $message="tm-add-tag"
+                              $param="?"
+                            />
+                            <$action-sendmessage
+                              $message="tm-remove-tag"
+                              $param="!"
+                            />
                                 <$action-setfield
                                     due={{{[[7]due[]]}}}
                                 />
@@ -196,6 +212,14 @@ type: text/vnd.tiddlywiki
                                 class="tc-btn-invisible tc-tiddlylink"
                                 style="padding:3px 10px;"
                             >
+                            <$action-sendmessage
+                              $message="tm-add-tag"
+                              $param="?"
+                            />
+                            <$action-sendmessage
+                              $message="tm-remove-tag"
+                              $param="!"
+                            />
                                 <$action-setfield
                                     due={{{[[1]due[]]}}}
                                 />
