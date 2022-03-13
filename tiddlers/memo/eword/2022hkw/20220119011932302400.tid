@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932302
 creator: @oeyoews
-difficulty: 3.0596188436347647
-due: 20220313085658468
+difficulty: 3.161732456157628
+due: 20220326053038401
 grade: 1
-history: [{"due":"20220309102037585","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220308102037585"}]
-interval: 1
+history: [{"due":"20220309102037585","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220308102037585"},{"due":"20220313085658468","interval":1,"difficulty":3.0596188436347647,"stability":4.091082244434676,"retrievability":0.34910423292122506,"grade":1,"lapses":0,"reps":2,"review":"20220309085658466"}]
+interval: 4
 lapses: 0
-modified: 20220311044458946
+modified: 20220313053038401
 modifier: @oeyoews
-reps: 2
-retrievability: 0.34910423292122506
-review: 20220309085658466
-stability: 4.091082244434676
+reps: 3
+retrievability: 0.9021136125228629
+review: 20220313053038401
+stability: 12.599046763864589
 tags: [[必考核心词汇 Word List 2]] ?
 title: 2022hkw/20220119011932302400
 type: text/vnd.tiddlywiki
