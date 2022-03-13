@@ -1,6 +1,0 @@
-/* Only coloring the left border */
-
-[data-tags~="beginner"]{  border-left: 5px solid #fc6600;}
-[data-tags~="elementary"]{  border-left: 5px solid #febf04;}
-[data-tags~="intermediate"]{  border-left: 5px solid #008000;}
-[data-tags~="advanced"]{  border-left: 5px solid #0080fe;}
