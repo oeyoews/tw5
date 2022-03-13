@@ -1,9 +1,0 @@
-created: 20220307153653896
-creator: @oeyoews
-modified: 20220313094414994
-modifier: @oeyoews
-tags: demo
-title: Index Button
-type: text/vnd.tiddlywiki
-
-<$link overrideClass="btn btn-success" to="Index">Index</$link>

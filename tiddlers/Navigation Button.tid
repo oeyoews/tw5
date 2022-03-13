@@ -1,0 +1,11 @@
+created: 20220307153653896
+creator: @oeyoews
+modified: 20220313114206528
+modifier: @oeyoews
+tags: demo
+title: Navigation Button
+type: text/vnd.tiddlywiki
+
+<$link overrideClass="btn btn-success" to="Index">Index</$link>
+<$link overrideClass="btn btn-warning" to="Inbox">Inbox</$link>
+<$link overrideClass="btn btn-info" to="Fishing Manual">Fish</$link>
