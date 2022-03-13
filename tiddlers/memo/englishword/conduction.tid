@@ -1,17 +1,17 @@
 created: 20220306025310442
 creator: oeyoews
-difficulty: 3.683833622354247
-due: 20220312055626491
-grade: 0
-history: [{"due":"20220311023045384","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023045384"}]
-interval: 1
+difficulty: 2.9420966211870265
+due: 20220319043748139
+grade: 1
+history: [{"due":"20220311023045384","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023045384"},{"due":"20220312055626491","interval":1,"difficulty":3.683833622354247,"stability":0.07412477722623134,"retrievability":0.34910423292122506,"grade":0,"lapses":1,"reps":1,"review":"20220311055626491"}]
+interval: 2
 lapses: 1
-modified: 20220311055626491
+modified: 20220313043748139
 modifier: @oeyoews
-reps: 1
-retrievability: 0.34910423292122506
-review: 20220311055626491
-stability: 0.07412477722623134
+reps: 2
+retrievability: 0.05826299883277926
+review: 20220313043748139
+stability: 5.574835453372412
 tags: EnglishWord ?
 title: conduction
 type: text/vnd.tiddlywiki
