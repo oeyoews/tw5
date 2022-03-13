@@ -20,6 +20,12 @@ type: text/vnd.tiddlywiki
   </$reveal>
 \end
 
+/*
+** TW-Locator and Bi-Link list
+*/
+.tc-table-of-contents li a {
+  font-weight: normal;
+}
 
 /** test
 * Hide toolbar buttons if not hover
