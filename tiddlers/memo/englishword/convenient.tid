@@ -1,16 +1,16 @@
 created: 20220313075156613
 creator: @oeyoews
-difficulty: 2.2581235181359487
-due: 20220314113116827
-grade: -1
-history: []
+difficulty: 2.458123518135949
+due: 20220314163906204
+grade: 1
+history: [{"due":"20220314113116827","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113116827"}]
 interval: 0
 lapses: 0
-modified: 20220313113116827
+modified: 20220313163906204
 modifier: @oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220313113116827
+review: 20220313163906204
 stability: 0.1000072479248047
 tags: EnglishWord ?
 title: convenient
