@@ -1,7 +1,7 @@
 caption: selficon
 created: 20220212075520970
 creator: oeyoews
-modified: 20220313002444259
+modified: 20220313163708292
 modifier: @oeyoews
 tags: $:/tags/TiddlerIconFilter Source
 title: $:/oeyoews/settings/tiddler-icons
@@ -41,7 +41,7 @@ type: text/vnd.tiddlywiki
 
 [tag[docs]then[$:/images/svg-icon/books]]
 
-[tag[private]then[$:/images/remix-icon/development/git-repository-private-line]]
+[tag[private]then[$:/images/coreui-icons/brand/cib-gnu-privacy-guard]]
 
 [tag[python]then[$:/images/tabler-icons/brand-python]]
 
