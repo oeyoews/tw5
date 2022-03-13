@@ -1,17 +1,17 @@
 created: 20220226032810447
 creator: oeyoews
-difficulty: 2.9830495523194847
-due: 20220312070850150
-grade: 2
-history: [{"due":"20220308061707460","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061707460"}]
-interval: 1
+difficulty: 3.0641932281711215
+due: 20220328043307321
+grade: 1
+history: [{"due":"20220308061707460","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061707460"},{"due":"20220312070850150","interval":1,"difficulty":2.9830495523194847,"stability":4.163309058210984,"retrievability":0.35037881052010367,"grade":2,"lapses":0,"reps":2,"review":"20220308070850150"}]
+interval: 5
 lapses: 0
-modified: 20220311044418213
+modified: 20220313043307321
 modifier: @oeyoews
-reps: 2
-retrievability: 0.35037881052010367
-review: 20220308070850150
-stability: 4.163309058210984
+reps: 3
+retrievability: 0.8811436758516364
+review: 20220313043307321
+stability: 14.986818206810876
 tags: EnglishWord ?
 title: justices
 type: text/vnd.tiddlywiki

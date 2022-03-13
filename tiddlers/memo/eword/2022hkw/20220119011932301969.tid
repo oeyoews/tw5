@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932301
 creator: oeyoews
-difficulty: 1.9045436131996827
-due: 20220312160357008
+difficulty: 1.0056312079110674
+due: 20220514043148047
 grade: 2
-history: [{"due":"20220228082755851","interval":1,"difficulty":2.780372221787294,"stability":4.00825033798033,"retrievability":0.8325719125598604,"grade":2,"lapses":0,"reps":2,"review":"20220224082755851"},{"due":"20220312160357008","interval":3,"difficulty":1.9045436131996827,"stability":13.150742139604393,"retrievability":0.9241713914123887,"grade":2,"lapses":0,"reps":3,"review":"20220227160357008"}]
-interval: 3
+history: [{"due":"20220228082755851","interval":1,"difficulty":2.780372221787294,"stability":4.00825033798033,"retrievability":0.8325719125598604,"grade":2,"lapses":0,"reps":2,"review":"20220224082755851"},{"due":"20220312160357008","interval":3,"difficulty":1.9045436131996827,"stability":13.150742139604393,"retrievability":0.9241713914123887,"grade":2,"lapses":0,"reps":3,"review":"20220227160357008"},{"due":"20220312160357008","interval":3,"difficulty":1.9045436131996827,"stability":13.150742139604393,"retrievability":0.9241713914123887,"grade":2,"lapses":0,"reps":3,"review":"20220227160357008"}]
+interval: 13
 lapses: 0
-modified: 20220311044458941
+modified: 20220313043148047
 modifier: @oeyoews
-reps: 3
-retrievability: 0.9241713914123887
-review: 20220227160357008
-stability: 13.150742139604393
+reps: 4
+retrievability: 0.9010875947113849
+review: 20220313043148046
+stability: 61.960953256749114
 tags: [[必考核心词汇 Word List 1]] ?
 title: 2022hkw/20220119011932301969
 type: text/vnd.tiddlywiki

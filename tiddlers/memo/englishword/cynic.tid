@@ -1,17 +1,17 @@
 created: 20220222010527490
 creator: oeyoews
-difficulty: 5.067077963053101
-due: 20220313100622470
-grade: 0
-history: [{"due":"20220308104539489","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104539489"},{"due":"20220311065756798","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308065756798"}]
-interval: 4
+difficulty: 3.5083558396935626
+due: 20220317043256484
+grade: 2
+history: [{"due":"20220308104539489","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104539489"},{"due":"20220311065756798","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308065756798"},{"due":"20220313100622470","interval":4,"difficulty":5.067077963053101,"stability":0.07410329964720157,"retrievability":0.8840284107336158,"grade":0,"lapses":1,"reps":1,"review":"20220312100622470"}]
+interval: 1
 lapses: 1
-modified: 20220312100622470
+modified: 20220313043256484
 modifier: @oeyoews
-reps: 1
-retrievability: 0.8840284107336158
-review: 20220312100622470
-stability: 0.07410329964720157
+reps: 2
+retrievability: 0.2412778766404617
+review: 20220313043256484
+stability: 3.6031165406282484
 tags: EnglishWord ?
 title: cynic
 type: text/vnd.tiddlywiki
