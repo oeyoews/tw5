@@ -47,7 +47,7 @@ video::-webkit-media-controls-timeline {
 
 a.tc-tiddlylink, a.tc-tiddlylink:hover {
   white-space: normal;
-  word-break: break-all;
+  word-break: break-word;
   overflow: hidden;
   text-overflow: ellipsis;
   font-weight: none;
