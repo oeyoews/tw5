@@ -1,17 +1,17 @@
 created: 20220222004514184
 creator: oeyoews
-difficulty: 5.771589283234537
-due: 20220311014607267
+difficulty: 5.972013465917391
+due: 20220314053438358
 grade: 0
-history: [{"due":"20220308062453653","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307062453653"},{"due":"20220309101429463","interval":1,"difficulty":4.983049552319485,"stability":0.07416773238429089,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220308101429463"},{"due":"20220310083118347","interval":1,"difficulty":5.42462563584561,"stability":0.05494480753692821,"retrievability":0.24157608352612525,"grade":0,"lapses":2,"reps":1,"review":"20220309083118347"}]
-interval: 1
-lapses: 3
-modified: 20220311044418218
+history: [{"due":"20220308062453653","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307062453653"},{"due":"20220309101429463","interval":1,"difficulty":4.983049552319485,"stability":0.07416773238429089,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220308101429463"},{"due":"20220310083118347","interval":1,"difficulty":5.42462563584561,"stability":0.05494480753692821,"retrievability":0.24157608352612525,"grade":0,"lapses":2,"reps":1,"review":"20220309083118347"},{"due":"20220311014607267","interval":1,"difficulty":5.771589283234537,"stability":0.040704114555206596,"retrievability":0.1469636473889265,"grade":0,"lapses":3,"reps":1,"review":"20220310014607267"}]
+interval: 3
+lapses: 4
+modified: 20220313053438358
 modifier: @oeyoews
 reps: 1
-retrievability: 0.1469636473889265
-review: 20220310014607267
-stability: 0.040704114555206596
+retrievability: 0.0004241826828540111
+review: 20220313053438358
+stability: 0.030121604224219757
 tags: EnglishWord ?
 title: peculiarity
 type: text/vnd.tiddlywiki
