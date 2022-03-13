@@ -1,10 +1,10 @@
 caption: blue block
 created: 20220109083140834
 creator: oeyoews
-modified: 20220313115613900
+modified: 20220313163032492
 modifier: @oeyoews
 tags: $:/tags/TextEditor/Snippet
-title: blue
+title: blue Block
 type: text/vnd.tiddlywiki
 
  <<alert primary "$1

@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932349
 creator: @oeyoews
-difficulty: 2.5144789956043523
-due: 20220313164729736
-grade: -1
-history: []
+difficulty: 3.7144789956043525
+due: 20220314162418875
+grade: 0
+history: [{"due":"20220313164729736","interval":0,"difficulty":2.5144789956043523,"stability":0.10002899169921875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220312164729736"}]
 interval: 0
-lapses: 0
-modified: 20220312164729736
+lapses: 1
+modified: 20220313162418875
 modifier: @oeyoews
 reps: 1
 retrievability: 1
-review: 20220312164729736
-stability: 0.10002899169921875
+review: 20220313162418875
+stability: 0.07408719146292923
 tags: 熟悉的陌生词 ?
 title: 2022hkw/20220119011932349189
 type: text/vnd.tiddlywiki

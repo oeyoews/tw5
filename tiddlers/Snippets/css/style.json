@@ -1,10 +1,11 @@
 [
     {
         "created": "20220109065330893",
-        "text": "@@.tc-tiddler-frame\n@@width:200px;\n<!-- write here\n-->\n\n@@",
+        "creator": "@oeyoews",
+        "text": "@@.tc-tiddler-frame\n@@width:200px;\n<!-- write here\n-->\n@@",
         "tags": "$:/tags/TextEditor/Snippet snippets",
         "title": "css/style",
-        "modified": "20220313115613901",
+        "modified": "20220313163051052",
         "type": "text/vnd.tiddlywiki",
         "modifier": "@oeyoews",
         "caption": " square-css"
