@@ -1,8 +1,18 @@
 created: 20220313074856591
 creator: @oeyoews
-modified: 20220313074906202
+difficulty: 2.2581235181359487
+due: 20220314112616351
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220313112616351
 modifier: @oeyoews
-tags: EnglishWord
+reps: 1
+retrievability: 1
+review: 20220313112616351
+stability: 0.1000072479248047
+tags: EnglishWord ?
 title: average
 type: text/vnd.tiddlywiki
 
@@ -11,7 +21,7 @@ type: text/vnd.tiddlywiki
 average
 英 ['æv(ə)rɪdʒ]  美 ['ævərɪdʒ]
 n. 平均；平均数；海损
-adj. 平均的；普通的；通常的
+adj. 平均的；''普通的''；通常的
 vt. 算出…的平均数；将…平均分配；使…平衡
 vi. 平均为；呈中间色
 CET4 TEM4  ( averaging, averaged, averages )

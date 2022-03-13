@@ -1,14 +1,24 @@
 created: 20220312151301552
 creator: @oeyoews
-modified: 20220312151520639
+difficulty: 2.2581235181359487
+due: 20220314112626968
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220313112626968
 modifier: @oeyoews
-tags: EnglishWord
+reps: 1
+retrievability: 1
+review: 20220313112626968
+stability: 0.1000072479248047
+tags: EnglishWord ?
 title: Instead of
 type: text/vnd.tiddlywiki
 
 <<<.tc-fish-quote
 """
 instead of
-代替；而不是…
+代替；''而不是''…
 """
 <<<

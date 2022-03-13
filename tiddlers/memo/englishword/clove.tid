@@ -1,8 +1,18 @@
 created: 20220312152329110
 creator: @oeyoews
-modified: 20220312152344014
+difficulty: 2.2581235181359487
+due: 20220314112602791
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220313112602791
 modifier: @oeyoews
-tags: EnglishWord
+reps: 1
+retrievability: 1
+review: 20220313112602791
+stability: 0.1000072479248047
+tags: EnglishWord ?
 title: clove
 type: text/vnd.tiddlywiki
 
@@ -10,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 clove
 英 [kləʊv]  美 [klov]
-n. [植][中医] 丁香
+n. [植][中医] ''丁香''
 v. 劈开（cleave的过去式）
 ( cloves )
 """
