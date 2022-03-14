@@ -1,17 +1,17 @@
 created: 20220311135338306
 creator: @oeyoews
-difficulty: 4.004875285383748
-due: 20220313165802274
-grade: 0
-history: [{"due":"20220313063358057","interval":0,"difficulty":2.8048752853837478,"stability":0.10002899169921875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220312063358057"}]
-interval: 0
+difficulty: 2.44615316202421
+due: 20220319053517451
+grade: 2
+history: [{"due":"20220313063358057","interval":0,"difficulty":2.8048752853837478,"stability":0.10002899169921875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220312063358057"},{"due":"20220313165802274","interval":0,"difficulty":4.004875285383748,"stability":0.07410329964720157,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220312165802274"}]
+interval: 1
 lapses: 1
-modified: 20220312165802275
+modified: 20220314053517451
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220312165802274
-stability: 0.07410329964720157
+reps: 2
+retrievability: 0.2412778766404617
+review: 20220314053517451
+stability: 4.616523228745665
 tags: EnglishWord ?
 title: trim
 type: text/vnd.tiddlywiki
