@@ -1,6 +1,8 @@
 created: 20190212051316149
-icon: $:/plugins/kookma/commander/images/file-alt
-modified: 20220130030440707
+creator: @oeyoews
+icon: $:/plugins/kookma/commander/images/commander.svg
+modified: 20220314031225544
+modifier: @oeyoews
 title: $:/Commander
 type: text/vnd.tiddlywiki
 
