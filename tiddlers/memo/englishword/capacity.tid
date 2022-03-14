@@ -1,18 +1,9 @@
 created: 20220313072307957
 creator: @oeyoews
-difficulty: 2.2581235181359487
-due: 20220314113113977
-grade: -1
 history: []
-interval: 0
-lapses: 0
-modified: 20220313113113977
+modified: 20220314034015539
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220313113113977
-stability: 0.1000072479248047
-tags: EnglishWord ?
+tags: EnglishWord !
 title: capacity
 type: text/vnd.tiddlywiki
 

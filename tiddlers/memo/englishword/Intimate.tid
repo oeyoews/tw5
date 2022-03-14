@@ -1,17 +1,17 @@
 created: 20220312152257619
 creator: @oeyoews
-difficulty: 2.2581235181359487
-due: 20220314113106135
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220313113106135
+difficulty: 2.8068285839808
+due: 20220315034132167
+grade: 0
+history: [{"due":"20220314113106135","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113106135"}]
+interval: 1
+lapses: 1
+modified: 20220314034132167
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220313113106135
-stability: 0.1000072479248047
+retrievability: 0.34870506584485117
+review: 20220314034132166
+stability: 0.07408719146292923
 tags: EnglishWord ?
 title: Intimate
 type: text/vnd.tiddlywiki
