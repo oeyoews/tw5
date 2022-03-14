@@ -1,19 +1,10 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932340
 creator: @oeyoews
-difficulty: 2.2581235181359487
-due: 20220314155837130
-grade: -1
 history: []
-interval: 0
-lapses: 0
-modified: 20220313155837130
+modified: 20220314023205597
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220313155837130
-stability: 0.1000072479248047
-tags: [[基础词汇 Word List 13]] ?
+tags: [[基础词汇 Word List 13]] !
 title: 2022hkw/20220119011932340640
 type: text/vnd.tiddlywiki
 word: label
