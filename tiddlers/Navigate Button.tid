@@ -1,10 +1,9 @@
 created: 20220307153653896
 creator: @oeyoews
-modified: 20220313130519359
+modified: 20220314005329008
 modifier: @oeyoews
 tags: demo
 title: Navigate Button
 type: text/vnd.tiddlywiki
 
 <$link overrideClass="btn btn-warning" to="Inbox">Inbox</$link>
-<$link overrideClass="btn btn-info" to="Fishing Manual">Fishing</$link>
