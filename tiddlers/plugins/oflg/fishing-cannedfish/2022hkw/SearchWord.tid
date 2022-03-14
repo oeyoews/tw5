@@ -1,0 +1,40 @@
+created: 20220314103822981
+creator: @oeyoews
+modified: 20220314103848008
+modifier: @oeyoews
+tags: $:/tags/QuestionTemplate
+title: $:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord
+type: text/vnd.tiddlywiki
+word: fishing
+
+<$reveal
+            state=<<folded-state>>
+            type="match"
+            text="hide"
+            animate="yes"
+        >
+            {{!!word}}
+        </$reveal>
+
+    <span
+        class="tc-fish-title"
+    >
+        <$reveal
+            state=<<folded-state>>
+            type="nomatch"
+            text="hide"
+            animate="yes"
+        >
+            <main style="width:100%;overflow:hidden;"> 
+                <iframe   height="700px"
+                    width="100%"
+                    src={{{[{!!word}encodeuricomponent[]addprefix[https://dict.cn/search?q=]]}}}
+                    frameborder=0
+                    seamless="seamless"
+                    style="margin:-180px 0 -110px 0;"
+                    marginheight="0"
+                    marginwidth="0"
+                />
+            </main>
+        </$reveal>
+    </span>

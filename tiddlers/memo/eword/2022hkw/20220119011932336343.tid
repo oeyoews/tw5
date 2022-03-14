@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932336
 creator: @oeyoews
-difficulty: 3.897881031517001
-due: 20220314043139479
-grade: 0
-history: [{"due":"20220311105830566","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310105830566"},{"due":"20220313055623895","interval":2,"difficulty":3.456603154876539,"stability":0.07410329964720157,"retrievability":0.12187376544351697,"grade":0,"lapses":1,"reps":1,"review":"20220312055623895"}]
+difficulty: 2.2445590398906337
+due: 20220319103506646
+grade: 2
+history: [{"due":"20220311105830566","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310105830566"},{"due":"20220313055623895","interval":2,"difficulty":3.456603154876539,"stability":0.07410329964720157,"retrievability":0.12187376544351697,"grade":0,"lapses":1,"reps":1,"review":"20220312055623895"},{"due":"20220314043139479","interval":1,"difficulty":3.897881031517001,"stability":0.054889119100343345,"retrievability":0.2412778766404617,"grade":0,"lapses":2,"reps":1,"review":"20220313043139478"}]
 interval: 1
 lapses: 2
-modified: 20220313043139479
+modified: 20220314103506646
 modifier: @oeyoews
-reps: 1
-retrievability: 0.2412778766404617
-review: 20220313043139478
-stability: 0.054889119100343345
+reps: 2
+retrievability: 0.14667800837363265
+review: 20220314103506645
+stability: 4.557406658962127
 tags: [[基础词汇 Word List 5]] ?
 title: 2022hkw/20220119011932336343
 type: text/vnd.tiddlywiki
