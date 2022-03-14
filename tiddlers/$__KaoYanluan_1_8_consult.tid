@@ -1,0 +1,25 @@
+caption: {{||$:/plugins/oflg/fishing-cannedfish-KaoYanluan_1/Question}}
+created: 20220309103004575
+creator: @oeyoews
+difficulty: 1.8299972256802912
+due: 20220315104905580
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220314104905580
+modifier: @oeyoews
+phrases: consult with: 商量，协商<br>
+relWords: <b>adj.</b><br>consultive: 咨询的<br><br><b>n.</b><br>consultant: 顾问；咨询者；会诊医生<br>consultation: 咨询；磋商；[临床] 会诊；讨论会<br>consultancy: 咨询公司；顾问工作<br><br>
+reps: 1
+retrievability: 1
+review: 20220314104905580
+sentences: If symptoms persist, consult a doctor without delay.<br>^^如果症状持续的话，马上咨询医生。^^<br>I can’t believe you sold the car without consulting me!<br>^^我真不敢相信你不和我商量一下就把车给卖了！^^<br>Have you consulted a dictionary?<br>^^你查过词典了吗？^^<br>
+stability: 0.1000072479248047
+synos: <b>vt.</b><br>查阅；商量；向…请教：look up, speak together<br><b>vi.</b><br>请教；商议；当顾问：take advice, seek advice<br>
+tags: ?
+title: $:/KaoYanluan_1_8/consult
+transCn: <b>v.</b> 请教，向...咨询；找...商量；查阅，查看<br>
+type: text/vnd.tiddlywiki
+usphone: kən'sʌlt
+word: consult

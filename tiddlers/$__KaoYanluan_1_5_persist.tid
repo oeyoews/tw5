@@ -1,0 +1,26 @@
+caption: {{||$:/plugins/oflg/fishing-cannedfish-KaoYanluan_1/Question}}
+created: 20220309103004575
+creator: @oeyoews
+difficulty: 1.8299972256802912
+due: 20220315104856879
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220314104856879
+modifier: @oeyoews
+phrases: persist in: 坚持；固执于<br>
+relWords: <b>adj.</b><br>persistent: 固执的，坚持的；持久稳固的<br><br><b>adv.</b><br>persistently: 坚持地；固执地<br><br><b>n.</b><br>perseverance: 坚持不懈；不屈不挠<br>persistence: 持续；固执；存留<br>perseveration: 持续言语（指言语反复不止的病态）；持续重复的行为；执拗<br><br><b>vi.</b><br>perseverate: 患持续言语症；表现固执<br><br>
+remMethod: per(始终)+sist(站立)→始终站立着→坚持， 持续
+reps: 1
+retrievability: 1
+review: 20220314104856879
+sentences: ‘I don’t think it’s right,’ John persisted.<br>^^“我认为那不对。”约翰坚持说道。^^<br>If the pain persists, you must see a doctor.<br>^^如果一直痛，你就必须去看医生了。^^<br>
+stability: 0.1000072479248047
+synos: <b>vi.</b><br>存留，坚持；持续，固执：stay, abide<br><b>vt.</b><br>坚持说，反复说：iterate<br>
+tags: ?
+title: $:/KaoYanluan_1_5/persist
+transCn: <b>v.</b> 坚持；执意；继续存在[发生]；持续<br>
+type: text/vnd.tiddlywiki
+usphone: pɚ'sɪst
+word: persist
