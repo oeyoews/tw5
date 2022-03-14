@@ -1,7 +1,7 @@
 created: 20220103042943419
 creator: oeyoews
-list: [[$:/config/oeyoews/Creat EnglishWord]] [[CSS only Timer]] $:/config/oeyoews/footer $:/ContributionBanner $:/config/oeyoews/getplugins/button $:/config/FileSystemPaths $:/config/SyncFilter $:/plugins/kookma/utility/author/exclude-items $:/oeyoews/settings/tiddler-icons
-modified: 20220311003208732
+list: [[CSS only Timer]] $:/config/FileSystemPaths $:/oeyoews/settings/tiddler-icons
+modified: 20220314111722712
 modifier: @oeyoews
 title: $:/favorites/favlist
 type: text/vnd.tiddlywiki

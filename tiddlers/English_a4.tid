@@ -1,16 +1,19 @@
 created: 20220110113707001
-difficulty: 5
-due: 20220114174403521
+creator: @oeyoews
+difficulty: 1.8299972256802912
+due: 20220315111322704
+grade: -1
 history: []
 interval: 0
 lapses: 0
-modified: 20220314083943833
+modified: 20220314111322704
 modifier: @oeyoews
 recall: 1
 reps: 1
-review: 20220112174403521
-stability: 2
-tags: English/66
+retrievability: 1
+review: 20220314111322704
+stability: 0.1000072479248047
+tags: English/66 ?
 title: English/a4
 type: text/vnd.tiddlywiki
 
