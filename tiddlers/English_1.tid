@@ -1,16 +1,18 @@
 created: 20220107152809357
 creator: oeyoews
-difficulty: 4.2
-due: 20220114174442588
-history: [{"due":"20220114174442588","interval":"0","difficulty":4.2,"stability":2,"recall":1,"lapses":0,"reps":2,"review":"20220112174442587"}]
+difficulty: 1.8299972256802912
+due: 20220315083311604
+grade: -1
+history: []
 interval: 0
 lapses: 0
-modified: 20220217114047135
-modifier: oeyoews
-reps: 2
-review: 20220112174442587
-stability: 2
-tags: english66
+modified: 20220314083311604
+modifier: @oeyoews
+reps: 1
+retrievability: 1
+review: 20220314083311604
+stability: 0.1000072479248047
+tags: english66 ?
 title: English/1
 type: text/vnd.tiddlywiki
 
