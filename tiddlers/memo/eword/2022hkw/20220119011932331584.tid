@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932331
 creator: @oeyoews
-difficulty: 3.3536602175056833
-due: 20220314043113955
+difficulty: 3.7948883784161955
+due: 20220315062439100
 grade: 0
-history: [{"due":"20220313084947915","interval":0,"difficulty":2.8048752853837478,"stability":0.10002899169921875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220312084947915"}]
+history: [{"due":"20220313084947915","interval":0,"difficulty":2.8048752853837478,"stability":0.10002899169921875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220312084947915"},{"due":"20220314043113955","interval":1,"difficulty":3.3536602175056833,"stability":0.07409256085768667,"retrievability":0.34878493212193545,"grade":0,"lapses":1,"reps":1,"review":"20220313043113955"}]
 interval: 1
-lapses: 1
-modified: 20220313043113955
+lapses: 2
+modified: 20220314062439100
 modifier: @oeyoews
 reps: 1
-retrievability: 0.34878493212193545
-review: 20220313043113955
-stability: 0.07409256085768667
+retrievability: 0.24122816091051208
+review: 20220314062439100
+stability: 0.054885141354873004
 tags: [[必考核心词汇 Word List 15]] ?
 title: 2022hkw/20220119011932331584
 type: text/vnd.tiddlywiki
