@@ -4,9 +4,9 @@ creator: oeyoews
 dark-palette: $:/palettes/Notion 1
 description: Toggle between light/dark color palette
 light-palette: $:/palettes/Vanilla
-modified: 20220310164023543
+modified: 20220314113650554
 modifier: @oeyoews
-tags: $:/tags/PageControls
+tags: deprecated
 title: $:/plugins/kookma/shiraz/ui/Buttons/SwitchPalette
 type: text/vnd.tiddlywiki
 

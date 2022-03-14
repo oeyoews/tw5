@@ -1,10 +1,11 @@
 caption: {{||$:/plugins/nico/projectify/ui/buttons/Checkbox}} Toggle todo
 created: 20200420105800700
-creator: oeyoews
+creator: @oeyoews
 description: Projectify -- Toggle the state of the current todo tiddler
-modified: 20220311040226821
+list-before: $:/core/ui/Buttons/close
+modified: 20220314112556563
 modifier: @oeyoews
-tags: deprecated
+tags: 
 title: $:/plugins/nico/projectify/ui/buttons/ToggleTodo
 type: text/vnd.tiddlywiki
 
@@ -12,7 +13,6 @@ type: text/vnd.tiddlywiki
   <$action-sendmessage $message="tm-auto-save-wiki"/>
 \end
 
-/** viewtoolbar */ 
 <$list filter=<<py-is-todo>>>
   <span class="py-toggle-todo-button">
     <$checkbox tag="done" actions=<<save-actions>>>
