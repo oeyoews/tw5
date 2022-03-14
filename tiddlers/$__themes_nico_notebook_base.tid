@@ -672,7 +672,7 @@ pre, code {
 
 pre.cm-quote-line {
     padding-left: 0.4em !important;
-    border-left: #569b36 solid 0.2em !important;
+    border-left: yellow solid 0.2em !important;
 }
 
 /*@oeyoews*/
