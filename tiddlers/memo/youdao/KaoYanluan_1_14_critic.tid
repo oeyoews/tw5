@@ -1,0 +1,26 @@
+caption: {{||$:/plugins/oflg/fishing-cannedfish-KaoYanluan_1/Question}}
+created: 20220309103004576
+creator: @oeyoews
+difficulty: 1.8299972256802912
+due: 20220315105437219
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220314110018543
+modifier: @oeyoews
+phrases: art critic: 艺术评论家<br>
+relWords: <b>adj.</b><br>critical: 鉴定的；[核] 临界的；批评的，爱挑剔的；危险的；决定性的；评论的<br><br><b>adv.</b><br>critically: 精密地；危急地；批评性地；用钻研眼光地<br><br><b>n.</b><br>criticism: 批评；考证；苛求<br>critique: 批评；评论文章<br>criticalness: 批判性<br><br><b>vi.</b><br>criticize: 批评；评论；苛求<br>criticise: 批评；吹毛求疵；非难<br><br><b>vt.</b><br>criticize: 批评；评论；非难<br>critique: 批判；评论<br>criticise: 批评；吹毛求疵；非难<br><br>
+remMethod: crit(判断)+ic→判断是非→批评， 评论
+reps: 1
+retrievability: 1
+review: 20220314105437219
+sentences: Mather was a film critic for many years.<br>^^马瑟做过多年的电影评论家。^^<br>
+stability: 0.1000072479248047
+synos: <b>n.</b><br>批评家，评论家；爱挑剔的人：commenter, reviewer<br>
+tags: ?
+title: $:/KaoYanluan_1_14/critic
+transCn: <b>n.</b> 批评家,评论家<br>
+type: text/vnd.tiddlywiki
+usphone: 'krɪtɪk
+word: critic

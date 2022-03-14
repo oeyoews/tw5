@@ -1,6 +1,6 @@
 created: 20220228060333093
 creator: oeyoews
-modified: 20220314084848554
+modified: 20220314110327162
 modifier: @oeyoews
 tags: config
 title: $:/config/FileSystemPaths
@@ -10,8 +10,9 @@ type: text/vnd.tiddlywiki
 [tag[todo]addprefix[subwiki/todo/]]
 [tag[Project]addprefix[subwiki/Project/]]
 
-[tag[EnglishWord]addprefix[memo/englishword/]]
+[tag[EnglishWord]search-replace:g:regexp[/|\\],[_]addprefix[memo/englishword/]]
 [prefix[2022hkw]addprefix[memo/eword/]]
+[prefix[$:/KaoYanluan]removeprefix[$:/]search-replace:g:regexp[/|\\],[_]addprefix[memo/youdao/]]
 
 [tag[$:/tags/trashbin]removeprefix[$:/]addprefix[trash/]]
 
