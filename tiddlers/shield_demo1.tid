@@ -1,9 +1,9 @@
 created: 20220202211959496
 creator: oeyoews
-modified: 20220220054220596
-modifier: oeyoews
+modified: 20220314154220325
+modifier: @oeyoews
 tags: docs
 title: shield/demo1
 type: text/vnd.tiddlywiki
 
-<<shield hello demo>>
+<<shield status hello purple>>

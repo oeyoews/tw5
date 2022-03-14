@@ -1,12 +1,12 @@
 created: 20220310033519322
 creator: @oeyoews
-modified: 20220312090043047
+modified: 20220314154436119
 modifier: @oeyoews
 tags: config
 title: subtitlefooter
 type: text/vnd.tiddlywiki
 
-<div style="color:cyan;font-size:60%;" align="right">
+<div style="color:#1988d8;font-size:60%;" align="right">
 <$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
 
 Updated
