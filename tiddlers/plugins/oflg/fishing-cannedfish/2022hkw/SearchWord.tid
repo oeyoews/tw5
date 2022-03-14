@@ -1,6 +1,6 @@
 created: 20220226134731844
 creator: oeyoews
-modified: 20220310164023545
+modified: 20220314074115576
 modifier: @oeyoews
 tags: $:/tags/QuestionTemplate
 title: $:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord
@@ -27,11 +27,11 @@ word: fishing
         >
             <main style="width:100%;overflow:hidden;"> 
                 <iframe 
-                    height="400px"
-                    width="100%"
-                    src={{{[{!!word}encodeuricomponent[]addprefix[https://dict.youdao.com/recite/words/#!/dict/engchn?le=eng&q=]]}}}
+                    height="700px"
+                    width="110%"
+                    src={{{[{!!word}encodeuricomponent[]addprefix[https://www.iciba.com/word?w=]]}}}
                     frameborder=0
-                  
+style="margin:-130px -230px -60px 0;overflow-x:hidden;" marginheight="0" marginwidth="0"                  
                 />
             </main>
         </$reveal>

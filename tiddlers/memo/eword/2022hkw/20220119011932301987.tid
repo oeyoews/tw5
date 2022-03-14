@@ -1,18 +1,18 @@
 caption: {{||$:/plugins/oflg/fishing-cannedfish/2022hkw/SearchWord}}
 created: 20220119011932301
 creator: oeyoews
-difficulty: 2.101460536787432
-due: 20220313161827470
+difficulty: 1.2048922562250486
+due: 20220506074157376
 grade: 2
-history: [{"due":"20220225163144270","interval":0,"difficulty":2.947800309227434,"stability":0.5750000000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163144270"},{"due":"20220302013007878","interval":1,"difficulty":2.9803722217872943,"stability":3.845304374125597,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":3,"review":"20220226013007878"},{"due":"20220313161827470","interval":3,"difficulty":2.101460536787432,"stability":12.44970075396931,"retrievability":0.9210883150001375,"grade":2,"lapses":0,"reps":4,"review":"20220301161827470"}]
-interval: 3
+history: [{"due":"20220225163144270","interval":0,"difficulty":2.947800309227434,"stability":0.5750000000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163144270"},{"due":"20220302013007878","interval":1,"difficulty":2.9803722217872943,"stability":3.845304374125597,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":3,"review":"20220226013007878"},{"due":"20220313161827470","interval":3,"difficulty":2.101460536787432,"stability":12.44970075396931,"retrievability":0.9210883150001375,"grade":2,"lapses":0,"reps":4,"review":"20220301161827470"},{"due":"20220313161827470","interval":3,"difficulty":2.101460536787432,"stability":12.44970075396931,"retrievability":0.9210883150001375,"grade":2,"lapses":0,"reps":4,"review":"20220301161827470"}]
+interval: 12
 lapses: 0
-modified: 20220311044458941
+modified: 20220314074157376
 modifier: @oeyoews
-reps: 4
-retrievability: 0.9210883150001375
-review: 20220301161827470
-stability: 12.44970075396931
+reps: 5
+retrievability: 0.9034317194376166
+review: 20220314074157376
+stability: 52.59062813964905
 tags: [[必考核心词汇 Word List 1]] ?
 title: 2022hkw/20220119011932301987
 type: text/vnd.tiddlywiki
