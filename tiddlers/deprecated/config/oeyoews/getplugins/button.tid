@@ -2,9 +2,9 @@ caption: download plugin
 created: 20220301060719149
 creator: oeyoews
 description: show download plugin button
-modified: 20220310163904065
+modified: 20220315162707339
 modifier: @oeyoews
-tags: $:/tags/PageControls TPP config
+tags: TPP config deprecated
 title: $:/config/oeyoews/getplugins/button
 type: text/vnd.tiddlywiki
 

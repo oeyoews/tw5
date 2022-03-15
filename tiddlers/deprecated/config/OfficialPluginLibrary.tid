@@ -1,8 +1,9 @@
 caption: {{$:/language/OfficialPluginLibrary}}
 created: 20220104140438777
-modified: 20220310163904065
+creator: @oeyoews
+modified: 20220315162632174
 modifier: @oeyoews
-tags: $:/tags/PluginLibrary
+tags: deprecated
 title: $:/config/OfficialPluginLibrary
 type: text/vnd.tiddlywiki
 url: https://tiddlywiki.com/library/v5.2.1/index.html
