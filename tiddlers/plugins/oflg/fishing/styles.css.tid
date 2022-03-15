@@ -1,6 +1,6 @@
 created: 20220315143701310
 creator: @oeyoews
-modified: 20220315143827725
+modified: 20220315150053047
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/plugins/oflg/fishing/styles.css
@@ -67,7 +67,7 @@ type: text/vnd.tiddlywiki
 
 
 blockquote.tc-fish-quote {
-    border-left: 1px solid <<colour message-border>>;
+    border-left: 1px solid cyan;
     margin-right: 0;
     margin-left: 5px;
 }

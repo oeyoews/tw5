@@ -1,0 +1,64 @@
+created: 20220315151410796
+creator: @oeyoews
+modified: 20220315152845593
+modifier: @oeyoews
+tags: deprecated
+title: $:/config/oeyoews/removeborder
+type: text/vnd.tiddlywiki
+
+/** 去掉编辑模式下的很多边框 */
+/** 去掉预览的边框，除了左边框 */
+.tc-tiddler-preview-preview {
+  border: none;
+  padding-left: 10px;
+  border-left: 1px solid <<colour tiddler-editor-border>>;
+}
+/** 去掉代码编辑器的边框和底色，为所见即所得编辑做准备 */
+.CodeMirror {
+  border: none !important;
+  background-color: unset !important;
+}
+/** 去掉所有其它文本编辑框的边框 */
+.tc-tiddler-frame input.tc-edit-texteditor {
+  border: none;
+  background: unset;
+}
+/** 去掉标题下面的 tag 栏的边框 */
+.tc-edit-tags {
+  border: none;
+  border-bottom: 1px solid <<colour tiddler-editor-border>>;
+  padding: 4px 8px 4px 8px;
+}
+
+/**
+  去除按钮、搜索框选中时的蓝框
+button:focus, button:active {
+  outline: none !important;
+  box-shadow: none;
+}
+
+[placeholder]{
+  text-overflow:ellipsis;
+}
+::placeholder{
+  text-overflow:ellipsis;
+}
+input[type=search] {
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+* {
+  outline: none;
+  outline-color: none;
+  -webkit-font-smoothing: antialiased;
+}
+*:focus {
+  outline: none;
+}
+/** 去除输入框默认的边框 */
+textarea, input[type=text], input[type=search], input[type=""], input:not([type]) {
+  border: 2px solid;
+  background: <<colour page-background>>;
+}
+*/
