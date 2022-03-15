@@ -1,7 +1,7 @@
 caption: Config Directory
 created: 20220228060333093
 creator: oeyoews
-modified: 20220314111656956
+modified: 20220315012319489
 modifier: @oeyoews
 tags: config
 title: $:/config/FileSystemPaths
@@ -32,3 +32,5 @@ type: text/vnd.tiddlywiki
 [prefix[$:/config/]removeprefix[$:/]addprefix[Config/]]
 
 [tag[$:/tags/TextEditor/Snippet]addprefix[Snippets/]]
+
+[tag[everydaySentences]addprefix[memo/Sentences/]]
