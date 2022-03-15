@@ -1,17 +1,17 @@
 created: 20220224013834672
 creator: oeyoews
-difficulty: 1.276565054687613
-due: 20220315121550847
+difficulty: 1.3763390974007075
+due: 20220411034352160
 grade: 1
-history: [{"due":"20220304075418640","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075418640"},{"due":"20220307053019858","interval":3,"difficulty":1.2089083031776646,"stability":0.07476910459712456,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306053019858"},{"due":"20220308012955932","interval":1,"difficulty":1.6532603992758468,"stability":0.055135739319504856,"retrievability":0.2443520960981822,"grade":0,"lapses":2,"reps":1,"review":"20220307012955931"},{"due":"20220309071016375","interval":1,"difficulty":2.001203195985304,"stability":0.04075126313635327,"retrievability":0.14794279670945698,"grade":0,"lapses":3,"reps":1,"review":"20220308071016375"}]
-interval: 1
+history: [{"due":"20220304075418640","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075418640"},{"due":"20220307053019858","interval":3,"difficulty":1.2089083031776646,"stability":0.07476910459712456,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306053019858"},{"due":"20220308012955932","interval":1,"difficulty":1.6532603992758468,"stability":0.055135739319504856,"retrievability":0.2443520960981822,"grade":0,"lapses":2,"reps":1,"review":"20220307012955931"},{"due":"20220309071016375","interval":1,"difficulty":2.001203195985304,"stability":0.04075126313635327,"retrievability":0.14794279670945698,"grade":0,"lapses":3,"reps":1,"review":"20220308071016375"},{"due":"20220315121550847","interval":1,"difficulty":1.276565054687613,"stability":5.985734797231387,"retrievability":0.07536185870230949,"grade":1,"lapses":3,"reps":2,"review":"20220309121550847"}]
+interval: 6
 lapses: 3
-modified: 20220311044418214
+modified: 20220315034352160
 modifier: @oeyoews
-reps: 2
-retrievability: 0.07536185870230949
-review: 20220309121550847
-stability: 5.985734797231387
+reps: 3
+retrievability: 0.8997740427130942
+review: 20220315034352160
+stability: 27.15292328355479
 tags: EnglishWord ?
 title: levy
 type: text/vnd.tiddlywiki

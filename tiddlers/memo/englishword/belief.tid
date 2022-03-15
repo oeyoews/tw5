@@ -1,17 +1,17 @@
 created: 20220305031801997
 creator: oeyoews
-difficulty: 2.0596188436347647
-due: 20220315010924341
+difficulty: 1.1660943872312781
+due: 20220410034058876
 grade: 2
-history: [{"due":"20220310111627113","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220309111627112"}]
-interval: 1
+history: [{"due":"20220310111627113","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220309111627112"},{"due":"20220315010924341","interval":1,"difficulty":2.0596188436347647,"stability":5.365067619210177,"retrievability":0.34910423292122506,"grade":2,"lapses":0,"reps":2,"review":"20220310010924341"}]
+interval: 5
 lapses: 0
-modified: 20220311044418195
+modified: 20220315034058876
 modifier: @oeyoews
-reps: 2
-retrievability: 0.34910423292122506
-review: 20220310010924341
-stability: 5.365067619210177
+reps: 3
+retrievability: 0.9064755435965134
+review: 20220315034058876
+stability: 25.61809056377621
 tags: EnglishWord ?
 title: belief
 type: text/vnd.tiddlywiki

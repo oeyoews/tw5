@@ -1,17 +1,17 @@
 created: 20220312152430621
 creator: @oeyoews
-difficulty: 2.8068285839808
-due: 20220315053715835
-grade: 0
-history: [{"due":"20220314113053905","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113053905"}]
+difficulty: 2.248031885464442
+due: 20220320050809591
+grade: 1
+history: [{"due":"20220314113053905","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113053905"},{"due":"20220315053715835","interval":1,"difficulty":2.8068285839808,"stability":0.07408719146292923,"retrievability":0.34870506584485117,"grade":0,"lapses":1,"reps":1,"review":"20220314053715835"}]
 interval: 1
 lapses: 1
-modified: 20220314053715835
+modified: 20220315050809591
 modifier: @oeyoews
-reps: 1
-retrievability: 0.34870506584485117
-review: 20220314053715835
-stability: 0.07408719146292923
+reps: 2
+retrievability: 0.2412033014836416
+review: 20220315050809591
+stability: 4.893004582283395
 tags: EnglishWord ?
 title: democratic
 type: text/vnd.tiddlywiki

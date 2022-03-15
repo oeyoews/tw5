@@ -1,9 +1,9 @@
 created: 20220308072951162
 creator: @oeyoews
-modified: 20220310164023545
+modified: 20220315143553920
 modifier: @oeyoews
-tags: $:/tags/ViewTemplate
-title: $:/plugins/oflg/fishing/fishing
+tags: deprecated
+title: $:/plugins/oeyoews/fishing/fishing
 type: text/vnd.tiddlywiki
 
 <$list

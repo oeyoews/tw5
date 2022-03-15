@@ -1,17 +1,17 @@
 created: 20220223024534480
 creator: oeyoews
-difficulty: 1.011925625327825
-due: 20220315041453429
+difficulty: 1.1112256700049443
+due: 20220423034130571
 grade: 1
-history: [{"due":"20220303064408347","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064408347"},{"due":"20220306013332626","interval":3,"difficulty":1.2089083031776646,"stability":0.07683095218398285,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220305013332626"},{"due":"20220307052746054","interval":1,"difficulty":1.6626777695404837,"stability":0.055390315029607076,"retrievability":0.2537694663628191,"grade":0,"lapses":2,"reps":1,"review":"20220306052746054"}]
-interval: 1
+history: [{"due":"20220303064408347","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064408347"},{"due":"20220306013332626","interval":3,"difficulty":1.2089083031776646,"stability":0.07683095218398285,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220305013332626"},{"due":"20220307052746054","interval":1,"difficulty":1.6626777695404837,"stability":0.055390315029607076,"retrievability":0.2537694663628191,"grade":0,"lapses":2,"reps":1,"review":"20220306052746054"},{"due":"20220315041453429","interval":1,"difficulty":1.011925625327825,"stability":7.941357348448329,"retrievability":0.1492478557873414,"grade":1,"lapses":2,"reps":2,"review":"20220307041453429"}]
+interval: 8
 lapses: 2
-modified: 20220311044418214
+modified: 20220315034130571
 modifier: @oeyoews
-reps: 2
-retrievability: 0.1492478557873414
-review: 20220307041453429
-stability: 7.941357348448329
+reps: 3
+retrievability: 0.8993000446771194
+review: 20220315034130570
+stability: 38.92160847455493
 tags: EnglishWord ?
 title: legislation
 type: text/vnd.tiddlywiki
