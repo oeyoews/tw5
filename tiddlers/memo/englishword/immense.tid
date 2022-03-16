@@ -1,17 +1,17 @@
 created: 20220313075040311
 creator: @oeyoews
-difficulty: 3.458123518135949
-due: 20220314162359977
+difficulty: 3.7163025507825576
+due: 20220317111959149
 grade: 0
-history: [{"due":"20220314113128100","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113128100"}]
-interval: 0
-lapses: 1
-modified: 20220313162359977
+history: [{"due":"20220314113128100","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113128100"},{"due":"20220314162359977","interval":0,"difficulty":3.458123518135949,"stability":0.07408719146292923,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220313162359977"}]
+interval: 2
+lapses: 2
+modified: 20220316111959149
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220313162359977
-stability: 0.07408719146292923
+retrievability: 0.05817903264660851
+review: 20220316111959148
+stability: 0.05488315248213783
 tags: EnglishWord ?
 title: immense
 type: text/vnd.tiddlywiki

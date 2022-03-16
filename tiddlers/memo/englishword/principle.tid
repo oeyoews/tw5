@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20220308062244317","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307062244317"},{"due":"20220311150033724","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308150033723"}]
 interval: 3
 lapses: 0
-modified: 20220311155708144
+modified: 20220316111808682
 modifier: @oeyoews
 reps: 3
 retrievability: 0.911695197062886
@@ -21,5 +21,6 @@ type: text/vnd.tiddlywiki
 principle
 英 ['prɪnsɪp(ə)l]  美 ['prɪnsəpl]
 n. 原理，原则；主义，道义；本质，本义；根源，源泉
+[[principal]]
 """
 <<<

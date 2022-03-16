@@ -1,17 +1,17 @@
 created: 20220313075156613
 creator: @oeyoews
-difficulty: 2.458123518135949
-due: 20220314163906204
+difficulty: 1.7797187410818107
+due: 20220325110245569
 grade: 1
-history: [{"due":"20220314113116827","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113116827"}]
-interval: 0
+history: [{"due":"20220314113116827","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113116827"},{"due":"20220314163906204","interval":0,"difficulty":2.458123518135949,"stability":0.1000072479248047,"retrievability":1,"grade":1,"lapses":0,"reps":2,"review":"20220313163906204"}]
+interval: 2
 lapses: 0
-modified: 20220313163906204
+modified: 20220316110245569
 modifier: @oeyoews
-reps: 2
-retrievability: 1
-review: 20220313163906204
-stability: 0.1000072479248047
+reps: 3
+retrievability: 0.12159522294586199
+review: 20220316110245569
+stability: 9.038043554827022
 tags: EnglishWord ?
 title: convenient
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 convenient
 英 [kən'viːnɪənt]  美 [kənˈvinjənt]
-adj. 方便的；[废语]适当的；[口语]近便的；实用的
+adj. ''方便的''；[废语]适当的；[口语]近便的；实用的
 CET4 TEM4
 """
 <<<

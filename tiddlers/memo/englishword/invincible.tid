@@ -1,17 +1,17 @@
 created: 20220311003256464
 creator: @oeyoews
-difficulty: 3.897831315787051
-due: 20220315034200446
+difficulty: 4.119339768799844
+due: 20220317110556911
 grade: 0
-history: [{"due":"20220312053717442","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220311053717442"},{"due":"20220314043228343","interval":2,"difficulty":3.456603154876539,"stability":0.07409256085768667,"retrievability":0.12187376544351697,"grade":0,"lapses":1,"reps":1,"review":"20220313043228342"}]
-interval: 1
-lapses: 2
-modified: 20220314034200446
+history: [{"due":"20220312053717442","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220311053717442"},{"due":"20220314043228343","interval":2,"difficulty":3.456603154876539,"stability":0.07409256085768667,"retrievability":0.12187376544351697,"grade":0,"lapses":1,"reps":1,"review":"20220313043228342"},{"due":"20220315034200446","interval":1,"difficulty":3.897831315787051,"stability":0.054885141354873004,"retrievability":0.24122816091051208,"grade":0,"lapses":2,"reps":1,"review":"20220314034200446"}]
+interval: 2
+lapses: 3
+modified: 20220316110556911
 modifier: @oeyoews
 reps: 1
-retrievability: 0.24122816091051208
-review: 20220314034200446
-stability: 0.054885141354873004
+retrievability: 0.021508453012793312
+review: 20220316110556910
+stability: 0.04065843936722075
 tags: EnglishWord ?
 title: invincible
 type: text/vnd.tiddlywiki

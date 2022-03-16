@@ -1,17 +1,17 @@
 created: 20220312165501508
 creator: @oeyoews
-difficulty: 2.8068285839808
-due: 20220315053527699
-grade: 0
-history: [{"due":"20220314053116080","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313053116079"}]
-interval: 1
+difficulty: 2.0650076166274087
+due: 20220323111641867
+grade: 1
+history: [{"due":"20220314053116080","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313053116079"},{"due":"20220315053527699","interval":1,"difficulty":2.8068285839808,"stability":0.07408719146292923,"retrievability":0.34870506584485117,"grade":0,"lapses":1,"reps":1,"review":"20220314053527698"}]
+interval: 2
 lapses: 1
-modified: 20220314053527699
+modified: 20220316111641867
 modifier: @oeyoews
-reps: 1
-retrievability: 0.34870506584485117
-review: 20220314053527698
-stability: 0.07408719146292923
+reps: 2
+retrievability: 0.05817903264660851
+review: 20220316111641867
+stability: 7.119672088653751
 tags: EnglishWord ?
 title: resistent
 type: text/vnd.tiddlywiki

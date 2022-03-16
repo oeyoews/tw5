@@ -1,17 +1,17 @@
 created: 20220224015843899
 creator: oeyoews
-difficulty: 1
-due: 20220316041629726
-grade: 1
-history: [{"due":"20220304075731231","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075731231"},{"due":"20220307011816075","interval":3,"difficulty":1.2089083031776646,"stability":0.07545638712607733,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306011816075"}]
-interval: 1
-lapses: 1
-modified: 20220311044418225
+difficulty: 2.0955413989503753
+due: 20220317111656148
+grade: 0
+history: [{"due":"20220304075731231","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075731231"},{"due":"20220307011816075","interval":3,"difficulty":1.2089083031776646,"stability":0.07545638712607733,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306011816075"},{"due":"20220316041629726","interval":1,"difficulty":1,"stability":8.594869020011865,"retrievability":0.24750856222931497,"grade":1,"lapses":1,"reps":2,"review":"20220307041629725"}]
+interval: 9
+lapses: 2
+modified: 20220316111656148
 modifier: @oeyoews
-reps: 2
-retrievability: 0.24750856222931497
-review: 20220307041629725
-stability: 8.594869020011865
+reps: 1
+retrievability: 0.8955413989503751
+review: 20220316111656148
+stability: 0.05488315248213783
 tags: EnglishWord ?
 title: revenue
 type: text/vnd.tiddlywiki
@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
 <<<.tc-fish-quote
 """revenue
 英 ['revənjuː]  美 ['rɛvənu]
-n. 税收，国家的收入；收益
+n. ''税收''，国家的收入；收益
 CET4 TEM4  ( revenues )
 """
 <<<

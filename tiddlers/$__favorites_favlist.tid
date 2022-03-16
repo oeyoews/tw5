@@ -1,7 +1,7 @@
 created: 20220103042943419
 creator: oeyoews
-list: $:/core/ui/Buttons/home $:/config/oeyoews/removeinputborder efquote $:/config/SyncFilter [[CSS only Timer]] $:/config/FileSystemPaths $:/oeyoews/settings/tiddler-icons
-modified: 20220316105638074
+list: $:/config/oeyoews/removeinputborder efquote $:/config/SyncFilter [[CSS only Timer]] $:/config/FileSystemPaths $:/oeyoews/settings/tiddler-icons
+modified: 20220316111832042
 modifier: @oeyoews
 title: $:/favorites/favlist
 type: text/vnd.tiddlywiki
