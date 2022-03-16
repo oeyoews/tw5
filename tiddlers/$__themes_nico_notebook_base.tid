@@ -670,10 +670,6 @@ pre, code {
   padding: 4px 2px 0px 2px;
 }
 
-pre.cm-quote-line {
-    padding-left: 0.4em !important;
-    border-left: #9a5fe8 solid 0.1em !important;
-}
 
 /*@oeyoews*/
   /*tiddler title size*/

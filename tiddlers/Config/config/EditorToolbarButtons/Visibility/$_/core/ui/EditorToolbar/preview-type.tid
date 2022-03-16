@@ -1,7 +1,8 @@
 created: 20220104084230745
-modified: 20220310163904061
+creator: @oeyoews
+modified: 20220316063124136
 modifier: @oeyoews
 title: $:/config/EditorToolbarButtons/Visibility/$:/core/ui/EditorToolbar/preview-type
 type: text/vnd.tiddlywiki
 
-show
+hide
