@@ -1,8 +1,8 @@
 caption: Recently added
 created: 20200103090757281
 creator: a revised version of Andrew Harrison favorite plugin
-list: $:/config/FileSystemPaths $:/oeyoews/settings/tiddler-icons [[Image and Icons]] [[Favorites More Examples]]
-modified: 20220316022937759
+list: $:/config/SyncFilter $:/config/FileSystemPaths $:/oeyoews/settings/tiddler-icons [[Image and Icons]] [[Favorites More Examples]]
+modified: 20220316023651392
 modifier: @oeyoews
 tags: $:/tags/Favorites/Folder
 title: $:/plugins/kookma/favorites/recent
