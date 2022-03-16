@@ -3,9 +3,9 @@
         "created": "20220109065330893",
         "creator": "@oeyoews",
         "text": "@@.tc-tiddler-frame\n@@width:200px;\n<!-- write here\n-->\n@@",
-        "tags": "$:/tags/TextEditor/Snippet snippets",
+        "tags": "$:/tags/TextEditor/Snippet",
         "title": "css/style",
-        "modified": "20220313163051052",
+        "modified": "20220316072647072",
         "type": "text/vnd.tiddlywiki",
         "modifier": "@oeyoews",
         "caption": " square-css"
