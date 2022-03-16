@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20220304132643635","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303132643635"}]
 interval: 1
 lapses: 0
-modified: 20220311044418197
+modified: 20220316082653390
 modifier: @oeyoews
 reps: 2
 retrievability: 0.3750069880117309
@@ -23,3 +23,4 @@ n. 意外事故；伤亡人员；急诊室,__ 受害者__
 CET6 TEM4  ( casualties )
 """
 <<<
+[[casual]]
