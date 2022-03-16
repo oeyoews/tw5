@@ -1,8 +1,8 @@
 caption: Recently added
 created: 20200103090757281
 creator: a revised version of Andrew Harrison favorite plugin
-list: $:/config/oeyoews/removeinputborder efquote $:/config/SyncFilter $:/config/FileSystemPaths $:/oeyoews/settings/tiddler-icons [[Image and Icons]] [[Favorites More Examples]]
-modified: 20220316051849973
+list: $:/core/ui/Buttons/home $:/config/oeyoews/removeinputborder efquote $:/config/SyncFilter $:/config/FileSystemPaths $:/oeyoews/settings/tiddler-icons [[Image and Icons]] [[Favorites More Examples]]
+modified: 20220316105638075
 modifier: @oeyoews
 tags: $:/tags/Favorites/Folder
 title: $:/plugins/kookma/favorites/recent

@@ -1,6 +1,8 @@
 created: 20220311074541930
 creator: @oeyoews
-modified: 20220311074541930
+modified: 20220316104040443
 modifier: @oeyoews
 title: $:/config/shortcuts/cancel-edit-tiddler
 type: text/vnd.tiddlywiki
+
+ctrl-Escape
