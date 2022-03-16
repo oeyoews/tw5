@@ -111,6 +111,8 @@
 
 - [x] __crontab__: use timer or crontab to push automaticaly with smtp
 - [ ] __precache__: use workbox-cli to precache offline
+    * http://csbun.github.io/blog/2018/02/workbox/
+    * https://github.com/linonetwo/wiki
 - [ ] __git__: use submodule to manage img and tiddler/subwiki
 - [ ] __tw5__: customize respawn js, to fix during time bug(in logic)
 - [x] __repo__: use runner(renovate) for repository(tw5) in gitlab platform
