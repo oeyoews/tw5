@@ -74,7 +74,7 @@ table-header-background: #073642
 tag-background: #b8f316
 tag-foreground: #002b36
 tiddler-background: #002b36
-tiddler-border: #3b9191
+tiddler-border: #073642
 tiddler-controls-foreground: inherit
 tiddler-controls-foreground-hover: #d33682
 tiddler-controls-foreground-selected: #2aa198
