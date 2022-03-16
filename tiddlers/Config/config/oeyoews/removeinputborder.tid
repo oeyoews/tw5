@@ -1,0 +1,29 @@
+caption: stylesheet
+created: 20220316051356798
+creator: @oeyoews
+modified: 20220316053324881
+modifier: @oeyoews
+tags: $:/tags/Stylesheet
+title: $:/config/oeyoews/removeinputborder
+type: text/vnd.tiddlywiki
+
+.tc-tiddler-preview-preview {
+    float: right;
+    width: 49%;
+    border: 1px solid #002b36;
+    margin: 4px 0 3px 3px;
+    padding: 3px 3px 3px 3px;
+}
+
+/* remove border */
+.tc-tiddler-frame input.tc-edit-texteditor, .tc-tiddler-frame textarea.tc-edit-texteditor, .tc-tiddler-frame iframe.tc-edit-texteditor {
+    transition: border .14s ease-in-out;
+    border: 1px solid #002b36;
+    background: #002b36;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+.cm-s-tiddlywiki .CodeMirror-activeline-background, .cm-s-tiddlywiki .CodeMirror-activeline-gutter .CodeMirror-linenumber {
+    background: rgb(77 153 60 / 20%);
+}
