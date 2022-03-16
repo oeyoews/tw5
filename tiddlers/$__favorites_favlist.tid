@@ -1,7 +1,7 @@
 created: 20220103042943419
 creator: oeyoews
-list: $:/config/oeyoews/getplugins/button [[CSS only Timer]] $:/config/FileSystemPaths $:/oeyoews/settings/tiddler-icons
-modified: 20220314113221175
+list: [[CSS only Timer]] $:/config/FileSystemPaths $:/oeyoews/settings/tiddler-icons
+modified: 20220316022937756
 modifier: @oeyoews
 title: $:/favorites/favlist
 type: text/vnd.tiddlywiki
