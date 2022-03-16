@@ -1,0 +1,13 @@
+created: 20220316060106222
+creator: @oeyoews
+modified: 20220316060108895
+modifier: @oeyoews
+tags: $:/tags/SideBarSegment
+title: $:/core/ui/SideBarSegments/site-title
+type: text/vnd.tiddlywiki
+
+<h1 class="tc-site-title">
+
+<$transclude tiddler="$:/SiteTitle" mode="inline"/>
+
+</h1>
