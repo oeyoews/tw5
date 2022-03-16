@@ -1,18 +1,9 @@
 created: 20220226021744293
 creator: oeyoews
-difficulty: 2.0596188436347647
-due: 20220315013542488
-grade: 2
 history: [{"due":"20220310154501511","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220309154501511"}]
-interval: 1
-lapses: 0
-modified: 20220311044418234
+modified: 20220316070844724
 modifier: @oeyoews
-reps: 2
-retrievability: 0.34910423292122506
-review: 20220310013542487
-stability: 5.365067619210177
-tags: EnglishWord ?
+tags: EnglishWord !
 title: woods
 type: text/vnd.tiddlywiki
 
