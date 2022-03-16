@@ -1,17 +1,17 @@
 created: 20220306070338024
 creator: oeyoews
-difficulty: 2.683833622354247
-due: 20220315155507937
-grade: 1
-history: [{"due":"20220311020350167","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310020350167"}]
-interval: 1
+difficulty: 1.7727655937322024
+due: 20220405065825674
+grade: 2
+history: [{"due":"20220311020350167","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310020350167"},{"due":"20220315155507937","interval":1,"difficulty":2.683833622354247,"stability":4.474493622614117,"retrievability":0.34910423292122506,"grade":1,"lapses":0,"reps":2,"review":"20220311155507937"}]
+interval: 5
 lapses: 0
-modified: 20220311155507937
+modified: 20220316065825674
 modifier: @oeyoews
-reps: 2
-retrievability: 0.34910423292122506
-review: 20220311155507937
-stability: 4.474493622614117
+reps: 3
+retrievability: 0.8889319713779553
+review: 20220316065825674
+stability: 20.12833147746919
 tags: EnglishWord ?
 title: consciousness
 type: text/vnd.tiddlywiki
