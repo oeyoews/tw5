@@ -3,11 +3,9 @@ core-version: >=5.2.1
 dependents: 
 description: Incremental Learning program based on TiddlyWiki
 list: readme license
-modified: 20220310164023545
-modifier: @oeyoews
 name: Fishing
 plugin-type: plugin
 source: https://github.com/oflg/fishing
 title: $:/plugins/oflg/fishing
 type: application/json
-version: 2.0.6
+version: 2.1.0

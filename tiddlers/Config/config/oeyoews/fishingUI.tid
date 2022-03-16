@@ -1,0 +1,28 @@
+created: 20220316124815943
+creator: @oeyoews
+modified: 20220316143533685
+modifier: @oeyoews
+tags: $:/tags/Stylesheet
+title: $:/config/oeyoews/fishingUI
+type: text/vnd.tiddlywiki
+
+.tc-fishing-learing-grade .learn {
+		border-radius:5px;
+		margin-left:10px;
+		color:green;
+		background-color: #073642;
+		border: 3px solid green;
+		padding:6px;
+}
+
+.tc-fishing-learing-grade .forget{
+		border-radius:5px;margin-left:10px;color:red;background-color: #5f1736;border: 2px solid #a8124b;padding:5px;
+}
+
+.tc-fishing-learing-grade .remember{
+		border-radius:5px;margin-left:10px;color:green;background-color: #084111;border: 2px solid green;padding:5px;
+}
+
+.tc-fishing-learing-grade .grasp{
+		border-radius:5px;margin-left:10px;color:yellow;background-color:#71851b;border:2px solid #c6c618;padding:5px;
+}
