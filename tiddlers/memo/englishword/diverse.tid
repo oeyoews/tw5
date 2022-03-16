@@ -1,17 +1,17 @@
 created: 20220305033443994
 creator: oeyoews
-difficulty: 1.683833622354247
-due: 20220317163050804
-grade: 2
-history: [{"due":"20220311023200768","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023200768"}]
-interval: 1
+difficulty: 1.8177304084841934
+due: 20220403151309986
+grade: 1
+history: [{"due":"20220311023200768","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023200768"},{"due":"20220317163050804","interval":1,"difficulty":1.683833622354247,"stability":6.1623927798054465,"retrievability":0.34910423292122506,"grade":2,"lapses":0,"reps":2,"review":"20220311163050804"}]
+interval: 4
 lapses: 0
-modified: 20220311163050804
+modified: 20220316151309986
 modifier: @oeyoews
-reps: 2
-retrievability: 0.34910423292122506
-review: 20220311163050804
-stability: 6.1623927798054465
+reps: 3
+retrievability: 0.9338967861299464
+review: 20220316151309986
+stability: 17.721808801091676
 tags: EnglishWord ?
 title: diverse
 type: text/vnd.tiddlywiki

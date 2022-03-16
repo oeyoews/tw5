@@ -1,6 +1,7 @@
+caption: Fishing Ui
 created: 20220316124815943
 creator: @oeyoews
-modified: 20220316143533685
+modified: 20220316150418603
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/fishingUI
@@ -25,4 +26,8 @@ type: text/vnd.tiddlywiki
 
 .tc-fishing-learing-grade .grasp{
 		border-radius:5px;margin-left:10px;color:yellow;background-color:#71851b;border:2px solid #c6c618;padding:5px;
+}
+
+.tc-fishing-learing-count {
+    color: #2c9825;
 }
