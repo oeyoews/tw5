@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220311091843993","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310091843992"}]
 interval: 2
 lapses: 0
-modified: 20220312071838998
+modified: 20220316085916568
 modifier: @oeyoews
 reps: 2
 retrievability: 0.12187376544351697
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 pledge
 英 [pledʒ]  美 [plɛdʒ]
-n. 保证，誓言；抵押；抵押品，典当物
+n. ''保证''，誓言；抵押；抵押品，典当物
 vt. 保证，许诺；用……抵押；举杯祝……健康
 n. (Pledge)人名；(英)普莱奇
 CET4 TEM4  ( pledging, pledged, pledges )

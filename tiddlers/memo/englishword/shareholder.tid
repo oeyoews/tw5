@@ -6,7 +6,7 @@ grade: 0
 history: [{"due":"20220308061542062","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061542062"},{"due":"20220310151242298","interval":2,"difficulty":4.755436052660864,"stability":0.07416773238429089,"retrievability":0.1227653108614827,"grade":0,"lapses":1,"reps":1,"review":"20220309151242297"},{"due":"20220314015051953","interval":1,"difficulty":3.1970121361869888,"stability":3.840886578134827,"retrievability":0.24157608352612525,"grade":2,"lapses":1,"reps":2,"review":"20220310015051953"}]
 interval: 3
 lapses: 2
-modified: 20220313160346179
+modified: 20220316085720186
 modifier: @oeyoews
 reps: 1
 retrievability: 0.9210012340142991
@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
 <<<.tc-fish-quote
 """shareholders
 英/美 ['ʃɛr,holdɚ]
-n. [金融] 股东，投资者；股民（shareholder的复数）
+n. [金融] ''股东''，投资者；股民（shareholder的复数）
 CET6 TEM4  ( shareholders )
 """
 <<<

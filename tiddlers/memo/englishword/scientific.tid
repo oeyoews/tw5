@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220302164448497","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301164448497"},{"due":"20220302164448497","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301164448497"}]
 interval: 3
 lapses: 0
-modified: 20220311044418226
+modified: 20220316094939819
 modifier: @oeyoews
 reps: 3
 retrievability: 0.06378261010099043
@@ -24,3 +24,4 @@ adj. 科学的，系统的
 CET4 TEM4
 """
 <<<
+[[conscience]]
