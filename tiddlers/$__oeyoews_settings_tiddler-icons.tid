@@ -1,7 +1,7 @@
 caption: Add Icon
 created: 20220212075520970
 creator: oeyoews
-modified: 20220316025725088
+modified: 20220316034025243
 modifier: @oeyoews
 tags: $:/tags/TiddlerIconFilter Source
 title: $:/oeyoews/settings/tiddler-icons
@@ -30,8 +30,6 @@ type: text/vnd.tiddlywiki
 [tag[emacs]then[$:/images/coreui-icons/brand/cib-spacemacs]]
 
 [tag[wine]then[$:/images/google-material-design/maps/two-tone/24px/wine-bar]]
-
-[tag[?]then[$:/core/images/twitter]]
 
 [tag[408]then[$:/images/coreui-icons/brand/cib-safari]]
 
