@@ -1,7 +1,7 @@
 caption: stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220316053324881
+modified: 20220316061000124
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -25,5 +25,5 @@ type: text/vnd.tiddlywiki
 }
 
 .cm-s-tiddlywiki .CodeMirror-activeline-background, .cm-s-tiddlywiki .CodeMirror-activeline-gutter .CodeMirror-linenumber {
-    background: rgb(77 153 60 / 20%);
+    background: unset;
 }
