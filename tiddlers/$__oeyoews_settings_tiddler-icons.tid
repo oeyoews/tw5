@@ -1,7 +1,7 @@
 caption: Add Icon
 created: 20220212075520970
 creator: oeyoews
-modified: 20220314111533481
+modified: 20220316025725088
 modifier: @oeyoews
 tags: $:/tags/TiddlerIconFilter Source
 title: $:/oeyoews/settings/tiddler-icons
@@ -44,5 +44,7 @@ type: text/vnd.tiddlywiki
 [tag[private]then[$:/images/coreui-icons/brand/cib-gnu-privacy-guard]]
 
 [tag[python]then[$:/images/tabler-icons/brand-python]]
+
+[tag[iphone]then[$:/images/templarian-material-design/apple-ios]]
 
 [tag[Index]then[$:/plugins/kookma/todolist/images/lightbulb]]
