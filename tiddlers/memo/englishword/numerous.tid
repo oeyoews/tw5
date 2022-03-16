@@ -1,17 +1,17 @@
 created: 20220226031612400
 creator: oeyoews
-difficulty: 2.0596188436347647
-due: 20220315015102570
+difficulty: 1.1484664552193455
+due: 20220415010003704
 grade: 2
-history: [{"due":"20220310111718973","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220309111718973"}]
-interval: 1
+history: [{"due":"20220310111718973","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220309111718973"},{"due":"20220315015102570","interval":1,"difficulty":2.0596188436347647,"stability":5.365067619210177,"retrievability":0.34910423292122506,"grade":2,"lapses":0,"reps":2,"review":"20220310015102570"}]
+interval: 6
 lapses: 0
-modified: 20220311044418216
+modified: 20220316010003704
 modifier: @oeyoews
-reps: 2
-retrievability: 0.34910423292122506
-review: 20220310015102570
-stability: 5.365067619210177
+reps: 3
+retrievability: 0.8888476115845811
+review: 20220316010003704
+stability: 29.91257330184194
 tags: EnglishWord ?
 title: numerous
 type: text/vnd.tiddlywiki

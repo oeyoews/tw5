@@ -1,17 +1,17 @@
 created: 20220222014258265
 creator: oeyoews
-difficulty: 2.100349397308963
-due: 20220315034122833
-grade: 0
-history: [{"due":"20220302164455042","interval":0,"difficulty":2.2984764469154384,"stability":0.07958008229979391,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220301164455041"},{"due":"20220302164455042","interval":0,"difficulty":2.2984764469154384,"stability":0.07958008229979391,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220301164455041"},{"due":"20220306145825297","interval":3,"difficulty":2.5173146657538688,"stability":0.055899466449811495,"retrievability":0.01883821883842999,"grade":0,"lapses":2,"reps":1,"review":"20220305145825296"},{"due":"20220314063035171","interval":1,"difficulty":1,"stability":8.029580651599877,"retrievability":0.1518561648168685,"grade":2,"lapses":2,"reps":2,"review":"20220306063035171"}]
-interval: 8
+difficulty: 1
+due: 20220324010030650
+grade: 2
+history: [{"due":"20220302164455042","interval":0,"difficulty":2.2984764469154384,"stability":0.07958008229979391,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220301164455041"},{"due":"20220302164455042","interval":0,"difficulty":2.2984764469154384,"stability":0.07958008229979391,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220301164455041"},{"due":"20220306145825297","interval":3,"difficulty":2.5173146657538688,"stability":0.055899466449811495,"retrievability":0.01883821883842999,"grade":0,"lapses":2,"reps":1,"review":"20220305145825296"},{"due":"20220314063035171","interval":1,"difficulty":1,"stability":8.029580651599877,"retrievability":0.1518561648168685,"grade":2,"lapses":2,"reps":2,"review":"20220306063035171"},{"due":"20220315034122833","interval":8,"difficulty":2.100349397308963,"stability":0.04065991276038159,"retrievability":0.9003493973089629,"grade":0,"lapses":3,"reps":1,"review":"20220314034122833"}]
+interval: 2
 lapses: 3
-modified: 20220314034122833
+modified: 20220316010030650
 modifier: @oeyoews
-reps: 1
-retrievability: 0.9003493973089629
-review: 20220314034122833
-stability: 0.04065991276038159
+reps: 2
+retrievability: 0.005613811285675294
+review: 20220316010030650
+stability: 7.924095827245034
 tags: EnglishWord ?
 title: skeptical
 type: text/vnd.tiddlywiki

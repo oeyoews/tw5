@@ -1,9 +1,9 @@
 created: 20220305054212626
 creator: oeyoews
 list-after: $:/core/ui/EditTemplate/title
-modified: 20220305062736634
-modifier: oeyoews
-tags: $:/tags/EditTemplate
+modified: 20220316011732321
+modifier: @oeyoews
+tags: deprecated
 title: $:/ContributionBanner
 type: text/vnd.tiddlywiki
 
