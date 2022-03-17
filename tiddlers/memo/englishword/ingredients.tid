@@ -1,17 +1,17 @@
 created: 20220314070038116
 creator: @oeyoews
-difficulty: 1.6510867920234369
-due: 20220317113032081
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220316113032081
+difficulty: 2.1997785452241594
+due: 20220318114924796
+grade: 0
+history: [{"due":"20220317113032081","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316113032081"}]
+interval: 1
+lapses: 1
+modified: 20220317114924796
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220316113032081
-stability: 0.10000362396240235
+retrievability: 0.3486917532007223
+review: 20220317114924796
+stability: 0.07408450676555052
 tags: EnglishWord ?
 title: ingredients
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 ingredients
 英 [ɪn'griːdɪənts]  美 [ɪn'ɡridɪənts]
-n. 材料；佐料
+n. ''材料''；佐料
 CET4 TEM4  ( ingredients )
 """
 <<<
