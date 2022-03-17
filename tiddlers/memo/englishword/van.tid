@@ -1,17 +1,17 @@
 created: 20220303020229481
 creator: oeyoews
-difficulty: 2.0955413989503753
-due: 20220317111847931
+difficulty: 2.442188801750848
+due: 20220318092322788
 grade: 0
-history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220307002052168","interval":4,"difficulty":1.2254841244067651,"stability":0.07545638712607733,"retrievability":0.025484124406765195,"grade":0,"lapses":1,"reps":1,"review":"20220306002052168"},{"due":"20220316012358487","interval":1,"difficulty":1,"stability":8.594869020011865,"retrievability":0.24750856222931497,"grade":1,"lapses":1,"reps":2,"review":"20220307012358486"}]
-interval: 9
-lapses: 2
-modified: 20220316111847931
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220307002052168","interval":4,"difficulty":1.2254841244067651,"stability":0.07545638712607733,"retrievability":0.025484124406765195,"grade":0,"lapses":1,"reps":1,"review":"20220306002052168"},{"due":"20220316012358487","interval":1,"difficulty":1,"stability":8.594869020011865,"retrievability":0.24750856222931497,"grade":1,"lapses":1,"reps":2,"review":"20220307012358486"},{"due":"20220317111847931","interval":9,"difficulty":2.0955413989503753,"stability":0.05488315248213783,"retrievability":0.8955413989503751,"grade":0,"lapses":2,"reps":1,"review":"20220316111847931"}]
+interval: 1
+lapses: 3
+modified: 20220317092322788
 modifier: @oeyoews
 reps: 1
-retrievability: 0.8955413989503751
-review: 20220316111847931
-stability: 0.05488315248213783
+retrievability: 0.14664740280047256
+review: 20220317092322788
+stability: 0.04065843936722075
 tags: EnglishWord ?
 title: van
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """van
 英 [væn]  美 [væn]
 n. 先锋；厢式货车；增值网
-vt. 用车搬运
+vt. ''用车搬运''
 n. (Van)人名；(老、泰、柬、缅)万
 CET4 TEM4  ( vans )
 """

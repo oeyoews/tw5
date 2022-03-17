@@ -1,17 +1,17 @@
 created: 20220316112114647
 creator: @oeyoews
-difficulty: 1.6510867920234369
-due: 20220317112941533
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220316112941533
+difficulty: 2.1997785452241594
+due: 20220318064531289
+grade: 0
+history: [{"due":"20220317112941533","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316112941533"}]
+interval: 1
+lapses: 1
+modified: 20220317064531289
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220316112941533
-stability: 0.10000362396240235
+retrievability: 0.3486917532007223
+review: 20220317064531289
+stability: 0.07408450676555052
 tags: EnglishWord ?
 title: legal
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 legal
 英 ['liːg(ə)l]  美 ['ligl]
-adj. 法律的；合法的；法定的；依照法律的
+adj. 法律的；''合法的''；法定的；依照法律的
 n. (Legal)人名；(法)勒加尔
 CET4 TEM4
 [[legislation]]

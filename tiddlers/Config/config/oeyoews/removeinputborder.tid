@@ -1,7 +1,7 @@
 caption: stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220316063041895
+modified: 20220317093853006
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -31,4 +31,8 @@ type: text/vnd.tiddlywiki
 pre.cm-quote-line {
     padding-left: 0.4em !important;
     border-left:  #002b36 solid 0.1em !important;
+}
+
+strong {
+color: #b8f316
 }

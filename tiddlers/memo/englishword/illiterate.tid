@@ -1,17 +1,17 @@
 created: 20220313075241014
 creator: @oeyoews
-difficulty: 3.0650076166274087
-due: 20220317034635927
-grade: 0
-history: [{"due":"20220314113124504","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113124504"},{"due":"20220315034409908","interval":1,"difficulty":2.8068285839808,"stability":0.07408719146292923,"retrievability":0.34870506584485117,"grade":0,"lapses":1,"reps":1,"review":"20220314034409908"}]
-interval: 2
+difficulty: 2.411665221315312
+due: 20220321093239748
+grade: 1
+history: [{"due":"20220314113124504","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113124504"},{"due":"20220315034409908","interval":1,"difficulty":2.8068285839808,"stability":0.07408719146292923,"retrievability":0.34870506584485117,"grade":0,"lapses":1,"reps":1,"review":"20220314034409908"},{"due":"20220317034635927","interval":2,"difficulty":3.0650076166274087,"stability":0.054885141354873004,"retrievability":0.05817903264660851,"grade":0,"lapses":2,"reps":1,"review":"20220316034635927"}]
+interval: 1
 lapses: 2
-modified: 20220316034635927
+modified: 20220317093239748
 modifier: @oeyoews
-reps: 1
-retrievability: 0.05817903264660851
-review: 20220316034635927
-stability: 0.054885141354873004
+reps: 2
+retrievability: 0.1466576046879033
+review: 20220317093239748
+stability: 4.336577705538692
 tags: EnglishWord ?
 title: illiterate
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 illiterate
 英 [ɪ'lɪt(ə)rət]  美 [ɪ'lɪtərət]
-adj. 文盲的；不识字的；没受教育的
+adj. 文盲的；''不识字的''；没受教育的
 n. 文盲
 CET6 TEM4  ( illiterates )
 """
