@@ -1,17 +1,17 @@
 created: 20220313075040311
 creator: @oeyoews
-difficulty: 3.7163025507825576
-due: 20220317111959149
+difficulty: 4.06294995358303
+due: 20220318113256195
 grade: 0
-history: [{"due":"20220314113128100","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113128100"},{"due":"20220314162359977","interval":0,"difficulty":3.458123518135949,"stability":0.07408719146292923,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220313162359977"}]
-interval: 2
-lapses: 2
-modified: 20220316111959149
+history: [{"due":"20220314113128100","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113128100"},{"due":"20220314162359977","interval":0,"difficulty":3.458123518135949,"stability":0.07408719146292923,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220313162359977"},{"due":"20220317111959149","interval":2,"difficulty":3.7163025507825576,"stability":0.05488315248213783,"retrievability":0.05817903264660851,"grade":0,"lapses":2,"reps":1,"review":"20220316111959148"}]
+interval: 1
+lapses: 3
+modified: 20220317113256195
 modifier: @oeyoews
 reps: 1
-retrievability: 0.05817903264660851
-review: 20220316111959148
-stability: 0.05488315248213783
+retrievability: 0.14664740280047256
+review: 20220317113256195
+stability: 0.04065843936722075
 tags: EnglishWord ?
 title: immense
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 immense
 英 [ɪ'mens]  美 [ɪ'mɛns]
-adj. 巨大的，广大的；无边无际的；非常好的
+adj. ''巨大的''，广大的；无边无际的；非常好的
 CET4 TEM4
 """
 <<<

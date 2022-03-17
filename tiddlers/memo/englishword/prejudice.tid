@@ -1,17 +1,17 @@
 created: 20220316020409808
 creator: @oeyoews
-difficulty: 1.8299972256802912
-due: 20220317034331848
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220316034331849
+difficulty: 2.3787022915251423
+due: 20220318113207464
+grade: 0
+history: [{"due":"20220317034331848","interval":0,"difficulty":1.8299972256802912,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316034331848"}]
+interval: 1
+lapses: 1
+modified: 20220317113207464
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220316034331848
-stability: 0.1000072479248047
+retrievability: 0.34870506584485117
+review: 20220317113207463
+stability: 0.07408450676555052
 tags: EnglishWord ?
 title: prejudice
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 prejudice
 英 ['predʒʊdɪs]  美 ['prɛdʒədɪs]
-n. 偏见；侵害
+n. ''偏见''；侵害
 vt. 损害；使有偏见
 """
 <<<

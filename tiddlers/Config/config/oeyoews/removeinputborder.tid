@@ -1,7 +1,7 @@
 caption: stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220317093853006
+modified: 20220317112941055
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -33,6 +33,8 @@ pre.cm-quote-line {
     border-left:  #002b36 solid 0.1em !important;
 }
 
+<!--
 strong {
 color: #b8f316
 }
+-->

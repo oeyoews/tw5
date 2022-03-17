@@ -1,17 +1,17 @@
 created: 20220226034202907
 creator: oeyoews
-difficulty: 3.835491050587532
-due: 20220317011212800
+difficulty: 4.1821486552754354
+due: 20220318112859875
 grade: 0
-history: [{"due":"20220311015430980","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310015430980"},{"due":"20220314042923648","interval":3,"difficulty":3.3772760368314025,"stability":0.07410329964720157,"retrievability":0.042546647398380294,"grade":0,"lapses":1,"reps":1,"review":"20220313042923647"},{"due":"20220314162540174","interval":0,"difficulty":3.5772760368314023,"stability":0.07410329964720157,"retrievability":1,"grade":1,"lapses":1,"reps":2,"review":"20220313162540174"}]
-interval: 2
-lapses: 2
-modified: 20220316011212800
+history: [{"due":"20220311015430980","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310015430980"},{"due":"20220314042923648","interval":3,"difficulty":3.3772760368314025,"stability":0.07410329964720157,"retrievability":0.042546647398380294,"grade":0,"lapses":1,"reps":1,"review":"20220313042923647"},{"due":"20220314162540174","interval":0,"difficulty":3.5772760368314023,"stability":0.07410329964720157,"retrievability":1,"grade":1,"lapses":1,"reps":2,"review":"20220313162540174"},{"due":"20220317011212800","interval":2,"difficulty":3.835491050587532,"stability":0.054885141354873004,"retrievability":0.05821501375612986,"grade":0,"lapses":2,"reps":1,"review":"20220316011212800"}]
+interval: 1
+lapses: 3
+modified: 20220317112859875
 modifier: @oeyoews
 reps: 1
-retrievability: 0.05821501375612986
-review: 20220316011212800
-stability: 0.054885141354873004
+retrievability: 0.1466576046879033
+review: 20220317112859874
+stability: 0.04065843936722075
 tags: EnglishWord ?
 title: rival
 type: text/vnd.tiddlywiki
@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
 <<<.tc-fish-quote
 """rival
 英 ['raɪvl]  美 ['raɪvl]
-n. __对手；竞争者__
+n. ''对手''；竞争者
 vt. 与…竞争；比得上某人
 vi. 竞争
 adj. 竞争的

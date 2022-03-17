@@ -1,17 +1,17 @@
 created: 20220316113053770
 creator: @oeyoews
-difficulty: 1.6510867920234369
-due: 20220317152356659
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220316152356659
+difficulty: 2.1997785452241594
+due: 20220318113229819
+grade: 0
+history: [{"due":"20220317152356659","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316152356658"}]
+interval: 1
+lapses: 1
+modified: 20220317113229819
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220316152356658
-stability: 0.10000362396240235
+retrievability: 0.3486917532007223
+review: 20220317113229818
+stability: 0.07408450676555052
 tags: EnglishWord ?
 title: convert
 type: text/vnd.tiddlywiki
@@ -21,7 +21,7 @@ type: text/vnd.tiddlywiki
 convert
 英 [kən'vɜːt]  美 [kən'vɝt]
 vt. 使转变；转换…；使…改变信仰
-vi. 转变，变换；皈依；改变信仰
+vi. ''转变''，变换；皈依；改变信仰
 n. 皈依者；改变宗教信仰者
 n. (Convert)人名；(法)孔韦尔
 CET4 TEM4  ( converting, converted, converts )
