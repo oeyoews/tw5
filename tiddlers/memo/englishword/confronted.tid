@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20220308104804043","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104804043"},{"due":"20220312065554124","interval":1,"difficulty":2.9830495523194847,"stability":4.163309058210984,"retrievability":0.35037881052010367,"grade":2,"lapses":0,"reps":2,"review":"20220308065554124"}]
 interval: 4
 lapses: 0
-modified: 20220312100920340
+modified: 20220317010748370
 modifier: @oeyoews
 reps: 3
 retrievability: 0.9037272606606638
@@ -21,5 +21,6 @@ type: text/vnd.tiddlywiki
 英/美 [kən'frʌnt]
 面对
 CET4 TEM4  ( confronting, confronted, confronts )
+[[confrontation]]
 """
 <<<
