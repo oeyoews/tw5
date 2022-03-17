@@ -1,17 +1,17 @@
 created: 20220314053251392
 creator: @oeyoews
-difficulty: 1.6510867920234369
-due: 20220317112915331
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220316112915331
+difficulty: 2.1997785452241594
+due: 20220318034757122
+grade: 0
+history: [{"due":"20220317112915331","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316112915331"}]
+interval: 1
+lapses: 1
+modified: 20220317034757122
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220316112915331
-stability: 0.10000362396240235
+retrievability: 0.3486917532007223
+review: 20220317034757121
+stability: 0.07408450676555052
 tags: EnglishWord ?
 title: impulsive
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 impulsive
 英 [ɪm'pʌlsɪv]  美 [ɪm'pʌlsɪv]
-adj. 冲动的；受感情驱使的；任性的
+adj. ''冲动的''；受感情驱使的；任性的
 TEM4
 """
 <<<
