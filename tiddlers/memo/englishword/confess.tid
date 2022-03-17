@@ -1,17 +1,17 @@
 created: 20220224115821221
 creator: oeyoews
-difficulty: 4.203338029860238
-due: 20220316165716779
-grade: 2
-history: [{"due":"20220308104603353","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104603353"},{"due":"20220309065320897","interval":1,"difficulty":4.983049552319485,"stability":0.07442546333264817,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220308065320897"},{"due":"20220310122646907","interval":1,"difficulty":5.425816961540947,"stability":0.05494480753692821,"retrievability":0.24276740922146145,"grade":0,"lapses":2,"reps":1,"review":"20220309122646906"},{"due":"20220311014447188","interval":1,"difficulty":5.772780608929874,"stability":0.040704114555206596,"retrievability":0.1469636473889265,"grade":0,"lapses":3,"reps":1,"review":"20220310014447188"},{"due":"20220313055738529","interval":1,"difficulty":5.047917111914819,"stability":2.310371245495236,"retrievability":0.07513650298494459,"grade":1,"lapses":3,"reps":2,"review":"20220311055738529"}]
-interval: 1
-lapses: 3
-modified: 20220312165716779
+difficulty: 5.309283502151301
+due: 20220318055200231
+grade: 0
+history: [{"due":"20220308104603353","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104603353"},{"due":"20220309065320897","interval":1,"difficulty":4.983049552319485,"stability":0.07442546333264817,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220308065320897"},{"due":"20220310122646907","interval":1,"difficulty":5.425816961540947,"stability":0.05494480753692821,"retrievability":0.24276740922146145,"grade":0,"lapses":2,"reps":1,"review":"20220309122646906"},{"due":"20220311014447188","interval":1,"difficulty":5.772780608929874,"stability":0.040704114555206596,"retrievability":0.1469636473889265,"grade":0,"lapses":3,"reps":1,"review":"20220310014447188"},{"due":"20220313055738529","interval":1,"difficulty":5.047917111914819,"stability":2.310371245495236,"retrievability":0.07513650298494459,"grade":1,"lapses":3,"reps":2,"review":"20220311055738529"},{"due":"20220316165716779","interval":1,"difficulty":4.203338029860238,"stability":4.266637448049463,"retrievability":0.9554209179454198,"grade":2,"lapses":3,"reps":3,"review":"20220312165716778"}]
+interval: 4
+lapses: 4
+modified: 20220317055200231
 modifier: @oeyoews
-reps: 3
-retrievability: 0.9554209179454198
-review: 20220312165716778
-stability: 4.266637448049463
+reps: 1
+retrievability: 0.9059454722910624
+review: 20220317055200231
+stability: 0.030120512707719985
 tags: EnglishWord ?
 title: confess
 type: text/vnd.tiddlywiki
@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
 <<<.tc-fish-quote
 """confess
 英 [kən'fes]  美 [kən'fɛs]
-vt. 承认；坦白；忏悔；供认
+vt. ''承认''；坦白；忏悔；供认
 vi. 承认；坦白；忏悔；供认
 CET4 TEM4  ( confessing, confessed, confesses )
 """

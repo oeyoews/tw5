@@ -1,17 +1,17 @@
 created: 20220314021545442
 creator: @oeyoews
-difficulty: 1.6510867920234369
-due: 20220317112911308
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220316112911308
+difficulty: 2.1997785452241594
+due: 20220318054422125
+grade: 0
+history: [{"due":"20220317112911308","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316112911308"}]
+interval: 1
+lapses: 1
+modified: 20220317054422125
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220316112911308
-stability: 0.10000362396240235
+retrievability: 0.3486917532007223
+review: 20220317054422125
+stability: 0.07408450676555052
 tags: EnglishWord ?
 title: counseling
 type: text/vnd.tiddlywiki
@@ -23,5 +23,6 @@ counseling
 n. 咨询服务
 v. 建议；劝告；商讨（counsel的ing形式）
 CET4 TEM4  ( counseling, counseled, counsels )
+[[counsel]]
 """
 <<<

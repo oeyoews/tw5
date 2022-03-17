@@ -1,17 +1,17 @@
 created: 20220316084057182
 creator: @oeyoews
-difficulty: 1.6510867920234369
-due: 20220317112943606
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220326054446191
+grade: 2
+history: [{"due":"20220317112943606","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316112943606"}]
+interval: 1
 lapses: 0
-modified: 20220316112943606
+modified: 20220317054446191
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220316112943606
-stability: 0.10000362396240235
+reps: 2
+retrievability: 0.3486917532007223
+review: 20220317054446190
+stability: 8.83030933645776
 tags: EnglishWord ?
 title: arise
 type: text/vnd.tiddlywiki

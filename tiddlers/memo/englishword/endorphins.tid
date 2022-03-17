@@ -1,17 +1,17 @@
 created: 20220314032114152
 creator: @oeyoews
-difficulty: 1.8299972256802912
-due: 20220317034316441
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220316034316441
+difficulty: 2.3787022915251423
+due: 20220318054810132
+grade: 0
+history: [{"due":"20220317034316441","interval":0,"difficulty":1.8299972256802912,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316034316441"}]
+interval: 1
+lapses: 1
+modified: 20220317054810132
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220316034316441
-stability: 0.1000072479248047
+retrievability: 0.34870506584485117
+review: 20220317054810131
+stability: 0.07408450676555052
 tags: EnglishWord ?
 title: endorphins
 type: text/vnd.tiddlywiki

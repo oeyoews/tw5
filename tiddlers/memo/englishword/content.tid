@@ -1,17 +1,17 @@
 created: 20220314033622170
 creator: @oeyoews
-difficulty: 1.6510867920234369
-due: 20220317113134706
-grade: -1
-history: []
-interval: 0
+difficulty: 1.1997785452241592
+due: 20220325054221996
+grade: 1
+history: [{"due":"20220317113134706","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316113134706"}]
+interval: 1
 lapses: 0
-modified: 20220316113134707
+modified: 20220317054221997
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220316113134706
-stability: 0.10000362396240235
+reps: 2
+retrievability: 0.3486917532007223
+review: 20220317054221996
+stability: 7.785265802052035
 tags: EnglishWord ?
 title: content
 type: text/vnd.tiddlywiki
@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
 <<<.tc-fish-quote
 """
 英 [kən'tent]  美 ['kɑntɛnt]
-n. 内容，目录；满足；容量
+n. ''内容''，目录；满足；容量
 adj. ''满意的''
 vt. 使满足
 n. (Content)人名；(法)孔唐
