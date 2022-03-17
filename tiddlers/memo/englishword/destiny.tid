@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20220308041847491","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307041847491"},{"due":"20220311065958235","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308065958235"}]
 interval: 5
 lapses: 0
-modified: 20220313052437891
+modified: 20220317014505480
 modifier: @oeyoews
 reps: 3
 retrievability: 0.8572012153863486
@@ -22,5 +22,7 @@ type: text/vnd.tiddlywiki
 n. 命运，定数，天命
 n. (Destiny)人名；(英)德斯蒂尼，德斯蒂妮(女名)
 CET6 TEM4  ( destinies )
+[[destinction]]
+[[adversity]]
 """
 <<<
