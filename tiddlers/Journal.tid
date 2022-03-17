@@ -3,12 +3,8 @@ created: 20211229105441495
 creator: oeyoews
 icon: $:/core/images/new-journal-button
 list: 
-modified: 20220311003336354
+modified: 20220317154400680
 modifier: @oeyoews
-tags: Index
+tags: 
 title: Journal
 type: text/vnd.tiddlywiki
-
-<details>
-<summary>TOC</summary>
-<<locator-view baseTitle:"Journal">></details>
