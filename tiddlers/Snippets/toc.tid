@@ -1,10 +1,10 @@
-caption: alldisplay
+caption: toc
 created: 20220109062852994
 creator: oeyoews
-modified: 20220316072647071
+modified: 20220317154639277
 modifier: @oeyoews
 tags: $:/tags/TextEditor/Snippet
-title: alldisplay
+title: toc
 type: text/vnd.tiddlywiki
 
 <div class="tc-table-of-contents">

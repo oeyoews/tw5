@@ -1,8 +1,8 @@
 caption: Recently added
 created: 20200103090757281
 creator: a revised version of Andrew Harrison favorite plugin
-list: $:/config/oeyoews/fishingUI $:/config/oeyoews/removeinputborder efquote $:/config/SyncFilter $:/config/FileSystemPaths [[Image and Icons]] [[Favorites More Examples]] $:/oeyoews/settings/tiddler-icons
-modified: 20220317113615341
+list: $:/config/oeyoews/fishingUI $:/config/oeyoews/removeinputborder efquote $:/config/SyncFilter $:/config/FileSystemPaths [[Image and Icons]] [[Favorites More Examples]] $:/oeyoews/settings/tiddler-icons [[CSS only Timer]]
+modified: 20220317154520938
 modifier: @oeyoews
 tags: $:/tags/Favorites/Folder
 title: $:/plugins/kookma/favorites/recent

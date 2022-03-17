@@ -1,14 +1,13 @@
 caption: big quote
 created: 20220108113641128
 creator: @oeyoews
-modified: 20220316072647071
+modified: 20220317154707824
 modifier: @oeyoews
 tags: $:/tags/TextEditor/Snippet
-title: big Quote
+title: bquote
 type: text/vnd.tiddlywiki
 
 <<<.tc-big-quote''
-''
-
+''$1
 ''
 <<<
