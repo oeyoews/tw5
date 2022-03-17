@@ -2,7 +2,7 @@ caption: {{$:/plugins/kookma/favorites/image}} Favorites
 created: 20191226064836102
 creator: oeyoews
 list-after: $:/core/ui/SideBar/Open
-modified: 20220316072425553
+modified: 20220317114727855
 modifier: @oeyoews
 tags: $:/tags/SideBar
 title: $:/plugins/kookma/favorites/sidebar-tab
