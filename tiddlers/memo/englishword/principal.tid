@@ -1,18 +1,18 @@
 created: 20220228040420129
 creator: oeyoews
-difficulty: 4.235136452685174
-due: 20220318054452468
+difficulty: 4.5817838554856465
+due: 20220319083234443
 grade: 0
-history: [{"due":"20220311031218113","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310031218113"},{"due":"20220315162940774","interval":1,"difficulty":2.683833622354247,"stability":4.474493622614117,"retrievability":0.34910423292122506,"grade":1,"lapses":0,"reps":2,"review":"20220311162940774"},{"due":"20220317111840273","interval":4,"difficulty":3.793945581305412,"stability":0.07408450676555052,"retrievability":0.9101119589511647,"grade":0,"lapses":1,"reps":1,"review":"20220316111840273"}]
+history: [{"due":"20220311031218113","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310031218113"},{"due":"20220315162940774","interval":1,"difficulty":2.683833622354247,"stability":4.474493622614117,"retrievability":0.34910423292122506,"grade":1,"lapses":0,"reps":2,"review":"20220311162940774"},{"due":"20220317111840273","interval":4,"difficulty":3.793945581305412,"stability":0.07408450676555052,"retrievability":0.9101119589511647,"grade":0,"lapses":1,"reps":1,"review":"20220316111840273"},{"due":"20220318054452468","interval":1,"difficulty":4.235136452685174,"stability":0.05488315248213783,"retrievability":0.24119087137976164,"grade":0,"lapses":2,"reps":1,"review":"20220317054452467"}]
 interval: 1
-lapses: 2
-modified: 20220317054452468
+lapses: 3
+modified: 20220318083234443
 modifier: @oeyoews
 page-cover: https://cdn.jsdelivr.net/gh/oeyoews/img/cat-scape.jpg
 reps: 1
-retrievability: 0.24119087137976164
-review: 20220317054452467
-stability: 0.05488315248213783
+retrievability: 0.14664740280047256
+review: 20220318083234443
+stability: 0.04065770267064033
 tags: EnglishWord ?
 title: principal
 type: text/vnd.tiddlywiki
