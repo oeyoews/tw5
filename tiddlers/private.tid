@@ -1,7 +1,13 @@
 created: 20220216141203430
 creator: oeyoews
-modified: 20220317160210530
+modified: 20220318045934245
 modifier: @oeyoews
 tags: subwiki
 title: private
 type: text/vnd.tiddlywiki
+
+<div class="tc-table-of-contents">
+
+<<toc-selective-expandable 'private'>>
+
+</div>

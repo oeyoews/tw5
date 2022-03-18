@@ -1,13 +1,12 @@
 caption: add indent use css style
 created: 20220109132508072
 creator: @oeyoews
-modified: 20220316072647075
+modified: 20220318050112076
 modifier: @oeyoews
 tags: $:/tags/TextEditor/Snippet
-title: para Indent
+title: pindent
 type: text/vnd.tiddlywiki
 
 <p style="text-indent:2em">
-<!-- write here -->
-
+$1
 </p>
