@@ -1,17 +1,17 @@
 created: 20220317012721271
 creator: @oeyoews
-difficulty: 1.6510867920234369
-due: 20220318022728636
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220317022728636
+difficulty: 2.1997785452241594
+due: 20220319074910709
+grade: 0
+history: [{"due":"20220318022728636","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220317022728635"}]
+interval: 1
+lapses: 1
+modified: 20220318074910709
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220317022728635
-stability: 0.10000362396240235
+retrievability: 0.3486917532007223
+review: 20220318074910709
+stability: 0.07408316441686115
 tags: EnglishWord ?
 title: consequently
 type: text/vnd.tiddlywiki
