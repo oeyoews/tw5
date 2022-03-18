@@ -1,17 +1,17 @@
 created: 20220314021545442
 creator: @oeyoews
-difficulty: 2.1997785452241594
-due: 20220318054422125
+difficulty: 2.6409694166039213
+due: 20220319052036553
 grade: 0
-history: [{"due":"20220317112911308","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316112911308"}]
+history: [{"due":"20220317112911308","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316112911308"},{"due":"20220318054422125","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220317054422125"}]
 interval: 1
-lapses: 1
-modified: 20220317054422125
+lapses: 2
+modified: 20220318052036553
 modifier: @oeyoews
 reps: 1
-retrievability: 0.3486917532007223
-review: 20220317054422125
-stability: 0.07408450676555052
+retrievability: 0.24119087137976164
+review: 20220318052036553
+stability: 0.054882158045770235
 tags: EnglishWord ?
 title: counseling
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 counseling
 英/美 ['kaʊnslɪŋ]
-n. 咨询服务
+n. ''咨询服务''
 v. 建议；劝告；商讨（counsel的ing形式）
 CET4 TEM4  ( counseling, counseled, counsels )
 [[counsel]]

@@ -1,17 +1,17 @@
 created: 20220222010527490
 creator: oeyoews
-difficulty: 4.597971295726148
-due: 20220318055235727
-grade: 0
-history: [{"due":"20220308104539489","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104539489"},{"due":"20220311065756798","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308065756798"},{"due":"20220313100622470","interval":4,"difficulty":5.067077963053101,"stability":0.07410329964720157,"retrievability":0.8840284107336158,"grade":0,"lapses":1,"reps":1,"review":"20220312100622470"},{"due":"20220317043256484","interval":1,"difficulty":3.5083558396935626,"stability":3.6031165406282484,"retrievability":0.2412778766404617,"grade":2,"lapses":1,"reps":2,"review":"20220313043256484"}]
-interval: 4
+difficulty: 2.9446186985266207
+due: 20220322052308842
+grade: 2
+history: [{"due":"20220308104539489","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104539489"},{"due":"20220311065756798","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308065756798"},{"due":"20220313100622470","interval":4,"difficulty":5.067077963053101,"stability":0.07410329964720157,"retrievability":0.8840284107336158,"grade":0,"lapses":1,"reps":1,"review":"20220312100622470"},{"due":"20220317043256484","interval":1,"difficulty":3.5083558396935626,"stability":3.6031165406282484,"retrievability":0.2412778766404617,"grade":2,"lapses":1,"reps":2,"review":"20220313043256484"},{"due":"20220318055235727","interval":4,"difficulty":4.597971295726148,"stability":0.05488315248213783,"retrievability":0.8896154560325846,"grade":0,"lapses":2,"reps":1,"review":"20220317055235727"}]
+interval: 1
 lapses: 2
-modified: 20220317055235727
+modified: 20220318052308842
 modifier: @oeyoews
-reps: 1
-retrievability: 0.8896154560325846
-review: 20220317055235727
-stability: 0.05488315248213783
+reps: 2
+retrievability: 0.14664740280047256
+review: 20220318052308841
+stability: 3.778047245566987
 tags: EnglishWord ?
 title: cynic
 type: text/vnd.tiddlywiki

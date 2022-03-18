@@ -1,18 +1,9 @@
 created: 20220306075413615
 creator: oeyoews
-difficulty: 1.683833622354247
-due: 20220317163020384
-grade: 2
 history: [{"due":"20220311023628991","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023628991"}]
-interval: 1
-lapses: 0
-modified: 20220311163020384
+modified: 20220318052119778
 modifier: @oeyoews
-reps: 2
-retrievability: 0.34910423292122506
-review: 20220311163020383
-stability: 6.1623927798054465
-tags: EnglishWord ?
+tags: EnglishWord !
 title: weapon
 type: text/vnd.tiddlywiki
 

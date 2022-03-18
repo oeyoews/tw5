@@ -1,17 +1,17 @@
 created: 20220316111225909
 creator: @oeyoews
-difficulty: 2.1997785452241594
-due: 20220318113411888
-grade: 0
-history: [{"due":"20220317113003146","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316113003146"}]
+difficulty: 1
+due: 20220327052055995
+grade: 2
+history: [{"due":"20220317113003146","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316113003146"},{"due":"20220318113411888","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220317113411888"}]
 interval: 1
 lapses: 1
-modified: 20220317113411888
+modified: 20220318052055995
 modifier: @oeyoews
-reps: 1
-retrievability: 0.3486917532007223
-review: 20220317113411888
-stability: 0.07408450676555052
+reps: 2
+retrievability: 0.24119087137976164
+review: 20220318052055994
+stability: 8.569972329809564
 tags: EnglishWord ?
 title: biologic
 type: text/vnd.tiddlywiki
