@@ -1,15 +1,25 @@
 created: 20220316111620517
 creator: @oeyoews
-modified: 20220316111635693
+difficulty: 1.349480127946827
+due: 20220319143706319
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220318143706319
 modifier: @oeyoews
-tags: EnglishWord
+reps: 1
+retrievability: 1
+review: 20220318143706319
+stability: 0.10000181198120117
+tags: EnglishWord ?
 title: resist
 type: text/vnd.tiddlywiki
 
 <<<.tc-fish-quote
 """
 英 [rɪ'zɪst]  美 [rɪ'zɪst]
-vi. 抵抗，抗拒；忍耐
+vi. ''抵抗''，抗拒；忍耐
 vt. 抵抗；忍耐，忍住
 n. [助剂] 抗蚀剂；防染剂
 CET4 TEM4  ( resisting, resisted, resists )

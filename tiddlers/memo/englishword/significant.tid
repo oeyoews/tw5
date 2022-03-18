@@ -1,8 +1,18 @@
 created: 20220316065452062
 creator: @oeyoews
-modified: 20220316065516186
+difficulty: 1.349480127946827
+due: 20220319144354121
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220318144354121
 modifier: @oeyoews
-tags: EnglishWord
+reps: 1
+retrievability: 1
+review: 20220318144354121
+stability: 0.10000181198120117
+tags: EnglishWord ?
 title: significant
 type: text/vnd.tiddlywiki
 
@@ -10,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 significant
 英 [sɪg'nɪfɪk(ə)nt]  美 [sɪɡ'nɪfɪkənt]
-adj. 重大的；有效的；有意义的；值得注意的；意味深长的
+adj. ''重大的''；有效的；有意义的；值得注意的；意味深长的
 n. 象征；有意义的事物
 CET4 TEM4
 """
