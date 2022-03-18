@@ -1,17 +1,17 @@
 created: 20220224033540622
 creator: oeyoews
-difficulty: 2.309254683285645
-due: 20220318122846528
+difficulty: 2.539513564453123
+due: 20220319051453156
 grade: 0
-history: [{"due":"20220304080404412","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303080404412"},{"due":"20220307012600870","interval":3,"difficulty":1.2089083031776646,"stability":0.07545638712607733,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306012600869"},{"due":"20220308041549586","interval":1,"difficulty":1.6564168654069795,"stability":0.055135739319504856,"retrievability":0.24750856222931497,"grade":0,"lapses":2,"reps":1,"review":"20220307041549585"},{"due":"20220309101425433","interval":1,"difficulty":2.004359662116437,"stability":0.040704114555206596,"retrievability":0.14794279670945698,"grade":0,"lapses":3,"reps":1,"review":"20220308101425433"},{"due":"20220317013805809","interval":2,"difficulty":1.2100051561972431,"stability":6.945011895285727,"retrievability":0.005645494080806586,"grade":1,"lapses":3,"reps":2,"review":"20220310013805808"}]
-interval: 7
-lapses: 4
-modified: 20220317122846528
+history: [{"due":"20220304080404412","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303080404412"},{"due":"20220307012600870","interval":3,"difficulty":1.2089083031776646,"stability":0.07545638712607733,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306012600869"},{"due":"20220308041549586","interval":1,"difficulty":1.6564168654069795,"stability":0.055135739319504856,"retrievability":0.24750856222931497,"grade":0,"lapses":2,"reps":1,"review":"20220307041549585"},{"due":"20220309101425433","interval":1,"difficulty":2.004359662116437,"stability":0.040704114555206596,"retrievability":0.14794279670945698,"grade":0,"lapses":3,"reps":1,"review":"20220308101425433"},{"due":"20220317013805809","interval":2,"difficulty":1.2100051561972431,"stability":6.945011895285727,"retrievability":0.005645494080806586,"grade":1,"lapses":3,"reps":2,"review":"20220310013805808"},{"due":"20220318122846528","interval":7,"difficulty":2.309254683285645,"stability":0.030120512707719985,"retrievability":0.899249527088402,"grade":0,"lapses":4,"reps":1,"review":"20220317122846528"}]
+interval: 1
+lapses: 5
+modified: 20220318051453156
 modifier: @oeyoews
 reps: 1
-retrievability: 0.899249527088402
-review: 20220317122846528
-stability: 0.030120512707719985
+retrievability: 0.03025888116747745
+review: 20220318051453155
+stability: 0.022313420322498584
 tags: EnglishWord ?
 title: pandemic
 type: text/vnd.tiddlywiki

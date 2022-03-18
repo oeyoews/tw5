@@ -1,17 +1,17 @@
 created: 20220314053341304
 creator: @oeyoews
-difficulty: 2.1997785452241594
-due: 20220318054825179
+difficulty: 2.6409694166039213
+due: 20220319050734413
 grade: 0
-history: [{"due":"20220317113029056","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316113029056"}]
+history: [{"due":"20220317113029056","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316113029056"},{"due":"20220318054825179","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220317054825179"}]
 interval: 1
-lapses: 1
-modified: 20220317054825180
+lapses: 2
+modified: 20220318050734413
 modifier: @oeyoews
 reps: 1
-retrievability: 0.3486917532007223
-review: 20220317054825179
-stability: 0.07408450676555052
+retrievability: 0.24119087137976164
+review: 20220318050734413
+stability: 0.054882158045770235
 tags: EnglishWord ?
 title: advanced
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 advanced
 英 [ədˈvɑ:nst]  美 [əd'vænst]
-adj. 先进的；高级的；晚期的；年老的
+adj. 先进的；''高级的''；晚期的；年老的
 v. 前进；增加；上涨（advance的过去式和过去分词形式）
 CET4 TEM4
 """

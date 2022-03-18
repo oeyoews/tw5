@@ -1,17 +1,17 @@
 created: 20220224122200986
 creator: oeyoews
-difficulty: 4.654139149508474
-due: 20220318013603355
-grade: 1
-history: [{"due":"20220307142002650","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306142002650"},{"due":"20220310012801671","interval":1,"difficulty":4.550378810520104,"stability":3.1236112149237947,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220307012801671"}]
-interval: 3
-lapses: 0
-modified: 20220311044418200
+difficulty: 5.757148846831711
+due: 20220319051539624
+grade: 0
+history: [{"due":"20220307142002650","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306142002650"},{"due":"20220310012801671","interval":1,"difficulty":4.550378810520104,"stability":3.1236112149237947,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220307012801671"},{"due":"20220318013603355","interval":3,"difficulty":4.654139149508474,"stability":8.26178898511264,"retrievability":0.9037603389883699,"grade":1,"lapses":0,"reps":3,"review":"20220310013603355"}]
+interval: 8
+lapses: 1
+modified: 20220318051539624
 modifier: @oeyoews
-reps: 3
-retrievability: 0.9037603389883699
-review: 20220310013603355
-stability: 8.26178898511264
+reps: 1
+retrievability: 0.9030096973232373
+review: 20220318051539624
+stability: 0.07408316441686115
 tags: EnglishWord ?
 title: contempt
 type: text/vnd.tiddlywiki
@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
 <<<.tc-fish-quote
 """contempt
 英 [kən'tem(p)t]  美 [kən'tɛmpt]
-n. 轻视，蔑视；耻辱
+n. ''轻视''，蔑视；耻辱
 CET6 TEM4
 """
 <<<

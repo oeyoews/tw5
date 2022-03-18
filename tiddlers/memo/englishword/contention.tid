@@ -1,17 +1,17 @@
 created: 20220316085519397
 creator: @oeyoews
-difficulty: 2.1997785452241594
-due: 20220318115303498
+difficulty: 2.6409694166039213
+due: 20220319051316614
 grade: 0
-history: [{"due":"20220317113143554","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316113143554"}]
+history: [{"due":"20220317113143554","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316113143554"},{"due":"20220318115303498","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220317115303498"}]
 interval: 1
-lapses: 1
-modified: 20220317115303498
+lapses: 2
+modified: 20220318051316614
 modifier: @oeyoews
 reps: 1
-retrievability: 0.3486917532007223
-review: 20220317115303498
-stability: 0.07408450676555052
+retrievability: 0.24119087137976164
+review: 20220318051316614
+stability: 0.054882158045770235
 tags: EnglishWord ?
 title: contention
 type: text/vnd.tiddlywiki
@@ -23,5 +23,6 @@ contention
 n. 争论，''争辩''；争夺；论点
 CET6 TEM4  ( contentions )
 [[content]]
+[[contend]]
 """
 <<<
