@@ -1,8 +1,18 @@
 created: 20220316111932549
 creator: @oeyoews
-modified: 20220316111952778
+difficulty: 1.349480127946827
+due: 20220319141446245
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220318141446245
 modifier: @oeyoews
-tags: EnglishWord
+reps: 1
+retrievability: 1
+review: 20220318141446245
+stability: 0.10000181198120117
+tags: EnglishWord ?
 title: immune
 type: text/vnd.tiddlywiki
 
@@ -10,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 immune
 英 [ɪ'mjuːn]  美 [ɪ'mjʊn]
-adj. 免疫的；免于……的，免除的
+adj. ''免疫的''；免于……的，免除的
 n. 免疫者；免除者
 CET4 TEM8
 [[immense]]

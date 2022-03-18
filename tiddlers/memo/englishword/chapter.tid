@@ -1,8 +1,18 @@
 created: 20220317014829957
 creator: @oeyoews
-modified: 20220317014843943
+difficulty: 1.349480127946827
+due: 20220319141400965
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220318141400965
 modifier: @oeyoews
-tags: EnglishWord
+reps: 1
+retrievability: 1
+review: 20220318141400965
+stability: 0.10000181198120117
+tags: EnglishWord ?
 title: chapter
 type: text/vnd.tiddlywiki
 
@@ -10,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 chapter
 英 ['tʃæptə]  美 ['tʃæptɚ]
-n. 章，回；（俱乐部、协会等的）分会；人生或历史上的重要时期
+n. ''章''，回；（俱乐部、协会等的）分会；人生或历史上的重要时期
 vt. 把…分成章节
 CET4 TEM4  ( chapters )
 [[charter]]

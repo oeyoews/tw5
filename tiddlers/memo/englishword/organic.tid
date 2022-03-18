@@ -1,8 +1,18 @@
 created: 20220317075443710
 creator: @oeyoews
-modified: 20220317075505343
+difficulty: 1.349480127946827
+due: 20220319140838432
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220318140838432
 modifier: @oeyoews
-tags: EnglishWord
+reps: 1
+retrievability: 1
+review: 20220318140838431
+stability: 0.10000181198120117
+tags: EnglishWord ?
 title: organic
 type: text/vnd.tiddlywiki
 
@@ -10,6 +20,6 @@ type: text/vnd.tiddlywiki
 """
 organic
 英 [ɔː'gænɪk]  美 [ɔr'gænɪk]
-adj. [有化] 有机的；组织的；器官的；根本的
+adj. [有化] ''有机的''；组织的；器官的；根本的
 """
 <<<

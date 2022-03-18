@@ -1,8 +1,18 @@
 created: 20220316074905536
 creator: @oeyoews
-modified: 20220316074914603
+difficulty: 1.349480127946827
+due: 20220319140902903
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220318140902904
 modifier: @oeyoews
-tags: EnglishWord
+reps: 1
+retrievability: 1
+review: 20220318140902903
+stability: 0.10000181198120117
+tags: EnglishWord ?
 title: admission
 type: text/vnd.tiddlywiki
 
@@ -10,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 admission
 英 [əd'mɪʃ(ə)n]  美 [əd'mɪʃən]
-n. 承认；入场费；进入许可；坦白；录用
+n. ''承认''；入场费；进入许可；坦白；录用
 CET4 TEM4  ( admissions )
 """
 <<<
