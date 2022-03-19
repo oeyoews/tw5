@@ -27,7 +27,7 @@ type: text/vnd.tiddlywiki
   font-weight: normal;
 }
 
-/** test
+/**
 * Hide toolbar buttons if not hover
 * From tb_demo_onhover-toolbar-styles
 */
@@ -41,14 +41,9 @@ type: text/vnd.tiddlywiki
   opacity: 1;
 }
 
-/** fix https://github.com/Jermolene/TiddlyWiki5/discussions/5821 */
-video::-webkit-media-controls-timeline {
-  width: 200px;
-}
-
 
 /**
-  链接样式
+  link-style@oeyoews
 */
 
 a.tc-tiddlylink, a.tc-tiddlylink:hover {
@@ -162,7 +157,7 @@ button.tc-unfold-banner {
   /*margin-bottom: 4px;*/
 }
 
-/* Top and bottom bars */
+/* == Top and bottom bars == */
 
 /* Hide the top-right bar */
 .tc-topbar.tc-topbar-right {
