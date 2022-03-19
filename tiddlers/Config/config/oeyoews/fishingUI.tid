@@ -1,7 +1,7 @@
 caption: Fishing Ui
 created: 20220316124815943
 creator: @oeyoews
-modified: 20220319114414787
+modified: 20220319120838804
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/fishingUI
@@ -32,26 +32,31 @@ type: text/vnd.tiddlywiki
 		border-radius:5px;margin-left:10px;color:cyan;background-color:#185767;border:2px solid cyan;padding:5px;
 }
 
-.forget:hover {
+.tc-fishing-learing-grade .forget:hover {
 	background: #7c1743;
+	text-decoration: unset;
 }
 
-.remember:hover {
+.tc-fishing-learing-grade .remember:hover {
 	background: #064c11;
+	text-decoration: unset;
 }
 
-.grasp:hover {
+.tc-fishing-learing-grade .grasp:hover {
 	background: #819d0c;
+	text-decoration: unset;
 }
 
-.more:hover {
+.tc-fishing-learing-grade .more:hover {
 	background: #1c91af;
+	text-decoration: unset;
 }
 
-.learn:hover {
+.tc-fishing-learing-grade .learn:hover {
 	background: #195c2c;
+	text-decoration: unset;
 }
+
 .tc-fishing-learing-count {
     color: #2c9825;
 }
-

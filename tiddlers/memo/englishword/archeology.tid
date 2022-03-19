@@ -1,17 +1,17 @@
 created: 20220226050318777
 creator: oeyoews
-difficulty: 5.290889972565468
-due: 20220319034723291
+difficulty: 5.385255582139547
+due: 20220324114628425
 grade: 1
-history: [{"due":"20220308061819414","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061819414"},{"due":"20220311065405943","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308065405942"},{"due":"20220313071939282","interval":4,"difficulty":5.067077963053101,"stability":0.07410329964720157,"retrievability":0.8840284107336158,"grade":0,"lapses":1,"reps":1,"review":"20220312071939282"},{"due":"20220314052648568","interval":1,"difficulty":5.508355839693563,"stability":0.054885141354873004,"retrievability":0.2412778766404617,"grade":0,"lapses":2,"reps":1,"review":"20220313052648568"},{"due":"20220315053624035","interval":1,"difficulty":5.855013444381466,"stability":0.04065991276038159,"retrievability":0.1466576046879033,"grade":0,"lapses":3,"reps":1,"review":"20220314053624035"},{"due":"20220317034544212","interval":2,"difficulty":6.060627255667142,"stability":0.030121604224219757,"retrievability":0.005613811285675294,"grade":0,"lapses":4,"reps":1,"review":"20220316034544211"}]
-interval: 1
+history: [{"due":"20220308061819414","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061819414"},{"due":"20220311065405943","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308065405942"},{"due":"20220313071939282","interval":4,"difficulty":5.067077963053101,"stability":0.07410329964720157,"retrievability":0.8840284107336158,"grade":0,"lapses":1,"reps":1,"review":"20220312071939282"},{"due":"20220314052648568","interval":1,"difficulty":5.508355839693563,"stability":0.054885141354873004,"retrievability":0.2412778766404617,"grade":0,"lapses":2,"reps":1,"review":"20220313052648568"},{"due":"20220315053624035","interval":1,"difficulty":5.855013444381466,"stability":0.04065991276038159,"retrievability":0.1466576046879033,"grade":0,"lapses":3,"reps":1,"review":"20220314053624035"},{"due":"20220317034544212","interval":2,"difficulty":6.060627255667142,"stability":0.030121604224219757,"retrievability":0.005613811285675294,"grade":0,"lapses":4,"reps":1,"review":"20220316034544211"},{"due":"20220319034723291","interval":1,"difficulty":5.290889972565468,"stability":1.8874941389970494,"retrievability":0.030262716898325645,"grade":1,"lapses":4,"reps":2,"review":"20220317034723290"}]
+interval: 2
 lapses: 4
-modified: 20220317034723291
+modified: 20220319114628425
 modifier: @oeyoews
-reps: 2
-retrievability: 0.030262716898325645
-review: 20220317034723290
-stability: 1.8874941389970494
+reps: 3
+retrievability: 0.8943656095740791
+review: 20220319114628425
+stability: 5.306979637456148
 tags: EnglishWord ?
 title: archeology
 type: text/vnd.tiddlywiki
