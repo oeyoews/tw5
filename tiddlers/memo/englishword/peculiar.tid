@@ -1,17 +1,17 @@
 created: 20220316082834033
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319135527179
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220318135527179
+difficulty: 1.898165224654263
+due: 20220320014135435
+grade: 0
+history: [{"due":"20220319135527179","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318135527179"}]
+interval: 1
+lapses: 1
+modified: 20220319014135435
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220318135527179
-stability: 0.10000181198120117
+retrievability: 0.3486850967074362
+review: 20220319014135435
+stability: 0.07408316441686115
 tags: EnglishWord ?
 title: peculiar
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 peculiar
 英 [pɪ'kjuːlɪə]  美 [pɪ'kjulɪɚ]
-adj. 特殊的；独特的；奇怪的；罕见的
+adj. ''特殊的''；独特的；奇怪的；罕见的
 n. 特权；特有财产
 CET4 TEM4
 """

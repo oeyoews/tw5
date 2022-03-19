@@ -1,17 +1,17 @@
 created: 20220317012818360
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319135624766
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220328014650940
+grade: 1
+history: [{"due":"20220319135624766","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318135624766"}]
+interval: 1
 lapses: 0
-modified: 20220318135624766
+modified: 20220319014650940
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220318135624766
-stability: 0.10000181198120117
+reps: 2
+retrievability: 0.3486850967074362
+review: 20220319014650940
+stability: 8.830302388320703
 tags: EnglishWord ?
 title: restate
 type: text/vnd.tiddlywiki

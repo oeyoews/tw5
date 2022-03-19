@@ -1,17 +1,17 @@
 created: 20220317034010770
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319141122676
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220328014426355
+grade: 1
+history: [{"due":"20220319141122676","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318141122676"}]
+interval: 1
 lapses: 0
-modified: 20220318141122677
+modified: 20220319014426355
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220318141122676
-stability: 0.10000181198120117
+reps: 2
+retrievability: 0.3486850967074362
+review: 20220319014426354
+stability: 8.830302388320703
 tags: EnglishWord ?
 title: synthetic
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 synthetic
 英 [sɪn'θetɪk]  美 [sɪn'θɛtɪk]
-adj. 综合的；合成的，人造的
+adj. 综合的；''合成的''，人造的
 n. 合成物
 CET4 TEM4
 [[syntactic]]

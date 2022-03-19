@@ -1,17 +1,17 @@
 created: 20220316075636989
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319084906125
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220318084906125
+difficulty: 1.898165224654263
+due: 20220320014405325
+grade: 0
+history: [{"due":"20220319084906125","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318084906125"}]
+interval: 1
+lapses: 1
+modified: 20220319014405325
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220318084906125
-stability: 0.10000181198120117
+retrievability: 0.3486850967074362
+review: 20220319014405325
+stability: 0.07408316441686115
 tags: EnglishWord ?
 title: lagging
 type: text/vnd.tiddlywiki
@@ -21,6 +21,6 @@ type: text/vnd.tiddlywiki
 lagging
 英 ['lægɪŋ]  美 ['lægɪŋ]
 n. 绝缘层材料
-adj. 落后的
+adj. ''落后的''
 """
 <<<
