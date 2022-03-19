@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220303063226062","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302063226062"}]
 interval: 3
 lapses: 0
-modified: 20220311044418225
+modified: 20220319024941426
 modifier: @oeyoews
 reps: 2
 retrievability: 0.05273732312238567
@@ -26,3 +26,6 @@ vi. 回顾；复习功课；写评论
 CET4 TEM4  ( reviewing, reviewed, reviews )
 """
 <<<
+<hr>
+
+* a review of history 历史记录
