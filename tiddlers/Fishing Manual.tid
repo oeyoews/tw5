@@ -7,7 +7,7 @@ grade: 2
 history: [{"due":"20220310121530843","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220309121530842"}]
 interval: 1
 lapses: 0
-modified: 20220319025013379
+modified: 20220319054454895
 modifier: @oeyoews
 reps: 2
 retrievability: 0.34910423292122506
@@ -22,7 +22,7 @@ type: text/vnd.tiddlywiki
 <p> 
 </p>
 <img src="https://cdn.jsDelivr.net/gh/oeyoews/img/fishing.png
-" title="Fishing" alt="Fishing" style="zoom: 100%" width=256/>
+" title="img" alt="img" style="zoom: 100%" />
 </div>
 {{Navigate Button}}
 {{subtitlefooter}}
