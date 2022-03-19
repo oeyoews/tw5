@@ -1,17 +1,17 @@
 created: 20220316090051764
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319144401729
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220318144401729
+difficulty: 1.898165224654263
+due: 20220320123540062
+grade: 0
+history: [{"due":"20220319144401729","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318144401729"}]
+interval: 1
+lapses: 1
+modified: 20220319123540063
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220318144401729
-stability: 0.10000181198120117
+retrievability: 0.3486850967074362
+review: 20220319123540062
+stability: 0.07408316441686115
 tags: EnglishWord ?
 title: violate
 type: text/vnd.tiddlywiki
@@ -23,5 +23,6 @@ violate
 vt. 违反；侵犯，妨碍；亵渎
 CET4 TEM4  ( violating, violated, violates )
 [[violet]]
+[[breach]]
 """
 <<<

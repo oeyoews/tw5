@@ -1,18 +1,18 @@
 created: 20220301011104754
 creator: oeyoews
-difficulty: 2.456603154876539
-due: 20220319091027702
-grade: 1
-history: [{"due":"20220311020030791","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310020030791"}]
-interval: 2
+difficulty: 1.5596961971075756
+due: 20220417123617693
+grade: 2
+history: [{"due":"20220311020030791","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310020030791"},{"due":"20220319091027702","interval":2,"difficulty":2.456603154876539,"stability":7.235610940626585,"retrievability":0.12187376544351697,"grade":1,"lapses":0,"reps":2,"review":"20220312091027702"}]
+interval: 7
 lapses: 0
-modified: 20220312091027702
+modified: 20220319123617693
 modifier: @oeyoews
 page-cover: https://cdn.jsdelivr.net/gh/oeyoews/img/cat-scape.jpg
-reps: 2
-retrievability: 0.12187376544351697
-review: 20220312091027702
-stability: 7.235610940626585
+reps: 3
+retrievability: 0.9030930422310366
+review: 20220319123617693
+stability: 29.021303303267626
 tags: EnglishWord ?
 title: complement
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 <<<.tc-fish-quote
 """complement
 英 ['kɒmplɪm(ə)nt]  美 [ˈkɑːmplɪment]
-n. 补语；余角；补足物
+n. ''补语''；余角；补足物
 vt. 补足，补助
 CET6 TEM4  ( complementing, complemented, complements )
 """

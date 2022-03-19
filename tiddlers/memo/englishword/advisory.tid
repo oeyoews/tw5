@@ -1,17 +1,17 @@
 created: 20220314021615471
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319143929728
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220318143929728
+difficulty: 1.898165224654263
+due: 20220320123920198
+grade: 0
+history: [{"due":"20220319143929728","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143929728"}]
+interval: 1
+lapses: 1
+modified: 20220319123920199
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220318143929728
-stability: 0.10000181198120117
+retrievability: 0.3486850967074362
+review: 20220319123920198
+stability: 0.07408316441686115
 tags: EnglishWord ?
 title: advisory
 type: text/vnd.tiddlywiki
@@ -23,7 +23,7 @@ advisory
 adj. 咨询的；顾问的；劝告的
 n. 报告；公告
 CET4 TEM4  ( advisories )
-
-`adverse`
+[[adverse]]
+[[victory]]
 """
 <<<

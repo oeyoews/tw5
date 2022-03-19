@@ -1,17 +1,17 @@
 created: 20220317034524408
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319084059961
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220328123449428
+grade: 2
+history: [{"due":"20220319084059961","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318084059961"}]
+interval: 1
 lapses: 0
-modified: 20220318084059961
+modified: 20220319123449428
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220318084059961
-stability: 0.10000181198120117
+reps: 2
+retrievability: 0.3486850967074362
+review: 20220319123449427
+stability: 8.830302388320703
 tags: EnglishWord ?
 title: habitat
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 habitat
 英 ['hæbɪtæt]  美 ['hæbə'tæt]
-n. [生态] 栖息地，产地
+n. [生态] ''栖息地''，产地
 n. (Habitat)人名；(德)哈比塔特
 CET6+ TEM4  ( habitats )
 [[habitation]]
