@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220317112916728","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316112916728"}]
 interval: 1
 lapses: 0
-modified: 20220317113342853
+modified: 20220319040059258
 modifier: @oeyoews
 reps: 2
 retrievability: 0.3486917532007223
@@ -16,4 +16,15 @@ tags: EnglishWord ?
 title: ballot
 type: text/vnd.tiddlywiki
 
-投票
+<<<.tc-fish-quote
+"""
+ballot
+英 ['bælət]  美 ['bælət]
+n. ''投票''；投票用纸；投票总数
+vi. 投票；抽签决定
+vt. 使投票表决；拉选票
+n. (Ballot)人名；(英)巴洛特；(法)巴洛
+CET6 TEM4  ( balloting, balloted, ballots )
+无记名投票
+"""
+<<<
