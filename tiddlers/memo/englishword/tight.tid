@@ -1,17 +1,17 @@
 created: 20220314033247405
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319144011473
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220318144011473
+difficulty: 1.898165224654263
+due: 20220320020012981
+grade: 0
+history: [{"due":"20220319144011473","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318144011473"}]
+interval: 1
+lapses: 1
+modified: 20220319020012981
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220318144011473
-stability: 0.10000181198120117
+retrievability: 0.3486850967074362
+review: 20220319020012979
+stability: 0.07408316441686115
 tags: EnglishWord ?
 title: tight
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 tight
 英 [taɪt]  美 [taɪt]
-adj. 紧的；密封的；绷紧的；麻烦的；严厉的；没空的；吝啬的
+adj. ''紧的''；密封的；绷紧的；麻烦的；严厉的；没空的；吝啬的
 adv. 紧紧地；彻底地
 n. (Tight)人名；(英)泰特
 CET4 TEM4  ( tighter, tightest )
