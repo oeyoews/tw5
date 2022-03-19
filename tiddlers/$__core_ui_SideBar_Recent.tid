@@ -1,10 +1,10 @@
 caption: {{$:/images/templarian-material-design/email-receive-outline}} {{$:/language/SideBar/Recent/Caption}}
 created: 20220308171853376
 creator: @oeyoews
-modified: 20220316113626443
+modified: 20220319013533264
 modifier: @oeyoews
 tags: $:/tags/SideBar
 title: $:/core/ui/SideBar/Recent
 type: text/vnd.tiddlywiki
 
-<$macrocall $name="timeline" subfilter="!tag[done]!tag[todo]!tag[?]!tag[!]!prefix[2022hkw/]" format={{$:/language/RecentChanges/DateFormat}}/>
+<$macrocall $name="timeline" limit=5 subfilter="!tag[done]!tag[todo]!tag[?]!tag[!]!prefix[2022hkw/]" format={{$:/language/RecentChanges/DateFormat}}/>
