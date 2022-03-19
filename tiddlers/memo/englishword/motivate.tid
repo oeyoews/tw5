@@ -1,17 +1,17 @@
 created: 20220316085213501
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319084847281
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220328065245588
+grade: 2
+history: [{"due":"20220319084847281","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318084847281"}]
+interval: 1
 lapses: 0
-modified: 20220318084847281
+modified: 20220319065245588
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220318084847281
-stability: 0.10000181198120117
+reps: 2
+retrievability: 0.3486850967074362
+review: 20220319065245587
+stability: 8.830302388320703
 tags: EnglishWord ?
 title: motivate
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 motivate
 英 ['məʊtɪveɪt]  美 ['motə'vet]
-vt. 刺激；使有动机；激发…的积极性
+vt. 刺激；使有动机；激发…的积极性, ''动力''
 CET4 TEM4  ( motivating, motivated, motivates )
 """
 <<<

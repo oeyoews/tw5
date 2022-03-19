@@ -1,17 +1,17 @@
 created: 20220303021238981
 creator: oeyoews
-difficulty: 3.050633432046576
-due: 20220319051528483
+difficulty: 3.2508168463830254
+due: 20220320065405796
 grade: 0
-history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220306014644000","interval":3,"difficulty":1.2637826101009904,"stability":0.07683095218398285,"retrievability":0.06378261010099043,"grade":0,"lapses":1,"reps":1,"review":"20220305014643999"},{"due":"20220307053040768","interval":1,"difficulty":1.7175520764638095,"stability":0.055390315029607076,"retrievability":0.2537694663628191,"grade":0,"lapses":2,"reps":1,"review":"20220306053040768"},{"due":"20220308012827829","interval":1,"difficulty":2.066799932251151,"stability":0.04084556029864662,"retrievability":0.1492478557873414,"grade":0,"lapses":3,"reps":1,"review":"20220307012827829"},{"due":"20220314101505995","interval":1,"difficulty":1.3426129596334564,"stability":5.785889426651239,"retrievability":0.07581302738230539,"grade":1,"lapses":3,"reps":2,"review":"20220308101505995"},{"due":"20220315034910084","interval":6,"difficulty":2.439110751001828,"stability":0.030121604224219757,"retrievability":0.8964977913683715,"grade":0,"lapses":4,"reps":1,"review":"20220314034910084"},{"due":"20220317062513387","interval":2,"difficulty":2.6400265830358967,"stability":0.0223146332454654,"retrievability":0.0009158320340682046,"grade":0,"lapses":5,"reps":1,"review":"20220316062513386"},{"due":"20220318122650650","interval":1,"difficulty":2.848927611087448,"stability":0.01653048785911472,"retrievability":0.008901028051551073,"grade":0,"lapses":6,"reps":1,"review":"20220317122650650"}]
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220306014644000","interval":3,"difficulty":1.2637826101009904,"stability":0.07683095218398285,"retrievability":0.06378261010099043,"grade":0,"lapses":1,"reps":1,"review":"20220305014643999"},{"due":"20220307053040768","interval":1,"difficulty":1.7175520764638095,"stability":0.055390315029607076,"retrievability":0.2537694663628191,"grade":0,"lapses":2,"reps":1,"review":"20220306053040768"},{"due":"20220308012827829","interval":1,"difficulty":2.066799932251151,"stability":0.04084556029864662,"retrievability":0.1492478557873414,"grade":0,"lapses":3,"reps":1,"review":"20220307012827829"},{"due":"20220314101505995","interval":1,"difficulty":1.3426129596334564,"stability":5.785889426651239,"retrievability":0.07581302738230539,"grade":1,"lapses":3,"reps":2,"review":"20220308101505995"},{"due":"20220315034910084","interval":6,"difficulty":2.439110751001828,"stability":0.030121604224219757,"retrievability":0.8964977913683715,"grade":0,"lapses":4,"reps":1,"review":"20220314034910084"},{"due":"20220317062513387","interval":2,"difficulty":2.6400265830358967,"stability":0.0223146332454654,"retrievability":0.0009158320340682046,"grade":0,"lapses":5,"reps":1,"review":"20220316062513386"},{"due":"20220318122650650","interval":1,"difficulty":2.848927611087448,"stability":0.01653048785911472,"retrievability":0.008901028051551073,"grade":0,"lapses":6,"reps":1,"review":"20220317122650650"},{"due":"20220319051528483","interval":1,"difficulty":3.050633432046576,"stability":0.012245864714044147,"retrievability":0.0017058209591280867,"grade":0,"lapses":7,"reps":1,"review":"20220318051528483"}]
 interval: 1
-lapses: 7
-modified: 20220318051528483
+lapses: 8
+modified: 20220319065405796
 modifier: @oeyoews
 reps: 1
-retrievability: 0.0017058209591280867
-review: 20220318051528483
-stability: 0.012245864714044147
+retrievability: 0.00018341433644890315
+review: 20220319065405795
+stability: 0.00907195970816722
 tags: EnglishWord ?
 title: precedence
 type: text/vnd.tiddlywiki
@@ -20,5 +20,6 @@ type: text/vnd.tiddlywiki
 """precedence
 英 ['presɪd(ə)ns; prɪ'siːd(ə)ns]  美 ['presidəns]
 n. ''优先''；居先
+[[priority]]
 """
 <<<
