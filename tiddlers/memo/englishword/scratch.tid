@@ -1,19 +1,10 @@
 color: #e6b3b3
 created: 20220304071718967
 creator: oeyoews
-difficulty: 1.349480127946827
-due: 20220319084125158
-grade: -1
 history: []
-interval: 0
-lapses: 0
-modified: 20220318084125158
+modified: 20220319153357442
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220318084125158
-stability: 0.10000181198120117
-tags: EnglishWord ?
+tags: EnglishWord !
 title: scratch
 type: text/vnd.tiddlywiki
 

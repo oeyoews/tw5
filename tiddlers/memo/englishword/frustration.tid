@@ -1,17 +1,17 @@
 created: 20220227090950834
 creator: oeyoews
-difficulty: 4.560616298016317
-due: 20220319052237432
-grade: 0
-history: [{"due":"20220311023343898","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023343898"},{"due":"20220315055920248","interval":1,"difficulty":2.683833622354247,"stability":4.474493622614117,"retrievability":0.34910423292122506,"grade":1,"lapses":0,"reps":2,"review":"20220311055920247"},{"due":"20220317034649524","interval":5,"difficulty":3.7727655937322027,"stability":0.07408719146292923,"retrievability":0.8889319713779553,"grade":0,"lapses":1,"reps":1,"review":"20220316034649524"},{"due":"20220318054442293","interval":1,"difficulty":4.213968895215844,"stability":0.05488315248213783,"retrievability":0.2412033014836416,"grade":0,"lapses":2,"reps":1,"review":"20220317054442292"}]
+difficulty: 2.8355311164361803
+due: 20220322153246775
+grade: 2
+history: [{"due":"20220311023343898","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023343898"},{"due":"20220315055920248","interval":1,"difficulty":2.683833622354247,"stability":4.474493622614117,"retrievability":0.34910423292122506,"grade":1,"lapses":0,"reps":2,"review":"20220311055920247"},{"due":"20220317034649524","interval":5,"difficulty":3.7727655937322027,"stability":0.07408719146292923,"retrievability":0.8889319713779553,"grade":0,"lapses":1,"reps":1,"review":"20220316034649524"},{"due":"20220318054442293","interval":1,"difficulty":4.213968895215844,"stability":0.05488315248213783,"retrievability":0.2412033014836416,"grade":0,"lapses":2,"reps":1,"review":"20220317054442292"},{"due":"20220319052237432","interval":1,"difficulty":4.560616298016317,"stability":0.04065770267064033,"retrievability":0.14664740280047256,"grade":0,"lapses":3,"reps":1,"review":"20220318052237432"}]
 interval: 1
 lapses: 3
-modified: 20220318052237432
+modified: 20220319153246775
 modifier: @oeyoews
-reps: 1
-retrievability: 0.14664740280047256
-review: 20220318052237432
-stability: 0.04065770267064033
+reps: 2
+retrievability: 0.07491481841986308
+review: 20220319153246775
+stability: 3.4373780013914272
 tags: EnglishWord ?
 title: frustration
 type: text/vnd.tiddlywiki

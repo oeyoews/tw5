@@ -1,17 +1,17 @@
 created: 20220314021503716
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319092319948
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220318092319948
+difficulty: 1.898165224654263
+due: 20220320155056009
+grade: 0
+history: [{"due":"20220319092319948","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318092319948"}]
+interval: 1
+lapses: 1
+modified: 20220319155056009
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220318092319948
-stability: 0.10000181198120117
+retrievability: 0.3486850967074362
+review: 20220319155056009
+stability: 0.07408249324251646
 tags: EnglishWord ?
 title: eliminate
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 eliminate
 英 [ɪ'lɪmɪneɪt]  美 [ɪ'lɪmɪnet]
-vt. 消除；排除
+vt. ''消除''；排除
 CET4 TEM4  ( eliminating, eliminated, eliminates )
 [[estimate]]
 """

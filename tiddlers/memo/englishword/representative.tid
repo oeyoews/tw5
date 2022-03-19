@@ -1,17 +1,17 @@
 created: 20220224012620202
 creator: oeyoews
-difficulty: 1
-due: 20220319150513800
+difficulty: 1.0986141369643814
+due: 20220505154330226
 grade: 1
-history: [{"due":"20220304075202270","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075202270"},{"due":"20220307011945626","interval":3,"difficulty":1.2089083031776646,"stability":0.07545638712607733,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306011945626"},{"due":"20220308041626478","interval":1,"difficulty":1.6564168654069795,"stability":0.055135739319504856,"retrievability":0.24750856222931497,"grade":0,"lapses":2,"reps":1,"review":"20220307041626478"}]
-interval: 2
+history: [{"due":"20220304075202270","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075202270"},{"due":"20220307011945626","interval":3,"difficulty":1.2089083031776646,"stability":0.07545638712607733,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306011945626"},{"due":"20220308041626478","interval":1,"difficulty":1.6564168654069795,"stability":0.055135739319504856,"retrievability":0.24750856222931497,"grade":0,"lapses":2,"reps":1,"review":"20220307041626478"},{"due":"20220319150513800","interval":2,"difficulty":1,"stability":9.855845439309897,"retrievability":0.021887071098215714,"grade":1,"lapses":2,"reps":2,"review":"20220309150513799"}]
+interval: 10
 lapses: 2
-modified: 20220311044418224
+modified: 20220319154330227
 modifier: @oeyoews
-reps: 2
-retrievability: 0.021887071098215714
-review: 20220309150513799
-stability: 9.855845439309897
+reps: 3
+retrievability: 0.8986141369643814
+review: 20220319154330226
+stability: 47.24053535584766
 tags: EnglishWord ?
 title: representative
 type: text/vnd.tiddlywiki
@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
 <<<.tc-fish-quote
 """representative
 英 [reprɪ'zentətɪv]  美 ['rɛprɪ'zɛntətɪv]
-adj. 典型的，有代表性的；代议制的
+adj. ''典型的''，有代表性的；代议制的
 n. 代表；典型；众议员
 CET4 TEM4  ( representatives )
 """

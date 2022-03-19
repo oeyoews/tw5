@@ -1,17 +1,17 @@
 created: 20220223122146235
 creator: oeyoews
-difficulty: 5.280795651815106
-due: 20220319083225429
+difficulty: 5.4807958072439185
+due: 20220320154206696
 grade: 0
-history: [{"due":"20220304074320757","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303074320757"},{"due":"20220307054159585","interval":3,"difficulty":1.2089083031776646,"stability":0.07476910459712456,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306054159585"},{"due":"20220307163757625","interval":0,"difficulty":1.4089083031776644,"stability":0.07476910459712456,"retrievability":1,"grade":1,"lapses":1,"reps":2,"review":"20220306163757625"},{"due":"20220309070834502","interval":1,"difficulty":1.8532603992758465,"stability":0.05500845146445375,"retrievability":0.2443520960981822,"grade":0,"lapses":2,"reps":1,"review":"20220308070834502"},{"due":"20220311015119672","interval":2,"difficulty":2.07495476185396,"stability":0.040704114555206596,"retrievability":0.02169436257811349,"grade":0,"lapses":3,"reps":1,"review":"20220310015119672"},{"due":"20220313071912112","interval":2,"difficulty":2.2806002559347665,"stability":0.030128153323218394,"retrievability":0.005645494080806586,"grade":0,"lapses":4,"reps":1,"review":"20220312071912112"},{"due":"20220313160010315","interval":0,"difficulty":3.4806002559347666,"stability":0.022319484937332636,"retrievability":1,"grade":0,"lapses":5,"reps":1,"review":"20220312160010315"},{"due":"20220314160349637","interval":0,"difficulty":4.680600255934767,"stability":0.016531086896070787,"retrievability":1,"grade":0,"lapses":6,"reps":1,"review":"20220313160349636"},{"due":"20220317065355303","interval":2,"difficulty":4.880603167104352,"stability":0.012246086602790106,"retrievability":0.0000029111695852100534,"grade":0,"lapses":7,"reps":1,"review":"20220316065355303"},{"due":"20220318122850773","interval":1,"difficulty":5.080786610036026,"stability":0.00907212408739319,"retrievability":0.00018344293167341135,"grade":0,"lapses":8,"reps":1,"review":"20220317122850773"}]
+history: [{"due":"20220304074320757","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303074320757"},{"due":"20220307054159585","interval":3,"difficulty":1.2089083031776646,"stability":0.07476910459712456,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306054159585"},{"due":"20220307163757625","interval":0,"difficulty":1.4089083031776644,"stability":0.07476910459712456,"retrievability":1,"grade":1,"lapses":1,"reps":2,"review":"20220306163757625"},{"due":"20220309070834502","interval":1,"difficulty":1.8532603992758465,"stability":0.05500845146445375,"retrievability":0.2443520960981822,"grade":0,"lapses":2,"reps":1,"review":"20220308070834502"},{"due":"20220311015119672","interval":2,"difficulty":2.07495476185396,"stability":0.040704114555206596,"retrievability":0.02169436257811349,"grade":0,"lapses":3,"reps":1,"review":"20220310015119672"},{"due":"20220313071912112","interval":2,"difficulty":2.2806002559347665,"stability":0.030128153323218394,"retrievability":0.005645494080806586,"grade":0,"lapses":4,"reps":1,"review":"20220312071912112"},{"due":"20220313160010315","interval":0,"difficulty":3.4806002559347666,"stability":0.022319484937332636,"retrievability":1,"grade":0,"lapses":5,"reps":1,"review":"20220312160010315"},{"due":"20220314160349637","interval":0,"difficulty":4.680600255934767,"stability":0.016531086896070787,"retrievability":1,"grade":0,"lapses":6,"reps":1,"review":"20220313160349636"},{"due":"20220317065355303","interval":2,"difficulty":4.880603167104352,"stability":0.012246086602790106,"retrievability":0.0000029111695852100534,"grade":0,"lapses":7,"reps":1,"review":"20220316065355303"},{"due":"20220318122850773","interval":1,"difficulty":5.080786610036026,"stability":0.00907212408739319,"retrievability":0.00018344293167341135,"grade":0,"lapses":8,"reps":1,"review":"20220317122850773"},{"due":"20220319083225429","interval":1,"difficulty":5.280795651815106,"stability":0.006720673049100678,"retrievability":0.000009041779079987369,"grade":0,"lapses":9,"reps":1,"review":"20220318083225428"}]
 interval: 1
-lapses: 9
-modified: 20220318083225429
+lapses: 10
+modified: 20220319154206696
 modifier: @oeyoews
 reps: 1
-retrievability: 0.000009041779079987369
-review: 20220318083225428
-stability: 0.006720673049100678
+retrievability: 1.554288124153267e-7
+review: 20220319154206696
+stability: 0.004978751943402367
 tags: EnglishWord ?
 title: intervention
 type: text/vnd.tiddlywiki

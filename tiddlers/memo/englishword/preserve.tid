@@ -1,17 +1,17 @@
 created: 20220313075008246
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319084019975
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220328152943347
+grade: 1
+history: [{"due":"20220319084019975","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318084019975"}]
+interval: 1
 lapses: 0
-modified: 20220318084019975
+modified: 20220319152943347
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220318084019975
-stability: 0.10000181198120117
+reps: 2
+retrievability: 0.3486850967074362
+review: 20220319152943347
+stability: 8.830302388320703
 tags: EnglishWord ?
 title: preserve
 type: text/vnd.tiddlywiki
@@ -21,7 +21,7 @@ type: text/vnd.tiddlywiki
 preserve
 英 [prɪ'zɜːv]  美 [prɪ'zɝv]
 vt. 保存；保护；维持；腌；禁猎
-n. 保护区；禁猎地；加工成的食品；（某人或群体的）专门活动
+n. ''保护区''；禁猎地；加工成的食品；（某人或群体的）专门活动
 CET4 TEM4  ( preserving, preserved, preserves )
 """
 <<<

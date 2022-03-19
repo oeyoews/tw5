@@ -1,17 +1,17 @@
 created: 20220227082929707
 creator: oeyoews
-difficulty: 5.757148846831711
-due: 20220319051458908
+difficulty: 6.198333503061925
+due: 20220320153405416
 grade: 0
-history: [{"due":"20220307113916610","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306113916609"},{"due":"20220310031449883","interval":1,"difficulty":4.550378810520104,"stability":3.1236112149237947,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220307031449882"},{"due":"20220318014012099","interval":3,"difficulty":4.654139149508474,"stability":8.26178898511264,"retrievability":0.9037603389883699,"grade":1,"lapses":0,"reps":3,"review":"20220310014012099"}]
-interval: 8
-lapses: 1
-modified: 20220318051458908
+history: [{"due":"20220307113916610","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306113916609"},{"due":"20220310031449883","interval":1,"difficulty":4.550378810520104,"stability":3.1236112149237947,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220307031449882"},{"due":"20220318014012099","interval":3,"difficulty":4.654139149508474,"stability":8.26178898511264,"retrievability":0.9037603389883699,"grade":1,"lapses":0,"reps":3,"review":"20220310014012099"},{"due":"20220319051458908","interval":8,"difficulty":5.757148846831711,"stability":0.07408316441686115,"retrievability":0.9030096973232373,"grade":0,"lapses":1,"reps":1,"review":"20220318051458908"}]
+interval: 1
+lapses: 2
+modified: 20220319153405416
 modifier: @oeyoews
 reps: 1
-retrievability: 0.9030096973232373
-review: 20220318051458908
-stability: 0.07408316441686115
+retrievability: 0.24118465623021404
+review: 20220319153405416
+stability: 0.054882158045770235
 tags: EnglishWord ?
 title: capitalism
 type: text/vnd.tiddlywiki

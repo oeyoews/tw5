@@ -1,17 +1,17 @@
 created: 20220317062157856
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319134832391
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220318134832391
+difficulty: 1.898165224654263
+due: 20220320153233267
+grade: 0
+history: [{"due":"20220319134832391","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318134832391"}]
+interval: 1
+lapses: 1
+modified: 20220319153233268
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220318134832391
-stability: 0.10000181198120117
+retrievability: 0.3486850967074362
+review: 20220319153233267
+stability: 0.07408316441686115
 tags: EnglishWord ?
 title: criminal
 type: text/vnd.tiddlywiki
