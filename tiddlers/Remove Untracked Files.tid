@@ -1,9 +1,10 @@
 created: 20220308131846318
 creator: @oeyoews
-modified: 20220308131916914
+modified: 20220319033811397
 modifier: @oeyoews
 tags: git
 title: Remove Untracked Files
 type: text/vnd.tiddlywiki
 
 * git clean -d -f
+* git clean -i(???)
