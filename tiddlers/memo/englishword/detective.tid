@@ -1,17 +1,17 @@
 created: 20220316110830825
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319135654806
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220328150022901
+grade: 2
+history: [{"due":"20220319135654806","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318135654806"}]
+interval: 1
 lapses: 0
-modified: 20220318135654807
+modified: 20220319150022902
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220318135654806
-stability: 0.10000181198120117
+reps: 2
+retrievability: 0.3486850967074362
+review: 20220319150022901
+stability: 8.830302388320703
 tags: EnglishWord ?
 title: detective
 type: text/vnd.tiddlywiki

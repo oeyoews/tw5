@@ -1,17 +1,17 @@
 created: 20220317091450911
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319144217685
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220328150006485
+grade: 2
+history: [{"due":"20220319144217685","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318144217685"}]
+interval: 1
 lapses: 0
-modified: 20220318144217685
+modified: 20220319150006485
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220318144217685
-stability: 0.10000181198120117
+reps: 2
+retrievability: 0.3486850967074362
+review: 20220319150006485
+stability: 8.830302388320703
 tags: EnglishWord ?
 title: raising
 type: text/vnd.tiddlywiki

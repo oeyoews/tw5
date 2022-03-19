@@ -1,17 +1,17 @@
 created: 20220316111932549
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319141446245
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220318141446245
+difficulty: 1.898165224654263
+due: 20220320145018176
+grade: 0
+history: [{"due":"20220319141446245","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318141446245"}]
+interval: 1
+lapses: 1
+modified: 20220319145018177
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220318141446245
-stability: 0.10000181198120117
+retrievability: 0.3486850967074362
+review: 20220319145018175
+stability: 0.07408316441686115
 tags: EnglishWord ?
 title: immune
 type: text/vnd.tiddlywiki
