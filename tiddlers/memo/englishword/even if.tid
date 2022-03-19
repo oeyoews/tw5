@@ -6,14 +6,14 @@ grade: 2
 history: [{"due":"20220226161300587","interval":1,"difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":2,"lapses":0,"reps":2,"review":"20220222161300587"},{"due":"20220308163913683","interval":3,"difficulty":3.2732810355779787,"stability":10.282486264713498,"retrievability":0.9245977375274645,"grade":2,"lapses":0,"reps":3,"review":"20220226163913683"},{"due":"20220308163913683","interval":3,"difficulty":3.2732810355779787,"stability":10.282486264713498,"retrievability":0.9245977375274645,"grade":2,"lapses":0,"reps":3,"review":"20220226163913683"}]
 interval: 11
 lapses: 0
-modified: 20220311044418205
+modified: 20220319025202689
 modifier: @oeyoews
 reps: 4
 retrievability: 0.8934073962494967
 review: 20220310011634578
 stability: 34.10622635554536
 tags: EnglishWord ?
-title: even-if
+title: even if
 type: text/vnd.tiddlywiki
 
-* 即使， 尽管
+* 即使， ''尽管''
