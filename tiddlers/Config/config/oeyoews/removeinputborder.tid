@@ -1,7 +1,7 @@
 caption: stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220317112941055
+modified: 20220319062131927
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -38,3 +38,7 @@ strong {
 color: #b8f316
 }
 -->
+
+.tc-unfold-banner:hover {
+    border-top: unset;
+}
