@@ -1,0 +1,9 @@
+created: 20220319052644449
+creator: @oeyoews
+modified: 20220319053005857
+modifier: @oeyoews
+tags: $:/tags/TextEditor/Snippet
+title: imagepretty
+type: text/vnd.tiddlywiki
+
+<<image-pretty img:"https://cdn.jsdelivr.net/gh/oeyoews/img/$1.png" width:"200px" align:"right" caption:"Fig 1. This is my lovely ''autumn''" tooltip:"demo of image-pretty macro">>

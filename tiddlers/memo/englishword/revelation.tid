@@ -1,17 +1,17 @@
 created: 20220317014607308
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319144315728
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220328050948044
+grade: 2
+history: [{"due":"20220319144315728","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318144315728"}]
+interval: 1
 lapses: 0
-modified: 20220318144315728
+modified: 20220319050948044
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220318144315728
-stability: 0.10000181198120117
+reps: 2
+retrievability: 0.3486850967074362
+review: 20220319050948042
+stability: 8.830302388320703
 tags: EnglishWord ?
 title: revelation
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 revelation
 英 [revə'leɪʃ(ə)n]  美 ['rɛvə'leʃən]
-n. 启示；揭露；出乎意料的事；被揭露的真相
+n. 启示；''揭露''；出乎意料的事；被揭露的真相
 CET6 TEM4  ( revelations )
 [[reveal]]
 """

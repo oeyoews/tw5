@@ -1,0 +1,9 @@
+created: 20220319053226693
+creator: @oeyoews
+modified: 20220319053631893
+modifier: @oeyoews
+tags: demo
+title: untitled 15
+type: text/vnd.tiddlywiki
+
+<<image-polaroid img:"https://cdn.jsdelivr.net/gh/oeyoews/img/fishing.png" width:"200px" align:"right" caption:"Fig 1. This is my lovely ''autumn''" tooltip:"demo image-polaroid macro">>
