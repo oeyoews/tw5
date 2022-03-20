@@ -1,17 +1,17 @@
 created: 20220316083311685
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319135621248
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220318135621248
+difficulty: 1.6710614246127011
+due: 20220321061854832
+grade: 0
+history: [{"due":"20220319135621248","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318135621247"}]
+interval: 2
+lapses: 1
+modified: 20220320061854832
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220318135621247
-stability: 0.10000181198120117
+retrievability: 0.12158129666587415
+review: 20220320061854832
+stability: 0.07408249324251646
 tags: EnglishWord ?
 title: humility
 type: text/vnd.tiddlywiki

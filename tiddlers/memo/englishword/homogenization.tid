@@ -1,17 +1,17 @@
 created: 20220312152511735
 creator: @oeyoews
-difficulty: 1.8068285839807998
-due: 20220320023309408
+difficulty: 1.9047338090401607
+due: 20220412062438446
 grade: 1
-history: [{"due":"20220314113138777","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113138777"}]
-interval: 1
+history: [{"due":"20220314113138777","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113138777"},{"due":"20220320023309408","interval":1,"difficulty":1.8068285839807998,"stability":5.870170438272262,"retrievability":0.34870506584485117,"grade":1,"lapses":0,"reps":2,"review":"20220314023309408"}]
+interval: 6
 lapses: 0
-modified: 20220314023309408
+modified: 20220320062438447
 modifier: @oeyoews
-reps: 2
-retrievability: 0.34870506584485117
-review: 20220314023309408
-stability: 5.870170438272262
+reps: 3
+retrievability: 0.8979052250593609
+review: 20220320062438446
+stability: 22.795983145787194
 tags: EnglishWord ?
 title: homogenization
 type: text/vnd.tiddlywiki

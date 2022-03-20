@@ -1,17 +1,17 @@
 created: 20220314033247405
 creator: @oeyoews
-difficulty: 1.898165224654263
-due: 20220320020012981
+difficulty: 2.3393498808844773
+due: 20220321062128416
 grade: 0
-history: [{"due":"20220319144011473","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318144011473"}]
+history: [{"due":"20220319144011473","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318144011473"},{"due":"20220320020012981","interval":1,"difficulty":1.898165224654263,"stability":0.07408316441686115,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319020012979"}]
 interval: 1
-lapses: 1
-modified: 20220319020012981
+lapses: 2
+modified: 20220320062128416
 modifier: @oeyoews
 reps: 1
-retrievability: 0.3486850967074362
-review: 20220319020012979
-stability: 0.07408316441686115
+retrievability: 0.24118465623021404
+review: 20220320062128415
+stability: 0.05488166082758644
 tags: EnglishWord ?
 title: tight
 type: text/vnd.tiddlywiki
