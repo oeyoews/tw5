@@ -1,6 +1,6 @@
 created: 20220212200401023
 creator: oeyoews
-modified: 20220320125651359
+modified: 20220320130751706
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/scrollbar
@@ -32,5 +32,5 @@ html {
 ::-webkit-scrollbar-thumb {
   border-radius: 4px;
   border: 1.5px solid var(--scrollbarBG);
-  background-color: var(--thumbBG) ;
+  /* background-color: var(--thumbBG) ; */
 }
