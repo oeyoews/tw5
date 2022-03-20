@@ -1,6 +1,6 @@
 created: 20220212200401023
 creator: oeyoews
-modified: 20220320130751706
+modified: 20220320132444005
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/scrollbar
@@ -10,7 +10,8 @@ type: text/vnd.tiddlywiki
 
 html {
   --scrollbarBG: <<color page-background>>;
-  --thumbBG: <<color sidebar-tiddler-link-foreground>>; /*other candidate colors: foreground, sidebar-tiddler-link-foreground */
+  --thumbBG: <<color sidebar-tiddler-link-foreground>>;
+	/*other candidate colors: foreground, sidebar-tiddler-link-foreground */
 }
 
 /* only for Twilight palette use <<color sidebar-muted-foreground>> */
