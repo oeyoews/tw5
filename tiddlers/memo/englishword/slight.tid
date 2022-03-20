@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220311023516896","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023516896"},{"due":"20220317145952471","interval":1,"difficulty":1.683833622354247,"stability":6.1623927798054465,"retrievability":0.34910423292122506,"grade":2,"lapses":0,"reps":2,"review":"20220311145952471"}]
 interval: 6
 lapses: 0
-modified: 20220317054209405
+modified: 20220320030810780
 modifier: @oeyoews
 reps: 3
 retrievability: 0.9025023081036533
@@ -23,5 +23,7 @@ adj. 轻微的，少量的；脆弱的；细长的；不重要的
 vt. 轻视，忽略；怠慢
 n. 怠慢；轻蔑
 CET4 TEM4  ( slighting, slighted, slighter, slights, slightest )
+
+`sight`
 """
 <<<

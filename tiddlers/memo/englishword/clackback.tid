@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220311020322770","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310020322770"},{"due":"20220312055105667","interval":1,"difficulty":3.683833622354247,"stability":0.07412477722623134,"retrievability":0.34910423292122506,"grade":0,"lapses":1,"reps":1,"review":"20220311055105667"},{"due":"20220313164629022","interval":1,"difficulty":4.125210917957581,"stability":0.05489707459128404,"retrievability":0.24137729560333396,"grade":0,"lapses":2,"reps":1,"review":"20220312164629020"},{"due":"20220317053531212","interval":1,"difficulty":3.4719297333454575,"stability":3.372825133154445,"retrievability":0.14671881538787598,"grade":1,"lapses":2,"reps":2,"review":"20220314053531212"},{"due":"20220318114929635","interval":3,"difficulty":4.582472708350098,"stability":0.04065843936722075,"retrievability":0.9105429750046404,"grade":0,"lapses":3,"reps":1,"review":"20220317114929634"}]
 interval: 1
 lapses: 3
-modified: 20220318075045391
+modified: 20220320030649237
 modifier: @oeyoews
 reps: 2
 retrievability: 0.07491833605611539
@@ -20,5 +20,7 @@ type: text/vnd.tiddlywiki
 """clawback
 英/美 ['klɔbæk]
 n. ''挫折''；弥补性收入
+
+`setback`
 """
 <<<

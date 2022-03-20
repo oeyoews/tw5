@@ -6,7 +6,7 @@ grade: 0
 history: [{"due":"20220319143612668","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143612668"}]
 interval: 1
 lapses: 1
-modified: 20220319155328601
+modified: 20220320031336994
 modifier: @oeyoews
 reps: 1
 retrievability: 0.3486850967074362
@@ -21,5 +21,6 @@ type: text/vnd.tiddlywiki
 peasant
 英 ['pez(ə)nt]  美 ['pɛznt]
 n. 农民；乡下人
+[[pea]]
 """
 <<<
