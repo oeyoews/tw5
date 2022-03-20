@@ -6,21 +6,25 @@ grade: 0
 history: [{"due":"20220317152347800","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316152347800"},{"due":"20220318074122883","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220317074122883"},{"due":"20220319051135186","interval":1,"difficulty":2.6409694166039213,"stability":0.054882158045770235,"retrievability":0.24119087137976164,"grade":0,"lapses":2,"reps":1,"review":"20220318051135186"},{"due":"20220320005547164","interval":1,"difficulty":2.9876117184495476,"stability":0.04065770267064033,"retrievability":0.14664230184562638,"grade":0,"lapses":3,"reps":1,"review":"20220319005547164"}]
 interval: 1
 lapses: 4
-modified: 20220320034158177
+modified: 20220320092932765
 modifier: @oeyoews
 reps: 1
 retrievability: 0.07491481841986308
 review: 20220320034158177
 stability: 0.030119694070345152
 tags: EnglishWord ?
-title: lining
+title: line
 type: text/vnd.tiddlywiki
 
 <<<.tc-fish-quote
 """
-lining
-英 ['laɪnɪŋ]  美 ['laɪnɪŋ]
-n. 衬里；''内层''；衬套
-( linings )
+line
+英 [laɪn]  美 [laɪn]
+n. 路线，航线；排；绳
+vt. 排成一行；划线于；以线条标示；使…起皱纹
+vi. 排队；站成一排
+n. (Line)人名；(英)莱恩；(俄)利涅
+CET4  ( lines )
+line up  排队
 """
 <<<
