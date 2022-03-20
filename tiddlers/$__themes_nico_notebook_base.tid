@@ -251,7 +251,7 @@ h1.tc-site-title {
   width: 300px;
   background: <<colour tiddler-background>>;
   color: <<colour foreground>>;
-  border: 1px solid <<colour primary>>;
+  border: 0px solid <<colour primary>>;
   box-shadow: 0 0 .2rem 0 <<colour primary>>;
 }
 
