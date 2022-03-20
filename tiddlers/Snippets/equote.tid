@@ -1,13 +1,13 @@
 caption: efquote
 created: 20220111085329627
 creator: oeyoews
-modified: 20220316072647073
+modified: 20220320114548965
 modifier: @oeyoews
 tags: $:/tags/TextEditor/Snippet
-title: efquote
+title: equote
 type: text/vnd.tiddlywiki
 
-<<<.tc-fish-quote
+<<<
 """
 $1
 """

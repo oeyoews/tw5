@@ -1,7 +1,7 @@
 caption: stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220320112646081
+modified: 20220320114437119
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -55,4 +55,11 @@ kbd {
     border-bottom-color: #93a1a1;
     border-radius: 3px;
     box-shadow: inset 0 -1px 0 #93a1a1;
+}
+
+blockquote {
+    border-left: 2px solid #586e75;
+    margin-left: 25px;
+    padding-left: 10px;
+    quotes: "\201C""\201D""\2018""\2019";
 }
