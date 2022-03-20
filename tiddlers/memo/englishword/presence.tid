@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20220311023150330","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023150330"}]
 interval: 3
 lapses: 0
-modified: 20220313042933360
+modified: 20220320085929647
 modifier: @oeyoews
 page-cover: https://cdn.jsdelivr.net/gh/oeyoews/img/cat-scape.jpg
 reps: 2
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 <<<.tc-fish-quote
 """presence
 英 ['prez(ə)ns]  美 ['prɛzns]
-n. 存在；出席；参加；风度；仪态
+n.'' 存在；出席''；参加；风度；仪态
 CET4 TEM4  ( presences )
 """
 <<<
