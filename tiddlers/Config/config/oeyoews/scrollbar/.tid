@@ -1,9 +1,9 @@
 created: 20220212200401023
 creator: oeyoews
-modified: 20220310155957194
+modified: 20220320124153704
 modifier: @oeyoews
-tags: examples $:/tags/Stylesheet toplugin
-title: $:/oeyoews/scrollbar/style
+tags: $:/tags/Stylesheet
+title: $:/config/oeyoews/scrollbar/
 type: text/vnd.tiddlywiki
 
 \rules only filteredtranscludeinline transcludeinline macrodef macrocallinline html
