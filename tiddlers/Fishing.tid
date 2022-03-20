@@ -9,7 +9,7 @@ history: [{"due":"20220310121530843","interval":0,"difficulty":3.510514610713539
 icon: $:/plugins/oflg/fishing/icon
 interval: 1
 lapses: 0
-modified: 20220320131313314
+modified: 20220320132844001
 modifier: @oeyoews
 reps: 2
 retrievability: 0.34910423292122506
@@ -19,7 +19,6 @@ tags:
 title: Fishing
 type: text/vnd.tiddlywiki
 
-<<shield status Ing>>
 <div style="text-align: center">
 <p> 
 </p>
