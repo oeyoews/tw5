@@ -1,7 +1,7 @@
 caption: stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220320123400879
+modified: 20220320130201205
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -25,7 +25,7 @@ type: text/vnd.tiddlywiki
 }
 
 .cm-s-tiddlywiki .CodeMirror-activeline-background, .cm-s-tiddlywiki .CodeMirror-activeline-gutter .CodeMirror-linenumber {
-    background:;
+    background: #002b36;
 }
 
 pre.cm-quote-line {
@@ -103,4 +103,12 @@ div.tc-tiddler-frame {
     white-space: nowrap;
     z-index: 1000;
     text-shadow: none;
+}
+
+.CodeMirror {
+  height: auto;
+  border: 0px solid #073642;
+  line-height: 1.5;
+  font-family: "Fira Code", "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+  font-size: 20px;
 }
