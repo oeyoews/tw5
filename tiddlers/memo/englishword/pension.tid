@@ -1,17 +1,17 @@
 created: 20220317012939143
 creator: @oeyoews
-difficulty: 1.898165224654263
-due: 20220320153236652
-grade: 0
-history: [{"due":"20220319084912528","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318084912528"}]
+difficulty: 1
+due: 20220329015043900
+grade: 2
+history: [{"due":"20220319084912528","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318084912528"},{"due":"20220320153236652","interval":1,"difficulty":1.898165224654263,"stability":0.07408316441686115,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319153236651"}]
 interval: 1
 lapses: 1
-modified: 20220319153236652
+modified: 20220320015043900
 modifier: @oeyoews
-reps: 1
-retrievability: 0.3486850967074362
-review: 20220319153236651
-stability: 0.07408316441686115
+reps: 2
+retrievability: 0.24118465623021404
+review: 20220320015043900
+stability: 8.569947131368993
 tags: EnglishWord ?
 title: pension
 type: text/vnd.tiddlywiki

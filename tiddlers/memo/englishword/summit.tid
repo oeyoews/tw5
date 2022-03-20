@@ -1,18 +1,9 @@
 created: 20220317033705528
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319141338529
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220318141338529
+history: [{"due":"20220319141338529","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318141338529"}]
+modified: 20220320015912232
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220318141338529
-stability: 0.10000181198120117
-tags: EnglishWord ?
+tags: EnglishWord !
 title: summit
 type: text/vnd.tiddlywiki
 

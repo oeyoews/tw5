@@ -1,17 +1,17 @@
 created: 20220227035302154
 creator: oeyoews
-difficulty: 2.456603154876539
-due: 20220319141403136
-grade: 1
-history: [{"due":"20220311023652846","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023652846"}]
-interval: 2
-lapses: 0
-modified: 20220312141403136
+difficulty: 3.559696197107576
+due: 20220320155236995
+grade: 0
+history: [{"due":"20220311023652846","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023652846"},{"due":"20220319141403136","interval":2,"difficulty":2.456603154876539,"stability":7.235610940626585,"retrievability":0.12187376544351697,"grade":1,"lapses":0,"reps":2,"review":"20220312141403136"}]
+interval: 7
+lapses: 1
+modified: 20220319155236995
 modifier: @oeyoews
-reps: 2
-retrievability: 0.12187376544351697
-review: 20220312141403136
-stability: 7.235610940626585
+reps: 1
+retrievability: 0.9030930422310366
+review: 20220319155236995
+stability: 0.07408249324251646
 tags: EnglishWord ?
 title: ceremonial
 type: text/vnd.tiddlywiki
@@ -22,5 +22,6 @@ type: text/vnd.tiddlywiki
 adj. 仪式的；正式的，礼仪的
 n. 仪式，礼节
 TEM4
+[[ceremony]]
 """
 <<<

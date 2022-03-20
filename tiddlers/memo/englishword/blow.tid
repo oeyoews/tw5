@@ -1,17 +1,17 @@
 created: 20220319024709776
 creator: @oeyoews
-difficulty: 1.2223120588350453
-due: 20220320125110233
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220329015338735
+grade: 1
+history: [{"due":"20220320125110233","interval":0,"difficulty":1.2223120588350453,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220319125110233"}]
+interval: 1
 lapses: 0
-modified: 20220319125110234
+modified: 20220320015338735
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220319125110233
-stability: 0.10000181198120117
+reps: 2
+retrievability: 0.3486850967074362
+review: 20220320015338734
+stability: 8.830302388320703
 tags: EnglishWord ?
 title: blow
 type: text/vnd.tiddlywiki

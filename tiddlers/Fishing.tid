@@ -1,5 +1,6 @@
 author: oeyoews
 caption: [[demo]]
+color: #b8f316
 created: 20220309112322425
 creator: @oeyoews
 difficulty: 2.0596188436347647
@@ -9,7 +10,7 @@ history: [{"due":"20220310121530843","interval":0,"difficulty":3.510514610713539
 icon: $:/plugins/oflg/fishing/icon
 interval: 1
 lapses: 0
-modified: 20220319125431244
+modified: 20220320015811644
 modifier: @oeyoews
 reps: 2
 retrievability: 0.34910423292122506
@@ -19,7 +20,7 @@ tags:
 title: Fishing
 type: text/vnd.tiddlywiki
 
-<<shield status Ing purple>>
+<<shield status Ing>>
 <div style="text-align: center">
 <p> 
 </p>

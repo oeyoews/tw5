@@ -1,19 +1,10 @@
 created: 20220222010427476
 creator: oeyoews
-difficulty: 1.659223762731971
-due: 20220320034207295
-grade: 1
 history: [{"due":"20220310072432091","interval":1,"difficulty":1,"stability":8.856788036936313,"retrievability":0.3995465906210927,"grade":2,"lapses":0,"reps":2,"review":"20220301072432091"},{"due":"20220310072432091","interval":1,"difficulty":1,"stability":8.856788036936313,"retrievability":0.3995465906210927,"grade":2,"lapses":0,"reps":2,"review":"20220301072432091"},{"due":"20220311011119804","interval":9,"difficulty":2.0984680183874174,"stability":0.07416773238429089,"retrievability":0.8984680183874171,"grade":0,"lapses":1,"reps":1,"review":"20220310011119803"},{"due":"20220314052659895","interval":3,"difficulty":2.312566158044068,"stability":0.054885141354873004,"retrievability":0.014098139656650388,"grade":0,"lapses":2,"reps":1,"review":"20220313052659895"}]
-interval: 1
-lapses: 2
-modified: 20220314034207295
+modified: 20220320015018723
 modifier: @oeyoews
 muuri-tiddler-width: 2
-reps: 2
-retrievability: 0.1466576046879033
-review: 20220314034207295
-stability: 5.61781935139101
-tags: EnglishWord ?
+tags: EnglishWord !
 title: bagged
 type: text/vnd.tiddlywiki
 

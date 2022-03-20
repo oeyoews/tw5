@@ -1,18 +1,9 @@
 created: 20220316073948992
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319140843039
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220318140843039
+history: [{"due":"20220319140843039","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318140843039"}]
+modified: 20220320015334913
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220318140843039
-stability: 0.10000181198120117
-tags: EnglishWord ?
+tags: EnglishWord !
 title: department
 type: text/vnd.tiddlywiki
 
@@ -20,7 +11,7 @@ type: text/vnd.tiddlywiki
 """
 department
 英 [dɪ'pɑːtm(ə)nt]  美 [dɪ'pɑrtmənt]
-n. 部；部门；系；科；局
+n. ''部''；部门；系；科；局
 CET4 TEM4  ( departments )
 """
 <<<

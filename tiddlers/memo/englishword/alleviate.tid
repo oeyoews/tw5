@@ -1,17 +1,17 @@
 created: 20220313072235185
 creator: @oeyoews
-difficulty: 1.8068285839807998
-due: 20220320053448458
-grade: 1
-history: [{"due":"20220314113100655","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113100655"}]
-interval: 1
-lapses: 0
-modified: 20220314053448458
+difficulty: 2.904733809040161
+due: 20220321015208960
+grade: 0
+history: [{"due":"20220314113100655","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113100655"},{"due":"20220320053448458","interval":1,"difficulty":1.8068285839807998,"stability":5.870170438272262,"retrievability":0.34870506584485117,"grade":1,"lapses":0,"reps":2,"review":"20220314053448457"}]
+interval: 6
+lapses: 1
+modified: 20220320015208960
 modifier: @oeyoews
-reps: 2
-retrievability: 0.34870506584485117
-review: 20220314053448457
-stability: 5.870170438272262
+reps: 1
+retrievability: 0.8979052250593609
+review: 20220320015208959
+stability: 0.07408249324251646
 tags: EnglishWord ?
 title: alleviate
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 alleviated
 英/美 [ə'li:vieit]
-v. 减轻（alleviate的过去分词）；使…缓和
+v. ''减轻''（alleviate的过去分词）；使…缓和
 CET6 TEM8  ( alleviating, alleviated, alleviates )
 """
 <<<

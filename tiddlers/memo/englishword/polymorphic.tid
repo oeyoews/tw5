@@ -1,18 +1,9 @@
 created: 20220319013128918
 creator: @oeyoews
-difficulty: 1.2223120588350453
-due: 20220320125116420
-grade: -1
 history: []
-interval: 0
-lapses: 0
-modified: 20220319125116420
+modified: 20220320015548250
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220319125116420
-stability: 0.10000181198120117
-tags: EnglishWord ?
+tags: EnglishWord !
 title: polymorphic
 type: text/vnd.tiddlywiki
 
