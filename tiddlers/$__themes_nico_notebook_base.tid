@@ -186,7 +186,7 @@ div.tc-tiddler-frame {
   box-shadow: 0 5px 20px rgba(0,0,0, 0.12);
   border-radius: 12px;
   padding: 42px 60px 60px 60px;
-  border: 2.5px solid cyan;
+  border: 2.5px solid #002b36;
 }
 
 /** main title font size */
@@ -305,7 +305,7 @@ input[type="search"]::-webkit-search-cancel-button {
     margin: 15px 0px 15px 0px;
     box-shadow: none;
     border-radius: 3px;
-    border: 2px solid cyan;
+    border: 2px solid #002b36;
   }
 }
 
