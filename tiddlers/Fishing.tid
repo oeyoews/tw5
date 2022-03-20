@@ -1,5 +1,4 @@
 author: oeyoews
-caption: [[demo]]
 color: #b8f316
 created: 20220309112322425
 creator: @oeyoews
@@ -10,7 +9,7 @@ history: [{"due":"20220310121530843","interval":0,"difficulty":3.510514610713539
 icon: $:/plugins/oflg/fishing/icon
 interval: 1
 lapses: 0
-modified: 20220320064830391
+modified: 20220320122656782
 modifier: @oeyoews
 reps: 2
 retrievability: 0.34910423292122506
