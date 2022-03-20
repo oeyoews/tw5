@@ -1,7 +1,7 @@
 caption: stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220320114437119
+modified: 20220320115950658
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -25,7 +25,7 @@ type: text/vnd.tiddlywiki
 }
 
 .cm-s-tiddlywiki .CodeMirror-activeline-background, .cm-s-tiddlywiki .CodeMirror-activeline-gutter .CodeMirror-linenumber {
-    background: unset;
+    background:;
 }
 
 pre.cm-quote-line {
@@ -62,4 +62,23 @@ blockquote {
     margin-left: 25px;
     padding-left: 10px;
     quotes: "\201C""\201D""\2018""\2019";
+}
+
+.tc-edit-tags {
+    border: 0 solid #073642; 
+    padding: 4px 8px 4px 8px;
+}
+
+* {
+  outline: none;
+  outline-color: none;
+  -webkit-font-smoothing: antialiased;
+}
+*:focus {
+  outline: none;
+}
+/** 去除输入框默认的边框 */
+textarea, input[type=text], input[type=search], input[type=""], input:not([type]) {
+  border: 0px solid <<colour tiddler-editor-border>>;
+  background: <<colour page-background>>;
 }
