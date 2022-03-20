@@ -1,17 +1,17 @@
 created: 20220317033730822
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319084016554
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220402055000881
+grade: 1
+history: [{"due":"20220319084016554","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318084016553"}]
+interval: 2
 lapses: 0
-modified: 20220318084016554
+modified: 20220320055000881
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220318084016553
-stability: 0.10000181198120117
+reps: 2
+retrievability: 0.12158129666587415
+review: 20220320055000881
+stability: 13.480723478488205
 tags: EnglishWord ?
 title: commit
 type: text/vnd.tiddlywiki

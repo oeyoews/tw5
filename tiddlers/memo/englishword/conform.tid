@@ -1,17 +1,17 @@
 created: 20220317010654862
 creator: @oeyoews
-difficulty: 1.898165224654263
-due: 20220320155107022
+difficulty: 2.339346773285302
+due: 20220321034154561
 grade: 0
-history: [{"due":"20220319143710576","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143710576"}]
+history: [{"due":"20220319143710576","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143710576"},{"due":"20220320155107022","interval":1,"difficulty":1.898165224654263,"stability":0.07408249324251646,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319155107022"}]
 interval: 1
-lapses: 1
-modified: 20220319155107022
+lapses: 2
+modified: 20220320034154562
 modifier: @oeyoews
 reps: 1
-retrievability: 0.3486850967074362
-review: 20220319155107022
-stability: 0.07408249324251646
+retrievability: 0.24118154863103877
+review: 20220320034154561
+stability: 0.05488166082758644
 tags: EnglishWord ?
 title: conform
 type: text/vnd.tiddlywiki

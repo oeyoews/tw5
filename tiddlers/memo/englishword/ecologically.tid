@@ -1,17 +1,17 @@
 created: 20220225081711617
 creator: oeyoews
-difficulty: 5.097985771900362
-due: 20220320083921221
-grade: 1
-history: [{"due":"20220308061704630","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061704630"},{"due":"20220309070500517","interval":1,"difficulty":4.983049552319485,"stability":0.07425364270040997,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220308070500516"},{"due":"20220314014304018","interval":2,"difficulty":4.241600707296961,"stability":4.336181948131102,"retrievability":0.05855115497747565,"grade":1,"lapses":1,"reps":2,"review":"20220310014304018"},{"due":"20220314162632358","interval":3,"difficulty":5.371300101663975,"stability":0.054885141354873004,"retrievability":0.9296993943670137,"grade":0,"lapses":2,"reps":1,"review":"20220313162632358"},{"due":"20220317070735042","interval":2,"difficulty":5.592808554676768,"stability":0.04065843936722075,"retrievability":0.021508453012793312,"grade":0,"lapses":3,"reps":1,"review":"20220316070735042"},{"due":"20220318122333146","interval":1,"difficulty":5.867726890732884,"stability":0.030120512707719985,"retrievability":0.07491833605611539,"grade":0,"lapses":4,"reps":1,"review":"20220317122333146"}]
-interval: 1
+difficulty: 4.1948752842775505
+due: 20220326054913123
+grade: 2
+history: [{"due":"20220308061704630","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061704630"},{"due":"20220309070500517","interval":1,"difficulty":4.983049552319485,"stability":0.07425364270040997,"retrievability":0.35037881052010367,"grade":0,"lapses":1,"reps":1,"review":"20220308070500516"},{"due":"20220314014304018","interval":2,"difficulty":4.241600707296961,"stability":4.336181948131102,"retrievability":0.05855115497747565,"grade":1,"lapses":1,"reps":2,"review":"20220310014304018"},{"due":"20220314162632358","interval":3,"difficulty":5.371300101663975,"stability":0.054885141354873004,"retrievability":0.9296993943670137,"grade":0,"lapses":2,"reps":1,"review":"20220313162632358"},{"due":"20220317070735042","interval":2,"difficulty":5.592808554676768,"stability":0.04065843936722075,"retrievability":0.021508453012793312,"grade":0,"lapses":3,"reps":1,"review":"20220316070735042"},{"due":"20220318122333146","interval":1,"difficulty":5.867726890732884,"stability":0.030120512707719985,"retrievability":0.07491833605611539,"grade":0,"lapses":4,"reps":1,"review":"20220317122333146"},{"due":"20220320083921221","interval":1,"difficulty":5.097985771900362,"stability":1.936371976269969,"retrievability":0.03025888116747745,"grade":1,"lapses":4,"reps":2,"review":"20220318083921221"}]
+interval: 2
 lapses: 4
-modified: 20220318083921221
+modified: 20220320054913124
 modifier: @oeyoews
-reps: 2
-retrievability: 0.03025888116747745
-review: 20220318083921221
-stability: 1.936371976269969
+reps: 3
+retrievability: 0.8968895123771883
+review: 20220320054913123
+stability: 5.988884016246731
 tags: EnglishWord ?
 title: ecologically
 type: text/vnd.tiddlywiki

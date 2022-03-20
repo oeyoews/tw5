@@ -1,17 +1,17 @@
 created: 20220317012302347
 creator: @oeyoews
-difficulty: 1.349480127946827
-due: 20220319144031851
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220402054932049
+grade: 1
+history: [{"due":"20220319144031851","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318144031851"}]
+interval: 2
 lapses: 0
-modified: 20220318144031851
+modified: 20220320054932049
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220318144031851
-stability: 0.10000181198120117
+reps: 2
+retrievability: 0.12158129666587415
+review: 20220320054932049
+stability: 13.480723478488205
 tags: EnglishWord ?
 title: superior
 type: text/vnd.tiddlywiki
@@ -20,8 +20,8 @@ type: text/vnd.tiddlywiki
 """
 superior
 英 [suːˈpɪərɪə]  美 [sʊˈpɪrɪɚ]
-adj. 上级的；优秀的，出众的；高傲的
-n. 上级，长官；优胜者，高手；长者
+adj. 上级的；''优秀的''，出众的；高傲的
+n. ''上级''，长官；优胜者，高手；长者
 CET4 TEM4  ( superiors )
 [[priority]]
 """

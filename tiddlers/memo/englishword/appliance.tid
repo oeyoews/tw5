@@ -1,17 +1,17 @@
 created: 20220317010805893
 creator: @oeyoews
-difficulty: 1.898165224654263
-due: 20220320154103887
+difficulty: 2.3393498808844773
+due: 20220321054629394
 grade: 0
-history: [{"due":"20220319134820214","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318134820214"}]
+history: [{"due":"20220319134820214","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318134820214"},{"due":"20220320154103887","interval":1,"difficulty":1.898165224654263,"stability":0.07408316441686115,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319154103887"}]
 interval: 1
-lapses: 1
-modified: 20220319154103887
+lapses: 2
+modified: 20220320054629394
 modifier: @oeyoews
 reps: 1
-retrievability: 0.3486850967074362
-review: 20220319154103887
-stability: 0.07408316441686115
+retrievability: 0.24118465623021404
+review: 20220320054629393
+stability: 0.05488166082758644
 tags: EnglishWord ?
 title: appliance
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 appliance
 英 [ə'plaɪəns]  美 [ə'plaɪəns]
-n. 器具；器械；装置
+n. 器具；''器械''；装置
 CET4 TEM4  ( appliances )
 [[applicant]]
 """
