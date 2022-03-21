@@ -1,17 +1,17 @@
 created: 20220319033047917
 creator: @oeyoews
-difficulty: 1.7709971555424815
-due: 20220321062226941
-grade: 0
-history: [{"due":"20220320072608580","interval":0,"difficulty":1.2223120588350453,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220319072608580"}]
+difficulty: 1
+due: 20220330075439325
+grade: 2
+history: [{"due":"20220320072608580","interval":0,"difficulty":1.2223120588350453,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220319072608580"},{"due":"20220321062226941","interval":1,"difficulty":1.7709971555424815,"stability":0.07408249324251646,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220320062226941"}]
 interval: 1
 lapses: 1
-modified: 20220320062226941
+modified: 20220321075439325
 modifier: @oeyoews
-reps: 1
-retrievability: 0.3486850967074362
-review: 20220320062226941
-stability: 0.07408249324251646
+reps: 2
+retrievability: 0.24118154863103877
+review: 20220321075439324
+stability: 8.569934531523112
 tags: EnglishWord ?
 title: sake
 type: text/vnd.tiddlywiki
