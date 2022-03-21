@@ -1,7 +1,7 @@
 caption: stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220320130704635
+modified: 20220321031908800
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -111,4 +111,16 @@ div.tc-tiddler-frame {
   line-height: 1.5;
   font-family: "Fira Code", "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
   font-size: 20px;
+}
+
+a.tc-tiddlylink.tc-plugin-info:hover {
+    text-decoration: none;
+    background-color: #5972d9;
+    color: #073642;
+    fill: #839496;
+    border-radius: 5px;
+}
+
+a.tc-tiddlylink.tc-plugin-info {
+    border-radius: 5px;
 }

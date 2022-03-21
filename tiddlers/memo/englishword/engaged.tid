@@ -1,18 +1,9 @@
 created: 20220316074617981
 creator: @oeyoews
-difficulty: 2.3393498808844773
-due: 20220321054907728
-grade: 0
 history: [{"due":"20220319143812347","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143812347"},{"due":"20220320014722674","interval":1,"difficulty":1.898165224654263,"stability":0.07408316441686115,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319014722674"}]
-interval: 1
-lapses: 2
-modified: 20220320054907728
+modified: 20220321024234510
 modifier: @oeyoews
-reps: 1
-retrievability: 0.24118465623021404
-review: 20220320054907728
-stability: 0.05488166082758644
-tags: EnglishWord ?
+tags: EnglishWord !
 title: engaged
 type: text/vnd.tiddlywiki
 

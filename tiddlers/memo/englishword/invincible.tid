@@ -1,17 +1,17 @@
 created: 20220311003256464
 creator: @oeyoews
-difficulty: 4.7421195623407515
-due: 20220321062407457
+difficulty: 4.951017925491296
+due: 20220322030331352
 grade: 0
-history: [{"due":"20220312053717442","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220311053717442"},{"due":"20220314043228343","interval":2,"difficulty":3.456603154876539,"stability":0.07409256085768667,"retrievability":0.12187376544351697,"grade":0,"lapses":1,"reps":1,"review":"20220313043228342"},{"due":"20220315034200446","interval":1,"difficulty":3.897831315787051,"stability":0.054885141354873004,"retrievability":0.24122816091051208,"grade":0,"lapses":2,"reps":1,"review":"20220314034200446"},{"due":"20220317110556911","interval":2,"difficulty":4.119339768799844,"stability":0.04065843936722075,"retrievability":0.021508453012793312,"grade":0,"lapses":3,"reps":1,"review":"20220316110556910"},{"due":"20220318055302645","interval":1,"difficulty":4.39425810485596,"stability":0.030120512707719985,"retrievability":0.07491833605611539,"grade":0,"lapses":4,"reps":1,"review":"20220317055302645"},{"due":"20220320070016601","interval":1,"difficulty":3.624516986023438,"stability":2.450503690900091,"retrievability":0.03025888116747745,"grade":1,"lapses":4,"reps":2,"review":"20220318070016601"}]
-interval: 2
-lapses: 5
-modified: 20220320062407457
+history: [{"due":"20220312053717442","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220311053717442"},{"due":"20220314043228343","interval":2,"difficulty":3.456603154876539,"stability":0.07409256085768667,"retrievability":0.12187376544351697,"grade":0,"lapses":1,"reps":1,"review":"20220313043228342"},{"due":"20220315034200446","interval":1,"difficulty":3.897831315787051,"stability":0.054885141354873004,"retrievability":0.24122816091051208,"grade":0,"lapses":2,"reps":1,"review":"20220314034200446"},{"due":"20220317110556911","interval":2,"difficulty":4.119339768799844,"stability":0.04065843936722075,"retrievability":0.021508453012793312,"grade":0,"lapses":3,"reps":1,"review":"20220316110556910"},{"due":"20220318055302645","interval":1,"difficulty":4.39425810485596,"stability":0.030120512707719985,"retrievability":0.07491833605611539,"grade":0,"lapses":4,"reps":1,"review":"20220317055302645"},{"due":"20220320070016601","interval":1,"difficulty":3.624516986023438,"stability":2.450503690900091,"retrievability":0.03025888116747745,"grade":1,"lapses":4,"reps":2,"review":"20220318070016601"},{"due":"20220321062407457","interval":2,"difficulty":4.7421195623407515,"stability":0.022313218168670785,"retrievability":0.9176025763173131,"grade":0,"lapses":5,"reps":1,"review":"20220320062407457"}]
+interval: 1
+lapses: 6
+modified: 20220321030331352
 modifier: @oeyoews
 reps: 1
-retrievability: 0.9176025763173131
-review: 20220320062407457
-stability: 0.022313218168670785
+retrievability: 0.008898363150544453
+review: 20220321030331352
+stability: 0.016530038581397673
 tags: EnglishWord ?
 title: invincible
 type: text/vnd.tiddlywiki
@@ -22,5 +22,6 @@ invincible
 英 [ɪn'vɪnsɪb(ə)l]  美 [ɪn'vɪnsəbl]
 adj. 无敌的；不能征服的
 CET6+ TEM8
+[[inexorable]]
 """
 <<<

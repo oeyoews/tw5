@@ -1,17 +1,17 @@
 created: 20220320013307723
 creator: @oeyoews
-difficulty: 1.0062688081677507
-due: 20220321112933345
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220320112933345
+difficulty: 1.5549505765857377
+due: 20220322021758113
+grade: 0
+history: [{"due":"20220321112933345","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320112933345"}]
+interval: 1
+lapses: 1
+modified: 20220321021758113
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220320112933345
-stability: 0.10000090599060059
+retrievability: 0.34868176841798704
+review: 20220321021758112
+stability: 0.07408249324251646
 tags: EnglishWord ?
 title: judice
 type: text/vnd.tiddlywiki
@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
 <<<.tc-fish-quote
 """
 judice
-n. （拉）审判
+n. （拉）''审判''
 n. （Judice）人名；（法）朱迪斯；（葡）茹迪塞；（意）尤迪切
 [[prejudice]]
 """

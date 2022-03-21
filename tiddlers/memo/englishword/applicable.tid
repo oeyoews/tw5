@@ -1,17 +1,17 @@
 created: 20220317033901863
 creator: @oeyoews
-difficulty: 2.339346773285302
-due: 20220321015906541
-grade: 0
-history: [{"due":"20220319143643085","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143643085"},{"due":"20220320154137147","interval":1,"difficulty":1.898165224654263,"stability":0.07408249324251646,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319154137147"}]
+difficulty: 1.6859865246507237
+due: 20220327020109898
+grade: 1
+history: [{"due":"20220319143643085","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143643085"},{"due":"20220320154137147","interval":1,"difficulty":1.898165224654263,"stability":0.07408249324251646,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319154137147"},{"due":"20220321015906541","interval":1,"difficulty":2.339346773285302,"stability":0.05488166082758644,"retrievability":0.24118154863103877,"grade":0,"lapses":2,"reps":1,"review":"20220320015906541"}]
 interval: 1
 lapses: 2
-modified: 20220320015906541
+modified: 20220321020109898
 modifier: @oeyoews
-reps: 1
-retrievability: 0.24118154863103877
-review: 20220320015906541
-stability: 0.05488166082758644
+reps: 2
+retrievability: 0.14663975136542198
+review: 20220321020109897
+stability: 5.555746828068892
 tags: EnglishWord ?
 title: applicable
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 applicable
 英 [ə'plɪkəb(ə)l; 'æplɪk-]  美 ['æplɪkəbl]
-adj. 可适用的；可应用的；合适的
+adj. 可适用的；可应用的；''合适的''
 CET4 TEM4
 [[appliance]]
 [[applicant]]

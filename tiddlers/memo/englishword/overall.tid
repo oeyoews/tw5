@@ -1,25 +1,25 @@
 created: 20220228081934841
 creator: oeyoews
-difficulty: 2.75306125811192
-due: 20220321053301745
-grade: 1
-history: [{"due":"20220311014220234","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310014220234"}]
-interval: 3
-lapses: 0
-modified: 20220313053301745
+difficulty: 3.848336167374618
+due: 20220322025721925
+grade: 0
+history: [{"due":"20220311014220234","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310014220234"},{"due":"20220321053301745","interval":3,"difficulty":2.75306125811192,"stability":7.6193296375837685,"retrievability":0.042546647398380294,"grade":1,"lapses":0,"reps":2,"review":"20220313053301745"}]
+interval: 8
+lapses: 1
+modified: 20220321025721925
 modifier: @oeyoews
 page-cover: https://cdn.jsdelivr.net/gh/oeyoews/img/cat-scape.jpg
-reps: 2
-retrievability: 0.042546647398380294
-review: 20220313053301745
-stability: 7.6193296375837685
+reps: 1
+retrievability: 0.8952749092626976
+review: 20220321025721924
+stability: 0.07408249324251646
 tags: EnglishWord ?
 title: overall
 type: text/vnd.tiddlywiki
 
 <<<.tc-fish-quote
 """英 ['əʊvərɔːl]  美 [,ovə'rɔl]
-adj. 全部的；全体的；一切在内的
+adj. ''全部的''；全体的；一切在内的
 adv. 全部地；总的说来
 n. 工装裤；罩衫
 CET4 TEM4  ( overalls )

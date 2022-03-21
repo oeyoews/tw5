@@ -1,17 +1,17 @@
 created: 20220316060746875
 creator: @oeyoews
-difficulty: 1.6710614246127011
-due: 20220321054503982
+difficulty: 2.11224297324374
+due: 20220322015717560
 grade: 0
-history: [{"due":"20220319092252407","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318092252407"}]
-interval: 2
-lapses: 1
-modified: 20220320054503982
+history: [{"due":"20220319092252407","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318092252407"},{"due":"20220321054503982","interval":2,"difficulty":1.6710614246127011,"stability":0.07408249324251646,"retrievability":0.12158129666587415,"grade":0,"lapses":1,"reps":1,"review":"20220320054503982"}]
+interval: 1
+lapses: 2
+modified: 20220321015717560
 modifier: @oeyoews
 reps: 1
-retrievability: 0.12158129666587415
-review: 20220320054503982
-stability: 0.07408249324251646
+retrievability: 0.24118154863103877
+review: 20220321015717559
+stability: 0.05488166082758644
 tags: EnglishWord ?
 title: coincidence
 type: text/vnd.tiddlywiki

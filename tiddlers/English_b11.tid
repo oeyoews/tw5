@@ -1,14 +1,15 @@
 created: 20220112124739999
-modified: 20220314083943839
+creator: @oeyoews
+modified: 20220321022911714
 modifier: @oeyoews
 tags: English/66
 title: English/b11
 type: text/vnd.tiddlywiki
 
-!!! Sentence
+!!! # Sentence
 <p style="text-indent:2em">
 ''
-There is, as Robert Rubin, the treasury secretary, says, a “disjunction” between the mass of business anecdote that points to a leap in productivity and the picture reflected by the statistics.
+There is, as Robert Rubin, the [[treasury]] secretary, says, a “[[disjunction]]” between the mass of business anecdote that points to a leap in productivity and the picture reflected by the statistics.
 ''
 </p>
 
@@ -18,7 +19,6 @@ There is, as Robert Rubin, the treasury secretary, says, a “disjunction” bet
 <p style="text-indent:2em">
 【译文赏析】正如财长鲁宾所说，在表明生产力飞跃发展的商业佚事和数据所反映的情况之间存在着脱节。
 <p>
-
 
 【翻译点拨】也可以把比较长的那个部分单独翻译，这样更符合中文的习惯：有大量表明生产力飞跃发展的商业佚事，但是财长罗伯特.鲁宾认为现实的数据表明的情况并不能支持这些传奇。
 
@@ -32,7 +32,9 @@ There is, as Robert Rubin, the treasury secretary, says, a “disjunction” bet
 """
 【词汇突破】the treasury secretary 财政部长（美）
 
-anecdote 轶闻，趣闻 statistics 数据（还有一个我们不熟悉的意思：表格）
+[[anecdote]] 轶闻，趣闻 
+
+statistics 数据（还有一个我们不熟悉的意思：表格）
 
 picture 情况，事态，局面，状况，情形，形势
 """

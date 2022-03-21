@@ -22,10 +22,10 @@ type: text/vnd.tiddlywiki
 
 /*
 ** TW-Locator and Bi-Link list
-*/
 .tc-table-of-contents li a {
   font-weight: normal;
 }
+*/
 
 /**
 * Hide toolbar buttons if not hover
@@ -55,7 +55,8 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover {
   /*line-height: 1.3em;*/
   color: <<colour tiddler-link-foreground>>;
 	/**  remove sidebar and link title dire underline <<colour tiddler-link-underline>>*/
-  border-bottom: none;
+  /*border-bottom: none;*/
+  border: none;
   text-decoration: none;
   /** hover动画 */
   transition: background 120ms ease-in 0s;
@@ -703,8 +704,8 @@ div.tc-tab-buttons button {
   line-height: 1em;
   padding: .6em .8em .4em .8em;
   /*border: none;*/
-  border-radius: 3px;
-  /*background: transparent;*/
+  border-radius: 5px;
+  background: unset;
   cursor: pointer;
   transition: background ease-in .2s;
 }
@@ -718,7 +719,7 @@ div.tc-tab-buttons button.tc-tab-selected {
   border: none;
   background: transparent;
   border-radius: 1px;
-  border-bottom: 1px solid <<colour primary>>;
+  border-bottom: 3px solid <<colour primary>>;
 }
 
 /* Dropdowns */

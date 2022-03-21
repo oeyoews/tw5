@@ -1,18 +1,9 @@
 created: 20220320081755020
 creator: @oeyoews
-difficulty: 1.0062688081677507
-due: 20220321112849103
-grade: -1
 history: []
-interval: 0
-lapses: 0
-modified: 20220320112849103
+modified: 20220321025350839
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220320112849103
-stability: 0.10000090599060059
-tags: EnglishWord ?
+tags: EnglishWord !
 title: dull
 type: text/vnd.tiddlywiki
 
@@ -20,7 +11,7 @@ type: text/vnd.tiddlywiki
 """
 dull
 英 [dʌl]  美 [dʌl]
-adj. 钝的；迟钝的；无趣的；呆滞的；阴暗的
+adj. 钝的；迟钝的；''无趣的''；呆滞的；阴暗的
 vt. 使迟钝；使阴暗；缓和
 vi. 减少；变迟钝
 n. (Dull)人名；(罗、匈)杜尔；(柬)杜；(英)达尔
