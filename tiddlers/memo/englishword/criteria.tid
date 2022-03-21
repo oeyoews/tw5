@@ -1,17 +1,17 @@
 created: 20220314021902837
 creator: @oeyoews
-difficulty: 2.3393498808844773
-due: 20220321054409597
+difficulty: 2.6859896322498993
+due: 20220322041548883
 grade: 0
-history: [{"due":"20220319141134311","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318141134311"},{"due":"20220320014751015","interval":1,"difficulty":1.898165224654263,"stability":0.07408316441686115,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319014751015"}]
+history: [{"due":"20220319141134311","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318141134311"},{"due":"20220320014751015","interval":1,"difficulty":1.898165224654263,"stability":0.07408316441686115,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319014751015"},{"due":"20220321054409597","interval":1,"difficulty":2.3393498808844773,"stability":0.05488166082758644,"retrievability":0.24118465623021404,"grade":0,"lapses":2,"reps":1,"review":"20220320054409597"}]
 interval: 1
-lapses: 2
-modified: 20220320054409597
+lapses: 3
+modified: 20220321041548883
 modifier: @oeyoews
 reps: 1
-retrievability: 0.24118465623021404
-review: 20220320054409597
-stability: 0.05488166082758644
+retrievability: 0.14663975136542198
+review: 20220321041548882
+stability: 0.04065733432235013
 tags: EnglishWord ?
 title: criteria
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 criteria
 英 [kraɪ'tɪərɪə]  美 [kraɪ'tɪrɪə]
-n. 标准，条件（criterion的复数）
+n. ''标准''，条件（criterion的复数）
 CET6 TEM4  ( criteria /kraɪˈtɪərɪə/ )
 """
 <<<

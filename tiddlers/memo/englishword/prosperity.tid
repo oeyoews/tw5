@@ -1,17 +1,17 @@
 created: 20220320090200674
 creator: @oeyoews
-difficulty: 1.0062688081677507
-due: 20220321113114206
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220320113114206
+difficulty: 1.5549505765857377
+due: 20220322041538346
+grade: 0
+history: [{"due":"20220321113114206","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320113114206"}]
+interval: 1
+lapses: 1
+modified: 20220321041538346
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220320113114206
-stability: 0.10000090599060059
+retrievability: 0.34868176841798704
+review: 20220321041538345
+stability: 0.07408249324251646
 tags: EnglishWord ?
 title: prosperity
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 prosperity
 英 [prɒ'sperɪtɪ]  美 [prɑ'spɛrəti]
-n. 繁荣，成功
+n. ''繁荣''，成功
 CET4 TEM4
 1. [N-UNCOUNT]Prosperity is a condition in which a person or community is doing well financially. 繁荣
   例: ...a new era of peace and prosperity.…一个和平与繁荣的新时代。
