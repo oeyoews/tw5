@@ -1,0 +1,9 @@
+created: 20220321033156057
+creator: @oeyoews
+modified: 20220321033217838
+modifier: @oeyoews
+tags: frontend
+title: untitled 25
+type: text/vnd.tiddlywiki
+
+* 单冒号(:)用于css3伪类，双冒号(::)用于CSS3伪元素。伪元素由双冒号和伪元素名称组成。不过浏览器需要同时支持旧的已经存在的伪元素写法
