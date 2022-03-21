@@ -1,7 +1,7 @@
 created: 20220103042943419
 creator: oeyoews
-list: $:/config/oeyoews/copybutton $:/config/oeyoews/fishingUI $:/config/oeyoews/removeinputborder $:/config/SyncFilter $:/config/FileSystemPaths $:/oeyoews/settings/tiddler-icons
-modified: 20220320114904044
+list: [[Reading List]] $:/config/oeyoews/copybutton $:/config/oeyoews/fishingUI $:/config/oeyoews/removeinputborder $:/config/SyncFilter $:/config/FileSystemPaths $:/oeyoews/settings/tiddler-icons
+modified: 20220321040820261
 modifier: @oeyoews
 title: $:/favorites/favlist
 type: text/vnd.tiddlywiki

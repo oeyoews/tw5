@@ -1,17 +1,17 @@
 created: 20220316111932549
 creator: @oeyoews
-difficulty: 2.3393498808844773
-due: 20220321061758753
+difficulty: 2.6859896322498993
+due: 20220322035155136
 grade: 0
-history: [{"due":"20220319141446245","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318141446245"},{"due":"20220320145018176","interval":1,"difficulty":1.898165224654263,"stability":0.07408316441686115,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319145018175"}]
+history: [{"due":"20220319141446245","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318141446245"},{"due":"20220320145018176","interval":1,"difficulty":1.898165224654263,"stability":0.07408316441686115,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319145018175"},{"due":"20220321061758753","interval":1,"difficulty":2.3393498808844773,"stability":0.05488166082758644,"retrievability":0.24118465623021404,"grade":0,"lapses":2,"reps":1,"review":"20220320061758753"}]
 interval: 1
-lapses: 2
-modified: 20220320061758753
+lapses: 3
+modified: 20220321035155137
 modifier: @oeyoews
 reps: 1
-retrievability: 0.24118465623021404
-review: 20220320061758753
-stability: 0.05488166082758644
+retrievability: 0.14663975136542198
+review: 20220321035155136
+stability: 0.04065733432235013
 tags: EnglishWord ?
 title: immune
 type: text/vnd.tiddlywiki
