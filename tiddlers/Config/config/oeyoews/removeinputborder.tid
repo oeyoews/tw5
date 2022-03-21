@@ -1,11 +1,15 @@
-caption: stylesheet
+caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220321034855135
+modified: 20220321041213001
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
 type: text/vnd.tiddlywiki
+
+.tc-page-controls svg.tc-image-options-button {
+    fill: #2aafbf;
+}
 
 .tc-tiddler-preview-preview {
     float: right;

@@ -1,9 +1,9 @@
-caption: copy tiddler title
+caption: Copy Tiddler Title
 created: 20200419143537510
 creator: soren
 description: Copy the name of this tiddler to the clipboard
 due: 20220312120000000
-modified: 20220318142702006
+modified: 20220321041052655
 modifier: @oeyoews
 tags: $:/tags/ViewToolbar
 title: $:/config/oeyoews/copybutton
