@@ -1,17 +1,17 @@
 created: 20220317010654862
 creator: @oeyoews
-difficulty: 2.339346773285302
-due: 20220321034154561
+difficulty: 2.685986524650724
+due: 20220322064430835
 grade: 0
-history: [{"due":"20220319143710576","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143710576"},{"due":"20220320155107022","interval":1,"difficulty":1.898165224654263,"stability":0.07408249324251646,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319155107022"}]
+history: [{"due":"20220319143710576","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143710576"},{"due":"20220320155107022","interval":1,"difficulty":1.898165224654263,"stability":0.07408249324251646,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319155107022"},{"due":"20220321034154561","interval":1,"difficulty":2.339346773285302,"stability":0.05488166082758644,"retrievability":0.24118154863103877,"grade":0,"lapses":2,"reps":1,"review":"20220320034154561"}]
 interval: 1
-lapses: 2
-modified: 20220320034154562
+lapses: 3
+modified: 20220321064430835
 modifier: @oeyoews
 reps: 1
-retrievability: 0.24118154863103877
-review: 20220320034154561
-stability: 0.05488166082758644
+retrievability: 0.14663975136542198
+review: 20220321064430834
+stability: 0.04065733432235013
 tags: EnglishWord ?
 title: conform
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 conform
 英 [kən'fɔːm]  美 [kən'fɔrm]
-vi. 符合；遵照；适应环境
+vi. ''符合''；遵照；适应环境
 vt. 使遵守；使一致；使顺从
 adj. 一致的；顺从的
 CET6 TEM4  ( conforming, conformed, conforms )

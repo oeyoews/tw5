@@ -60,6 +60,7 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover {
   text-decoration: none;
   /** hover动画 */
   transition: background 120ms ease-in 0s;
+  border-radius: 2px;
 }
 a.tc-tiddlylink:hover {
   background-color: <<colour page-background>>;
