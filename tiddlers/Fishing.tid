@@ -3,9 +3,9 @@ color: #b8f316
 created: 20220309112322425
 creator: @oeyoews
 icon: $:/plugins/oflg/fishing/icon
-modified: 20220321064152715
+modified: 20220321155001619
 modifier: @oeyoews
-tags:
+tags: 
 title: Fishing
 type: text/vnd.tiddlywiki
 
@@ -16,3 +16,5 @@ type: text/vnd.tiddlywiki
 " title="img" alt="img" style="zoom: 40%" />
 </div>
 {{subtitlefooter}}
+
+{{$:/plugins/oflg/fishing/fishingfloat}} 
