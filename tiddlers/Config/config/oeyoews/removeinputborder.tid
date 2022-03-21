@@ -1,7 +1,7 @@
 caption: stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220321031908800
+modified: 20220321034855135
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -123,4 +123,8 @@ a.tc-tiddlylink.tc-plugin-info:hover {
 
 a.tc-tiddlylink.tc-plugin-info {
     border-radius: 5px;
+}
+
+button.tc-btn-invisible {
+     border-radius: 5px;
 }
