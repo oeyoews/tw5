@@ -1,17 +1,17 @@
 created: 20220226023825657
 creator: oeyoews
-difficulty: 5.07462271153234
-due: 20220321055029940
-grade: 0
-history: [{"due":"20220311020340032","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310020340032"},{"due":"20220312162748820","interval":1,"difficulty":3.683833622354247,"stability":0.07412477722623134,"retrievability":0.34910423292122506,"grade":0,"lapses":1,"reps":1,"review":"20220311162748820"},{"due":"20220317053445933","interval":1,"difficulty":3.125210917957581,"stability":3.9008720357048023,"retrievability":0.24137729560333396,"grade":1,"lapses":1,"reps":2,"review":"20220313053445933"},{"due":"20220318055018797","interval":4,"difficulty":4.222804485806024,"stability":0.05488315248213783,"retrievability":0.8975935678484428,"grade":0,"lapses":2,"reps":1,"review":"20220317055018797"},{"due":"20220319083845184","interval":1,"difficulty":4.569451888606497,"stability":0.04065770267064033,"retrievability":0.14664740280047256,"grade":0,"lapses":3,"reps":1,"review":"20220318083845184"},{"due":"20220320154210468","interval":1,"difficulty":4.84436670702636,"stability":0.030119694070345152,"retrievability":0.07491481841986308,"grade":0,"lapses":4,"reps":1,"review":"20220319154210468"}]
+difficulty: 4.283521074682885
+due: 20220323060902482
+grade: 1
+history: [{"due":"20220311020340032","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310020340032"},{"due":"20220312162748820","interval":1,"difficulty":3.683833622354247,"stability":0.07412477722623134,"retrievability":0.34910423292122506,"grade":0,"lapses":1,"reps":1,"review":"20220311162748820"},{"due":"20220317053445933","interval":1,"difficulty":3.125210917957581,"stability":3.9008720357048023,"retrievability":0.24137729560333396,"grade":1,"lapses":1,"reps":2,"review":"20220313053445933"},{"due":"20220318055018797","interval":4,"difficulty":4.222804485806024,"stability":0.05488315248213783,"retrievability":0.8975935678484428,"grade":0,"lapses":2,"reps":1,"review":"20220317055018797"},{"due":"20220319083845184","interval":1,"difficulty":4.569451888606497,"stability":0.04065770267064033,"retrievability":0.14664740280047256,"grade":0,"lapses":3,"reps":1,"review":"20220318083845184"},{"due":"20220320154210468","interval":1,"difficulty":4.84436670702636,"stability":0.030119694070345152,"retrievability":0.07491481841986308,"grade":0,"lapses":4,"reps":1,"review":"20220319154210468"},{"due":"20220321055029940","interval":1,"difficulty":5.07462271153234,"stability":0.022313218168670785,"retrievability":0.030256004505979765,"grade":0,"lapses":5,"reps":1,"review":"20220320055029940"}]
 interval: 1
 lapses: 5
-modified: 20220320055029940
+modified: 20220321060902482
 modifier: @oeyoews
-reps: 1
-retrievability: 0.030256004505979765
-review: 20220320055029940
-stability: 0.022313218168670785
+reps: 2
+retrievability: 0.008898363150544453
+review: 20220321060902482
+stability: 1.775003927016127
 tags: EnglishWord ?
 title: blaze
 type: text/vnd.tiddlywiki
