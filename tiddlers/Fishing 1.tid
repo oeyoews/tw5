@@ -1,12 +1,12 @@
 author: oeyoews
 color: #b8f316
-created: 20220309112322425
+created: 20220321161854553
 creator: @oeyoews
 icon: $:/plugins/oflg/fishing/icon
-modified: 20220321161834264
+modified: 20220321161943358
 modifier: @oeyoews
 tags: image
-title: Fishing
+title: Fishing 1
 type: text/vnd.tiddlywiki
 
 <!--
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 <p>
 </p>
 <img src="https://cdn.jsDelivr.net/gh/oeyoews/img/fishing.png
-" title="img" alt="img" style="zoom: 40%" />
+" title="img" alt="img" style="zoom: 70%" />
 </div>
 {{subtitlefooter}}
 

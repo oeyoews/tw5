@@ -1,6 +1,7 @@
+caption: subtitle
 created: 20210611015734693
 creator: @oeyoews
-modified: 20220321063550458
+modified: 20220321160954823
 modifier: @oeyoews
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/subtitle
@@ -11,12 +12,16 @@ type: text/vnd.tiddlywiki
 <$reveal type="nomatch" stateTitle=<<folded-state>> text="hide" tag="div" retain="yes" animate="yes">
 <div class="tc-subtitle">
 
+<$list filter="[all[current]has[created]]">
 <div>
 <i class="fa fa-history"/>&ensp;Created &nbsp;<$view field="created" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss"/>
 </div>
+</$list>
+<$list filter="[all[current]has[modified]]">
 <div>
 <i class="fa fa-clock"/>&ensp;Updated &nbsp;<$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss" />
 </div>
+</$list>
 <$list filter="[all[current]has[lapses]]">
 <div>
 <<.icon $:/plugins/oflg/fishing/icon>> &ensp;Forgeted&nbsp;<$view field="lapses"/> &nbsp; times
