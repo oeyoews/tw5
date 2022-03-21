@@ -1,17 +1,17 @@
 created: 20220227112736272
 creator: oeyoews
-difficulty: 2.3772760368314025
-due: 20220321053144237
+difficulty: 2.4821565290127863
+due: 20220416081943528
 grade: 1
-history: [{"due":"20220311091048561","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310091048561"}]
-interval: 3
+history: [{"due":"20220311091048561","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310091048561"},{"due":"20220321053144237","interval":3,"difficulty":2.3772760368314025,"stability":8.432855558332822,"retrievability":0.042546647398380294,"grade":1,"lapses":0,"reps":2,"review":"20220313053144237"}]
+interval: 8
 lapses: 0
-modified: 20220313053144237
+modified: 20220321081943528
 modifier: @oeyoews
-reps: 2
-retrievability: 0.042546647398380294
-review: 20220313053144237
-stability: 8.432855558332822
+reps: 3
+retrievability: 0.9048804921813834
+review: 20220321081943527
+stability: 25.876563577365072
 tags: EnglishWord ?
 title: rather
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20220320030738258
 creator: @oeyoews
-difficulty: 1.0062688081677507
-due: 20220321081950630
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220330082242215
+grade: 1
+history: [{"due":"20220321081950630","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320081950630"}]
+interval: 1
 lapses: 0
-modified: 20220320081950630
+modified: 20220321082242215
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220320081950630
-stability: 0.10000090599060059
+reps: 2
+retrievability: 0.34868176841798704
+review: 20220321082242214
+stability: 8.830298913844077
 tags: EnglishWord ?
 title: sequence
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 sequence
 英 ['siːkw(ə)ns]  美 ['sikwəns]
-n. [数][计] 序列；顺序；续发事件
+n. [数][计] 序列；''顺序''；续发事件
 vt. 按顺序排好
 CET4 TEM4  ( sequences )
 [[consensus]]
