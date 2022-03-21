@@ -1,0 +1,21 @@
+caption: {{$:/core/images/home-button}} {{$:/language/Buttons/Home/Caption}}
+created: 20220321151808103
+creator: @oeyoews
+description: {{$:/language/Buttons/Home/Hint}}
+modified: 20220321151853070
+modifier: @oeyoews
+tags: $:/tags/PageControls
+title: $:/core/ui/Buttons/home
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+<$button message="tm-home" tooltip={{$:/language/Buttons/Home/Hint}} aria-label={{$:/language/Buttons/Home/Caption}} class=<<tv-config-toolbar-class>>>
+<$list filter="[<tv-config-toolbar-icons>match[yes]]">
+{{$:/images/remix-icon/buildings/home-4-line}}
+</$list>
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text">
+<$text text={{$:/language/Buttons/Home/Caption}}/>
+</span>
+</$list>
+</$button>

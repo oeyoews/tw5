@@ -1,17 +1,17 @@
 created: 20220320090742225
 creator: @oeyoews
-difficulty: 1.0062688081677507
-due: 20220321112936425
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220330145115069
+grade: 2
+history: [{"due":"20220321112936425","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320112936425"}]
+interval: 1
 lapses: 0
-modified: 20220320112936425
+modified: 20220321145115069
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220320112936425
-stability: 0.10000090599060059
+reps: 2
+retrievability: 0.34868176841798704
+review: 20220321145115069
+stability: 8.830298913844077
 tags: EnglishWord ?
 title: retailer
 type: text/vnd.tiddlywiki

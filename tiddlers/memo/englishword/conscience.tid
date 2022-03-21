@@ -1,17 +1,17 @@
 created: 20220306074716962
 creator: oeyoews
-difficulty: 4.745269055619921
-due: 20220321061731172
+difficulty: 4.946974581098391
+due: 20220322145102901
 grade: 0
-history: [{"due":"20220311070531436","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310070531436"},{"due":"20220314043157755","interval":3,"difficulty":3.3772760368314025,"stability":0.07409256085768667,"retrievability":0.042546647398380294,"grade":0,"lapses":1,"reps":1,"review":"20220313043157754"},{"due":"20220315005419596","interval":1,"difficulty":3.8185041977419147,"stability":0.054885141354873004,"retrievability":0.24122816091051208,"grade":0,"lapses":2,"reps":1,"review":"20220314005419596"},{"due":"20220317111304835","interval":2,"difficulty":4.040012650754708,"stability":0.04065843936722075,"retrievability":0.021508453012793312,"grade":0,"lapses":3,"reps":1,"review":"20220316111304835"},{"due":"20220318093257693","interval":1,"difficulty":4.314930986810824,"stability":0.030120512707719985,"retrievability":0.07491833605611539,"grade":0,"lapses":4,"reps":1,"review":"20220317093257693"},{"due":"20220319052022137","interval":1,"difficulty":4.545189867978301,"stability":0.022313420322498584,"retrievability":0.03025888116747745,"grade":0,"lapses":5,"reps":1,"review":"20220318052022136"}]
-interval: 2
-lapses: 6
-modified: 20220321064534418
+history: [{"due":"20220311070531436","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310070531436"},{"due":"20220314043157755","interval":3,"difficulty":3.3772760368314025,"stability":0.07409256085768667,"retrievability":0.042546647398380294,"grade":0,"lapses":1,"reps":1,"review":"20220313043157754"},{"due":"20220315005419596","interval":1,"difficulty":3.8185041977419147,"stability":0.054885141354873004,"retrievability":0.24122816091051208,"grade":0,"lapses":2,"reps":1,"review":"20220314005419596"},{"due":"20220317111304835","interval":2,"difficulty":4.040012650754708,"stability":0.04065843936722075,"retrievability":0.021508453012793312,"grade":0,"lapses":3,"reps":1,"review":"20220316111304835"},{"due":"20220318093257693","interval":1,"difficulty":4.314930986810824,"stability":0.030120512707719985,"retrievability":0.07491833605611539,"grade":0,"lapses":4,"reps":1,"review":"20220317093257693"},{"due":"20220319052022137","interval":1,"difficulty":4.545189867978301,"stability":0.022313420322498584,"retrievability":0.03025888116747745,"grade":0,"lapses":5,"reps":1,"review":"20220318052022136"},{"due":"20220321061731172","interval":2,"difficulty":4.745269055619921,"stability":0.016530038581397673,"retrievability":0.00007918764161895698,"grade":0,"lapses":6,"reps":1,"review":"20220320061731172"}]
+interval: 1
+lapses: 7
+modified: 20220321145102902
 modifier: @oeyoews
 reps: 1
-retrievability: 0.00007918764161895698
-review: 20220320061731172
-stability: 0.016530038581397673
+retrievability: 0.0017055254784696793
+review: 20220321145102901
+stability: 0.012245753769671169
 tags: EnglishWord ?
 title: conscience
 type: text/vnd.tiddlywiki
