@@ -4,13 +4,14 @@ created: 20220321161022091
 creator: @oeyoews
 description: <$text text=<<lan "$:/plugins/oflg/fishing/languages" "fishingtip">>/>
 icon: $:/plugins/oflg/fishing/icon
-modified: 20220322043517323
+modified: 20220322053744371
 modifier: @oeyoews
 tags: 
 title: Fish
 type: text/vnd.tiddlywiki
 
 \whitespace trim
+<div style="text-align:center">
 <$button
     popup=<<qualify "$:/state/popup/fishingdeck">>
     tooltip=<<lan "$:/plugins/oflg/fishing/languages" "fishingtip">>
@@ -39,3 +40,4 @@ type: text/vnd.tiddlywiki
         {{$:/plugins/oflg/fishing/fishingrod}}
     </div>
 </$reveal>
+</div>
