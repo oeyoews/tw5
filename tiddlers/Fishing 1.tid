@@ -3,7 +3,7 @@ color: #b8f316
 created: 20220321161854553
 creator: @oeyoews
 icon: $:/plugins/oflg/fishing/icon
-modified: 20220321161943358
+modified: 20220322043932805
 modifier: @oeyoews
 tags: image
 title: Fishing 1
@@ -18,9 +18,10 @@ type: text/vnd.tiddlywiki
 
 <div style="text-align: center">
 <p>
+Clike me
 </p>
 <img src="https://cdn.jsDelivr.net/gh/oeyoews/img/fishing.png
-" title="img" alt="img" style="zoom: 70%" />
+" title="Fish" alt="Fishing" style="zoom: 100%" />
 </div>
 {{subtitlefooter}}
 

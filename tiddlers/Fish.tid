@@ -4,7 +4,7 @@ created: 20220321161022091
 creator: @oeyoews
 description: <$text text=<<lan "$:/plugins/oflg/fishing/languages" "fishingtip">>/>
 icon: $:/plugins/oflg/fishing/icon
-modified: 20220321162147897
+modified: 20220322043517323
 modifier: @oeyoews
 tags: 
 title: Fish
@@ -19,7 +19,9 @@ type: text/vnd.tiddlywiki
     selectedClass="tc-selected"
 >
     <$list filter="[<tv-config-toolbar-icons>match[yes]]">
-        {{FishButtonIcon}}
+			<div style="text-aligh:center">
+        {{Fishing 1}}
+			</div>
     </$list>
     <$list filter="[<tv-config-toolbar-text>match[yes]]">
         <span class="tc-btn-text">
