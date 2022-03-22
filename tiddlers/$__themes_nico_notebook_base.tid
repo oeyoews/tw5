@@ -666,7 +666,7 @@ html, body {
 
 pre, code {
   font-family: {{$:/themes/nico/notebook/settings/codefontfamily}};
-  padding: 4px 2px 0px 2px;
+  padding: 2px 2px 0px 2px;
 }
 
 

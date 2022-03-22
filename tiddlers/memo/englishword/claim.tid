@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20220303063652291","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302063652291"}]
 interval: 3
 lapses: 0
-modified: 20220311044418197
+modified: 20220322134136636
 modifier: @oeyoews
 reps: 2
 retrievability: 0.05273732312238567
@@ -24,5 +24,6 @@ vi. 提出要求
 vt. 要求；声称；需要；认领
 n. 要求；声称；索赔；断言；值得
 CET4 TEM4  ( claiming, claimed, claims )
+[exclaim]
 """
 <<<
