@@ -1,6 +1,6 @@
 created: 20200603190000307
 creator: @oeyoews
-modified: 20220322170238754
+modified: 20220322234816636
 modifier: @oeyoews
 tags: $:/tags/CommandPaletteTheme $:/tags/Stylesheet
 title: $:/plugins/souk21/commandpalette/Compact.css
@@ -24,7 +24,7 @@ type: text/vnd.tiddlywiki
     font-size: 21px;
     border-radius: var(--palette-radius);
     box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 14px;
-    border: 2px solid cyan;
+    border: 2px solid #002b36;
 }
 
 @media (max-width: 540px) {
