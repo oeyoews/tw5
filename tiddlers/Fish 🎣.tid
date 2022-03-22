@@ -4,10 +4,10 @@ created: 20220321161022091
 creator: @oeyoews
 description: <$text text=<<lan "$:/plugins/oflg/fishing/languages" "fishingtip">>/>
 icon: $:/plugins/oflg/fishing/icon
-modified: 20220322053744371
+modified: 20220322112923112
 modifier: @oeyoews
 tags: 
-title: Fish
+title: Fish 🎣
 type: text/vnd.tiddlywiki
 
 \whitespace trim

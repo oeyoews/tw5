@@ -2,10 +2,10 @@ caption: Icon
 created: 20220212071043538
 creator: oeyoews
 list-after: $:/core/ui/SideBar/Open
-modified: 20220312045918522
+modified: 20220322112417249
 modifier: @oeyoews
 tags: examples
-title: sysIconGallery
+title: TW Image Gallery
 type: text/vnd.tiddlywiki
 
 \define copyActions() <$action-sendmessage $message="tm-copy-to-clipboard" $param=<<imageTitle>>/>
