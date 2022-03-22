@@ -1,7 +1,7 @@
-caption: {{$:/images/svg-icon/mootools_badge}} {{$:/language/SideBar/Tools/Caption}}
+caption: {{$:/core/images/plugin-generic-theme}} {{$:/language/SideBar/Tools/Caption}}
 created: 20220216223845613
 creator: oeyoews
-modified: 20220321154614483
+modified: 20220322052741132
 modifier: @oeyoews
 tags: examples $:/tags/SideBar
 title: $:/core/ui/SideBar/Tools

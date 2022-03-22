@@ -1,6 +1,6 @@
 created: 20220218072617844
 creator: oeyoews
-modified: 20220313054628130
+modified: 20220322052351778
 modifier: @oeyoews
 tags: config
 title: subtitle
@@ -11,12 +11,12 @@ type: text/vnd.tiddlywiki
 
 <!--
 
-<<.icon "$:/images/boxicons/logos/bxl-gitlab">>  [[GitlabRepo |https://gitlab.com/oeyoews/tw5]]
+<<.icon $:/images/fa5/brands/airbnb>> "$:/images/boxicons/logos/bxl-gitlab">>  [[GitlabRepo |https://gitlab.com/oeyoews/tw5]]
 <<dbadge gitlab "🌐">>
 -->
 
 <!--
 <<dbadge TW5 5.2.1 success>>
 -->
-
-<i class="fa fa-database"/> <$count filter="[has[text]]-[is[system]]-[type[image/jpeg]]-[type[image/png]]"/> tiddlers !
+ [[🎋|https://gitlab.com/oeyoews/tw5/]]
+<$count filter="[has[text]]-[is[system]]-[type[image/jpeg]]-[type[image/png]]-[has[draft.of]]"/> tiddlers ! 
