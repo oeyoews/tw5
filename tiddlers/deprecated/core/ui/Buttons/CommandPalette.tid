@@ -2,9 +2,9 @@ caption: {{$:/plugins/linonetwo/commandpalette/command-palette.svg}} Command Pal
 created: 20220314124911092
 creator: @oeyoews
 description: Open Command Palette
-modified: 20220314142737524
+modified: 20220322163901243
 modifier: @oeyoews
-tags: deprecated
+tags: $:/tags/PageControls
 title: $:/core/ui/Buttons/CommandPalette
 type: text/vnd.tiddlywiki
 
