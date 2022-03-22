@@ -130,6 +130,8 @@
 - [x] __todo__: gitlab runner for tw5
 - [x] fishing: fishing multi group how to discard
 - [ ] search local installed plugins
+- [ ] refactor: all stylesheet
+- [ ] bug: alt d wrong
 
 ## Broken
 
