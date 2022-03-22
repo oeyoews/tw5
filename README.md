@@ -132,6 +132,7 @@
 - [ ] search local installed plugins
 - [ ] refactor: all stylesheet
 - [ ] bug: alt d wrong
+- [ ] feat: make heapmap like github's
 
 ## Broken
 
