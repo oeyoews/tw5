@@ -1,6 +1,6 @@
 created: 20200603190000307
 creator: @oeyoews
-modified: 20220322165039486
+modified: 20220322165336664
 modifier: @oeyoews
 tags: $:/tags/CommandPaletteTheme $:/tags/Stylesheet
 title: $:/plugins/souk21/commandpalette/Compact.css
@@ -14,11 +14,11 @@ type: text/vnd.tiddlywiki
 .commandpalette {
     position: fixed;
     background: <<colour background>>;
-    z-index: 9999999;
+    z-index: 9999;
     left: 50%;
     top: 10%;
     transform: translate(-50%, 0%);
-    width: 400px;
+    width: 600px;
     display: none;
     flex-direction: column;
     font-size: 21px;
@@ -26,6 +26,29 @@ type: text/vnd.tiddlywiki
     box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 14px;
     border: 2px solid <<colour page-background>>;
 }
+
+@media (max-width: 540px) {
+  .commandpalette {
+    width: calc(100vw - 40px);
+  }
+}
+.commandpalette-masklayer {
+    position: fixed;
+    z-index: 9998;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 100vh;
+    background: <<colour background>>;
+    opacity: 0;
+    filter: contrast(130%);
+  min-width: 200px !important;
+  transition: all {{$:/config/AnimationDuration}}ms;
+  pointer-events: none;
+}
+
 .inputhintwrapper {
     display: flex;
     align-items: center;
