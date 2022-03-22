@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220314113100655","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113100655"},{"due":"20220320053448458","interval":1,"difficulty":1.8068285839807998,"stability":5.870170438272262,"retrievability":0.34870506584485117,"grade":1,"lapses":0,"reps":2,"review":"20220314053448457"},{"due":"20220321015208960","interval":6,"difficulty":2.904733809040161,"stability":0.07408249324251646,"retrievability":0.8979052250593609,"grade":0,"lapses":1,"reps":1,"review":"20220320015208959"},{"due":"20220322082322257","interval":1,"difficulty":3.3459153576712,"stability":0.05488166082758644,"retrievability":0.24118154863103877,"grade":0,"lapses":2,"reps":1,"review":"20220321082322256"}]
 interval: 1
 lapses: 2
-modified: 20220322062042610
+modified: 20220322124736424
 modifier: @oeyoews
 reps: 2
 retrievability: 0.14663975136542198
@@ -22,5 +22,6 @@ alleviated
 英/美 [ə'li:vieit]
 v. ''减轻''（alleviate的过去分词）；使…缓和
 CET6 TEM8  ( alleviating, alleviated, alleviates )
+[ease]
 """
 <<<
