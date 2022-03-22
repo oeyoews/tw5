@@ -1,10 +1,10 @@
 caption: {{$:/plugins/oflg/fishing/icon}} <$text text=<<lan "$:/plugins/oflg/fishing/languages" "fishing">>/>
-color: #b8f316
+color: #2aa198
 created: 20220321161022091
 creator: @oeyoews
 description: <$text text=<<lan "$:/plugins/oflg/fishing/languages" "fishingtip">>/>
 icon: $:/plugins/oflg/fishing/icon
-modified: 20220322114952409
+modified: 20220322115556234
 modifier: @oeyoews
 tags: 
 title: Fish
