@@ -1,17 +1,17 @@
 created: 20220320061647796
 creator: @oeyoews
-difficulty: 1.0062688081677507
-due: 20220321112816206
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220404021336724
+grade: 1
+history: [{"due":"20220321112816206","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320112816206"}]
+interval: 2
 lapses: 0
-modified: 20220320112816206
+modified: 20220322021336724
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220320112816206
-stability: 0.10000090599060059
+reps: 2
+retrievability: 0.12157897562709472
+review: 20220322021336723
+stability: 13.48067872046433
 tags: EnglishWord ?
 title: conscient
 type: text/vnd.tiddlywiki
@@ -21,5 +21,6 @@ type: text/vnd.tiddlywiki
 conscient
 adj. （哲学）有意识的，意识到的
 n. （哲学）有意识的存在
+[[consciousness]]
 """
 <<<

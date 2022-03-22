@@ -120,15 +120,16 @@
     1. - [ ] bug: draggin file no appear highlight because this projectify's two macro
 - [ ] __fix__: Projectify schedule button disappear in mobile mode(tools)
 - [ ] __try__: try publish npm package use devops for relate tw5 project
-- [ ] __bug__: Fishing calendar cache disappear in sometimes
+- [x] __bug__: Fishing calendar cache disappear in sometimes
 - [ ] __todo__: Using shell to replace makefile, todo test(to manage multi repository push automaticaly)
-- [ ] __template__: make a tw template
+- [x] __template__: make a tw template
 - [x] __bug__: fix this scrool homepage bug
 ~~- [x] bug: storyview zoomin just show one tiddler(it a feature)~~
-- [ ] bug: fix renoavte-bot release step error
+- [x] bug: fix renoavte-bot release step error
 - [ ] bug: tiny notebook theme style(minimum it)
 - [x] __todo__: gitlab runner for tw5
-- [ ] fishing: fishing multi group how to discard
+- [x] fishing: fishing multi group how to discard
+- [ ] search local installed plugins
 
 ## Broken
 
