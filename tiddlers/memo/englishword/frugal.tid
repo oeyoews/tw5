@@ -1,17 +1,17 @@
 created: 20220314064601207
 creator: @oeyoews
-difficulty: 2.3393498808844773
-due: 20220321062430132
+difficulty: 2.56085309756499
+due: 20220323054247793
 grade: 0
-history: [{"due":"20220319143749274","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143749274"},{"due":"20220320014444978","interval":1,"difficulty":1.898165224654263,"stability":0.07408316441686115,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319014444978"}]
-interval: 1
-lapses: 2
-modified: 20220320062430132
+history: [{"due":"20220319143749274","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143749274"},{"due":"20220320014444978","interval":1,"difficulty":1.898165224654263,"stability":0.07408316441686115,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319014444978"},{"due":"20220321062430132","interval":1,"difficulty":2.3393498808844773,"stability":0.05488166082758644,"retrievability":0.24118465623021404,"grade":0,"lapses":2,"reps":1,"review":"20220320062430132"}]
+interval: 2
+lapses: 3
+modified: 20220322054247794
 modifier: @oeyoews
 reps: 1
-retrievability: 0.24118465623021404
-review: 20220320062430132
-stability: 0.05488166082758644
+retrievability: 0.02150321668051278
+review: 20220322054247793
+stability: 0.04065715014820503
 tags: EnglishWord ?
 title: frugal
 type: text/vnd.tiddlywiki

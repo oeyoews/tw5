@@ -3,7 +3,7 @@ color: #b8f316
 created: 20220321161854553
 creator: @oeyoews
 icon: $:/plugins/oflg/fishing/icon
-modified: 20220322053807092
+modified: 20220322060509556
 modifier: @oeyoews
 tags: image
 title: Fishing 1
@@ -23,7 +23,7 @@ Click me
 </div>
 -->
 <img src="https://cdn.jsDelivr.net/gh/oeyoews/img/fishing.png
-" title="Fish" alt="Fishing" style="zoom: 30%" />
+" title="Click me to fish" alt="Fishing" style="zoom: 30%" />
 </div>
 {{subtitlefooter}}
 

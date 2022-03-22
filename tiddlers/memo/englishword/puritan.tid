@@ -1,17 +1,17 @@
 created: 20220224025818738
 creator: oeyoews
-difficulty: 1.5906261469792298
-due: 20220321034804022
-grade: 1
-history: [{"due":"20220304080000662","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303080000662"},{"due":"20220307053013094","interval":3,"difficulty":1.2089083031776646,"stability":0.07476910459712456,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306053013094"},{"due":"20220308041621143","interval":1,"difficulty":1.6532603992758468,"stability":0.055135739319504856,"retrievability":0.2443520960981822,"grade":0,"lapses":2,"reps":1,"review":"20220307041621143"},{"due":"20220309150819962","interval":1,"difficulty":2.001203195985304,"stability":0.040704114555206596,"retrievability":0.14794279670945698,"grade":0,"lapses":3,"reps":1,"review":"20220308150819962"},{"due":"20220315083121540","interval":1,"difficulty":1.2763396989702482,"stability":5.98313753421161,"retrievability":0.07513650298494459,"grade":1,"lapses":3,"reps":2,"review":"20220309083121540"},{"due":"20220317111704081","interval":7,"difficulty":2.3603672658117523,"stability":0.030120512707719985,"retrievability":0.8840275668415039,"grade":0,"lapses":4,"reps":1,"review":"20220316111704081"}]
-interval: 1
+difficulty: 1
+due: 20220419063224272
+grade: 2
+history: [{"due":"20220304080000662","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303080000662"},{"due":"20220307053013094","interval":3,"difficulty":1.2089083031776646,"stability":0.07476910459712456,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306053013094"},{"due":"20220308041621143","interval":1,"difficulty":1.6532603992758468,"stability":0.055135739319504856,"retrievability":0.2443520960981822,"grade":0,"lapses":2,"reps":1,"review":"20220307041621143"},{"due":"20220309150819962","interval":1,"difficulty":2.001203195985304,"stability":0.040704114555206596,"retrievability":0.14794279670945698,"grade":0,"lapses":3,"reps":1,"review":"20220308150819962"},{"due":"20220315083121540","interval":1,"difficulty":1.2763396989702482,"stability":5.98313753421161,"retrievability":0.07513650298494459,"grade":1,"lapses":3,"reps":2,"review":"20220309083121540"},{"due":"20220317111704081","interval":7,"difficulty":2.3603672658117523,"stability":0.030120512707719985,"retrievability":0.8840275668415039,"grade":0,"lapses":4,"reps":1,"review":"20220316111704081"},{"due":"20220321034804022","interval":1,"difficulty":1.5906261469792298,"stability":4.337980121934136,"retrievability":0.03025888116747745,"grade":1,"lapses":4,"reps":2,"review":"20220317034804022"}]
+interval: 5
 lapses: 4
-modified: 20220317034804023
+modified: 20220322063224272
 modifier: @oeyoews
-reps: 2
-retrievability: 0.03025888116747745
-review: 20220317034804022
-stability: 4.337980121934136
+reps: 3
+retrievability: 0.8856445431381172
+review: 20220322063224272
+stability: 27.85091143629136
 tags: EnglishWord ?
 title: puritan
 type: text/vnd.tiddlywiki

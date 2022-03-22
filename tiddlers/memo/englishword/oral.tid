@@ -1,18 +1,9 @@
 created: 20220227034926818
 creator: oeyoews
-difficulty: 1.4566031548765388
-due: 20220322054501787
-grade: 2
 history: [{"due":"20220311020635833","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310020635833"}]
-interval: 2
-lapses: 0
-modified: 20220312054501788
+modified: 20220322062219634
 modifier: @oeyoews
-reps: 2
-retrievability: 0.12187376544351697
-review: 20220312054501786
-stability: 10.387850186212134
-tags: EnglishWord ?
+tags: EnglishWord !
 title: oral
 type: text/vnd.tiddlywiki
 

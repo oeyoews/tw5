@@ -1,17 +1,17 @@
 created: 20220320090200674
 creator: @oeyoews
-difficulty: 1.5549505765857377
-due: 20220322041538346
+difficulty: 1.9961321252167763
+due: 20220323062906304
 grade: 0
-history: [{"due":"20220321113114206","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320113114206"}]
+history: [{"due":"20220321113114206","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320113114206"},{"due":"20220322041538346","interval":1,"difficulty":1.5549505765857377,"stability":0.07408249324251646,"retrievability":0.34868176841798704,"grade":0,"lapses":1,"reps":1,"review":"20220321041538345"}]
 interval: 1
-lapses: 1
-modified: 20220321041538346
+lapses: 2
+modified: 20220322062906304
 modifier: @oeyoews
 reps: 1
-retrievability: 0.34868176841798704
-review: 20220321041538345
-stability: 0.07408249324251646
+retrievability: 0.24118154863103877
+review: 20220322062906303
+stability: 0.05488141221849455
 tags: EnglishWord ?
 title: prosperity
 type: text/vnd.tiddlywiki

@@ -1,18 +1,18 @@
 created: 20220228040526118
 creator: oeyoews
-difficulty: 6.239915476553161
-due: 20220322055256807
-grade: 0
-history: [{"due":"20220311091833918","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310091833917"},{"due":"20220314043144708","interval":3,"difficulty":3.3772760368314025,"stability":0.07409256085768667,"retrievability":0.042546647398380294,"grade":0,"lapses":1,"reps":1,"review":"20220313043144708"},{"due":"20220314160426782","interval":0,"difficulty":4.577276036831402,"stability":0.054885141354873004,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220313160426781"},{"due":"20220316011630852","interval":1,"difficulty":4.923933641519306,"stability":0.04065991276038159,"retrievability":0.1466576046879033,"grade":0,"lapses":3,"reps":1,"review":"20220315011630851"},{"due":"20220317070742785","interval":1,"difficulty":5.198859012960996,"stability":0.030120512707719985,"retrievability":0.07492537144169052,"grade":0,"lapses":4,"reps":1,"review":"20220316070742785"},{"due":"20220318055256936","interval":1,"difficulty":5.429117894128474,"stability":0.022313824630154192,"retrievability":0.03025888116747745,"grade":0,"lapses":5,"reps":1,"review":"20220317055256935"},{"due":"20220319083942936","interval":1,"difficulty":5.638017399323127,"stability":0.016530188340636687,"retrievability":0.008899505194652749,"grade":0,"lapses":6,"reps":1,"review":"20220318083942936"},{"due":"20220320123415438","interval":1,"difficulty":5.8397230232912465,"stability":0.012245864714044147,"retrievability":0.0017056239681196568,"grade":0,"lapses":7,"reps":1,"review":"20220319123415438"},{"due":"20220321054419483","interval":1,"difficulty":6.039906437627695,"stability":0.009071877518554237,"retrievability":0.00018341433644890315,"grade":0,"lapses":8,"reps":1,"review":"20220320054419483"}]
+difficulty: 5.4399156319599
+due: 20220323062913360
+grade: 1
+history: [{"due":"20220311091833918","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310091833917"},{"due":"20220314043144708","interval":3,"difficulty":3.3772760368314025,"stability":0.07409256085768667,"retrievability":0.042546647398380294,"grade":0,"lapses":1,"reps":1,"review":"20220313043144708"},{"due":"20220314160426782","interval":0,"difficulty":4.577276036831402,"stability":0.054885141354873004,"retrievability":1,"grade":0,"lapses":2,"reps":1,"review":"20220313160426781"},{"due":"20220316011630852","interval":1,"difficulty":4.923933641519306,"stability":0.04065991276038159,"retrievability":0.1466576046879033,"grade":0,"lapses":3,"reps":1,"review":"20220315011630851"},{"due":"20220317070742785","interval":1,"difficulty":5.198859012960996,"stability":0.030120512707719985,"retrievability":0.07492537144169052,"grade":0,"lapses":4,"reps":1,"review":"20220316070742785"},{"due":"20220318055256936","interval":1,"difficulty":5.429117894128474,"stability":0.022313824630154192,"retrievability":0.03025888116747745,"grade":0,"lapses":5,"reps":1,"review":"20220317055256935"},{"due":"20220319083942936","interval":1,"difficulty":5.638017399323127,"stability":0.016530188340636687,"retrievability":0.008899505194652749,"grade":0,"lapses":6,"reps":1,"review":"20220318083942936"},{"due":"20220320123415438","interval":1,"difficulty":5.8397230232912465,"stability":0.012245864714044147,"retrievability":0.0017056239681196568,"grade":0,"lapses":7,"reps":1,"review":"20220319123415438"},{"due":"20220321054419483","interval":1,"difficulty":6.039906437627695,"stability":0.009071877518554237,"retrievability":0.00018341433644890315,"grade":0,"lapses":8,"reps":1,"review":"20220320054419483"},{"due":"20220322055256807","interval":1,"difficulty":6.239915476553161,"stability":0.006720612161537828,"retrievability":0.00000903892546571813,"grade":0,"lapses":9,"reps":1,"review":"20220321055256807"}]
 interval: 1
 lapses: 9
-modified: 20220321055256807
+modified: 20220322062913360
 modifier: @oeyoews
 page-cover: https://cdn.jsdelivr.net/gh/oeyoews/img/cat-scape.jpg
-reps: 1
-retrievability: 0.00000903892546571813
-review: 20220321055256807
-stability: 0.006720612161537828
+reps: 2
+retrievability: 1.554067381852902e-7
+review: 20220322062913360
+stability: 0.5825026238426451
 tags: EnglishWord ?
 title: propagation
 type: text/vnd.tiddlywiki
