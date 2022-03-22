@@ -1,6 +1,6 @@
 created: 20220218072617844
 creator: oeyoews
-modified: 20220322052351778
+modified: 20220322084006390
 modifier: @oeyoews
 tags: config
 title: subtitle
@@ -20,3 +20,4 @@ type: text/vnd.tiddlywiki
 -->
  [[🎋|https://gitlab.com/oeyoews/tw5/]]
 <$count filter="[has[text]]-[is[system]]-[type[image/jpeg]]-[type[image/png]]-[has[draft.of]]"/> tiddlers ! 
+🐟
