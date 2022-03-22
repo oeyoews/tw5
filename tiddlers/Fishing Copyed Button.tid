@@ -1,0 +1,9 @@
+created: 20220322044630843
+creator: @oeyoews
+modified: 20220322044653454
+modifier: @oeyoews
+tags: demo
+title: Fishing Copyed Button
+type: text/vnd.tiddlywiki
+
+{{$:/plugins/oflg/fishing/fishingfloat}}
