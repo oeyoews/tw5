@@ -1,10 +1,10 @@
 _canonical_uri: https://cdn.jsdelivr.net/gh/oeyoews/img/letter-o.png
 created: 20220301160834261
 creator: oeyoews
-modified: 20220301160925622
-modifier: oeyoews
+modified: 20220322113210050
+modifier: @oeyoews
 tags: img
-title: $:/favicon.ico
+title: $:/favicon.ico_bk
 type: text/vnd.tiddlywiki
 
 <<lightbox "https://cdn.jsdelivr.net/gh/oeyoews/img/letter-o.png" "Hello" >>

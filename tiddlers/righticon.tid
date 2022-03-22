@@ -1,9 +1,9 @@
 created: 20220216174120778
 creator: oeyoews
-modified: 20220217114047169
-modifier: oeyoews
+modified: 20220322113210059
+modifier: @oeyoews
 tags: examples
 title: righticon
 type: text/vnd.tiddlywiki
 
-<span style="float:right;width:32px;">{{$:/favicon.ico}}</span>
+<span style="float:right;width:32px;">{{$:/favicon.ico_bk}}</span>
