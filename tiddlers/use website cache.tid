@@ -1,9 +1,0 @@
-created: 20220228013839294
-creator: oeyoews
-kanban-history: [[20220228093839293,column: TODO1,created]] [[20220302104406962,column: Done,moved]]
-modified: 20220302024406963
-modifier: oeyoews
-title: use website cache
-type: text/vnd.tiddlywiki
-
-learn workbox to precache tw5 site
