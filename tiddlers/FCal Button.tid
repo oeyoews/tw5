@@ -1,0 +1,20 @@
+created: 20220323160750335
+creator: @oeyoews
+description: Fcalendar
+modified: 20220323161112304
+modifier: @oeyoews
+tags: $:/tags/PageControls
+title: FCal Button
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+<$button to="FCalendar" tooltip={{$:/language/Buttons/Home/Hint}} aria-label={{$:/language/Buttons/Home/Caption}} class=<<tv-config-toolbar-class>>>
+<$list filter="[<tv-config-toolbar-icons>match[yes]]">
+{{$:/plugins/nico/projectify/images/calendar}}
+</$list>
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text">
+<$text text="FCalender"/>
+</span>
+</$list>
+</$button>
