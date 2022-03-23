@@ -1,6 +1,6 @@
 created: 20220323110248042
 creator: @oeyoews
-modified: 20220323121857782
+modified: 20220323124234657
 modifier: @oeyoews
 tags: temp
 title: Mathematical Modeling/01/0323
@@ -14,7 +14,13 @@ type: text/vnd.tiddlywiki
 
 * 数据标准化
 
+!! 逻辑回归
+
 !! 分类
 
 > 了解题目背景知识
+
+!!! 相关视频
+
+* [[video|https://space.bilibili.com/512662380?from=search&seid=3970623696399012867&spm_id_from=333.337.0.0]]
 
