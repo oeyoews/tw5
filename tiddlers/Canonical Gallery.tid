@@ -1,7 +1,9 @@
 created: 20211218191315313
-modified: 20211218191942887
+creator: @oeyoews
+modified: 20220323071419217
+modifier: @oeyoews
 tags: 
-title: tid02/carousel
+title: Canonical Gallery
 type: text/vnd.tiddlywiki
 
 \define stateTid() xx$:/temp/mystate
@@ -46,4 +48,4 @@ type: text/vnd.tiddlywiki
 </$vars>
 \end
 
-<<imageGallery "[tag[480x320]]">>
+<<imageGallery "[has:field[_canonical_uri]]">>

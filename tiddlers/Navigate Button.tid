@@ -1,6 +1,6 @@
 created: 20220307153653896
 creator: @oeyoews
-modified: 20220323065546832
+modified: 20220323071642459
 modifier: @oeyoews
 tags: demo
 title: Navigate Button
@@ -8,3 +8,4 @@ type: text/vnd.tiddlywiki
 
 <$link overrideClass="btn btn-warning" to="Inbox">Inbox</$link> 
 <$link overrideClass="btn btn-success" to="FCalendar">FCalendar</$link>
+<$link overrideClass="btn btn-secondary" to="Images Gallery">IGallery</$link>
