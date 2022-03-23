@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20220317113022366","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316113022366"},{"due":"20220318054432273","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220317054432272"}]
 interval: 1
 lapses: 1
-modified: 20220318070011782
+modified: 20220323081251007
 modifier: @oeyoews
 reps: 2
 retrievability: 0.24119087137976164
@@ -22,6 +22,7 @@ investigate
 英 [ɪn'vestɪgeɪt]  美 [ɪn'vɛstɪɡet]
 v. 调查；研究
 CET4 TEM4  ( investigating, investigated, investigates )
+[survey]
 [[investigation]]
 """
 <<<

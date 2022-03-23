@@ -131,7 +131,7 @@
 - [x] fishing: fishing multi group how to discard
 - [ ] search local installed plugins
 - [ ] refactor: all stylesheet
-- [ ] bug: alt d wrong
+- [x] bug: alt d wrong
 - [ ] feat: make heapmap like github's
 
 ## Broken

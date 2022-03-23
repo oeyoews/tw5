@@ -1,0 +1,9 @@
+created: 20220323113516803
+creator: @oeyoews
+modified: 20220323113657366
+modifier: @oeyoews
+tags: bug TiddlyWiki5
+title: Fix Keybind Conflict
+type: text/vnd.tiddlywiki
+
+* surfingkey is confilict for tiddlywiki, `alt d` is keybings

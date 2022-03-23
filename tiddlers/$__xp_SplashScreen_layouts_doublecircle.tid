@@ -1,6 +1,7 @@
+caption: StartUp
 created: 20220308063816387
 creator: @oeyoews
-modified: 20220308063817507
+modified: 20220323112247253
 modifier: @oeyoews
 source: https://www.jb51.net/css/546509.html
 title: $:/xp/SplashScreen/layouts/doublecircle
@@ -108,7 +109,6 @@ html body.tc-body {
 <div class="tc-splash-subtitle"> {{$:/SiteSubtitle}} </div>
 
     <div id="preloader-doublecircle">
-        <span></span>
         <span></span>
     </div>
 
