@@ -1,6 +1,6 @@
 created: 20200603190000307
 creator: @oeyoews
-modified: 20220323003909276
+modified: 20220323023655219
 modifier: @oeyoews
 tags: $:/tags/CommandPaletteTheme $:/tags/Stylesheet
 title: $:/plugins/souk21/commandpalette/Compact.css
@@ -14,7 +14,7 @@ type: text/vnd.tiddlywiki
 .commandpalette {
     position: fixed;
     background: <<colour background>>;
-    z-index: 9999;
+    z-index: 999;
     left: 50%;
     top: 10%;
     transform: translate(-50%, 0%);
@@ -25,6 +25,7 @@ type: text/vnd.tiddlywiki
     border-radius: var(--palette-radius);
     box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 14px;
     border: 2px solid #002b36;
+		opcity: 0.6;
 }
 
 @media (max-width: 540px) {
@@ -42,11 +43,13 @@ type: text/vnd.tiddlywiki
     width: 100vw;
     height: 100vh;
     background: <<colour background>>;
-    opacity: 0;
+    opacity: 0.1;
     filter: contrast(130%);
   min-width: 200px !important;
   transition: all {{$:/config/AnimationDuration}}ms;
   pointer-events: none;
+	backdrop-filter: blur(100px);
+	
 }
 
 .inputhintwrapper {
