@@ -1,17 +1,17 @@
 created: 20220312152430621
 creator: @oeyoews
-difficulty: 2.0650076166274087
-due: 20220323065419042
-grade: 1
-history: [{"due":"20220314113053905","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113053905"},{"due":"20220315053715835","interval":1,"difficulty":2.8068285839808,"stability":0.07408719146292923,"retrievability":0.34870506584485117,"grade":0,"lapses":1,"reps":1,"review":"20220314053715835"}]
-interval: 2
+difficulty: 1.1666029002022398
+due: 20220426063847286
+grade: 2
+history: [{"due":"20220314113053905","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113053905"},{"due":"20220315053715835","interval":1,"difficulty":2.8068285839808,"stability":0.07408719146292923,"retrievability":0.34870506584485117,"grade":0,"lapses":1,"reps":1,"review":"20220314053715835"},{"due":"20220323065419042","interval":2,"difficulty":2.0650076166274087,"stability":7.119672088653751,"retrievability":0.05817903264660851,"grade":1,"lapses":1,"reps":2,"review":"20220316065419042"}]
+interval: 7
 lapses: 1
-modified: 20220316065419043
+modified: 20220323063847286
 modifier: @oeyoews
-reps: 2
-retrievability: 0.05817903264660851
-review: 20220316065419042
-stability: 7.119672088653751
+reps: 3
+retrievability: 0.9015952835748309
+review: 20220323063847285
+stability: 33.901027242763156
 tags: EnglishWord ?
 title: democratic
 type: text/vnd.tiddlywiki

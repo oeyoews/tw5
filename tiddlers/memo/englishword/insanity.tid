@@ -1,17 +1,17 @@
 created: 20220314002935255
 creator: @oeyoews
-difficulty: 3.8142598329011745
-due: 20220323062457221
+difficulty: 4.044515357974959
+due: 20220324062345844
 grade: 0
-history: [{"due":"20220319143621813","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143621813"},{"due":"20220320154202615","interval":1,"difficulty":1.898165224654263,"stability":0.07408249324251646,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319154202615"},{"due":"20220321062215397","interval":1,"difficulty":2.339346773285302,"stability":0.05488166082758644,"retrievability":0.24118154863103877,"grade":0,"lapses":2,"reps":1,"review":"20220320062215396"},{"due":"20220321160405504","interval":0,"difficulty":3.539346773285302,"stability":0.04065733432235013,"retrievability":1,"grade":0,"lapses":3,"reps":1,"review":"20220320160405504"}]
+history: [{"due":"20220319143621813","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143621813"},{"due":"20220320154202615","interval":1,"difficulty":1.898165224654263,"stability":0.07408249324251646,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319154202615"},{"due":"20220321062215397","interval":1,"difficulty":2.339346773285302,"stability":0.05488166082758644,"retrievability":0.24118154863103877,"grade":0,"lapses":2,"reps":1,"review":"20220320062215396"},{"due":"20220321160405504","interval":0,"difficulty":3.539346773285302,"stability":0.04065733432235013,"retrievability":1,"grade":0,"lapses":3,"reps":1,"review":"20220320160405504"},{"due":"20220323062457221","interval":1,"difficulty":3.8142598329011745,"stability":0.030119557630782685,"retrievability":0.0749130596158722,"grade":0,"lapses":4,"reps":1,"review":"20220322062457221"}]
 interval: 1
-lapses: 4
-modified: 20220322062457221
+lapses: 5
+modified: 20220323062345845
 modifier: @oeyoews
 reps: 1
-retrievability: 0.0749130596158722
-review: 20220322062457221
-stability: 0.030119557630782685
+retrievability: 0.030255525073783842
+review: 20220323062345843
+stability: 0.022313117091756884
 tags: EnglishWord ?
 title: insanity
 type: text/vnd.tiddlywiki

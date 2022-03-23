@@ -1,6 +1,6 @@
 created: 20220218072617844
 creator: oeyoews
-modified: 20220322115157162
+modified: 20220323060552122
 modifier: @oeyoews
 tags: config
 title: subtitle
@@ -14,6 +14,7 @@ type: text/vnd.tiddlywiki
 <<.icon $:/images/fa5/brands/airbnb>> "$:/images/boxicons/logos/bxl-gitlab">>  [[GitlabRepo |https://gitlab.com/oeyoews/tw5]]
 <<dbadge gitlab "🌐">>
 🐟
+[img width=26 height=12 [Fishes/1]]
 -->
 
 <!--

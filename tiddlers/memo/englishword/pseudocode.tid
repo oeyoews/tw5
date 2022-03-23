@@ -1,17 +1,17 @@
 created: 20220303020429134
 creator: oeyoews
-difficulty: 1.4315709210303622
-due: 20220323064600399
+difficulty: 1.5349776480356765
+due: 20220418063840861
 grade: 1
-history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220306014902152","interval":3,"difficulty":1.2637826101009904,"stability":0.07683095218398285,"retrievability":0.06378261010099043,"grade":0,"lapses":1,"reps":1,"review":"20220305014902152"},{"due":"20220315063001005","interval":1,"difficulty":1,"stability":8.618161029931063,"retrievability":0.2537694663628191,"grade":1,"lapses":1,"reps":2,"review":"20220306063001004"},{"due":"20220317095251179","interval":10,"difficulty":2.0849235182298895,"stability":0.05488315248213783,"retrievability":0.8849235182298896,"grade":0,"lapses":2,"reps":1,"review":"20220316095251179"}]
-interval: 1
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220306014902152","interval":3,"difficulty":1.2637826101009904,"stability":0.07683095218398285,"retrievability":0.06378261010099043,"grade":0,"lapses":1,"reps":1,"review":"20220305014902152"},{"due":"20220315063001005","interval":1,"difficulty":1,"stability":8.618161029931063,"retrievability":0.2537694663628191,"grade":1,"lapses":1,"reps":2,"review":"20220306063001004"},{"due":"20220317095251179","interval":10,"difficulty":2.0849235182298895,"stability":0.05488315248213783,"retrievability":0.8849235182298896,"grade":0,"lapses":2,"reps":1,"review":"20220316095251179"},{"due":"20220323064600399","interval":1,"difficulty":1.4315709210303622,"stability":6.223155143179179,"retrievability":0.14664740280047256,"grade":1,"lapses":2,"reps":2,"review":"20220317064600399"}]
+interval: 6
 lapses: 2
-modified: 20220317064600399
+modified: 20220323063840861
 modifier: @oeyoews
-reps: 2
-retrievability: 0.14664740280047256
-review: 20220317064600399
-stability: 6.223155143179179
+reps: 3
+retrievability: 0.9034067270053144
+review: 20220323063840860
+stability: 25.68477486243356
 tags: EnglishWord ?
 title: pseudocode
 type: text/vnd.tiddlywiki
