@@ -1,0 +1,9 @@
+created: 20220323065432287
+creator: @oeyoews
+modified: 20220323065445112
+modifier: @oeyoews
+tags: config
+title: FCalendar
+type: text/vnd.tiddlywiki
+
+{{$:/plugins/oflg/fishing-analysis/calendar/calendar}}
