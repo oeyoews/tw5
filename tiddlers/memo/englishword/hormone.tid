@@ -1,17 +1,17 @@
 created: 20220225034158956
 creator: oeyoews
-difficulty: 2.0082738903454005
-due: 20220323083958317
+difficulty: 1.1067690882598529
+due: 20220418012359117
 grade: 2
-history: [{"due":"20220308105102557","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307105102557"},{"due":"20220312070608213","interval":1,"difficulty":2.9830495523194847,"stability":4.163309058210984,"retrievability":0.35037881052010367,"grade":2,"lapses":0,"reps":2,"review":"20220308070608213"},{"due":"20220312160512326","interval":3,"difficulty":4.109939211797384,"stability":0.07412477722623134,"retrievability":0.9268896594778988,"grade":0,"lapses":1,"reps":1,"review":"20220311160512326"},{"due":"20220317052956004","interval":1,"difficulty":2.551316507400718,"stability":4.484852765272835,"retrievability":0.24137729560333396,"grade":2,"lapses":1,"reps":2,"review":"20220313052956004"},{"due":"20220318113314234","interval":4,"difficulty":3.6616264875449276,"stability":0.05488315248213783,"retrievability":0.9103099801442096,"grade":0,"lapses":2,"reps":1,"review":"20220317113314233"}]
-interval: 1
+history: [{"due":"20220308105102557","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307105102557"},{"due":"20220312070608213","interval":1,"difficulty":2.9830495523194847,"stability":4.163309058210984,"retrievability":0.35037881052010367,"grade":2,"lapses":0,"reps":2,"review":"20220308070608213"},{"due":"20220312160512326","interval":3,"difficulty":4.109939211797384,"stability":0.07412477722623134,"retrievability":0.9268896594778988,"grade":0,"lapses":1,"reps":1,"review":"20220311160512326"},{"due":"20220317052956004","interval":1,"difficulty":2.551316507400718,"stability":4.484852765272835,"retrievability":0.24137729560333396,"grade":2,"lapses":1,"reps":2,"review":"20220313052956004"},{"due":"20220318113314234","interval":4,"difficulty":3.6616264875449276,"stability":0.05488315248213783,"retrievability":0.9103099801442096,"grade":0,"lapses":2,"reps":1,"review":"20220317113314233"},{"due":"20220323083958317","interval":1,"difficulty":2.0082738903454005,"stability":4.921828439296972,"retrievability":0.14664740280047256,"grade":2,"lapses":2,"reps":2,"review":"20220318083958317"}]
+interval: 5
 lapses: 2
-modified: 20220318083958317
+modified: 20220323012359117
 modifier: @oeyoews
-reps: 2
-retrievability: 0.14664740280047256
-review: 20220318083958317
-stability: 4.921828439296972
+reps: 3
+retrievability: 0.8984951979144523
+review: 20220323012359117
+stability: 26.288015010988037
 tags: EnglishWord ?
 title: hormone
 type: text/vnd.tiddlywiki

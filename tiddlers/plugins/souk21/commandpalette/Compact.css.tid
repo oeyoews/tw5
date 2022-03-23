@@ -1,6 +1,6 @@
 created: 20200603190000307
 creator: @oeyoews
-modified: 20220322234816636
+modified: 20220323003909276
 modifier: @oeyoews
 tags: $:/tags/CommandPaletteTheme $:/tags/Stylesheet
 title: $:/plugins/souk21/commandpalette/Compact.css
@@ -58,7 +58,7 @@ type: text/vnd.tiddlywiki
     border: 0;
     background: 0;
     height: 40px;
-    color: <<colour foreground>>;
+    color: green;
     border-radius: var(--palette-radius) var(--palette-radius) 0px 0px;
     outline: 0;
     min-width: 50px;
