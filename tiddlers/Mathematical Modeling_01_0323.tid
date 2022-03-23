@@ -1,18 +1,71 @@
 created: 20220323110248042
 creator: @oeyoews
-modified: 20220323124234657
+modified: 20220323145927085
 modifier: @oeyoews
 tags: temp
 title: Mathematical Modeling/01/0323
 type: text/vnd.tiddlywiki
 
-* 偏微方程(暂时不讲)
+! 线性模型 
 
-!! 线性模型 
+* 线性模型（linear model) 试图学得一个通过属性的线性组合来进行预测函数, 
 
-* 非线性问题 ==> 线性问题
+$$
+f(x) = w_1x_1 + w_2x_2 + ...+ w_kx_k+b
+$$
+$$
+f(x) = \theta_0 + \theta_1x_1 + \theta_2x_2 + ... + \theta_kx_k
+$$
 
-* 数据标准化
+* 一般使用向量形式写成, 学得$$w, b$$ 后， 模型就得以确定， 由于$$w$$ 表达了各属性在预测中的重要性， 线性模型具有很好的可解释性（comprehensibility)、可理解性;
+
+* 线性模型形式简单、易于建模， 蕴含机器学习中一些重要的基本思想
+
+$$
+f(x) = w^Tx + b
+$$
+
+!! 基本形式
+
+* ''一元线性回归''： horsepower and displacement
+
+* ''多元线性回归'': Tv, Raido, Newpaper -- Sales
+
+* 对于连续数值型特征， 有时需要根据具体情形进行相应的预处理 如 `归一化` `标准化`
+
+* 对于离散型的特征， 针对属性值的特点， 有着不同的处理方式
+
+* ''Categorical Encoding''
+
+
+!!! 线性模型 -- 一元线性回归
+
+$$
+y_i = f(x_i) = \theta_0 + \theta_1x_i + \epsilon_i
+$$
+
+* $$ \theta_0$$, $$\theta_1$$ 为模型的参数;
+
+* 确定两者值的关键在于衡量$$f(x)$$ 与 $$y$$ 之间的差别
+** MSE(Mean Square Error)
+
+* MSE对应了常用的欧式距离（Eucliean disance)
+
+* 基于MSE进行模型求解的方法成为''最小二乘法''（least square method), 求解两者值最小化的过程， 称为线性回归模型最小二乘''参数估计''; 
+
+* 在一元线性回归中最小二乘发就是试图找到一条直线， 使得所有样本到直线的欧式距离之和最小。
+
+!!! 
+
+---
+
+{{$:/core/images/tip}} 
+
+非线性问题转化为线性问题
+
+<!--
+
+数据标准化
 
 !! 逻辑回归
 
@@ -22,5 +75,5 @@ type: text/vnd.tiddlywiki
 
 !!! 相关视频
 
-* [[video|https://space.bilibili.com/512662380?from=search&seid=3970623696399012867&spm_id_from=333.337.0.0]]
-
+* [[Videos|https://space.bilibili.com/512662380?from=search&seid=3970623696399012867&spm_id_from=333.337.0.0]]
+-->
