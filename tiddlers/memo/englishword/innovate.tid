@@ -1,17 +1,17 @@
 created: 20220321094312681
 creator: @oeyoews
-difficulty: 0.9144993432747036
-due: 20220323045200163
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220401045420130
+grade: 1
+history: [{"due":"20220323045200163","interval":0,"difficulty":0.9144993432747036,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220322045200163"}]
+interval: 1
 lapses: 0
-modified: 20220322045200163
+modified: 20220323045420130
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220322045200163
-stability: 0.1000004529953003
+reps: 2
+retrievability: 0.3486801042625608
+review: 20220323045420130
+stability: 8.830297176503736
 tags: EnglishWord ?
 title: innovate
 type: text/vnd.tiddlywiki

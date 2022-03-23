@@ -1,17 +1,17 @@
 created: 20220224113527953
 creator: oeyoews
-difficulty: 1.4420476668734465
-due: 20220323073832206
-grade: 1
-history: [{"due":"20220304085120300","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303085120300"},{"due":"20220307053702550","interval":3,"difficulty":1.2089083031776646,"stability":0.07476910459712456,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306053702549"},{"due":"20220316012002009","interval":1,"difficulty":1,"stability":8.582608156494905,"retrievability":0.2443520960981822,"grade":1,"lapses":1,"reps":2,"review":"20220307012002009"},{"due":"20220317110915880","interval":9,"difficulty":2.095400264072974,"stability":0.05488315248213783,"retrievability":0.8954002640729737,"grade":0,"lapses":2,"reps":1,"review":"20220316110915880"}]
-interval: 1
+difficulty: 1
+due: 20220424045339845
+grade: 2
+history: [{"due":"20220304085120300","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303085120300"},{"due":"20220307053702550","interval":3,"difficulty":1.2089083031776646,"stability":0.07476910459712456,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306053702549"},{"due":"20220316012002009","interval":1,"difficulty":1,"stability":8.582608156494905,"retrievability":0.2443520960981822,"grade":1,"lapses":1,"reps":2,"review":"20220307012002009"},{"due":"20220317110915880","interval":9,"difficulty":2.095400264072974,"stability":0.05488315248213783,"retrievability":0.8954002640729737,"grade":0,"lapses":2,"reps":1,"review":"20220316110915880"},{"due":"20220323073832206","interval":1,"difficulty":1.4420476668734465,"stability":6.191751294973391,"retrievability":0.14664740280047256,"grade":1,"lapses":2,"reps":2,"review":"20220317073832206"}]
+interval: 6
 lapses: 2
-modified: 20220317073832206
+modified: 20220323045339845
 modifier: @oeyoews
-reps: 2
-retrievability: 0.14664740280047256
-review: 20220317073832206
-stability: 6.191751294973391
+reps: 3
+retrievability: 0.9029413988582747
+review: 20220323045339844
+stability: 32.4873184575165
 tags: EnglishWord ?
 title: defective
 type: text/vnd.tiddlywiki
@@ -20,5 +20,6 @@ type: text/vnd.tiddlywiki
 """defective
 英 [dɪ'fektɪv]  美 [dɪ'fɛktɪv]
 adj. 有缺陷的；不完美的
+[[flaw]]
 """
 <<<

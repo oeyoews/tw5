@@ -1,18 +1,9 @@
 created: 20220312151301552
 creator: @oeyoews
-difficulty: 1
-due: 20220323023019654
-grade: 2
 history: [{"due":"20220314112626968","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313112626968"}]
-interval: 1
-lapses: 0
-modified: 20220314023019654
+modified: 20220323050143081
 modifier: @oeyoews
-reps: 2
-retrievability: 0.34870506584485117
-review: 20220314023019652
-stability: 8.830323229467362
-tags: EnglishWord ?
+tags: EnglishWord !
 title: Instead of
 type: text/vnd.tiddlywiki
 

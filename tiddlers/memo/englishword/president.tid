@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20220304074847342","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303074847341"}]
 interval: 2
 lapses: 0
-modified: 20220311044418220
+modified: 20220323045509791
 modifier: @oeyoews
 reps: 2
 retrievability: 0.14063024105763047
@@ -21,5 +21,6 @@ type: text/vnd.tiddlywiki
 英 ['prezɪd(ə)nt]  美 ['prɛzɪdənt]
 n. 总统；董事长；校长；主席
 CET4 TEM4  ( presidents )
+[[resistent]]
 """
 <<<

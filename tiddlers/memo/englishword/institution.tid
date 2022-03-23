@@ -1,17 +1,17 @@
 created: 20220322014445402
 creator: @oeyoews
-difficulty: 0.9144993432747036
-due: 20220323045204071
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220401050210966
+grade: 1
+history: [{"due":"20220323045204071","interval":0,"difficulty":0.9144993432747036,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220322045204071"}]
+interval: 1
 lapses: 0
-modified: 20220322045204071
+modified: 20220323050210966
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220322045204071
-stability: 0.1000004529953003
+reps: 2
+retrievability: 0.3486801042625608
+review: 20220323050210965
+stability: 8.830297176503736
 tags: EnglishWord ?
 title: institution
 type: text/vnd.tiddlywiki

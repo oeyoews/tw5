@@ -1,17 +1,17 @@
 created: 20220321022846069
 creator: @oeyoews
-difficulty: 0.9144993432747036
-due: 20220323050159712
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220322050159712
+difficulty: 1.4631794475372644
+due: 20220324050340615
+grade: 0
+history: [{"due":"20220323050159712","interval":0,"difficulty":0.9144993432747036,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220322050159712"}]
+interval: 1
+lapses: 1
+modified: 20220323050340616
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220322050159712
-stability: 0.1000004529953003
+retrievability: 0.3486801042625608
+review: 20220323050340615
+stability: 0.07408215765534414
 tags: EnglishWord ?
 title: disjunction
 type: text/vnd.tiddlywiki

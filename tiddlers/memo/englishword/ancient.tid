@@ -1,17 +1,17 @@
 created: 20220223072445802
 creator: oeyoews
-difficulty: 1.4421990036382784
-due: 20220323112814224
+difficulty: 1.5451347449369022
+due: 20220418050016671
 grade: 1
-history: [{"due":"20220304062536638","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303062536638"},{"due":"20220307011829929","interval":3,"difficulty":1.2089083031776646,"stability":0.07545638712607733,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306011829929"},{"due":"20220316012604362","interval":1,"difficulty":1,"stability":8.594869020011865,"retrievability":0.24750856222931497,"grade":1,"lapses":1,"reps":2,"review":"20220307012604361"},{"due":"20220317060451726","interval":9,"difficulty":2.0955413989503753,"stability":0.054885141354873004,"retrievability":0.8955413989503751,"grade":0,"lapses":2,"reps":1,"review":"20220316060451726"}]
-interval: 1
+history: [{"due":"20220304062536638","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303062536638"},{"due":"20220307011829929","interval":3,"difficulty":1.2089083031776646,"stability":0.07545638712607733,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306011829929"},{"due":"20220316012604362","interval":1,"difficulty":1,"stability":8.594869020011865,"retrievability":0.24750856222931497,"grade":1,"lapses":1,"reps":2,"review":"20220307012604361"},{"due":"20220317060451726","interval":9,"difficulty":2.0955413989503753,"stability":0.054885141354873004,"retrievability":0.8955413989503751,"grade":0,"lapses":2,"reps":1,"review":"20220316060451726"},{"due":"20220323112814224","interval":1,"difficulty":1.4421990036382784,"stability":6.191371331232806,"retrievability":0.1466576046879033,"grade":1,"lapses":2,"reps":2,"review":"20220317112814223"}]
+interval: 6
 lapses: 2
-modified: 20220317112814224
+modified: 20220323050016672
 modifier: @oeyoews
-reps: 2
-retrievability: 0.1466576046879033
-review: 20220317112814223
-stability: 6.191371331232806
+reps: 3
+retrievability: 0.9029357412986241
+review: 20220323050016671
+stability: 25.582868127877237
 tags: EnglishWord ?
 title: ancient
 type: text/vnd.tiddlywiki

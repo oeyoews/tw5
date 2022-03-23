@@ -1,17 +1,17 @@
 created: 20220321022215231
 creator: @oeyoews
-difficulty: 0.9144993432747036
-due: 20220323045151640
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220401045411160
+grade: 1
+history: [{"due":"20220323045151640","interval":0,"difficulty":0.9144993432747036,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220322045151639"}]
+interval: 1
 lapses: 0
-modified: 20220322045151640
+modified: 20220323045411160
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220322045151639
-stability: 0.1000004529953003
+reps: 2
+retrievability: 0.3486801042625608
+review: 20220323045411159
+stability: 8.830297176503736
 tags: EnglishWord ?
 title: anecdote
 type: text/vnd.tiddlywiki
