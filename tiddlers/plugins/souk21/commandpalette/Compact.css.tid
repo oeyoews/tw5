@@ -1,6 +1,6 @@
 created: 20200603190000307
 creator: @oeyoews
-modified: 20220323023655219
+modified: 20220323070444886
 modifier: @oeyoews
 tags: $:/tags/CommandPaletteTheme $:/tags/Stylesheet
 title: $:/plugins/souk21/commandpalette/Compact.css
@@ -14,7 +14,7 @@ type: text/vnd.tiddlywiki
 .commandpalette {
     position: fixed;
     background: <<colour background>>;
-    z-index: 999;
+    z-index: 9999;
     left: 50%;
     top: 10%;
     transform: translate(-50%, 0%);
