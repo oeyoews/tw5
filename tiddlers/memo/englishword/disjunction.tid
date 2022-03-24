@@ -1,17 +1,17 @@
 created: 20220321022846069
 creator: @oeyoews
-difficulty: 1.4631794475372644
-due: 20220324050340615
-grade: 0
-history: [{"due":"20220323050159712","interval":0,"difficulty":0.9144993432747036,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220322050159712"}]
+difficulty: 1
+due: 20220402015758733
+grade: 1
+history: [{"due":"20220323050159712","interval":0,"difficulty":0.9144993432747036,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220322050159712"},{"due":"20220324050340615","interval":1,"difficulty":1.4631794475372644,"stability":0.07408215765534414,"retrievability":0.3486801042625608,"grade":0,"lapses":1,"reps":1,"review":"20220323050340615"}]
 interval: 1
 lapses: 1
-modified: 20220323050340616
+modified: 20220324015758734
 modifier: @oeyoews
-reps: 1
-retrievability: 0.3486801042625608
-review: 20220323050340615
-stability: 0.07408215765534414
+reps: 2
+retrievability: 0.2411799948253509
+review: 20220324015758733
+stability: 8.569928231443768
 tags: EnglishWord ?
 title: disjunction
 type: text/vnd.tiddlywiki
@@ -21,5 +21,6 @@ type: text/vnd.tiddlywiki
 disjunction
 英 [dɪs'dʒʌŋ(k)ʃ(ə)n]  美 [dɪs'dʒʌŋkʃən]
 n. 分离；析取；分裂；折断
+[[conjunction]]
 """
 <<<

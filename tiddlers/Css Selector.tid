@@ -1,0 +1,15 @@
+created: 20220324025019133
+creator: @oeyoews
+modified: 20220324030334876
+modifier: @oeyoews
+tags: frontend
+title: Css Selector
+type: text/vnd.tiddlywiki
+
+`>` selector
+
+---
+* rem（font size of the root element）
+* [[rem|https://zhuanlan.zhihu.com/p/290732918]]
+
+* linear-gradient

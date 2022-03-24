@@ -20,12 +20,6 @@ type: text/vnd.tiddlywiki
   </$reveal>
 \end
 
-/*
-** TW-Locator and Bi-Link list
-.tc-table-of-contents li a {
-  font-weight: normal;
-}
-*/
 
 /**
 * Hide toolbar buttons if not hover
@@ -98,7 +92,8 @@ button.tc-tag-label, span.tc-tag-label {
   white-space: normal;
   margin-top: 0.1em;
   margin-bottom: 0.1em;
-  padding: 0.4em 0.5em 0.2em 0.5em;
+  /*padding: 0.4em 0.5em 0.2em 0.5em;*/
+  padding: 0.4em 0.6em 0.2em;
 }
 button.tc-tag-label, span.tc-tag-label:hover {
   /** hover tag color <<colour tag-background-hover>> */
@@ -664,9 +659,13 @@ html, body {
   font-family: {{$:/themes/nico/notebook/settings/editorfontfamily}};
 }
 
+/*@oeyoews */
 pre, code {
   font-family: {{$:/themes/nico/notebook/settings/codefontfamily}};
-  padding: 2px 2px 0px 2px;
+  /*padding: 2px 2px 0px 2px;*/
+  /*padding: 3.5px 3.5px 1px 3.5px;*/
+  padding: 0.2rem 0.3rem 0.1rem;
+  /*background: linear-gradient(19deg,<<colour code-background>>, #183075);*/
 }
 
 

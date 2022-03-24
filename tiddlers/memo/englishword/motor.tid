@@ -1,17 +1,17 @@
 created: 20220314012032444
 creator: @oeyoews
-difficulty: 1.3787022915251421
-due: 20220324055314719
+difficulty: 1.479677534678441
+due: 20220423021437789
 grade: 1
-history: [{"due":"20220317034329370","interval":0,"difficulty":1.8299972256802912,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316034329370"}]
-interval: 1
+history: [{"due":"20220317034329370","interval":0,"difficulty":1.8299972256802912,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316034329370"},{"due":"20220324055314719","interval":1,"difficulty":1.3787022915251421,"stability":7.072701377471806,"retrievability":0.34870506584485117,"grade":1,"lapses":0,"reps":2,"review":"20220317055314718"}]
+interval: 7
 lapses: 0
-modified: 20220317055314719
+modified: 20220324021437789
 modifier: @oeyoews
-reps: 2
-retrievability: 0.34870506584485117
-review: 20220317055314718
-stability: 7.072701377471806
+reps: 3
+retrievability: 0.9009752431532988
+review: 20220324021437789
+stability: 29.77797386783612
 tags: EnglishWord ?
 title: motor
 type: text/vnd.tiddlywiki
