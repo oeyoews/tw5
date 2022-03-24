@@ -1,5 +1,5 @@
 {
     "dueorder": "[sort[due]]",
     "neworder": "[sortrandom[]]",
-    "undueorder": "[sort[due]]"
+    "undueorder": "[sortrandom[]]"
 }
