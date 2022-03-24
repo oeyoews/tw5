@@ -1,12 +1,21 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220324064913165
+modified: 20220324070741214
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
 type: text/vnd.tiddlywiki
 
+.tc-editor-toolbar button, .tc-editor-toolbar button.tc-btn-invisible {
+<!--
+   border-radius: 3px;
+   background: #073642;
+   color: #839496;
+   fill: #839496;
+-->
+   border: 0px solid #073642; 
+}
 
 .tc-page-controls svg.tc-image-options-button {
     fill: #2aafbf;
