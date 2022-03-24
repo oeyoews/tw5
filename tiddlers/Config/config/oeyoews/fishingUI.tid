@@ -1,45 +1,55 @@
 caption: Fishing Ui
 created: 20220316124815943
 creator: @oeyoews
-modified: 20220321094607291
+modified: 20220324064133089
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/fishingUI
 type: text/vnd.tiddlywiki
 
 .tc-fishing-learing-grade .learn {
-		border-radius:5px;
+		border-radius:3px;
 		margin-left:10px;
 		margin-top: 5px;
 		color: #0fa60f;
 		background-color: #073642;
-		border: 2px solid #0fa60f;
 		padding:6px;
 		transition: background 120ms ease-in 0s;
 }
 
 .tc-fishing-learing-grade .forget{
-		border-radius:5px;
-		margin-left:10px;color:red;background-color: #5f1736;border: 2px solid #a8124b;padding:5px;
+		border-radius:3px;
+		margin-left:10px;
+		color: #c62828;
+		background-color: #5f1736;
+		padding:5px;
 		transition: background 120ms ease-in 0s;
 		margin-top: 5px;
 }
 
 .tc-fishing-learing-grade .remember{
-		border-radius:5px;margin-left:10px;color: #0fa10f;
-		background-color: #084111;border: 2px solid #0fa10f;padding:5px;
+		border-radius:3px;
+		margin-left:10px;color: #0fa10f;
+		background-color: #084111;
+		padding:5px;
 		transition: background 120ms ease-in 0s;
 		margin-top: 5px;
 }
 
 .tc-fishing-learing-grade .grasp{
-		border-radius:5px;margin-left:10px;color:yellow;background-color:#71851b;border:2px solid #c6c618;padding:5px;
+		border-radius:3px;
+		margin-left:10px;
+		color: #d2d217;
+		background-color: #71851b;
+		padding:5px;
 		transition: background 120ms ease-in 0s;
 		margin-top: 5px;
 }
 
 .tc-fishing-learing-grade .more{
-		border-radius:5px;margin-left:10px;color:cyan;background-color:#185767;border:2px solid cyan;padding:5px;
+		border-radius:3px;
+		margin-left:10px;color:cyan;background-color:#185767;
+		padding:5px;
 		transition: background 120ms ease-in 0s;
 		margin-top: 5px;
 }
