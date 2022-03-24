@@ -133,6 +133,8 @@
 - [ ] search local installed plugins
 - [x] bug: alt d wrong
 - [ ] feat: make heapmap like github's
+- [ ] todo: better update time
+- [ ] todo: tidy tiddlers
 
 ## Broken
 
