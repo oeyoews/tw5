@@ -1,7 +1,7 @@
 caption: Fishing Ui
 created: 20220316124815943
 creator: @oeyoews
-modified: 20220324073139218
+modified: 20220324074752599
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/fishingUI
@@ -50,8 +50,8 @@ type: text/vnd.tiddlywiki
 		border-radius:3px;
 		margin-left:10px;
 		color: #0cd2d2;
-		background-color:#185767;
-		padding:5px;
+		background-color: #125668;
+		padding: 5px 8px;
 		transition: background 120ms ease-in 0s;
 		margin-top: 5px;
 }
@@ -85,6 +85,6 @@ type: text/vnd.tiddlywiki
     color: #5972d9;
 		border-radius:3px;
 		background-color: #0a345c;
-		padding:5px;
+		padding: 5px 8px;
 		margin-top: 5px;
 }
