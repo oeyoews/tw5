@@ -1,19 +1,10 @@
 created: 20220228081848950
 creator: oeyoews
-difficulty: 2.109939211797384
-due: 20220324162354329
-grade: 2
 history: [{"due":"20220308061645400","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061645400"},{"due":"20220312070633912","interval":1,"difficulty":2.9830495523194847,"stability":4.163309058210984,"retrievability":0.35037881052010367,"grade":2,"lapses":0,"reps":2,"review":"20220308070633912"}]
-interval: 3
-lapses: 0
-modified: 20220311162354329
+modified: 20220324161307964
 modifier: @oeyoews
 page-cover: 
-reps: 3
-retrievability: 0.9268896594778988
-review: 20220311162354329
-stability: 12.6095690470035
-tags: EnglishWord ?
+tags: EnglishWord !
 title: IASB
 type: text/vnd.tiddlywiki
 
