@@ -38,6 +38,7 @@ type: text/vnd.tiddlywiki
 
 /**
   link-style@oeyoews
+  NOTE: not use padding
 */
 
 a.tc-tiddlylink, a.tc-tiddlylink:hover {
