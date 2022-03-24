@@ -1,7 +1,7 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220324032223059
+modified: 20220324064913165
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -21,7 +21,7 @@ type: text/vnd.tiddlywiki
 }
 
 /* remove border */
-.tc-tiddler-frame input.tc-edit-texteditor, .tc-tiddler-frame textarea.tc-edit-texteditor, .tc-tiddler-frame iframe.tc-edit-texteditor {
+.tc-tiddler-frame input.tc-edit-texteditor,  textarea.tc-edit-texteditor, iframe.tc-edit-texteditor {
     transition: border .14s ease-in-out;
     border: 1px solid #002b36;
     background: #002b36;
