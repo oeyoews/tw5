@@ -109,6 +109,7 @@
 
 ## TODO
 
+- [ ] __refactor__: all stylesheet, current palette and theme not support others
 - [x] __crontab__: use timer or crontab to push automaticaly with smtp
 - [ ] __precache__: use workbox-cli to precache offline
     * http://csbun.github.io/blog/2018/02/workbox/
@@ -130,7 +131,6 @@
 - [x] __todo__: gitlab runner for tw5
 - [x] fishing: fishing multi group how to discard
 - [ ] search local installed plugins
-- [ ] refactor: all stylesheet
 - [x] bug: alt d wrong
 - [ ] feat: make heapmap like github's
 
