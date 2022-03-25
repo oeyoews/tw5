@@ -1,17 +1,17 @@
 created: 20220226035008750
 creator: oeyoews
-difficulty: 1.3772760368314023
-due: 20220325043015313
+difficulty: 1
+due: 20220522053508283
 grade: 2
-history: [{"due":"20220311020120405","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310020120405"}]
-interval: 3
+history: [{"due":"20220311020120405","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310020120405"},{"due":"20220325043015313","interval":3,"difficulty":1.3772760368314023,"stability":12.310486545237625,"retrievability":0.042546647398380294,"grade":2,"lapses":0,"reps":2,"review":"20220313043015312"}]
+interval: 12
 lapses: 0
-modified: 20220313043015313
+modified: 20220325053508284
 modifier: @oeyoews
-reps: 2
-retrievability: 0.042546647398380294
-review: 20220313043015312
-stability: 12.310486545237625
+reps: 3
+retrievability: 0.9023947772498376
+review: 20220325053508283
+stability: 58.14699892600484
 tags: EnglishWord ?
 title: gamble
 type: text/vnd.tiddlywiki

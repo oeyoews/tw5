@@ -1,17 +1,17 @@
 created: 20220316031812393
 creator: @oeyoews
-difficulty: 1.1997785452241592
-due: 20220325093416678
-grade: 1
-history: [{"due":"20220317113038522","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316113038522"}]
-interval: 1
+difficulty: 1
+due: 20220505054417533
+grade: 2
+history: [{"due":"20220317113038522","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316113038522"},{"due":"20220325093416678","interval":1,"difficulty":1.1997785452241592,"stability":7.785265802052035,"retrievability":0.3486917532007223,"grade":1,"lapses":0,"reps":2,"review":"20220317093416678"}]
+interval: 8
 lapses: 0
-modified: 20220317093416678
+modified: 20220325054417533
 modifier: @oeyoews
-reps: 2
-retrievability: 0.3486917532007223
-review: 20220317093416678
-stability: 7.785265802052035
+reps: 3
+retrievability: 0.8973883361662355
+review: 20220325054417533
+stability: 41.2694012620908
 tags: EnglishWord ?
 title: plough
 type: text/vnd.tiddlywiki

@@ -1,18 +1,9 @@
 created: 20220323073433818
 creator: @oeyoews
-difficulty: 0.7575745355081063
-due: 20220325121257001
-grade: -1
 history: []
-interval: 0
-lapses: 0
-modified: 20220324121257001
+modified: 20220325054439290
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220324121257001
-stability: 0.1000004529953003
-tags: EnglishWord ?
+tags: EnglishWord !
 title: market
 type: text/vnd.tiddlywiki
 
