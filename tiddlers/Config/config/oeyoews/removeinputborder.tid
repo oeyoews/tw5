@@ -1,7 +1,7 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220325055001156
+modified: 20220325062646027
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -92,7 +92,7 @@ kbd {
 }
 
 blockquote {
-    border-left: 2px solid #586e75;
+    border-left: 4px solid #45a9f9;
     margin-left: 5px;
     padding-left: 10px;
     quotes: "\201C""\201D""\2018""\2019";
@@ -152,13 +152,13 @@ a.tc-tiddlylink.tc-plugin-info:hover {
     background-color: #5972d9;
     color: #073642;
     fill: #839496;
-    border-radius: 5px;
+    border-radius: 3px;
 }
 
 a.tc-tiddlylink.tc-plugin-info {
-    border-radius: 5px;
+    border-radius: 3px;
 }
 
 button.tc-btn-invisible {
-     border-radius: 5px;
+     border-radius: 3px;
 }
