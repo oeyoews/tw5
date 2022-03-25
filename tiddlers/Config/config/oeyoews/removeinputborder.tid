@@ -1,7 +1,7 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220325040345552
+modified: 20220325055001156
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -52,7 +52,7 @@ html body.tc-body hr {
 /* remove border */
 .tc-tiddler-frame input.tc-edit-texteditor,  textarea.tc-edit-texteditor, iframe.tc-edit-texteditor {
     transition: border .14s ease-in-out;
-    border: 1px solid #002b36;
+    border: 2px solid #002b36;
     background: #002b36;
     padding: 4px;
     border-radius: 4px;
