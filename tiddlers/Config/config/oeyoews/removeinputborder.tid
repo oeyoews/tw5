@@ -1,7 +1,7 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220325062646027
+modified: 20220325070049259
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -92,7 +92,7 @@ kbd {
 }
 
 blockquote {
-    border-left: 4px solid #45a9f9;
+    border-left: 2px solid #586e75;
     margin-left: 5px;
     padding-left: 10px;
     quotes: "\201C""\201D""\2018""\2019";
