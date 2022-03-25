@@ -1,17 +1,17 @@
 created: 20220316083311685
 creator: @oeyoews
-difficulty: 2.964050429900357
-due: 20220325031459777
-grade: 0
-history: [{"due":"20220319135621248","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318135621247"},{"due":"20220321061854832","interval":2,"difficulty":1.6710614246127011,"stability":0.07408249324251646,"retrievability":0.12158129666587415,"grade":0,"lapses":1,"reps":1,"review":"20220320061854832"},{"due":"20220322064441703","interval":1,"difficulty":2.11224297324374,"stability":0.05488166082758644,"retrievability":0.24118154863103877,"grade":0,"lapses":2,"reps":1,"review":"20220321064441703"},{"due":"20220323062417561","interval":1,"difficulty":2.458882724609162,"stability":0.04065715014820503,"retrievability":0.14663975136542198,"grade":0,"lapses":3,"reps":1,"review":"20220322062417561"},{"due":"20220324062233765","interval":1,"difficulty":2.733794904826573,"stability":0.030119557630782685,"retrievability":0.07491218021741076,"grade":0,"lapses":4,"reps":1,"review":"20220323062233765"}]
+difficulty: 2.1729486027184306
+due: 20220328013911951
+grade: 1
+history: [{"due":"20220319135621248","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318135621247"},{"due":"20220321061854832","interval":2,"difficulty":1.6710614246127011,"stability":0.07408249324251646,"retrievability":0.12158129666587415,"grade":0,"lapses":1,"reps":1,"review":"20220320061854832"},{"due":"20220322064441703","interval":1,"difficulty":2.11224297324374,"stability":0.05488166082758644,"retrievability":0.24118154863103877,"grade":0,"lapses":2,"reps":1,"review":"20220321064441703"},{"due":"20220323062417561","interval":1,"difficulty":2.458882724609162,"stability":0.04065715014820503,"retrievability":0.14663975136542198,"grade":0,"lapses":3,"reps":1,"review":"20220322062417561"},{"due":"20220324062233765","interval":1,"difficulty":2.733794904826573,"stability":0.030119557630782685,"retrievability":0.07491218021741076,"grade":0,"lapses":4,"reps":1,"review":"20220323062233765"},{"due":"20220325031459777","interval":1,"difficulty":2.964050429900357,"stability":0.022313117091756884,"retrievability":0.030255525073783842,"grade":0,"lapses":5,"reps":1,"review":"20220324031459776"}]
 interval: 1
 lapses: 5
-modified: 20220324031459777
+modified: 20220325013911952
 modifier: @oeyoews
-reps: 1
-retrievability: 0.030255525073783842
-review: 20220324031459776
-stability: 0.022313117091756884
+reps: 2
+retrievability: 0.008898172818073521
+review: 20220325013911951
+stability: 2.8408898322864427
 tags: EnglishWord ?
 title: humility
 type: text/vnd.tiddlywiki

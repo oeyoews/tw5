@@ -1,10 +1,17 @@
 created: 20220210193602229
 creator: @oeyoews
-modified: 20220324161153480
+modified: 20220325013859445
 modifier: @oeyoews
 tags: TiddlyWiki5
 title: Recommend TW5 websites
 type: text/vnd.tiddlywiki
+
+!! Icons
+
+* [[colorful icons|https://www.flaticon.com/animated-icons]]
+
+---
+!! personal wiki
 
 * reading list: https://rizi.me/
 * https://anthonymuscio.github.io/
@@ -15,3 +22,5 @@ type: text/vnd.tiddlywiki
 * [[add button|https://talk.tiddlywiki.org/t/tw5-stupid-question-add-button-to-viewbar-with-js-only/72]]
 
 * [[nico notebook|https://nicolas.petton.fr/tw/notebook.html]]
+
+* [[personal wiki|https://www.flaticon.com/animated-icons]]

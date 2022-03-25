@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20220305033531277","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220304033531277"}]
 interval: 2
 lapses: 0
-modified: 20220311044418203
+modified: 20220325025819028
 modifier: @oeyoews
 reps: 2
 retrievability: 0.14063024105763047
@@ -21,5 +21,6 @@ type: text/vnd.tiddlywiki
 dramatic
 英 [drə'mætɪk]  美 [drə'mætɪk]
 adj. __戏剧的；急剧的__；引人注目的；激动人心的
+`drastic`
 """
 <<<
