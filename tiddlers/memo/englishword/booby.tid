@@ -1,18 +1,9 @@
 created: 20220221112837543
 creator: oeyoews
-difficulty: 1
-due: 20220326052622633
-grade: 2
 history: [{"due":"20220225163807562","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163807562"},{"due":"20220305013824222","interval":1,"difficulty":1.1172714132007704,"stability":7.498354706664073,"retrievability":0.7318502915686316,"grade":2,"lapses":0,"reps":3,"review":"20220226013824222"},{"due":"20220305013824222","interval":1,"difficulty":1.1172714132007704,"stability":7.498354706664073,"retrievability":0.7318502915686316,"grade":2,"lapses":0,"reps":3,"review":"20220226013824222"}]
-interval: 8
-lapses: 0
-modified: 20220311044418196
+modified: 20220325162817846
 modifier: @oeyoews
-reps: 4
-retrievability: 0.8936784809252966
-review: 20220306052622632
-stability: 19.81675124772529
-tags: EnglishWord ?
+tags: EnglishWord !
 title: booby
 type: text/vnd.tiddlywiki
 

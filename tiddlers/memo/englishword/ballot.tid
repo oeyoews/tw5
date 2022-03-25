@@ -1,17 +1,17 @@
 created: 20220316032048251
 creator: @oeyoews
-difficulty: 1
-due: 20220326113342853
-grade: 2
-history: [{"due":"20220317112916728","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316112916728"}]
-interval: 1
+difficulty: 1.1089606074718763
+due: 20220503164531520
+grade: 1
+history: [{"due":"20220317112916728","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316112916728"},{"due":"20220326113342853","interval":1,"difficulty":1,"stability":8.83030933645776,"retrievability":0.3486917532007223,"grade":2,"lapses":0,"reps":2,"review":"20220317113342853"}]
+interval: 8
 lapses: 0
-modified: 20220319040059258
+modified: 20220325164531520
 modifier: @oeyoews
-reps: 2
-retrievability: 0.3486917532007223
-review: 20220317113342853
-stability: 8.83030933645776
+reps: 3
+retrievability: 0.9089606074718765
+review: 20220325164531520
+stability: 39.21389144056002
 tags: EnglishWord ?
 title: ballot
 type: text/vnd.tiddlywiki
