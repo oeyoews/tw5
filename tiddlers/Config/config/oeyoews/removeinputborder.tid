@@ -1,16 +1,20 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220325040129128
+modified: 20220325040345552
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
 type: text/vnd.tiddlywiki
 
+<!-- Failed
 li {
 	color: #5972d9;
 }
-<!-- remove tag hr
+-->
+
+<!-- @Failed
+remove tag hr
 html body.tc-body hr {
 		border: 0;
     background-color: #586e75;
