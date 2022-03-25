@@ -1,6 +1,6 @@
 created: 20220218072617844
 creator: oeyoews
-modified: 20220323060552122
+modified: 20220325083356184
 modifier: @oeyoews
 tags: config
 title: subtitle
@@ -20,5 +20,5 @@ type: text/vnd.tiddlywiki
 <!--
 <<dbadge TW5 5.2.1 success>>
 -->
-<$count filter="[has[text]]-[is[system]]-[type[image/jpeg]]-[type[image/png]]-[has[draft.of]]"/> tiddlers ! 
+<$count filter="[has[text]]-[is[system]]-[type[image/jpeg]]-[type[image/png]]-[has[draft.of]]-[prefix[untitled]]-[tag[EnglishWord]]-[tag[Journal]]-[tag[private]]-[tag[Project]]-[tag[todo]]"/> tiddlers ! 
  [[🎋|https://gitlab.com/oeyoews/tw5/]]
