@@ -1,12 +1,14 @@
 created: 20220324025019133
 creator: @oeyoews
-modified: 20220324073010301
+modified: 20220325033238062
 modifier: @oeyoews
 tags: frontend
 title: Css Selector
 type: text/vnd.tiddlywiki
 
 `>` selector
+
+* [[transition|https://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html]]
 
 * [[MDN|https://developer.mozilla.org/zh-CN/docs/Web]]
 ---

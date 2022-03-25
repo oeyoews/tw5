@@ -1,11 +1,15 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220324070741214
+modified: 20220325032439478
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
 type: text/vnd.tiddlywiki
+
+.tc-block-dropdown a:hover {
+	border-radius: 3px;
+}
 
 .tc-editor-toolbar button, .tc-editor-toolbar button.tc-btn-invisible {
 <!--

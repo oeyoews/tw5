@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220314113053905","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313113053905"},{"due":"20220315053715835","interval":1,"difficulty":2.8068285839808,"stability":0.07408719146292923,"retrievability":0.34870506584485117,"grade":0,"lapses":1,"reps":1,"review":"20220314053715835"},{"due":"20220323065419042","interval":2,"difficulty":2.0650076166274087,"stability":7.119672088653751,"retrievability":0.05817903264660851,"grade":1,"lapses":1,"reps":2,"review":"20220316065419042"}]
 interval: 7
 lapses: 1
-modified: 20220323063847286
+modified: 20220325031712886
 modifier: @oeyoews
 reps: 3
 retrievability: 0.9015952835748309
@@ -22,5 +22,6 @@ democratic
 英 [demə'krætɪk]  美 ['dɛmə'krætɪk]
 adj. 民主的；民主政治的；大众的
 CET4 TEM4
+[[demonstrated]]
 """
 <<<
