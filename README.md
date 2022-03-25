@@ -135,6 +135,7 @@
 - [ ] feat: make heapmap like github's
 - [ ] todo: better update time
 - [ ] todo: tidy tiddlers
+- [ ] todo: add shortkeys for close-other-tiddler
 
 ## Broken
 
