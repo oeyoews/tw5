@@ -1,12 +1,24 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220325032439478
+modified: 20220325040129128
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
 type: text/vnd.tiddlywiki
 
+li {
+	color: #5972d9;
+}
+<!-- remove tag hr
+html body.tc-body hr {
+		border: 0;
+    background-color: #586e75;
+    height: 1px;
+}
+-->
+
+<!-- tag hover -->
 .tc-block-dropdown a:hover {
 	border-radius: 3px;
 }
