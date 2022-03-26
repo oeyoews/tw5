@@ -109,6 +109,7 @@
 
 ## TODO
 
+- [ ] todo: use import font, such as firacode font
 - [ ] __refactor__: fix like drop down border
 - [ ] __refactor__: resolve this shine color, maybe can same for tid bg and div bg
 - [ ] __refactor__: all stylesheet, current palette and theme not support others

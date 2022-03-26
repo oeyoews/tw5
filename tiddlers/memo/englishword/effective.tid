@@ -1,6 +1,6 @@
 created: 20220316083610484
 creator: @oeyoews
-modified: 20220318092303092
+modified: 20220326125947092
 modifier: @oeyoews
 tags: EnglishWord !
 title: effective
@@ -12,4 +12,6 @@ type: text/vnd.tiddlywiki
 """
 <<<
 ---
+* 有效 ==> 高效
+* Do the right things ==> Do the things right.
 <<.tip "emphasize it's result" >>
