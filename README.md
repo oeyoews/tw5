@@ -109,6 +109,7 @@
 
 ## TODO
 
+- [ ] __refactor__: resolve this shine color, maybe can same for tid bg and div bg
 - [ ] __refactor__: all stylesheet, current palette and theme not support others
 - [x] __crontab__: use timer or crontab to push automaticaly with smtp
 - [ ] __precache__: use workbox-cli to precache offline
