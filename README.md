@@ -27,13 +27,13 @@
 
 <div style="text-align: center">
 <p>pc</p>
-<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/twdemo.png" title="img" alt="img" style="zoom: 100%" width=512 />
+<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/newtwdemo.png" title="img" alt="img" style="zoom: 100%" width=512 />
 </div>
 
-<div style="text-align: center">
-<p>mobile</p>
-<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/mobpfishing.jpeg" title="img" alt="img" style="zoom: 100%" width=512/>
-</div>
+<!--<div style="text-align: center">-->
+<!--<p>mobile</p>-->
+<!--<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/mobpfishing.jpeg" title="img" alt="img" style="zoom: 100%" width=512/>-->
+<!--</div>-->
 
 ## DependencyGraph
 
