@@ -1,0 +1,10 @@
+created: 20220326160550546
+creator: @oeyoews
+modified: 20220326160646813
+modifier: @oeyoews
+tags: gnome
+title: Downgrade mirror
+type: text/vnd.tiddlywiki
+
+* `sudo pacman-mirrors -c China -m rank -i -aS stable`
+* `sudo pacman -Syyuu`
