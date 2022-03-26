@@ -1,29 +1,30 @@
 created: 20220326065241103
 creator: @oeyoews
-modified: 20220326090937822
+modified: 20220326092830601
 modifier: @oeyoews
-tags: temp/computer
+tags: temp
 title: 快速打开浏览器网站
 type: text/vnd.tiddlywiki
 
-!! 相关演示环境及其工具
+!! <<sticky-done "相关演示环境及其工具" " Completed: 2022-03-26 5:27 pm ">>
 
 * ''OS'': Linux
 *'' browser'': google-chrome-stable 99
 * ''Record SoftWare'': OBS
 
+!! <<sticky-done "快速定位地址栏" " Completed: 2022-03-26 5:27 pm ">>
 
----
-!! sh
+* `ctrl l`
 
-<kbd> ctrl l </kbd>
+!! <<sticky-done "tab" " Completed: 2022-03-26 5:27 pm ">>
+> bing.com  github.com
 
-!! tab
-> bing github
 
-!! alias（其他部分浏览器可能不支持）
+
+!! <<sticky-done "别名（自定义）" " Completed: 2022-03-26 5:27 pm ">>
 
 !! TODO
 
-[ ] for gitee setup alias use tab to complete
-[ ] scratch for this recording
+[x] example todo
+[x] for gitee setup alias use tab to complete
+[x] scratch for this recording
