@@ -140,4 +140,5 @@
 
 ## Broken
 
-- [ ] jd mobile casue this sticky title in mobile can't work
+- [x] jd mobile casue this sticky title in mobile can't work
+- [ ] no table border color
