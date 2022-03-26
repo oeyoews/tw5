@@ -7,7 +7,7 @@ blockquote-bar: #b8f316
 button-background: #073642
 button-border: #586e75
 button-foreground: #93a1a1
-code-background: black
+code-background: #021f26
 code-border: none
 code-foreground: #5972d9
 dirty-indicator: #174c59

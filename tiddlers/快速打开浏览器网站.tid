@@ -1,16 +1,20 @@
 created: 20220326065241103
 creator: @oeyoews
-modified: 20220326071244381
+modified: 20220326090937822
 modifier: @oeyoews
 tags: temp/computer
 title: 快速打开浏览器网站
 type: text/vnd.tiddlywiki
 
-!! Limit && env
+!! 相关演示环境及其工具
 
-* 本次使用较新的`google-chrom-stable`版本进行演示, 以及`TiddlyWiki(nodejs) 5.22`
+* ''OS'': Linux
+*'' browser'': google-chrome-stable 99
+* ''Record SoftWare'': OBS
 
-!! shortcuts
+
+---
+!! sh
 
 <kbd> ctrl l </kbd>
 
@@ -22,3 +26,4 @@ type: text/vnd.tiddlywiki
 !! TODO
 
 [ ] for gitee setup alias use tab to complete
+[ ] scratch for this recording

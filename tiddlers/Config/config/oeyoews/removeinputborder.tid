@@ -1,11 +1,17 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220325083708392
+modified: 20220326091536099
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
 type: text/vnd.tiddlywiki
+
+<!--
+kbd {
+	background-color: #002b36;
+}
+-->
 
 <!-- Failed
 li {

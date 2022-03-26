@@ -136,6 +136,7 @@
 - [ ] todo: better update time
 - [ ] todo: tidy tiddlers
 - [ ] todo: add shortkeys for close-other-tiddler
+- [ ] todo: readjust kbd stylesheet
 
 ## Broken
 
