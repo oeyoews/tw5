@@ -1,0 +1,21 @@
+created: 20220326033138851
+creator: @oeyoews
+modified: 20220326035033393
+modifier: @oeyoews
+tags: temp
+title: acursor
+type: text/vnd.tiddlywiki
+
+!! 设计理念及其特色
+
+* 带有可爱动画桌面的彩色材质光标, 易于切换多种颜色，比如紫罗兰色， 紫色， 绿色， 黄色， 黑色， 白色等， 也可以自定义颜色， 更改为自己喜欢的颜色， 自己的光标自己做主。
+* 设置光标在不同场景下， 可以切换不同的形态， 
+
+* 易于辨别光标的当前状态， 完善用户界面体验感；比如返回状态， 会有一个返回箭头的提示， 如果当前界面正在刷新界面， 会有一个圆环出现等。 
+
+* 游标的大小为 32px 和 64px (HiDPI)， 如果有需要也可以自定义大小， 从而完美适应当前电脑分辨率
+
+* http://oeyoews.fun/#acursor
+
+[img width=512 [ccursor]]
+[img width=512 [scursor]]
