@@ -670,6 +670,7 @@ pre, code {
   /*padding: 3.5px 3.5px 1px 3.5px;*/
   /*padding: 0.2rem 0.3rem 0.1rem;*/
   padding: 2px 6px;
+  margin: 5px;
   /*background: linear-gradient(19deg,<<colour code-background>>, #183075);*/
 }
 

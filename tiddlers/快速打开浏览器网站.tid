@@ -1,0 +1,24 @@
+created: 20220326065241103
+creator: @oeyoews
+modified: 20220326071244381
+modifier: @oeyoews
+tags: temp/computer
+title: 快速打开浏览器网站
+type: text/vnd.tiddlywiki
+
+!! Limit && env
+
+* 本次使用较新的`google-chrom-stable`版本进行演示, 以及`TiddlyWiki(nodejs) 5.22`
+
+!! shortcuts
+
+<kbd> ctrl l </kbd>
+
+!! tab
+> bing github
+
+!! alias（其他部分浏览器可能不支持）
+
+!! TODO
+
+[ ] for gitee setup alias use tab to complete
