@@ -59,7 +59,7 @@ sidebar-tab-foreground: #657b83
 sidebar-tab-foreground-selected: #41dfe1
 sidebar-tiddler-link-foreground: cyan
 sidebar-tiddler-link-foreground-hover: #51f0c0
-site-title-foreground: #d33682
+site-title-foreground: #5972d9
 static-alert-foreground: #93a1a1
 tab-background: #073642
 tab-background-selected: #073642
@@ -88,8 +88,8 @@ tiddler-info-border: #657b83
 tiddler-info-tab-background: #002b36
 tiddler-link-background: #77d6ee
 tiddler-link-foreground: #2aa198
-tiddler-subtitle-foreground: #839496
-tiddler-title-foreground: #d33682
+tiddler-subtitle-foreground: 
+tiddler-title-foreground: #5972d9
 toolbar-cancel-button: #ffc72e
 toolbar-close-button: #28d5d7
 toolbar-delete-button: #dc322f

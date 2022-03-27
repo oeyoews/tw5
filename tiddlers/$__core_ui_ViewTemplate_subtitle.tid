@@ -1,7 +1,7 @@
 caption: Subtitle Template
 created: 20210611015734693
 creator: @oeyoews
-modified: 20220322044802424
+modified: 20220327115559612
 modifier: @oeyoews
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/subtitle
@@ -24,9 +24,14 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[all[current]has[lapses]]">
 <div>
-<<.icon $:/plugins/oflg/fishing/icon>> &ensp;Forgeted&nbsp;<$view field="lapses"/> &nbsp; times
-</div>
+<<.icon $:/images/coreui-icons/brand/cib-hotjar>>&ensp;
+ForgetedTimes&nbsp;
+<$view field="lapses"/>
+	</div>
 </$list>
+<!--
+<div style="padding:0px 8px;border-radius:3px;background-color:#0a345c;display:inline-block;color:#5972d9;">
+-->
 <$list filter="[all[current]has[description]]">
 	<div>
 	<i class="fa fa-gem"/>&ensp;{{!!description}}
