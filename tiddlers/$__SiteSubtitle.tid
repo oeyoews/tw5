@@ -1,8 +1,8 @@
 created: 20211226085737279
 creator: oeyoews
-modified: 20220317114255982
+modified: 20220327071459328
 modifier: @oeyoews
 title: $:/SiteSubtitle
 type: text/vnd.tiddlywiki
 
-{{subtitle}} 
+{{$:/config/oeyoews/subtitle}} 
