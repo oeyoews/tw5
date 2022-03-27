@@ -1,17 +1,17 @@
 created: 20220312165539576
 creator: @oeyoews
 difficulty: 1
-due: 20220328154131592
+due: 20220507170303811
 grade: 2
-history: [{"due":"20220319143614642","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143614642"}]
-interval: 1
+history: [{"due":"20220319143614642","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143614642"},{"due":"20220328154131592","interval":1,"difficulty":1,"stability":8.830302388320703,"retrievability":0.3486850967074362,"grade":2,"lapses":0,"reps":2,"review":"20220319154131592"}]
+interval: 8
 lapses: 0
-modified: 20220319154131593
+modified: 20220327170303812
 modifier: @oeyoews
-reps: 2
-retrievability: 0.3486850967074362
-review: 20220319154131592
-stability: 8.830302388320703
+reps: 3
+retrievability: 0.9089605392018921
+review: 20220327170303811
+stability: 41.495126579740116
 tags: EnglishWord ?
 title: rewarding
 type: text/vnd.tiddlywiki

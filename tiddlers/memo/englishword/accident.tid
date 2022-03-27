@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220319140847003","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318140847003"},{"due":"20220320125417386","interval":1,"difficulty":1.898165224654263,"stability":0.07408316441686115,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319125417385"}]
 interval: 1
 lapses: 1
-modified: 20220320015410513
+modified: 20220327163511096
 modifier: @oeyoews
 reps: 2
 retrievability: 0.24118465623021404
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 """
 accident
 英 ['æksɪdənt]  美 ['æksədənt]
-n. ''事故''；意外；[法] 意外事件；机遇
+n. ''事故''(negative something)；意外；[法] 意外事件；机遇
 CET4 TEM4  ( accidents )
 [[ancient]]
 """

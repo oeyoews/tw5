@@ -1,16 +1,16 @@
 created: 20220314053251392
 creator: @oeyoews
-difficulty: 2.095254413816348
-due: 20220328013751068
-grade: 0
-history: [{"due":"20220317112915331","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316112915331"},{"due":"20220318034757122","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220317034757121"},{"due":"20220327050351482","interval":1,"difficulty":1,"stability":8.569972329809564,"retrievability":0.24119087137976164,"grade":2,"lapses":1,"reps":2,"review":"20220318050351482"}]
-interval: 9
+difficulty: 1.295254413816348
+due: 20220328170424606
+grade: 2
+history: [{"due":"20220317112915331","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316112915331"},{"due":"20220318034757122","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220317034757121"},{"due":"20220327050351482","interval":1,"difficulty":1,"stability":8.569972329809564,"retrievability":0.24119087137976164,"grade":2,"lapses":1,"reps":2,"review":"20220318050351482"},{"due":"20220328013751068","interval":9,"difficulty":2.095254413816348,"stability":0.05488141221849455,"retrievability":0.8952544138163477,"grade":0,"lapses":2,"reps":1,"review":"20220327013751068"}]
+interval: 0
 lapses: 2
-modified: 20220327013751069
+modified: 20220327170424606
 modifier: @oeyoews
-reps: 1
-retrievability: 0.8952544138163477
-review: 20220327013751068
+reps: 2
+retrievability: 1
+review: 20220327170424606
 stability: 0.05488141221849455
 tags: EnglishWord ?
 title: impulsive

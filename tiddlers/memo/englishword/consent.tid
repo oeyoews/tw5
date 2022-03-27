@@ -1,17 +1,17 @@
 created: 20220224122101464
 creator: oeyoews
-difficulty: 3.0402507677058335
-due: 20220328053250706
-grade: 2
-history: [{"due":"20220308104754188","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104754188"},{"due":"20220311065557873","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308065557873"}]
-interval: 5
-lapses: 0
-modified: 20220313053250706
+difficulty: 4.144935116586005
+due: 20220328165626522
+grade: 0
+history: [{"due":"20220308104754188","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307104754188"},{"due":"20220311065557873","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308065557873"},{"due":"20220328053250706","interval":5,"difficulty":3.0402507677058335,"stability":14.725559212724118,"retrievability":0.8572012153863486,"grade":2,"lapses":0,"reps":3,"review":"20220313053250706"}]
+interval: 14
+lapses: 1
+modified: 20220327165626522
 modifier: @oeyoews
-reps: 3
-retrievability: 0.8572012153863486
-review: 20220313053250706
-stability: 14.725559212724118
+reps: 1
+retrievability: 0.9046843488801712
+review: 20220327165626521
+stability: 0.07408215765534414
 tags: EnglishWord ?
 title: consent
 type: text/vnd.tiddlywiki
@@ -23,5 +23,6 @@ vi. 同意；赞成；答应
 n. 同意；（意见等的）一致；赞成
 n. (Consent)人名；(法)孔桑
 CET4 TEM4  ( consenting, consented, consents )
+[[contend]]
 """
 <<<
