@@ -146,6 +146,7 @@
 - [ ] todo: add shortkeys for close-other-tiddler
 - [ ] todo: readjust kbd and checklist stylesheet
 - [ ] feat: use hitoko usage
+- [ ] feat: adjust backlink btn style like fishing btn
 
 ## Broken
 
