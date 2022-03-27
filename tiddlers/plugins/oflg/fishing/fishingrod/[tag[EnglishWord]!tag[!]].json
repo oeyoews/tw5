@@ -1,5 +1,5 @@
 {
     "neworder": "[sortrandom[]]",
     "undueorder": "[sortrandom[]]",
-    "dueorder": "[!sortsub:number{$:/plugins/oflg/fishing/fishingpond!!autopriority}]"
+    "dueorder": "[sortrandom[]]"
 }
