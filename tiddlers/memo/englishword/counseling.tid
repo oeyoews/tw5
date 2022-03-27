@@ -1,17 +1,17 @@
 created: 20220314021545442
 creator: @oeyoews
 difficulty: 1
-due: 20220327014410259
+due: 20220507013727669
 grade: 2
-history: [{"due":"20220317112911308","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316112911308"},{"due":"20220318054422125","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220317054422125"},{"due":"20220319052036553","interval":1,"difficulty":2.6409694166039213,"stability":0.054882158045770235,"retrievability":0.24119087137976164,"grade":0,"lapses":2,"reps":1,"review":"20220318052036553"}]
-interval: 1
+history: [{"due":"20220317112911308","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316112911308"},{"due":"20220318054422125","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220317054422125"},{"due":"20220319052036553","interval":1,"difficulty":2.6409694166039213,"stability":0.054882158045770235,"retrievability":0.24119087137976164,"grade":0,"lapses":2,"reps":1,"review":"20220318052036553"},{"due":"20220327014410259","interval":1,"difficulty":1,"stability":7.984095215285529,"retrievability":0.14664230184562638,"grade":2,"lapses":2,"reps":2,"review":"20220319014410259"}]
+interval: 8
 lapses: 2
-modified: 20220319014410259
+modified: 20220327013727669
 modifier: @oeyoews
-reps: 2
-retrievability: 0.14664230184562638
-review: 20220319014410259
-stability: 7.984095215285529
+reps: 3
+retrievability: 0.8998111239423359
+review: 20220327013727669
+stability: 41.3028440051448
 tags: EnglishWord ?
 title: counseling
 type: text/vnd.tiddlywiki

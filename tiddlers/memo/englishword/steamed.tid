@@ -1,17 +1,17 @@
 created: 20220221091736769
 creator: oeyoews
-difficulty: 2.103916706590917
-due: 20220326164254968
-grade: 0
-history: [{"due":"20220225163559867","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163559867"},{"due":"20220305013457324","interval":1,"difficulty":1.1172714132007704,"stability":7.498354706664073,"retrievability":0.7318502915686316,"grade":2,"lapses":0,"reps":3,"review":"20220226013457324"},{"due":"20220305013457324","interval":1,"difficulty":1.1172714132007704,"stability":7.498354706664073,"retrievability":0.7318502915686316,"grade":2,"lapses":0,"reps":3,"review":"20220226013457324"},{"due":"20220326053105445","interval":8,"difficulty":1,"stability":19.81675124772529,"retrievability":0.8936784809252966,"grade":2,"lapses":0,"reps":4,"review":"20220306053105444"}]
-interval: 19
+difficulty: 1
+due: 20220405012508147
+grade: 2
+history: [{"due":"20220225163559867","interval":0,"difficulty":2.185421121632139,"stability":0.3375,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220224163559867"},{"due":"20220305013457324","interval":1,"difficulty":1.1172714132007704,"stability":7.498354706664073,"retrievability":0.7318502915686316,"grade":2,"lapses":0,"reps":3,"review":"20220226013457324"},{"due":"20220305013457324","interval":1,"difficulty":1.1172714132007704,"stability":7.498354706664073,"retrievability":0.7318502915686316,"grade":2,"lapses":0,"reps":3,"review":"20220226013457324"},{"due":"20220326053105445","interval":8,"difficulty":1,"stability":19.81675124772529,"retrievability":0.8936784809252966,"grade":2,"lapses":0,"reps":4,"review":"20220306053105444"},{"due":"20220326164254968","interval":19,"difficulty":2.103916706590917,"stability":0.07408215765534414,"retrievability":0.9039167065909166,"grade":0,"lapses":1,"reps":1,"review":"20220325164254968"}]
+interval: 1
 lapses: 1
-modified: 20220325164254968
+modified: 20220327012508147
 modifier: @oeyoews
-reps: 1
-retrievability: 0.9039167065909166
-review: 20220325164254968
-stability: 0.07408215765534414
+reps: 2
+retrievability: 0.2411799948253509
+review: 20220327012508147
+stability: 8.569928231443768
 tags: EnglishWord ?
 title: steamed
 type: text/vnd.tiddlywiki

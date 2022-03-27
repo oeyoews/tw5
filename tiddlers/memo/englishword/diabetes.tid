@@ -1,17 +1,17 @@
 created: 20220314075522145
 creator: @oeyoews
-difficulty: 3.486798112318432
-due: 20220326160641092
-grade: 1
-history: [{"due":"20220317152349821","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316152349821"},{"due":"20220318055219866","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220317055219866"},{"due":"20220319045714413","interval":1,"difficulty":2.6409694166039213,"stability":0.05488315248213783,"retrievability":0.24119087137976164,"grade":0,"lapses":2,"reps":1,"review":"20220318045714412"},{"due":"20220324051039492","interval":1,"difficulty":1.987616819404394,"stability":4.957180607386106,"retrievability":0.14664740280047256,"grade":1,"lapses":2,"reps":2,"review":"20220319051039491"},{"due":"20220325020821172","interval":5,"difficulty":3.086798112318432,"stability":0.04065715014820503,"retrievability":0.8991812929140376,"grade":0,"lapses":3,"reps":1,"review":"20220324020821172"},{"due":"20220325161818892","interval":0,"difficulty":3.286798112318432,"stability":0.04065715014820503,"retrievability":1,"grade":1,"lapses":3,"reps":2,"review":"20220324161818892"}]
-interval: 0
+difficulty: 1.7617102925358428
+due: 20220401012546379
+grade: 2
+history: [{"due":"20220317152349821","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316152349821"},{"due":"20220318055219866","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220317055219866"},{"due":"20220319045714413","interval":1,"difficulty":2.6409694166039213,"stability":0.05488315248213783,"retrievability":0.24119087137976164,"grade":0,"lapses":2,"reps":1,"review":"20220318045714412"},{"due":"20220324051039492","interval":1,"difficulty":1.987616819404394,"stability":4.957180607386106,"retrievability":0.14664740280047256,"grade":1,"lapses":2,"reps":2,"review":"20220319051039491"},{"due":"20220325020821172","interval":5,"difficulty":3.086798112318432,"stability":0.04065715014820503,"retrievability":0.8991812929140376,"grade":0,"lapses":3,"reps":1,"review":"20220324020821172"},{"due":"20220325161818892","interval":0,"difficulty":3.286798112318432,"stability":0.04065715014820503,"retrievability":1,"grade":1,"lapses":3,"reps":2,"review":"20220324161818892"},{"due":"20220326160641092","interval":0,"difficulty":3.486798112318432,"stability":0.04065715014820503,"retrievability":1,"grade":1,"lapses":3,"reps":3,"review":"20220325160641092"}]
+interval: 1
 lapses: 3
-modified: 20220325160641092
+modified: 20220327012546379
 modifier: @oeyoews
-reps: 3
-retrievability: 1
-review: 20220325160641092
-stability: 0.04065715014820503
+reps: 4
+retrievability: 0.07491218021741076
+review: 20220327012546379
+stability: 4.780314127080654
 tags: EnglishWord ?
 title: diabetes
 type: text/vnd.tiddlywiki
