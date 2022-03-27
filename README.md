@@ -145,6 +145,7 @@
 - [ ] todo: tidy tiddlers
 - [ ] todo: add shortkeys for close-other-tiddler
 - [ ] todo: readjust kbd and checklist stylesheet
+- [ ] feat: use hitoko usage
 
 ## Broken
 
