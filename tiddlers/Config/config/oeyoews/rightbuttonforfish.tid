@@ -1,0 +1,13 @@
+created: 20220327092454583
+creator: @oeyoews
+modified: 20220327095144884
+modifier: @oeyoews
+tags: $:/tags/ViewTemplate
+title: $:/config/oeyoews/rightbuttonforfish
+type: text/vnd.tiddlywiki
+
+<$list filter="[all[current]tag[private]]">
+<div style="text-align:right" >
+{{||$:/core/ui/Buttons/fold}}
+</div>
+</$list>
