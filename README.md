@@ -148,6 +148,7 @@
 - [ ] feat: use hitoko usage
 - [ ] feat: adjust backlink btn style like fishing btn
 - [ ] feat: change fontawesome icon color
+- [ ] feat: change fold to right
 
 ## Broken
 
