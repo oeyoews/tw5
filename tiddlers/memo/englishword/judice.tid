@@ -1,17 +1,17 @@
 created: 20220320013307723
 creator: @oeyoews
-difficulty: 1
-due: 20220331063211748
+difficulty: 1.1403802018088807
+due: 20220423082031187
 grade: 1
-history: [{"due":"20220321112933345","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320112933345"},{"due":"20220322021758113","interval":1,"difficulty":1.5549505765857377,"stability":0.07408249324251646,"retrievability":0.34868176841798704,"grade":0,"lapses":1,"reps":1,"review":"20220321021758112"}]
-interval: 1
+history: [{"due":"20220321112933345","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320112933345"},{"due":"20220322021758113","interval":1,"difficulty":1.5549505765857377,"stability":0.07408249324251646,"retrievability":0.34868176841798704,"grade":0,"lapses":1,"reps":1,"review":"20220321021758112"},{"due":"20220331063211748","interval":1,"difficulty":1,"stability":8.569934531523112,"retrievability":0.24118154863103877,"grade":1,"lapses":1,"reps":2,"review":"20220322063211748"}]
+interval: 5
 lapses: 1
-modified: 20220322063211748
+modified: 20220327082031187
 modifier: @oeyoews
-reps: 2
-retrievability: 0.24118154863103877
-review: 20220322063211748
-stability: 8.569934531523112
+reps: 3
+retrievability: 0.9403802018088807
+review: 20220327082031186
+stability: 27.319861528765994
 tags: EnglishWord ?
 title: judice
 type: text/vnd.tiddlywiki

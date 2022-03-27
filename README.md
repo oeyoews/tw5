@@ -147,6 +147,7 @@
 - [ ] todo: readjust kbd and checklist stylesheet
 - [ ] feat: use hitoko usage
 - [ ] feat: adjust backlink btn style like fishing btn
+- [ ] feat: change fontawesome icon color
 
 ## Broken
 

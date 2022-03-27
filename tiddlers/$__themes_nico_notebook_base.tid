@@ -143,8 +143,8 @@ button.tc-fold-banner {
 }
 button.tc-unfold-banner {
   position: unset;
-  padding: 1px 0;
-  margin: 0;
+  padding: 2px 0;
+  margin-top: 20px;
   background: none;
   width: 100%;
   width: calc(100% + 2px);
@@ -155,6 +155,10 @@ button.tc-unfold-banner {
   /*margin-top: 4px;*/
   /*margin-bottom: 4px;*/
 }
+
+/*button.tc-unfold-banner:hover {*/
+  /*transition: opacity .5s ease-in-out;*/
+  /*}*/
 
 /* == Top and bottom bars == */
 
