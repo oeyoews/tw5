@@ -114,6 +114,8 @@
 
 ## TODO
 
+- [ ] feat: use switch button for two palette associate theme
+- [ ] feat: combined with vanilla to notebook theme
 - [ ] feat(fishing): add counter for undue
 - [ ] fix: fix nico theme in phone, search box have some radius when no focus
 - [ ] feat: use filter or backdrop-filter come true blur for commandpalette
