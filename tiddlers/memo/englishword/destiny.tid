@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220308041847491","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307041847491"},{"due":"20220311065958235","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308065958235"},{"due":"20220326052437891","interval":5,"difficulty":4.0402507677058335,"stability":12.684756896566524,"retrievability":0.8572012153863486,"grade":1,"lapses":0,"reps":3,"review":"20220313052437890"}]
 interval: 12
 lapses: 0
-modified: 20220325162812918
+modified: 20220328014900287
 modifier: @oeyoews
 reps: 4
 retrievability: 0.9051334614425919
@@ -24,5 +24,6 @@ n. (Destiny)人名；(英)德斯蒂尼，德斯蒂妮(女名)
 CET6 TEM4  ( destinies )
 [[distinction]]
 [[adversity]]
+[[destination]]
 """
 <<<

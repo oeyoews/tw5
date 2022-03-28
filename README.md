@@ -114,6 +114,7 @@
 
 ## TODO
 
+- [ ] feat: use filter or backdrop-filter come true blur for commandpalette
 - [ ] todo: use import font, such as firacode font
 - [ ] __refactor__: fix like drop down border
 - [ ] __refactor__: resolve this shine color, maybe can same for tid bg and div bg

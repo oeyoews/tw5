@@ -722,17 +722,27 @@ div.tc-tab-buttons button {
   transition: background ease-in .2s;
 }
 
+/*oeyoews*/
 div.tc-tab-buttons button:hover {
-  background: rgba(0,0,0,.03);
+  /*background: rgba(0,0,0,.03);*/
+  background: #073642;
+}
+
+/*fix more bar*/
+.tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button.tc-tab-selected {
+  background-color: #3fb7f2;
+  border: none;
 }
 
 /*@oeyoews*/
 div.tc-tab-buttons button.tc-tab-selected {
   border: none;
-  background: transparent;
+  background: #5972d9;
+  color: #25367c;
   border-radius: 3px;
-  border-bottom: 3px solid <<colour primary>>;
+  /*border-bottom: 3px solid <<colour primary>>;*/
 }
+
 
 /* Dropdowns */
 
