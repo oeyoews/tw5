@@ -1,16 +1,16 @@
 created: 20220222010952330
 creator: oeyoews
-difficulty: 4.144935116586005
-due: 20220328165202583
-grade: 0
-history: [{"due":"20220308061544493","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061544493"},{"due":"20220311065825250","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308065825250"},{"due":"20220328042944373","interval":5,"difficulty":3.0402507677058335,"stability":14.725559212724118,"retrievability":0.8572012153863486,"grade":2,"lapses":0,"reps":3,"review":"20220313042944373"}]
-interval: 14
+difficulty: 3.3449351165860053
+due: 20220329160553467
+grade: 2
+history: [{"due":"20220308061544493","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061544493"},{"due":"20220311065825250","interval":1,"difficulty":3.9830495523194847,"stability":3.4189622108044793,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220308065825250"},{"due":"20220328042944373","interval":5,"difficulty":3.0402507677058335,"stability":14.725559212724118,"retrievability":0.8572012153863486,"grade":2,"lapses":0,"reps":3,"review":"20220313042944373"},{"due":"20220328165202583","interval":14,"difficulty":4.144935116586005,"stability":0.07408215765534414,"retrievability":0.9046843488801712,"grade":0,"lapses":1,"reps":1,"review":"20220327165202583"}]
+interval: 0
 lapses: 1
-modified: 20220327165202583
+modified: 20220328160553467
 modifier: @oeyoews
-reps: 1
-retrievability: 0.9046843488801712
-review: 20220327165202583
+reps: 2
+retrievability: 1
+review: 20220328160553467
 stability: 0.07408215765534414
 tags: EnglishWord ?
 title: deceive

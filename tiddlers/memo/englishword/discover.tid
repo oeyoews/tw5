@@ -1,9 +1,20 @@
 created: 20220327073954061
 creator: @oeyoews
-modified: 20220327074002171
+difficulty: 0.5255733166154046
+due: 20220329161045550
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220328161045550
 modifier: @oeyoews
-tags: EnglishWord
+reps: 1
+retrievability: 1
+review: 20220328161045550
+stability: 0.1000004529953003
+tags: EnglishWord ?
 title: discover
 type: text/vnd.tiddlywiki
 
 * 发现
+[[recover]]

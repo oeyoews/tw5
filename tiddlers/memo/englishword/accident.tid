@@ -1,17 +1,17 @@
 created: 20220317014937006
 creator: @oeyoews
 difficulty: 1
-due: 20220329015410513
+due: 20220508160405124
 grade: 2
-history: [{"due":"20220319140847003","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318140847003"},{"due":"20220320125417386","interval":1,"difficulty":1.898165224654263,"stability":0.07408316441686115,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319125417385"}]
-interval: 1
+history: [{"due":"20220319140847003","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318140847003"},{"due":"20220320125417386","interval":1,"difficulty":1.898165224654263,"stability":0.07408316441686115,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220319125417385"},{"due":"20220329015410513","interval":1,"difficulty":1,"stability":8.569947131368993,"retrievability":0.24118465623021404,"grade":2,"lapses":1,"reps":2,"review":"20220320015410512"}]
+interval: 8
 lapses: 1
-modified: 20220327163511096
+modified: 20220328160405124
 modifier: @oeyoews
-reps: 2
-retrievability: 0.24118465623021404
-review: 20220320015410512
-stability: 8.569947131368993
+reps: 3
+retrievability: 0.9063284779786377
+review: 20220328160405124
+stability: 41.42790887864447
 tags: EnglishWord ?
 title: accident
 type: text/vnd.tiddlywiki

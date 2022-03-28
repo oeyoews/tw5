@@ -1,8 +1,18 @@
 created: 20220322132813931
 creator: @oeyoews
-modified: 20220322133643374
+difficulty: 0.5255733166154046
+due: 20220329160817323
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20220328160817323
 modifier: @oeyoews
-tags: EnglishWord
+reps: 1
+retrievability: 1
+review: 20220328160817323
+stability: 0.1000004529953003
+tags: EnglishWord ?
 title: intercept
 type: text/vnd.tiddlywiki
 
@@ -15,6 +25,7 @@ n. 拦截；[数] 截距；截获的情报
 CET6+ TEM4  ( intercepting, intercepted, intercepts )
 
 [[deceive]]
+[[interpret]]
 `except`
 
 `concept`

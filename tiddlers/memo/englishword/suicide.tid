@@ -1,16 +1,16 @@
 created: 20220224113433170
 creator: oeyoews
-difficulty: 1.6709045971945067
-due: 20220328165037518
+difficulty: 1
+due: 20220329160506824
 grade: 2
-history: [{"due":"20220304083447727","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303083447727"},{"due":"20220307054547554","interval":3,"difficulty":1.2089083031776646,"stability":0.07442546333264817,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306054547554"},{"due":"20220308012703720","interval":1,"difficulty":1.6516757123991261,"stability":0.055135739319504856,"retrievability":0.24276740922146145,"grade":0,"lapses":2,"reps":1,"review":"20220307012703720"},{"due":"20220320014330859","interval":3,"difficulty":1,"stability":10.151509911204984,"retrievability":0.0032380345100487587,"grade":1,"lapses":2,"reps":2,"review":"20220310014330859"},{"due":"20220321034249721","interval":10,"difficulty":2.101416355601764,"stability":0.04065733432235013,"retrievability":0.9014163556017639,"grade":0,"lapses":3,"reps":1,"review":"20220320034249721"},{"due":"20220327062012762","interval":1,"difficulty":1.3763294152176362,"stability":5.674391137988003,"retrievability":0.0749130596158722,"grade":1,"lapses":3,"reps":2,"review":"20220321062012762"},{"due":"20220328012444646","interval":6,"difficulty":2.4709045971945067,"stability":0.030119557630782685,"retrievability":0.8945751819768704,"grade":0,"lapses":4,"reps":1,"review":"20220327012444646"}]
+history: [{"due":"20220304083447727","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303083447727"},{"due":"20220307054547554","interval":3,"difficulty":1.2089083031776646,"stability":0.07442546333264817,"retrievability":0.05273732312238567,"grade":0,"lapses":1,"reps":1,"review":"20220306054547554"},{"due":"20220308012703720","interval":1,"difficulty":1.6516757123991261,"stability":0.055135739319504856,"retrievability":0.24276740922146145,"grade":0,"lapses":2,"reps":1,"review":"20220307012703720"},{"due":"20220320014330859","interval":3,"difficulty":1,"stability":10.151509911204984,"retrievability":0.0032380345100487587,"grade":1,"lapses":2,"reps":2,"review":"20220310014330859"},{"due":"20220321034249721","interval":10,"difficulty":2.101416355601764,"stability":0.04065733432235013,"retrievability":0.9014163556017639,"grade":0,"lapses":3,"reps":1,"review":"20220320034249721"},{"due":"20220327062012762","interval":1,"difficulty":1.3763294152176362,"stability":5.674391137988003,"retrievability":0.0749130596158722,"grade":1,"lapses":3,"reps":2,"review":"20220321062012762"},{"due":"20220328012444646","interval":6,"difficulty":2.4709045971945067,"stability":0.030119557630782685,"retrievability":0.8945751819768704,"grade":0,"lapses":4,"reps":1,"review":"20220327012444646"},{"due":"20220328165037518","interval":0,"difficulty":1.6709045971945067,"stability":0.030119557630782685,"retrievability":1,"grade":2,"lapses":4,"reps":2,"review":"20220327165037518"}]
 interval: 0
 lapses: 4
-modified: 20220327165037518
+modified: 20220328160506824
 modifier: @oeyoews
-reps: 2
+reps: 3
 retrievability: 1
-review: 20220327165037518
+review: 20220328160506824
 stability: 0.030119557630782685
 tags: EnglishWord ?
 title: suicide

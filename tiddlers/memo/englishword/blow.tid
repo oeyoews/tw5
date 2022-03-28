@@ -1,17 +1,17 @@
 created: 20220319024709776
 creator: @oeyoews
-difficulty: 1
-due: 20220329015338735
+difficulty: 1.108960539201892
+due: 20220506160310277
 grade: 1
-history: [{"due":"20220320125110233","interval":0,"difficulty":1.2223120588350453,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220319125110233"}]
-interval: 1
+history: [{"due":"20220320125110233","interval":0,"difficulty":1.2223120588350453,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220319125110233"},{"due":"20220329015338735","interval":1,"difficulty":1,"stability":8.830302388320703,"retrievability":0.3486850967074362,"grade":1,"lapses":0,"reps":2,"review":"20220320015338734"}]
+interval: 8
 lapses: 0
-modified: 20220320015338735
+modified: 20220328160310277
 modifier: @oeyoews
-reps: 2
-retrievability: 0.3486850967074362
-review: 20220320015338734
-stability: 8.830302388320703
+reps: 3
+retrievability: 0.9089605392018921
+review: 20220328160310277
+stability: 39.21389051323656
 tags: EnglishWord ?
 title: blow
 type: text/vnd.tiddlywiki
