@@ -120,7 +120,7 @@ button:not(.tc-btn-invisible) {
   transition: background-color 0.2s;
 }
 button:not(.tc-btn-invisible):hover {
-	background-color: <<colour button-background-hover>>;
+  background-color: <<colour button-background-hover>>;
 }
 
 button:not(.tc-btn-invisible) svg {
@@ -724,13 +724,20 @@ div.tc-tab-buttons button {
 
 /*oeyoews*/
 div.tc-tab-buttons button:hover {
-  /*background: rgba(0,0,0,.03);*/
   background: #073642;
 }
 
 /*fix more bar*/
+.tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button {
+  border: none;
+  /*background-color: none;*/
+}
 .tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button.tc-tab-selected {
-  background-color: #3fb7f2;
+  background-color: #5972d9;
+  border: none;
+}
+.tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button:not(.tc-tab-selected):hover {
+  background: #073642;
   border: none;
 }
 
@@ -740,7 +747,6 @@ div.tc-tab-buttons button.tc-tab-selected {
   background: #5972d9;
   color: #25367c;
   border-radius: 3px;
-  /*border-bottom: 3px solid <<colour primary>>;*/
 }
 
 
