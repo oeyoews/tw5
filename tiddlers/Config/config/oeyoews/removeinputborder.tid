@@ -1,7 +1,7 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220328024103555
+modified: 20220328055028496
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -9,7 +9,6 @@ type: text/vnd.tiddlywiki
 
 .py-tabs.tc-tab-buttons button.tc-tab-selected {
     border: 0;
-    border-bottom: 4px solid #5972d9;
     color: #2f4085;
 }
 <!--
