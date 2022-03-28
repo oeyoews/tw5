@@ -256,12 +256,12 @@ h1.tc-site-title {
   background: <<colour tiddler-background>>;
   color: <<colour foreground>>;
   border: 2px solid <<colour primary>>;
-  /*box-shadow: 0 0 .2rem 0 <<colour primary>>;*/
 }
 
-input[type="search"]::-webkit-search-cancel-button {
-  -webkit-appearance: auto;
-}
+/*modified by @oeyoews*/
+/*input[type="search"]::-webkit-search-cancel-button {*/
+  /*-webkit-appearance: auto;*/
+/*}*/
 
 .nc-bar .tc-block-dropdown.tc-search-drop-down {
   margin-left: 0;
