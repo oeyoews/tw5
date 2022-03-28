@@ -1,6 +1,6 @@
 created: 20220210193602229
 creator: @oeyoews
-modified: 20220327165941899
+modified: 20220328041731497
 modifier: @oeyoews
 tags: TiddlyWiki5
 title: Recommend TW5 websites
@@ -10,6 +10,10 @@ type: text/vnd.tiddlywiki
 
 * [[colorful icons|https://www.flaticon.com/animated-icons]]
 * [[tw icons|https://morosanuae.github.io/tw-icons]]
+
+!! themes
+
+* [[notetheme |https://nicolas.petton.fr/tw/notebook.html]]
 
 !! images
 

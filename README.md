@@ -114,6 +114,7 @@
 
 ## TODO
 
+- [ ] fix: fix nico theme in phone, search box have some radius when no focus
 - [ ] feat: use filter or backdrop-filter come true blur for commandpalette
 - [ ] todo: use import font, such as firacode font
 - [ ] __refactor__: fix like drop down border
