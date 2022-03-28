@@ -406,6 +406,7 @@ h1.tc-site-title {
   text-align: left;
   padding: 8px 15px;
   border-radius: 3px;
+  margin-left: 5px;
 }
 
 /*@oeyoews*/
