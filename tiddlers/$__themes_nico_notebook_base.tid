@@ -244,7 +244,8 @@ h1.tc-site-title {
   width: 200px;
   padding: .6em 1em;
   margin-top: -.2em;
-  background: <<colour sidebar-button-foreground>>44;
+  /*background: <<colour sidebar-button-foreground>>44;*/
+  background: #00000044;
   color: <<colour foreground>>cc;
   transition: all ease-in .2s;
   border: 1px solid transparent;
