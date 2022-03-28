@@ -1,10 +1,10 @@
 caption: Formula
 created: 20220323131827051
 creator: @oeyoews
-modified: 20220323131902838
+modified: 20220328093902681
 modifier: @oeyoews
 tags: $:/tags/TextEditor/Snippet
-title: $$
+title: $:/config/oeyoews/snippets/$$
 type: text/vnd.tiddlywiki
 
 $$

@@ -114,6 +114,8 @@
 
 ## TODO
 
+- [ ] todo: learn use transition details
+- [ ] fix: use div(maybe) to compute current window location for fishing
 - [ ] feat: use switch button for two palette associate theme
 - [ ] feat: combined with vanilla to notebook theme
 - [ ] feat(fishing): add counter for undue
