@@ -1,0 +1,54 @@
+caption: {{$:/plugins/danielo515/ContextPlugin/Caption}}
+created: 20140530173407542
+creator: @oeyoews
+modified: 20220328095447080
+modifier: @oeyoews
+tags: $:/tags/AdvancedSearch
+title: Context Search
+type: text/vnd.tiddlywiki
+
+\define lingo-base() $:/language/Search/
+<$linkcatcher to="$:/temp/advancedsearch">
+
+<<lingo Standard/Hint>>
+
+<!--
+<div class="tw-search"><$edit-text tiddler="$:/temp/advancedsearch" type="search" tag="input"/><$reveal state="$:/temp/advancedsearch" type="nomatch" text=""> <$link to="" class="btn-invisible">{{$:/core/images/close-button}}</$link></$reveal></div>
+-->
+
+<div class="tc-search">
+<$keyboard key="((input-tab-right))" actions=<<set-next-input-tab>>>
+<$keyboard key="((input-tab-left))" actions=<<set-next-input-tab "before">>>
+<$macrocall $name="keyboard-driven-input" tiddler="$:/temp/advancedsearch/input" storeTitle="$:/temp/advancedsearch"
+		refreshTitle="$:/temp/advancedsearch/refresh" selectionStateTitle="$:/temp/advancedsearch/selected-item" type="search"
+		tag="input" focus={{$:/config/Search/AutoFocus}} configTiddlerFilter="[[$:/core/ui/AdvancedSearch/Shadows]]"
+		inputCancelActions=<<cancel-search-actions>> inputAcceptActions=<<input-accept-actions>> 
+		inputAcceptVariantActions=<<input-accept-variant-actions>>  filterMinLength={{$:/config/Search/MinLength}}/>
+</$keyboard>
+</$keyboard>
+<$reveal state="$:/temp/advancedsearch" type="nomatch" text="">
+<$button class="tc-btn-invisible">
+<<cancel-search-actions>>
+{{$:/core/images/close-button}}
+</$button>
+</$reveal>
+</div>
+</$linkcatcher>
+
+<$reveal state="$:/temp/advancedsearch" type="nomatch" text="">
+<div class="tw-search-results">
+
+<<lingo Standard/Matches>>
+
+<$list filter="[!is[system]search{$:/temp/advancedsearch}sort[title]limit[50]]">
+{{!!title||$:/core/ui/ListItemTemplate}}
+<$context term={{$:/temp/advancedsearch}}/>
+</$list>
+
+</div>
+
+</$reveal>
+
+<$reveal state="$:/temp/advancedsearch" type="match" text="">
+
+</$reveal>
