@@ -357,7 +357,7 @@ input[type="search"]::-webkit-search-cancel-button {
 }
 
 .nc-sidebar .segment {
-  border-bottom: 1px solid rgba(0,0,0,.1);
+  /*border-bottom: 1px solid rgba(0,0,0,.1);*/
 }
 
 .nc-sidebar ol {
@@ -411,14 +411,13 @@ input[type="search"]::-webkit-search-cancel-button {
 /*@oeyoews*/
 .nc-sidebar .section:not(.open) .label:hover {
   background: #073642;
-  /*border: 1px solid;*/
 }
 
 .nc-sidebar .section.open .label {
   color: <<colour tiddler-background>>;
   fill: <<colour tiddler-background>>;
   background: <<colour primary>>;
-  border-bottom: 1px solid rgba(0,0,0,.1);
+  /*border-bottom: 1px solid rgba(0,0,0,.1);*/
 }
 
 .nc-sidebar .section .label .caret {
