@@ -405,11 +405,13 @@ input[type="search"]::-webkit-search-cancel-button {
   width: 100%;
   text-align: left;
   padding: 8px 15px;
-  border-radius: 0;
+  border-radius: 3px;
 }
 
+/*@oeyoews*/
 .nc-sidebar .section:not(.open) .label:hover {
-  background: rgba(0,0,0,.06);
+  background: #073642;
+  /*border: 1px solid;*/
 }
 
 .nc-sidebar .section.open .label {

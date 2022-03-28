@@ -1,16 +1,16 @@
 created: 20220317034524408
 creator: @oeyoews
 difficulty: 1
-due: 20220507164329946
+due: 20220508054040315
 grade: 2
-history: [{"due":"20220319084059961","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318084059961"},{"due":"20220328123449428","interval":1,"difficulty":1,"stability":8.830302388320703,"retrievability":0.3486850967074362,"grade":2,"lapses":0,"reps":2,"review":"20220319123449427"}]
-interval: 8
+history: [{"due":"20220319084059961","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318084059961"},{"due":"20220328123449428","interval":1,"difficulty":1,"stability":8.830302388320703,"retrievability":0.3486850967074362,"grade":2,"lapses":0,"reps":2,"review":"20220319123449427"},{"due":"20220507164329946","interval":8,"difficulty":1,"stability":41.495126579740116,"retrievability":0.9089605392018921,"grade":2,"lapses":0,"reps":3,"review":"20220327164329946"}]
+interval: 0
 lapses: 0
-modified: 20220327164329947
+modified: 20220328054040316
 modifier: @oeyoews
-reps: 3
-retrievability: 0.9089605392018921
-review: 20220327164329946
+reps: 4
+retrievability: 1
+review: 20220328054040315
 stability: 41.495126579740116
 tags: EnglishWord ?
 title: habitat
