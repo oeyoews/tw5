@@ -1,6 +1,6 @@
 created: 20220329091657086
 creator: @oeyoews
-modified: 20220329092518976
+modified: 20220329115503632
 modifier: @oeyoews
 tags: frontend
 title: tomcat webapps
@@ -8,3 +8,8 @@ type: text/vnd.tiddlywiki
 
 * https://www.cnblogs.com/ysocean/p/6893446.html
 * https://www.jianshu.com/p/3b8f88d5d660
+* https://www.cnblogs.com/merray/p/12698810.html
+
+```java
+java -jar xxx.jar --server.port=8099
+```

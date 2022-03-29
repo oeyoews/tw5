@@ -1,6 +1,6 @@
 created: 20220310033519322
 creator: @oeyoews
-modified: 20220324124652907
+modified: 20220329130358615
 modifier: @oeyoews
 tags: config
 title: subtitlefooter
@@ -10,6 +10,11 @@ type: text/vnd.tiddlywiki
 <$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
 
 Updated
-<$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss"/> 
+<!--
+<$view field="modified" format="date" template="YYYY-0MM-0DD 
+0hh:0mm:0ss"/> 
+-->
+<$view field="modified" format="relativedate"/>
+
 </$list>
 </div>
