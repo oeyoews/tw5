@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220311023450801","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023450801"},{"due":"20220315055100414","interval":1,"difficulty":2.683833622354247,"stability":4.474493622614117,"retrievability":0.34910423292122506,"grade":1,"lapses":0,"reps":2,"review":"20220311055100413"},{"due":"20220317060440133","interval":5,"difficulty":3.7727655937322027,"stability":0.07408719146292923,"retrievability":0.8889319713779553,"grade":0,"lapses":1,"reps":1,"review":"20220316060440133"},{"due":"20220322113516506","interval":1,"difficulty":2.213968895215844,"stability":4.944784574687158,"retrievability":0.2412033014836416,"grade":2,"lapses":1,"reps":2,"review":"20220317113516505"},{"due":"20220323054414746","interval":5,"difficulty":3.3129106702705706,"stability":0.05488141221849455,"retrievability":0.8989417750547264,"grade":0,"lapses":2,"reps":1,"review":"20220322054414746"},{"due":"20220324050356657","interval":1,"difficulty":3.6595491463951952,"stability":0.04065715014820503,"retrievability":0.14663847612462463,"grade":0,"lapses":3,"reps":1,"review":"20220323050356656"},{"due":"20220327020648279","interval":1,"difficulty":2.934461326612606,"stability":3.356784363175535,"retrievability":0.07491218021741076,"grade":1,"lapses":3,"reps":2,"review":"20220324020648279"}]
 interval: 2
 lapses: 3
-modified: 20220326162726816
+modified: 20220329013415268
 modifier: @oeyoews
 page-cover: 
 reps: 3
@@ -22,5 +22,6 @@ type: text/vnd.tiddlywiki
 英 ['krɪtɪk(ə)l]  美 ['krɪtɪkl]
 adj. 鉴定的；[核] 临界的；批评的，爱挑剔的；危险的；决定性的；''评论的''
 CET4 TEM4
+[[criticizes]]
 """
 <<<

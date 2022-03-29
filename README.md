@@ -114,6 +114,7 @@
 
 ## TODO
 
+- [ ] fix: fix list link color and bg
 - [ ] todo: learn use transition details
 - [ ] fix: use div(maybe) to compute current window location for fishing
 - [ ] feat: use switch button for two palette associate theme
