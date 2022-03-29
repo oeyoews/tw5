@@ -1,7 +1,7 @@
 caption: Subtitle Template
 created: 20210611015734693
 creator: @oeyoews
-modified: 20220329080443492
+modified: 20220329112240522
 modifier: @oeyoews
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/subtitle
@@ -15,15 +15,14 @@ type: text/vnd.tiddlywiki
 <$list filter="[all[current]has[created]]">
 <div>
 <i class="fa fa-history"/>&ensp;Created &nbsp;<$view field="created" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss"/>
-&nbsp;about&nbsp;
-<$view field="created" format="relativedate"/>
 </div>
 </$list>
 <$list filter="[all[current]has[modified]]">
 <div>
 <i class="fa fa-clock"/>&ensp;Updated &nbsp;<$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss" />
-&nbsp;about&nbsp;
-<$view field="modified" format="relativedate"/>
+<!--
+&nbsp; <$view field="modified" format="relativedate"/>
+-->
 </div>
 </$list>
 <$list filter="[all[current]has[lapses]]">
