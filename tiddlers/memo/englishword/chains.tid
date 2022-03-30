@@ -1,18 +1,9 @@
 created: 20220320090651857
 creator: @oeyoews
-difficulty: 1
-due: 20220330024845902
-grade: 2
 history: [{"due":"20220321112851911","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320112851911"}]
-interval: 1
-lapses: 0
-modified: 20220321024845902
+modified: 20220330012138937
 modifier: @oeyoews
-reps: 2
-retrievability: 0.34868176841798704
-review: 20220321024845901
-stability: 8.830298913844077
-tags: EnglishWord ?
+tags: EnglishWord !
 title: chains
 type: text/vnd.tiddlywiki
 

@@ -1,17 +1,17 @@
 created: 20220320090742225
 creator: @oeyoews
 difficulty: 1
-due: 20220330145115069
+due: 20220515012423426
 grade: 2
-history: [{"due":"20220321112936425","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320112936425"}]
-interval: 1
+history: [{"due":"20220321112936425","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320112936425"},{"due":"20220330145115069","interval":1,"difficulty":1,"stability":8.830298913844077,"retrievability":0.34868176841798704,"grade":2,"lapses":0,"reps":2,"review":"20220321145115069"}]
+interval: 9
 lapses: 0
-modified: 20220321145115069
+modified: 20220330012423426
 modifier: @oeyoews
-reps: 2
-retrievability: 0.34868176841798704
-review: 20220321145115069
-stability: 8.830298913844077
+reps: 3
+retrievability: 0.8981795028505701
+review: 20220330012423426
+stability: 45.56397702811383
 tags: EnglishWord ?
 title: retailer
 type: text/vnd.tiddlywiki

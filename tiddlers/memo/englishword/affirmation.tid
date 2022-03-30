@@ -1,17 +1,17 @@
 created: 20220322072936966
 creator: @oeyoews
-difficulty: 0.5255733166154046
-due: 20220329160659270
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220328160659270
+difficulty: 1.0742534208779655
+due: 20220331011701350
+grade: 0
+history: [{"due":"20220329160659270","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328160659270"}]
+interval: 1
+lapses: 1
+modified: 20220330011701350
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220328160659270
-stability: 0.1000004529953003
+retrievability: 0.3486801042625608
+review: 20220330011701350
+stability: 0.07408215765534414
 tags: EnglishWord ?
 title: affirmation
 type: text/vnd.tiddlywiki

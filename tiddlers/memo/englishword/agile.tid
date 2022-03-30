@@ -1,17 +1,17 @@
 created: 20220322130541143
 creator: @oeyoews
-difficulty: 0.5255733166154046
-due: 20220329160701009
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220328160701009
+difficulty: 1.0742534208779655
+due: 20220331011717093
+grade: 0
+history: [{"due":"20220329160701009","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328160701009"}]
+interval: 1
+lapses: 1
+modified: 20220330011717093
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220328160701009
-stability: 0.1000004529953003
+retrievability: 0.3486801042625608
+review: 20220330011717093
+stability: 0.07408215765534414
 tags: EnglishWord ?
 title: agile
 type: text/vnd.tiddlywiki

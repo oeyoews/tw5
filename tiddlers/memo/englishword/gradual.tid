@@ -1,18 +1,9 @@
 created: 20220327074207205
 creator: @oeyoews
-difficulty: 0.5255733166154046
-due: 20220329160654470
-grade: -1
 history: []
-interval: 0
-lapses: 0
-modified: 20220328160654470
+modified: 20220330012432462
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220328160654470
-stability: 0.1000004529953003
-tags: EnglishWord ?
+tags: EnglishWord !
 title: gradual
 type: text/vnd.tiddlywiki
 

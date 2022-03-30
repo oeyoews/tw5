@@ -1,17 +1,17 @@
 created: 20220327073845365
 creator: @oeyoews
-difficulty: 0.5255733166154046
-due: 20220329161204208
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220328161204208
+difficulty: 1.0742534208779655
+due: 20220331012258024
+grade: 0
+history: [{"due":"20220329161204208","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161204208"}]
+interval: 1
+lapses: 1
+modified: 20220330012258024
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220328161204208
-stability: 0.1000004529953003
+retrievability: 0.3486801042625608
+review: 20220330012258024
+stability: 0.07408215765534414
 tags: EnglishWord ?
 title: prevalent
 type: text/vnd.tiddlywiki

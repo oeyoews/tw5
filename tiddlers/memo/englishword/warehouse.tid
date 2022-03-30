@@ -1,17 +1,17 @@
 created: 20220320085822721
 creator: @oeyoews
 difficulty: 1
-due: 20220330145118862
+due: 20220515012039289
 grade: 2
-history: [{"due":"20220321113032281","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320113032280"}]
-interval: 1
+history: [{"due":"20220321113032281","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320113032280"},{"due":"20220330145118862","interval":1,"difficulty":1,"stability":8.830298913844077,"retrievability":0.34868176841798704,"grade":2,"lapses":0,"reps":2,"review":"20220321145118862"}]
+interval: 9
 lapses: 0
-modified: 20220321145118863
+modified: 20220330012039289
 modifier: @oeyoews
-reps: 2
-retrievability: 0.34868176841798704
-review: 20220321145118862
-stability: 8.830298913844077
+reps: 3
+retrievability: 0.8981795028505701
+review: 20220330012039289
+stability: 45.56397702811383
 tags: EnglishWord ?
 title: warehouse
 type: text/vnd.tiddlywiki

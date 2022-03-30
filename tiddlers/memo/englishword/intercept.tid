@@ -1,17 +1,17 @@
 created: 20220322132813931
 creator: @oeyoews
-difficulty: 0.5255733166154046
-due: 20220329160817323
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220328160817323
+difficulty: 1.0742534208779655
+due: 20220331011528426
+grade: 0
+history: [{"due":"20220329160817323","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328160817323"}]
+interval: 1
+lapses: 1
+modified: 20220330011528426
 modifier: @oeyoews
 reps: 1
-retrievability: 1
-review: 20220328160817323
-stability: 0.1000004529953003
+retrievability: 0.3486801042625608
+review: 20220330011528426
+stability: 0.07408215765534414
 tags: EnglishWord ?
 title: intercept
 type: text/vnd.tiddlywiki
