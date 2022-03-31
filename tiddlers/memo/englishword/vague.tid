@@ -1,17 +1,17 @@
 created: 20220322072918454
 creator: @oeyoews
-difficulty: 1.0742534208779655
-due: 20220331012228623
-grade: 0
-history: [{"due":"20220329161143901","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161143901"}]
+difficulty: 1
+due: 20220409013437316
+grade: 1
+history: [{"due":"20220329161143901","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161143901"},{"due":"20220331012228623","interval":1,"difficulty":1.0742534208779655,"stability":0.07408215765534414,"retrievability":0.3486801042625608,"grade":0,"lapses":1,"reps":1,"review":"20220330012228623"}]
 interval: 1
 lapses: 1
-modified: 20220330012228623
+modified: 20220331013437316
 modifier: @oeyoews
-reps: 1
-retrievability: 0.3486801042625608
-review: 20220330012228623
-stability: 0.07408215765534414
+reps: 2
+retrievability: 0.2411799948253509
+review: 20220331013437315
+stability: 8.569928231443768
 tags: EnglishWord ?
 title: vague
 type: text/vnd.tiddlywiki
@@ -23,5 +23,6 @@ vague
 adj. 模糊的；含糊的；不明确的；暧昧的
 n. (Vague)人名；(法)瓦格；(英)韦格
 CET4 TEM4  ( vaguer, vaguest )
+[[obscure]]
 """
 <<<

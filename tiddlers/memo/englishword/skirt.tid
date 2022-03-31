@@ -1,17 +1,17 @@
 created: 20220223121301338
 creator: oeyoews
-difficulty: 1
-due: 20220331140743637
+difficulty: 1.099232366968396
+due: 20220718013340931
 grade: 1
-history: [{"due":"20220304062719137","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303062719136"}]
-interval: 1
+history: [{"due":"20220304062719137","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303062719136"},{"due":"20220331140743637","interval":1,"difficulty":1,"stability":26.783090178331225,"retrievability":0.3750069880117309,"grade":1,"lapses":0,"reps":2,"review":"20220304140743637"}]
+interval: 27
 lapses: 0
-modified: 20220311044418229
+modified: 20220331013340931
 modifier: @oeyoews
-reps: 2
-retrievability: 0.3750069880117309
-review: 20220304140743637
-stability: 26.783090178331225
+reps: 3
+retrievability: 0.8992323669683963
+review: 20220331013340931
+stability: 109.39893380824657
 tags: EnglishWord ?
 title: skirt
 type: text/vnd.tiddlywiki

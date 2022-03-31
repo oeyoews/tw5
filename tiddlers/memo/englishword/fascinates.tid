@@ -1,17 +1,17 @@
 created: 20220322073449192
 creator: @oeyoews
-difficulty: 1.0742534208779655
-due: 20220331012109912
+difficulty: 1.5154334157033162
+due: 20220401013333561
 grade: 0
-history: [{"due":"20220329161156462","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161156462"}]
+history: [{"due":"20220329161156462","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161156462"},{"due":"20220331012109912","interval":1,"difficulty":1.0742534208779655,"stability":0.07408215765534414,"retrievability":0.3486801042625608,"grade":0,"lapses":1,"reps":1,"review":"20220330012109912"}]
 interval: 1
-lapses: 1
-modified: 20220330012109912
+lapses: 2
+modified: 20220331013333561
 modifier: @oeyoews
 reps: 1
-retrievability: 0.3486801042625608
-review: 20220330012109912
-stability: 0.07408215765534414
+retrievability: 0.2411799948253509
+review: 20220331013333561
+stability: 0.05488141221849455
 tags: EnglishWord ?
 title: fascinates
 type: text/vnd.tiddlywiki

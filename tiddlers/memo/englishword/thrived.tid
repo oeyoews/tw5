@@ -1,17 +1,17 @@
 created: 20220222030904942
 creator: oeyoews
-difficulty: 1.531408308816297
-due: 20220331013844682
-grade: 1
-history: [{"due":"20220303063759702","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302063759702"},{"due":"20220307001952221","interval":4,"difficulty":1.1759478447552063,"stability":0.07545638712607733,"retrievability":0.019776864699927257,"grade":0,"lapses":1,"reps":1,"review":"20220306001952221"},{"due":"20220316041649226","interval":1,"difficulty":1,"stability":8.594869020011865,"retrievability":0.24750856222931497,"grade":2,"lapses":1,"reps":2,"review":"20220307041649226"},{"due":"20220317011027095","interval":9,"difficulty":2.0955413989503753,"stability":0.054885141354873004,"retrievability":0.8955413989503751,"grade":0,"lapses":2,"reps":1,"review":"20220316011027094"},{"due":"20220318054642835","interval":1,"difficulty":2.4421990036382786,"stability":0.04065843936722075,"retrievability":0.1466576046879033,"grade":0,"lapses":3,"reps":1,"review":"20220317054642835"},{"due":"20220325083954104","interval":1,"difficulty":1,"stability":7.086090684894753,"retrievability":0.07491833605611539,"grade":2,"lapses":3,"reps":2,"review":"20220318083954103"},{"due":"20220326054409180","interval":7,"difficulty":2.101152783742513,"stability":0.030119557630782685,"retrievability":0.9011527837425127,"grade":0,"lapses":4,"reps":1,"review":"20220325054409180"},{"due":"20220326164402707","interval":0,"difficulty":2.301152783742513,"stability":0.030119557630782685,"retrievability":1,"grade":1,"lapses":4,"reps":2,"review":"20220325164402707"}]
-interval: 1
+difficulty: 1
+due: 20220423020939373
+grade: 2
+history: [{"due":"20220303063759702","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302063759702"},{"due":"20220307001952221","interval":4,"difficulty":1.1759478447552063,"stability":0.07545638712607733,"retrievability":0.019776864699927257,"grade":0,"lapses":1,"reps":1,"review":"20220306001952221"},{"due":"20220316041649226","interval":1,"difficulty":1,"stability":8.594869020011865,"retrievability":0.24750856222931497,"grade":2,"lapses":1,"reps":2,"review":"20220307041649226"},{"due":"20220317011027095","interval":9,"difficulty":2.0955413989503753,"stability":0.054885141354873004,"retrievability":0.8955413989503751,"grade":0,"lapses":2,"reps":1,"review":"20220316011027094"},{"due":"20220318054642835","interval":1,"difficulty":2.4421990036382786,"stability":0.04065843936722075,"retrievability":0.1466576046879033,"grade":0,"lapses":3,"reps":1,"review":"20220317054642835"},{"due":"20220325083954104","interval":1,"difficulty":1,"stability":7.086090684894753,"retrievability":0.07491833605611539,"grade":2,"lapses":3,"reps":2,"review":"20220318083954103"},{"due":"20220326054409180","interval":7,"difficulty":2.101152783742513,"stability":0.030119557630782685,"retrievability":0.9011527837425127,"grade":0,"lapses":4,"reps":1,"review":"20220325054409180"},{"due":"20220326164402707","interval":0,"difficulty":2.301152783742513,"stability":0.030119557630782685,"retrievability":1,"grade":1,"lapses":4,"reps":2,"review":"20220325164402707"},{"due":"20220331013844682","interval":1,"difficulty":1.531408308816297,"stability":4.4538316593356635,"retrievability":0.030255525073783842,"grade":1,"lapses":4,"reps":3,"review":"20220327013844682"}]
+interval: 4
 lapses: 4
-modified: 20220327013844682
+modified: 20220331020939373
 modifier: @oeyoews
-reps: 3
-retrievability: 0.030255525073783842
-review: 20220327013844682
-stability: 4.4538316593356635
+reps: 4
+retrievability: 0.9097143723731982
+review: 20220331020939372
+stability: 23.182619990802902
 tags: EnglishWord ?
 title: thrived
 type: text/vnd.tiddlywiki
@@ -22,5 +22,6 @@ thrived
 英/美 [θraiv]
 v. 兴盛，繁荣（thrive的过去式和过去分词形式）
 CET4 TEM4  ( thriving, thrived, thrives )
+[[threat]]
 """
 <<<

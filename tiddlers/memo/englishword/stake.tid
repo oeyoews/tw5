@@ -1,17 +1,17 @@
 created: 20220319032959521
 creator: @oeyoews
 difficulty: 1
-due: 20220331062715456
-grade: 1
-history: [{"due":"20220321081938420","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320081938419"},{"due":"20220322064446786","interval":1,"difficulty":1.5549505765857377,"stability":0.07408249324251646,"retrievability":0.34868176841798704,"grade":0,"lapses":1,"reps":1,"review":"20220321064446786"}]
-interval: 1
+due: 20220516013725476
+grade: 2
+history: [{"due":"20220321081938420","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320081938419"},{"due":"20220322064446786","interval":1,"difficulty":1.5549505765857377,"stability":0.07408249324251646,"retrievability":0.34868176841798704,"grade":0,"lapses":1,"reps":1,"review":"20220321064446786"},{"due":"20220331062715456","interval":1,"difficulty":1,"stability":8.569934531523112,"retrievability":0.24118154863103877,"grade":1,"lapses":1,"reps":2,"review":"20220322062715456"}]
+interval: 9
 lapses: 1
-modified: 20220322062715456
+modified: 20220331013725476
 modifier: @oeyoews
-reps: 2
-retrievability: 0.24118154863103877
-review: 20220322062715456
-stability: 8.569934531523112
+reps: 3
+retrievability: 0.8952539769164432
+review: 20220331013725476
+stability: 45.51995034365141
 tags: EnglishWord ?
 title: stake
 type: text/vnd.tiddlywiki
