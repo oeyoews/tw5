@@ -1,19 +1,10 @@
 created: 20220304020147051
 creator: oeyoews
-difficulty: 1
-due: 20220401015341880
-grade: 2
 history: [{"due":"20220305033551644","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220304033551644"}]
-interval: 1
-lapses: 0
-modified: 20220311044418201
+modified: 20220401020808432
 modifier: @oeyoews
-reps: 2
-retrievability: 0.3750069880117309
-review: 20220305015341880
-stability: 26.783090178331225
-tags: EnglishWord ?
-title: cronntab
+tags: EnglishWord !
+title: crontab
 type: text/vnd.tiddlywiki
 
 <<<.tc-fish-quote

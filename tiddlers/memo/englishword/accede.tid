@@ -1,17 +1,17 @@
 created: 20220322131819445
 creator: @oeyoews
-difficulty: 1.5154334157033162
-due: 20220401013848807
+difficulty: 1.8620718918279409
+due: 20220402020239310
 grade: 0
-history: [{"due":"20220329161021658","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161021658"},{"due":"20220331011636597","interval":1,"difficulty":1.0742534208779655,"stability":0.07408215765534414,"retrievability":0.3486801042625608,"grade":0,"lapses":1,"reps":1,"review":"20220330011636597"}]
+history: [{"due":"20220329161021658","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161021658"},{"due":"20220331011636597","interval":1,"difficulty":1.0742534208779655,"stability":0.07408215765534414,"retrievability":0.3486801042625608,"grade":0,"lapses":1,"reps":1,"review":"20220330011636597"},{"due":"20220401013848807","interval":1,"difficulty":1.5154334157033162,"stability":0.05488141221849455,"retrievability":0.2411799948253509,"grade":0,"lapses":2,"reps":1,"review":"20220331013848807"}]
 interval: 1
-lapses: 2
-modified: 20220331013848807
+lapses: 3
+modified: 20220401020239310
 modifier: @oeyoews
 reps: 1
-retrievability: 0.2411799948253509
-review: 20220331013848807
-stability: 0.05488141221849455
+retrievability: 0.14663847612462463
+review: 20220401020239310
+stability: 0.04065715014820503
 tags: EnglishWord ?
 title: accede
 type: text/vnd.tiddlywiki

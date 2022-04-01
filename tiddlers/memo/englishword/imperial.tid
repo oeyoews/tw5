@@ -1,17 +1,17 @@
 created: 20220321094340302
 creator: @oeyoews
 difficulty: 1
-due: 20220401050259266
-grade: 1
-history: [{"due":"20220323050051978","interval":0,"difficulty":0.9144993432747036,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220322050051978"}]
-interval: 1
+due: 20220517020513186
+grade: 2
+history: [{"due":"20220323050051978","interval":0,"difficulty":0.9144993432747036,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220322050051978"},{"due":"20220401050259266","interval":1,"difficulty":1,"stability":8.830297176503736,"retrievability":0.3486801042625608,"grade":1,"lapses":0,"reps":2,"review":"20220323050259266"}]
+interval: 9
 lapses: 0
-modified: 20220323050259267
+modified: 20220401020513186
 modifier: @oeyoews
-reps: 2
-retrievability: 0.3486801042625608
-review: 20220323050259266
-stability: 8.830297176503736
+reps: 3
+retrievability: 0.8981794838740004
+review: 20220401020513186
+stability: 45.56397670957239
 tags: EnglishWord ?
 title: imperial
 type: text/vnd.tiddlywiki

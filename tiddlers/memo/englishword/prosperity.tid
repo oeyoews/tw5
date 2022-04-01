@@ -1,17 +1,17 @@
 created: 20220320090200674
 creator: @oeyoews
-difficulty: 2.101151352278708
-due: 20220401003156647
+difficulty: 2.3314068773524923
+due: 20220402020903440
 grade: 0
-history: [{"due":"20220321113114206","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320113114206"},{"due":"20220322041538346","interval":1,"difficulty":1.5549505765857377,"stability":0.07408249324251646,"retrievability":0.34868176841798704,"grade":0,"lapses":1,"reps":1,"review":"20220321041538345"},{"due":"20220323062906304","interval":1,"difficulty":1.9961321252167763,"stability":0.05488141221849455,"retrievability":0.24118154863103877,"grade":0,"lapses":2,"reps":1,"review":"20220322062906303"},{"due":"20220324063240658","interval":1,"difficulty":2.342770601341401,"stability":0.04065715014820503,"retrievability":0.14663847612462463,"grade":0,"lapses":3,"reps":1,"review":"20220323063240658"},{"due":"20220331032608973","interval":1,"difficulty":1,"stability":7.085982538226662,"retrievability":0.07491218021741076,"grade":2,"lapses":3,"reps":2,"review":"20220324032608972"}]
-interval: 7
-lapses: 4
-modified: 20220331003156647
+history: [{"due":"20220321113114206","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320113114206"},{"due":"20220322041538346","interval":1,"difficulty":1.5549505765857377,"stability":0.07408249324251646,"retrievability":0.34868176841798704,"grade":0,"lapses":1,"reps":1,"review":"20220321041538345"},{"due":"20220323062906304","interval":1,"difficulty":1.9961321252167763,"stability":0.05488141221849455,"retrievability":0.24118154863103877,"grade":0,"lapses":2,"reps":1,"review":"20220322062906303"},{"due":"20220324063240658","interval":1,"difficulty":2.342770601341401,"stability":0.04065715014820503,"retrievability":0.14663847612462463,"grade":0,"lapses":3,"reps":1,"review":"20220323063240658"},{"due":"20220331032608973","interval":1,"difficulty":1,"stability":7.085982538226662,"retrievability":0.07491218021741076,"grade":2,"lapses":3,"reps":2,"review":"20220324032608972"},{"due":"20220401003156647","interval":7,"difficulty":2.101151352278708,"stability":0.030119557630782685,"retrievability":0.9011513522787079,"grade":0,"lapses":4,"reps":1,"review":"20220331003156647"}]
+interval: 1
+lapses: 5
+modified: 20220401020903440
 modifier: @oeyoews
 reps: 1
-retrievability: 0.9011513522787079
-review: 20220331003156647
-stability: 0.030119557630782685
+retrievability: 0.030255525073783842
+review: 20220401020903440
+stability: 0.022313117091756884
 tags: EnglishWord ?
 title: prosperity
 type: text/vnd.tiddlywiki

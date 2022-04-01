@@ -1,18 +1,9 @@
 created: 20220225081430667
 creator: oeyoews
-difficulty: 3.166431662709575
-due: 20220401013443072
-grade: 0
 history: [{"due":"20220308150951876","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307150951876"},{"due":"20220312070701516","interval":1,"difficulty":2.9830495523194847,"stability":4.163309058210984,"retrievability":0.35037881052010367,"grade":2,"lapses":0,"reps":2,"review":"20220308070701516"},{"due":"20220331043352315","interval":5,"difficulty":2.0641932281711215,"stability":18.434629188252348,"retrievability":0.8811436758516364,"grade":2,"lapses":0,"reps":3,"review":"20220313043352315"}]
-interval: 18
-lapses: 1
-modified: 20220331013443073
+modified: 20220401020338019
 modifier: @oeyoews
-reps: 1
-retrievability: 0.9022384345384532
-review: 20220331013443072
-stability: 0.07408215765534414
-tags: EnglishWord ?
+tags: EnglishWord !
 title: indirect
 type: text/vnd.tiddlywiki
 

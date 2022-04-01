@@ -1,18 +1,9 @@
 created: 20220225021158609
 creator: oeyoews
-difficulty: 1
-due: 20220401015345213
-grade: 2
 history: [{"due":"20220305033528412","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220304033528412"}]
-interval: 1
-lapses: 0
-modified: 20220311044418229
+modified: 20220401020327068
 modifier: @oeyoews
-reps: 2
-retrievability: 0.3750069880117309
-review: 20220305015345213
-stability: 26.783090178331225
-tags: EnglishWord ?
+tags: EnglishWord !
 title: situation
 type: text/vnd.tiddlywiki
 

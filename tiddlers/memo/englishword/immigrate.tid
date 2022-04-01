@@ -1,17 +1,17 @@
 created: 20220321094157807
 creator: @oeyoews
 difficulty: 1
-due: 20220401050201577
-grade: 1
-history: [{"due":"20220323045157189","interval":0,"difficulty":0.9144993432747036,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220322045157189"}]
-interval: 1
+due: 20220517020520551
+grade: 2
+history: [{"due":"20220323045157189","interval":0,"difficulty":0.9144993432747036,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220322045157189"},{"due":"20220401050201577","interval":1,"difficulty":1,"stability":8.830297176503736,"retrievability":0.3486801042625608,"grade":1,"lapses":0,"reps":2,"review":"20220323050201577"}]
+interval: 9
 lapses: 0
-modified: 20220323050201577
+modified: 20220401020520551
 modifier: @oeyoews
-reps: 2
-retrievability: 0.3486801042625608
-review: 20220323050201577
-stability: 8.830297176503736
+reps: 3
+retrievability: 0.8981794838740004
+review: 20220401020520550
+stability: 45.56397670957239
 tags: EnglishWord ?
 title: immigrate
 type: text/vnd.tiddlywiki
