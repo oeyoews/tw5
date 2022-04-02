@@ -159,6 +159,7 @@
 - [ ] feat: change fontawesome icon color
 - [ ] feat: change fold to right
 - [ ] feat: hide some private tiddlers
+- [ ] feat: config float message box
 
 ## Broken
 

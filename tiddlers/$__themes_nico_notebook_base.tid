@@ -577,7 +577,8 @@ input:focus, textarea:focus {
 }
 
 button {
-  border-radius: 1.5em;
+  /*border-radius: 1.5em;*/
+  border-radius: 3px;
   border: 1px solid #ccc;
   background: <<colour tiddler-background>>;
   padding: .3em 1em;
@@ -713,16 +714,18 @@ div.tc-tab-buttons {
   margin-bottom: -4px;
 }
 
+/*oeyoews*/
 div.tc-tab-buttons button {
   font-weight: bold;
   font-size: 1.2em;
   line-height: 1em;
   padding: .6em .8em .4em .8em;
   /*border: none;*/
-  border-radius: 5px;
+  border-radius: 3px;
   background: unset;
   cursor: pointer;
   transition: background ease-in .2s;
+  margin: 3px;
 }
 
 /*oeyoews*/
@@ -734,6 +737,7 @@ div.tc-tab-buttons button:hover {
 .tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button {
   border: none;
   /*background-color: none;*/
+  margin: 3px;
 }
 .tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button.tc-tab-selected {
   background-color: #5972d9;
