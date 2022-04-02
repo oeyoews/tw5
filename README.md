@@ -161,6 +161,7 @@
 - [ ] feat: hide some private tiddlers
 - [ ] feat: config float message box
 - [ ] fix: fix mouse hover
+- [ ] bug: notebook reveal mousehover have some bug(part show)
 
 ## Broken
 

@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220319135720434","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318135720434"},{"due":"20220328123345397","interval":1,"difficulty":1,"stability":8.830302388320703,"retrievability":0.3486850967074362,"grade":2,"lapses":0,"reps":2,"review":"20220319123345397"}]
 interval: 8
 lapses: 0
-modified: 20220327165023279
+modified: 20220402075052057
 modifier: @oeyoews
 reps: 3
 retrievability: 0.9089605392018921
@@ -23,6 +23,7 @@ reveal
 vt. 显示；透露；''揭露''；泄露
 n. 揭露；暴露；门侧，窗侧
 CET4 TEM4  ( revealing, revealed, reveals )
+[[reveal]]
 [[reverse]]
 """
 <<<
