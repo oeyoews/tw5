@@ -84,7 +84,7 @@ a.tc-tiddlylink-external:hover {
   /*-webkit-text-fill-color: none;*/
   background-color: <<colour page-background>>;
   color: <<colour tiddler-link-foreground>>;
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
 
 

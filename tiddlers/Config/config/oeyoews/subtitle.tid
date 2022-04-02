@@ -1,6 +1,6 @@
 created: 20220218072617844
 creator: oeyoews
-modified: 20220331053529512
+modified: 20220402135810241
 modifier: @oeyoews
 tags: config
 title: $:/config/oeyoews/subtitle
@@ -24,4 +24,4 @@ type: text/vnd.tiddlywiki
  🎋
 -->
 <$count filter="[tag[EnglishWord]]"/> ewtiddlers ! 
- [[📑🐬|https://gitlab.com/oeyoews/tw5/]]
+ [[📑|https://gitlab.com/oeyoews/tw5/]]
