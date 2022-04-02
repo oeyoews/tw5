@@ -4,7 +4,7 @@ alert-highlight: #d33682
 alert-muted-foreground: #d33682
 background: #073642
 blockquote-bar: #b8f316
-button-background: #073642
+button-background: 
 button-border: #586e75
 button-foreground: #93a1a1
 code-background: #021f26
