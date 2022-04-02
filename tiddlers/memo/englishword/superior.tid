@@ -1,17 +1,17 @@
 created: 20220317012302347
 creator: @oeyoews
-difficulty: 1
-due: 20220402054932049
+difficulty: 1.1033878068599925
+due: 20220531023030432
 grade: 1
-history: [{"due":"20220319144031851","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318144031851"}]
-interval: 2
+history: [{"due":"20220319144031851","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318144031851"},{"due":"20220402054932049","interval":2,"difficulty":1,"stability":13.480723478488205,"retrievability":0.12158129666587415,"grade":1,"lapses":0,"reps":2,"review":"20220320054932049"}]
+interval: 13
 lapses: 0
-modified: 20220320054932049
+modified: 20220402023030432
 modifier: @oeyoews
-reps: 2
-retrievability: 0.12158129666587415
-review: 20220320054932049
-stability: 13.480723478488205
+reps: 3
+retrievability: 0.9033878068599924
+review: 20220402023030432
+stability: 58.99964734788596
 tags: EnglishWord ?
 title: superior
 type: text/vnd.tiddlywiki
