@@ -56,7 +56,8 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover {
   /** hover动画 */
   transition: opcity ease-in 0s;
   border-radius: 3px;
-  padding: 2px 5px 3px 4px;
+  /*bug: for search wrong*/
+  /*padding: 2px 5px 3px 4px;*/
 }
 a.tc-tiddlylink:hover {
   background-color: <<colour page-background>>;
@@ -76,11 +77,14 @@ a.tc-tiddlylink-external, a.tc-tiddlylink-external:visited {
 }
 
 a.tc-tiddlylink-external:hover {
-  background-color: <<colour external-link-background-hover>>;
-  background-image: <<colour external-link-background-clip-image>>;
-  background-clip: border-box;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: none;
+  /*background-color: <<colour external-link-background-hover>>;*/
+  /*background-image: <<colour external-link-background-clip-image>>;*/
+  /*background-clip: border-box;*/
+  /*-webkit-background-clip: text;*/
+  /*-webkit-text-fill-color: none;*/
+  background-color: <<colour page-background>>;
+  color: <<colour tiddler-link-foreground>>;
+  text-decoration: underline;
 }
 
 
