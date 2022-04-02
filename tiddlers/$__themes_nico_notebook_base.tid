@@ -62,7 +62,7 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover {
 a.tc-tiddlylink:hover {
   background-color: <<colour page-background>>;
   color: <<colour tiddler-link-foreground>>;
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
 
 a.tc-tiddlylink-external, a.tc-tiddlylink-external:visited {
