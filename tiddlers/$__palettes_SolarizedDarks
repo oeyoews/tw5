@@ -25,9 +25,9 @@ external-link-background-visited: inherit
 external-link-foreground: #1a8de0
 external-link-foreground-visited: #268bd2
 foreground: #839496
-message-background: #002b36
-message-border: #586e75
-message-foreground: #839496
+message-background: #084111
+message-border: none
+message-foreground: #0fa10f
 modal-backdrop: #657b83
 modal-background: #002b36
 modal-border: #586e75
