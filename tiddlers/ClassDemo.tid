@@ -1,0 +1,18 @@
+created: 20220402131632821
+creator: @oeyoews
+modified: 20220402132043929
+modifier: @oeyoews
+tags: $:/tags/Stylesheet
+title: ClassDemo
+type: text/vnd.tiddlywiki
+
+.oeyoewsdemocenter {
+	color: green;
+	border-radius: 3px;
+	background: cyan;
+	float: center;
+	display: inline-block;
+	padding: 5px;
+}
+
+[[Classdemo]]
