@@ -56,6 +56,7 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover {
   /** hover动画 */
   transition: opcity ease-in 0s;
   border-radius: 3px;
+  padding: 2px 5px 3px 4px;
 }
 a.tc-tiddlylink:hover {
   background-color: <<colour page-background>>;
