@@ -163,6 +163,7 @@
 - [ ] fix: fix mouse hover
 - [ ] bug: notebook reveal mousehover have some bug(part show)
 - [ ] bug: heatmap and calendar have some performance with jump specific tiddler
+- [ ] bug: fix add padding for link is conflict dropdown results
 
 ## Broken
 
