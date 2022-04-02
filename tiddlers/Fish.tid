@@ -2,7 +2,7 @@ color: #b8f316
 created: 20220321161022091
 creator: @oeyoews
 icon: $:/plugins/oflg/fishing/icon
-modified: 20220402123459729
+modified: 20220402124555599
 modifier: @oeyoews
 tags: 
 title: Fish
@@ -19,7 +19,10 @@ type: text/vnd.tiddlywiki
 >
     <$list filter="[<tv-config-toolbar-icons>match[yes]]">
 			<div style="text-aligh:left">
-        {{$:/config/oeyoews/subtitlefooter}}
+			<!--
+       {{$:/plugins/oflg/fishing/icon}}&nbsp;
+			 -->
+			 {{$:/config/oeyoews/subtitlefooter}}
 			</div>
     </$list>
     <$list filter="[<tv-config-toolbar-text>match[yes]]">

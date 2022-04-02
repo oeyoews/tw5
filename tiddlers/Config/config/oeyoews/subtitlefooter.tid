@@ -1,14 +1,13 @@
 created: 20220310033519322
 creator: @oeyoews
-modified: 20220402123412273
+modified: 20220402124433113
 modifier: @oeyoews
 tags: config
 title: $:/config/oeyoews/subtitlefooter
 type: text/vnd.tiddlywiki
 
-<div style="border-radius: 3px;background:#084111; color:#0fa10f;font-size:50%; padding: 2px 5px 2px;display: inline-block; float: right">
+<div style="border-radius: 3px;background:#084111; color:#0fa10f;font-size:100%; padding: 5px 10px 5px;display: inline-block; float: right">
 <$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
-
 Updated
 <!--
 <$view field="modified" format="date" template="YYYY-0MM-0DD 
