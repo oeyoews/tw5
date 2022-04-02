@@ -1,4 +1,4 @@
-<div style="text-align: left;background: lightgreen;border-radius: 5px; float:none">
+<div style="text-align: left;background: #f6f8fa; border-radius: 3px; float:none; display: inline-block; padding: 4px;">
 
 <details>
 <summary>TOC</summary>
@@ -165,6 +165,7 @@
 - [ ] bug: heatmap and calendar have some performance with jump specific tiddler
 - [ ] bug: fix add padding for link is conflict dropdown results
 - [ ] fix: drated ui config
+- [ ] feat: use scroll to hide sidebar for mobile, and come true like banner to scrool some button
 
 ## Broken
 
