@@ -160,6 +160,7 @@
 - [ ] feat: change fold to right
 - [ ] feat: hide some private tiddlers
 - [ ] feat: config float message box
+- [ ] fix: fix mouse hover
 
 ## Broken
 
