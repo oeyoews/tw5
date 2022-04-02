@@ -1,9 +1,9 @@
 created: 20220310033519322
 creator: @oeyoews
-modified: 20220402123133627
+modified: 20220402123412273
 modifier: @oeyoews
 tags: config
-title: subtitlefooter
+title: $:/config/oeyoews/subtitlefooter
 type: text/vnd.tiddlywiki
 
 <div style="border-radius: 3px;background:#084111; color:#0fa10f;font-size:50%; padding: 2px 5px 2px;display: inline-block; float: right">
