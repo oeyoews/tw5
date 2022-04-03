@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20220304075654204","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075654204"}]
 interval: 3
 lapses: 0
-modified: 20220311044418222
+modified: 20220403135908049
 modifier: @oeyoews
 reps: 2
 retrievability: 0.05273732312238567
@@ -23,5 +23,6 @@ vt. 提示；促进；激起；（给演员）提白
 n. 提示；付款期限；DOS命令：改变DOS系统提示符的风格
 adv. 准时地
 CET4 TEM4  ( prompting, prompted, prompts )
+[[agile]]
 """
 <<<
