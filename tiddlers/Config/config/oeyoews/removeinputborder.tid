@@ -1,12 +1,23 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220403093702835
+modified: 20220403100417524
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
 type: text/vnd.tiddlywiki
 
+.tc-improvement-banner {
+   font-size: 0.7em;
+   background: black;
+   padding-left: 5px;
+   margin-top: 6px;
+   margin-bottom: 12px;
+   -webkit-box-shadow: 2px 2px 2px rgb(0 0 0 / 40%);
+ 	 -moz-box-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+   box-shadow: 2px 2px 2px rgb(0 0 0 / 40%);
+	 border-radius: 3px;
+}
 .tc-message-box {
 	border-radius: 3px;
 	border: 1px solid red;

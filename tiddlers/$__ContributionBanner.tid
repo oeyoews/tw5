@@ -1,9 +1,9 @@
-created: 20220305054212626
-creator: oeyoews
+created: 20220403095659824
+creator: @oeyoews
 list-after: $:/core/ui/EditTemplate/title
-modified: 20220316011732321
+modified: 20220403100009954
 modifier: @oeyoews
-tags: deprecated
+tags: $:/tags/EditTemplate
 title: $:/ContributionBanner
 type: text/vnd.tiddlywiki
 
@@ -14,7 +14,7 @@ https://gitlab.com/oeyoews/tw5/tree/main/tiddlers/
 <$set name="draft-of" value={{{ [<currentTiddler>get[draft.of]] }}}>
 <$list filter="[[$:/config/OriginalTiddlerPaths]getindex<draft-of>]" variable="target" >
 <div class="tc-improvement-banner">
-<<.icon "$:/core/images/star-filled">> Can you help us improve this documentation? [[Find out how|Improving TiddlyWiki Documentation]] to
+<<.icon "$:/images/boxicons/logos/bxl-gitlab">> Can you help us improve this documentation?  to
 <a href={{{ [<target>addprefix<base-github>] }}} class="tc-tiddlylink-external" target="_blank" rel="noopener noreferrer">edit this tiddler on Gitlab</a>
 </div>
 </$list>
