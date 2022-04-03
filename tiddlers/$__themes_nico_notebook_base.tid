@@ -125,8 +125,10 @@ button:not(.tc-btn-invisible) {
   /** hover动画 */
   transition: background-color 0.2s;
 }
+
 button:not(.tc-btn-invisible):hover {
   background-color: <<colour button-background-hover>>;
+  /*background-color: cyan;*/
 }
 
 button:not(.tc-btn-invisible) svg {

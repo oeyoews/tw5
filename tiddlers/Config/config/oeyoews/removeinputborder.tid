@@ -1,11 +1,19 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220328055028496
+modified: 20220403093702835
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
 type: text/vnd.tiddlywiki
+
+.tc-message-box {
+	border-radius: 3px;
+	border: 1px solid red;
+	background: none;
+	margin-left: 5px;
+	font-size: 14px;
+}
 
 .py-tabs.tc-tab-buttons button.tc-tab-selected {
     border: 0;
