@@ -1,7 +1,7 @@
 caption: Subtitle Template
 created: 20210611015734693
 creator: @oeyoews
-modified: 20220403053241360
+modified: 20220403104631472
 modifier: @oeyoews
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/subtitle
@@ -14,20 +14,22 @@ type: text/vnd.tiddlywiki
 
 <$list filter="[all[current]has[created]]">
 <div>
-<i class="fa fa-history"/>&ensp;Created &nbsp;<$view field="created" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss"/>
+<i class="fa fa-history" style="color: #49fd17"/>&ensp;Created &nbsp;<$view field="created" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss"/>
 </div>
 </$list>
 <$list filter="[all[current]has[modified]]">
 <div>
-<i class="fa fa-clock"/>&ensp;Updated &nbsp;<$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss" />
+<i class="fa fa-clock" style="color: yellow"/>&ensp;Updated &nbsp;<$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss" />
 <!--
 &nbsp; <$view field="modified" format="relativedate"/>
+<<.icon $:/images/coreui-icons/brand/cib-hotjar>>&ensp;
 -->
 </div>
 </$list>
 <$list filter="[all[current]has[lapses]]">
 <div>
-<<.icon $:/images/coreui-icons/brand/cib-hotjar>>&ensp;
+<i class="fa-solid fa-fire" style="color: red"/>
+&ensp;
 ~ForgetTimes
 &nbsp;
 <$view field="lapses"/>
