@@ -1,8 +1,8 @@
 stages:
-  #- test
-  #- deploy
+  - test
+  - deploy
 
-.test:
+test:
   script:
     echo Hello
 
