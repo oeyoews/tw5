@@ -159,7 +159,7 @@
 - [ ] feat: change fontawesome icon color
 - [ ] feat: change fold to right
 - [ ] feat: hide some private tiddlers
-- [ ] fix: config float message box
+- [x] fix: config float message box
 - [ ] fix: fix mouse hover
 - [ ] bug: notebook reveal mousehover have some bug(part show)
 - [ ] bug: heatmap and calendar have some performance with jump specific tiddler

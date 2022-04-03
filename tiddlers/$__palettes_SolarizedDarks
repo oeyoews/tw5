@@ -35,8 +35,8 @@ modal-footer-background: #073642
 modal-footer-border: #586e75
 modal-header-border: #586e75
 muted-foreground: #93a1a1
-notification-background: #002b36
-notification-border: #586e75
+notification-background: cyan
+notification-border: none
 page-background: #073642
 pre-background: inherit
 pre-border: #657b83
