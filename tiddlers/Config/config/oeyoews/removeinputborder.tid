@@ -1,7 +1,7 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220403101513380
+modified: 20220403101807402
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 
 .tc-improvement-banner {
    font-size: 0.7em;
-   background: #084111;
+   background: #073642;
    padding-left: 5px;
    margin-top: 6px;
    margin-bottom: 12px;
