@@ -1,7 +1,7 @@
 caption: Subtitle Template
 created: 20210611015734693
 creator: @oeyoews
-modified: 20220403105535278
+modified: 20220403110142594
 modifier: @oeyoews
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/subtitle
@@ -29,6 +29,8 @@ type: text/vnd.tiddlywiki
 <$list filter="[all[current]has[lapses]]">
 <div>
 <i class="fa fa-fire" style="color: red"/>
+&ensp;
+<i class="fa fa-spinner fa-pulse" style="color:red"/>
 &ensp;
 ~ForgetTimes
 &nbsp;
