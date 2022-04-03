@@ -6,7 +6,7 @@ grade: 2
 history: [{"due":"20220307114913156","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306114913155"},{"due":"20220311013216076","interval":1,"difficulty":3.5503788105201037,"stability":3.6971315838315895,"retrievability":0.35037881052010367,"grade":2,"lapses":0,"reps":2,"review":"20220307013216076"},{"due":"20220325145947489","interval":4,"difficulty":2.6426442329275828,"stability":13.536687015770887,"retrievability":0.8922654224074793,"grade":2,"lapses":0,"reps":3,"review":"20220311145947489"}]
 interval: 14
 lapses: 0
-modified: 20220325054456924
+modified: 20220403034206496
 modifier: @oeyoews
 reps: 4
 retrievability: 0.8967603383317053
@@ -24,5 +24,6 @@ vt. 密封；盖章
 vi. 猎海豹
 n. (Seal)人名；(英)西尔
 CET4  ( sealing, sealed, seals )
+[[zeal]]
 """
 <<<
