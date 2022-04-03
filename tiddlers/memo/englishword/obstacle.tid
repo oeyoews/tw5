@@ -1,17 +1,17 @@
 created: 20220327073709857
 creator: @oeyoews
-difficulty: 2.136984072045352
-due: 20220403023154481
-grade: 0
-history: [{"due":"20220329161235013","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161235013"},{"due":"20220331012214500","interval":1,"difficulty":1.0742534208779655,"stability":0.07408215765534414,"retrievability":0.3486801042625608,"grade":0,"lapses":1,"reps":1,"review":"20220330012214500"},{"due":"20220401013655671","interval":1,"difficulty":1.5154334157033162,"stability":0.05488141221849455,"retrievability":0.2411799948253509,"grade":0,"lapses":2,"reps":1,"review":"20220331013655671"},{"due":"20220402020745444","interval":1,"difficulty":1.8620718918279409,"stability":0.04065715014820503,"retrievability":0.14663847612462463,"grade":0,"lapses":3,"reps":1,"review":"20220401020745443"}]
+difficulty: 1
+due: 20220409014848965
+grade: 2
+history: [{"due":"20220329161235013","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161235013"},{"due":"20220331012214500","interval":1,"difficulty":1.0742534208779655,"stability":0.07408215765534414,"retrievability":0.3486801042625608,"grade":0,"lapses":1,"reps":1,"review":"20220330012214500"},{"due":"20220401013655671","interval":1,"difficulty":1.5154334157033162,"stability":0.05488141221849455,"retrievability":0.2411799948253509,"grade":0,"lapses":2,"reps":1,"review":"20220331013655671"},{"due":"20220402020745444","interval":1,"difficulty":1.8620718918279409,"stability":0.04065715014820503,"retrievability":0.14663847612462463,"grade":0,"lapses":3,"reps":1,"review":"20220401020745443"},{"due":"20220403023154481","interval":1,"difficulty":2.136984072045352,"stability":0.030119557630782685,"retrievability":0.07491218021741076,"grade":0,"lapses":4,"reps":1,"review":"20220402023154480"}]
 interval: 1
 lapses: 4
-modified: 20220402023154481
+modified: 20220403014848965
 modifier: @oeyoews
-reps: 1
-retrievability: 0.07491218021741076
-review: 20220402023154480
-stability: 0.030119557630782685
+reps: 2
+retrievability: 0.030255525073783842
+review: 20220403014848965
+stability: 5.991551007283429
 tags: EnglishWord ?
 title: obstacle
 type: text/vnd.tiddlywiki
@@ -22,5 +22,6 @@ obstacles
 英/美 ['ɔbstəkl]
 n. 障碍；障碍物（obstacle的复数形式）；阻碍
 CET4 TEM4  ( obstacles )
+[[hinder]]
 """
 <<<
