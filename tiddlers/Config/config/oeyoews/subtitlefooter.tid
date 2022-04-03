@@ -1,13 +1,13 @@
 caption: Footer
 created: 20220310033519322
 creator: @oeyoews
-modified: 20220403102844023
+modified: 20220403104845173
 modifier: @oeyoews
 tags: config
 title: $:/config/oeyoews/subtitlefooter
 type: text/vnd.tiddlywiki
 
-<div style="font-weight: regular;font-style: italic; border-radius: 4px;background:#002b36; color:#0fa10f;font-size:50%; padding: 2px 5px 2px;display: inline-block; float: right">
+<div style="font-weight: regular;font-style: italic; border-radius: 4px;background:#002b36; color:#2aa198;font-size:50%; padding: 2px 5px 2px;display: inline-block; float: right">
 
 <$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
 Updated
