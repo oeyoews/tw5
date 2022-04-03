@@ -601,12 +601,15 @@ button.tc-btn-invisible {
   border-radius: 0;
 }
 
+/*@oeyoews*/
 .tc-editor-toolbar button,
 .tc-editor-toolbar button.tc-btn-invisible {
   border-radius: 3px;
   background: <<colour tiddler-editor-background>>;
-  color: <<colour foreground>>;
-  fill: <<colour foreground>>;
+  /*color: <<colour foreground>>;*/
+  /*fill: <<colour foreground>>;*/
+  color: #2aa198;
+  fill: #2aa198;
   border: 2px solid <<colour tiddler-editor-border>>;
 }
 
