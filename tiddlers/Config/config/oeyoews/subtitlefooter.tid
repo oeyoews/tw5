@@ -1,7 +1,7 @@
 caption: Footer
 created: 20220310033519322
 creator: @oeyoews
-modified: 20220403110226586
+modified: 20220403110402508
 modifier: @oeyoews
 tags: config
 title: $:/config/oeyoews/subtitlefooter
@@ -22,5 +22,5 @@ Updated
 and have
 <$count filter="[tag[EnglishWord]]"/> tiddlers ! 
 </$list>
-<i class="fa fa-spinner fa-pulse"></i>
+<i class="fa fa-spinner fa-spin"></i>
 </div>
