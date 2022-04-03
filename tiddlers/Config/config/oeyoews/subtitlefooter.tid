@@ -1,22 +1,22 @@
 caption: Footer
 created: 20220310033519322
 creator: @oeyoews
-modified: 20220403015337772
+modified: 20220403094319818
 modifier: @oeyoews
 tags: config
 title: $:/config/oeyoews/subtitlefooter
 type: text/vnd.tiddlywiki
 
 <div style="font-weight: bold;font-style: italic; border-radius: 4px;background:#002b36; color:#0fa10f;font-size:50%; padding: 2px 5px 2px;display: inline-block; float: right">
-[[📑🐬|https://gitlab.com/oeyoews/tw5/]]
+[[🐬|https://gitlab.com/oeyoews/tw5/]]
 <$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
 Updated
 <!--
 <$view field="modified" format="date" template="YYYY-0MM-0DD 
 0hh:0mm:0ss"/> 
+🐟
 -->
 <$view field="modified" format="relativedate"/>
 
 </$list>
-🐟
 </div>
