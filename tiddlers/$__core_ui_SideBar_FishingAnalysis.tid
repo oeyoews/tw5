@@ -1,0 +1,21 @@
+caption: {{$:/language/fishing/fishing}}
+created: 20220404094708872
+creator: @oeyoews
+modified: 20220404094710975
+modifier: @oeyoews
+tags: 
+title: $:/core/ui/SideBar/FishingAnalysis
+type: text/vnd.tiddlywiki
+
+<div
+    class="tc-more-sidebar"
+>
+<$macrocall
+    $name="tabs"
+    tabsList="[all[shadows+tiddlers]tag[$:/tags/SideBar/FishingAnalysis]!is[draft]]"
+    default="$:/plugins/oflg/fishing-analysis/calendar/calendar"
+    state="$:/state/tab/fishing-analysis"
+    class="tc-vertical tc-sidebar-tabs-more"
+    explicitState="$:/state/tab/fishing-analysis"
+/>
+</div>
