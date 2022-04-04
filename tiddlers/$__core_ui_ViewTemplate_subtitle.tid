@@ -1,7 +1,7 @@
 caption: Subtitle Template
 created: 20210611015734693
 creator: @oeyoews
-modified: 20220403110457750
+modified: 20220404142039883
 modifier: @oeyoews
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/subtitle
@@ -23,6 +23,7 @@ type: text/vnd.tiddlywiki
 <!--
 &nbsp; <$view field="modified" format="relativedate"/>
 <<.icon $:/images/coreui-icons/brand/cib-hotjar>>&ensp;
+<i class="fa fa-spinner fa-spin" style="color:red"/>
 -->
 </div>
 </$list>
@@ -30,9 +31,7 @@ type: text/vnd.tiddlywiki
 <div>
 <i class="fa fa-fire" style="color: red"/>
 &ensp;
-<i class="fa fa-spinner fa-spin" style="color:red"/>
-&ensp;
-~ForgetTimes
+ForgetTimes
 &nbsp;
 <$view field="lapses"/>
 	</div>
