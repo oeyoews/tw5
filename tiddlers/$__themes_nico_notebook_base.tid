@@ -690,6 +690,8 @@ pre, code {
   /*padding: 0.2rem 0.3rem 0.1rem;*/
   padding: 2px 6px;
   margin: 5px;
+  border: 0px;
+  background: #073642;
   /*background: linear-gradient(19deg,<<colour code-background>>, #183075);*/
 }
 
