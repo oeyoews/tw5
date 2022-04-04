@@ -1,17 +1,17 @@
 created: 20220321022215231
 creator: @oeyoews
-difficulty: 2.885997954823976
-due: 20220404015131780
+difficulty: 4.085997954823976
+due: 20220404161430073
 grade: 0
-history: [{"due":"20220323045151640","interval":0,"difficulty":0.9144993432747036,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220322045151639"},{"due":"20220401045411160","interval":1,"difficulty":1,"stability":8.830297176503736,"retrievability":0.3486801042625608,"grade":1,"lapses":0,"reps":2,"review":"20220323045411159"},{"due":"20220402020658670","interval":9,"difficulty":2.0981794838740004,"stability":0.07408215765534414,"retrievability":0.8981794838740004,"grade":0,"lapses":1,"reps":1,"review":"20220401020658670"},{"due":"20220403011428102","interval":1,"difficulty":2.5393594786993514,"stability":0.05488141221849455,"retrievability":0.2411799948253509,"grade":0,"lapses":2,"reps":1,"review":"20220402011428102"}]
-interval: 1
-lapses: 3
-modified: 20220403015131780
+history: [{"due":"20220323045151640","interval":0,"difficulty":0.9144993432747036,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220322045151639"},{"due":"20220401045411160","interval":1,"difficulty":1,"stability":8.830297176503736,"retrievability":0.3486801042625608,"grade":1,"lapses":0,"reps":2,"review":"20220323045411159"},{"due":"20220402020658670","interval":9,"difficulty":2.0981794838740004,"stability":0.07408215765534414,"retrievability":0.8981794838740004,"grade":0,"lapses":1,"reps":1,"review":"20220401020658670"},{"due":"20220403011428102","interval":1,"difficulty":2.5393594786993514,"stability":0.05488141221849455,"retrievability":0.2411799948253509,"grade":0,"lapses":2,"reps":1,"review":"20220402011428102"},{"due":"20220404015131780","interval":1,"difficulty":2.885997954823976,"stability":0.04065715014820503,"retrievability":0.14663847612462463,"grade":0,"lapses":3,"reps":1,"review":"20220403015131779"}]
+interval: 0
+lapses: 4
+modified: 20220403161430074
 modifier: @oeyoews
 reps: 1
-retrievability: 0.14663847612462463
-review: 20220403015131779
-stability: 0.04065715014820503
+retrievability: 1
+review: 20220403161430073
+stability: 0.030119557630782685
 tags: EnglishWord ?
 title: anecdote
 type: text/vnd.tiddlywiki
