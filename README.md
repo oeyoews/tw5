@@ -114,6 +114,8 @@
 
 ## TODO
 
+- [ ] feat: use css linkstyle to replace fontawesome plugins
+- [ ] feat: use firacode css link
 - [ ] fix: fix list link color and bg
 - [ ] todo: learn use transition details
 - [ ] fix: use div(maybe) to compute current window location for fishing
