@@ -114,7 +114,7 @@
 
 ## TODO
 
-- [ ] feat: use css linkstyle to replace fontawesome plugins
+- [x] feat: use css linkstyle to replace fontawesome plugins(too obscure)
 - [ ] feat: use firacode css link
 - [ ] fix: fix list link color and bg
 - [ ] todo: learn use transition details
