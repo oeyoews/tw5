@@ -114,6 +114,8 @@
 
 ## TODO
 
+- [ ] feat: add fa class
+- [ ] add fish float loop
 - [ ] fix: fix code block for specific type
 - [x] feat: use css linkstyle to replace fontawesome plugins(too obscure)
 - [ ] feat: use firacode css link
