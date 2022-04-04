@@ -1,6 +1,6 @@
 created: 20220210193602229
 creator: @oeyoews
-modified: 20220328041731497
+modified: 20220404155608716
 modifier: @oeyoews
 tags: TiddlyWiki5
 title: Recommend TW5 websites
@@ -18,6 +18,10 @@ type: text/vnd.tiddlywiki
 !! images
 
 * https://unsplash.com/
+
+!! Plugins
+
+* https://github.com/thediveo/TW5FontAwesome
 
 ---
 !! personal wiki

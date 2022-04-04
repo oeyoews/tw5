@@ -1,0 +1,9 @@
+created: 20220404155825028
+creator: @oeyoews
+modified: 20220404160118353
+modifier: @oeyoews
+tags: $:/tags/RawMarkup
+title: $:/config/oeyoews/hitoko
+type: text/vnd.tiddlywiki
+
+<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
