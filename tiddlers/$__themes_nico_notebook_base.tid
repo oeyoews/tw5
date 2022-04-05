@@ -42,7 +42,8 @@ type: text/vnd.tiddlywiki
 */
 
 a.tc-tiddlylink, a.tc-tiddlylink:hover {
-  white-space: nowrap;
+  /*NOTE: toolbar can't wrap autmatically, need use more button to occury one all signle line*/
+  white-space: normal;
   word-break: break-word;
   overflow: hidden;
   text-overflow: ellipsis;
