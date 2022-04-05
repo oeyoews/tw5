@@ -114,6 +114,8 @@
 
 ## TODO
 
+- [x] feat: use fontawesome as external link, such to gitlab repo
+- [ ] feat: add shortkeys for controll (alt i) and jump inbox shortkey
 - [ ] feat: add fa class
 - [ ] add fish float loop
 - [ ] fix: fix code block for specific type
