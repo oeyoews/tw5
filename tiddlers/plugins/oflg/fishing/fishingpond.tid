@@ -6,7 +6,7 @@ createdorder: [sort[created]]
 creator: @oeyoews
 dueorder: [sort[due]]
 duepond: [has[due]] -[has[due]!days:due[1]]
-modified: 20220405053656539
+modified: 20220405070913361
 modifier: @oeyoews
 newpond: [!has[due]]
 randomorder: [sortrandom[]]
@@ -37,7 +37,9 @@ zaorder: [!sortan[]]
             class="tc-btn-invisible tc-tiddlylink"
             style="padding-right:10px;"
         >
+				<!-- self custom -->
 				<$action-sendmessage $message="tm-close-all-tiddlers"/>
+				<$action-sendmessage $message="tm-notify" $param="FishingZenMode"/>
             <$action-setfield
                 $tiddler="$:/temp/fishing"
                 text=""
