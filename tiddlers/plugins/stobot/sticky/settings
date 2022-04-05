@@ -11,8 +11,8 @@ trim-search: ^\W*?(\w|\<.*)
 todo-search: .*?(\<\<sticky\s".+?"\>\>).*
 done-message: Congratulations, All TODO is done!
 done-tooltip: Completed: <<now "YYYY-0MM-0DD hh12:0mm pm">>
-char-unchecked: &#x2610;
-char-checked: &#x2611;
+char-unchecked: &#xf0c8;
+char-checked: &#xf14a;
 active-css: color: #e1419f; font-weight: 500;
 done-css: color: #765add; font-weight: 500;
 delete-key: shift
