@@ -1,0 +1,9 @@
+created: 20220405012841705
+creator: @oeyoews
+modified: 20220405013055757
+modifier: @oeyoews
+tags: $:/tags/Stylesheet
+title: $:/oeyoews/fontawesomestyle
+type: text/vnd.tiddlywiki
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/all.css">

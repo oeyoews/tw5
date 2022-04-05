@@ -1,17 +1,17 @@
 created: 20220221090747176
 creator: oeyoews
-difficulty: 2.019681639805158
-due: 20220404012839163
-grade: 2
-history: [{"due":"20220227082858630","interval":1,"difficulty":3.780372221787294,"stability":3.3438749088254522,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20220224082858630"},{"due":"20220306163652375","interval":2,"difficulty":2.919299714988611,"stability":8.03234504094138,"retrievability":0.9389274932013171,"grade":2,"lapses":0,"reps":3,"review":"20220226163652375"},{"due":"20220306163652375","interval":2,"difficulty":2.919299714988611,"stability":8.03234504094138,"retrievability":0.9389274932013171,"grade":2,"lapses":0,"reps":3,"review":"20220226163652375"}]
-interval: 8
+difficulty: 2.1176064230227096
+due: 20220628011754010
+grade: 1
+history: [{"due":"20220227082858630","interval":1,"difficulty":3.780372221787294,"stability":3.3438749088254522,"retrievability":0.8325719125598604,"grade":1,"lapses":0,"reps":2,"review":"20220224082858630"},{"due":"20220306163652375","interval":2,"difficulty":2.919299714988611,"stability":8.03234504094138,"retrievability":0.9389274932013171,"grade":2,"lapses":0,"reps":3,"review":"20220226163652375"},{"due":"20220306163652375","interval":2,"difficulty":2.919299714988611,"stability":8.03234504094138,"retrievability":0.9389274932013171,"grade":2,"lapses":0,"reps":3,"review":"20220226163652375"},{"due":"20220404012839163","interval":8,"difficulty":2.019681639805158,"stability":28.37823028928584,"retrievability":0.9003819248165468,"grade":2,"lapses":0,"reps":4,"review":"20220307012839163"}]
+interval: 29
 lapses: 0
-modified: 20220311044418193
+modified: 20220405011754010
 modifier: @oeyoews
-reps: 4
-retrievability: 0.9003819248165468
-review: 20220307012839163
-stability: 28.37823028928584
+reps: 5
+retrievability: 0.8979247832175512
+review: 20220405011754010
+stability: 83.8053123745883
 tags: EnglishWord ?
 title: alarmist
 type: text/vnd.tiddlywiki
