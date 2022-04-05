@@ -6,14 +6,14 @@ grade: 1
 history: [{"due":"20220310111721624","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220309111721624"},{"due":"20220314011124255","interval":1,"difficulty":3.0596188436347647,"stability":4.091082244434676,"retrievability":0.34910423292122506,"grade":1,"lapses":0,"reps":2,"review":"20220310011124255"},{"due":"20220327005252810","interval":4,"difficulty":3.161732456157628,"stability":12.599046763864589,"retrievability":0.9021136125228629,"grade":1,"lapses":0,"reps":3,"review":"20220314005252810"}]
 interval: 12
 lapses: 0
-modified: 20220326160712899
+modified: 20220405054256731
 modifier: @oeyoews
 reps: 4
 retrievability: 0.9045199299591592
 review: 20220326160712898
 stability: 32.524008700480785
 tags: EnglishWord ?
-title: about-face
+title: about face
 type: text/vnd.tiddlywiki
 
 <<<.tc-fish-quote
