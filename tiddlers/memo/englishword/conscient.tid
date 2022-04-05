@@ -1,17 +1,17 @@
 created: 20220320061647796
 creator: @oeyoews
-difficulty: 1
-due: 20220404021336724
+difficulty: 1.0963544447167692
+due: 20220607040129685
 grade: 1
-history: [{"due":"20220321112816206","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320112816206"}]
-interval: 2
+history: [{"due":"20220321112816206","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320112816206"},{"due":"20220404021336724","interval":2,"difficulty":1,"stability":13.48067872046433,"retrievability":0.12157897562709472,"grade":1,"lapses":0,"reps":2,"review":"20220322021336723"}]
+interval: 14
 lapses: 0
-modified: 20220322021336724
+modified: 20220405040129685
 modifier: @oeyoews
-reps: 2
-retrievability: 0.12157897562709472
-review: 20220322021336723
-stability: 13.48067872046433
+reps: 3
+retrievability: 0.8963544447167693
+review: 20220405040129685
+stability: 62.70801900898338
 tags: EnglishWord ?
 title: conscient
 type: text/vnd.tiddlywiki

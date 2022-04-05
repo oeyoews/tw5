@@ -1,18 +1,9 @@
 created: 20220314032441019
 creator: @oeyoews
-difficulty: 2.5445678016853437
-due: 20220404015011982
-grade: 0
 history: [{"due":"20220319144224371","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318144224371"},{"due":"20220402015128359","interval":2,"difficulty":1,"stability":13.480723478488205,"retrievability":0.12158129666587415,"grade":1,"lapses":0,"reps":2,"review":"20220320015128358"},{"due":"20220403011713900","interval":13,"difficulty":2.1033878068599927,"stability":0.07408215765534414,"retrievability":0.9033878068599924,"grade":0,"lapses":1,"reps":1,"review":"20220402011713900"}]
-interval: 1
-lapses: 2
-modified: 20220403015011982
+modified: 20220405040144869
 modifier: @oeyoews
-reps: 1
-retrievability: 0.2411799948253509
-review: 20220403015011981
-stability: 0.05488141221849455
-tags: EnglishWord ?
+tags: EnglishWord !
 title: silliness
 type: text/vnd.tiddlywiki
 

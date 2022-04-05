@@ -1,17 +1,17 @@
 created: 20220222011656622
 creator: oeyoews
-difficulty: 1.9414741640876516
-due: 20220404053140902
-grade: 1
-history: [{"due":"20220302164516753","interval":0,"difficulty":2.2984764469154384,"stability":0.07958008229979391,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220301164516752"},{"due":"20220302164516753","interval":0,"difficulty":2.2984764469154384,"stability":0.07958008229979391,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220301164516752"},{"due":"20220307001957873","interval":4,"difficulty":2.5034889322721043,"stability":0.055899466449811495,"retrievability":0.005012485356665834,"grade":0,"lapses":2,"reps":1,"review":"20220306001957873"},{"due":"20220312013105953","interval":1,"difficulty":1.8553450970889729,"stability":5.2291269535837,"retrievability":0.1518561648168685,"grade":1,"lapses":2,"reps":2,"review":"20220307013105952"}]
-interval: 6
+difficulty: 1.0385576708764062
+due: 20220712040743104
+grade: 2
+history: [{"due":"20220302164516753","interval":0,"difficulty":2.2984764469154384,"stability":0.07958008229979391,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220301164516752"},{"due":"20220302164516753","interval":0,"difficulty":2.2984764469154384,"stability":0.07958008229979391,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220301164516752"},{"due":"20220307001957873","interval":4,"difficulty":2.5034889322721043,"stability":0.055899466449811495,"retrievability":0.005012485356665834,"grade":0,"lapses":2,"reps":1,"review":"20220306001957873"},{"due":"20220312013105953","interval":1,"difficulty":1.8553450970889729,"stability":5.2291269535837,"retrievability":0.1518561648168685,"grade":1,"lapses":2,"reps":2,"review":"20220307013105952"},{"due":"20220404053140902","interval":6,"difficulty":1.9414741640876516,"stability":22.31262172223235,"retrievability":0.8861290669986788,"grade":1,"lapses":2,"reps":3,"review":"20220313053140902"}]
+interval: 23
 lapses: 2
-modified: 20220313053140902
+modified: 20220405040743105
 modifier: @oeyoews
-reps: 3
-retrievability: 0.8861290669986788
-review: 20220313053140902
-stability: 22.31262172223235
+reps: 4
+retrievability: 0.8970835067887547
+review: 20220405040743104
+stability: 98.26038015610246
 tags: EnglishWord ?
 title: tide
 type: text/vnd.tiddlywiki
