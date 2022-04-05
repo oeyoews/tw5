@@ -1,7 +1,7 @@
 caption: Footer
 created: 20220310033519322
 creator: @oeyoews
-modified: 20220404162111980
+modified: 20220405030848766
 modifier: @oeyoews
 tags: config
 title: $:/config/oeyoews/subtitlefooter
@@ -25,5 +25,6 @@ and have
 <$count filter="[tag[EnglishWord]]"/> tiddlers ! 
 </$list> 
 <i style="color: green" class="fab fa-git"></i>
+<i style="color: green" class="fa-spin fas fa-sync"></i>
 <p style="text-align: right" id="hitokoto">LOADING ...</p>
 </div>
