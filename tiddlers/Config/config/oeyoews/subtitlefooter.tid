@@ -1,7 +1,7 @@
 caption: Footer
 created: 20220310033519322
 creator: @oeyoews
-modified: 20220405111501571
+modified: 20220405113840742
 modifier: @oeyoews
 tags: config
 title: $:/config/oeyoews/subtitlefooter
@@ -18,6 +18,7 @@ Updated
 [[GITLAB|https://gitlab.com/oeyoews/tw5/]]
 <i style="color:green;" class="fa fa-spinner fa-spin"></i>
 <i class="fa-solid fa-code-compare"></i>
+{{phoenix}}
 -->
 <$view field="modified" format="relativedate"/>
 
@@ -26,6 +27,5 @@ and have
 </$list> 
 <i style="color:#07ff07" class="fab fa-git"></i>
 <i style="color: #07ff07" class="fa-spin fas fa-sync"></i>
-{{phoenix}}
 <p style="text-align:right;" id="hitokoto"><i class="fa fa-spin fa-redo"/> LOADING ...</p>
 </div>

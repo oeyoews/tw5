@@ -1,11 +1,11 @@
 color: #b8f316
 created: 20220323065821053
 creator: @oeyoews
-icon: GripFire
-modified: 20220405105342700
+icon: phoenix
+modified: 20220405113933899
 modifier: @oeyoews
 tags: 
-title: Fisher
+title: Fisherman
 type: text/vnd.tiddlywiki
 
 {{Fish}}{{$:/config/oeyoews/subtitlefooter}}
