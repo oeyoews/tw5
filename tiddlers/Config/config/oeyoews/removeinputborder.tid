@@ -1,11 +1,15 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220403101807402
+modified: 20220405085357011
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
 type: text/vnd.tiddlywiki
+
+.tc-page-controls svg.tc-image-new-button {
+    fill: #06d511;
+}
 
 .tc-improvement-banner {
    font-size: 0.7em;
