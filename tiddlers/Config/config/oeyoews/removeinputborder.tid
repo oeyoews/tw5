@@ -1,11 +1,23 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220405085357011
+modified: 20220405143945453
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
 type: text/vnd.tiddlywiki
+
+.tc-drafts-list a a:hover {
+    padding: 6px 12px;
+    font-weight: bold;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+    background: #073642;
+}
+.tc-drafts-list a:hover {
+		background: cyan;
+}
 
 .tc-page-controls svg.tc-image-new-button {
     fill: #06d511;
