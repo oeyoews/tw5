@@ -1,7 +1,7 @@
 caption: Subtitle Template
 created: 20210611015734693
 creator: @oeyoews
-modified: 20220405040912940
+modified: 20220405052433418
 modifier: @oeyoews
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/subtitle
@@ -41,7 +41,7 @@ ForgetTimes
 -->
 <$list filter="[all[current]has[description]]">
 	<div>
-	<i class="fa fa-gem"/>&ensp;{{!!description}}
+	<i style="color: cyan;" class="fa fa-gem"/>&ensp;{{!!description}}
 	</div>
 </$list>
 
