@@ -114,6 +114,7 @@
 
 ## TODO
 
+- [ ] feat: hove effects for `ctrl p`
 - [ ] feat: use git commit time to replace utc system
 - [x] feat: use fontawesome as external link, such to gitlab repo
 - [ ] feat: add shortkeys for controll (alt i) and jump inbox shortkey
