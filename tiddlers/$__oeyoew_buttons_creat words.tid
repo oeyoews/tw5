@@ -1,0 +1,23 @@
+caption: Creat Words
+created: 20220405054941778
+creator: @oeyoews
+description: Creat New Words
+modified: 20220405061323011
+modifier: @oeyoews
+tags: $:/tags/PageControls
+title: $:/oeyoew/buttons/creat words
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+<$button tooltip="creat words" class=<<tv-config-toolbar-class>>>
+<$action-sendmessage $message="tm-new-tiddler" text='<<<
+"""
+
+"""
+<<<
+' tags="EnglishWord"/>
+{{$:/images/remix-icon/editor/english-input}}
+<$list filter="[<tv-config-toolbar-text>prefix[yes]]">
+<span class="tc-btn-text"><$text text="Creat Word"/></span>
+</$list>
+</$button>

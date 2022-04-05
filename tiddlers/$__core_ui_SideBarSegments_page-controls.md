@@ -1,0 +1,1 @@
+{{||$:/core/ui/PageTemplate/pagecontrols}}

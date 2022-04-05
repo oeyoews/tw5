@@ -5,7 +5,7 @@
 
 <!-- vim-markdown-toc GitLab -->
 
-* [Update time](#update-time)
+* [UpdateTime](#updatetime)
 * [Demo](#demo)
 * [DependencyGraph](#dependencygraph)
 * [ProjectStructure](#projectstructure)
@@ -13,7 +13,7 @@
 * [Features](#features)
 * [Linux](#linux)
   * [Service](#service)
-* [Run(general)](#rungeneral)
+* [Run](#run)
 * [TODO](#todo)
 * [Broken](#broken)
 
@@ -23,7 +23,7 @@
 </div>
 <!--[![Netlify Status](https://api.netlify.com/api/v1/badges/a42c9618-8fd5-41cd-9cb9-901b588369ad/deploy-status)](https://app.netlify.com/sites/tw5/deploys)-->
 
-## Update time
+## UpdateTime
 
 * 2022-03-27T00:45:22
 
@@ -99,7 +99,7 @@
 
 <!--* use TidGi*-->
 
-## Run(general)
+## Run
 
 * `npm run dev` depend git bashui in windows
 * `yarn dev`
@@ -178,6 +178,7 @@
 - [ ] feat: use scroll to hide sidebar for mobile, and come true like banner to scrool some button
 - [ ] fix: only no refresh hitoko
 - [ ] fix: fontawesome 16 not support in mobilephone(may be is font's problem)
+- [ ] fix: fix fcalendar tooltip
 
 ## Broken
 
