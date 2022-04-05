@@ -162,7 +162,7 @@
 - [ ] todo: tidy tiddlers
 - [ ] todo: add shortkeys for close-other-tiddler
 - [ ] todo: readjust kbd and checklist stylesheet
-- [ ] feat: use hitoko usage
+- [x] feat: use hitoko usage
 - [ ] feat: adjust backlink btn style like fishing btn
 - [ ] feat: change fontawesome icon color
 - [ ] feat: change fold to right
@@ -174,6 +174,8 @@
 - [ ] bug: fix add padding for link is conflict dropdown results
 - [ ] fix: drated ui config
 - [ ] feat: use scroll to hide sidebar for mobile, and come true like banner to scrool some button
+- [ ] fix: only no refresh hitoko
+- [ ] fix: fontawesome 16 not support in mobilephone(may be is font's problem)
 
 ## Broken
 
