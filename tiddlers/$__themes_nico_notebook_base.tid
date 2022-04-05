@@ -42,7 +42,7 @@ type: text/vnd.tiddlywiki
 */
 
 a.tc-tiddlylink, a.tc-tiddlylink:hover {
-  white-space: normal;
+  white-space: nowrap;
   word-break: break-word;
   overflow: hidden;
   text-overflow: ellipsis;

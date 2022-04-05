@@ -163,7 +163,7 @@
 - [x] todo: better update time
 - [ ] todo: tidy tiddlers
 - [ ] todo: add shortkeys for close-other-tiddler
-- [ ] todo: readjust kbd and checklist stylesheet
+- [ ] todo: readjust kbd and checklist stylesheet, update unicode, and fix unalign in mobilephone
 - [x] feat: use hitoko usage
 - [ ] feat: adjust backlink btn style like fishing btn
 - [ ] feat: change fontawesome icon color
