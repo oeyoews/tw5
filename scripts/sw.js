@@ -37,3 +37,7 @@ registerRoute(
       }),
     ],
   })
+
+registerRoute(/\.js$/, new StaleWhileRevalidate());
+registerRoute(/(^\/$|index.html)/, new StaleWhileRevalidate());
+
