@@ -182,6 +182,7 @@
 - [x] fix: better eng creat btn
 - [ ] fix: sticky config page too long no warp in iphonese
 - [ ] fix: better sticky square box
+- [ ] todo: add elint for package.json (comma error)
 
 ## Broken
 
