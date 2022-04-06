@@ -6,6 +6,7 @@
   "author": "oeyoews <jyao4783@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "workbox-cli": "6.4.2",
     "html-minifier-terser": "6.1.0",
     "tiddlywiki": "5.2.2"
   },
