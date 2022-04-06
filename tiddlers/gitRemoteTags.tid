@@ -1,7 +1,7 @@
 created: 20220131204121138
 creator: oeyoews
-modified: 20220218153939702
-modifier: oeyoews
+modified: 20220406232207905
+modifier: @oeyoews
 tags: git
 title: gitRemoteTags
 type: text/vnd.tiddlywiki
@@ -11,4 +11,5 @@ type: text/vnd.tiddlywiki
 ```git
 * git tag -a v1.0 <commitId
 * git tag <tagName>  // light tag
+git tag -a vxxx 
 ```
