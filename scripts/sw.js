@@ -7,9 +7,9 @@ if (workbox) {
   console.log(`Boo! Workbox didn't load 😬Service Worker won't work properly...`);
 }
 
-const { precacheAndRoute, matchPrecache } = workbox.precaching;
+//const { precacheAndRoute, matchPrecache } = workbox.precaching;
 
-preacheAndRoute(
+workbox.precaching.preacheAndRoute(
     [
         {
             url: '/index.html',
