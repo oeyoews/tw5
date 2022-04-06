@@ -1,8 +1,8 @@
 caption: Recently added
 created: 20200103090757281
 creator: a revised version of Andrew Harrison favorite plugin
-list: $:/plugins/oflg/fishing/fishingpond [[$:/config/oeyoews/Creat EnglishWord]] $:/config/oeyoews/rightbuttonforprivate $:/config/oeyoews/subtitlefooter [[FCal Button]] [[Mathematical Modeling/01/0323]] [[Navigate Button]] [[Recommend TW5 websites]] $:/config/FishingPluginLibrary eequote [[Fishing Copyed Button]] $:/plugins/kookma/solution/ui/search-in-fields $:/core/ui/ViewTemplate/subtitle [[Reading List]] $:/config/oeyoews/copybutton $:/config/oeyoews/fishingUI $:/config/oeyoews/removeinputborder $:/config/SyncFilter $:/config/FileSystemPaths [[Image and Icons]] [[Favorites More Examples]] $:/oeyoews/settings/tiddler-icons
-modified: 20220406004319877
+list: $:/config/oeyoews/workbox-cli $:/plugins/oflg/fishing/fishingpond [[$:/config/oeyoews/Creat EnglishWord]] $:/config/oeyoews/rightbuttonforprivate $:/config/oeyoews/subtitlefooter [[FCal Button]] [[Mathematical Modeling/01/0323]] [[Navigate Button]] [[Recommend TW5 websites]] $:/config/FishingPluginLibrary eequote [[Fishing Copyed Button]] $:/plugins/kookma/solution/ui/search-in-fields $:/core/ui/ViewTemplate/subtitle [[Reading List]] $:/config/oeyoews/copybutton $:/config/oeyoews/fishingUI $:/config/oeyoews/removeinputborder $:/config/SyncFilter $:/config/FileSystemPaths [[Image and Icons]] [[Favorites More Examples]] $:/oeyoews/settings/tiddler-icons
+modified: 20220406232329996
 modifier: @oeyoews
 tags: $:/tags/Favorites/Folder
 title: $:/plugins/kookma/favorites/recent
