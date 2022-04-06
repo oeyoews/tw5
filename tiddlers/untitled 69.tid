@@ -1,0 +1,15 @@
+created: 20220406160632644
+creator: @oeyoews
+modified: 20220406160713937
+modifier: @oeyoews
+tags: $:/tags/RawMarkup
+title: untitled 69
+type: text/vnd.tiddlywiki
+
+<script>
+if ('serviceWorker' in navigator) {
+    window.onload = function () {
+        navigator.serviceWorker.register('scripts/sw.js');
+    };
+}
+</script>
