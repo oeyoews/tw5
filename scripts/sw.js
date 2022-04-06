@@ -36,7 +36,8 @@ registerRoute(
         maxAgeSeconds: 7 * 24 * 60 * 60,
       }),
     ],
-  });
+  })
+);
 
 registerRoute(/\.js$/, new StaleWhileRevalidate());
 registerRoute(/(^\/$|index.html)/, new StaleWhileRevalidate());
