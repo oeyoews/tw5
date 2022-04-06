@@ -1,6 +1,6 @@
 created: 20220218072617844
 creator: oeyoews
-modified: 20220405025718632
+modified: 20220406103534660
 modifier: @oeyoews
 tags: config
 title: $:/config/oeyoews/subtitle
@@ -25,5 +25,5 @@ type: text/vnd.tiddlywiki
  [[📑|https://gitlab.com/oeyoews/tw5/]]
 <$count filter="[tag[EnglishWord]]"/> tiddlers ! 
 -->
-<a href="https://gitlab.com/oeyoews/tw5/"><i class="fab fa-gitlab"></i></a>
+<a href="https://gitlab.com/oeyoews/tw5/" target="_blank"><i class="fab fa-gitlab"></i></a>
 a linear notebook <<.icon [[GripFire Yellow]]>>
