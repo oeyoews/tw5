@@ -7,13 +7,33 @@ if (workbox) {
   console.log(`Boo! Workbox didn't load 😬Service Worker won't work properly...`);
 }
 
-//const { precacheAndRoute, matchPrecache } = workbox.precaching;
+const { registerRoute } = workbox.routing;
+const { CacheFirst, StaleWhileRevalidate } = workbox.strategies;
+const { ExpirationPlugin } = workbox.expiration;
+const { precacheAndRoute, matchPrecache } = workbox.precaching;
 
-workbox.precaching.preacheAndRoute(
-    [
-        {
-            url: '/index.html',
-            revision: '383676'
-        },
-    ],
+precacheAndRoute([{"revision":"51b1c635de81aaf49c1b674eb91971fa","url":"index.html"}]);
+
+registerRoute(
+  /\.css$/,
+  // Use cache but update in the background.
+  new StaleWhileRevalidate({
+    // Use a custom cache name.
+    cacheName: 'css-cache',
+  })
 );
+
+registerRoute(
+  /\.(?:png|jpg|jpeg|svg|gif|woff2?|ttf)$/,
+  // Use the cache if it's available.
+  new CacheFirst({
+    cacheName: 'image-cache',
+    plugins: [
+      new ExpirationPlugin({
+        // Cache only a few images.
+        maxEntries: 100,
+        // Cache for a maximum of a week.
+        maxAgeSeconds: 7 * 24 * 60 * 60,
+      }),
+    ],
+  })
