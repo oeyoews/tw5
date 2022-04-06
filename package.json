@@ -11,7 +11,7 @@
     "tiddlywiki": "5.2.2"
   },
   "scripts": {
-    "workbox_inje": "workbox injectManifest scripts/workbox-config.js"
+    "workbox_inje": "workbox injectManifest scripts/workbox-config.js",
     "vercel@todo": "yarn devbuild && yarn copy && yarn htmlmin &&  yarn copy_workbox && yarn workbox_inje ",
     "clean": "rm -rf public",
     "devbuild": "tiddlywiki --output public --build index",
