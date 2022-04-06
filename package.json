@@ -6,15 +6,17 @@
   "author": "oeyoews <jyao4783@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "workbox-cli": "6.4.2",
+    "workbox-cli": "6.5.2",
     "html-minifier-terser": "6.1.0",
     "tiddlywiki": "5.2.2"
   },
   "scripts": {
+    "vercel@todo": "yarn devbuild && yarn copy && yarn htmlmin",
     "clean": "rm -rf public",
     "devbuild": "tiddlywiki --output public --build index",
     "devbuildp": "tiddlywiki --output public --password oeyoew --build index",
     "copy": "cp -r files public",
+    "copy_workbox": "cp scripts/* public",
     "htmlmin": "html-minifier-terser -c ./htmlmin.json -o public/index.html public/index.html",
     "twlocal": "tiddlywiki --output public --build index",
     "dev": "tiddlywiki  --listen port=8090",

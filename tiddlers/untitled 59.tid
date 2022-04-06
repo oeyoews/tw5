@@ -1,0 +1,25 @@
+created: 20220406152518103
+creator: @oeyoews
+modified: 20220406152933089
+modifier: @oeyoews
+tags: $:/tags/Stylesheet
+title: untitled 59
+type: text/vnd.tiddlywiki
+
+.test {
+    position: absolute;
+    background: inherit;
+    border-radius: calc(var(--geist-radius) - 1px);
+    background: linear-gradient(-90deg,#007cf0,#00dfd8,#ff0080,#007cf0);
+    background-size: 400% 100%;
+    border: none;
+    padding: 0;
+    margin: 0;
+		animation-duration: 8s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+}
