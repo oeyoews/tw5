@@ -1,0 +1,12 @@
+caption: divs
+created: 20220406044034046
+creator: @oeyoews
+modified: 20220406044632948
+modifier: @oeyoews
+tags: $:/tags/TextEditor/Snippet
+title: $:/config/oeyoews/snippets/div
+type: text/vnd.tiddlywiki
+
+<div>
+$1
+</div>
