@@ -6,11 +6,13 @@
   "author": "oeyoews <jyao4783@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "workbox-cli": "6.5.2",
     "html-minifier-terser": "6.1.0",
     "tiddlywiki": "5.2.2"
   },
   "scripts": {
-    "vercel@todo": "yarn devbuild && yarn copy && yarn htmlmin",
+    "workbox_inje": "workbox injectManifest scripts/workbox-config.js"
+    "vercel@todo": "yarn devbuild && yarn copy && yarn htmlmin &&  yarn copy_workbox && yarn workbox_inje ",
     "clean": "rm -rf public",
     "devbuild": "tiddlywiki --output public --build index",
     "devbuildp": "tiddlywiki --output public --password oeyoew --build index",
