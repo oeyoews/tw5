@@ -12,7 +12,8 @@ const { CacheFirst, StaleWhileRevalidate } = workbox.strategies;
 const { ExpirationPlugin } = workbox.expiration;
 const { precacheAndRoute, matchPrecache } = workbox.precaching;
 
-precacheAndRoute([{"revision":"12","url":"index.html"},{"revision":"51b1c635de81aaf49c1b674eb91971fa","url":"favicon.ico"}]);
+//precacheAndRoute([{"revision":"12","url":"index.html"},{"revision":"51b1c635de81aaf49c1b674eb91971fa","url":"favicon.ico"}]);
+precacheAndRoute(self.__WB_MANIFEST);
 
 registerRoute(
   /\.css$/,

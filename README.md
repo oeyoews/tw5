@@ -180,7 +180,7 @@
 - [ ] fix: fontawesome 16 not support in mobilephone(may be is font's problem)
 - [ ] fix: fix fcalendar tooltip
 - [x] fix: better eng creat btn
-- [ ] fix: sticky config page too long no warp
+- [ ] fix: sticky config page too long no warp in iphonese
 - [ ] fix: better sticky square box
 
 ## Broken
