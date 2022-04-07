@@ -1,4 +1,10 @@
-<link rel="manifest" href="manifest.webmanifest" />
+created: 20220407053930216
+creator: LinOnetwo
+modified: 20220407061628756
+modifier: @oeyoews
+tags: $:/tags/RawMarkup
+title: $:/plugins/linonetwo/service-worker/load-service-worker.html
+type: text/vnd.tiddlywiki
 
 <script type="text/javascript">
   const isLocalhost = Boolean(
