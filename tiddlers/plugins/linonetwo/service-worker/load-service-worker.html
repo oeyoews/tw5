@@ -121,8 +121,8 @@
     const infoElement = document.createElement('div');
     infoElement.className = 'ask-user-reload';
     infoElement.innerHTML =
-      navigator.language === 'zh-CN'
-        ? '新内容已准备好，点击此处刷新页面更新到新版。'
+      navigator.language === 'en'
+        ? 'The new content is ready, click here to refresh the page to update to the new version'
         : 'New content available. Click here to Refresh this page to get update.';
     infoElement.onclick = () => location.reload();
     infoElement.onKeyDown = () => location.reload();
@@ -131,7 +131,7 @@
 
     const closeElement = document.createElement('div');
     closeElement.className = 'ask-user-reload-close';
-    closeElement.innerHTML = navigator.language === 'zh-CN' ? '关闭 ×' : 'close ×';
+    closeElement.innerHTML = navigator.language === 'en' ? 'close ×' : 'close ×';
     closeElement.onclick = () => body.removeChild(infoElement);
     closeElement.onKeyDown = () => body.removeChild(infoElement);
     closeElement.tabindex = 0;
