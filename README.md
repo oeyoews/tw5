@@ -197,6 +197,9 @@
 - [ ] feat: come ture pwa really, like notion neovim website, can be recognized by chrome
 - [ ] fix: in sarifai browser, can't offline really and google can't refresh seemly
 - [ ] todo: learn use workbox(or service) debug in local
+- [ ] todo: realize loading animation for tw
+- [ ] todo: add button colorful
+- [ ] todo: search notify class
 
 ## Broken
 
