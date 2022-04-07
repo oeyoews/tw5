@@ -1,17 +1,17 @@
 created: 20220305052335839
 creator: oeyoews
-difficulty: 1.6731121619928808
-due: 20220407025503977
+difficulty: 1
+due: 20220624073333237
 grade: 2
-history: [{"due":"20220311023136789","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023136789"},{"due":"20220312053848983","interval":1,"difficulty":3.683833622354247,"stability":0.07416773238429089,"retrievability":0.34910423292122506,"grade":0,"lapses":1,"reps":1,"review":"20220311053848983"},{"due":"20220316085021210","interval":1,"difficulty":3.1254097058803727,"stability":3.9010873025586394,"retrievability":0.24157608352612525,"grade":1,"lapses":1,"reps":2,"review":"20220312085021209"},{"due":"20220317011328815","interval":4,"difficulty":4.2230086248981635,"stability":0.054885141354873004,"retrievability":0.8975989190177908,"grade":0,"lapses":2,"reps":1,"review":"20220316011328814"},{"due":"20220321122713571","interval":1,"difficulty":2.5696662295860673,"stability":4.150543221432754,"retrievability":0.1466576046879033,"grade":2,"lapses":2,"reps":2,"review":"20220317122713571"}]
-interval: 4
+history: [{"due":"20220311023136789","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023136789"},{"due":"20220312053848983","interval":1,"difficulty":3.683833622354247,"stability":0.07416773238429089,"retrievability":0.34910423292122506,"grade":0,"lapses":1,"reps":1,"review":"20220311053848983"},{"due":"20220316085021210","interval":1,"difficulty":3.1254097058803727,"stability":3.9010873025586394,"retrievability":0.24157608352612525,"grade":1,"lapses":1,"reps":2,"review":"20220312085021209"},{"due":"20220317011328815","interval":4,"difficulty":4.2230086248981635,"stability":0.054885141354873004,"retrievability":0.8975989190177908,"grade":0,"lapses":2,"reps":1,"review":"20220316011328814"},{"due":"20220321122713571","interval":1,"difficulty":2.5696662295860673,"stability":4.150543221432754,"retrievability":0.1466576046879033,"grade":2,"lapses":2,"reps":2,"review":"20220317122713571"},{"due":"20220407025503977","interval":4,"difficulty":1.6731121619928808,"stability":17.39619623252752,"retrievability":0.9034459324068135,"grade":2,"lapses":2,"reps":3,"review":"20220321025503977"}]
+interval: 17
 lapses: 2
-modified: 20220321025503978
+modified: 20220407073333237
 modifier: @oeyoews
-reps: 3
-retrievability: 0.9034459324068135
-review: 20220321025503977
-stability: 17.39619623252752
+reps: 4
+retrievability: 0.9021622086740619
+review: 20220407073333236
+stability: 77.99160740164112
 tags: EnglishWord ?
 title: vive
 type: text/vnd.tiddlywiki
