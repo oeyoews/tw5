@@ -189,6 +189,7 @@
 - [ ] feat: add main app icon link linonetwo in phone
 - [ ] fix: move some special *.png to dragimage
 - [ ] fix: fix local markup tiddler to require sw.js
+- [ ] feat: add slip button hover annoation like vercel
 
 ## Broken
 
