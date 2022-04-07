@@ -1,0 +1,9 @@
+created: 20220407162657869
+creator: @oeyoews
+modified: 20220407162722037
+modifier: @oeyoews
+tags: $:/tags/RawMarkup
+title: Load Manifest
+type: text/vnd.tiddlywiki
+
+<link rel="manifest" href="manifest.json" />
