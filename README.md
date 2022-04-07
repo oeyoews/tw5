@@ -200,6 +200,7 @@
 - [ ] todo: realize loading animation for tw
 - [ ] todo: add button colorful
 - [ ] todo: search notify class
+- [ ] todo: add seo
 
 ## Broken
 
