@@ -1,0 +1,18 @@
+{
+  "background_color": "white",
+  "theme_color": "white",
+  "description": "TiddlyWiki",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "name": "TiddlyWiki",
+  "short_name": "Tiddly",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/"
+}
