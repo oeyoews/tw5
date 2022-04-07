@@ -3,6 +3,7 @@
   "name": "Fish",
   "short_name": "Fish",
   "display": "standalone",
+  "id": "/",
   "start_url": "/",
   "theme_color": "#8888ff",
   "background_color": "#aaaaff",

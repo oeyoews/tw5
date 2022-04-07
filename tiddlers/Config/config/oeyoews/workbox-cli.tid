@@ -1,13 +1,14 @@
 caption: Workbox-cli
 created: 20220407053930216
 creator: LinOnetwo
-modified: 20220407153245998
+modified: 20220407155803331
 modifier: @oeyoews
 tags: $:/tags/RawMarkup
 title: $:/config/oeyoews/workbox-cli
 type: text/vnd.tiddlywiki
 
 <link rel="manifest" href="manifest.json" />
+
 <script type="text/javascript">
   const isLocalhost = Boolean(
     window.location.hostname === 'localhost' ||
