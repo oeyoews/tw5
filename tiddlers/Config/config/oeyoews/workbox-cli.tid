@@ -22,6 +22,7 @@ type: text/vnd.tiddlywiki
         const swUrl = 'service-worker.js';
 
         if (isLocalhost) {
+          /**
           // This is running on localhost. Let's do additional checks to see if a service worker still exists or not.
           checkValidServiceWorker(swUrl, config);
 
@@ -33,6 +34,8 @@ type: text/vnd.tiddlywiki
                 'worker. To learn more, visit https://bit.ly/CRA-PWA'
             );
           });
+          */
+          return;
         } else {
           // Is not localhost. Just register service worker
           console.log('Register service worker');
