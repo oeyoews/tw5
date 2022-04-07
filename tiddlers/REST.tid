@@ -1,0 +1,9 @@
+created: 20220407085418825
+creator: @oeyoews
+modified: 20220407085503202
+modifier: @oeyoews
+tags: frontend
+title: REST
+type: text/vnd.tiddlywiki
+
+* REST API 也称为 RESTful API，是遵循 REST 架构规范的应用编程接口（API 或 Web API），支持与 RESTful Web 服务进行交互。REST 是表述性状态传递的英文缩写，由计算机科学家 Roy Fielding 创建。Representational state transfer

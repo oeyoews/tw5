@@ -194,6 +194,9 @@
 - [ ] todo: add dropstyle to some extrnal link
 - [ ] todo: add button snippets
 - [ ] fix: some color ugly button with text color
+- [ ] feat: come ture pwa really
+- [ ] fix: in sarifai browser, can't offline really and google can't refresh seemly
+- [ ] todo: learn use workbox(or service) debug in local
 
 ## Broken
 
