@@ -187,6 +187,7 @@
 - [ ] fix: better sticky square box
 - [ ] todo: add elint for package.json (comma error)
 - [ ] feat: add main app icon link linonetwo in phone
+- [ ] fix: move some special *.png to dragimage
 
 ## Broken
 
