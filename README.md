@@ -186,6 +186,7 @@
 - [ ] fix: sticky config page too long no warp in iphonese
 - [ ] fix: better sticky square box
 - [ ] todo: add elint for package.json (comma error)
+- [ ] feat: add main app icon link linonetwo in phone
 
 ## Broken
 
