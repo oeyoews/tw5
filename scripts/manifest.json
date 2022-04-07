@@ -2,7 +2,7 @@
   "descriable": "a linear notebook",
   "name": "Fish",
   "short_name": "Fish",
-  "display": "standalone",
+  "display": "fullscreen",
   "id": "/",
   "start_url": "/",
   "theme_color": "#8888ff",
