@@ -1,13 +1,13 @@
 {
-  "name": "Minimal app to try PWA",
-  "short_name": "Minimal PWA",
+  "name": "Remember you",
+  "short_name": "TiddlyWiki5",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#8888ff",
   "background_color": "#aaaaff",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "favicon.ico",
       "sizes": "144x144",
       "type": "image/png"
     }
