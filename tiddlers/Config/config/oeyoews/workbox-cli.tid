@@ -1,7 +1,7 @@
 caption: Workbox-cli
 created: 20220407053930216
 creator: LinOnetwo
-modified: 20220407062518599
+modified: 20220407104554844
 modifier: @oeyoews
 tags: $:/tags/RawMarkup
 title: $:/config/oeyoews/workbox-cli
@@ -165,6 +165,7 @@ type: text/vnd.tiddlywiki
     cursor: alias;
 		border-radius: 3px;
 		background: cyan;
+		color: #071b09;
   }
   .ask-user-reload-close {
     padding: 5px;

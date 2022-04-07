@@ -70,7 +70,8 @@ a.tc-tiddlylink-external, a.tc-tiddlylink-external:visited {
 	padding: 2px;
   padding-bottom: 0px;
 	/** remove underline <<colour external-link-underline>>; */
-	border-bottom: <<colour external-link-underline>>;
+	/*border-bottom: <<colour external-link-underline>>;*/
+	border-bottom: 2px solid cyan;
 	text-decoration: none;
   box-decoration-break: clone;
   font-weight: normal;
