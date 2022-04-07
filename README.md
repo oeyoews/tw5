@@ -190,6 +190,10 @@
 - [ ] fix: move some special *.png to dragimage
 - [ ] fix: fix local markup tiddler to require sw.js
 - [ ] feat: add slip button hover annoation like vercel
+- [ ] todo: use another monkeyscript to backup
+- [ ] todo: add dropstyle to some extrnal link
+- [ ] todo: add button snippets
+- [ ] fix: some color ugly button with text color
 
 ## Broken
 
