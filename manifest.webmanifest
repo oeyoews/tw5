@@ -6,12 +6,12 @@
   "icons": [
     {
       "src": "/favicon.ico",
+      "sizes": "144x144",
       "type": "image/png"
     }
   ],
   "name": "TiddlyWiki",
   "short_name": "Tiddly",
-  "lang": "zh-CN",
   "start_url": "/",
   "scope": "/"
 }
