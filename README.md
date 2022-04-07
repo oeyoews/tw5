@@ -139,7 +139,7 @@
 <!--- current palette and theme not support others-->
 - [x] __crontab__: use timer or crontab to push automaticaly with smtp
 - [x] __precache__: use workbox-cli to precache offline(or use workbox-build)
-- [ ] fix: faster workbox-cli install for vercel
+- [x] fix: faster workbox-cli install for vercel
 - [x] fix: fix reagain install service-worker, two sw.js
 - [x] todo: local devbug with workbox-cli
     <!--* http://csbun.github.io/blog/2018/02/workbox/-->
@@ -189,7 +189,7 @@
 - [ ] feat: add main app icon link linonetwo in phone
 - [ ] fix: move some special *.png to dragimage
 - [ ] fix: fix local markup tiddler to require sw.js
-- [ ] feat: add slip button hover annoation like vercel
+- [x] feat: add slip button hover annoation like vercel
 - [ ] todo: use another monkeyscript to backup
 - [ ] todo: add dropstyle to some extrnal link
 - [ ] todo: add button snippets
