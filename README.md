@@ -201,6 +201,7 @@
 - [ ] todo: add button colorful
 - [ ] todo: search notify class
 - [ ] todo: add seo
+- [ ] todo: add icon in phone browser home, link linonetwo's wiki
 
 ## Broken
 
