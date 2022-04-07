@@ -1,12 +1,13 @@
 caption: Workbox-cli
 created: 20220406160632644
 creator: @oeyoews
-modified: 20220407031342861
+modified: 20220407032009707
 modifier: @oeyoews
 tags: $:/tags/RawMarkup
 title: workbox-cli
 type: text/vnd.tiddlywiki
 
+<!--
 <script>
 if ('serviceWorker' in navigator) {
     window.onload = function () {
@@ -14,3 +15,4 @@ if ('serviceWorker' in navigator) {
     };
 }
 </script>
+-->
