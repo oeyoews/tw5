@@ -92,4 +92,5 @@
 - [x] todo: add seo
 - [ ] todo: add icon in phone browser home, link linonetwo's wiki
 - [ ] todo: dynamic load css [Text](https://blog.csdn.net/yunchong_zhao/article/details/103627865)
-
+- [ ] fix: fix phone's unfold button in fishingmode
+- [ ] feat: finish android app for fishforyou
