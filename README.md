@@ -41,7 +41,7 @@
 
 ## Features
 
-- [x] git
+* [x] git
 * [x] timer(optional default is disabled)
 * [x] private subwiki(git or local)
 * [x] support github gitlab workflow
@@ -57,7 +57,6 @@
 * systemctl daemon-reload
 * systemctl start xxx.service
 * systemctl enable xxx.service
-
 
 ## Run
 
