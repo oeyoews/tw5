@@ -119,7 +119,7 @@
 - [ ] feat: use git commit time to replace utc system
 - [x] feat: use fontawesome as external link, such to gitlab repo
 - [ ] feat: add shortkeys for controll (alt i) and jump inbox shortkey
-- [ ] feat: add fa class
+- [x] feat: add fa class
 - [ ] add fish float loop
 - [ ] fix: fix code block for specific type
 - [x] feat: use css linkstyle to replace fontawesome plugins(too obscure)
@@ -194,8 +194,8 @@
 - [ ] todo: add dropstyle to some extrnal link
 - [ ] todo: add button snippets
 - [ ] fix: some color ugly button with text color
-- [ ] feat: come ture pwa really, like notion neovim website, can be recognized by chrome
-- [ ] fix: in sarifai browser, can't offline really and google can't refresh seemly
+- [x] feat: come ture pwa really, like notion neovim website, can be recognized by chrome
+- [x] fix: in sarifai browser, can't offline really and google can't refresh seemly
 - [ ] todo: learn use workbox(or service) debug in local
 - [ ] todo: realize loading animation for tw
 - [ ] todo: add button colorful
