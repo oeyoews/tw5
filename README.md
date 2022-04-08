@@ -114,6 +114,7 @@
 
 ## TODO
 
+- [ ] feat: pwa install local with port, not online
 - [ ] feat: add button effects for left menubar
 - [ ] feat: hove effects for `ctrl p`
 - [ ] feat: use git commit time to replace utc system
