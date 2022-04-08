@@ -1,17 +1,17 @@
 created: 20220403033249850
 creator: @oeyoews
-difficulty: 0.40291375445826566
-due: 20220408103933876
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220417031036872
+grade: 2
+history: [{"due":"20220408103933876","interval":0,"difficulty":0.40291375445826566,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220407103933875"}]
+interval: 1
 lapses: 0
-modified: 20220407103933876
+modified: 20220408031036872
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220407103933875
-stability: 0.1000004529953003
+reps: 2
+retrievability: 0.3486801042625608
+review: 20220408031036872
+stability: 8.830297176503736
 tags: EnglishWord ?
 title: chancellor
 type: text/vnd.tiddlywiki
