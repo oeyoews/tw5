@@ -1,0 +1,10 @@
+created: 20220408031652683
+creator: @oeyoews
+modified: 20220408031749654
+modifier: @oeyoews
+tags: $:/tags/RawMarkup
+title: Add Meta Desc
+type: text/vnd.tiddlywiki
+
+<meta name="description" content="Author: oeyoews,
+    Illustrator: a linear notebook">
