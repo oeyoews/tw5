@@ -25,7 +25,7 @@
 * 2022-04-08T15:41:51
 
 
-## [Gallery](Gallery.md)
+## [Gallery](docs/Gallery.md)
 
 ## RelatedSoftwares
 
@@ -68,7 +68,7 @@
 > NOTE: if you use npm run dev &, only use npm run dev again , and ctrl c to exit this node program
 
 
-## [TODO](TODO.md)
+## [TODO](docs/TODO.md)
 
 ## Broken
 
