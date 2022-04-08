@@ -1,11 +1,12 @@
 created: 20220227051634599
 creator: oeyoews
-modified: 20220407164649068
+modified: 20220408013607724
 modifier: @oeyoews
 tags: TiddlyWiki5
 title: workbox1
 type: text/vnd.tiddlywiki
 
+* https://developer.mozilla.org/zh-CN/docs/Web/Manifest
 * https://web.dev/customize-install/
 * https://zhuanlan.zhihu.com/p/25459319
 * https://blog.csdn.net/SEA_mihu/article/details/108866016
