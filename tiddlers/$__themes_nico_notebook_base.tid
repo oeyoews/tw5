@@ -130,7 +130,6 @@ button:not(.tc-btn-invisible) {
 
 button:not(.tc-btn-invisible):hover {
   background-color: <<colour button-background-hover>>;
-  /*background-color: cyan;*/
 }
 
 button:not(.tc-btn-invisible) svg {
@@ -138,16 +137,17 @@ button:not(.tc-btn-invisible) svg {
 }
 
 /** 收合栏，修复由于 button:not(.tc-tab-selected) 带来的样式。没法在那边 not ，因为 not 列表太长会导致优先级过高 */
-/*THis order is very important*/
+/* THis order is very important */
+/*BREAK: in phone this unfold can't see*/
 button.tc-fold-banner {
   position: absolute;
   padding: 0px;
-  margin: 0;
+  /*margin: 0;*/
   background: none;
   border: yes;
   width: 23px;
   text-align: center;
-  margin-left: -35px;
+  margin-left: -50px;
   top: 6px;
   bottom: 6px;
 }
@@ -161,14 +161,8 @@ button.tc-unfold-banner {
   margin-left: -3px;
   text-align: center;
   border: none;
-  /*border-top: 1px solid #32b4c3;*/
-  /*margin-top: 4px;*/
-  /*margin-bottom: 4px;*/
 }
 
-/*button.tc-unfold-banner:hover {*/
-  /*transition: opacity .5s ease-in-out;*/
-  /*}*/
 
 /* == Top and bottom bars == */
 
