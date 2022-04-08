@@ -1,5 +1,6 @@
 ## TODO
 
+- [ ] docs: tidy docs image
 - [ ] pref: packing vercel and package command
 - [ ] feat: pwa install local with port, not online
 - [ ] feat: add button effects for left menubar
