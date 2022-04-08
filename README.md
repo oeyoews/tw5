@@ -6,9 +6,7 @@
 <!-- vim-markdown-toc GitLab -->
 
 * [UpdateTime](#updatetime)
-* [Demo](#demo)
-* [DependencyGraph](#dependencygraph)
-* [ProjectStructure](#projectstructure)
+* [Gallery](#gallery)
 * [RelatedSoftwares](#relatedsoftwares)
 * [Features](#features)
 * [Linux](#linux)
@@ -21,38 +19,13 @@
 </details>
 
 </div>
-<!--[![Netlify Status](https://api.netlify.com/api/v1/badges/a42c9618-8fd5-41cd-9cb9-901b588369ad/deploy-status)](https://app.netlify.com/sites/tw5/deploys)-->
 
 ## UpdateTime
 
-* 2022-03-27T00:45:22
-
-## Demo
+* 2022-04-08T15:41:51
 
 
-<div style="text-align: center">
-<p>pc</p>
-<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/pc2.png" title="img" alt="img" style="zoom: 100%" width=512 />
-</div>
-
-<!--<div style="text-align: center">-->
-<!--<p>mobile</p>-->
-<!--<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/mobpfishing.jpeg" title="img" alt="img" style="zoom: 100%" width=512/>-->
-<!--</div>-->
-
-## DependencyGraph
-
-<div style="text-align: center">
-<p> tw5graph2</p>
-<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/tw5graph2.png" width=512 title="img" alt="img" width=512 style="zoom: 100%" />
-</div>
-
-## ProjectStructure
-
-<div style="text-align: center">
-<p> FileTreeGraph</p>
-<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/filetreegraph2.png" title="img" alt="img" width=512 style="zoom: 80%" />
-</div>
+## [Gallery](Gallery.md)
 
 ## RelatedSoftwares
 
@@ -85,19 +58,6 @@
 * systemctl start xxx.service
 * systemctl enable xxx.service
 
-> if use service, to kill it, and it will start automaticaly instantly
-
-<!-- ## Window-->
-
-<!-- ### methos1-->
-
-<!--* install node git-->
-<!--* `npm i -g tiddlywiki`(important)-->
-<!--* click run.bat-->
-
-<!-- ### methos2-->
-
-<!--* use TidGi*-->
 
 ## Run
 
@@ -109,12 +69,12 @@
 
 
 ## [TODO](TODO.md)
-<!-- ## bug-->
-
-<!--* ~~`\$__themes_nico_notebook_ui_Bottombar.tid`-->
-<!--\$__themes_nico_notebook_ui_Topbar.tid~~-->
 
 ## Broken
 
 - [x] jd mobile casue this sticky title in mobile can't work
 - [ ] no table border color
+
+<!-- ## bug-->
+<!--* ~~`\$__themes_nico_notebook_ui_Bottombar.tid`-->
+<!--\$__themes_nico_notebook_ui_Topbar.tid~~-->

@@ -1,5 +1,6 @@
 ## TODO
 
+- [ ] pref: packing vercel and package command
 - [ ] feat: pwa install local with port, not online
 - [ ] feat: add button effects for left menubar
 - [ ] feat: hove effects for `ctrl p`
