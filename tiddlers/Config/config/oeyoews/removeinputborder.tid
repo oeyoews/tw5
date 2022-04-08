@@ -1,11 +1,26 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220405150629128
+modified: 20220408101308546
 modifier: @oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
 type: text/vnd.tiddlywiki
+
+<!-- fix plugin button -->
+.tc-btn-big-green {
+    display: inline-block;
+    padding: 8px;
+    margin: 4px 8px 4px 8px;
+    background: #5972d9;
+    color: #073642;
+    fill: #073642;
+    border: none;
+    border-radius: 2px;
+    font-size: 1.2em;
+    line-height: 1.4em;
+    text-decoration: none;
+}
 
 .tc-drafts-list a {
     padding: 6px 12px;
