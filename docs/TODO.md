@@ -94,3 +94,5 @@
 - [ ] todo: dynamic load css [Text](https://blog.csdn.net/yunchong_zhao/article/details/103627865)
 - [ ] fix: fix phone's unfold button in fishingmode
 - [ ] feat: finish android app for fishforyou
+- [ ] feat: add shortkeys for creat words button
+- [ ] feat: add swift app for fish web
