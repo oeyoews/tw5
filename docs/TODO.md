@@ -96,3 +96,5 @@
 - [ ] feat: finish android app for fishforyou
 - [ ] feat: add shortkeys for creat words button
 - [ ] feat: add swift app for fish web
+- [ ] feat: learn electron
+- [ ] feat: use pwa sw to send message tooltip click button
