@@ -1,17 +1,17 @@
 created: 20220322071553479
 creator: @oeyoews
-difficulty: 1
-due: 20220409020502935
-grade: 2
-history: [{"due":"20220329161133143","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161133143"},{"due":"20220331012247029","interval":1,"difficulty":1.0742534208779655,"stability":0.07408215765534414,"retrievability":0.3486801042625608,"grade":0,"lapses":1,"reps":1,"review":"20220330012247029"},{"due":"20220401013746096","interval":1,"difficulty":1.5154334157033162,"stability":0.05488141221849455,"retrievability":0.2411799948253509,"grade":0,"lapses":2,"reps":1,"review":"20220331013746096"}]
-interval: 1
+difficulty: 1.0998107181812469
+due: 20220518003133991
+grade: 1
+history: [{"due":"20220329161133143","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161133143"},{"due":"20220331012247029","interval":1,"difficulty":1.0742534208779655,"stability":0.07408215765534414,"retrievability":0.3486801042625608,"grade":0,"lapses":1,"reps":1,"review":"20220330012247029"},{"due":"20220401013746096","interval":1,"difficulty":1.5154334157033162,"stability":0.05488141221849455,"retrievability":0.2411799948253509,"grade":0,"lapses":2,"reps":1,"review":"20220331013746096"},{"due":"20220409020502935","interval":1,"difficulty":1,"stability":7.984061111638629,"retrievability":0.14663847612462463,"grade":2,"lapses":2,"reps":2,"review":"20220401020502935"}]
+interval: 8
 lapses: 2
-modified: 20220401020502935
+modified: 20220409003133991
 modifier: @oeyoews
-reps: 2
-retrievability: 0.14663847612462463
-review: 20220401020502935
-stability: 7.984061111638629
+reps: 3
+retrievability: 0.8998107181812468
+review: 20220409003133990
+stability: 39.15619156395314
 tags: EnglishWord ?
 title: revolution
 type: text/vnd.tiddlywiki

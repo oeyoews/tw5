@@ -1,17 +1,17 @@
 created: 20220322071636625
 creator: @oeyoews
-difficulty: 1
-due: 20220408011704643
+difficulty: 1.0875263511553017
+due: 20220526003147401
 grade: 1
-history: [{"due":"20220329161051961","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161051961"}]
-interval: 1
+history: [{"due":"20220329161051961","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161051961"},{"due":"20220408011704643","interval":1,"difficulty":1,"stability":8.830297176503736,"retrievability":0.3486801042625608,"grade":1,"lapses":0,"reps":2,"review":"20220330011704643"}]
+interval: 10
 lapses: 0
-modified: 20220330011704643
+modified: 20220409003147401
 modifier: @oeyoews
-reps: 2
-retrievability: 0.3486801042625608
-review: 20220330011704643
-stability: 8.830297176503736
+reps: 3
+retrievability: 0.8875263511553018
+review: 20220409003147400
+stability: 47.30069453711378
 tags: EnglishWord ?
 title: crucial
 type: text/vnd.tiddlywiki
