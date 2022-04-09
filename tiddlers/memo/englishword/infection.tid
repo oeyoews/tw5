@@ -1,17 +1,17 @@
 created: 20220323073710812
 creator: @oeyoews
 difficulty: 1
-due: 20220408012319285
+due: 20220529003239612
 grade: 2
-history: [{"due":"20220329161208290","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161208290"}]
-interval: 1
+history: [{"due":"20220329161208290","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161208290"},{"due":"20220408012319285","interval":1,"difficulty":1,"stability":8.830297176503736,"retrievability":0.3486801042625608,"grade":2,"lapses":0,"reps":2,"review":"20220330012319285"}]
+interval: 10
 lapses: 0
-modified: 20220330012319285
+modified: 20220409003239612
 modifier: @oeyoews
-reps: 2
-retrievability: 0.3486801042625608
-review: 20220330012319285
-stability: 8.830297176503736
+reps: 3
+retrievability: 0.8875263511553018
+review: 20220409003239611
+stability: 49.62788860525377
 tags: EnglishWord ?
 title: infection
 type: text/vnd.tiddlywiki
