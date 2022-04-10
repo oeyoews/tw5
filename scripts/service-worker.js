@@ -41,21 +41,12 @@ registerRoute(
 registerRoute(/\.js$/, new StaleWhileRevalidate());
 registerRoute(/(^\/$|index.html)/, new StaleWhileRevalidate());
 
-// remove title
-//const mqStandAlone = '(display-mode: fullscreen)'
-// Check this page is running in pwa mode
-//if (navigator.fullscreen || self.matchMedia(mqStandAlone)) {
-//if (navigator.fullscreen ) {
+// Fix: check matchMedia
+//const mqStandAlone = '(display-mode: standalone)'
+//// Check this page is running in pwa mode
+//if (navigator.standalone || self.matchMedia(mqStandAlone)) {
   //document.title = ''
 //}
-
-
-const mqStandAlone = '(display-mode: standalone)'
-
-// Check this page is running in pwa mode
-if (navigator.standalone || self.matchMedia(mqStandAlone)) {
-  document.title = ''
-}
 
 // self test
 self.addEventListener('install', function(event) {
