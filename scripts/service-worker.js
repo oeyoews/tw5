@@ -41,6 +41,14 @@ registerRoute(
 registerRoute(/\.js$/, new StaleWhileRevalidate());
 registerRoute(/(^\/$|index.html)/, new StaleWhileRevalidate());
 
+// remove title
+const mqStandAlone = '(display-mode: fullscreen)'
+
+// Check this page is running in pwa mode
+if (navigator.fullscreen || window.matchMedia(mqStandAlone)) {
+  document.title = ''
+}
+
 // self test
 self.addEventListener('install', function(event) {
   // The promise that skipWaiting() returns can be safely ignored.
