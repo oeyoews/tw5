@@ -106,3 +106,5 @@
 - [ ] fix: remove pwa title
 - [ ] feat: learn install before event for pwa(optimic its logic add adjust if install)
 - [ ] feat: install pwa in local with folder path
+- [ ] question: http-server differ tw5(how to visit files in local)
+- [ ] todo: learn webpack

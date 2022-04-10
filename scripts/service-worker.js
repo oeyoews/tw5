@@ -73,4 +73,3 @@ self.addEventListener('beforeinstallprompt', (e) => {
   // Optionally, send analytics event that PWA install promo was shown.
   console.log(`'beforeinstallprompt' event was fired.`);
 });
-
