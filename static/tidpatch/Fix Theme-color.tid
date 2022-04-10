@@ -6,4 +6,4 @@ tags: $:/tags/RawMarkup
 title: Fix Theme-color
 type: text/vnd.tiddlywiki
 
-<meta name="theme-color" content="#8888ff"/>
+<meta name="theme-color" content="#073642"/>
