@@ -101,3 +101,6 @@
 - [ ] feat: use subfolder to simulate vercel with shellscript
 - [ ] feat: how to reference meta etc head files automaticaly(reference github framework projects)
 - [ ] fix: how to fix loading animation in ios
+- [x] fix: adjust toolip repeat for android
+- [ ] fix: fix ios main icon
+- [ ] fix: remove pwa title
