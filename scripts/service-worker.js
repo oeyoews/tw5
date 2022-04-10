@@ -49,6 +49,16 @@ registerRoute(/(^\/$|index.html)/, new StaleWhileRevalidate());
   //document.title = ''
 //}
 
+// self test
+self.addEventListener('install', function(event) {
+  // The promise that skipWaiting() returns can be safely ignored.
+  self.skipWaiting();
+
+  // Perform any other actions required for your
+  // service worker to install, potentially inside
+  // of event.waitUntil();
+});
+
 //
 // Initialize deferredPrompt for use later to show browser install prompt.
 let deferredPrompt;
@@ -62,15 +72,5 @@ self.addEventListener('beforeinstallprompt', (e) => {
   showInstallPromotion();
   // Optionally, send analytics event that PWA install promo was shown.
   console.log(`'beforeinstallprompt' event was fired.`);
-});
-
-// self test
-self.addEventListener('install', function(event) {
-  // The promise that skipWaiting() returns can be safely ignored.
-  self.skipWaiting();
-
-  // Perform any other actions required for your
-  // service worker to install, potentially inside
-  // of event.waitUntil();
 });
 
