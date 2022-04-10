@@ -15,13 +15,13 @@
       "short_name": "Hello",
       "url": "/",
       "icons": [
-        { "src": "favicon.png", "sizes": "512x512", "type": "image/png" }
+        { "src": "./favicon_maskable_192.png", "sizes": "512x512", "type": "image/png" }
       ]
     }
    ],
   "icons": [
     {
-      "src": "./favicon.png",
+      "src": "./favicon_maskable_192.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
