@@ -16,7 +16,7 @@
       "url": "./hello.html",
       "icons": [
         {
-          "src": "./favicon_maskable_192.png",
+          "src": "./catfish.jpg",
           "sizes": "192x192",
           "type": "image/png"
         }
