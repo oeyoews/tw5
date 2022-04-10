@@ -45,7 +45,8 @@ registerRoute(/(^\/$|index.html)/, new StaleWhileRevalidate());
 const mqStandAlone = '(display-mode: fullscreen)'
 
 // Check this page is running in pwa mode
-if (navigator.fullscreen || self.matchMedia(mqStandAlone)) {
+//if (navigator.fullscreen || self.matchMedia(mqStandAlone)) {
+if (navigator.fullscreen ) {
   document.title = ''
 }
 
