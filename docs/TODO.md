@@ -114,3 +114,4 @@
 - [ ] fix: in phone, if installed, how to hide system install menubar tip
 - [ ] fix: center favicon for fishhead and small it size
 - [ ] feat: use subfolder to private or all tiddlers add password
+- [ ] todo: add maskable icon(for apk install this icon is big in square firstly)

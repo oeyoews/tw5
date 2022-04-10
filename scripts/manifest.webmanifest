@@ -32,6 +32,12 @@
       "purpose": "any"
     },
     {
+      "src": "./maskable_icon_256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
       "src": "./favicon.png",
       "sizes": "512x512",
       "type": "image/png",
