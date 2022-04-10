@@ -1,7 +1,7 @@
 caption: Footer
 created: 20220310033519322
 creator: @oeyoews
-modified: 20220406061548575
+modified: 20220410032929500
 modifier: @oeyoews
 tags: config
 title: $:/config/oeyoews/subtitlefooter
@@ -27,5 +27,5 @@ and have
 </$list> &nbsp; 
 <i style="color:#07ff07" class="fab fa-git"></i> &nbsp;
 <i style="color: #07ff07" class="fa-spin fas fa-sync"></i>
-<p style="text-align:right;" id="hitokoto">LOADING ... &nbsp; <i style="color: red;" class="fa fa-spin fa-redo"/></p>
+<p style="text-align:right;" id="hitokoto">LOADING ... &nbsp; <i style="color: red;" class="fa fa-spin fa-redo"/>{{$:/core/ui/Buttons/refresh}}</p>
 </div>
