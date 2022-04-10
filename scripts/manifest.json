@@ -15,14 +15,14 @@
       "short_name": "Fish",
       "url": "/",
       "icons": [
-        { "src": "favicon.png", "sizes": "440x440", "type": "image/png" }
+        { "src": "favicon.png", "sizes": "512x512", "type": "image/png" }
       ]
     }
    ],
   "icons": [
     {
       "src": "./favicon.png",
-      "sizes": "440x440",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     }
