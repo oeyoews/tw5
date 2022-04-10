@@ -112,3 +112,4 @@
 - [ ] todo: test apple icon use gitee copy simple projects
 - [ ] fix: refresh to skiping waiting, not automaticaly
 - [ ] fix: in phone, if installed, how to hide system install menubar tip
+- [ ] fix: center favicon for fishhead and small it size
