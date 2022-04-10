@@ -1,17 +1,17 @@
 created: 20220227082929707
 creator: oeyoews
-difficulty: 4.7723684231322325
-due: 20220409165144942
-grade: 2
-history: [{"due":"20220307113916610","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306113916609"},{"due":"20220310031449883","interval":1,"difficulty":4.550378810520104,"stability":3.1236112149237947,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220307031449882"},{"due":"20220318014012099","interval":3,"difficulty":4.654139149508474,"stability":8.26178898511264,"retrievability":0.9037603389883699,"grade":1,"lapses":0,"reps":3,"review":"20220310014012099"},{"due":"20220319051458908","interval":8,"difficulty":5.757148846831711,"stability":0.07408316441686115,"retrievability":0.9030096973232373,"grade":0,"lapses":1,"reps":1,"review":"20220318051458908"},{"due":"20220320153405416","interval":1,"difficulty":6.198333503061925,"stability":0.054882158045770235,"retrievability":0.24118465623021404,"grade":0,"lapses":2,"reps":1,"review":"20220319153405416"},{"due":"20220322015419845","interval":1,"difficulty":5.544975804907552,"stability":2.4454459023122017,"retrievability":0.14664230184562638,"grade":1,"lapses":2,"reps":2,"review":"20220320015419845"},{"due":"20220328050016517","interval":2,"difficulty":5.662415199642728,"stability":5.582778150540912,"retrievability":0.917439394735176,"grade":1,"lapses":2,"reps":3,"review":"20220322050016516"}]
-interval: 5
+difficulty: 4.872921903745635
+due: 20220509052131072
+grade: 1
+history: [{"due":"20220307113916610","interval":0,"difficulty":5,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220306113916609"},{"due":"20220310031449883","interval":1,"difficulty":4.550378810520104,"stability":3.1236112149237947,"retrievability":0.35037881052010367,"grade":1,"lapses":0,"reps":2,"review":"20220307031449882"},{"due":"20220318014012099","interval":3,"difficulty":4.654139149508474,"stability":8.26178898511264,"retrievability":0.9037603389883699,"grade":1,"lapses":0,"reps":3,"review":"20220310014012099"},{"due":"20220319051458908","interval":8,"difficulty":5.757148846831711,"stability":0.07408316441686115,"retrievability":0.9030096973232373,"grade":0,"lapses":1,"reps":1,"review":"20220318051458908"},{"due":"20220320153405416","interval":1,"difficulty":6.198333503061925,"stability":0.054882158045770235,"retrievability":0.24118465623021404,"grade":0,"lapses":2,"reps":1,"review":"20220319153405416"},{"due":"20220322015419845","interval":1,"difficulty":5.544975804907552,"stability":2.4454459023122017,"retrievability":0.14664230184562638,"grade":1,"lapses":2,"reps":2,"review":"20220320015419845"},{"due":"20220328050016517","interval":2,"difficulty":5.662415199642728,"stability":5.582778150540912,"retrievability":0.917439394735176,"grade":1,"lapses":2,"reps":3,"review":"20220322050016516"},{"due":"20220409165144942","interval":5,"difficulty":4.7723684231322325,"stability":13.076301563575699,"retrievability":0.9099532234895036,"grade":2,"lapses":2,"reps":4,"review":"20220327165144942"}]
+interval: 13
 lapses: 2
-modified: 20220327165144942
+modified: 20220410052131072
 modifier: @oeyoews
-reps: 4
-retrievability: 0.9099532234895036
-review: 20220327165144942
-stability: 13.076301563575699
+reps: 5
+retrievability: 0.9005534806134021
+review: 20220410052131071
+stability: 29.26640581176748
 tags: EnglishWord ?
 title: capitalism
 type: text/vnd.tiddlywiki
