@@ -13,6 +13,7 @@
     {
       "name": "Hello",
       "short_name": "Hello",
+      "description": "hello webpage",
       "url": "./hello.html",
       "icons": [
         {

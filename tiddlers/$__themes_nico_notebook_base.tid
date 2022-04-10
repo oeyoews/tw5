@@ -69,9 +69,6 @@ a.tc-tiddlylink:hover {
 a.tc-tiddlylink-external, a.tc-tiddlylink-external:visited {
 	padding: 2px;
   padding-bottom: 0px;
-	/** remove underline <<colour external-link-underline>>; */
-	/*border-bottom: <<colour external-link-underline>>;*/
-	border-bottom: 1px solid #268bd2;
 	text-decoration: none;
   box-decoration-break: clone;
   font-weight: normal;
@@ -86,6 +83,8 @@ a.tc-tiddlylink-external:hover {
   /*-webkit-text-fill-color: none;*/
   background-color: <<colour page-background>>;
   color: <<colour tiddler-link-foreground>>;
+	/*border-bottom: 1px solid #268bd2;*/
+	border-bottom: 2px solid #2aa198;
   /*text-decoration: underline;*/
 }
 
