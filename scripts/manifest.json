@@ -11,8 +11,8 @@
   "orientation": "any",
   "shortcuts": [
     {
-      "name": "Fish For You",
-      "short_name": "Fish",
+      "name": "Fish For Yours",
+      "short_name": "Fishs",
       "url": "/",
       "icons": [
         { "src": "favicon.png", "sizes": "512x512", "type": "image/png" }
