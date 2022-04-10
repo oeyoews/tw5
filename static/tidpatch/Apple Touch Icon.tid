@@ -6,5 +6,5 @@ tags: $:/tags/RawMarkup
 title: Apple Touch Icon
 type: text/vnd.tiddlywiki
 
-<link rel="apple-touch-icon" href="./favicon.png"/>
+<link rel="apple-touch-icon" href="./favicon.ico"/>
 <meta name="apple-mobile-web-app-title" content="FishForYou">
