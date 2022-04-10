@@ -8,6 +8,7 @@
   "theme_color": "#073642",
   "background_color": "#073642",
   "lang": "en-US",
+  "orientation": "any",
   "shortcuts": [
     {
       "name": "Fish For You",

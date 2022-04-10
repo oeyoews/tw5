@@ -110,3 +110,4 @@
 - [ ] question: http-server differ tw5(how to visit files in local)
 - [ ] todo: learn webpack
 - [ ] todo: test apple icon use gitee copy simple projects
+- [ ] fix: refresh to skiping waiting, not automaticaly
