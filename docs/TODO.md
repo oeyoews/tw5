@@ -104,3 +104,4 @@
 - [x] fix: adjust toolip repeat for android
 - [ ] fix: fix ios main icon
 - [ ] fix: remove pwa title
+- [ ] feat: learn install before event for pwa(optimic its logic add adjust if install)

@@ -2,7 +2,7 @@
   "description": "a linear notebook",
   "name": "Fish For You",
   "short_name": "Fish",
-  "display": "fullscreen",
+  "display": "standalone",
   "id": "/",
   "start_url": "/",
   "theme_color": "#8888ff",
