@@ -8,10 +8,19 @@
   "theme_color": "#073642",
   "background_color": "#073642",
   "lang": "en-US",
+  "shortcuts": [
+    {
+      "name": "Fish For You",
+      "short_name": "Fish",
+      "url": "/",
+      "icons": [
+        { "src": "favicon.png", "type": "image/png" }
+      ]
+    }
+   ],
   "icons": [
     {
       "src": "./favicon.png",
-      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     }
