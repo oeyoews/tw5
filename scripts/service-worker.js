@@ -43,12 +43,26 @@ registerRoute(/(^\/$|index.html)/, new StaleWhileRevalidate());
 
 // remove title
 //const mqStandAlone = '(display-mode: fullscreen)'
-
 // Check this page is running in pwa mode
 //if (navigator.fullscreen || self.matchMedia(mqStandAlone)) {
 //if (navigator.fullscreen ) {
   //document.title = ''
 //}
+
+//
+// Initialize deferredPrompt for use later to show browser install prompt.
+let deferredPrompt;
+
+self.addEventListener('beforeinstallprompt', (e) => {
+  // Prevent the mini-infobar from appearing on mobile
+  e.preventDefault();
+  // Stash the event so it can be triggered later.
+  deferredPrompt = e;
+  // Update UI notify the user they can install the PWA
+  showInstallPromotion();
+  // Optionally, send analytics event that PWA install promo was shown.
+  console.log(`'beforeinstallprompt' event was fired.`);
+});
 
 // self test
 self.addEventListener('install', function(event) {
@@ -60,38 +74,3 @@ self.addEventListener('install', function(event) {
   // of event.waitUntil();
 });
 
-//
-// Initialize deferredPrompt for use later to show browser install prompt.
-//let deferredPrompt;
-
-//self.addEventListener('beforeinstallprompt', (e) => {
-  //// Prevent the mini-infobar from appearing on mobile
-  //// Stash the event so it can be triggered later.
-  //// Update UI notify the user they can install the PWA
-  //// Optionally, send analytics event that PWA install promo was shown.
-  ////e.preventDefault();
-  ////deferredPrompt = e;
-  ////showInstallPromotion();
-  ////console.log(`'beforeinstallprompt' event was fired.`);
-      //e.userChoice.then(function (choiceResult) {
-        //if (choiceResult.outcome === 'dismissed') {
-            //console.log('用户取消安装应用');
-        //}
-        //else {
-            //console.log('用户安装了应用');
-        //}
-    //});
-//});
-
-self.addEventListener('click', function () {
-    if (deferredPrompt != null) {
-        // 异步触发横幅显示
-        deferredPrompt.prompt();
-        // 检测用户的安装行为
-        deferredPrompt.userChoice.then(function (choiceResult) {
-            console.log(choiceResult.outcome);
-        });
-
-        deferredPrompt = null;
-    }
-});
