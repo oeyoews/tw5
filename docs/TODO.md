@@ -98,3 +98,4 @@
 - [ ] feat: add swift app for fish web
 - [ ] feat: learn electron
 - [ ] feat: use pwa sw to send message tooltip click button
+- [ ] feat: use subfolder to simulate vercel with shellscript
