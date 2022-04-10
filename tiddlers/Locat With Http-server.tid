@@ -1,0 +1,11 @@
+created: 20220410061605359
+creator: @oeyoews
+modified: 20220410062658954
+modifier: @oeyoews
+tags: frontend
+title: Locat With Http-server
+type: text/vnd.tiddlywiki
+
+`http-server -p 8081`
+
+* https://tyouzu1.github.io/blog/2019/08/09/localhost-https/
