@@ -100,3 +100,4 @@
 - [ ] feat: use pwa sw to send message tooltip click button
 - [ ] feat: use subfolder to simulate vercel with shellscript
 - [ ] feat: how to reference meta etc head files automaticaly(reference github framework projects)
+- [ ] fix: how to fix loading animation in ios
