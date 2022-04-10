@@ -1,0 +1,13 @@
+created: 20220410033448432
+creator: @oeyoews
+modified: 20220410033503257
+modifier: @oeyoews
+tags: config
+title: FaqLink
+type: text/vnd.tiddlywiki
+
+<i style="color: #ffc022;" class="fab fa-d-and-d"></i>
+
+<div style="display: inline-block;">
+[[FAQ]]
+</div>
