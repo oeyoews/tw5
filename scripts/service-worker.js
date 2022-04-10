@@ -83,7 +83,7 @@ self.addEventListener('install', function(event) {
     //});
 //});
 
-button.addEventListener('click', function () {
+self.addEventListener('click', function () {
     if (deferredPrompt != null) {
         // 异步触发横幅显示
         deferredPrompt.prompt();
