@@ -116,3 +116,4 @@
 - [ ] feat: use subfolder to private or all tiddlers add password
 - [ ] todo: add maskable icon(for apk install this icon is big in square firstly)
 - [ ] todo: support applet, such as qq and wechat
+- [ ] todo: how to copy another html to current like tw5
