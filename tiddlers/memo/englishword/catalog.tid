@@ -1,18 +1,18 @@
 created: 20220228124002623
 creator: oeyoews
-difficulty: 2.559696197107576
-due: 20220411114623994
+difficulty: 2.6581780481629464
+due: 20220612005110425
 grade: 1
-history: [{"due":"20220311023134799","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023134799"},{"due":"20220319152838314","interval":2,"difficulty":2.456603154876539,"stability":7.235610940626585,"retrievability":0.12187376544351697,"grade":1,"lapses":0,"reps":2,"review":"20220312152838313"}]
-interval: 7
+history: [{"due":"20220311023134799","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310023134799"},{"due":"20220319152838314","interval":2,"difficulty":2.456603154876539,"stability":7.235610940626585,"retrievability":0.12187376544351697,"grade":1,"lapses":0,"reps":2,"review":"20220312152838313"},{"due":"20220411114623994","interval":7,"difficulty":2.559696197107576,"stability":22.63726908863711,"retrievability":0.9030930422310366,"grade":1,"lapses":0,"reps":3,"review":"20220319114623993"}]
+interval: 23
 lapses: 0
-modified: 20220327134300141
+modified: 20220411005110425
 modifier: @oeyoews
 page-cover: https://cdn.jsdelivr.net/gh/oeyoews/img/cat-scape.jpg
-reps: 3
-retrievability: 0.9030930422310366
-review: 20220319114623993
-stability: 22.63726908863711
+reps: 4
+retrievability: 0.8984818510553704
+review: 20220411005110424
+stability: 61.863464039124544
 tags: EnglishWord ?
 title: catalog
 type: text/vnd.tiddlywiki

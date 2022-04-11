@@ -1,17 +1,17 @@
 created: 20220317012721271
 creator: @oeyoews
-difficulty: 2.10610250660315
-due: 20220409161732543
-grade: 1
-history: [{"due":"20220318022728636","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220317022728635"},{"due":"20220319074910709","interval":1,"difficulty":2.1997785452241594,"stability":0.07408316441686115,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220318074910709"},{"due":"20220320124105397","interval":1,"difficulty":2.640963201454374,"stability":0.054882158045770235,"retrievability":0.24118465623021404,"grade":0,"lapses":2,"reps":1,"review":"20220319124105396"},{"due":"20220325015343266","interval":1,"difficulty":1.9876055033,"stability":4.9571716530466405,"retrievability":0.14664230184562638,"grade":1,"lapses":2,"reps":2,"review":"20220320015343265"}]
-interval: 4
+difficulty: 1.1992094395028234
+due: 20220620005546369
+grade: 2
+history: [{"due":"20220318022728636","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220317022728635"},{"due":"20220319074910709","interval":1,"difficulty":2.1997785452241594,"stability":0.07408316441686115,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220318074910709"},{"due":"20220320124105397","interval":1,"difficulty":2.640963201454374,"stability":0.054882158045770235,"retrievability":0.24118465623021404,"grade":0,"lapses":2,"reps":1,"review":"20220319124105396"},{"due":"20220325015343266","interval":1,"difficulty":1.9876055033,"stability":4.9571716530466405,"retrievability":0.14664230184562638,"grade":1,"lapses":2,"reps":2,"review":"20220320015343265"},{"due":"20220409161732543","interval":4,"difficulty":2.10610250660315,"stability":15.843832377921283,"retrievability":0.91849700330315,"grade":1,"lapses":2,"reps":3,"review":"20220324161732542"}]
+interval: 17
 lapses: 2
-modified: 20220324161732543
+modified: 20220411005546370
 modifier: @oeyoews
-reps: 3
-retrievability: 0.91849700330315
-review: 20220324161732542
-stability: 15.843832377921283
+reps: 4
+retrievability: 0.8931069328996734
+review: 20220411005546369
+stability: 70.1914775013128
 tags: EnglishWord ?
 title: consequently
 type: text/vnd.tiddlywiki
