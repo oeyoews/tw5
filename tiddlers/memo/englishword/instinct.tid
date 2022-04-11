@@ -1,17 +1,17 @@
 created: 20220403035115760
 creator: @oeyoews
-difficulty: 0.40291375445826566
-due: 20220408103929783
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220427075444896
+grade: 1
+history: [{"due":"20220408103929783","interval":0,"difficulty":0.40291375445826566,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220407103929782"}]
+interval: 4
 lapses: 0
-modified: 20220407103929783
+modified: 20220411075444896
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220407103929782
-stability: 0.1000004529953003
+reps: 2
+retrievability: 0.014781165126568838
+review: 20220411075444896
+stability: 16.060547177433822
 tags: EnglishWord ?
 title: instinct
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20220222115857576
 creator: oeyoews
-difficulty: 1.851100501575438
-due: 20220411093214009
-grade: 2
-history: [{"due":"20220308061339815","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061339815"},{"due":"20220316083142089","interval":2,"difficulty":2.7554360526608637,"stability":6.693233418822354,"retrievability":0.1227653108614827,"grade":2,"lapses":0,"reps":2,"review":"20220309083142089"}]
-interval: 7
+difficulty: 1.9522373286756756
+due: 20220630060029839
+grade: 1
+history: [{"due":"20220308061339815","interval":0,"difficulty":4.432670741799381,"stability":0.1004638671875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220307061339815"},{"due":"20220316083142089","interval":2,"difficulty":2.7554360526608637,"stability":6.693233418822354,"retrievability":0.1227653108614827,"grade":2,"lapses":0,"reps":2,"review":"20220309083142089"},{"due":"20220411093214009","interval":7,"difficulty":1.851100501575438,"stability":26.3152884139894,"retrievability":0.8956644489145744,"grade":2,"lapses":0,"reps":3,"review":"20220316093214009"}]
+interval: 26
 lapses: 0
-modified: 20220316093214009
+modified: 20220411060029839
 modifier: @oeyoews
-reps: 3
-retrievability: 0.8956644489145744
-review: 20220316093214009
-stability: 26.3152884139894
+reps: 4
+retrievability: 0.9011368271002376
+review: 20220411060029838
+stability: 79.72548658564989
 tags: EnglishWord ?
 title: triumphs
 type: text/vnd.tiddlywiki

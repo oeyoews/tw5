@@ -1,17 +1,17 @@
 created: 20220226034202907
 creator: oeyoews
-difficulty: 1.551977823248034
-due: 20220409062738588
-grade: 2
-history: [{"due":"20220311015430980","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310015430980"},{"due":"20220314042923648","interval":3,"difficulty":3.3772760368314025,"stability":0.07410329964720157,"retrievability":0.042546647398380294,"grade":0,"lapses":1,"reps":1,"review":"20220313042923647"},{"due":"20220314162540174","interval":0,"difficulty":3.5772760368314023,"stability":0.07410329964720157,"retrievability":1,"grade":1,"lapses":1,"reps":2,"review":"20220313162540174"},{"due":"20220317011212800","interval":2,"difficulty":3.835491050587532,"stability":0.054885141354873004,"retrievability":0.05821501375612986,"grade":0,"lapses":2,"reps":1,"review":"20220316011212800"},{"due":"20220318112859875","interval":1,"difficulty":4.1821486552754354,"stability":0.04065843936722075,"retrievability":0.1466576046879033,"grade":0,"lapses":3,"reps":1,"review":"20220317112859874"},{"due":"20220322051205855","interval":1,"difficulty":2.4570669913315513,"stability":3.795708614471703,"retrievability":0.07491833605611539,"grade":2,"lapses":3,"reps":2,"review":"20220318051205855"}]
-interval: 4
+difficulty: 1.641526609978152
+due: 20220618075426707
+grade: 1
+history: [{"due":"20220311015430980","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310015430980"},{"due":"20220314042923648","interval":3,"difficulty":3.3772760368314025,"stability":0.07410329964720157,"retrievability":0.042546647398380294,"grade":0,"lapses":1,"reps":1,"review":"20220313042923647"},{"due":"20220314162540174","interval":0,"difficulty":3.5772760368314023,"stability":0.07410329964720157,"retrievability":1,"grade":1,"lapses":1,"reps":2,"review":"20220313162540174"},{"due":"20220317011212800","interval":2,"difficulty":3.835491050587532,"stability":0.054885141354873004,"retrievability":0.05821501375612986,"grade":0,"lapses":2,"reps":1,"review":"20220316011212800"},{"due":"20220318112859875","interval":1,"difficulty":4.1821486552754354,"stability":0.04065843936722075,"retrievability":0.1466576046879033,"grade":0,"lapses":3,"reps":1,"review":"20220317112859874"},{"due":"20220322051205855","interval":1,"difficulty":2.4570669913315513,"stability":3.795708614471703,"retrievability":0.07491833605611539,"grade":2,"lapses":3,"reps":2,"review":"20220318051205855"},{"due":"20220409062738588","interval":4,"difficulty":1.551977823248034,"stability":18.004046831103064,"retrievability":0.8949108319164825,"grade":2,"lapses":3,"reps":3,"review":"20220322062738588"}]
+interval: 20
 lapses: 3
-modified: 20220322062738588
+modified: 20220411075426707
 modifier: @oeyoews
-reps: 3
-retrievability: 0.8949108319164825
-review: 20220322062738588
-stability: 18.004046831103064
+reps: 4
+retrievability: 0.8895487867301184
+review: 20220411075426707
+stability: 68.0246828828837
 tags: EnglishWord ?
 title: rival
 type: text/vnd.tiddlywiki

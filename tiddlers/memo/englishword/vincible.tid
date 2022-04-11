@@ -1,17 +1,17 @@
 created: 20220323060812434
 creator: @oeyoews
 difficulty: 1
-due: 20220408012306776
+due: 20220608075702977
 grade: 2
-history: [{"due":"20220329161223209","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161223209"}]
-interval: 1
+history: [{"due":"20220329161223209","interval":0,"difficulty":0.5255733166154046,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220328161223209"},{"due":"20220408012306776","interval":1,"difficulty":1,"stability":8.830297176503736,"retrievability":0.3486801042625608,"grade":2,"lapses":0,"reps":2,"review":"20220330012306776"}]
+interval: 12
 lapses: 0
-modified: 20220330012306776
+modified: 20220411075702977
 modifier: @oeyoews
-reps: 2
-retrievability: 0.3486801042625608
-review: 20220330012306776
-stability: 8.830297176503736
+reps: 3
+retrievability: 0.8665976512740341
+review: 20220411075702976
+stability: 57.73886200007971
 tags: EnglishWord ?
 title: vincible
 type: text/vnd.tiddlywiki
