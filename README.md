@@ -12,6 +12,7 @@
 * [Linux](#linux)
   * [Service](#service)
 * [Run](#run)
+* [Platform](#platform)
 * [APK](#apk)
 * [PWA](#pwa)
   * [motivate](#motivate)
@@ -69,6 +70,7 @@
 
 > NOTE: if you use npm run dev &, only use npm run dev again , and ctrl c to exit this node program
 
+## [Platform](./docs/Platform.md)
 ## [APK](https://gitlab.com/xxx)
 
 ## PWA

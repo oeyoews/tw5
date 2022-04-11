@@ -1,17 +1,17 @@
 created: 20220317054343097
 creator: @oeyoews
-difficulty: 1.7327865620843845
-due: 20220408011449842
+difficulty: 1.7832939555634446
+due: 20220513011550624
 grade: 1
-history: [{"due":"20220319143733204","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143733204"},{"due":"20220328154344121","interval":1,"difficulty":1,"stability":8.830302388320703,"retrievability":0.3486850967074362,"grade":1,"lapses":0,"reps":2,"review":"20220319154344121"},{"due":"20220401123059453","interval":1,"difficulty":1.188139200839347,"stability":12.454539650368702,"retrievability":0.988139200839347,"grade":1,"lapses":0,"reps":3,"review":"20220320123059452"},{"due":"20220402020313203","interval":12,"difficulty":2.2916065672590338,"stability":0.07408215765534414,"retrievability":0.9034673664196867,"grade":0,"lapses":1,"reps":1,"review":"20220401020313203"}]
-interval: 1
+history: [{"due":"20220319143733204","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143733204"},{"due":"20220328154344121","interval":1,"difficulty":1,"stability":8.830302388320703,"retrievability":0.3486850967074362,"grade":1,"lapses":0,"reps":2,"review":"20220319154344121"},{"due":"20220401123059453","interval":1,"difficulty":1.188139200839347,"stability":12.454539650368702,"retrievability":0.988139200839347,"grade":1,"lapses":0,"reps":3,"review":"20220320123059452"},{"due":"20220402020313203","interval":12,"difficulty":2.2916065672590338,"stability":0.07408215765534414,"retrievability":0.9034673664196867,"grade":0,"lapses":1,"reps":1,"review":"20220401020313203"},{"due":"20220408011449842","interval":1,"difficulty":1.7327865620843845,"stability":5.856175327854364,"retrievability":0.2411799948253509,"grade":1,"lapses":1,"reps":2,"review":"20220402011449842"}]
+interval: 9
 lapses: 1
-modified: 20220402011449842
+modified: 20220411011550624
 modifier: @oeyoews
-reps: 2
-retrievability: 0.2411799948253509
-review: 20220402011449842
-stability: 5.856175327854364
+reps: 3
+retrievability: 0.8505073934790599
+review: 20220411011550623
+stability: 32.394432466358566
 tags: EnglishWord ?
 title: counsel
 type: text/vnd.tiddlywiki
