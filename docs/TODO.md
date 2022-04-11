@@ -118,3 +118,5 @@
 - [ ] todo: support applet, such as qq and wechat
 - [ ] todo: how to copy another html to current like tw5
 - [ ] todo: search upgrade emoji icon
+- [ ] todo: fix autofocus in mobilephone
+    * [link](https://blog.csdn.net/LLL_liuhui/article/details/80650904)

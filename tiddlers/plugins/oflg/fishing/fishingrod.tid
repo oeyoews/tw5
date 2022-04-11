@@ -1,0 +1,31 @@
+created: 20220411110553789
+creator: @oeyoews
+modified: 20220411110556958
+modifier: @oeyoews
+title: $:/plugins/oflg/fishing/fishingrod
+type: text/vnd.tiddlywiki
+
+<div
+    style="margin:5px 15px;"
+>
+    <$edit-text
+        tiddler="$:/temp/fishing"
+        field="fishingrod"
+        tag="input"
+        focus="false"
+        placeholder="[tag[?]]"
+        inputActions='<$action-setfield $tiddler="$:/temp/fishing" list=""/>'
+    />
+</div>
+<div
+    style="display:flex;margin:0 15px;justify-content:flex-start;align-items:center;font-size:10pt;"
+>
+    <$list
+        filter="[all[shadows+tiddlers]tag[$:/tags/FishingGrod]!is[draft]]"
+    >
+        <$transclude
+            tiddler="$:/core/ui/ViewTemplate/fishing/button"
+            mode="inline"
+        />
+    </$list>
+</div>
