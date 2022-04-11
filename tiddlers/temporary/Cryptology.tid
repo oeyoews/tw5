@@ -1,12 +1,16 @@
 created: 20220331025209998
 creator: @oeyoews
-modified: 20220331053837528
+modified: 20220411024614307
 modifier: @oeyoews
 tags: temp
 title: Cryptology
 type: text/vnd.tiddlywiki
 
-<<shield status ing red>>
+<<shield status ing green>> updated by [[@oeyoews]] <$view field="modified" format="relativedate"/>
+
+!! Links
+
+* [[paper 1|http://www.koovin.com/?a=downloadpdf&id=12719239&file_name=D8BA5DED9234620A3B088117350916D2&doaction=readding]]
 * https://slidesplayer.com/slide/15463798/
 * [[link 1 |http://www.xinhuanet.com/politics/2019-12/27/c_1125394020.htm ]]
 
