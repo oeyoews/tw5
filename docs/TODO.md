@@ -35,6 +35,7 @@
 - [ ] todo: add shortkeys for close-other-tiddler
 - [ ] __git__: use submodule to manage img and tiddler/subwiki
 - [ ] docs: tidy docs image
+    [link](https://www.bookstack.cn/read/lavas-tutorial/v2-basic-init.md)
 - [ ] pref: packing vercel and package command
 - [ ] feat: pwa install local with port, not online
 - [ ] feat: add button effects for left menubar
@@ -118,5 +119,6 @@
 - [ ] todo: support applet, such as qq and wechat
 - [ ] todo: how to copy another html to current like tw5
 - [ ] todo: search upgrade emoji icon
-- [ ] todo: fix autofocus in mobilephone
+- [x] todo: fix autofocus in mobilephone
     * [link](https://blog.csdn.net/LLL_liuhui/article/details/80650904)
+- [ ] todo: adapt all browser font, not only ios

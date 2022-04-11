@@ -1,0 +1,10 @@
+created: 20220411113923211
+creator: @oeyoews
+modified: 20220411114009583
+modifier: @oeyoews
+tags: android
+title: ADB
+type: text/vnd.tiddlywiki
+
+* adb shell pm list packages >> /tmp/pack.md
+* adb uninstall xxx
