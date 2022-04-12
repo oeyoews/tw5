@@ -1,17 +1,17 @@
 created: 20220224114643291
 creator: oeyoews
-difficulty: 2.0952539040952205
-due: 20220412060038082
-grade: 0
-history: [{"due":"20220304234946041","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303234946041"},{"due":"20220401015056068","interval":1,"difficulty":1,"stability":26.783090178331225,"retrievability":0.3750069880117309,"grade":2,"lapses":0,"reps":2,"review":"20220305015056068"},{"due":"20220402020352636","interval":27,"difficulty":2.0992323669683963,"stability":0.07408215765534414,"retrievability":0.8992323669683963,"grade":0,"lapses":1,"reps":1,"review":"20220401020352636"},{"due":"20220411023148415","interval":1,"difficulty":1,"stability":8.569928231443768,"retrievability":0.2411799948253509,"grade":2,"lapses":1,"reps":2,"review":"20220402023148415"}]
-interval: 9
+difficulty: 1.4418917425992726
+due: 20220418013143755
+grade: 1
+history: [{"due":"20220304234946041","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303234946041"},{"due":"20220401015056068","interval":1,"difficulty":1,"stability":26.783090178331225,"retrievability":0.3750069880117309,"grade":2,"lapses":0,"reps":2,"review":"20220305015056068"},{"due":"20220402020352636","interval":27,"difficulty":2.0992323669683963,"stability":0.07408215765534414,"retrievability":0.8992323669683963,"grade":0,"lapses":1,"reps":1,"review":"20220401020352636"},{"due":"20220411023148415","interval":1,"difficulty":1,"stability":8.569928231443768,"retrievability":0.2411799948253509,"grade":2,"lapses":1,"reps":2,"review":"20220402023148415"},{"due":"20220412060038082","interval":9,"difficulty":2.0952539040952205,"stability":0.054881287913948605,"retrievability":0.8952539040952202,"grade":0,"lapses":2,"reps":1,"review":"20220411060038081"}]
+interval: 1
 lapses: 2
-modified: 20220411060038082
+modified: 20220412013143755
 modifier: @oeyoews
-reps: 1
-retrievability: 0.8952539040952202
-review: 20220411060038081
-stability: 0.054881287913948605
+reps: 2
+retrievability: 0.14663783850405215
+review: 20220412013143755
+stability: 6.192149418826253
 tags: EnglishWord ?
 title: poverty
 type: text/vnd.tiddlywiki

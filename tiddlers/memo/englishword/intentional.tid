@@ -1,17 +1,17 @@
 created: 20220316063454802
 creator: @oeyoews
-difficulty: 1.2080060512887723
-due: 20220411164513331
-grade: 2
-history: [{"due":"20220318022635156","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220317022635156"},{"due":"20220319050632975","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220318050632975"},{"due":"20220321015835709","interval":2,"difficulty":2.457951581661088,"stability":0.05488166082758644,"retrievability":0.05817303643692872,"grade":0,"lapses":2,"reps":1,"review":"20220320015835708"},{"due":"20220322054319569","interval":1,"difficulty":2.80459133302651,"stability":0.04065733432235013,"retrievability":0.14663975136542198,"grade":0,"lapses":3,"reps":1,"review":"20220321054319568"},{"due":"20220326062626817","interval":1,"difficulty":2.0795043926423826,"stability":4.260828903278582,"retrievability":0.0749130596158722,"grade":1,"lapses":3,"reps":2,"review":"20220322062626817"}]
-interval: 3
+difficulty: 1.306208501514026
+due: 20220618013146785
+grade: 1
+history: [{"due":"20220318022635156","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220317022635156"},{"due":"20220319050632975","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220318050632975"},{"due":"20220321015835709","interval":2,"difficulty":2.457951581661088,"stability":0.05488166082758644,"retrievability":0.05817303643692872,"grade":0,"lapses":2,"reps":1,"review":"20220320015835708"},{"due":"20220322054319569","interval":1,"difficulty":2.80459133302651,"stability":0.04065733432235013,"retrievability":0.14663975136542198,"grade":0,"lapses":3,"reps":1,"review":"20220321054319568"},{"due":"20220326062626817","interval":1,"difficulty":2.0795043926423826,"stability":4.260828903278582,"retrievability":0.0749130596158722,"grade":1,"lapses":3,"reps":2,"review":"20220322062626817"},{"due":"20220411164513331","interval":3,"difficulty":1.2080060512887723,"stability":16.683422717623532,"retrievability":0.9285016586463899,"grade":2,"lapses":3,"reps":3,"review":"20220325164513331"}]
+interval: 17
 lapses: 3
-modified: 20220325164513331
+modified: 20220412013146785
 modifier: @oeyoews
-reps: 3
-retrievability: 0.9285016586463899
-review: 20220325164513331
-stability: 16.683422717623532
+reps: 4
+retrievability: 0.8982024502252538
+review: 20220412013146784
+stability: 67.3592100659361
 tags: EnglishWord ?
 title: intentional
 type: text/vnd.tiddlywiki
