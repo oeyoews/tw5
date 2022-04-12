@@ -1,36 +1,5 @@
 ## TODO
 
-- [x] __crontab__: use timer or crontab to push automaticaly with smtp
-- [x] __precache__: use workbox-cli to precache offline(or use workbox-build)
-- [x] fix: adjust toolip repeat for android
-- [x] fix: better eng creat btn
-- [x] feat: add slip button hover annoation like vercel
-- [x] feat: come ture pwa really, like notion neovim website, can be recognized by chrome
-- [x] todo: add seo
-- [x] fix: in sarifai browser, can't offline really and google can't refresh seemly
-- [x] feat: use fontawesome as external link, such to gitlab repo
-- [x] feat: add fa class
-- [x] feat: use css linkstyle to replace fontawesome plugins(too obscure)
-- [x] fix: faster workbox-cli install for vercel
-- [x] fix: fix reagain install service-worker, two sw.js
-- [x] todo: local devbug with workbox-cli
-    <!--* http://csbun.github.io/blog/2018/02/workbox/-->
-    <!--* https://github.com/linonetwo/wiki-->
-- [x] __repo__: use runner(renovate) for repository(tw5) in gitlab platform
-- [x] __bug__: Fishing calendar cache disappear in sometimes
-- [x] __template__: make a tw template
-- [x] __bug__: fix this scrool homepage bug
-~~- [x] bug: storyview zoomin just show one tiddler(it a feature)~~
-- [x] bug: fix renoavte-bot release step error
-- [x] bug: tiny notebook theme style(minimum it)
-- [x] __todo__: gitlab runner for tw5
-- [x] fishing: fishing multi group how to discard
-- [x] search local installed plugins
-- [x] bug: alt d wrong
-- [x] feat: make heapmap like github's
-- [x] feat: use hitoko usage
-- [x] fix: config float message box
-- [x] todo: better update time
 - [ ] todo: tidy tiddlers
 - [ ] todo: add shortkeys for close-other-tiddler
 - [ ] __git__: use submodule to manage img and tiddler/subwiki
@@ -102,8 +71,6 @@
 - [ ] feat: use pwa sw to send message tooltip click button
 - [ ] feat: use subfolder to simulate vercel with shellscript
 - [ ] feat: how to reference meta etc head files automaticaly(reference github framework projects)
-- [ ] fix: how to fix loading animation in ios
-- [ ] fix: fix ios main icon
 - [ ] fix: remove pwa title
 - [ ] feat: learn install before event for pwa(optimic its logic add adjust if install)
     - [Text](https://segmentfault.com/a/1190000019172787)
@@ -115,10 +82,47 @@
 - [ ] fix: in phone, if installed, how to hide system install menubar tip
 - [ ] fix: center favicon for fishhead and small it size
 - [ ] feat: use subfolder to private or all tiddlers add password
-- [x] todo: add maskable icon(for apk install this icon is big in square firstly)
 - [ ] todo: support applet, such as qq and wechat
 - [ ] todo: how to copy another html to current like tw5
 - [ ] todo: search upgrade emoji icon
+- [ ] todo: adapt all browser font, not only ios
+
+## DONE
+
+- [x] fix: how to fix loading animation in ios
+- [x] fix: fix ios main icon
+- [x] todo: add maskable icon(for apk install this icon is big in square firstly)
 - [x] todo: fix autofocus in mobilephone
     * [link](https://blog.csdn.net/LLL_liuhui/article/details/80650904)
-- [ ] todo: adapt all browser font, not only ios
+- [x] __crontab__: use timer or crontab to push automaticaly with smtp
+- [x] __precache__: use workbox-cli to precache offline(or use workbox-build)
+- [x] fix: adjust toolip repeat for android
+- [x] fix: better eng creat btn
+- [x] feat: add slip button hover annoation like vercel
+- [x] feat: come ture pwa really, like notion neovim website, can be recognized by chrome
+- [x] todo: add seo
+- [x] fix: in sarifai browser, can't offline really and google can't refresh seemly
+- [x] feat: use fontawesome as external link, such to gitlab repo
+- [x] feat: add fa class
+- [x] feat: use css linkstyle to replace fontawesome plugins(too obscure)
+- [x] fix: faster workbox-cli install for vercel
+- [x] fix: fix reagain install service-worker, two sw.js
+- [x] todo: local devbug with workbox-cli
+    <!--* http://csbun.github.io/blog/2018/02/workbox/-->
+    <!--* https://github.com/linonetwo/wiki-->
+- [x] __repo__: use runner(renovate) for repository(tw5) in gitlab platform
+- [x] __bug__: Fishing calendar cache disappear in sometimes
+- [x] __template__: make a tw template
+- [x] __bug__: fix this scrool homepage bug
+~~- [x] bug: storyview zoomin just show one tiddler(it a feature)~~
+- [x] bug: fix renoavte-bot release step error
+- [x] bug: tiny notebook theme style(minimum it)
+- [x] __todo__: gitlab runner for tw5
+- [x] fishing: fishing multi group how to discard
+- [x] search local installed plugins
+- [x] bug: alt d wrong
+- [x] feat: make heapmap like github's
+- [x] feat: use hitoko usage
+- [x] fix: config float message box
+- [x] todo: better update time
+
