@@ -126,3 +126,4 @@
 - [x] fix: config float message box
 - [x] todo: better update time
 - [ ] todo: use a template for fish tw engwords
+- [ ] todo: use tools make dark and light pictures
