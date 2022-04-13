@@ -1,18 +1,9 @@
 created: 20220409143639769
 creator: @oeyoews
-difficulty: 0.33871244118862254
-due: 20220413151616821
-grade: -1
 history: []
-interval: 0
-lapses: 0
-modified: 20220412151616821
+modified: 20220413001640253
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220412151616821
-stability: 0.10000022649765015
-tags: EnglishWord ?
+tags: EnglishWord !
 title: heart
 type: text/vnd.tiddlywiki
 
