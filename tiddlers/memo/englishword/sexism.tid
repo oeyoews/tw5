@@ -1,16 +1,16 @@
 created: 20220322125046809
 creator: @oeyoews
-difficulty: 0.33871244118862254
-due: 20220413151605555
-grade: -1
-history: []
+difficulty: 1
+due: 20220413235902332
+grade: 2
+history: [{"due":"20220413151605555","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220412151605555"}]
 interval: 0
 lapses: 0
-modified: 20220412151605555
+modified: 20220412235902332
 modifier: @oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220412151605555
+review: 20220412235902332
 stability: 0.10000022649765015
 tags: EnglishWord ?
 title: sexism

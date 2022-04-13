@@ -1,17 +1,17 @@
 created: 20220221091352922
 creator: oeyoews
-difficulty: 3.1289787951974155
-due: 20220413154107497
+difficulty: 2.2338674133445764
+due: 20220622235859297
 grade: 2
-history: [{"due":"20220225163547761","interval":0,"difficulty":4.185421121632139,"stability":0.2500261494800798,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220224163547761"},{"due":"20220227013443563","interval":1,"difficulty":5.0415500414207175,"stability":0.1200525453955683,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20220226013443563"},{"due":"20220228113029273","interval":1,"difficulty":5.657321309453819,"stability":0.052727002747608956,"retrievability":0.41577126803310094,"grade":0,"lapses":3,"reps":1,"review":"20220227113029273"},{"due":"20220301113328831","interval":1,"difficulty":5.992896767488864,"stability":0.03459027277429196,"retrievability":0.1355754580350447,"grade":0,"lapses":4,"reps":1,"review":"20220228113328830"},{"due":"20220302072744976","interval":1,"difficulty":6.24044750737203,"stability":0.02562510432954624,"retrievability":0.04755073988316659,"grade":0,"lapses":5,"reps":1,"review":"20220301072744976"},{"due":"20220302164444026","interval":0,"difficulty":7.44044750737203,"stability":0.018983544194197833,"retrievability":1,"grade":0,"lapses":6,"reps":1,"review":"20220301164444026"},{"due":"20220302164444026","interval":0,"difficulty":7.44044750737203,"stability":0.018983544194197833,"retrievability":1,"grade":0,"lapses":6,"reps":1,"review":"20220301164444026"},{"due":"20220306052410239","interval":3,"difficulty":7.640447566103413,"stability":0.012472856901158217,"retrievability":5.873138246409894e-8,"grade":0,"lapses":7,"reps":1,"review":"20220305052410239"},{"due":"20220307063021365","interval":1,"difficulty":5.840662069738625,"stability":0.9106201416408249,"retrievability":0.00021450363521110355,"grade":2,"lapses":7,"reps":2,"review":"20220306063021365"},{"due":"20220310041633365","interval":1,"difficulty":4.931402748943877,"stability":3.0141155775583957,"retrievability":0.8907406792052526,"grade":2,"lapses":7,"reps":3,"review":"20220307041633365"},{"due":"20220319013929646","interval":3,"difficulty":4.031846936407482,"stability":8.73536095628997,"retrievability":0.9004441874636049,"grade":2,"lapses":7,"reps":4,"review":"20220310013929645"}]
-interval: 9
+history: [{"due":"20220225163547761","interval":0,"difficulty":4.185421121632139,"stability":0.2500261494800798,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220224163547761"},{"due":"20220227013443563","interval":1,"difficulty":5.0415500414207175,"stability":0.1200525453955683,"retrievability":0.6561289197885782,"grade":0,"lapses":2,"reps":1,"review":"20220226013443563"},{"due":"20220228113029273","interval":1,"difficulty":5.657321309453819,"stability":0.052727002747608956,"retrievability":0.41577126803310094,"grade":0,"lapses":3,"reps":1,"review":"20220227113029273"},{"due":"20220301113328831","interval":1,"difficulty":5.992896767488864,"stability":0.03459027277429196,"retrievability":0.1355754580350447,"grade":0,"lapses":4,"reps":1,"review":"20220228113328830"},{"due":"20220302072744976","interval":1,"difficulty":6.24044750737203,"stability":0.02562510432954624,"retrievability":0.04755073988316659,"grade":0,"lapses":5,"reps":1,"review":"20220301072744976"},{"due":"20220302164444026","interval":0,"difficulty":7.44044750737203,"stability":0.018983544194197833,"retrievability":1,"grade":0,"lapses":6,"reps":1,"review":"20220301164444026"},{"due":"20220302164444026","interval":0,"difficulty":7.44044750737203,"stability":0.018983544194197833,"retrievability":1,"grade":0,"lapses":6,"reps":1,"review":"20220301164444026"},{"due":"20220306052410239","interval":3,"difficulty":7.640447566103413,"stability":0.012472856901158217,"retrievability":5.873138246409894e-8,"grade":0,"lapses":7,"reps":1,"review":"20220305052410239"},{"due":"20220307063021365","interval":1,"difficulty":5.840662069738625,"stability":0.9106201416408249,"retrievability":0.00021450363521110355,"grade":2,"lapses":7,"reps":2,"review":"20220306063021365"},{"due":"20220310041633365","interval":1,"difficulty":4.931402748943877,"stability":3.0141155775583957,"retrievability":0.8907406792052526,"grade":2,"lapses":7,"reps":3,"review":"20220307041633365"},{"due":"20220319013929646","interval":3,"difficulty":4.031846936407482,"stability":8.73536095628997,"retrievability":0.9004441874636049,"grade":2,"lapses":7,"reps":4,"review":"20220310013929645"},{"due":"20220413154107497","interval":9,"difficulty":3.1289787951974155,"stability":25.30083980114389,"retrievability":0.8971318587899335,"grade":2,"lapses":7,"reps":5,"review":"20220319154107497"}]
+interval: 24
 lapses: 7
-modified: 20220319154107497
+modified: 20220412235859297
 modifier: @oeyoews
-reps: 5
-retrievability: 0.8971318587899335
-review: 20220319154107497
-stability: 25.30083980114389
+reps: 6
+retrievability: 0.9048886181471606
+review: 20220412235859296
+stability: 70.5247774932654
 tags: EnglishWord ?
 title: rumoured
 type: text/vnd.tiddlywiki
