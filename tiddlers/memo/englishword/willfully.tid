@@ -1,17 +1,17 @@
 created: 20220401034016573
 creator: @oeyoews
-difficulty: 0.33871244118862254
-due: 20220413235942258
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220423152053696
+grade: 1
+history: [{"due":"20220413235942258","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220412235942258"}]
+interval: 1
 lapses: 0
-modified: 20220412235942259
+modified: 20220414152053696
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220412235942258
-stability: 0.10000022649765015
+reps: 2
+retrievability: 0.34867927218217226
+review: 20220414152053696
+stability: 8.830296307808057
 tags: EnglishWord ?
 title: willfully
 type: text/vnd.tiddlywiki

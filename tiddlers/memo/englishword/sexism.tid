@@ -1,17 +1,17 @@
 created: 20220322125046809
 creator: @oeyoews
 difficulty: 1
-due: 20220413235902332
-grade: 2
-history: [{"due":"20220413151605555","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220412151605555"}]
-interval: 0
+due: 20220423151947087
+grade: 1
+history: [{"due":"20220413151605555","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220412151605555"},{"due":"20220413235902332","interval":0,"difficulty":1,"stability":0.10000022649765015,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220412235902332"}]
+interval: 1
 lapses: 0
-modified: 20220412235902332
+modified: 20220414151947087
 modifier: @oeyoews
-reps: 2
-retrievability: 1
-review: 20220412235902332
-stability: 0.10000022649765015
+reps: 3
+retrievability: 0.34867927218217226
+review: 20220414151947086
+stability: 8.830296307808057
 tags: EnglishWord ?
 title: sexism
 type: text/vnd.tiddlywiki
