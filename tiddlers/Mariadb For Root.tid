@@ -1,0 +1,9 @@
+created: 20220414070357924
+creator: @oeyoews
+modified: 20220414070414915
+modifier: @oeyoews
+tags: mysql
+title: Mariadb For Root
+type: text/vnd.tiddlywiki
+
+* ` sudo mysql_secure_installation # interactive config`

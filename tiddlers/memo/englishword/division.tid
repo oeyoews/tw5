@@ -1,17 +1,17 @@
 created: 20220303021029758
 creator: oeyoews
-difficulty: 1
-due: 20220414140738464
+difficulty: 1.1009260366174813
+due: 20220917031033262
 grade: 1
-history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"}]
-interval: 2
+history: [{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220302163826285","interval":0,"difficulty":1,"stability":0.11484375000000001,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220301163826285"},{"due":"20220414140738464","interval":2,"difficulty":1,"stability":41.40413658012352,"retrievability":0.15963747807693907,"grade":1,"lapses":0,"reps":3,"review":"20220304140738463"}]
+interval: 41
 lapses: 0
-modified: 20220311044418203
+modified: 20220414031033262
 modifier: @oeyoews
-reps: 3
-retrievability: 0.15963747807693907
-review: 20220304140738463
-stability: 41.40413658012352
+reps: 4
+retrievability: 0.9009260366174814
+review: 20220414031033262
+stability: 156.27405610469566
 tags: EnglishWord ?
 title: division
 type: text/vnd.tiddlywiki

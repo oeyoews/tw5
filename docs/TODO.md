@@ -127,3 +127,8 @@
 - [x] todo: better update time
 - [ ] todo: use a template for fish tw engwords
 - [ ] todo: use tools make dark and light pictures
+
+## MISC
+
+- [ ] todo: learn mariadb privailege for spring(sudo root oeyoews)
+- [ ] todo: use war test for tomcat
