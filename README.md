@@ -18,6 +18,7 @@
   * [motivate](#motivate)
 * [TODO](#todo)
 * [Broken](#broken)
+* [FAQ](#faq)
 
 <!-- vim-markdown-toc -->
 </details>
@@ -80,3 +81,5 @@ TODO
 <!-- ## bug-->
 <!--* ~~`\$__themes_nico_notebook_ui_Bottombar.tid`-->
 <!--\$__themes_nico_notebook_ui_Topbar.tid~~-->
+
+## [FAQ](https://oeyoew.fun/#FAQ)

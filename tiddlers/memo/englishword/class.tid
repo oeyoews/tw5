@@ -1,18 +1,9 @@
 created: 20220409052520132
 creator: @oeyoews
-difficulty: 1
-due: 20220413235905722
-grade: 2
 history: [{"due":"20220413151538294","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220412151538293"}]
-interval: 0
-lapses: 0
-modified: 20220412235905723
+modified: 20220414113332293
 modifier: @oeyoews
-reps: 2
-retrievability: 1
-review: 20220412235905722
-stability: 0.10000022649765015
-tags: EnglishWord ?
+tags: EnglishWord !
 title: class
 type: text/vnd.tiddlywiki
 
