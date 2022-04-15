@@ -1,4 +1,4 @@
-## TODO
+# TODO
 
 - [ ] todo: tidy tiddlers
 - [ ] todo: add shortkeys for close-other-tiddler
@@ -26,14 +26,19 @@
 - [ ] __refactor__: fix like drop down border
 - [ ] __refactor__: resolve this shine color, maybe can same for tid bg and div bg
 - [ ] __refactor__: all stylesheet
+
 <!--- current palette and theme not support others-->
+
 - [ ] __tw5__: customize respawn js, to fix during time bug(in logic)
 - [ ] __doc__: add some broken setup notes for config tw5
-    1. - [ ] bug: draggin file no appear highlight because this projectify's two macro
+- [ ] bug: draggin file no appear highlight because this projectify's two macro
+
 - [ ] __fix__: Projectify schedule button disappear in mobile mode(tools)
 - [ ] __try__: try publish npm package use devops for relate tw5 project
 - [ ] __todo__: Using shell to replace makefile, todo test(to manage multi repository push automaticaly)
 - [ ] todo: readjust kbd and checklist stylesheet, update unicode, and fix unalign in mobilephone
+- [ ] feat: use scroll to hide sidebar for mobile, and come true like banner to scrool some button
+- [ ] feat: how to reference meta etc head files automaticaly(reference github framework projects)
 - [ ] feat: adjust backlink btn style like fishing btn
 - [ ] feat: change fontawesome icon color
 - [ ] feat: change fold to right
@@ -43,7 +48,6 @@
 - [ ] bug: heatmap and calendar have some performance with jump specific tiddler
 - [ ] bug: fix add padding for link is conflict dropdown results
 - [ ] fix: drated ui config
-- [ ] feat: use scroll to hide sidebar for mobile, and come true like banner to scrool some button
 - [ ] fix: only no refresh hitoko
 - [ ] fix: fontawesome 16 not support in mobilephone(may be is font's problem)
 - [ ] fix: fix fcalendar tooltip
@@ -70,10 +74,9 @@
 - [ ] feat: learn electron
 - [ ] feat: use pwa sw to send message tooltip click button
 - [ ] feat: use subfolder to simulate vercel with shellscript
-- [ ] feat: how to reference meta etc head files automaticaly(reference github framework projects)
 - [ ] fix: remove pwa title
 - [ ] feat: learn install before event for pwa(optimic its logic add adjust if install)
-    - [Text](https://segmentfault.com/a/1190000019172787)
+- [Text](https://segmentfault.com/a/1190000019172787)
 - [ ] feat: install pwa in local with folder path
 - [ ] question: http-server differ tw5(how to visit files in local)
 - [ ] todo: learn webpack
@@ -114,9 +117,11 @@
 - [x] __bug__: Fishing calendar cache disappear in sometimes
 - [x] __template__: make a tw template
 - [x] __bug__: fix this scrool homepage bug
+
 ~~- [x] bug: storyview zoomin just show one tiddler(it a feature)~~
+
 - [x] bug: fix renoavte-bot release step error
-- [x] bug: tiny notebook theme style(minimum it)
+- [x] bug: tidy notebook theme style(minimum it)
 - [x] __todo__: gitlab runner for tw5
 - [x] fishing: fishing multi group how to discard
 - [x] search local installed plugins
@@ -134,3 +139,4 @@
 - [ ] todo: learn mariadb privailege for spring(sudo root oeyoews)
 - [ ] todo: use war test for tomcat
 - [ ] todo: idea's gitignore how to work
+- [ ] todo: make google theme
