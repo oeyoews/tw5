@@ -133,6 +133,7 @@
 - [ ] todo: use a template for fish tw engwords
 - [ ] todo: use tools make dark and light pictures
 - [ ] todo: use a example site use multi html with manifest to assign start html
+- [ ] todo: embed bilibile video
 
 ## MISC
 
@@ -140,3 +141,4 @@
 - [ ] todo: use war test for tomcat
 - [ ] todo: idea's gitignore how to work
 - [ ] todo: make google theme
+- [ ] todo: start use emacs, and no use popmenu
