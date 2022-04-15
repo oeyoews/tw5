@@ -1,17 +1,17 @@
 created: 20220320030925286
 creator: @oeyoews
-difficulty: 1.09817950285057
-due: 20220513013947907
-grade: 1
-history: [{"due":"20220321112925666","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320112925666"},{"due":"20220321160049222","interval":0,"difficulty":1,"stability":0.10000090599060059,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220320160049221"},{"due":"20220331063020097","interval":1,"difficulty":1,"stability":8.830298913844077,"retrievability":0.34868176841798704,"grade":2,"lapses":0,"reps":3,"review":"20220322063020097"},{"due":"20220331070052538","interval":0,"difficulty":1,"stability":8.830298913844077,"retrievability":1,"grade":2,"lapses":0,"reps":4,"review":"20220322070052538"}]
-interval: 9
+difficulty: 1
+due: 20220708152412584
+grade: 2
+history: [{"due":"20220321112925666","interval":0,"difficulty":1.0062688081677507,"stability":0.10000090599060059,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220320112925666"},{"due":"20220321160049222","interval":0,"difficulty":1,"stability":0.10000090599060059,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220320160049221"},{"due":"20220331063020097","interval":1,"difficulty":1,"stability":8.830298913844077,"retrievability":0.34868176841798704,"grade":2,"lapses":0,"reps":3,"review":"20220322063020097"},{"due":"20220331070052538","interval":0,"difficulty":1,"stability":8.830298913844077,"retrievability":1,"grade":2,"lapses":0,"reps":4,"review":"20220322070052538"},{"due":"20220513013947907","interval":9,"difficulty":1.09817950285057,"stability":43.23304282630106,"retrievability":0.8981795028505701,"grade":1,"lapses":0,"reps":5,"review":"20220331013947906"}]
+interval: 14
 lapses: 0
-modified: 20220331013947907
+modified: 20220414152412584
 modifier: @oeyoews
-reps: 5
-retrievability: 0.8981795028505701
-review: 20220331013947906
-stability: 43.23304282630106
+reps: 6
+retrievability: 0.9664569582248577
+review: 20220414152412584
+stability: 84.89219956368915
 tags: EnglishWord ?
 title: yield
 type: text/vnd.tiddlywiki
