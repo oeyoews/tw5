@@ -1,17 +1,17 @@
 created: 20220402112053693
 creator: @oeyoews
-difficulty: 0.33871244118862254
-due: 20220415155734362
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220424160200666
+grade: 1
+history: [{"due":"20220415155734362","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220414155734362"}]
+interval: 1
 lapses: 0
-modified: 20220414155734362
+modified: 20220415160200666
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220414155734362
-stability: 0.10000022649765015
+reps: 2
+retrievability: 0.34867927218217226
+review: 20220415160200666
+stability: 8.830296307808057
 tags: EnglishWord ?
 title: deliberately
 type: text/vnd.tiddlywiki

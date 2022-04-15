@@ -1,17 +1,17 @@
 created: 20220401033627115
 creator: @oeyoews
-difficulty: 1
-due: 20220415054422005
+difficulty: 1.0981794838740002
+due: 20220528155025718
 grade: 1
-history: [{"due":"20220406114831382","interval":0,"difficulty":0.40291375445826566,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220405114831382"}]
-interval: 1
+history: [{"due":"20220406114831382","interval":0,"difficulty":0.40291375445826566,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220405114831382"},{"due":"20220415054422005","interval":1,"difficulty":1,"stability":8.830297176503736,"retrievability":0.3486801042625608,"grade":1,"lapses":0,"reps":2,"review":"20220406054422005"}]
+interval: 9
 lapses: 0
-modified: 20220406054422006
+modified: 20220415155025719
 modifier: @oeyoews
-reps: 2
-retrievability: 0.3486801042625608
-review: 20220406054422005
-stability: 8.830297176503736
+reps: 3
+retrievability: 0.8981794838740004
+review: 20220415155025718
+stability: 43.23304283386601
 tags: EnglishWord ?
 title: strike
 type: text/vnd.tiddlywiki

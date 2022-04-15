@@ -1,16 +1,16 @@
 created: 20220331052321740
 creator: @oeyoews
-difficulty: 0.33871244118862254
-due: 20220415160003653
-grade: -1
-history: []
+difficulty: 1
+due: 20220416160214463
+grade: 1
+history: [{"due":"20220415160003653","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220414160003653"}]
 interval: 0
 lapses: 0
-modified: 20220414160003653
+modified: 20220415160214463
 modifier: @oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220414160003653
+review: 20220415160214462
 stability: 0.10000022649765015
 tags: EnglishWord ?
 title: advertiser

@@ -1,17 +1,17 @@
 created: 20220413052832258
 creator: @oeyoews
-difficulty: 0.33871244118862254
-due: 20220415155922114
-grade: -1
-history: []
+difficulty: 1.2
+due: 20220416161520325
+grade: 1
+history: [{"due":"20220415155922114","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220414155922114"},{"due":"20220416144906020","interval":1,"difficulty":1,"stability":0.07408198986175796,"retrievability":0.34867927218217226,"grade":0,"lapses":1,"reps":1,"review":"20220415144906020"}]
 interval: 0
-lapses: 0
-modified: 20220414155922114
+lapses: 1
+modified: 20220415161520326
 modifier: @oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220414155922114
-stability: 0.10000022649765015
+review: 20220415161520325
+stability: 0.07408198986175796
 tags: EnglishWord ?
 title: cement
 type: text/vnd.tiddlywiki

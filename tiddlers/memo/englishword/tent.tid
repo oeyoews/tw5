@@ -1,16 +1,16 @@
 created: 20220323062639878
 creator: @oeyoews
-difficulty: 0.33871244118862254
-due: 20220416105907543
-grade: -1
-history: []
+difficulty: 1
+due: 20220416160224005
+grade: 1
+history: [{"due":"20220416105907543","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220415105907543"}]
 interval: 0
 lapses: 0
-modified: 20220415105907543
+modified: 20220415160224005
 modifier: @oeyoews
-reps: 1
+reps: 2
 retrievability: 1
-review: 20220415105907543
+review: 20220415160224005
 stability: 0.10000022649765015
 tags: EnglishWord ?
 title: tent

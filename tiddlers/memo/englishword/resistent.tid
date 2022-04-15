@@ -1,17 +1,17 @@
 created: 20220312165501508
 creator: @oeyoews
-difficulty: 2.16660290020224
-due: 20220416045434353
+difficulty: 2.272365064236284
+due: 20220622160151956
 grade: 1
-history: [{"due":"20220314053116080","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313053116079"},{"due":"20220315053527699","interval":1,"difficulty":2.8068285839808,"stability":0.07408719146292923,"retrievability":0.34870506584485117,"grade":0,"lapses":1,"reps":1,"review":"20220314053527698"},{"due":"20220323111641867","interval":2,"difficulty":2.0650076166274087,"stability":7.119672088653751,"retrievability":0.05817903264660851,"grade":1,"lapses":1,"reps":2,"review":"20220316111641867"}]
-interval: 7
+history: [{"due":"20220314053116080","interval":0,"difficulty":2.2581235181359487,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220313053116079"},{"due":"20220315053527699","interval":1,"difficulty":2.8068285839808,"stability":0.07408719146292923,"retrievability":0.34870506584485117,"grade":0,"lapses":1,"reps":1,"review":"20220314053527698"},{"due":"20220323111641867","interval":2,"difficulty":2.0650076166274087,"stability":7.119672088653751,"retrievability":0.05817903264660851,"grade":1,"lapses":1,"reps":2,"review":"20220316111641867"},{"due":"20220416045434353","interval":7,"difficulty":2.16660290020224,"stability":24.483007750007836,"retrievability":0.9015952835748309,"grade":1,"lapses":1,"reps":3,"review":"20220323045434352"}]
+interval: 23
 lapses: 1
-modified: 20220323045434353
+modified: 20220415160151956
 modifier: @oeyoews
-reps: 3
-retrievability: 0.9015952835748309
-review: 20220323045434352
-stability: 24.483007750007836
+reps: 4
+retrievability: 0.905762164034044
+review: 20220415160151955
+stability: 67.59100788052407
 tags: EnglishWord ?
 title: resistent
 type: text/vnd.tiddlywiki
