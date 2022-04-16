@@ -1,10 +1,10 @@
 caption: Subtitle Template
-created: 20210611015734693
+created: 20220416162219388
 creator: @oeyoews
-modified: 20220416162536621
+modified: 20220416162229893
 modifier: @oeyoews
-tags: $:/tags/ViewTemplate
-title: $:/core/ui/ViewTemplate/subtitle
+tags: 
+title: $:/core/ui/ViewTemplate/subtitle 1
 type: text/vnd.tiddlywiki
 
 \whitespace trim
@@ -12,17 +12,25 @@ type: text/vnd.tiddlywiki
 <$reveal type="nomatch" stateTitle=<<folded-state>> text="hide" tag="div" retain="yes" animate="yes">
 <div class="tc-subtitle">
 <$list filter="[all[current]has[created]]">
-<i class="fa fa-history" style="color: #49fd17"/>&ensp;Created &nbsp;<$view field="created" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss"/> &ensp; &ensp;
+	<div>
+<i class="fa fa-history" style="color: #49fd17"/>&ensp;Created &nbsp;<$view field="created" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss"/>
+	</div>
 </$list>
 <$list filter="[all[current]has[modified]]">
-<i class="fa fa-clock" style="color: yellow"/>&ensp;Updated &nbsp;<$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss" />&ensp; &ensp;
+	<div>
+<i class="fa fa-clock" style="color: yellow"/>&ensp;Updated &nbsp;<$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss" />
+	</div>
 </$list>
 <$list filter="[all[current]has[modifier]]">
+	<div>
 <i class="fas fa-user" style="color: cyan"/>&ensp; 
-<$view field="modifier"/> &ensp; &ensp;
+<$view field="modifier"/>
+	</div>
 </$list>
 <$list filter="[all[current]has[lapses]]">
-<i style="color:red;" class="fa-spin fab fa-gripfire"></i>&ensp;ForgetTimes &nbsp;<$view field="lapses"/> &ensp; &ensp;
+	<div>
+<i style="color:red;" class="fa-spin fab fa-gripfire"></i>&ensp;ForgetTimes &nbsp;<$view field="lapses"/>
+	</div>
 </$list>
 <$list filter="[all[current]has[description]]">
 	<div>

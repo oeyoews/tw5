@@ -1,17 +1,17 @@
 created: 20220324015347452
 creator: @oeyoews
-difficulty: 0.33871244118862254
-due: 20220415155737125
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220429153539716
+grade: 2
+history: [{"due":"20220415155737125","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220414155737125"}]
+interval: 2
 lapses: 0
-modified: 20220414155737125
+modified: 20220416153539716
 modifier: @oeyoews
-reps: 1
-retrievability: 1
-review: 20220414155737125
-stability: 0.10000022649765015
+reps: 2
+retrievability: 0.12157723484948936
+review: 20220416153539715
+stability: 13.480645151372762
 tags: EnglishWord ?
 title: recipe
 type: text/vnd.tiddlywiki
