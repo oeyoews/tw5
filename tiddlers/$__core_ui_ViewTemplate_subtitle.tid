@@ -1,7 +1,7 @@
 caption: Subtitle Template
 created: 20210611015734693
 creator: @oeyoews
-modified: 20220416150030492
+modified: 20220416152606280
 modifier: @oeyoews
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/subtitle
@@ -13,8 +13,7 @@ type: text/vnd.tiddlywiki
 <div class="tc-subtitle">
 <$list filter="[all[current]has[modifier]]">
 <div>
-<i class="fas fa-user" style="color: cyan"/>&ensp; 
-<$link to={{!!modifier}}/>
+<i class="fas fa-user" style="color: cyan"/>&ensp; <$view field="modifier"/>
 </div>
 </$list>
 <$list filter="[all[current]has[created]]">
@@ -26,6 +25,7 @@ type: text/vnd.tiddlywiki
 <div>
 <i class="fa fa-clock" style="color: yellow"/>&ensp;Updated &nbsp;<$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss" />
 <!--
+<$link to={{!!modifier}}/>
 &nbsp; <$view field="modified" format="relativedate"/>
 <<.icon $:/images/coreui-icons/brand/cib-hotjar>>&ensp;
 <i class="fa fa-spinner fa-spin" style="color:red"/>
@@ -45,9 +45,9 @@ ForgetTimes
 <div style="padding:0px 8px;border-radius:3px;background-color:#0a345c;display:inline-block;color:#5972d9;">
 -->
 <$list filter="[all[current]has[description]]">
-	<div>
+<div>
 	<i style="color: cyan;" class="fa fa-gem"/>&ensp;{{!!description}}
-	</div>
+</div>
 </$list>
 </div>
 </$reveal>
