@@ -1,17 +1,17 @@
 created: 20220224114335924
 creator: oeyoews
 difficulty: 1
-due: 20220417054849660
-grade: 1
-history: [{"due":"20220304161029006","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303161029006"}]
-interval: 2
+due: 20221001144147364
+grade: 2
+history: [{"due":"20220304161029006","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303161029006"},{"due":"20220417054849660","interval":2,"difficulty":1,"stability":41.943552755493144,"retrievability":0.14063024105763047,"grade":1,"lapses":0,"reps":2,"review":"20220306054849660"}]
+interval: 42
 lapses: 0
-modified: 20220311044418233
-modifier: @oeyoews
-reps: 2
-retrievability: 0.14063024105763047
-review: 20220306054849660
-stability: 41.943552755493144
+modified: 20220417144147364
+modifier: oeyoews
+reps: 3
+retrievability: 0.8998723951621539
+review: 20220417144147363
+stability: 167.47747116229164
 tags: EnglishWord ?
 title: utopia
 type: text/vnd.tiddlywiki

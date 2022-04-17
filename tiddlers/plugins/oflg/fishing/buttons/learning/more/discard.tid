@@ -1,0 +1,76 @@
+button-classes: dropdown-more
+caption: {{$:/language/fishing/discard}}
+condition: [<targetTiddler>]
+created: 20220417144553520
+creator: oeyoews
+description: {{$:/language/fishing/discardtip}}
+key: ((fishing-discard))
+list-before: 
+modified: 20220417144802216
+modifier: oeyoews
+tags: $:/tags/LearningMore $:/tags/KeyboardShortcut
+title: $:/plugins/oflg/fishing/buttons/learning/more/discard
+type: text/vnd.tiddlywiki
+
+<$list
+    filter="[<targetTiddler>!is[blank]]
+            ~[list[$:/temp/fishing]first[]!is[blank]]"
+>
+    <$navigator
+        story="$:/StoryList"
+        history="$:/HistoryList"
+        relinkOnRename="yes"
+    >
+        <$fieldmangler>
+						<$action-sendmessage 
+							$message="tm-close-all-tiddlers"
+						/>
+						<$action-sendmessage
+							$message="tm-notify" $param="FishingDiscard"
+						/>
+            <$action-sendmessage
+                $message="tm-remove-tag"
+                $param="?"
+            />
+            <$action-sendmessage
+                $message="tm-add-tag"
+                $param="!"
+            />
+            <$action-deletefield
+                due
+                interval
+                grade
+                difficulty
+                stability
+                retrievability
+                lapses
+                reps
+                review
+            />
+            <$action-deletetiddler
+                $tiddler={{{ [list[$:/temp/fishing]first[]addprefix[$:/state/folded/]] }}}
+            />
+            <$action-setfield
+                $tiddler="$:/temp/fishing"
+                text=""
+                type=""
+                list={{{ [subfilter{$:/temp/fishing!!fishingrod}subfilter{$:/temp/fishing!!fishingpond}subfilter{$:/temp/fishing!!fishingorder}first[]format:titlelist[]] }}}
+            />
+            <$action-setfield
+                $tiddler={{{ [list[$:/temp/fishing]first[]addprefix[$:/state/folded/]] }}}
+                text={{{ [list[$:/temp/fishing]first[]has[grade]then[hide]else[show]] }}}
+            />
+            <$action-sendmessage
+                $message="tm-close-tiddler"
+            />
+            <$list
+                filter="[list[$:/temp/fishing]match<currentTiddler>]"
+                variable="null"
+            >
+                <$action-navigate
+                    $to={{{ [list[$:/temp/fishing]first[]] }}}
+                />
+            </$list>
+        </$fieldmangler>
+    </$navigator>
+</$list>
