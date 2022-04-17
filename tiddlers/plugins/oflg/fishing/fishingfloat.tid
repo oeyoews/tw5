@@ -1,0 +1,46 @@
+caption: {{$:/plugins/oflg/fishing/icon}} {{$:/language/fishing/fishing}}
+created: 20220417160230546
+creator: oeyoews
+description: {{$:/language/fishing/fishingtip}}
+key: ((fisher))
+modified: 20220417160951081
+modifier: oeyoews
+tags: $:/tags/PageControls
+title: $:/plugins/oflg/fishing/fishingfloat
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+\define lingo-base() $:/language/fishing/fishingfloat/
+<$button
+    popup=<<qualify "$:/state/popup/fishingdeck">>
+    tooltip={{$:/language/fishing/fishingtip}}
+    aria-label={{$:/language/fishing/fishingtip}}
+    class=<<tv-config-toolbar-class>>
+    selectedClass="tc-selected"
+>
+    <$list filter="[<tv-config-toolbar-icons>match[yes]]">
+        {{$:/plugins/oflg/fishing/icon}}
+    </$list>
+    <$list filter="[<tv-config-toolbar-text>match[yes]]">
+        <span class="tc-btn-text">
+            {{$:/language/fishing/fishingtip}}
+        </span>
+    </$list>
+</$button>
+<$reveal
+    state=<<qualify "$:/state/popup/fishingdeck">>
+    type="popup"
+    position="below"
+    animate="yes"
+    positionAllowNegative="yes"
+>
+    <div
+        class="tc-drop-down tc-popup-keep"
+        style="min-width:0;"
+    >
+        <!-- creat fishingpond -->
+        {{$:/plugins/oflg/fishing/fishingpond}}
+        <!-- creat fishingrod -->
+        {{$:/plugins/oflg/fishing/fishingrod}}
+    </div>
+</$reveal>

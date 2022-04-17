@@ -2,8 +2,9 @@ caption: {{$:/core/images/options-button}} {{$:/language/Buttons/ControlPanel/Ca
 created: 20220321151701456
 creator: @oeyoews
 description: {{$:/language/Buttons/ControlPanel/Hint}}
-modified: 20220321151703957
-modifier: @oeyoews
+key: ((settings))
+modified: 20220417160939284
+modifier: oeyoews
 tags: $:/tags/PageControls
 title: $:/core/ui/Buttons/control-panel
 type: text/vnd.tiddlywiki
