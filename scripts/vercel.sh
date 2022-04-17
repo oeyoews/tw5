@@ -4,7 +4,7 @@
 
 yarn copyfiles
 yarn copytidpatch
-yarn copyicon
+yarn copyicons
 yarn copyseo
 yarn copymanifest
 

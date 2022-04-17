@@ -16,7 +16,7 @@
     "devbuild": "tiddlywiki --output public --build index",
     "copyfiles": "cp -r files public",
     "copytidpatch": "cp static/tidpatch/* tiddlers/",
-    "copyicons": "cp static/icon/* public",
+    "copyicons": "cp static/icons/* public",
     "copyseo": "cp static/seo/* public",
     "copymanifest": "cp static/manifest/* public",
 
