@@ -1,3 +1,12 @@
 #!/usr/bin/env bash
 
-yarn copymanifest && yarn devbuild && yarn copy   && yarn copyworkbox && yarn workboxinje
+#yarn copyfiles && yarn copytidpatch && yarn copyicon && yarn copyseo && yarn copymanifest  &&  yarn copyworkbox  && yarn devbuild && yarn workboxinje
+
+yarn copyfiles
+yarn copytidpatch
+yarn copyicon
+yarn copyseo
+yarn copymanifest
+
+yarn devbuild
+yarn workboxinje

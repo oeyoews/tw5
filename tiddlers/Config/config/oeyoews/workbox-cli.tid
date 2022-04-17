@@ -1,8 +1,8 @@
 caption: Workbox-cli
 created: 20220407053930216
 creator: LinOnetwo
-modified: 20220407162657159
-modifier: @oeyoews
+modified: 20220417072125248
+modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: $:/config/oeyoews/workbox-cli
 type: text/vnd.tiddlywiki
@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
   function register(config) {
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        const swUrl = 'service-worker.js';
+        const swUrl = './script/service-worker.js';
 
         if (isLocalhost) {
           /**
