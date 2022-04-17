@@ -135,6 +135,7 @@
 - [ ] todo: use a example site use multi html with manifest to assign start html
 - [ ] todo: embed bilibile video
 - [ ] todo: use blur attribut for fishing button
+- [ ] todo: tiny all npm commands
 
 ## MISC
 
