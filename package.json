@@ -21,6 +21,8 @@
     "localbuild": "tiddlywiki --output public --build index",
     "localdebug": "tiddlywiki  --listen port=8090",
 
+    "debuginfo": "echo 🎉",
+
     "clean": "rm -rf public",
     "devbuildp@dep": "tiddlywiki --output public --password oeyoew --build index",
     "htmlmin@dep": "html-minifier-terser -c ./htmlmin.json -o public/index.html public/index.html",
