@@ -17,7 +17,7 @@
       "url": "./hello.html",
       "icons": [
         {
-          "src": "dot.png",
+          "src": "assets/dot.png",
           "sizes": "512x512",
           "type": "image/png"
         }
@@ -26,19 +26,19 @@
    ],
   "icons": [
     {
-      "src": "./favicon_maskable_192.png",
+      "src": "assets/favicon_maskable_192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./maskable_icon_256.png",
+      "src": "assets/maskable_icon_256.png",
       "sizes": "256x256",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "./favicon.png",
+      "src": "assets/favicon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"

@@ -9,7 +9,7 @@ yarn copytidpatch
 yarn devbuild
 
 # public
-yarn copyicons
+yarn copyassets
 yarn copyseo
 yarn copymanifest
 yarn copytest

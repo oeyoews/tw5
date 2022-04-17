@@ -15,7 +15,7 @@
     "workboxinje": "workbox injectManifest scripts/workbox-config.js",
     "devbuild": "tiddlywiki --output public --build index",
     "copytidpatch": "cp static/tidpatch/* tiddlers/",
-    "copyicons": "cp static/icons/* public",
+    "copyassets": "cp assets public",
     "copyseo": "cp static/seo/* public",
     "copymanifest": "cp static/manifest/* public",
     "copysw": "cp scripts/sw.js public",
