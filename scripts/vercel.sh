@@ -2,7 +2,6 @@
 
 #yarn copyfiles && yarn copytidpatch && yarn copyicon && yarn copyseo && yarn copymanifest  &&  yarn copyworkbox  && yarn devbuild && yarn workboxinje
 
-yarn copyfiles
 yarn copytidpatch
 yarn copyicons
 yarn copyseo
