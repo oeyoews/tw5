@@ -10,6 +10,7 @@
     "tiddlywiki": "5.2.2"
   },
   "scripts": {
+    "build_vercel": "bash ./scripts/vercel.sh",
     "workbox_inje": "workbox injectManifest scripts/workbox-config.js",
     "vercel@todo": "yarn copy_manifest && yarn devbuild && yarn copy && yarn htmlmin &&  yarn copy_workbox && yarn workbox_inje ",
     "clean": "rm -rf public",
