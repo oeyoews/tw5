@@ -1,6 +1,6 @@
 {
-  "name": "TW",
-  "version": "1.0.0",
+  "name": "Fishing For You",
+  "version": "22.0",
   "main": "index.js",
   "repository": "https://gitlab.com/oeyoews/tw.git",
   "author": "oeyoews <jyao4783@gmail.com>",
@@ -21,23 +21,12 @@
     "copysw": "cp scripts/sw.js public",
     "copytest": "cp test/* public",
 
-
     "localbuild": "tiddlywiki --output public --build index",
     "localdebug": "tiddlywiki  --listen port=8090",
 
-    "debuginfo": "echo 🎉",
-
     "clean": "rm -rf public",
 
-    "copyfiles@dep": "cp files public",
-    "devbuildp@dep": "tiddlywiki --output public --password oeyoew --build index",
     "htmlmin@dep": "html-minifier-terser -c ./htmlmin.json -o public/index.html public/index.html",
     "cache1@deprecated": "npx workbox injectManifest workbox-config.js",
-    "copydep@deprecated": "cp -r files/dep/* public",
-    "netlifytw5@deprecated": "tiddlywiki --output public --build index && cp -r files public",
-    "vercel@deprecated": "tiddlywiki --output public --build index && cp -r files public",
-    "workbox@demo": "workbox wizard --injectManifest",
-    "workboxDep@deprecated": "workbox generateSW workbox-config.js",
-    "vercel@todo": "yarn copy_manifest && yarn devbuild && yarn copy && yarn htmlmin &&  yarn copy_workbox && yarn workbox_inje "
   }
 }
