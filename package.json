@@ -12,14 +12,14 @@
   "scripts": {
     "build_vercel": "bash ./scripts/vercel.sh",
 
-    "workbox_inje": "workbox injectManifest scripts/workbox-config.js",
+    "workboxinje": "workbox injectManifest scripts/workbox-config.js",
     "devbuild": "tiddlywiki --output public --build index",
-    "copy_manifest": "cp static/tidpatch/* tiddlers/",
     "copy": "cp -r files public",
-    "copy_workbox": "cp scripts/* public",
+    "copymanifest": "cp static/tidpatch/* tiddlers/",
+    "copyworkbox": "cp scripts/* public",
 
-    "twlocal": "tiddlywiki --output public --build index",
-    "dev": "tiddlywiki  --listen port=8090",
+    "localbuild": "tiddlywiki --output public --build index",
+    "localdebug": "tiddlywiki  --listen port=8090",
 
     "clean": "rm -rf public",
     "devbuildp@dep": "tiddlywiki --output public --password oeyoew --build index",
