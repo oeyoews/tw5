@@ -10,7 +10,7 @@
     "tiddlywiki": "5.2.2"
   },
   "scripts": {
-    "buildvercel": "bash ./scripts/vercel.sh",
+    "buildvercel": "bash scripts/vercel.sh",
     "workboxinje": "workbox injectManifest scripts/workbox-config.js",
     "devbuild": "tiddlywiki --output public --build index",
     "copytidpatch": "cp static/tidpatch/* tiddlers/",
@@ -23,5 +23,5 @@
     "localdebug": "tiddlywiki  --listen port=8090",
     "clean": "rm -rf public",
     "htmlmin@dep": "html-minifier-terser -c ./htmlmin.json -o public/index.html public/index.html"
-}
+  }
 }
