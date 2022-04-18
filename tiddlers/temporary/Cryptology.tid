@@ -1,7 +1,7 @@
 created: 20220331025209998
 creator: @oeyoews
-modified: 20220411024614307
-modifier: @oeyoews
+modified: 20220418114238022
+modifier: oeyoews
 tags: temp
 title: Cryptology
 type: text/vnd.tiddlywiki
@@ -9,6 +9,8 @@ type: text/vnd.tiddlywiki
 <<shield status ing green>> updated by [[@oeyoews]] <$view field="modified" format="relativedate"/>
 
 !! Links
+
+* [[cnki|https://kns.cnki.net/KXReader/Detail?invoice=txSEAmQWOOpH9hAZfrl1jnxEv%2F1EAyqWI0GBBShUTbiZCnvZmTLEJ69WiHEE6bJB2R0eDTGbMHkKZ%2Fv2HVsonbcZt%2BM%2BOpOBP%2BsbrOnirUSiGU3%2F1U8MkiRnLFgOSI9qStkG12QJg8%2F%2BOI0yMmOg4Ypy9NBghAbzThTgPCZGLAQ%3D&DBCODE=CJFD&FileName=XNMZ201804010&TABLEName=cjfdlast2018&nonce=CBC08A8125394805A2F9A953D2782622&uid=&TIMESTAMP=1650273821678]]
 
 * [[paper 1|http://www.koovin.com/?a=downloadpdf&id=12719239&file_name=D8BA5DED9234620A3B088117350916D2&doaction=readding]]
 * https://slidesplayer.com/slide/15463798/

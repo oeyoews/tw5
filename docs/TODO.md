@@ -138,6 +138,8 @@
 - [ ] todo: tiny all npm commands
 - [ ] bug: hitikoto bring script error tip
 - [ ] todo: add gource pic
+- [ ] todo: reveal.js slide effects
+- [ ] todo: like this [wiki](http://jyywiki.cn/OS/2022/slides/1.slides#/3/1/0)
 
 ## MISC
 
