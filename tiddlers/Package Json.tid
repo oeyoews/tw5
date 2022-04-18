@@ -1,0 +1,9 @@
+created: 20220418005818036
+creator: oeyoews
+modified: 20220418005850373
+modifier: oeyoews
+tags: npm
+title: Package Json
+type: text/vnd.tiddlywiki
+
+* name attribute can't is chinese or with whitespace
