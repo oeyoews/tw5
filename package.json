@@ -6,8 +6,8 @@
   "author": "oeyoews <jyao4783@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "workbox-cli": "6.5.2",
-    "tiddlywiki": "5.2.2"
+    "workbox-cli": "~6.5.2",
+    "tiddlywiki": "~5.2.2"
   },
   "scripts": {
     "buildvercel": "bash scripts/vercel.sh",
