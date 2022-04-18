@@ -6,4 +6,7 @@ tags: $:/tags/RawMarkup
 title: Load Manifest
 type: text/vnd.tiddlywiki
 
-<link rel="manifest" href="./manifest.webmanifest">
+<!--
+must in root
+-->
+<link rel="manifest" href="manifest.webmanifest">
