@@ -17,8 +17,6 @@
     "copyassets": "cp -r assets public",
     "copyseo": "cp static/seo/* public",
     "copymanifest": "cp static/manifest/* public",
-    "copysw": "cp scripts/sw.js public",
-    "copytest": "cp test/* public",
     "localbuild": "tiddlywiki --output public --build index",
     "localdebug": "tiddlywiki  --listen port=8090",
     "clean": "rm -rf public",

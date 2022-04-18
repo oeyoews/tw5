@@ -12,6 +12,5 @@ yarn devbuild
 yarn copyassets
 yarn copyseo
 yarn copymanifest
-yarn copytest
 
 yarn workboxinje

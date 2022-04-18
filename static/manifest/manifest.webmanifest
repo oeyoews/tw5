@@ -14,7 +14,7 @@
       "name": "Hello",
       "short_name": "Hello",
       "description": "hello webpage",
-      "url": "./hello.html",
+      "url": "index.html",
       "icons": [
         {
           "src": "assets/dot.png",
