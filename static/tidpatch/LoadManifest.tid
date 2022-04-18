@@ -6,7 +6,18 @@ tags: $:/tags/RawMarkup
 title: Load Manifest
 type: text/vnd.tiddlywiki
 
-<!--
-must in root
--->
+<!-- must in root -->
 <link rel="manifest" href="manifest.webmanifest">
+
+<!-- add description -->
+<meta name="description" content="Author: oeyoews, Illustrator: a linear notebook with fish">
+
+<!-- hitokoto -->
+<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+
+<!-- add theme-color -->
+<meta name="theme-color" content="#073642"/>
+
+<!-- fix apple-touch-icon and add description -->
+<link rel="apple-touch-icon" href="assets/favicon_maskable_192.png"/>
+<meta name="apple-mobile-web-app-title" content="FishForYou">

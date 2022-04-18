@@ -1,9 +1,0 @@
-created: 20220408031426350
-creator: @oeyoews
-modified: 20220408031451217
-modifier: @oeyoews
-tags: $:/tags/RawMarkup
-title: Fix Theme-color
-type: text/vnd.tiddlywiki
-
-<meta name="theme-color" content="#073642"/>
