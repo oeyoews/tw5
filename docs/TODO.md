@@ -137,6 +137,7 @@
 - [ ] todo: use blur attribut for fishing button
 - [ ] todo: tiny all npm commands
 - [ ] bug: hitikoto bring script error tip
+- [ ] todo: add gource pic
 
 ## MISC
 
