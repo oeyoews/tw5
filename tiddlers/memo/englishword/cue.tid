@@ -1,18 +1,9 @@
 created: 20220221122531034
 creator: oeyoews
-difficulty: 1.1055925971131362
-due: 20220416065643207
-grade: 1
 history: [{"due":"20220227163842341","interval":0,"difficulty":1.6476805400532035,"stability":0.21875,"retrievability":1,"grade":2,"lapses":0,"reps":2,"review":"20220226163842341"},{"due":"20220308022315498","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":3,"review":"20220228022315497"},{"due":"20220308022315498","interval":1,"difficulty":1,"stability":8.499750752001383,"retrievability":0.6177644323744501,"grade":2,"lapses":0,"reps":3,"review":"20220228022315497"}]
-interval: 8
-lapses: 0
-modified: 20220311044418201
-modifier: @oeyoews
-reps: 4
-retrievability: 0.9055925971131363
-review: 20220308065643207
-stability: 39.177764994287756
-tags: EnglishWord ?
+modified: 20220417161417870
+modifier: oeyoews
+tags: EnglishWord !
 title: cue
 type: text/vnd.tiddlywiki
 
