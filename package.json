@@ -24,3 +24,4 @@
     "clean": "rm -rf public",
     "htmlmin@dep": "html-minifier-terser -c ./htmlmin.json -o public/index.html public/index.html"
 }
+}
