@@ -15,7 +15,6 @@
     "devbuild": "tiddlywiki --output public --build index",
     "copytidpatch": "cp static/tidpatch/* tiddlers/",
     "copyassets": "cp -r assets public",
-    "copyseo": "cp static/seo/* public",
     "copymanifest": "cp static/manifest/* public",
     "localbuild": "tiddlywiki --output public --build index",
     "localdebug": "tiddlywiki  --listen port=8090",
