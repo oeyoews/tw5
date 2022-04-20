@@ -1,0 +1,10 @@
+created: 20220420015855630
+creator: oeyoews
+modified: 20220420020323944
+modifier: oeyoews
+title: cryptionscratch
+type: text/vnd.tiddlywiki
+
+RSA原理：RSA算法基于一个十分简单的数论事实：将两个大素数相乘十分容易，但是想要对其乘积进行因式分解却极其困难，因此可以将乘积公开作为加密密钥。
+
+[[CA]]
