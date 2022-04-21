@@ -1,5 +1,6 @@
 # TODO
 
+* [ ] debug ios or chrome in pc
 - [ ] todo: tidy tiddlers
 - [ ] todo: add shortkeys for close-other-tiddler
 - [ ] __git__: use submodule to manage img and tiddler/subwiki

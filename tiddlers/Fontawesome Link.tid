@@ -1,0 +1,9 @@
+created: 20220421130016568
+creator: oeyoews
+modified: 20220421131222949
+modifier: oeyoews
+tags: $:/tags/RawMarkup
+title: Fontawesome Link
+type: text/vnd.tiddlywiki
+
+<link href="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/css/all.css" rel="stylesheet">
