@@ -1,6 +1,6 @@
 created: 20220331025209998
 creator: @oeyoews
-modified: 20220421012722639
+modified: 20220421024334575
 modifier: oeyoews
 tags: temp
 title: Cryptology
@@ -41,7 +41,7 @@ type: text/vnd.tiddlywiki
 	* 对称加密算法 和 非对称加密算法 具体
 * 不可逆性 ？？？ test
 * 设备问题
-* <<sticky-done "record video for presentation" "  ">>
+* <<sticky "record video for presentation">>
 
 * https://www.man7.org/linux/man-pages/man1/ssh-keygen.1.html
 https://blog.csdn.net/u012391423/article/details/117049335
