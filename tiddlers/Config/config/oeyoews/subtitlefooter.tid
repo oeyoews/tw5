@@ -1,8 +1,8 @@
 caption: Footer
 created: 20220310033519322
 creator: @oeyoews
-modified: 20220411024434910
-modifier: @oeyoews
+modified: 20220422085254017
+modifier: oeyoews
 tags: config
 title: $:/config/oeyoews/subtitlefooter
 type: text/vnd.tiddlywiki
@@ -25,7 +25,7 @@ Updated
 and have
 <$count filter="[tag[EnglishWord]]"/> tiddlers ! 
 </$list> &nbsp; 
-<i style="color:#07ff07" class="fab fa-git"></i> &nbsp;
+<i style="color:#07ff07" class="fab fa-shake fa-git"></i> &nbsp;
 <i style="color: #07ff07" class="fa-spin fas fa-sync"></i>
 <p style="text-align:right;" id="hitokoto">&nbsp; 
 </p>

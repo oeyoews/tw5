@@ -1,0 +1,18 @@
+created: 20220422085316941
+creator: oeyoews
+modified: 20220422090158736
+modifier: oeyoews
+tags: [[Font Awesome 5]]
+title: Fontawe Class Examples
+type: text/vnd.tiddlywiki
+
+<i class="fa fa-beat fa-car"/>
+
+---
+<i class="fa fa-bounce fa-user"/>
+
+---
+<i class="fa fa-fade fa-car"/>
+
+---
+<i class="fa fa-beat-fade fa-car"/>
