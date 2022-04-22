@@ -1,5 +1,6 @@
 # TODO
 
+* [ ] todo: like this https://github.com/linonetwo/linonetwo/blob/master/README.md
 * [ ] debug ios or chrome in pc(too trouble)
 - [ ] todo: tidy tiddlers
 - [ ] todo: add shortkeys for close-other-tiddler
