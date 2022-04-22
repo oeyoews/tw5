@@ -1,6 +1,6 @@
 created: 20220331025209998
 creator: @oeyoews
-modified: 20220421024334575
+modified: 20220422153442791
 modifier: oeyoews
 tags: temp
 title: Cryptology
@@ -8,6 +8,12 @@ type: text/vnd.tiddlywiki
 
 <<shield status ing green>> updated by [[@oeyoews]] <$view field="modified" format="relativedate"/>
 
+
+!! temp
+
+http://www.mathmagic.cn/bbs/read.php?tid=2407
+https://wikichi.icu/wiki/Index_of_cryptography_articles#B
+https://tuping.vip/archives/46.html
 
 !! todo
 
