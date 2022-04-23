@@ -199,7 +199,7 @@ div.tc-tiddler-frame {
 /** main title font size */
 h1.tc-site-title {
   margin-top: 14px;
-  font-size: 1.95em !important;
+  font-size: 1.5em !important;
 }
 
 .nc-bar {
