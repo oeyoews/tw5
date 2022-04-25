@@ -1,5 +1,6 @@
 # TODO
 
+* use shell python or ci to add update time
 * learn yarn offline parameter
 * add try catch code in debug.sh
 * how creat npm package for tw5 repo
