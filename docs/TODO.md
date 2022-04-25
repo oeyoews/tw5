@@ -3,7 +3,7 @@
 * try use the startup put one file path
 * [x] use cdn for workscript to minimum html code
 * [x] this $__*.tid can't use ranger(in vim)
-* use two fonts for en and zh-cn
+* [x] use two fonts for en and zh-cn
 * [?] todo: add pwa startup (example: excliaw)
 * [ ] todo: like this https://github.com/linonetwo/linonetwo/blob/master/README.md
 * [ ] debug ios or chrome in pc(too trouble)
