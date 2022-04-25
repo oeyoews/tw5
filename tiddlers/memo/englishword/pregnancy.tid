@@ -1,17 +1,17 @@
 created: 20220322133424246
 creator: @oeyoews
 difficulty: 1
-due: 20220422001555992
-grade: 1
-history: [{"due":"20220413151532514","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220412151532514"}]
-interval: 1
+due: 20220617150935809
+grade: 2
+history: [{"due":"20220413151532514","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220412151532514"},{"due":"20220422001555992","interval":1,"difficulty":1,"stability":8.830296307808057,"retrievability":0.34867927218217226,"grade":1,"lapses":0,"reps":2,"review":"20220413001555992"}]
+interval: 11
 lapses: 0
-modified: 20220413001555992
-modifier: @oeyoews
-reps: 2
-retrievability: 0.34867927218217226
-review: 20220413001555992
-stability: 8.830296307808057
+modified: 20220424150935810
+modifier: oeyoews
+reps: 3
+retrievability: 0.8769995618546792
+review: 20220424150935809
+stability: 53.68635093552465
 tags: EnglishWord ?
 title: pregnancy
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20220401034719929
 creator: @oeyoews
-difficulty: 0.3108704956392557
-due: 20220423100306399
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220510003336376
+grade: 1
+history: [{"due":"20220423100306399","interval":0,"difficulty":0.3108704956392557,"stability":0.10000011324882507,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220422100306399"}]
+interval: 3
 lapses: 0
-modified: 20220422100306399
+modified: 20220425003336376
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220422100306399
-stability: 0.10000011324882507
+reps: 2
+retrievability: 0.04239131001812886
+review: 20220425003336376
+stability: 15.366895989081225
 tags: EnglishWord ?
 title: rosy
 type: text/vnd.tiddlywiki

@@ -21,3 +21,5 @@ type: text/vnd.tiddlywiki
 <!-- fix apple-touch-icon and add description -->
 <link rel="apple-touch-icon" href="assets/favicon_maskable_192.png"/>
 <meta name="apple-mobile-web-app-title" content="FishForYou">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta content="no" name="apple-mobile-web-app-status-bar-style" content="black">

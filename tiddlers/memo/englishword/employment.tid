@@ -1,17 +1,17 @@
 created: 20220223024137527
 creator: oeyoews
-difficulty: 1
-due: 20220423003118897
+difficulty: 1.0953493212779708
+due: 20221029003326596
 grade: 1
-history: [{"due":"20220303064338312","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064338312"}]
-interval: 3
+history: [{"due":"20220303064338312","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064338312"},{"due":"20220423003118897","interval":3,"difficulty":1,"stability":48.60974728794028,"retrievability":0.05273732312238567,"grade":1,"lapses":0,"reps":2,"review":"20220305003118897"}]
+interval: 51
 lapses: 0
-modified: 20220311044418204
-modifier: @oeyoews
-reps: 2
-retrievability: 0.05273732312238567
-review: 20220305003118897
-stability: 48.60974728794028
+modified: 20220425003326596
+modifier: oeyoews
+reps: 3
+retrievability: 0.8953493212779707
+review: 20220425003326596
+stability: 187.4476059390928
 tags: EnglishWord ?
 title: employment
 type: text/vnd.tiddlywiki

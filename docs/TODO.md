@@ -1,5 +1,6 @@
 # TODO
 
+* use two fonts for en and zh-cn
 * [ ] todo: add pwa startup (example: excliaw)
 * [ ] todo: like this https://github.com/linonetwo/linonetwo/blob/master/README.md
 * [ ] debug ios or chrome in pc(too trouble)

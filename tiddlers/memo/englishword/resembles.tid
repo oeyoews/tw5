@@ -1,17 +1,17 @@
 created: 20220222113124056
 creator: oeyoews
 difficulty: 1
-due: 20220423052251236
-grade: 1
-history: [{"due":"20220303064200987","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064200987"}]
-interval: 3
+due: 20221104150911540
+grade: 2
+history: [{"due":"20220303064200987","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064200987"},{"due":"20220423052251236","interval":3,"difficulty":1,"stability":48.60974728794028,"retrievability":0.05273732312238567,"grade":1,"lapses":0,"reps":2,"review":"20220305052251235"}]
+interval: 50
 lapses: 0
-modified: 20220311044418224
-modifier: @oeyoews
-reps: 2
-retrievability: 0.05273732312238567
-review: 20220305052251235
-stability: 48.60974728794028
+modified: 20220424150911541
+modifier: oeyoews
+reps: 3
+retrievability: 0.8972920751340382
+review: 20220424150911540
+stability: 193.69641645647786
 tags: EnglishWord ?
 title: resembles
 type: text/vnd.tiddlywiki
