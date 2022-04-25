@@ -71,7 +71,7 @@
 - [ ] todo: add dropstyle to some extrnal link
 - [ ] todo: add button snippets
 - [ ] fix: some color ugly button with text color
-- [ ] todo: learn use workbox(or service) debug in local
+- [ ] todo: learn use workbox(or service) debug in local debug.sh folder
 - [ ] todo: realize loading animation for tw
 - [ ] todo: add button colorful
 - [ ] todo: search notify class
