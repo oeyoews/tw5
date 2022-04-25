@@ -81,8 +81,8 @@
 - [ ] feat: add swift app for fish web
 - [ ] feat: learn electron
 - [ ] feat: use pwa sw to send message tooltip click button
-- [ ] feat: use subfolder to simulate vercel with shellscript
-- [ ] fix: remove pwa title
+- [x] feat: use subfolder to simulate vercel with shellscript
+- [x] fix: remove pwa title
 - [ ] feat: learn install before event for pwa(optimic its logic add adjust if install)
 - [Text](https://segmentfault.com/a/1190000019172787)
 - [ ] feat: install pwa in local with folder path
