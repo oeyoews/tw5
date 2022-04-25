@@ -1,17 +1,17 @@
 created: 20220402112414768
 creator: @oeyoews
 difficulty: 1
-due: 20220424155038394
-grade: 1
-history: [{"due":"20220415155721028","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220414155721028"}]
-interval: 1
+due: 20220614083159045
+grade: 2
+history: [{"due":"20220415155721028","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220414155721028"},{"due":"20220424155038394","interval":1,"difficulty":1,"stability":8.830296307808057,"retrievability":0.34867927218217226,"grade":1,"lapses":0,"reps":2,"review":"20220415155038393"}]
+interval: 10
 lapses: 0
-modified: 20220415155038394
-modifier: @oeyoews
-reps: 2
-retrievability: 0.34867927218217226
-review: 20220415155038393
-stability: 8.830296307808057
+modified: 20220425083159045
+modifier: oeyoews
+reps: 3
+retrievability: 0.8875263407374971
+review: 20220425083159044
+stability: 49.62788852107722
 tags: EnglishWord ?
 title: withhold
 type: text/vnd.tiddlywiki
