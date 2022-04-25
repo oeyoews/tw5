@@ -1,4 +1,4 @@
-<script type="text/javascript">
+//<script type="text/javascript">
   const isLocalhost = Boolean(
     window.location.hostname === 'localhost' ||
       // [::1] is the IPv6 localhost address.
@@ -143,8 +143,10 @@
   }
 
   register({ onUpdate: informUserToReloadToGetLatestContent });
-</script>
+//</script>
 
+
+  /*
 <style>
   .ask-user-reload {
     padding: 25px;
@@ -167,3 +169,4 @@
     font-weight: bold;
   }
 </style>
+  */
