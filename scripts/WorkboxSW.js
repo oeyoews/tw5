@@ -1,13 +1,3 @@
-caption: Workbox-cli
-created: 20220407053930216
-creator: oeyoews
-modified: 20220417080759288
-modifier: oeyoews
-tags: $:/tags/RawMarkup
-title: Workboxsw
-type: text/vnd.tiddlywiki
-
-<!--
 <script type="text/javascript">
   const isLocalhost = Boolean(
     window.location.hostname === 'localhost' ||
@@ -177,6 +167,3 @@ type: text/vnd.tiddlywiki
     font-weight: bold;
   }
 </style>
--->
-
-<script src="scripts/WorkboxSW.js" ></script>

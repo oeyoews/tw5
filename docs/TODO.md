@@ -1,6 +1,7 @@
 # TODO
 
-* this $__*.tid can't use ranger
+* use cdn for workscript to minimum html code
+* this $__*.tid can't use ranger(in vim)
 * use two fonts for en and zh-cn
 * [ ] todo: add pwa startup (example: excliaw)
 * [ ] todo: like this https://github.com/linonetwo/linonetwo/blob/master/README.md
