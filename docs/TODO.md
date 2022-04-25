@@ -1,6 +1,7 @@
 # TODO
 
 * try use the startup put one file path
+* learn workbox fetch time settings
 * [x] use cdn for workscript to minimum html code
 * [x] this $__*.tid can't use ranger(in vim)
 * [x] use two fonts for en and zh-cn

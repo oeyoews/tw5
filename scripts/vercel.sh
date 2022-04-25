@@ -6,7 +6,7 @@
 yarn copytidpatch
 
 # add public must before public copy steps for versel(if public else .)
-yarn devbuild
+yarn build
 
 # public folder and files
 yarn copyassets

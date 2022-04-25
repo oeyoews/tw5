@@ -17,5 +17,6 @@
     "copymanifest": "cp static/manifest/* public",
     "workboxinje": "workbox injectManifest scripts/workbox-config.js && cp scripts/WorkboxSW.js public",
     "start": "tiddlywiki  --listen port=8090",
+    "htmlmin@dep": "html-minifier-terser -c ./htmlmin.json -o public/index.html public/index.html"
   }
 }
