@@ -179,4 +179,4 @@ type: text/vnd.tiddlywiki
 </style>
 -->
 
-<script src="scripts/WorkboxSW.js" ></script>
+<script src="WorkboxSW.js" ></script>

@@ -1,0 +1,28 @@
+created: 20220425075919716
+creator: oeyoews
+modified: 20220425075955942
+modifier: oeyoews
+tags: $:/tags/Stylesheet
+title: $:/config/oeyoews/workboxstyle
+type: text/vnd.tiddlywiki
+
+.ask-user-reload {
+    padding: 25px;
+    position: absolute;
+    bottom: 10px;
+    right: 5px;
+    background: wheat;
+    z-index: 9999;
+    cursor: alias;
+		border-radius: 3px;
+		background: cyan;
+		color: #071b09;
+  }
+  .ask-user-reload-close {
+    padding: 5px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+    font-weight: bold;
+  }
