@@ -1,12 +1,14 @@
 # creat debug dir
-rm -rf debug && mkdir debug
+TEST=test
+
+rm -rf $TEST && mkdir $TEST
 echo 🎉 start: remove debug dir and creat debug dir
 
 # cp curren to temp
 cp -r assets scripts tiddlers static *.info *.json debug
 echo 🐶 1. cp some folder
 
-cd debug
+cd $TEST
 echo 🔥 2. enter debug dire
 
 rm -rf tiddlers/subwiki

@@ -16,7 +16,7 @@
     "copyassets": "cp -r assets public",
     "copymanifest": "cp static/manifest/* public",
     "workboxinje": "workbox injectManifest scripts/workbox-config.js && cp scripts/WorkboxSW.js public",
-    "debug": "bash scripts/debug.sh",
+    "test": "bash scripts/test.sh",
     "start": "tiddlywiki  --listen port=8090"
   }
 }
