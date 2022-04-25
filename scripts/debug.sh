@@ -1,5 +1,9 @@
 # creat debug dir
-mkdir debug
+rm -rf debug && mkdir debug
 
 # cp curren to temp
-cp assets scripts tiddlers static *.info *.json debug
+cp -r assets scripts tiddlers static *.info *.json debug
+
+cd debug
+
+yarn buildvercel
