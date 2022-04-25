@@ -10,6 +10,8 @@ type: text/vnd.tiddlywiki
 <meta name="mobile-web-app-capable" content="yes">
   <!-- ban to scale window in app -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=0" />
+<meta name="format-detection" content="telephone=no">
+<!--  cache control -->
 
 <!-- === sw === -->
 <!-- must in root -->
