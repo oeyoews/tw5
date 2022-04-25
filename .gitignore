@@ -36,3 +36,7 @@ Draft*
 
 # -\$*
 package-lock.json
+
+# debug
+temp
+debug
