@@ -119,7 +119,7 @@
 
     const closeElement = document.createElement('div');
     closeElement.className = 'ask-user-reload-close';
-    closeElement.innerHTML = navigator.language === 'zh-CN' ? '关闭 ×' : 'close ×';
+    closeElement.innerHTML = navigator.language === 'zh-CN' ? '×' : '×';
     closeElement.onclick = () => body.removeChild(infoElement);
     closeElement.onKeyDown = () => body.removeChild(infoElement);
     closeElement.tabindex = 0;
