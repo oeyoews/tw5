@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # creat debug dir
 TEST=test
 
@@ -8,15 +10,16 @@ echo 🎉 start: remove debug dir and creat debug dir
 cp -r assets scripts tiddlers static *.info *.json $TEST || exit
 echo 🐶 1. cp some folder
 
-cd $TEST
+cd $TEST || exit
 echo 🔥 2. enter debug dire
 
 rm -rf tiddlers/subwiki
-rm -rf static/tidpatch/* touch static/tidpatch/fix
+rm -rf static/tidpatch/*
+touch static/tidpatch/fix
 echo 💊 3. remove subwiki contents
 
 yarn  buildvercel
 echo 🌹 end: start buildvercel
 
 echo 🚒 start open google-chrome-stable
-google-chrome-stable ${PWD}/public/index.html
+google-chrome-stable ${PWD}/public/index.html &
