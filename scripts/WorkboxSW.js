@@ -110,7 +110,7 @@
     infoElement.innerHTML =
       navigator.language === 'zh-CN'
         //? '新内容已准备好，点击此处刷新页面更新到新版。'
-        ? '🎉 New content available. Click to refresh'
+        ? '🎉 New content available. Click to refresh 🐬'
         : 'New content available. Click here to Refresh this page to get update.';
     infoElement.onclick = () => location.reload();
     infoElement.onKeyDown = () => location.reload();
