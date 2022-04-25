@@ -1,4 +1,3 @@
-//<script type="text/javascript">
   const isLocalhost = Boolean(
     window.location.hostname === 'localhost' ||
       // [::1] is the IPv6 localhost address.
@@ -13,19 +12,6 @@
         const swUrl = 'sw.js';
 
         if (isLocalhost) {
-          /**
-          // This is running on localhost. Let's do additional checks to see if a service worker still exists or not.
-          checkValidServiceWorker(swUrl, config);
-
-          // Add some additional logging to localhost, pointing developers to the
-          // service worker/PWA documentation.
-          navigator.serviceWorker.ready.then(() => {
-            console.log(
-              'This web app is being served cache-first by a service ' +
-                'worker. To learn more, visit https://bit.ly/CRA-PWA'
-            );
-          });
-          */
           return;
         } else {
           // Is not localhost. Just register service worker
@@ -143,30 +129,3 @@
   }
 
   register({ onUpdate: informUserToReloadToGetLatestContent });
-//</script>
-
-
-  /*
-<style>
-  .ask-user-reload {
-    padding: 25px;
-    position: absolute;
-    bottom: 10px;
-    right: 5px;
-    background: wheat;
-    z-index: 9999;
-    cursor: alias;
-		border-radius: 3px;
-		background: cyan;
-		color: #071b09;
-  }
-  .ask-user-reload-close {
-    padding: 5px;
-    position: absolute;
-    top: 0;
-    right: 0;
-    cursor: pointer;
-    font-weight: bold;
-  }
-</style>
-  */
