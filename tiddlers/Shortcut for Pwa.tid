@@ -1,12 +1,14 @@
 created: 20220410082953771
 creator: @oeyoews
-modified: 20220410084445807
-modifier: @oeyoews
+modified: 20220425064750824
+modifier: oeyoews
 tags: pwa
 title: Shortcut for Pwa
 type: text/vnd.tiddlywiki
 
 * 右键现实子菜单
+
+* https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html
 
 * https://docs.microsoft.com/zh-cn/microsoft-edge/progressive-web-apps-chromium/how-to/shortcuts
 * https://blog.csdn.net/weixin_26739079/article/details/108259785
