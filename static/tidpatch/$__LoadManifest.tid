@@ -23,3 +23,4 @@ type: text/vnd.tiddlywiki
 <meta name="apple-mobile-web-app-title" content="FishForYou">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta content="no" name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="apple-touch-startup-image" href="assets/favicon_maskable_192.png">
