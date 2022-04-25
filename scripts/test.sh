@@ -1,11 +1,11 @@
 # creat debug dir
 TEST=test
 
-rm -rf $TEST && mkdir $TEST
+rm -rf $TEST && mkdir $TEST || exit
 echo 🎉 start: remove debug dir and creat debug dir
 
 # cp curren to temp
-cp -r assets scripts tiddlers static *.info *.json debug
+cp -r assets scripts tiddlers static *.info *.json $TEST || exit
 echo 🐶 1. cp some folder
 
 cd $TEST
