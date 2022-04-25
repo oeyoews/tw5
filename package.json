@@ -10,13 +10,13 @@
     "tiddlywiki": "~5.2.2"
   },
   "scripts": {
-    "buildvercel": " 👽 bash scripts/vercel.sh",
-    "copytidpatch": "🐮 cp static/tidpatch/* tiddlers/",
-    "build": " 🏆 rm -rf public && tiddlywiki --output public --build index",
+    "buildvercel": "bash scripts/vercel.sh",
+    "copytidpatch": "cp static/tidpatch/* tiddlers/",
+    "build": "rm -rf public && tiddlywiki --output public --build index",
     "copyassets": "cp -r assets public",
     "copymanifest": "cp static/manifest/* public",
-    "workboxinje": "🍐 workbox injectManifest scripts/workbox-config.js && cp scripts/WorkboxSW.js public",
-    "debug": "🐛 bash scripts/debug.sh",
-    "start": "🍺 tiddlywiki  --listen port=8090"
+    "workboxinje": "workbox injectManifest scripts/workbox-config.js && cp scripts/WorkboxSW.js public",
+    "debug": "bash scripts/debug.sh",
+    "start": "tiddlywiki  --listen port=8090"
   }
 }
