@@ -10,12 +10,12 @@
     "tiddlywiki": "~5.2.2"
   },
   "scripts": {
-    "buildvercel": "bash scripts/vercel.sh",
-    "workboxinje": "workbox injectManifest scripts/workbox-config.js && cp scripts/WorkboxSW.js .",
-    "devbuild": "tiddlywiki --output public --build index",
     "copytidpatch": "cp static/tidpatch/* tiddlers/",
+    "devbuild": "tiddlywiki --output public --build index",
+    "buildvercel": "bash scripts/vercel.sh",
     "copyassets": "cp -r assets public",
     "copymanifest": "cp static/manifest/* public",
+    "workboxinje": "workbox injectManifest scripts/workbox-config.js && cp scripts/WorkboxSW.js public",
     "localbuild": "tiddlywiki --output public --build index",
     "localdebug": "tiddlywiki  --listen port=8090",
     "clean": "rm -rf public",
