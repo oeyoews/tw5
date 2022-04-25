@@ -6,6 +6,9 @@ tags: $:/tags/RawMarkup
 title: Load Manifest
 type: text/vnd.tiddlywiki
 
+<!-- test -->
+<meta name="mobile-web-app-capable" content="yes">
+
 <!-- === sw === -->
 <!-- must in root -->
 <link rel="manifest" href="manifest.webmanifest">
@@ -21,7 +24,7 @@ type: text/vnd.tiddlywiki
 
 <!-- === apple === -->
 <!-- https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html -->
-<!-- fix apple-touch-icon and add description -->
+  <!-- fix apple-touch-icon and add description -->
 <link rel="apple-touch-icon" href="assets/favicon_maskable_192.png"/>
   <!-- Hiding Safari User Interface Components -->
 <meta name="apple-mobile-web-app-capable" content="yes">
