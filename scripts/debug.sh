@@ -1,6 +1,6 @@
 # creat debug dir
 rm -rf debug && mkdir debug
-echo 🎉 start: creat debug dir
+echo 🎉 start: remove debug dir and creat debug dir
 
 # cp curren to temp
 cp -r assets scripts tiddlers static *.info *.json debug
