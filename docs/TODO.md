@@ -1,5 +1,6 @@
 # TODO
 
+* learn yarn offline parameter
 * add try catch code in debug.sh
 * how creat npm package for tw5 repo
 * try use the startup put one file path
