@@ -9,14 +9,13 @@
 * [x] this $__*.tid can't use ranger(in vim)
 * [x] use two fonts for en and zh-cn
 * [?] todo: add pwa startup (example: excliaw)
-* [ ] todo: like this https://github.com/linonetwo/linonetwo/blob/master/README.md
-* [ ] debug ios or chrome in pc(too trouble)
-- [ ] todo: tidy tiddlers
+* [x] todo: like this https://github.com/linonetwo/linonetwo/blob/master/README.md
+* debug ios or chrome in pc(too trouble)
+- [x] todo: tidy tiddlers
 - [ ] todo: add shortkeys for close-other-tiddler
 - [ ] __git__: use submodule to manage img and tiddler/subwiki
-- [ ] docs: tidy docs image
-    [link](https://www.bookstack.cn/read/lavas-tutorial/v2-basic-init.md)
-- [ ] pref: packing vercel and package command
+- [x] docs: tidy docs image [link](https://www.bookstack.cn/read/lavas-tutorial/v2-basic-init.md)
+- [x] pref: packing vercel and package command
 - [ ] feat: pwa install local with port, not online
 - [ ] feat: add button effects for left menubar
 - [ ] feat: hove effects for `ctrl p`
@@ -24,14 +23,14 @@
 - [ ] feat: add shortkeys for controll (alt i) and jump inbox shortkey
 - [ ] add fish float loop
 - [ ] fix: fix code block for specific type
-- [ ] feat: use firacode css link
-- [ ] fix: fix list link color and bg
+- [x] feat: use firacode css link
+- [x] fix: fix list link color and bg
 - [ ] todo: learn use transition details
 - [ ] fix: use div(maybe) to compute current window location for fishing
 - [ ] feat: use switch button for two palette associate theme
-- [ ] feat: combined with vanilla to notebook theme
-- [ ] feat(fishing): add counter for undue
-- [ ] fix: fix nico theme in phone, search box have some radius when no focus
+- [x] feat: combined with vanilla to notebook theme
+- [x] feat(fishing): add counter for undue
+- [x] fix: fix nico theme in phone, search box have some radius when no focus
 - [ ] feat: use filter or backdrop-filter come true blur for commandpalette
 - [ ] todo: use import font, such as firacode font
 - [ ] __refactor__: fix like drop down border
