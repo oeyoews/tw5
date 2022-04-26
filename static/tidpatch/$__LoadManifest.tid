@@ -21,6 +21,9 @@ type: text/vnd.tiddlywiki
 <!-- add description -->
 <meta name="description" content="Author: oeyoews, Illustrator: a linear notebook with fish">
 
+<!-- add author -->
+<meta name="author" content="oeyoews">
+
 <!-- hitokoto -->
 <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
 
