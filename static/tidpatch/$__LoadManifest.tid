@@ -46,4 +46,4 @@ type: text/vnd.tiddlywiki
 
 
 <!-- use service-worker -->
-<script src="WorkboxSW.js" ></script>
+<script src="workbox-startup.js" ></script>
