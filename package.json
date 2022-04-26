@@ -10,8 +10,8 @@
     "tiddlywiki": "5.2.2"
   },
   "scripts": {
-    "buildvercel": "bash scripts/vercel.sh",
-    "copytidpatch": "cp static/tidpatch/* tiddlers/",
+    "build@vercel": "bash scripts/vercel.sh",
+    "copy@tidpatch": "cp static/tidpatch/* tiddlers/",
     "build": "rm -rf public && tiddlywiki --output public --build index",
     "copyassets": "cp -r assets public",
     "copyworkbox": "cp static/workbox/* public",

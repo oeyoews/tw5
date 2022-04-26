@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # patch for html
-yarn copytidpatch
+yarn copy@tidpatch
 
 # add public must before public copy steps for versel(if public else .)
 yarn build
