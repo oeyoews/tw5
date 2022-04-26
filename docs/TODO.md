@@ -1,5 +1,6 @@
 # TODO
 
+* or maybe local test, can use makefile
 * how to config cros problems, use local pwa,
 * pwa message push privailege
 * use shell python or ci to add update time
