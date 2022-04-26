@@ -8,6 +8,7 @@
 * how creat npm package for tw5 repo
 * try use the startup put one file path
 * learn workbox fetch time settings
+  * learn workbox(service worker) mechanism
 * [x] use cdn for workscript to minimum html code
 * [x] this $__*.tid can't use ranger(in vim)
 * [x] use two fonts for en and zh-cn
