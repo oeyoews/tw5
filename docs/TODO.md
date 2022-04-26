@@ -1,5 +1,6 @@
 # TODO
 
+* use devtools add friendly tips, like gitlab console
 * or maybe local test, can use makefile
 * how to config cros problems, use local pwa,
 * pwa message push privailege
