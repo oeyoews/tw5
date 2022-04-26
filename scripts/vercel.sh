@@ -8,7 +8,7 @@ yarn build
 
 # public folder and files
 yarn copyassets
-yarn copymanifest
+yarn copyworkbox
 
 # copy scripts/sw.js to public
 yarn workboxinje
