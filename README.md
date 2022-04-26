@@ -33,8 +33,8 @@
 
 ## Videos
 
-* <a href="https://www.bilibili.com/video/BV1NT4y1e7WM?share_source=copy_web" targer="_blank">Demo</a>
-* <a href="https://www.bilibili.com/video/BV1NT4y1e7WM?share_source=copy_web" targer="_blank">Demo2</a>
+* <a href="https://www.bilibili.com/video/BV1NT4y1e7WM?share_source=copy_web" target="_blank">Demo</a>
+* <a href="https://www.bilibili.com/video/BV1NT4y1e7WM?share_source=copy_web" target="_blank">Demo2</a>
 
 ## [Gallery](docs/Gallery.md)
 
