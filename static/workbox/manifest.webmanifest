@@ -1,7 +1,7 @@
 {
-  "description": "a linear app",
-  "name": "Fish For You",
-  "short_name": "Fish",
+  "description": "📖 a linear app",
+  "name": "FishForYou",
+  "short_name": "FFY",
   "display": "standalone",
   "id": "/",
   "start_url": "/",
