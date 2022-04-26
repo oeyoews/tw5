@@ -7,8 +7,8 @@ yarn copy@tidpatch
 yarn build
 
 # public folder and files
-yarn copyassets
-yarn copyworkbox
+yarn copy@assets
+yarn copy@workbox
 
 # copy scripts/sw.js to public
-yarn workboxinje
+yarn workbox@inje

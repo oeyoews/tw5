@@ -13,9 +13,9 @@
     "build@vercel": "bash scripts/vercel.sh",
     "copy@tidpatch": "cp static/tidpatch/* tiddlers/",
     "build": "rm -rf public && tiddlywiki --output public --build index",
-    "copyassets": "cp -r assets public",
-    "copyworkbox": "cp static/workbox/* public",
-    "workboxinje": "workbox injectManifest scripts/workbox-config.js",
+    "copy@assets": "cp -r assets public",
+    "copy@workbox": "cp static/workbox/* public",
+    "workbox@inje": "workbox injectManifest scripts/workbox-config.js",
     "test": "bash scripts/test.sh",
     "start": "tiddlywiki  --listen port=8090"
   }
