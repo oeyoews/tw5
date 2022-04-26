@@ -34,6 +34,7 @@
 ## Videos
 
 * [Demo](https://www.bilibili.com/video/BV1fY4y1Y7Yf?share_source=copy_web)
+* [Demo2](https://www.bilibili.com/video/BV1NT4y1e7WM?share_source=copy_web)
 
 ## [Gallery](docs/Gallery.md)
 
