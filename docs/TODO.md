@@ -1,5 +1,21 @@
 # TODO
 
+- [ ] todo: use a template for fish tw engwords
+- [ ] todo: use tools make dark and light pictures
+- [ ] todo: use a example site use multi html with manifest to assign start html
+- [ ] todo: embed bilibile video
+- [ ] todo: use blur attribut for fishing button
+- [ ] todo: tiny all npm commands
+- [ ] bug: hitikoto bring script error tip
+- [ ] todo: add gource pic
+- [ ] todo: reveal.js slide effects(cubic-bezier function)
+- [ ] todo: like this [wiki](http://jyywiki.cn/OS/2022/slides/1.slides#/3/1/0)
+
+- [ ] todo: learn mariadb privailege for spring(sudo root oeyoews)
+- [ ] todo: use war test for tomcat
+- [ ] todo: idea's gitignore how to work
+- [ ] todo: make google theme
+- [ ] todo: start use emacs, and no use popmenu
 * use devtools add friendly tips, like gitlab console
 * or maybe local test, can use makefile
 * how to config cros problems, use local pwa,
@@ -11,17 +27,9 @@
 * try use the startup put one file path
 * learn workbox fetch time settings
   * learn workbox(service worker) mechanism
-* [x] use cdn for workscript to minimum html code
-* [x] this $__*.tid can't use ranger(in vim)
-* [x] use two fonts for en and zh-cn
-* [?] todo: add pwa startup (example: excliaw)
-* [x] todo: like this https://github.com/linonetwo/linonetwo/blob/master/README.md
 * debug ios or chrome in pc(too trouble)
-- [x] todo: tidy tiddlers
 - [ ] todo: add shortkeys for close-other-tiddler
 - [ ] __git__: use submodule to manage img and tiddler/subwiki
-- [x] docs: tidy docs image [link](https://www.bookstack.cn/read/lavas-tutorial/v2-basic-init.md)
-- [x] pref: packing vercel and package command
 - [ ] feat: pwa install local with port, not online
 - [ ] feat: add button effects for left menubar
 - [ ] feat: hove effects for `ctrl p`
@@ -29,16 +37,10 @@
 - [ ] feat: add shortkeys for controll (alt i) and jump inbox shortkey
 - [ ] add fish float loop
 - [ ] fix: fix code block for specific type
-- [x] feat: use firacode css link
-- [x] fix: fix list link color and bg
 - [ ] todo: learn use transition details
 - [ ] fix: use div(maybe) to compute current window location for fishing
 - [ ] feat: use switch button for two palette associate theme
-- [x] feat: combined with vanilla to notebook theme
-- [x] feat(fishing): add counter for undue
-- [x] fix: fix nico theme in phone, search box have some radius when no focus
 - [ ] feat: use filter or backdrop-filter come true blur for commandpalette
-- [ ] todo: use import font, such as firacode font
 - [ ] __refactor__: fix like drop down border
 - [ ] __refactor__: resolve this shine color, maybe can same for tid bg and div bg
 - [ ] __refactor__: all stylesheet
@@ -89,10 +91,8 @@
 - [ ] feat: add swift app for fish web
 - [ ] feat: learn electron
 - [ ] feat: use pwa sw to send message tooltip click button
-- [x] feat: use subfolder to simulate vercel with shellscript
-- [x] fix: remove pwa title
 - [ ] feat: learn install before event for pwa(optimic its logic add adjust if install)
-- [Text](https://segmentfault.com/a/1190000019172787)
+  - [Text](https://segmentfault.com/a/1190000019172787)
 - [ ] feat: install pwa in local with folder path
 - [ ] question: http-server differ tw5(how to visit files in local)
 - [ ] todo: learn webpack
@@ -146,21 +146,19 @@
 - [x] feat: use hitoko usage
 - [x] fix: config float message box
 - [x] todo: better update time
-- [ ] todo: use a template for fish tw engwords
-- [ ] todo: use tools make dark and light pictures
-- [ ] todo: use a example site use multi html with manifest to assign start html
-- [ ] todo: embed bilibile video
-- [ ] todo: use blur attribut for fishing button
-- [ ] todo: tiny all npm commands
-- [ ] bug: hitikoto bring script error tip
-- [ ] todo: add gource pic
-- [ ] todo: reveal.js slide effects(cubic-bezier function)
-- [ ] todo: like this [wiki](http://jyywiki.cn/OS/2022/slides/1.slides#/3/1/0)
-
-## MISC
-
-- [ ] todo: learn mariadb privailege for spring(sudo root oeyoews)
-- [ ] todo: use war test for tomcat
-- [ ] todo: idea's gitignore how to work
-- [ ] todo: make google theme
-- [ ] todo: start use emacs, and no use popmenu
+* [x] use cdn for workscript to minimum html code
+* [x] this $__*.tid can't use ranger(in vim)
+* [x] use two fonts for en and zh-cn
+* [?] todo: add pwa startup (example: excliaw)
+- [x] todo: tidy tiddlers
+- [x] docs: tidy docs image [link](https://www.bookstack.cn/read/lavas-tutorial/v2-basic-init.md)
+- [x] pref: packing vercel and package command
+- [x] feat: use firacode css link
+- [x] fix: fix list link color and bg
+- [x] feat: combined with vanilla to notebook theme
+- [x] feat(fishing): add counter for undue
+- [x] fix: fix nico theme in phone, search box have some radius when no focus
+- [x] todo: use import font, such as firacode font
+* [x] todo: like this https://github.com/linonetwo/linonetwo/blob/master/README.md
+- [x] feat: use subfolder to simulate vercel with shellscript
+- [x] fix: remove pwa title
