@@ -1,81 +1,64 @@
 caption: Fishing Ui
 created: 20220316124815943
 creator: @oeyoews
-modified: 20220427071732041
+modified: 20220427074628829
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/fishingUI
 type: text/vnd.tiddlywiki
 
-.tc-fishing-learing-grade .learn {
+<!-- public -->
+.learn, .forget, .remember, .grasp {
 		border-radius:3px;
 		margin-left:10px;
 		margin-top: 5px;
-		color: #0fa60f;
-		background-color: #073642;
 		padding: 5px;
 		transition: background 120ms ease-in 0s;
 		font-style: italic;
 }
 
+.remember:hover, .grasp:hover, .learn:hover, .forget:hover {
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: unset;
+}
+
+<!-- === -->
+.tc-fishing-learing-grade .learn {
+		color: #0fa60f;
+		background-color: #073642;
+}
+
 .tc-fishing-learing-grade .forget{
-		border-radius:3px;
-		margin-left:10px;
 		color: #c62828;
 		background-color: #5f1736;
-		padding:5px;
-		margin-top: 5px;
-		transition: background 120ms ease-in 0s;
-		font-style: italic;
 }
 
 .tc-fishing-learing-grade .remember{
-		border-radius:3px;
-		margin-left:10px;color: #0fa10f;
+		color: #0fa10f;
 		background-color: #084111;
-		padding:5px;
-		transition: background 120ms ease-in 0s;
-		margin-top: 5px;
-		font-style: italic;
 }
 
 .tc-fishing-learing-grade .grasp{
-		border-radius:3px;
-		margin-left:10px;
 		color: #d2d217;
 		background-color: #71851b;
-		padding:5px;
-		transition: background 120ms ease-in 0s;
-		margin-top: 5px;
-		font-style: italic;
 }
+
 
 .tc-fishing-learing-grade .forget:hover {
 	background: #6c193d;
-	text-decoration: unset;
-	font-weight: bold;
-	font-style: normal;
 	}
 
 .tc-fishing-learing-grade .remember:hover {
 	background: #064c11;
-	text-decoration: unset;
-	font-weight: bold;
-	font-style: normal;
 }
 
 .tc-fishing-learing-grade .grasp:hover {
 	background: #819d0c;
-	text-decoration: unset;
-	font-weight: bold;
-	font-style: normal;
 }
 
 .tc-fishing-learing-grade .learn:hover {
 	background: #195c2c;
-	text-decoration: unset;
-	font-weight: bold;
-	font-style: normal;
 }
 
 .tc-fishing-learing-count {
