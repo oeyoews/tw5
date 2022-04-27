@@ -1,14 +1,17 @@
 caption: Fishing Ui
 created: 20220316124815943
 creator: @oeyoews
-modified: 20220427074628829
+modified: 20220427075419571
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/fishingUI
 type: text/vnd.tiddlywiki
 
-<!-- public -->
-.learn, .forget, .remember, .grasp {
+/* public  */
+.learn,
+.forget,
+.remember,
+.grasp {
 		border-radius:3px;
 		margin-left:10px;
 		margin-top: 5px;
@@ -17,13 +20,16 @@ type: text/vnd.tiddlywiki
 		font-style: italic;
 }
 
-.remember:hover, .grasp:hover, .learn:hover, .forget:hover {
+.remember:hover,
+.grasp:hover,
+.learn:hover,
+.forget:hover {
 	font-weight: bold;
 	font-style: normal;
 	text-decoration: unset;
 }
 
-<!-- === -->
+/*  start  */
 .tc-fishing-learing-grade .learn {
 		color: #0fa60f;
 		background-color: #073642;
