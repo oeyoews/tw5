@@ -37,7 +37,8 @@ type: text/vnd.tiddlywiki
   <!-- Hiding Safari User Interface Components -->
 <meta name="apple-mobile-web-app-capable" content="yes">
   <!-- Changing the Status Bar Appearance -->
-  <!-- maybe fix scroll status top bar -->
+  <!-- maybe fix scroll sticky title  -->
+  <!-- control mobile status bar -->
 <meta content="no" name="apple-mobile-web-app-status-bar-style" content="black">
   <!-- launch title -->
 <meta name="apple-mobile-web-app-title" content="FishForYou">
