@@ -1,7 +1,7 @@
 caption: Fishing Ui
 created: 20220316124815943
 creator: @oeyoews
-modified: 20220427055528390
+modified: 20220427071732041
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/fishingUI
@@ -15,6 +15,7 @@ type: text/vnd.tiddlywiki
 		background-color: #073642;
 		padding: 5px;
 		transition: background 120ms ease-in 0s;
+		font-style: italic;
 }
 
 .tc-fishing-learing-grade .forget{
@@ -25,10 +26,7 @@ type: text/vnd.tiddlywiki
 		padding:5px;
 		margin-top: 5px;
 		transition: background 120ms ease-in 0s;
-		<!--
-    transform: all 0.2s;
-    transition-timing-function: cubic-bezier(.23,1,.32,1);
-		-->
+		font-style: italic;
 }
 
 .tc-fishing-learing-grade .remember{
@@ -38,6 +36,7 @@ type: text/vnd.tiddlywiki
 		padding:5px;
 		transition: background 120ms ease-in 0s;
 		margin-top: 5px;
+		font-style: italic;
 }
 
 .tc-fishing-learing-grade .grasp{
@@ -48,45 +47,35 @@ type: text/vnd.tiddlywiki
 		padding:5px;
 		transition: background 120ms ease-in 0s;
 		margin-top: 5px;
+		font-style: italic;
 }
-
-<!--
-.tc-fishing-learing-grade .more{
-		border-radius:3px;
-		margin-left:10px;
-		color: #0cd2d2;
-		background-color: #125668;
-		padding: 5px 8px;
-		transition: background 120ms ease-in 0s;
-		margin-top: 5px;
-}
--->
 
 .tc-fishing-learing-grade .forget:hover {
 	background: #6c193d;
 	text-decoration: unset;
+	font-weight: bold;
+	font-style: normal;
 	}
 
 .tc-fishing-learing-grade .remember:hover {
 	background: #064c11;
 	text-decoration: unset;
+	font-weight: bold;
+	font-style: normal;
 }
 
 .tc-fishing-learing-grade .grasp:hover {
 	background: #819d0c;
 	text-decoration: unset;
+	font-weight: bold;
+	font-style: normal;
 }
-
-<!--
-.tc-fishing-learing-grade .more:hover {
-	background: #1c91af;
-	text-decoration: unset;
-}
--->
 
 .tc-fishing-learing-grade .learn:hover {
 	background: #195c2c;
 	text-decoration: unset;
+	font-weight: bold;
+	font-style: normal;
 }
 
 .tc-fishing-learing-count {
@@ -95,4 +84,5 @@ type: text/vnd.tiddlywiki
 		background-color: #0a345c;
 		padding: 3px 8px 1px 8px;
 		margin-top: 5px;
+		font-style: italic;
 }
