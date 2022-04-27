@@ -1,0 +1,12 @@
+author: Thomas Elmiger
+core-version: 
+created: 20171005214018768
+description: Harvey balls icon set
+list: readme alternatives credits support
+modified: 20200605194202377
+name: HarveyBalls
+plugin-type: plugin
+source: https://tid.li/tw5/plugins.html
+title: $:/plugins/telmiger/HarveyBalls
+type: application/json
+version: 0.1.0

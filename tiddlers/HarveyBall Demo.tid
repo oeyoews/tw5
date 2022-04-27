@@ -1,0 +1,13 @@
+created: 20220427031257469
+creator: oeyoews
+modified: 20220427031634641
+modifier: oeyoews
+tags: demo
+title: HarveyBall Demo
+type: text/vnd.tiddlywiki
+
+<<HarveyBall empty>> 
+
+<<HarveyBall quarter>>
+
+<<HarveyBall full>>
