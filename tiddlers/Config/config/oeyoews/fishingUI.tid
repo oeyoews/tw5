@@ -1,7 +1,7 @@
 caption: Fishing Ui
 created: 20220316124815943
 creator: @oeyoews
-modified: 20220428023906054
+modified: 20220428025820565
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/fishingUI
@@ -12,15 +12,15 @@ type: text/vnd.tiddlywiki
 .forget,
 .remember,
 .grasp {
-		border-radius:3px;
-		margin-left:10px;
+		border-radius:3px !important;
+		margin-left:10px !important;
 		margin-top: 5px;
 		padding: 5px;
 		transition: background 120ms ease-in 0s;
 		font-style: italic;
 		box-shadow: 1px 1px 5px #0000004d;
 		user-select: none;
-		cursor: point;
+		cursor: pointer !important;
 }
 
 .remember:hover,
