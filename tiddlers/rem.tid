@@ -1,0 +1,11 @@
+created: 20220428030448871
+creator: oeyoews
+modified: 20220428030652837
+modifier: oeyoews
+tags: frontend
+title: rem
+type: text/vnd.tiddlywiki
+
+root(relative) em(element)
+
+https://www.w3.org/TR/css3-values/#relative-lengths
