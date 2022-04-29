@@ -1,6 +1,6 @@
 created: 20220421054229882
 creator: oeyoews
-modified: 20220429153833232
+modified: 20220429155041801
 modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: FiraCode and Jetbrains Link
@@ -11,7 +11,8 @@ type: text/vnd.tiddlywiki
 -->
 
 <!-- add modern-normalize 
-now is local
+now is local(wrong)
+tw is bind it.
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/modern-normalize@1.1.0/modern-normalize.css">
 -->
 
