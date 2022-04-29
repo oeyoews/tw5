@@ -1,5 +1,6 @@
 # TODO
 
+* use yarn.lock, this vercel time very fast
 * add vercel status
 * maybe for vercel add signle shellscript and add test time function
 * learn tailwind

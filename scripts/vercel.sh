@@ -21,4 +21,4 @@ yarn visual@files
 
 # TODO: how to add failed flag
 echo 🎉🎣 Vercel build success
-echo `date`
+echo 🕑 `date`
