@@ -7,6 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "tiddlywiki": "5.2.2",
+    "tree-node-cli": "^1.5.2",
     "workbox-cli": "6.5.2"
   },
   "scripts": {
@@ -18,8 +19,5 @@
     "workbox@inje": "workbox injectManifest scripts/workbox-config.js ",
     "test": "bash scripts/test.sh",
     "start": "tiddlywiki  --listen port=8090"
-  },
-  "devDependencies": {
-    "tree-node-cli": "^1.5.2"
   }
 }
