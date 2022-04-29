@@ -1,8 +1,7 @@
 # TODO
 
 * how setup timezone for vercel ci
-
-* use yarn.lock, this vercel time very fast
+* how to update yarn.lock (by scripts)
 * add vercel status
 * maybe for vercel add signle shellscript and add test time function
 * learn tailwind
@@ -169,3 +168,4 @@
 - [x] feat: use subfolder to simulate vercel with shellscript
 - [x] fix: remove pwa title
 * [x] use tree intrepet some dires
+* [x] use yarn.lock, this vercel time very fast

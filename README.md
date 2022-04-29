@@ -6,6 +6,7 @@
 <!-- vim-markdown-toc GitLab -->
 
 * [UpdateTime](#updatetime)
+  * [tips](#tips)
   * [Videos](#videos)
   * [Gallery](#gallery)
   * [RelatedSoftwares](#relatedsoftwares)
@@ -29,7 +30,11 @@
 
 # UpdateTime
 
-* 2022-04-08T15:41:51
+2022-04-29T11:20:06
+
+## tips
+
+* to speedup time, update yarn.lock before push
 
 ## Videos
 
