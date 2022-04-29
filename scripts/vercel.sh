@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # add test
+# NOTICE: this second test scripts, not conflice parent path
 yarn test
 
 # patch for html

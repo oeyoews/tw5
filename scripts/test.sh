@@ -6,7 +6,9 @@ alias yarn='yarn --offline'
 
 # creat debug dir
 TEST=test
+STARTDIR="$PWD"
 
+echo start dir is $STARTDIR
 
 rm -rf $TEST && mkdir $TEST || exit
 echo 🎉 Testing: creat new test directory
@@ -16,7 +18,8 @@ cp -r assets scripts tiddlers static package.json *.info $TEST || exit
 echo 🐶 1. cp some folder
 
 cd $TEST || exit
-echo 🔥 2. enter debug dire
+echo $PWD
+echo 🔥 2. enter testdir
 
 # TODO: if have subwiki delete
 rm -rf tiddlers/subwiki
@@ -43,6 +46,10 @@ echo '🗂️ Generated new public folder'
 cp -r assets public
 
 echo 🎉 Testing success
+
+# maybe security
+cd $STARTDIR
+echo return to start dir $PWD
 
 # TODO: how to adapt vercel
 #echo 🚒 start open google-chrome-stable
