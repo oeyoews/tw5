@@ -18,9 +18,9 @@
   },
   "dependencies": {
     "tree-node-cli": "^1.5.2",
+    "workbox-cli": "6.5.2",
     "tiddlywiki": "5.2.2"
   },
   "devDependcies": {
-    "workbox-cli": "6.5.2"
   }
 }
