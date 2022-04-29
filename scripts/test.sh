@@ -2,7 +2,7 @@
 # set -e
 # set -x
 alias yarn='yarn --offline'
-alias date='TZ=UTC-8 && date +"%Y-%m-%d %H:%M:%S"'
+alias date='date +"%Y-%m-%d %H:%M:%S"'
 
 # creat debug dir
 TEST=test
