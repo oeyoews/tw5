@@ -18,5 +18,6 @@ yarn copy@workbox
 yarn workbox@inje
 
 yarn visual@file
+
 # TODO: how to add failed flag
 echo 🎉🎣 vercel build success
