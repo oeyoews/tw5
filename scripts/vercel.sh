@@ -17,7 +17,7 @@ yarn copy@workbox
 # copy scripts/sw.js to public
 yarn workbox@inje
 
-yarn visual@file
+yarn visual@files
 
 # TODO: how to add failed flag
 echo 🎉🎣 vercel build success
