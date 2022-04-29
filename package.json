@@ -6,8 +6,8 @@
   "author": "oeyoews <jyao4783@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "workbox-cli": "6.5.2",
-    "tiddlywiki": "5.2.2"
+    "tiddlywiki": "5.2.2",
+    "workbox-cli": "6.5.2"
   },
   "scripts": {
     "build@vercel": "bash scripts/vercel.sh",
@@ -18,5 +18,8 @@
     "workbox@inje": "workbox injectManifest scripts/workbox-config.js ",
     "test": "bash scripts/test.sh",
     "start": "tiddlywiki  --listen port=8090"
+  },
+  "devDependencies": {
+    "tree-node-cli": "^1.5.2"
   }
 }

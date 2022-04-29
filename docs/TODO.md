@@ -1,5 +1,6 @@
 # TODO
 
+* use tree intrepet some dires
 * maybe for vercel add signle shellscript and add test time function
 * learn tailwind
 - [ ] todo: use a template for fish tw engwords
