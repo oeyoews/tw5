@@ -8,7 +8,7 @@
   "scripts": {
     "build@vercel": "bash scripts/vercel.sh",
     "copy@tidpatch": "cp static/tidpatch/* tiddlers/",
-    "build": "rm -rf public && tiddlywiki --output public --build index && echo '🗂️ Generated new public folder'",
+    "build": "rm -rf public && tiddlywiki --output public --build index",
     "copy@assets": "cp -r assets public",
     "copy@workbox": "cp static/workbox/* public",
     "workbox@inje": "workbox injectManifest scripts/workbox-config.js ",
