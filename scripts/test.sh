@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # set -e
 # set -x
 alias yarn='yarn --offline'
@@ -42,7 +41,10 @@ echo '🗂️ Generated new public folder'
 # TODO: add adjust statement
 cp -r assets public
 
-echo 🚒 start open google-chrome-stable
+echo 🎉 test success
+
+# TODO: how to adapt vercel
+#echo 🚒 start open google-chrome-stable
 #google-chrome-stable ${PWD}/public/index.html > /tmp/testtw5.log 2>&1
 
 #todo add main
