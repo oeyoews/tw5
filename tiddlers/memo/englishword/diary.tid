@@ -1,17 +1,17 @@
 created: 20220331052521435
 creator: @oeyoews
-difficulty: 1
-due: 20220424155822045
+difficulty: 1.046162455768082
+due: 20220702160823377
 grade: 1
-history: [{"due":"20220415155941009","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220414155941009"}]
-interval: 1
+history: [{"due":"20220415155941009","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220414155941009"},{"due":"20220424155822045","interval":1,"difficulty":1,"stability":8.830296307808057,"retrievability":0.34867927218217226,"grade":1,"lapses":0,"reps":2,"review":"20220415155822045"}]
+interval: 14
 lapses: 0
-modified: 20220415155822045
-modifier: @oeyoews
-reps: 2
-retrievability: 0.34867927218217226
-review: 20220415155822045
-stability: 8.830296307808057
+modified: 20220429160823377
+modifier: oeyoews
+reps: 3
+retrievability: 0.8461624557680819
+review: 20220429160823376
+stability: 64.05176886116645
 tags: EnglishWord ?
 title: diary
 type: text/vnd.tiddlywiki

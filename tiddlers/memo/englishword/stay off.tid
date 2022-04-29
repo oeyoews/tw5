@@ -1,17 +1,17 @@
 created: 20220403034910456
 creator: @oeyoews
-difficulty: 1
-due: 20220425011143172
-grade: 2
-history: [{"due":"20220408103941424","interval":0,"difficulty":0.40291375445826566,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220407103941424"}]
-interval: 3
-lapses: 0
-modified: 20220410011143172
-modifier: @oeyoews
-reps: 2
-retrievability: 0.042391765248063644
-review: 20220410011143171
-stability: 15.366926544834133
+difficulty: 2.0778583613622597
+due: 20220430160817153
+grade: 0
+history: [{"due":"20220408103941424","interval":0,"difficulty":0.40291375445826566,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220407103941424"},{"due":"20220425011143172","interval":3,"difficulty":1,"stability":15.366926544834133,"retrievability":0.042391765248063644,"grade":2,"lapses":0,"reps":2,"review":"20220410011143171"}]
+interval: 19
+lapses: 1
+modified: 20220429160817153
+modifier: oeyoews
+reps: 1
+retrievability: 0.8778583613622597
+review: 20220429160817152
+stability: 0.07408190596496488
 tags: EnglishWord ?
 title: stay off
 type: text/vnd.tiddlywiki
