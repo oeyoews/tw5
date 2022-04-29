@@ -1,7 +1,7 @@
 caption: Fishing Ui
 created: 20220316124815943
 creator: @oeyoews
-modified: 20220429102222868
+modified: 20220429102308385
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/fishingUI
@@ -31,7 +31,7 @@ type: text/vnd.tiddlywiki
 	font-weight: bold;
 	-->
 	font-style: normal;
-	text-decoration: unset;
+	text-decoration: underline;
 }
 
 .tc-fishing-learing-grade {
