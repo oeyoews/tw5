@@ -11,15 +11,18 @@ TEST=test
 rm -rf $TEST && mkdir $TEST || exit
 echo 🎉 start: remove debug dir and creat debug dir
 
-# cp curren to temp
+# cp current to temp
 cp -r assets scripts tiddlers static package.json *.info $TEST || exit
 echo 🐶 1. cp some folder
 
 cd $TEST || exit
 echo 🔥 2. enter debug dire
 
+# TODO: if have subwiki delete
 rm -rf tiddlers/subwiki
+
 rm -rf static/tidpatch/*
+# TODO: try to optimize this command
 touch static/tidpatch/fix.tid
 echo 💊 3. remove subwiki contents
 
@@ -36,6 +39,7 @@ echo '🗂️ Generated new public folder'
 
 # public folder and files
 #yarn copy@assets
+# TODO: add adjust statement
 cp -r assets public
 
 echo 🚒 start open google-chrome-stable

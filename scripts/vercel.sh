@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# add test
+yarn test
+
 # patch for html
 yarn copy@tidpatch
 
