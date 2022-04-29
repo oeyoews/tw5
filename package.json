@@ -1,15 +1,10 @@
 {
   "name": "FishingForYou",
-  "version": "22.0",
-  "main": "index.js",
+  "version": "23.0",
+  "main": "index.html",
   "repository": "https://gitlab.com/oeyoews/tw.git",
   "author": "oeyoews <jyao4783@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "tree-node-cli": "1.5.2",
-    "workbox-cli": "6.5.2",
-    "tiddlywiki": "5.2.2"
-  },
   "scripts": {
     "build@vercel": "bash scripts/vercel.sh",
     "copy@tidpatch": "cp static/tidpatch/* tiddlers/",
@@ -20,5 +15,10 @@
     "visual@files": "tree -L 1 public",
     "test": "bash scripts/test.sh",
     "start": "tiddlywiki  --listen port=8090"
+  },
+  "dependencies": {
+    "tree-node-cli": "1.5.2",
+    "workbox-cli": "6.5.2",
+    "tiddlywiki": "5.2.2"
   }
 }
