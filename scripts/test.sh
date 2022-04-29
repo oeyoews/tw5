@@ -7,8 +7,9 @@ alias yarn='yarn --offline'
 # creat debug dir
 TEST=test
 
+
 rm -rf $TEST && mkdir $TEST || exit
-echo 🎉 start: remove debug dir and creat debug dir
+echo 🎉 Testing: creat new test directory
 
 # cp current to temp
 cp -r assets scripts tiddlers static package.json *.info $TEST || exit
@@ -41,7 +42,7 @@ echo '🗂️ Generated new public folder'
 # TODO: add adjust statement
 cp -r assets public
 
-echo 🎉 test success
+echo 🎉 Testing success
 
 # TODO: how to adapt vercel
 #echo 🚒 start open google-chrome-stable
