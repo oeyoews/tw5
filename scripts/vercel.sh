@@ -15,3 +15,5 @@ yarn copy@workbox
 
 # copy scripts/sw.js to public
 yarn workbox@inje
+
+echo 🎉🎣 vercel build success
