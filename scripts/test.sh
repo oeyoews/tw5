@@ -45,6 +45,8 @@ echo '🗂️ Generated new public folder'
 # TODO: add adjust statement
 cp -r assets public
 
+tree -L 1 public
+
 echo 🎉 Testing success
 
 # maybe security
