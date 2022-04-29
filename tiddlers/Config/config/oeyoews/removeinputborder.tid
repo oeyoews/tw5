@@ -1,11 +1,18 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220409144519510
-modifier: @oeyoews
+modified: 20220429143045012
+modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
 type: text/vnd.tiddlywiki
+
+<!-- remove select --> 
+.tc-subtitle {
+    font-size: 0.9em;
+    font-weight: normal;
+    user-select: none;
+}
 
 <!-- fix link button drop -->
 .tc-drop-down .tc-tab-buttons button.tc-tab-selected {
