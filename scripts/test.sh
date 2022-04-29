@@ -15,11 +15,11 @@ echo 🎉 Testing: creat new test directory
 
 # cp current to temp
 cp -r assets scripts tiddlers static package.json *.info $TEST || exit
-echo 🐶 1. cp some folder
+echo 🐶  cp some folder
 
 cd $TEST || exit
 echo $PWD
-echo 🔥 2. enter testdir
+echo 🔥 enter testdir
 
 # TODO: if have subwiki delete
 rm -rf tiddlers/subwiki
@@ -27,7 +27,7 @@ rm -rf tiddlers/subwiki
 rm -rf static/tidpatch/*
 # TODO: try to optimize this command
 touch static/tidpatch/fix.tid
-echo 💊 3. remove subwiki contents
+echo 💊  remove subwiki contents
 
 # patch for html
 # yarn copy@tidpatch
@@ -56,3 +56,9 @@ echo return to start dir $PWD
 #google-chrome-stable ${PWD}/public/index.html > /tmp/testtw5.log 2>&1
 
 #todo add main
+
+#main() {
+
+#}
+
+#main
