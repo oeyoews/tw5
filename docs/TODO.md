@@ -1,6 +1,6 @@
 # TODO
 
-* use tree intrepet some dires
+* add vercel status
 * maybe for vercel add signle shellscript and add test time function
 * learn tailwind
 - [ ] todo: use a template for fish tw engwords
@@ -165,3 +165,4 @@
 * [x] todo: like this https://github.com/linonetwo/linonetwo/blob/master/README.md
 - [x] feat: use subfolder to simulate vercel with shellscript
 - [x] fix: remove pwa title
+* [x] use tree intrepet some dires
