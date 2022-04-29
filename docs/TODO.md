@@ -1,5 +1,6 @@
 # TODO
 
+* learn yarn all docs
 * how setup timezone for vercel ci
 * how to update yarn.lock (by scripts)
 * add vercel status
