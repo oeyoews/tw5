@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-set -e
-#set -x
-#alias yarn="yarn --offline"
+# set -e
+# set -x
+alias yarn='yarn --offline'
 
 
 # creat debug dir
@@ -23,18 +23,22 @@ rm -rf static/tidpatch/*
 touch static/tidpatch/fix.tid
 echo 💊 3. remove subwiki contents
 
-alias yarn='yarn --offline'
 # patch for html
-yarn copy@tidpatch
+# yarn copy@tidpatch
+cp static/tidpatch/* tiddlers/
 
 # add public must before public copy steps for versel(if public else .)
 #yarn use package, so this alias is no effect
-yarn build
+# yarn build
+rm -rf public
+tiddlywiki --output public --build index >/tmp/output.log 2>&1
+echo '🗂️ Generated new public folder'
 
 # public folder and files
-yarn copy@assets
+#yarn copy@assets
+cp -r assets public
 
 echo 🚒 start open google-chrome-stable
-google-chrome-stable ${PWD}/public/index.html > /tmp/testtw5.log 2>&1
+#google-chrome-stable ${PWD}/public/index.html > /tmp/testtw5.log 2>&1
 
 #todo add main
