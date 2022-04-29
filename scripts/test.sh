@@ -48,7 +48,7 @@ cp -r assets public
 tree -L 1 public
 
 echo 🎉 Testing success
-echo 🕐 date
+echo 🕐 `date`
 
 # maybe security
 cd $STARTDIR
