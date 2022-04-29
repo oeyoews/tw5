@@ -1,6 +1,6 @@
 created: 20220421054229882
 creator: oeyoews
-modified: 20220423105900509
+modified: 20220429151709467
 modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: FiraCode and Jetbrains Link
@@ -12,3 +12,6 @@ type: text/vnd.tiddlywiki
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap" rel="stylesheet">
+
+<!-- add modern-normalize -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/modern-normalize@1.1.0/modern-normalize.css">
