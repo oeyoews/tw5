@@ -1,5 +1,6 @@
 # TODO
 
+* add tw theme like vscode material theme
 * use palette to tidy theme color
 * learn yarn all docs
 * how setup timezone for vercel ci

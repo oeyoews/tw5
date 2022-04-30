@@ -1,17 +1,17 @@
 created: 20220224111446311
 creator: oeyoews
 difficulty: 1
-due: 20220424054219601
+due: 20221120161510068
 grade: 2
-history: [{"due":"20220304080811907","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303080811907"}]
-interval: 3
+history: [{"due":"20220304080811907","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303080811907"},{"due":"20220424054219601","interval":3,"difficulty":1,"stability":48.60974728794028,"retrievability":0.05273732312238567,"grade":2,"lapses":0,"reps":2,"review":"20220306054219601"}]
+interval: 54
 lapses: 0
-modified: 20220314011629236
-modifier: @oeyoews
-reps: 2
-retrievability: 0.05273732312238567
-review: 20220306054219601
-stability: 48.60974728794028
+modified: 20220429161510068
+modifier: oeyoews
+reps: 3
+retrievability: 0.8895462611868097
+review: 20220429161510067
+stability: 205.254492699117
 tags: EnglishWord ?
 title: korea
 type: text/vnd.tiddlywiki
