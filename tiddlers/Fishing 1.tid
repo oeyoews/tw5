@@ -3,21 +3,20 @@ color: #b8f316
 created: 20220321161854553
 creator: @oeyoews
 icon: $:/plugins/oflg/fishing/icon
-modified: 20220402133007814
-modifier: @oeyoews
+modified: 20220430171404838
+modifier: oeyoews
 tags: image
 title: Fishing 1
 type: text/vnd.tiddlywiki
 
 <!--
 <div style="text-align:left">
-
 {{$:/plugins/oflg/fishing/fishingfloat}} 
 </div>
 -->
 
-<div>
 <!--
+<div>
 <div style="text-align: center; background:cyan;overflow: auto; border-radius: 5px;">
 Click me
 </div>
@@ -27,5 +26,8 @@ Click me
 <img src="https://cdn.jsDelivr.net/gh/oeyoews/img/fishing.png
 " title="Click me to fish" alt="Fishing" style="zoom: 30%" />
 </div>
--->
 <<image-basic "fishing.png" align:"left">>
+-->
+<div class="fa-beat-fade" style="width: 230px;">
+{{fishing.png}}
+</div>

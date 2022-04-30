@@ -1,5 +1,6 @@
 # TODO
 
+* pack workbox plugin(bug: solve sw update problems)
 * how to load local file with plugins
 * adapt all browser for scrollbar
 * not support var function

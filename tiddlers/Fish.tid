@@ -2,8 +2,8 @@ color: #b8f316
 created: 20220321161022091
 creator: @oeyoews
 icon: $:/plugins/oflg/fishing/icon
-modified: 20220402132902836
-modifier: @oeyoews
+modified: 20220430170643201
+modifier: oeyoews
 tags: 
 title: Fish
 type: text/vnd.tiddlywiki
@@ -18,10 +18,8 @@ type: text/vnd.tiddlywiki
     selectedClass="tc-selected"
 >
     <$list filter="[<tv-config-toolbar-icons>match[yes]]">
-			<div style="text-aligh:left">
-			<!--
-       {{$:/plugins/oflg/fishing/icon}}&nbsp;
-			 -->
+			<div style="text-aligh:center">
+			<!-- {{$:/plugins/oflg/fishing/icon}}&nbsp; -->
 {{Fishing 1}}
 
 			</div>
