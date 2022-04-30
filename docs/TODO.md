@@ -16,7 +16,7 @@
 - [ ] todo: use tools make dark and light pictures
 - [ ] todo: use a example site use multi html with manifest to assign start html
 - [ ] todo: embed bilibile video
-- [ ] todo: use blur attribut for fishing button
+- [x] todo: use blur attribut for fishing button
 - [ ] todo: tiny all npm commands
 - [ ] bug: hitikoto bring script error tip
 - [ ] todo: add gource pic
