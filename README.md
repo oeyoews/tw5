@@ -5,22 +5,22 @@
 
 <!-- vim-markdown-toc GitLab -->
 
-* [UpdateTime](#updatetime)
-  * [tips](#tips)
-  * [Videos](#videos)
-  * [Gallery](#gallery)
-  * [RelatedSoftwares](#relatedsoftwares)
-  * [Features](#features)
-  * [Linux](#linux)
-    * [Service](#service)
+* [🕐 UpdateTime](#-updatetime)
+  * [🐢 Tips](#-tips)
+  * [📹 Videos](#-videos)
+  * [🚁 Gallery](#-gallery)
+  * [🗽 RelatedSoftwares](#-relatedsoftwares)
+  * [🍍 Features](#-features)
+  * [🐧 Linux](#-linux)
+    * [🦹 Service](#-service)
   * [Run](#run)
   * [Platform](#platform)
   * [APK](#apk)
   * [PWA](#pwa)
     * [motivate](#motivate)
-  * [TODO](#todo)
-  * [Broken](#broken)
-  * [FAQ](#faq)
+  * [🌪️ TODO](#-todo)
+  * [🍞 Broken](#-broken)
+  * [🎤 FAQ](#-faq)
 
 <!-- vim-markdown-toc -->
 </details>
@@ -28,36 +28,36 @@
 
 </div>
 
-# UpdateTime
+# 🕐 UpdateTime
 
 2022-04-29T11:20:06
 
-## tips
+## 🐢 Tips
 
 * to speedup time, update yarn.lock before push
 
-## Videos
+## 📹 Videos
 
 * <a href="https://www.bilibili.com/video/BV1NT4y1e7WM?share_source=copy_web" target="_blank">Demo</a>
 * <a href="https://www.bilibili.com/video/BV1NT4y1e7WM?share_source=copy_web" target="_blank">Demo2</a>
 
-## [Gallery](docs/Gallery.md)
+## 🚁 [Gallery](docs/Gallery.md)
 
-## [RelatedSoftwares](docs/RelatedSoftwares.md)
+## 🗽 [RelatedSoftwares](docs/RelatedSoftwares.md)
 
-## Features
+## 🍍 Features
 
 * [x] git
 * [x] timer(optional default is disable)
 * [x] private subwiki(git or local)
 * [x] support github gitlab workflow
 
-## Linux
+## 🐧 Linux
 
 * install `make` `node` `git`
 * type make in current directory
 
-### Service
+### 🦹 Service
 
 * sudo cp tw5.service /etc/systemd/system/
 * systemctl daemon-reload
@@ -85,9 +85,9 @@
 
 TODO
 
-## [TODO](docs/TODO.md)
+## 🌪️ [TODO](docs/TODO.md)
 
-## Broken
+## 🍞 Broken
 
 * [x] jd mobile casue this sticky title in mobile can't work
 * [ ] no table border color
@@ -96,4 +96,4 @@ TODO
 <!--* ~~`\$__themes_nico_notebook_ui_Bottombar.tid`-->
 <!--\$__themes_nico_notebook_ui_Topbar.tid~~-->
 
-## [FAQ](https://oeyoew.fun/#FAQ)
+## 🎤 [FAQ](https://oeyoew.fun/#FAQ)
