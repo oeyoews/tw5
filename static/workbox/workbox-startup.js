@@ -41,7 +41,7 @@
                 // but normally the previous service worker will still serve the older
                 // content until all client tabs are closed.
                 // but we have set self.skipWaiting() in the service worker, so just inform user to reload the page to take effect.
-                console.log('New content is available and will be used when after refresh or refetch');
+                console.log('🎁 New content is available and will be used when after refresh or refetch');
 
                 // Execute callback, prepare an info to inform user refresh here.
                 if (config && config.onUpdate) {
