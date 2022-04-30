@@ -15,7 +15,7 @@
           return;
         } else {
           // Is not localhost. Just register service worker
-          console.log('Register service worker');
+          console.log('🔵 Register service worker');
           registerValidSW(swUrl, config);
         }
       });
@@ -26,9 +26,10 @@
     navigator.serviceWorker
       .register(swUrl)
       .then((registration) => {
-        console.log('Service worker is speeding up this wiki.')
+        //console.log('Service worker is speeding up this wiki.')
+        console.log('🟢 Speeding by serviceWorker')
         registration.onupdatefound = () => {
-          console.log('New content is found, prepare to fetch', registration);
+          console.warn('New content is found, prepare to fetch', registration);
           const installingWorker = registration.installing;
           if (installingWorker == null) {
             return;
@@ -87,7 +88,7 @@
         }
       })
       .catch(() => {
-        console.log('No internet connection found. App is running in offline mode.');
+        console.log('🔴 No internet connection found. App is running in offline mode.');
       });
   }
 
