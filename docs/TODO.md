@@ -1,5 +1,6 @@
 # TODO
 
+* how to load local file with plugins
 * adapt all browser for scrollbar
 * not support var function
 * add tw theme like vscode material theme
@@ -26,7 +27,6 @@
 - [ ] todo: idea's gitignore how to work
 - [ ] todo: make google theme
 - [ ] todo: start use emacs, and no use popmenu
-* use devtools add friendly tips, like gitlab console
 * or maybe local test, can use makefile
 * how to config cros problems, use local pwa,
 * pwa message push privailege
@@ -174,3 +174,4 @@
 - [x] fix: remove pwa title
 * [x] use tree intrepet some dires
 * [x] use yarn.lock, this vercel time very fast
+* [x] use devtools add friendly tips, like gitlab console

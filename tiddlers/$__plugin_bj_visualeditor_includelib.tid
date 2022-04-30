@@ -1,11 +1,11 @@
 created: 20220426160411755
 creator: oeyoews
 description: load the external lib
-modified: 20220428020607367
+modified: 20220430163420448
 modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: $:/plugin/bj/visualeditor/includelib
 type: text/vnd.tiddlywiki
 
-<script src="//cdn.ckeditor.com/4.18.0/full/ckeditor.js" defer></script>
+<script src="https://cdn.ckeditor.com/4.18.0/full/ckeditor.js" defer></script>
 
