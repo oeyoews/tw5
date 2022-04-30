@@ -45,6 +45,5 @@ type: text/vnd.tiddlywiki
   <!-- launch image -->
 <link rel="apple-touch-startup-image" href="assets/favicon_maskable_192.png">
 
-
 <!-- use service-worker -->
 <script src="workbox-startup.js"></script>
