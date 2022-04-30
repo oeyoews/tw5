@@ -1,11 +1,11 @@
 created: 20220402131806355
 creator: @oeyoews
-modified: 20220405034736061
-modifier: @oeyoews
+modified: 20220430105431118
+modifier: oeyoews
 tags: [[Style Demo]]
 title: Classdemo
 type: text/vnd.tiddlywiki
 
-<div class="oeyoewsdemocenter">
+<div class="oeyoewdemo">
 This is a demo.
 </div>

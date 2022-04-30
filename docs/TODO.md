@@ -1,5 +1,7 @@
 # TODO
 
+* adapt all browser for scrollbar
+* not support var function
 * add tw theme like vscode material theme
 * use palette to tidy theme color
 * learn yarn all docs
