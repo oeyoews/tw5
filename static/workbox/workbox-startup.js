@@ -29,7 +29,7 @@
         //console.log('Service worker is speeding up this wiki.')
         console.log('🟢 Speeding by serviceWorker')
         registration.onupdatefound = () => {
-          console.warn('New content is found, prepare to fetch', registration);
+          console.log('🍎 New content is found, prepare to fetch', registration);
           const installingWorker = registration.installing;
           if (installingWorker == null) {
             return;
