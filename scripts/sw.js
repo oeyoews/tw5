@@ -1,10 +1,10 @@
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.4/workbox-sw.js');
 
 if (workbox) {
-  console.log(`Yay! oeyoews, Workbox is loaded 🐬🎉🎣 Service Worker is working!`);
-  console.log(`Yay! 🐬🎉🎣`);
+  //console.log(`Yay! oeyoews, Workbox is loaded 🐬🎉🎣 Service Worker is working!`);
+  console.log(`Yay! 🎉🎣 Service Worker is working!`);
 } else {
-  console.warn(`Boo! Workbox didn't load 😬Service Worker won't work properly...`);
+  console.warn(`🧧 Boo! Workbox didn't load 😬Service Worker won't work properly...`);
 }
 
 const { registerRoute } = workbox.routing;
