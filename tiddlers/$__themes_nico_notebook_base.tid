@@ -732,7 +732,8 @@ div.tc-tab-buttons button {
   border-radius: 3px;
   background: unset;
   cursor: pointer;
-  transition: background ease-in .2s;
+  /*transition: background ease-in .2s;*/
+  transition: 80ms cubic-bezier(0.33, 1, 0.68, 1);
   margin: 3px;
 }
 
