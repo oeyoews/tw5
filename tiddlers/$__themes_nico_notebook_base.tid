@@ -803,6 +803,7 @@ div.tc-tab-buttons button.tc-tab-selected {
   border-radius: 3px;
   padding: 10px 0 !important;
   animation: pop .15s ease-in forwards;
+  box-shadow: 1px 5px 5px #0000004d;
 }
 
 .tc-drop-down a, .tc-drop-down button {
