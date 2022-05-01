@@ -7,6 +7,8 @@ yarn test
 # patch for html
 yarn copy@tidpatch
 
+# make sure install
+yarn install
 # add public must before public copy steps for versel(if public else .)
 yarn build
 
