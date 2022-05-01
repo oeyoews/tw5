@@ -1,28 +1,43 @@
 created: 20220501123251815
 creator: oeyoews
-modified: 20220501125408008
+modified: 20220501130828909
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: ToolTip For Home-Fish
 type: text/vnd.tiddlywiki
 
-.home-fish .tooltiptext {
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
     visibility: hidden;
-		width: 300px;
+    width: 200px;
     background-color: black;
     color: cyan;
     text-align: center;
-    border-radius: 16px;
-    padding: 5px;
+    border-radius: 6px;
+    padding: 5px 0;
     position: absolute;
     z-index: 1;
-		font-size: 3rem !important;
+    bottom: 150%;
+    left: 50%;
+    margin-left: -60px;
 }
 
-.home-fish:hover .tooltiptext {
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
     visibility: visible;
-    bottom: 100%;
-    left: 50%; 
-		margin-left: 150px;
 }
-
