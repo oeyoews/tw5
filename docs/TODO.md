@@ -1,5 +1,6 @@
 # TODO
 
+* customize self tooltip replace browser
 * pack workbox plugin(bug: solve sw update problems)
 * how to load local file with plugins
 * adapt all browser for scrollbar
@@ -42,7 +43,7 @@
 - [x] add fish float loop
 - [ ] fix: fix code block for specific type
 - [ ] todo: learn use transition details
-- [ ] fix: use div(maybe) to compute current window location for fishing
+- [ ] fix: use div(maybe) to compute current window location for fishing(may be use js)
 - [ ] feat: use switch button for two palette associate theme
 - [ ] feat: use filter or backdrop-filter come true blur for commandpalette
 - [x] __refactor__: fix like drop down border
