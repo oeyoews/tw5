@@ -1,22 +1,26 @@
 created: 20220421054229882
 creator: oeyoews
-modified: 20220429160703136
+modified: 20220501114950011
 modifier: oeyoews
 tags: $:/tags/RawMarkup
-title: FiraCode and Jetbrains Link
+title: Some Links For Web
 type: text/vnd.tiddlywiki
 
-<!--
+\rules only filteredtranscludeinline transcludeinline macrodef macrocallinline macrocallblock
+
+<!-- 
 <link href="https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/fonts/webfonts/JetBrainsMono-Regular.woff2" rel="text/plain">
 -->
 
-<!-- add modern-normalize 
-now is local(wrong)
-tw is bind it.
+
+<!-- add modern-normalize  now is local(wrong) tw is bind it.
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/modern-normalize@1.1.0/modern-normalize.css">
 -->
+
+<!-- Fonts -->
 
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap" rel="stylesheet">
 
+<link href="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/css/all.css" rel="stylesheet">
