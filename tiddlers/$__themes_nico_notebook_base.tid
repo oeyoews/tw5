@@ -61,7 +61,8 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover {
   /*padding: 2px 5px 3px 4px;*/
 }
 a.tc-tiddlylink:hover {
-  background-color: <<colour page-background>>;
+  /*background-color: <<colour page-background>>;*/
+  background-color: #063d4b;
   color: <<colour tiddler-link-foreground>>;
   /*text-decoration: underline;*/
 }
@@ -688,10 +689,10 @@ pre, code {
   /*padding: 3.5px 3.5px 1px 3.5px;*/
   /*padding: 0.2rem 0.3rem 0.1rem;*/
   /*padding: 2px 6px;*/
-  padding: 5px;
-  margin: 5px;
-  border: 3px solid;
-  border-radius: 5px;
+  padding: 0 5px 0;
+  margin: 0 2px 0;
+  border: 2px solid;
+  border-radius: 2px;
   /*background: #073642;*/
 }
 
