@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# === tolerant
+yarn install
+
+# === Test
 # add test
 # NOTICE: this second test scripts, not conflice parent path
 yarn test
@@ -7,11 +11,10 @@ yarn test
 # patch for html
 yarn copy@tidpatch
 
-# make sure install
-yarn install
 # add public must before public copy steps for versel(if public else .)
 yarn build
 
+# === Vercel
 # public folder and files
 yarn copy@assets
 yarn copy@workbox
