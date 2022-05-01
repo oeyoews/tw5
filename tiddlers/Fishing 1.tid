@@ -3,7 +3,7 @@ color: #b8f316
 created: 20220321161854553
 creator: @oeyoews
 icon: $:/plugins/oflg/fishing/icon
-modified: 20220430171404838
+modified: 20220501015742811
 modifier: oeyoews
 tags: image
 title: Fishing 1
@@ -27,7 +27,8 @@ Click me
 " title="Click me to fish" alt="Fishing" style="zoom: 30%" />
 </div>
 <<image-basic "fishing.png" align:"left">>
+<div class="fa-beat-fade" style="text-align: center;width: 230px;">
 -->
-<div class="fa-beat-fade" style="width: 230px;">
+<div class="fa-beat-fade" style="text-align: center;zoom: 30%;">
 {{fishing.png}}
 </div>
