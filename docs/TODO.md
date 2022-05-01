@@ -12,19 +12,12 @@
 * add vercel status
 * maybe for vercel add signle shellscript and add test time function
 * learn tailwind
-- [ ] todo: use a template for fish tw engwords
-- [ ] todo: use tools make dark and light pictures
-- [ ] todo: use a example site use multi html with manifest to assign start html
-- [ ] todo: embed bilibile video
-- [x] todo: use blur attribut for fishing button
-- [ ] todo: tiny all npm commands
-- [ ] bug: hitikoto bring script error tip
 - [ ] todo: add gource pic
 - [ ] todo: reveal.js slide effects(cubic-bezier function)
 - [ ] todo: like this [wiki](http://jyywiki.cn/OS/2022/slides/1.slides#/3/1/0)
 
-- [ ] todo: learn mariadb privailege for spring(sudo root oeyoews)
-- [ ] todo: use war test for tomcat
+- [x] todo: learn mariadb privailege for spring(sudo root oeyoews)
+- [x] todo: use war test for tomcat
 - [ ] todo: idea's gitignore how to work
 - [ ] todo: make google theme
 - [ ] todo: start use emacs, and no use popmenu
@@ -46,14 +39,14 @@
 - [ ] feat: hove effects for `ctrl p`
 - [ ] feat: use git commit time to replace utc system
 - [ ] feat: add shortkeys for controll (alt i) and jump inbox shortkey
-- [ ] add fish float loop
+- [x] add fish float loop
 - [ ] fix: fix code block for specific type
 - [ ] todo: learn use transition details
 - [ ] fix: use div(maybe) to compute current window location for fishing
 - [ ] feat: use switch button for two palette associate theme
 - [ ] feat: use filter or backdrop-filter come true blur for commandpalette
-- [ ] __refactor__: fix like drop down border
-- [ ] __refactor__: resolve this shine color, maybe can same for tid bg and div bg
+- [x] __refactor__: fix like drop down border
+- [x] __refactor__: resolve this shine color, maybe can same for tid bg and div bg
 - [ ] __refactor__: all stylesheet
 
 <!--- current palette and theme not support others-->
@@ -71,16 +64,9 @@
 - [ ] feat: adjust backlink btn style like fishing btn
 - [ ] feat: change fontawesome icon color
 - [ ] feat: change fold to right
-- [ ] feat: hide some private tiddlers
-- [ ] fix: fix mouse hover
 - [ ] bug: notebook reveal mousehover have some bug(part show)
-- [ ] bug: heatmap and calendar have some performance with jump specific tiddler
-- [ ] bug: fix add padding for link is conflict dropdown results
 - [ ] fix: drated ui config
 - [ ] fix: only no refresh hitoko
-- [ ] fix: fontawesome 16 not support in mobilephone(may be is font's problem)
-- [ ] fix: fix fcalendar tooltip
-- [ ] fix: sticky config page too long no warp in iphonese
 - [ ] fix: better sticky square box
 - [ ] todo: add elint for package.json (comma error)
 - [ ] feat: add main app icon link linonetwo in phone
@@ -176,3 +162,17 @@
 * [x] use tree intrepet some dires
 * [x] use yarn.lock, this vercel time very fast
 * [x] use devtools add friendly tips, like gitlab console
+- [x] todo: use blur attribut for fishing button
+- [x] bug: heatmap and calendar have some performance with jump specific tiddler
+- [x] feat: hide some private tiddlers
+- [x] fix: fix mouse hover
+- [x] bug: fix add padding for link is conflict dropdown results
+- [x] fix: fontawesome 16 not support in mobilephone(may be is font's problem)
+- [x] fix: fix fcalendar tooltip
+- [x] fix: sticky config page too long no warp in iphonese
+- [x] todo: use a template for fish tw engwords
+- [x] todo: use tools make dark and light pictures
+- [x] todo: use a example site use multi html with manifest to assign start html
+- [x] todo: embed bilibile video
+- [x] todo: tiny all npm commands
+- [x] bug: hitikoto bring script error tip
