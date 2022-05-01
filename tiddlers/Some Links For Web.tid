@@ -1,12 +1,10 @@
 created: 20220421054229882
 creator: oeyoews
-modified: 20220501114950011
+modified: 20220501115154471
 modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: Some Links For Web
 type: text/vnd.tiddlywiki
-
-\rules only filteredtranscludeinline transcludeinline macrodef macrocallinline macrocallblock
 
 <!-- 
 <link href="https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/fonts/webfonts/JetBrainsMono-Regular.woff2" rel="text/plain">
