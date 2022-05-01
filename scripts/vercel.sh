@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-# === tolerant
-yarn install
+# === tolerant for not vercel(not exe yarn automatically)
+#yarn install
 
 # === Test
 # add test
