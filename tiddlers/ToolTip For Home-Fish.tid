@@ -1,6 +1,6 @@
 created: 20220501123251815
 creator: oeyoews
-modified: 20220501130828909
+modified: 20220501133437032
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: ToolTip For Home-Fish
@@ -9,12 +9,11 @@ type: text/vnd.tiddlywiki
 .tooltip {
     position: relative;
     display: inline-block;
-    border-bottom: 1px dotted black;
 }
 
 .tooltip .tooltiptext {
     visibility: hidden;
-    width: 200px;
+    width: 120;
     background-color: black;
     color: cyan;
     text-align: center;
