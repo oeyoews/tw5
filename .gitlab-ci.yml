@@ -2,16 +2,15 @@ stages:
   - test
   - deploy
 
-test:
+.test:
   script:
     echo Hello
 
-.deploy:
+deploy:
   image: node:latest
   stage: deploy
   script:
-    - yarn install
-    - yarn clean && yarn devbuild && yarn copy
+    - yarn build@vercel
 
   artifacts:
     #enabled: false
@@ -20,7 +19,8 @@ test:
     expire_in: 20 minutes
 
   only:
-    - main
+    #- main
+      - tags
 
   cache:
     paths:
