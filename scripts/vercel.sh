@@ -6,7 +6,7 @@
 # === Test
 # add test
 # NOTICE: this second test scripts, not conflice parent path
-yarn test
+#yarn test
 
 # patch for html
 yarn copy@tidpatch
