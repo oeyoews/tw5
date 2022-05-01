@@ -1,27 +1,27 @@
-#stages:
-  #- test
-  #- deploy
+stages:
+  - test
+  - deploy
 
-#.test:
-  #script:
-    #echo Hello
+test:
+  script:
+    echo Hello
 
-#deploy:
-  #image: node:latest
-  #stage: deploy
-  #script:
-    #- yarn build@vercel
+.deploy:
+  image: node:latest
+  stage: deploy
+  script:
+    - yarn build@vercel
 
-  #artifacts:
-    ##enabled: false
-    #paths:
-      #- public
-    #expire_in: 20 minutes
+  artifacts:
+    #enabled: false
+    paths:
+      - public
+    expire_in: 20 minutes
 
-  #only:
-    ##- main
-      #- tags
+  only:
+    #- main
+      - tags
 
-  #cache:
-    #paths:
-      #- node_modules
+  cache:
+    paths:
+      - node_modules
