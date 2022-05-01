@@ -412,12 +412,14 @@ h1.tc-site-title {
   text-align: left;
   padding: 8px 15px;
   border-radius: 3px;
-  margin-left: 5px;
+  /*margin-left: 5px;*/
 }
 
 /*@oeyoews*/
 .nc-sidebar .section:not(.open) .label:hover {
-  background: #073642;
+  /*background: #073642;*/
+  background: cyan;
+  outline: 1px solid cyan;
 }
 
 .nc-sidebar .section.open .label {
