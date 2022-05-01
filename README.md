@@ -13,9 +13,9 @@
   * [🍍 Features](#-features)
   * [🐧 Linux](#-linux)
     * [🦹 Service](#-service)
-  * [Run](#run)
-  * [Platform](#platform)
-  * [APK](#apk)
+  * [☔ Run](#-run)
+  * [🪐 Platform](#-platform)
+  * [🍏 APK](#-apk)
   * [PWA](#pwa)
     * [motivate](#motivate)
   * [🌪️ TODO](#-todo)
@@ -64,7 +64,7 @@
 * systemctl start xxx.service
 * systemctl enable xxx.service
 
-## Run
+## ☔ Run
 
 > like this
 
@@ -75,9 +75,9 @@
 > NOTE: if you use npm run dev &, only use npm run dev again ,
 > and ctrl c to exit this node program
 
-## [Platform](./docs/Platform.md)
+## 🪐 [Platform](./docs/Platform.md)
 
-## [APK](https://gitlab.com/xxx)
+## 🍏 [APK](https://gitlab.com/xxx)
 
 ## PWA
 
