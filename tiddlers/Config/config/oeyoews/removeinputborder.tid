@@ -1,7 +1,7 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220429143045012
+modified: 20220501010611620
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/removeinputborder
@@ -17,6 +17,7 @@ type: text/vnd.tiddlywiki
 <!-- fix link button drop -->
 .tc-drop-down .tc-tab-buttons button.tc-tab-selected {
     background-color: #32b4c3;
+		box-shadow: 1px 5px 5px #0000004d;
 }
 
 <!-- fix plugin button -->
@@ -76,6 +77,7 @@ type: text/vnd.tiddlywiki
 	background: none;
 	margin-left: 5px;
 	font-size: 14px;
+	box-shadow: 1px 5px 5px #0000004d;
 }
 
 .py-tabs.tc-tab-buttons button.tc-tab-selected {
@@ -177,6 +179,8 @@ blockquote {
     margin-left: 5px;
     padding-left: 10px;
     quotes: "\201C""\201D""\2018""\2019";
+		box-shadow: 1px 5px 5px #0000004d;
+		
 }
 
 .tc-edit-tags {
@@ -206,6 +210,7 @@ div.tc-tiddler-frame {
     white-space: nowrap;
     text-shadow: none;
     line-height: 1.4;
+		box-shadow: 1px 5px 5px #0000004d;
 }
 
 .tc-block-dropdown {
@@ -218,6 +223,7 @@ div.tc-tiddler-frame {
     white-space: nowrap;
     z-index: 1000;
     text-shadow: none;
+		box-shadow: 1px 5px 5px #0000004d;
 }
 
 .CodeMirror {

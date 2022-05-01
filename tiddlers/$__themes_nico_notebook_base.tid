@@ -272,6 +272,7 @@ h1.tc-site-title {
   width: 300px;
   border: 0;
   /*box-shadow: 0 0 6px 0 rgba(0,0,0,.2);*/
+  box-shadow: 1px 5px 5px #0000004d;
   border-radius: 3px;
   padding: 10px;
   /*transition: all ease-in-out .2s;*/
@@ -297,6 +298,7 @@ h1.tc-site-title {
 .nc-bar .tc-block-dropdown {
   max-height: 70vh;
   overflow: auto;
+  box-shadow: 1px 5px 5px #0000004d;
 }
 
 @media (max-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {
@@ -685,7 +687,7 @@ pre, code {
   /*padding: 0.2rem 0.3rem 0.1rem;*/
   padding: 2px 6px;
   margin: 5px;
-  border: 0px;
+  border: 1px solid;
   background: #073642;
   /*background: linear-gradient(19deg,<<colour code-background>>, #183075);*/
 }
