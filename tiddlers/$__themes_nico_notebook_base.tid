@@ -419,7 +419,7 @@ h1.tc-site-title {
 .nc-sidebar .section:not(.open) .label:hover {
   /*background: #073642;*/
   background: cyan;
-  outline: 1px solid cyan;
+  /*outline: 1px solid cyan;*/
 }
 
 .nc-sidebar .section.open .label {
