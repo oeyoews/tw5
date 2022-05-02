@@ -1,25 +1,28 @@
 ## Demo
 
-<div style="text-align: center">
-<p>pc</p>
-<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/pc2.png" title="img" alt="img" style="zoom: 100%" width=512 />
-</div>
+<style>
+div  {
+  text-align: center;
+  }
 
-<!--<div style="text-align: center">-->
-<!--<p>mobile</p>-->
-<!--<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/mobpfishing.jpeg" title="img" alt="img" style="zoom: 100%" width=512/>-->
-<!--</div>-->
+img {
+  border-radius: 5px;
+  border: 5px solid cyan;
+  box-shadow: 1px 5px 5px #0000004d;
+  width: 512px;
+  }
+</style>
+
+<!-- === -->
+
+<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/pc2.png">
+<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/consolefishing.png">
 
 ## DependencyGraph
 
-<div style="text-align: center">
-<p> tw5graph2</p>
-<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/tw5graph2.png" width=512 title="img" alt="img" width=512 style="zoom: 100%" />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/tw5graph2.png">
 
 ## ProjectStructure
 
-<div style="text-align: center">
 <p> FileTreeGraph</p>
-<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/filetreegraph2.png" title="img" alt="img" width=512 style="zoom: 80%" />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/oeyoews/img/filetreegraph2.png">
