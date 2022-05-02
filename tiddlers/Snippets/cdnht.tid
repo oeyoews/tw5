@@ -1,15 +1,12 @@
 caption: html show your img center
 created: 20220209174404269
 creator: oeyoews
-modified: 20220313115613901
-modifier: @oeyoews
+modified: 20220502165833565
+modifier: oeyoews
 tags: $:/tags/TextEditor/Snippet
 title: cdnht
 type: text/vnd.tiddlywiki
 
-<div style="text-align: center">
-<p> 
-</p>
-<img src="https://cdn.jsDelivr.net/gh/oeyoews/img/$1.png
-" title="img" alt="img" style="zoom: 100%" />
+<div class="oimg">
+<img src="https://cdn.jsDelivr.net/gh/oeyoews/img/$1.png"/>
 </div>
