@@ -1,10 +1,14 @@
 created: 20220406044003393
 creator: @oeyoews
-modified: 20220406045429350
-modifier: @oeyoews
+modified: 20220502165039456
+modifier: oeyoews
 tags: docs
 title: FAQ
 type: text/vnd.tiddlywiki
+
+<div>
+<img style="border-radius: 5px; border: 5px solid cyan;width: 256px;" src="https://cdn.jsDelivr.net/gh/oeyoews/img/consolefishing.png">
+</div>
 
  <<alert primary "wait
  " width:100%>>
