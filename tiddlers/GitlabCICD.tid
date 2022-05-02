@@ -1,9 +1,10 @@
 created: 20220501172624413
 creator: oeyoews
-modified: 20220501173057803
+modified: 20220502011404457
 modifier: oeyoews
 tags: config
 title: GitlabCICD
 type: text/vnd.tiddlywiki
 
 <a href="https://gitlab.com/oeyoews/tw5/-/commits/tw6" target="_blank"><img alt="CI/CD status" src="https://gitlab.com/oeyoews/tw5/badges/tw6/pipeline.svg" /></a>
+<a href="https://gitlab.com/oeyoews/tw5/-/releases" target="_blank"><img alt="Latest Release" src="https://gitlab.com/oeyoews/tw5/-/badges/release.svg" /></a>

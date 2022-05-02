@@ -1,3 +1,6 @@
+<a href="https://gitlab.com/oeyoews/tw5/-/commits/tw6" target="_blank"><img alt="CI/CD status" src="https://gitlab.com/oeyoews/tw5/badges/tw6/pipeline.svg" /></a>
+<a href="https://gitlab.com/oeyoews/tw5/-/releases" target="_blank"><img alt="Latest Release" src="https://gitlab.com/oeyoews/tw5/-/badges/release.svg" /></a>
+
 <div style="text-align: left;background: #f6f8fa; border-radius: 3px;float:none; display: inline-block; padding: 4px;">
 
 <details>
@@ -28,9 +31,11 @@
 
 </div>
 
+
 # 🕐 UpdateTime
 
 2022-04-29T11:20:06
+
 
 ## 🐢 Tips
 
