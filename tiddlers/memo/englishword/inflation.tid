@@ -1,17 +1,17 @@
 created: 20220222112119865
 creator: oeyoews
 difficulty: 1
-due: 20220423012432152
-grade: 1
-history: [{"due":"20220303064146274","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064146274"}]
-interval: 3
+due: 20221205011736631
+grade: 2
+history: [{"due":"20220303064146274","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064146274"},{"due":"20220423012432152","interval":3,"difficulty":1,"stability":48.60974728794028,"retrievability":0.05273732312238567,"grade":1,"lapses":0,"reps":2,"review":"20220305012432152"}]
+interval: 58
 lapses: 0
-modified: 20220311044418212
-modifier: @oeyoews
-reps: 2
-retrievability: 0.05273732312238567
-review: 20220305012432152
-stability: 48.60974728794028
+modified: 20220502011736631
+modifier: oeyoews
+reps: 3
+retrievability: 0.8818673124614724
+review: 20220502011736630
+stability: 216.80150657009725
 tags: EnglishWord ?
 title: inflation
 type: text/vnd.tiddlywiki

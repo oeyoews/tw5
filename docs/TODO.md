@@ -1,5 +1,6 @@
 # TODO
 
+* cycle fish image by css
 * customize self tooltip replace browser
 * pack workbox plugin(bug: solve sw update problems)
 * how to load local file with plugins
@@ -71,7 +72,7 @@
 - [ ] fix: better sticky square box
 - [ ] todo: add elint for package.json (comma error)
 - [ ] feat: add main app icon link linonetwo in phone
-- [ ] fix: move some special *.png to dragimage
+- [x] fix: move some special *.png to dragimage
 - [ ] fix: fix local markup tiddler to require sw.js
 - [ ] todo: use another monkeyscript to backup
 - [ ] todo: add dropstyle to some extrnal link
