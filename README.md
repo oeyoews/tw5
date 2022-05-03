@@ -53,7 +53,7 @@
 <!--bug: gitlab not support style-->
 ## 🚁 Gallery
 
-* [Fishin Gallery](https://oeyoew.fun/#Fishing%20Gallary:%5B%5BFishing%20Gallary%5D%5D%20Fisherman)
+* <a href="https://oeyoew.fun/#Fishing%20Gallary:%5B%5BFishing%20Gallary%5D%5D%20Fisherman" target="_blank">Demo2</a>
 
 ## 🗽 [RelatedSoftwares](docs/RelatedSoftwares.md)
 
