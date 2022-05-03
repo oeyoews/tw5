@@ -24,8 +24,19 @@ type: text/vnd.tiddlywiki
 <!-- add author -->
 <meta name="author" content="oeyoews">
 
-<!-- hitokoto -->
+<!-- hitokoto
 <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+-->
+<script>
+export default {
+  setup() {
+    // mounted
+    onMounted(() => {
+      loadScript('https://v1.hitokoto.cn/?encode=js&select=%23hitokoto').catch(e => console.log('load failed') // loadScript 是一个伪代码，用于异步加载 script
+    })
+  }
+}
+</script>
 
 <!-- add theme-color -->
 <meta name="theme-color" content="#073642"/>
