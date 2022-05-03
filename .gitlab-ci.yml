@@ -1,7 +1,7 @@
 stages:
-  - GitlabPages
+  - gitlabPages
 
-GitlabPages:
+gitlabPages:
   image: node:latest
   stage: deploy
   script:
