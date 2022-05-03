@@ -1,6 +1,6 @@
 created: 20220410033448432
 creator: @oeyoews
-modified: 20220503123130979
+modified: 20220503123205549
 modifier: oeyoews
 tags: config
 title: FLink
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 <!-- <span class="tooltiptext">test</spqn> <i style="color: #ffc022;" class="fab fa-d-and-d"></i> -->
 
 <div style="user-select: none">
-❓ [[FAQ]]
+🍐 [[FAQ]]
 🌈 [[Fishing Gallary]]
 </div>
