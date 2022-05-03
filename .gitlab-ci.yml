@@ -19,8 +19,7 @@ test:
     expire_in: 20 minutes
 
   only:
-    #- dev
-    tags:
+    - tags
 
   cache:
     paths:
