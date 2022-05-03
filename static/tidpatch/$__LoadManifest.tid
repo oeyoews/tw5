@@ -27,7 +27,7 @@ type: text/vnd.tiddlywiki
 <!-- hitokoto
 <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
 -->
-<script>
+<script type="module">
 export default {
   setup() {
     // mounted
