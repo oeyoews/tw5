@@ -1,5 +1,6 @@
 # TODO
 
+* fix rem in micro too large
 * cycle fish image by css
 * customize self tooltip replace browser
 * pack workbox plugin(bug: solve sw update problems)
