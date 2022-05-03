@@ -50,6 +50,7 @@
 * <a href="https://www.bilibili.com/video/BV1NT4y1e7WM?share_source=copy_web" target="_blank">Demo</a>
 * <a href="https://www.bilibili.com/video/BV1NT4y1e7WM?share_source=copy_web" target="_blank">Demo2</a>
 
+<!--bug: gitlab not support style-->
 ## 🚁 [Gallery](docs/Gallery.md)
 
 ## 🗽 [RelatedSoftwares](docs/RelatedSoftwares.md)

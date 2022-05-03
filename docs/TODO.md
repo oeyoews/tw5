@@ -1,5 +1,6 @@
 # TODO
 
+* add macro for img style
 * fix rem in micro too large
 * cycle fish image by css
 * customize self tooltip replace browser
