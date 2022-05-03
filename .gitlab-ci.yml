@@ -20,7 +20,7 @@ test:
 
   only:
     #- dev
-    - tags
+    tags:
 
   cache:
     paths:
