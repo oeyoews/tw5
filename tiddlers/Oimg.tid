@@ -1,15 +1,19 @@
 created: 20220502165631475
 creator: oeyoews
-modified: 20220502170356036
+modified: 20220503073211936
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: Oimg
 type: text/vnd.tiddlywiki
 
-.oimg {
+.ocenter {
 	text-align: center;
+}
+
+.oimg {
 	border-radius: 5px;
 	border: 5px solid cyan;
 	width: 256px;
 	margin: 5px;
+	box-shadow: 1px 5px 5px #0000004d;
 }
