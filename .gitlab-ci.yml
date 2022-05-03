@@ -1,12 +1,12 @@
 stages:
   - test
-  - Deploy GitlabPages
+  - GitlabPages
 
 .test:
   script:
     echo Hello
 
-Deploy GitlabPages:
+GitlabPages:
   image: node:latest
   stage: deploy
   script:
