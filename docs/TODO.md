@@ -1,5 +1,6 @@
 # TODO
 
+* hitoko bug: no home, another page, will have page error tips
 * add macro for img style
 * fix rem in micro too large
 * cycle fish image by css
