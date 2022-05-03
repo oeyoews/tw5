@@ -182,3 +182,4 @@
 - [x] todo: embed bilibile video
 - [x] todo: tiny all npm commands
 - [x] bug: hitikoto bring script error tip
+* [?] gitlab ci name must use deploy?
