@@ -1,9 +1,9 @@
 created: 20220410033448432
 creator: @oeyoews
-modified: 20220501133510919
+modified: 20220503073355811
 modifier: oeyoews
 tags: config
-title: FaqLink
+title: FLink
 type: text/vnd.tiddlywiki
 
 <!--
@@ -11,6 +11,7 @@ type: text/vnd.tiddlywiki
 <i style="color: #ffc022;" class="fab fa-d-and-d"></i>
 -->
 
-<div style="display: inline-block; font-style: italic; text-decoration: underline; font-weight: bold;user-select: none">
+<div style="display: inline-block; font-style: italic; text-decoration: none; font-weight: bold;user-select: none">
 [[FAQ]]
+[[Fishing Gallary]]
 </div>
