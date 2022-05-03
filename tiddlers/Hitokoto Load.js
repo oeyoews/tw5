@@ -1,11 +1,3 @@
-created: 20220503100907298
-creator: oeyoews
-modified: 20220503101230813
-modifier: oeyoews
-tags: $:/tags/RawMarkup
-title: Hitokoto Load
-type: text/vnd.tiddlywiki
-
 <!--
 <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
 -->
