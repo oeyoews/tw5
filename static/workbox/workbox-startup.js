@@ -15,7 +15,7 @@
           return;
         } else {
           // Is not localhost. Just register service worker
-          console.log('🔵 Register service worker');
+          console.log('🔵 Register service worker 👷');
           registerValidSW(swUrl, config);
         }
       });
@@ -27,7 +27,7 @@
       .register(swUrl)
       .then((registration) => {
         //console.log('Service worker is speeding up this wiki.')
-        console.log('🟢 Speeding by serviceWorker')
+        console.log('🟢 Speeding by serviceWorker 🏍️')
         registration.onupdatefound = () => {
           console.log('🍎 New content is found, prepare to fetch', registration);
           const installingWorker = registration.installing;
