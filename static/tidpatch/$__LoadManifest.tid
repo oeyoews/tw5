@@ -25,7 +25,7 @@ type: text/vnd.tiddlywiki
 <meta name="author" content="oeyoews">
 
 <!-- hitokoto -->
-<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" ></script>
+<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
 
 <!-- add theme-color -->
 <meta name="theme-color" content="#073642"/>

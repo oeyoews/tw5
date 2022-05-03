@@ -2,7 +2,7 @@ color: #b8f316
 created: 20220323065821053
 creator: @oeyoews
 icon: FishFont
-modified: 20220503075633472
+modified: 20220503075732968
 modifier: oeyoews
 tags: 
 title: Fisherman
@@ -10,5 +10,7 @@ type: text/vnd.tiddlywiki
 
 {{GitlabCICD}}
 {{$:/config/oeyoews/subtitle}}
-{{Fish}}{{$:/config/oeyoews/subtitlefooter}}
+{{Fish}}
+<hr>
 {{FLink}}
+{{$:/config/oeyoews/subtitlefooter}}
