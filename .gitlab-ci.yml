@@ -1,10 +1,5 @@
 stages:
-  - test
   - GitlabPages
-
-.test:
-  script:
-    echo Hello
 
 GitlabPages:
   image: node:latest
