@@ -1,17 +1,14 @@
 created: 20220410033448432
 creator: @oeyoews
-modified: 20220503073355811
+modified: 20220503112915696
 modifier: oeyoews
 tags: config
 title: FLink
 type: text/vnd.tiddlywiki
 
-<!--
-<span class="tooltiptext">test</spqn>
-<i style="color: #ffc022;" class="fab fa-d-and-d"></i>
--->
+<!-- <span class="tooltiptext">test</spqn> <i style="color: #ffc022;" class="fab fa-d-and-d"></i> -->
 
-<div style="display: inline-block; font-style: italic; text-decoration: none; font-weight: bold;user-select: none">
-[[FAQ]]
-[[Fishing Gallary]]
+<div style="user-select: none">
+❓ [[FAQ]]
+🌃 [[Fishing Gallary]]
 </div>

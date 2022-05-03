@@ -1,0 +1,13 @@
+created: 20220501172624413
+creator: oeyoews
+modified: 20220503114009203
+modifier: oeyoews
+tags: config
+title: GitlabCICD
+type: text/vnd.tiddlywiki
+
+<!-- gitlab ci/cd -->
+<a href="https://gitlab.com/oeyoews/tw5/-/commits/tw6" target="_blank"><img alt="CI/CD status" src="https://gitlab.com/oeyoews/tw5/badges/tw6/pipeline.svg" /></a>
+<a href="https://gitlab.com/oeyoews/tw5/-/releases" target="_blank"><img alt="Latest Release" src="https://gitlab.com/oeyoews/tw5/-/badges/release.svg" /></a>
+<!-- jsdelivr -->
+<a href="https://www.jsdelivr.com/package/gh/oeyoews/img" target="_blank"><img alt="status" src="https://data.jsdelivr.com/v1/package/gh/oeyoews/img/badge" /></a>
