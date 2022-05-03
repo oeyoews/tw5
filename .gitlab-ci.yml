@@ -2,7 +2,7 @@ stages:
   - test
   - deploy
 
-test:
+.test:
   script:
     echo Hello
 
