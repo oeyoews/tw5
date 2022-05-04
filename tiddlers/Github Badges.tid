@@ -1,0 +1,11 @@
+created: 20220504114739980
+creator: oeyoews
+modified: 20220504114825541
+modifier: oeyoews
+tags: config
+title: Github Badges
+type: text/vnd.tiddlywiki
+
+<!-- img.shield.io -->
+<a href="https://github.com/oeyoews/TiddlyWiki5/blob/tw6/LICENCE"><img alt="GitHub license" src="https://img.shields.io/github/license/oeyoews/TiddlyWiki5?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/oeyoews/TiddlyWiki5/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/oeyoews/TiddlyWiki5?style=for-the-badge&logo=git"></a>
