@@ -41,7 +41,7 @@ type: text/vnd.tiddlywiki
   <!-- launch title -->
 <meta name="apple-mobile-web-app-title" content="FishForYou">
   <!-- launch image -->
-<link rel="apple-touch-startup-image" href="assets/favicon_maskable_192.png">
+<link rel="apple-touch-startup-image" href="assets/favicon_maskable_58.png">
 
 <!-- use service-worker -->
 <script src="workbox-startup.js"></script>
