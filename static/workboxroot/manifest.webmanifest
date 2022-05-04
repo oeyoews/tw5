@@ -17,7 +17,7 @@
       "url": "index.html",
       "icons": [
         {
-          "src": "assets/dot.png",
+          "src": "/dot.png",
           "sizes": "512x512",
           "type": "image/png"
         }
@@ -26,13 +26,13 @@
    ],
   "icons": [
     {
-      "src": "assets/maskable-icon-128x128.png",
+      "src": "/maskable-icon-128x128.png",
       "sizes": "128x128",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "assets/favicon-512x512.png",
+      "src": "/favicon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
