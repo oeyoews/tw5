@@ -29,17 +29,17 @@ cd $TEST || exit
 echo $PWD
 echo 🔥 enter testdir
 
-# TODO: if have subwiki delete
+# TODO: if have subwiki delete add judge
 rm -rf tiddlers/subwiki
 
-rm -rf static/tidpatch/*
+rm -rf static/tiddlerspatch/*
 # TODO: try to optimize this command
-touch static/tidpatch/fix.tid
+touch static/tiddlerspatch/fix.tid
 echo 💊  remove subwiki contents
 
 # patch for html
 # yarn copy@tidpatch
-cp static/tidpatch/* tiddlers/
+cp static/tiddlerspatch/* tiddlers/ || exit
 
 # add public must before public copy steps for versel(if public else .)
 #yarn use package, so this alias is no effect
@@ -51,7 +51,7 @@ echo '🗂️ Generated new public folder'
 # public folder and files
 #yarn copy@assets
 # TODO: add adjust statement
-cp -r assets public
+cp -r assets public || exit
 
 tree -L 1 public
 

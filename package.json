@@ -7,10 +7,10 @@
   "license": "MIT",
   "scripts": {
     "build@vercel": "bash scripts/vercel.sh",
-    "copy@tidpatch": "cp static/tidpatch/* tiddlers/",
+    "copy@tidpatch": "cp static/tiddlerspatch/* tiddlers/",
     "build": "rm -rf public && tiddlywiki --output public --build index",
     "copy@assets": "cp -r assets public",
-    "copy@workbox": "cp static/workbox/* public",
+    "copy@workbox": "cp static/workboxroot/* public",
     "workbox@inje": "workbox injectManifest scripts/workbox-config.js ",
     "visual@files": "tree -L 1 public",
     "test": "bash scripts/test.sh",
