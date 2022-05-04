@@ -31,7 +31,7 @@ type: text/vnd.tiddlywiki
 <!-- === apple === -->
 <!-- https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html -->
   <!-- fix apple-touch-icon and add description -->
-<link rel="apple-touch-icon" href="assets/maskable-icon-180.png"/>
+<link rel="apple-touch-icon" href="assets/apple-touch-icon-180x180.png"/>
   <!-- Hiding Safari User Interface Components -->
 <meta name="apple-mobile-web-app-capable" content="yes">
   <!-- Changing the Status Bar Appearance -->
@@ -41,7 +41,7 @@ type: text/vnd.tiddlywiki
   <!-- launch title -->
 <meta name="apple-mobile-web-app-title" content="FishForYou">
   <!-- launch image -->
-<link rel="apple-touch-startup-image" href="assets/maskable-icon-180.png">
+<link rel="apple-touch-startup-image" href="assets/apple-touch-icon-180x180.png">
 
 <!-- use service-worker -->
 <script src="workbox-startup.js"></script>
