@@ -1,7 +1,7 @@
 caption: Subtitle Template
 created: 20210611015734693
 creator: @oeyoews
-modified: 20220423102842098
+modified: 20220504162111349
 modifier: oeyoews
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/subtitle
@@ -12,11 +12,11 @@ type: text/vnd.tiddlywiki
 <$reveal type="nomatch" stateTitle=<<folded-state>> text="hide" tag="div" retain="yes" animate="yes">
 <div class="tc-subtitle">
 <$list filter="[all[current]has[modifier]]">
-<i class="fas fa-bounce fa-user" style="color: cyan"/>&ensp; 
+<i class="fas fa-user" style="color: cyan"/>&ensp; 
 <$view field="modifier"/> &ensp; &ensp;
 </$list>
 <$list filter="[all[current]has[created]]">
-<i class="fa fa-shake fa-history" style="color: #49fd17"/>&ensp;Created &nbsp;<$view field="created" format="date" template="YYYY-0MM-0DD"/> &ensp; &ensp;
+<i class="fa fa-history" style="color: #49fd17"/>&ensp;Created &nbsp;<$view field="created" format="date" template="YYYY-0MM-0DD"/> &ensp; &ensp;
 </$list>
 <$list filter="[all[current]has[modified]]">
 <i class="fa fa-fade fa-clock" style="color: yellow"/>&ensp;Updated &nbsp;<$view field="modified" format="date" template="YYYY-0MM-0DD 0hh:0mm:0ss" />&ensp; &ensp;
