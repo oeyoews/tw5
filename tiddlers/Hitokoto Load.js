@@ -1,7 +1,7 @@
-<!--
+<!-- -->
 <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
--->
-<!-- 现代写法，推荐(不支持 IE) -->
+<!-- 现代写法，推荐(不支持 IE) 
+	first load will have competition although no popup error
 <script>
   fetch('https://v1.hitokoto.cn')
     .then(response => response.json())
@@ -12,3 +12,4 @@
     })
     .catch(console.error)
 </script>
+-->
