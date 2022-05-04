@@ -1,5 +1,6 @@
 # TODO
 
+* how to usse fontawesome unicode
 * add clipboard for codesnippets
 * add macro for img style
 * fix rem in micro too large
