@@ -1,0 +1,9 @@
+created: 20220504060246740
+creator: oeyoews
+modified: 20220504060255025
+modifier: oeyoews
+tags: temp
+title: Temp
+type: text/vnd.tiddlywiki
+
+`git clone -b nvim https://github.com/AdamWhittingham/vim-config.git ~/.config/nvim`
