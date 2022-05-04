@@ -18,7 +18,6 @@ yarn build
 
 # === Vercel
 # public folder and files
-yarn copy@assets
 yarn copy@workbox
 
 # copy scripts/sw.js to public

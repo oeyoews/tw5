@@ -49,7 +49,6 @@ tiddlywiki --output public --build index >/tmp/output.log 2>&1
 echo '🗂️ Generated new public folder'
 
 # public folder and files
-#yarn copy@assets
 # TODO: add adjust statement
 cp -r assets public || exit
 
