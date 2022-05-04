@@ -1,5 +1,6 @@
 # TODO
 
+* add clipboard for codesnippets
 * use shield.io
 * add macro for img style
 * fix rem in micro too large
