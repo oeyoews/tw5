@@ -199,7 +199,7 @@ div.tc-tiddler-frame {
 
 /** main title font size */
 h1.tc-site-title {
-  margin: -14px !important;
+  margin: -4px 0 -14px 0 !important;
   font-size: 1em !important;
   text-align: center;
   margin: -14px 0;
