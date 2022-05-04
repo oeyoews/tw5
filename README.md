@@ -94,6 +94,8 @@
 
 ## PWA
 
+* use 192(maybe it is maskable, in ios is normal)
+
 ### motivate
 
 TODO
