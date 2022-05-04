@@ -26,8 +26,8 @@
    ],
   "icons": [
     {
-      "src": "assets/maskable-icon-128.png",
-      "sizes": "128x128",
+      "src": "assets/maskable-icon-58.png",
+      "sizes": "58x58",
       "type": "image/png",
       "purpose": "any"
     },
