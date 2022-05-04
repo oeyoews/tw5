@@ -12,7 +12,7 @@
     "copy@assets": "cp -r assets public",
     "copy@workbox": "cp static/workboxroot/* public",
     "workbox@inje": "workbox injectManifest scripts/workbox-config.js ",
-    "visual@files": "tree -L 1 public",
+    "visual@public": "tree -L 1 public",
     "test": "bash scripts/test.sh",
     "start": "tiddlywiki  --listen port=8080"
   },
