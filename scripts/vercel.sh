@@ -25,7 +25,7 @@ yarn workbox@inje
 yarn visual@files
 
 # TODO: how to add failed flag
-echo 🎉🎣 Vercel build success
+echo 🎉 Vercel build success 🎣
 #echo 🕑 `date`
 echo -e "\033[51;36m
 ███████╗███╗   ██╗██████╗
