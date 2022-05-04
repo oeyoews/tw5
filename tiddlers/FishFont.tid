@@ -1,9 +1,9 @@
 created: 20220423103656289
 creator: oeyoews
-modified: 20220423103911773
+modified: 20220504115629229
 modifier: oeyoews
 tags: [[Font Awesome 5]]
 title: FishFont
 type: text/vnd.tiddlywiki
 
-<i style="color: cyan" class="fa-shake fa-solid fa-fish-fins"></i>
+<i style="color: yellow" class="fa fa-solid fa-fish-fins"></i>

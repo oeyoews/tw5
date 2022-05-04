@@ -1,6 +1,6 @@
 created: 20220410033448432
 creator: @oeyoews
-modified: 20220504115346250
+modified: 20220504120035915
 modifier: oeyoews
 tags: config
 title: FLink
@@ -11,9 +11,6 @@ type: text/vnd.tiddlywiki
 <div style="user-select: none">
 🍐 [[FAQ]]
 🌈 [[Gallary|Fishing Gallary]]
-
-<i class="fa-brands fa-github"></i>
-[[Readme|GithubReadme]]
-<i class="fa-brands fa-gitlab"></i>
-[[Status|GitlabCICD]]
+🖥️ [[Readme|GithubReadme]]
+🍓 [[Status|GitlabCICD]]
 </div>
