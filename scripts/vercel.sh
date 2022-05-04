@@ -3,6 +3,8 @@
 # === tolerant for not vercel(not exe yarn automatically)
 #yarn install
 
+yarn clean
+
 # === Test
 # add test
 # NOTICE: this second test scripts, not conflice parent path
