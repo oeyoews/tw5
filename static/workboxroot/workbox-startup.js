@@ -9,7 +9,7 @@
   function register(config) {
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        const swUrl = 'sw.js';
+        const swUrl = 'service-worker.js';
 
         if (isLocalhost) {
           return;

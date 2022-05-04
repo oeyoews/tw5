@@ -1,8 +1,6 @@
 # TODO
 
 * use shield.io
-* [wait] hitoko bug: no home, another page, will have page error tips
-  * https://github.com/hitokoto-osc/hitokoto-api/issues/393
 * add macro for img style
 * fix rem in micro too large
 * cycle fish image by css
@@ -184,3 +182,6 @@
 - [x] todo: tiny all npm commands
 - [x] bug: hitikoto bring script error tip
 * [?] gitlab ci name must use deploy?
+* [x] hitoko bug: no home, another page, will have page error tips
+  * https://github.com/hitokoto-osc/hitokoto-api/issues/393
+  > use another api, maybe no popup error for tw
