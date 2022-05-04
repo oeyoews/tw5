@@ -1,4 +1,4 @@
-<!-- -->
+<!-- no link jump-->
 <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
 <!-- 现代写法，推荐(不支持 IE) 
 	first load will have competition although no popup error
