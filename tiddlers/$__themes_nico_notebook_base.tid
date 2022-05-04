@@ -199,8 +199,10 @@ div.tc-tiddler-frame {
 
 /** main title font size */
 h1.tc-site-title {
-  margin-top: 14px;
-  font-size: 1.5em !important;
+  margin: -14px !important;
+  font-size: 1em !important;
+  text-align: center;
+  margin: -14px 0;
 }
 
 .nc-bar {
@@ -700,7 +702,7 @@ pre, code {
 /*@oeyoews*/
   /*tiddler title size*/
 .tc-titlebar, .tc-site-title {
-  font-size: 24px !important;
+  font-size: 28px !important;
   line-height: 34px !important;
   font-weight: 600 !important;
   letter-spacing: -0.5px !important;

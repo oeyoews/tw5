@@ -1,11 +1,16 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220501131832795
+modified: 20220504234314020
 modifier: oeyoews
 tags: $:/tags/Stylesheet
-title: $:/config/oeyoews/removeinputborder
+title: $:/config/oeyoews/customstylesheet
 type: text/vnd.tiddlywiki
+
+.tc-titlebar h2 {
+    font-size: 1.5rem;
+    display: inline;
+}
 
 .tc-plugin-info-dropdown {
     border: 3px solid #93a1a1;
