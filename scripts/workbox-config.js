@@ -6,6 +6,6 @@ module.exports = {
   ],
   //"skipWaiting": true,
   //"clientsClaim": true,
-  "swDest": "./public/sw.js",
-  "swSrc": "./scripts/sw.js"
+  "swDest": "./public/service-worker.js",
+  "swSrc": "./scripts/service-worker.js"
 };
