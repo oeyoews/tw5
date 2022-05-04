@@ -1,0 +1,25 @@
+created: 20220504175710018
+creator: oeyoews
+modified: 20220504175758162
+modifier: oeyoews
+tags: pwa
+title: untitled 84
+type: text/vnd.tiddlywiki
+
+```
+"shortcuts": [
+    {
+      "name": "Hello",
+      "short_name": "Hello",
+      "description": "hello webpage",
+      "url": "index.html",
+      "icons": [
+        {
+          "src": "/dot.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ]
+    }
+   ],
+```

@@ -9,21 +9,6 @@
   "background_color": "#073642",
   "lang": "en-US",
   "orientation": "any",
-  "shortcuts": [
-    {
-      "name": "Hello",
-      "short_name": "Hello",
-      "description": "hello webpage",
-      "url": "index.html",
-      "icons": [
-        {
-          "src": "/dot.png",
-          "sizes": "512x512",
-          "type": "image/png"
-        }
-      ]
-    }
-   ],
   "icons": [
     {
       "src": "/maskable-icon-128x128.png",
