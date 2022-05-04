@@ -1,9 +1,9 @@
 created: 20220423152138162
 creator: oeyoews
-modified: 20220423152417158
+modified: 20220504180202340
 modifier: oeyoews
 tags: [[Font Awesome 5]]
 title: Circle
 type: text/vnd.tiddlywiki
 
-<i style="color: cyan" class="fa-fade fa-solid fa-arrows-to-circle"></i>
+<i style="color: cyan" class="fa-solid fa-arrows-to-circle"></i>

@@ -2,7 +2,7 @@ caption: {{$:/core/images/close-others-button}} {{$:/language/Buttons/CloseOther
 created: 20220305084346967
 creator: oeyoews
 description: {{$:/language/Buttons/CloseOthers/Hint}}
-modified: 20220423152345901
+modified: 20220504180221702
 modifier: oeyoews
 tags: $:/tags/ViewToolbar
 title: $:/core/ui/Buttons/close-others
@@ -11,10 +11,10 @@ type: text/vnd.tiddlywiki
 \whitespace trim
 <$button message="tm-close-other-tiddlers" param=<<currentTiddler>> tooltip={{$:/language/Buttons/CloseOthers/Hint}} aria-label={{$:/language/Buttons/CloseOthers/Caption}} class=<<tv-config-toolbar-class>>>
 <$list filter="[<tv-config-toolbar-icons>match[yes]]">
-<!--
 {{$:/images/bootstrap/asterisk}}
--->
+<!--
 {{Circle}}
+-->
 </$list>
 <$list filter="[<tv-config-toolbar-text>match[yes]]">
 <span class="tc-btn-text">
