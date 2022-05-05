@@ -1,5 +1,6 @@
 # TODO
 
+* gitlab remove pages, how restore
 * change a series of favicon
   https://www.flaticon.com/search?word=fishing&color=gradient&order_by=4
 * learn vuepress pwa and make plugin for tw5

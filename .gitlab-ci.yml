@@ -14,7 +14,6 @@ deploy:
     expire_in: 20 minutes
 
   only:
-    - tags
     - tw6
 
   cache:
