@@ -1,9 +1,7 @@
 # TODO
 
 * colorful console banner
-* use small icon(for apple it is optional)
 * add close others for alt e
-* change a series of favicon
   https://www.flaticon.com/search?word=fishing&color=gradient&order_by=4
 * learn vuepress pwa and make plugin for tw5
   https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-pwa
@@ -199,3 +197,5 @@
 * [x] creat new favicon like dot.png
 * [x] gitlab remove pages, how restore
   https://v2.vuepress.vuejs.org/guide/deployment.html#gitlab-pages
+* [x] use small icon(for apple it is optional)
+* [x] change a series of favicon
