@@ -1,6 +1,6 @@
 # TODO
 
-* creat new favicon like dot.png
+* change a series of favicon
   https://www.flaticon.com/search?word=fishing&color=gradient&order_by=4
 * learn vuepress pwa and make plugin for tw5
   https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-pwa
@@ -192,3 +192,4 @@
   * https://github.com/hitokoto-osc/hitokoto-api/issues/393
   > use another api, maybe no popup error for tw
 * [x] use shield.io
+* [x] creat new favicon like dot.png
