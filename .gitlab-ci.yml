@@ -3,7 +3,7 @@ image: node:latest
 pages:
   only:
     #- tags
-    - tw6
+    - main
 
   script:
     - yarn build@vercel
