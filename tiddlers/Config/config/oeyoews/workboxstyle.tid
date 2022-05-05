@@ -1,6 +1,6 @@
 created: 20220425075919716
 creator: oeyoews
-modified: 20220425075955942
+modified: 20220505012300038
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/workboxstyle
@@ -11,12 +11,12 @@ type: text/vnd.tiddlywiki
     position: absolute;
     bottom: 10px;
     right: 5px;
-    background: wheat;
     z-index: 9999;
-    cursor: alias;
+    cursor: pointer;
 		border-radius: 3px;
 		background: cyan;
 		color: #071b09;
+		box-shadow: 1px 5px 5p #0000004d;
   }
   .ask-user-reload-close {
     padding: 5px;

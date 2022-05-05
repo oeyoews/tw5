@@ -1,5 +1,6 @@
 # TODO
 
+* learn vuepress pwa
 * try to update github readme
 * how to usse fontawesome unicode
 * add clipboard for codesnippets
