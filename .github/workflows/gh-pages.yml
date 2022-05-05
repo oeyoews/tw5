@@ -3,9 +3,9 @@ name: Deploy Tiddlywiki To Github Pages
 on:
   push:
     branches:
-      - main
+      - tw6
     tags:
-      #- v*
+      - '*'
 
 jobs:
   deploy:
