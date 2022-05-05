@@ -1,6 +1,3 @@
-stages:
-  - deploy
-
 deploy:
   image: node:latest
   stage: deploy
@@ -14,8 +11,12 @@ deploy:
     expire_in: 20 minutes
 
 pages:
+  - deploy
+
+stages:
   only:
-    - tags
+    #- tags
+    - tw6
 
   cache:
     paths:

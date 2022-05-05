@@ -1,6 +1,5 @@
 # TODO
 
-* gitlab remove pages, how restore
 * change a series of favicon
   https://www.flaticon.com/search?word=fishing&color=gradient&order_by=4
 * learn vuepress pwa and make plugin for tw5
@@ -195,3 +194,5 @@
   > use another api, maybe no popup error for tw
 * [x] use shield.io
 * [x] creat new favicon like dot.png
+* [x] gitlab remove pages, how restore
+  https://v2.vuepress.vuejs.org/guide/deployment.html#gitlab-pages
