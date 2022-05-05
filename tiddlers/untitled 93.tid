@@ -1,0 +1,15 @@
+created: 20220505153105909
+creator: oeyoews
+modified: 20220505153221042
+modifier: oeyoews
+tags: 
+title: untitled 93
+type: text/vnd.tiddlywiki
+
+    span {
+        background: linear-gradient(to right, red, blue);
+        -webkit-background-clip: text;
+        color: transparent;
+    }
+
+        <span>前端简单说</span>
