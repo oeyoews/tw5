@@ -1,6 +1,6 @@
 created: 20220425075919716
 creator: oeyoews
-modified: 20220505022229303
+modified: 20220505135341197
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/popupwindowstyle
@@ -28,7 +28,7 @@ type: text/vnd.tiddlywiki
     z-index: 9999;
     cursor: pointer;
 		border-radius: 3px;
-		background: cyan;
+		background: yellow;
 		color: #071b09;
 		box-shadow: 1px 5px 5px #0000004d;
   }
