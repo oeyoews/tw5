@@ -1,5 +1,6 @@
 # TODO
 
+* use small icon(for apple it is optional)
 * add close others for alt e
 * change a series of favicon
   https://www.flaticon.com/search?word=fishing&color=gradient&order_by=4
