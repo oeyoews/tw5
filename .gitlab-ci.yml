@@ -15,6 +15,7 @@ deploy:
 
   only:
     - tags
+    - tw6
 
   cache:
     paths:
