@@ -1,6 +1,4 @@
-pages:
-
-  stages:
+stages:
   - deploy
 
 deploy:
@@ -15,6 +13,7 @@ deploy:
       - public
     expire_in: 20 minutes
 
+pages:
   only:
     - tags
 
