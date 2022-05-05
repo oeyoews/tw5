@@ -1,4 +1,5 @@
 <script>
+/* https://juejin.cn/post/6913554505841770509 */
 let	oinfo = `Welcom to Fishing!`
 var res = `
 ███████╗██╗███████╗██╗  ██╗██╗███╗   ██╗ ██████╗
@@ -9,6 +10,13 @@ var res = `
 ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝
 						==> Powered by @oeyoews
 `
+
+console.log(
+  "%c  ",
+  `background: url(https://oeyoew.fun/favicon.png) no-repeat;
+  font-size:30px;
+  line-height: 500px`
+)
 
 console.log(`\n%c${res}`, "color: cyan;font-size: 14px;font-family: JetBrains Mono;")
 
