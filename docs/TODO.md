@@ -1,6 +1,9 @@
 # TODO
 
-* learn vuepress pwa
+* creat new favicon like dot.png
+  https://www.flaticon.com/search?word=fishing&color=gradient&order_by=4
+* learn vuepress pwa and make plugin for tw5
+  https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-pwa
 * try to update github readme
 * how to usse fontawesome unicode
 * add clipboard for codesnippets
