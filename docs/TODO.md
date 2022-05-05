@@ -22,7 +22,8 @@
 * how to update yarn.lock (by scripts)
 * add vercel status
 * maybe for vercel add signle shellscript and add test time function
-* learn tailwind
+* learn tailwind and windicss
+  https://cn.windicss.org/guide/extractions.html
 - [ ] todo: add gource pic
 - [ ] todo: reveal.js slide effects(cubic-bezier function)
 - [ ] todo: like this [wiki](http://jyywiki.cn/OS/2022/slides/1.slides#/3/1/0)
