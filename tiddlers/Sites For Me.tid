@@ -1,11 +1,11 @@
 created: 20220505063228834
 creator: oeyoews
-modified: 20220505063322695
+modified: 20220505081209286
 modifier: oeyoews
 tags: config
 title: Sites For Me
 type: text/vnd.tiddlywiki
 
 [[slidev7|https://slidev7.vercel.app]]
-
-[[]]
+<hr>
+<a href="https://gitlab.com/oeyoews/slidev7/-/commits/main"><img alt="pipeline status" src="https://gitlab.com/oeyoews/slidev7/badges/main/pipeline.svg" /></a>
