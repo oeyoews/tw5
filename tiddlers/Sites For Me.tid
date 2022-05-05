@@ -1,11 +1,28 @@
 created: 20220505063228834
 creator: oeyoews
-modified: 20220505081209286
+modified: 20220505084950306
 modifier: oeyoews
 tags: config
 title: Sites For Me
 type: text/vnd.tiddlywiki
 
 [[slidev7|https://slidev7.vercel.app]]
-<hr>
 <a href="https://gitlab.com/oeyoews/slidev7/-/commits/main"><img alt="pipeline status" src="https://gitlab.com/oeyoews/slidev7/badges/main/pipeline.svg" /></a>
+
+---
+
+[[revealjs|https://revealdoc.vercel.app]]
+<a href="https://gitlab.com/oeyoews/revealdoc/-/commits/main"><img alt="pipeline status" src="https://gitlab.com/oeyoews/revealdoc/badges/main/pipeline.svg" /></a>
+
+
+---
+[[main|https://oeyoews.fun]]
+<!-- jsdelivr -->
+<a href="https://www.jsdelivr.com/package/gh/oeyoews/img" target="_blank"><img alt="status" src="https://data.jsdelivr.com/v1/package/gh/oeyoews/img/badge" /></a>
+<!-- gitlab ci/cd -->
+<a href="https://gitlab.com/oeyoews/tw5/-/commits/tw6" target="_blank"><img alt="CI/CD status" src="https://gitlab.com/oeyoews/tw5/badges/tw6/pipeline.svg" /></a>
+<a href="https://gitlab.com/oeyoews/tw5/-/releases" target="_blank"><img alt="Latest Release" src="https://gitlab.com/oeyoews/tw5/-/badges/release.svg" /></a>
+
+---
+[[vuepress|https://vues.vercel.app]]
+<a href="https://gitlab.com/oeyoews/vuepressblog/-/commits/dev"><img alt="pipeline status" src="https://gitlab.com/oeyoews/vuepressblog/badges/dev/pipeline.svg" /></a>
