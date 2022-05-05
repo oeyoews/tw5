@@ -1,6 +1,10 @@
-deploy:
-  image: node:latest
-  stage: deploy
+image: node:latest
+
+pages:
+  only:
+    #- tags
+    - tw6
+
   script:
     - yarn build@vercel
 
@@ -10,13 +14,6 @@ deploy:
       - public
     expire_in: 20 minutes
 
-pages:
-  - deploy
-
-stages:
-  only:
-    #- tags
-    - tw6
 
   cache:
     paths:
