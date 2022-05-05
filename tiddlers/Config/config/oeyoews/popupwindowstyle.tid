@@ -1,11 +1,12 @@
 created: 20220425075919716
 creator: oeyoews
-modified: 20220505012300038
+modified: 20220505022229303
 modifier: oeyoews
 tags: $:/tags/Stylesheet
-title: $:/config/oeyoews/workboxstyle
+title: $:/config/oeyoews/popupwindowstyle
 type: text/vnd.tiddlywiki
 
+<!-- todo tidy merge -->
 .ask-user-reload {
     padding: 25px;
     position: absolute;
@@ -16,7 +17,20 @@ type: text/vnd.tiddlywiki
 		border-radius: 3px;
 		background: cyan;
 		color: #071b09;
-		box-shadow: 1px 5px 5p #0000004d;
+		box-shadow: 1px 5px 5px #0000004d;
+  }
+	
+.ask-user-reload:hover {
+    padding: 25px;
+    position: absolute;
+    bottom: 10px;
+    right: 5px;
+    z-index: 9999;
+    cursor: pointer;
+		border-radius: 3px;
+		background: cyan;
+		color: #071b09;
+		box-shadow: 1px 5px 5px #0000004d;
   }
   .ask-user-reload-close {
     padding: 5px;
