@@ -14,7 +14,7 @@ deploy:
     expire_in: 20 minutes
 
   only:
-    - tw6
+    - tags
 
   cache:
     paths:
