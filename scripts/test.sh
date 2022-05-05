@@ -22,7 +22,7 @@ rm -rf $TEST && mkdir $TEST || exit
 echo 🎉 Testing: creat new test directory
 
 # cp current to temp
-cp -r assets scripts tiddlers static package.json *.info $TEST || exit
+cp -r  scripts tiddlers static package.json *.info $TEST || exit
 echo 🐶  cp some folder
 
 cd $TEST || exit
@@ -50,7 +50,7 @@ echo '🗂️ Generated new public folder'
 
 # public folder and files
 # TODO: add adjust statement
-cp -r assets public || exit
+#cp -r assets public || exit
 
 tree -L 1 public
 
