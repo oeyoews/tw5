@@ -1,12 +1,13 @@
 created: 20220410033448432
 creator: @oeyoews
-modified: 20220505125256946
+modified: 20220505145952736
 modifier: oeyoews
 tags: config
 title: FLink
 type: text/vnd.tiddlywiki
 
-<!-- <span class="tooltiptext">test</spqn> <i style="color: #ffc022;" class="fab fa-d-and-d"></i> -->
+<!-- <span class="tooltiptext">test</spqn> <i style="color: #ffc022;" class="fab fa-d-and-d"></i> 🐦 
+-->
 
 <div style="user-select: none">
 🛰️ [[Sites|Sites For Me]]
@@ -16,8 +17,6 @@ type: text/vnd.tiddlywiki
 &nbsp;
 🖥️ [[Readme|GithubReadme]] 
 &nbsp;
-🍓 
-&nbsp;
-🐦 [[Favicon|$:/favicon.ico]]
+🍓 [[Favicon|$:/favicon.ico]]
 | <a href="https://gitlab.com/oeyoews/tw5/" target="_blank"><i style="color: cyan;" class="fab fa-shake fa-gitlab"></i></a>
 </div>

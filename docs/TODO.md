@@ -1,5 +1,6 @@
 # TODO
 
+* colorful console banner
 * use small icon(for apple it is optional)
 * add close others for alt e
 * change a series of favicon

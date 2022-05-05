@@ -2,7 +2,7 @@ name: Deploy Tiddlywiki To Github Pages
 
 on:
   push:
-    #branches:
+    branches:
       - main
     #tags:
       #- '*'
