@@ -421,8 +421,8 @@ h1.tc-site-title {
 /*@oeyoews*/
 .nc-sidebar .section:not(.open) .label:hover {
   /*background: #073642;*/
-  /*background: cyan;*/
   /*outline: 1px solid cyan;*/
+  background: linear-gradient(to left, #5972d9, transparent);
 }
 
 .nc-sidebar .section.open .label {
