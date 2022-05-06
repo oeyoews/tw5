@@ -1,17 +1,17 @@
 created: 20220222111206499
 creator: oeyoews
-difficulty: 1
-due: 20220423014949737
+difficulty: 1.0742546517484615
+due: 20221212171816060
 grade: 1
-history: [{"due":"20220303064106768","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064106768"}]
-interval: 3
+history: [{"due":"20220303064106768","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064106768"},{"due":"20220423014949737","interval":3,"difficulty":1,"stability":48.60974728794028,"retrievability":0.05273732312238567,"grade":1,"lapses":0,"reps":2,"review":"20220305014949737"}]
+interval: 62
 lapses: 0
-modified: 20220311044418223
-modifier: @oeyoews
-reps: 2
-retrievability: 0.05273732312238567
-review: 20220305014949737
-stability: 48.60974728794028
+modified: 20220506171816060
+modifier: oeyoews
+reps: 3
+retrievability: 0.8742546517484614
+review: 20220506171816059
+stability: 219.54755996293903
 tags: EnglishWord ?
 title: range
 type: text/vnd.tiddlywiki

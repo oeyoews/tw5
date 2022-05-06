@@ -1,5 +1,6 @@
 # TODO
 
+* learn use figma
 * 跑马灯实现(codepen.io examples)
 * colorful console banner
 * add close others for alt e
