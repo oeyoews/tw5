@@ -1,6 +1,6 @@
 created: 20220425075919716
 creator: oeyoews
-modified: 20220505135341197
+modified: 20220506140423731
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/popupwindowstyle
@@ -16,6 +16,7 @@ type: text/vnd.tiddlywiki
     cursor: pointer;
 		border-radius: 3px;
 		background: cyan;
+		background: linear-gradient(317deg, #cfff07, transparent);
 		color: #071b09;
 		box-shadow: 1px 5px 5px #0000004d;
   }
@@ -28,7 +29,7 @@ type: text/vnd.tiddlywiki
     z-index: 9999;
     cursor: pointer;
 		border-radius: 3px;
-		background: yellow;
+		background: linear-gradient(116deg, #28a745, transparent);
 		color: #071b09;
 		box-shadow: 1px 5px 5px #0000004d;
   }

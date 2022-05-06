@@ -1,6 +1,5 @@
 # TODO
 
-* colorful the service worker color output
 * colorful console banner
 * add close others for alt e
   https://www.flaticon.com/search?word=fishing&color=gradient&order_by=4
@@ -200,3 +199,4 @@
   https://v2.vuepress.vuejs.org/guide/deployment.html#gitlab-pages
 * [x] use small icon(for apple it is optional)
 * [x] change a series of favicon
+* [x] colorful the service worker color output
