@@ -78,7 +78,7 @@ TODO
 ## 🍞 Broken
 
 * [x] jd mobile casue this sticky title in mobile can't work
-* [ ] no table border color
+* [x] no table border color
 
 <!-- ## bug-->
 <!--* ~~`\$__themes_nico_notebook_ui_Bottombar.tid`-->

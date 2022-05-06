@@ -1,7 +1,7 @@
 caption: Fishing Ui
 created: 20220316124815943
 creator: @oeyoews
-modified: 20220506153155099
+modified: 20220506160530409
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/fishingUI
@@ -21,7 +21,7 @@ type: text/vnd.tiddlywiki
 		box-shadow: 1px 1px 5px #0000004d;
 		user-select: none;
 		cursor: pointer !important;
-		transition: 2s;
+		transition: .2s cubic-bezier(.23,1,.32,1), 2s cubic-bezier(.23,1,.32,1),transform .3s cubic-bezier(.23,1,.32,1);
 		<!-- border-bottom: 3px solid; -->
 }
 
