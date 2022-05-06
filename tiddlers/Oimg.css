@@ -1,11 +1,3 @@
-created: 20220502165631475
-creator: oeyoews
-modified: 20220503073211936
-modifier: oeyoews
-tags: $:/tags/Stylesheet
-title: Oimg
-type: text/vnd.tiddlywiki
-
 .ocenter {
 	text-align: center;
 }
@@ -16,4 +8,5 @@ type: text/vnd.tiddlywiki
 	width: 256px;
 	margin: 5px;
 	box-shadow: 1px 5px 5px #0000004d;
+	transition: 2s;
 }
