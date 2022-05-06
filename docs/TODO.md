@@ -1,5 +1,6 @@
 # TODO
 
+* 跑马灯实现(codepen.io examples)
 * colorful console banner
 * add close others for alt e
   https://www.flaticon.com/search?word=fishing&color=gradient&order_by=4
@@ -26,7 +27,6 @@
 * learn tailwind and windicss
   https://cn.windicss.org/guide/extractions.html
 - [ ] todo: add gource pic
-- [ ] todo: reveal.js slide effects(cubic-bezier function)
 - [ ] todo: like this [wiki](http://jyywiki.cn/OS/2022/slides/1.slides#/3/1/0)
 
 - [x] todo: learn mariadb privailege for spring(sudo root oeyoews)
@@ -200,3 +200,4 @@
 * [x] use small icon(for apple it is optional)
 * [x] change a series of favicon
 * [x] colorful the service worker color output
+- [T] todo: reveal.js slide effects(cubic-bezier function)(translateX/Y)
