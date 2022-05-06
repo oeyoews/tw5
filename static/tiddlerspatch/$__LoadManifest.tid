@@ -46,5 +46,8 @@ type: text/vnd.tiddlywiki
   -->
 <link rel="apple-touch-startup-image" href="/apple-touch-icon.png">
 
+<link rel='mask-icon' href='safari-pinned-tag.svg' color='cyan'>
+
+
 <!-- use service-worker -->
 <script src="workbox-startup.js"></script>
