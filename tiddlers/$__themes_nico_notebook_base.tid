@@ -55,7 +55,8 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover {
   border: none;
   text-decoration: none;
   /** hover动画 */
-  transition: opcity ease-in 0s;
+  /*transition: opcity ease-in 0s;*/
+  transition: 0.5s;
   border-radius: 3px;
   /*bug: for search wrong*/
   /*padding: 2px 5px 3px 4px;*/
@@ -96,17 +97,18 @@ button.tc-tag-label, span.tc-tag-label {
   background-color: <<colour tag-background>>;
   color: <<colour foreground>>;
   /** hover动画 */
-  transition: background-color 0.2s;
+  /*transition: background-color 0.2s;*/
   /** 适配长标题作为标签的情况 */
   white-space: normal;
   margin-top: 0.1em;
   margin-bottom: 0.1em;
   /*padding: 0.4em 0.5em 0.2em 0.5em;*/
   padding: 0.4em 0.6em 0.2em;
+  transition: 1s;
 }
 button.tc-tag-label, span.tc-tag-label:hover {
-  /** hover tag color <<colour tag-background-hover>> */
   background-color: none;
+  border-radius: 8px !important;
 }
 
 /**
@@ -667,10 +669,6 @@ button.tc-btn-invisible {
 }
 """>>
 
-/*@oeyoews*/
-button.tc-tag-label, span.tc-tag-label {
-  /*padding: 0.3em 1em !important;*/
-}
 
 /* Fonts */
 
