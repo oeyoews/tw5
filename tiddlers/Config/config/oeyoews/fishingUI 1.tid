@@ -1,10 +1,10 @@
 caption: Fishing Ui
-created: 20220316124815943
-creator: @oeyoews
-modified: 20220506061645342
+created: 20220506055406866
+creator: oeyoews
+modified: 20220506055412447
 modifier: oeyoews
-tags: $:/tags/Stylesheet
-title: $:/config/oeyoews/fishingUI
+tags: 
+title: $:/config/oeyoews/fishingUI 1
 type: text/vnd.tiddlywiki
 
 /* public  */
@@ -21,9 +21,7 @@ type: text/vnd.tiddlywiki
 		box-shadow: 1px 1px 5px #0000004d;
 		user-select: none;
 		cursor: pointer !important;
-		<!--
 		border-bottom: 3px solid;
-		-->
 }
 
 .remember:hover,
@@ -43,65 +41,40 @@ type: text/vnd.tiddlywiki
 
 /*  start  */
 .tc-fishing-learing-grade .learn {
-		<!--
 		color: #0fa60f;
 		background-color: #073642;
-		-->
-		color: black;
-		background: linear-gradient(to top, #4776e6, #8e54e9); 
 }
 
 .tc-fishing-learing-grade .forget{
-		<!--
 		color: #c62828;
 		background-color: #5f1736;
-		background: linear-gradient(to top, #8e0e00, #1f1c18);
-		-->
-		color: #931818;
-		background: linear-gradient(to top, #ff512f, #dd2476);
 }
 
 .tc-fishing-learing-grade .remember{
-		<!--
 		color: #0fa10f;
 		background-color: #084111;
-		-->
-		color: #147814;
-		background: linear-gradient(to top, #a8ff78, #78ffd6);
 }
 
 .tc-fishing-learing-grade .grasp{
-		<!--
 		color: #d2d217;
 		background-color: #71851b;
-		-->
-		color: #ebeb07;
-		background:  linear-gradient(to top, #add100, #7b920a);
 }
 
 
 .tc-fishing-learing-grade .forget:hover {
-	<!--
 	background: #6c193d;
-	-->
 	}
 
 .tc-fishing-learing-grade .remember:hover {
-	<!--
 	background: #064c11;
-	-->
 }
 
 .tc-fishing-learing-grade .grasp:hover {
-<!--
 	background: #819d0c;
-	-->
 }
 
 .tc-fishing-learing-grade .learn:hover {
-	<!--
 	background: #195c2c;
-	-->
 }
 
 .tc-fishing-learing-count {
@@ -113,5 +86,4 @@ type: text/vnd.tiddlywiki
 		font-style: italic;
 		box-shadow: 1px 1px 5px rgb(0 0 0 / 12%);
 		user-select: none;
-		background: linear-gradient(to top, #2b5876, #4e4376);
 }
