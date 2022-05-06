@@ -44,9 +44,10 @@ type: text/vnd.tiddlywiki
   -->
   <!-- launch image
   -->
+  <!-- https://developer.yoast.com/blog/safari-pinned-tab-icon-mask-icon/ -->
 <link rel="apple-touch-startup-image" href="/apple-touch-icon.png">
 
-<link rel='mask-icon' href='safari-pinned-tag.svg' color='cyan'>
+<link rel='mask-icon' href='safari-pinned-tab.svg' color='cyan'>
 
 
 <!-- use service-worker -->
