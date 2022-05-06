@@ -1,5 +1,6 @@
 # TODO
 
+* colorful the service worker color output
 * colorful console banner
 * add close others for alt e
   https://www.flaticon.com/search?word=fishing&color=gradient&order_by=4

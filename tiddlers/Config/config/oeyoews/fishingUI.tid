@@ -1,7 +1,7 @@
 caption: Fishing Ui
 created: 20220316124815943
 creator: @oeyoews
-modified: 20220506075615114
+modified: 20220506081213521
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/fishingUI
@@ -55,19 +55,20 @@ type: text/vnd.tiddlywiki
 		<!--
 		color: #c62828;
 		background-color: #5f1736;
-		background: linear-gradient(to left, #8e0e00, #1f1c18);
+		background: linear-gradient(45deg, #8e0e00, #1f1c18);
 		-->
 		color: #931818;
-		background: linear-gradient(to left, #ff512f, #dd2476);
+		background: linear-gradient(45deg, #ff512f, #dd2476);
 }
 
 .tc-fishing-learing-grade .remember{
 		<!--
 		color: #0fa10f;
 		background-color: #084111;
+		background: linear-gradient(to left, #a8ff78, #78ffd6);
 		-->
 		color: #147814;
-		background: linear-gradient(to left, #a8ff78, #78ffd6);
+		background: linear-gradient(to right, #dce35b, #45b649);
 }
 
 .tc-fishing-learing-grade .grasp{
@@ -76,7 +77,7 @@ type: text/vnd.tiddlywiki
 		background-color: #71851b;
 		-->
 		color: #ebeb07;
-		background:  linear-gradient(to top, #add100, #7b920a);
+		background:  linear-gradient(to left, #add100, #7b920a);
 }
 
 
