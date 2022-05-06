@@ -1,7 +1,7 @@
 caption: Fishing Ui
 created: 20220316124815943
 creator: @oeyoews
-modified: 20220506081213521
+modified: 20220506142036637
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/fishingUI
@@ -30,9 +30,6 @@ type: text/vnd.tiddlywiki
 .grasp:hover,
 .learn:hover,
 .forget:hover {
-	<!--
-	font-weight: bold;
-	-->
 	font-style: normal;
 	text-decoration: none;
 }
@@ -41,69 +38,46 @@ type: text/vnd.tiddlywiki
 	user-select: none;
 }
 
-/*  start  */
+<!-- /*  learn  */ -->
 .tc-fishing-learing-grade .learn {
-		<!--
-		color: #0fa60f;
-		background-color: #073642;
-		-->
 		color: black;
 		background: linear-gradient(to left, #4776e6, #8e54e9); 
 }
 
-.tc-fishing-learing-grade .forget{
-		<!--
-		color: #c62828;
-		background-color: #5f1736;
-		background: linear-gradient(45deg, #8e0e00, #1f1c18);
-		-->
-		color: #931818;
-		background: linear-gradient(45deg, #ff512f, #dd2476);
+.tc-fishing-learing-grade .learn:hover {
+		background: linear-gradient(to right, #4776e6, #8e54e9); 
 }
 
+<!-- /* forget */ -->
+.tc-fishing-learing-grade .forget{
+		color: #931818;
+		background: linear-gradient(to left, #ff512f, #dd2476);
+}
+
+.tc-fishing-learing-grade .forget:hover {
+		background: linear-gradient(to right, #ff512f, #dd2476);
+	}
+
+<!-- /* remember */ -->
 .tc-fishing-learing-grade .remember{
-		<!--
-		color: #0fa10f;
-		background-color: #084111;
-		background: linear-gradient(to left, #a8ff78, #78ffd6);
-		-->
 		color: #147814;
 		background: linear-gradient(to right, #dce35b, #45b649);
 }
 
-.tc-fishing-learing-grade .grasp{
-		<!--
-		color: #d2d217;
-		background-color: #71851b;
-		-->
-		color: #ebeb07;
-		background:  linear-gradient(to left, #add100, #7b920a);
+.tc-fishing-learing-grade .remember:hover {
+	background: linear-gradient(to left, #dce35b, #45b649);
 }
 
-
-.tc-fishing-learing-grade .forget:hover {
-	<!--
-	background: #6c193d;
-	-->
-	}
-
-.tc-fishing-learing-grade .remember:hover {
-	<!--
-	background: #064c11;
-	-->
+<!-- /* grasp */ -->
+.tc-fishing-learing-grade .grasp{
+	color: #ebeb07;
+	background: linear-gradient(to left, #add100, #7b920a)
 }
 
 .tc-fishing-learing-grade .grasp:hover {
-<!--
-	background: #819d0c;
-	-->
+	background: linear-gradient(to right, #add100, #7b920a)
 }
 
-.tc-fishing-learing-grade .learn:hover {
-	<!--
-	background: #195c2c;
-	-->
-}
 
 .tc-fishing-learing-count {
     color: #5972d9;
