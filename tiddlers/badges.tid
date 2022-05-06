@@ -1,9 +1,9 @@
 created: 20220109145849973
 creator: oeyoews
-modified: 20220505151136248
+modified: 20220506020612081
 modifier: oeyoews
 tags: docs
 title: badges
 type: text/vnd.tiddlywiki
 
-<<dbadge Github "support" success>> <<dbadge npm "TiddlyWiki5" info>>
+<<dbadge Github "support" success>> <<dbadge Npm "TiddlyWiki5" info>>

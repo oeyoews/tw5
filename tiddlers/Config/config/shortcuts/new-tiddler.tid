@@ -1,7 +1,8 @@
 created: 20220107080313213
-modified: 20220310163904067
-modifier: @oeyoews
+creator: oeyoews
+modified: 20220506024624998
+modifier: oeyoews
 title: $:/config/shortcuts/new-tiddler
 type: text/vnd.tiddlywiki
 
-alt-T alt-E
+alt-E
