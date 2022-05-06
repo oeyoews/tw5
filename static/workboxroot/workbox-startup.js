@@ -1,3 +1,7 @@
+/**
+ * how to set variable in console log
+ *
+ */
   const isLocalhost = Boolean(
     window.location.hostname === 'localhost' ||
       // [::1] is the IPv6 localhost address.
@@ -15,7 +19,8 @@
           return;
         } else {
           // Is not localhost. Just register service worker
-          console.log('🔵 Register service worker 👷');
+          //console.log('🔵 Register service worker 👷');
+          console.log("%c🔵 Register service worker 👷", "background: linear-gradient(to right, #dce35b, #45b649); color: black;border-radius: 3px;padding: 3px;")
           registerValidSW(swUrl, config);
         }
       });
@@ -27,9 +32,9 @@
       .register(swUrl)
       .then((registration) => {
         //console.log('Service worker is speeding up this wiki.')
-        console.log('🟢 Speeding by serviceWorker 🏍️')
+        console.log('%c🟢 Speeding by serviceWorker 🏍️',"background: linear-gradient(to right, #dce35b, #45b649); color: black;border-radius: 3px;padding: 3px;" )
         registration.onupdatefound = () => {
-          console.log('🍎 New content is found, prepare to fetch', registration);
+          console.log('%c🍎 New content is found, prepare to fetch', registration);
           const installingWorker = registration.installing;
           if (installingWorker == null) {
             return;
@@ -41,7 +46,7 @@
                 // but normally the previous service worker will still serve the older
                 // content until all client tabs are closed.
                 // but we have set self.skipWaiting() in the service worker, so just inform user to reload the page to take effect.
-                console.log('🎁 New content is available and will be used when after refresh or refetch');
+                console.log('%c🎁 New content is available and will be used when after refresh or refetch', "background: linear-gradient(to right, #dce35b, #45b649); color: black;border-radius: 3px;padding: 3px;");
 
                 // Execute callback, prepare an info to inform user refresh here.
                 if (config && config.onUpdate) {
