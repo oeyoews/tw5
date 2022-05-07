@@ -1,6 +1,6 @@
 created: 20220421054229882
 creator: oeyoews
-modified: 20220507110436274
+modified: 20220507110730451
 modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: Links For Web
@@ -22,5 +22,3 @@ type: text/vnd.tiddlywiki
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap" rel="stylesheet">
 
 <link href="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/css/all.css" rel="stylesheet">
-
- <script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
