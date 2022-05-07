@@ -1,0 +1,24 @@
+created: 20220507103746143
+creator: oeyoews
+modified: 20220507104133970
+modifier: oeyoews
+tags: $:/tags/RawMarkup
+title: Iphone Console
+type: text/vnd.tiddlywiki
+
+<!--
+<script src="https://cdn.bootcss.com/eruda/1.5.8/eruda.min.js"></script>
+	<script>
+	eruda.init();
+	console.log('loading console success');
+	</script>
+-->
+
+<script src="https://cdn.bootcss.com/vConsole/3.2.0/vconsole.min.js"></script>
+<script>
+//初始化一下就可以了，
+let vConsole = new VConsole();
+//你打印的数据 比如
+console.log('test');
+//就可像小程序一样的看了和调试了。
+</script>

@@ -1,18 +1,17 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220507014330676
+modified: 20220507103253242
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/customstylesheet
 type: text/vnd.tiddlywiki
 
-<!--
-.tc-notifiaction {
-	border-radius: 3px;
-	border: 3px solid red;
+.tc-notification {
+	color: black;
+	border-radius: 5px;
+	background: linear-gradient(45deg, #7f7fd5, #86a8e7, #91eae4); 
 }
--->
 
 .tc-message-box {
 	background: linear-gradient(to right, #ff0099, #493240);
