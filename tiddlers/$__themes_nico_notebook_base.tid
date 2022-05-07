@@ -108,7 +108,7 @@ button.tc-tag-label, span.tc-tag-label {
 }
 button.tc-tag-label, span.tc-tag-label:hover {
   background-color: none;
-  border-radius: 8px !important;
+  border-radius: 6px !important;
 }
 
 /**
