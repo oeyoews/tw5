@@ -1,6 +1,6 @@
 created: 20220425075919716
 creator: oeyoews
-modified: 20220506140423731
+modified: 20220507005503489
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/popupwindowstyle
@@ -19,19 +19,11 @@ type: text/vnd.tiddlywiki
 		background: linear-gradient(317deg, #cfff07, transparent);
 		color: #071b09;
 		box-shadow: 1px 5px 5px #0000004d;
+		transition: 1s;
   }
 	
 .ask-user-reload:hover {
-    padding: 25px;
-    position: absolute;
-    bottom: 10px;
-    right: 5px;
-    z-index: 9999;
-    cursor: pointer;
-		border-radius: 3px;
 		background: linear-gradient(116deg, #28a745, transparent);
-		color: #071b09;
-		box-shadow: 1px 5px 5px #0000004d;
   }
   .ask-user-reload-close {
     padding: 5px;

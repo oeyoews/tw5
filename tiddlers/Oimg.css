@@ -8,5 +8,9 @@
 	width: 256px;
 	margin: 5px;
 	box-shadow: 1px 5px 5px #0000004d;
-	transition: 2s;
+	transition: .5s;
+}
+
+.oimg:hover {
+	border: 5px solid yellow;
 }

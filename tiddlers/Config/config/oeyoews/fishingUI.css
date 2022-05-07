@@ -1,3 +1,14 @@
+.tc-message-box {
+	background: linear-gradient(to right, #ff0099, #493240);
+	border: 2px solid red;
+	color: black;
+	transition: 1s;
+}
+
+.tc-improvement-banner {
+	background: linear-gradient(71deg, black, transparent);
+}
+
 /* public  */
 .learn,
 .forget,
