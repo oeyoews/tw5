@@ -2,7 +2,6 @@
 
 * learn use figma
 * 跑马灯实现(codepen.io examples)
-* colorful console banner
 * add close others for alt e
   https://www.flaticon.com/search?word=fishing&color=gradient&order_by=4
 * learn vuepress pwa and make plugin for tw5
@@ -11,7 +10,6 @@
 * how to usse fontawesome unicode
 * add clipboard for codesnippets
 * add macro for img style
-* fix rem in micro too large
 * cycle fish image by css
 * customize self tooltip replace browser
 * pack workbox plugin(bug: solve sw update problems)
@@ -46,7 +44,6 @@
 * learn workbox fetch time settings
   * learn workbox(service worker) mechanism
 * debug ios or chrome in pc(too trouble)
-- [ ] todo: add shortkeys for close-other-tiddler
 - [ ] __git__: use submodule to manage img and tiddler/subwiki
 - [ ] feat: pwa install local with port, not online
 - [ ] feat: add button effects for left menubar
@@ -202,3 +199,6 @@
 * [x] change a series of favicon
 * [x] colorful the service worker color output
 - [T] todo: reveal.js slide effects(cubic-bezier function)(translateX/Y)
+- [x] todo: add shortkeys for close-other-tiddler
+* [x] colorful console banner
+* fix rem in micro too large
