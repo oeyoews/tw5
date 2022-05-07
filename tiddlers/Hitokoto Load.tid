@@ -1,14 +1,14 @@
 created: 20220503100907298
 creator: oeyoews
-modified: 20220507110313572
+modified: 20220507160707892
 modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: Hitokoto Load
 type: text/vnd.tiddlywiki
 
 <!-- no link jump
-<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
 -->
+<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
 
 <!--
 	first load will have competition although no popup error

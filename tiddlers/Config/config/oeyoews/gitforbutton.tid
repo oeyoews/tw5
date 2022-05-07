@@ -3,15 +3,14 @@ created: 20220302124805957
 creator: oeyoews
 des: 
 description: gitfork button
-modified: 20220310163904065
-modifier: @oeyoews
+modified: 20220507161138393
+modifier: oeyoews
 tags: config
 title: $:/config/oeyoews/gitforbutton
 type: text/vnd.tiddlywiki
 
 <$button message="tm-modal" param="" tooltip="fork" class=<<tv-config-toolbar-class>>>
 <$list filter="[<tv-config-toolbar-icons>match[yes]]">
-{{$:/images/coreui-icons/brand/cib-visual-studio-code}}
 </$list>
 <$list filter="[<tv-config-toolbar-text>match[yes]]">
 <span class="tc-btn-text">
@@ -20,5 +19,5 @@ type: text/vnd.tiddlywiki
 </$list>
 </$button>
 
-<div class="github-fork-ribbon-wrapper right-bottom"><div class="github-fork-ribbon"><a href="https://gitlab.com/oeyoews/tw5"><<.icon "$:/images/boxicons/logos/bxl-gitlab">>Gitlab </a></div>
+<div class="github-fork-ribbon-wrapper right-bottom"><div class="github-fork-ribbon"><a href="https://gitlab.com/oeyoews/tw5">Gitlab </a></div>
 </div>
