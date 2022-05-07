@@ -1,0 +1,9 @@
+created: 20220507013240217
+creator: oeyoews
+modified: 20220507013510804
+modifier: oeyoews
+tags: 
+title: untitled 79
+type: text/vnd.tiddlywiki
+
+<$macrocall $name=".example" eg="""demo"""/>
