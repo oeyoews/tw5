@@ -2,7 +2,7 @@ importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.4/workbox
 
 if (workbox) {
   //console.log(`Yay! oeyoews, Workbox is loaded 🐬🎉🎣 Service Worker is working!`);
-  console.log(`Yay! 📣 Service Worker is working! 🎉`);
+  console.log("%c📣 Yay! Service Worker is working! 🎉", "background: linear-gradient(45deg, #dce35b, #45b649); color: black;border-radius: 3px;padding: 3px;")
 } else {
   console.warn(`🧧 Boo! Workbox didn't load 😬Service Worker won't work properly...`);
 }

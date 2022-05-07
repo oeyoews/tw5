@@ -49,6 +49,5 @@ type: text/vnd.tiddlywiki
 
 <link rel='mask-icon' href='safari-pinned-tab.svg' color='cyan'>
 
-
 <!-- use service-worker -->
 <script src="workbox-startup.js"></script>
