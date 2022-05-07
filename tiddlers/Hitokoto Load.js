@@ -1,5 +1,6 @@
-<!-- no link jump-->
+<!-- no link jump
 <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+-->
 
 <!--
 	first load will have competition although no popup error

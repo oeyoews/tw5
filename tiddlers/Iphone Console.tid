@@ -1,6 +1,6 @@
 created: 20220507103746143
 creator: oeyoews
-modified: 20220507104529702
+modified: 20220507110028903
 modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: Iphone Console
@@ -15,8 +15,10 @@ type: text/vnd.tiddlywiki
 -->
 
 <!-- https://blog.csdn.net/zzzili/article/details/121349648 -->
+<!--
 <script src="https://cdn.bootcss.com/vConsole/3.2.0/vconsole.min.js"></script>
 <script>
 // let vConsole = new VConsole();
 // console.log('test');
 </script>
+-->
