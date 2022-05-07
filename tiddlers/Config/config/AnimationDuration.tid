@@ -1,8 +1,8 @@
 created: 20211226090019125
 creator: oeyoews
-modified: 20220409141355304
-modifier: @oeyoews
+modified: 20220507163310869
+modifier: oeyoews
 title: $:/config/AnimationDuration
 type: text/vnd.tiddlywiki
 
-300
+400

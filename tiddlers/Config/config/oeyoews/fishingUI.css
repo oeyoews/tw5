@@ -13,14 +13,13 @@
 		user-select: none;
 		cursor: pointer !important;
 		transition: .2s cubic-bezier(.23,1,.32,1), 2s cubic-bezier(.23,1,.32,1),transform .3s cubic-bezier(.23,1,.32,1);
-		<!-- border-bottom: 3px solid; -->
 }
 
 .remember:hover,
 .grasp:hover,
 .learn:hover,
 .forget:hover {
-	border-radius: 8px !important;
+	border-radius: 6px !important;
 }
 
 .tc-fishing-learing-grade {
