@@ -1,11 +1,10 @@
 created: 20220426160411755
 creator: oeyoews
 description: load the external lib
-modified: 20220507172104406
+modified: 20220507172312272
 modifier: oeyoews
 tags: 
 title: $:/plugin/bj/visualeditor/includelib
 type: text/vnd.tiddlywiki
 
 <script src="https://cdn.ckeditor.com/4.18.0/full/ckeditor.js" defer></script>
-
