@@ -1,5 +1,7 @@
 # TODO
 
+* learn animation
+* how to init busuanzi times and solve setime bug
 * learn use figma
 * 跑马灯实现(codepen.io examples)
 * add close others for alt e
