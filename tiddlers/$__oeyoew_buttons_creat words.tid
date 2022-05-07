@@ -2,7 +2,7 @@ caption: Creat Words
 created: 20220405054941778
 creator: @oeyoews
 description: Creat New Words
-modified: 20220423103211912
+modified: 20220507020836125
 modifier: oeyoews
 tags: $:/tags/PageControls
 title: $:/oeyoew/buttons/creat words
@@ -16,8 +16,7 @@ type: text/vnd.tiddlywiki
 """
 
 """
-<<<
-' tags="EnglishWord"/>
+<<<' tags="EnglishWord"/>
 {{$:/images/fa5/brands/airbnb}}
 <$list filter="[<tv-config-toolbar-text>prefix[yes]]">
 <span class="tc-btn-text"><$text text="Creat Word"/></span>
