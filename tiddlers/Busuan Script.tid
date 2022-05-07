@@ -1,14 +1,19 @@
 created: 20220507110646980
 creator: oeyoews
-modified: 20220507143933867
+modified: 20220507152922689
 modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: Busuan Script
 type: text/vnd.tiddlywiki
 
 <!--
-
  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
  -->
- <!-- 引入js -->
+ 
+ <!-- https://blog.xsot.cn/archives/busuanzi-go.html 
 <script async src="https://busuanzi.9420.ltd/js"></script> 
+ -->
+ 
+ <!-- https://busuanzi.icodeq.com/  
+ <script async src="https://busuanzi.icodeq.com/busuanzi.pure.mini.js"></script>
+ -->
