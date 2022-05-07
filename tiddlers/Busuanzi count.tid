@@ -1,6 +1,6 @@
 created: 20220507095117478
 creator: oeyoews
-modified: 20220507104728883
+modified: 20220507144002769
 modifier: oeyoews
 tags: config
 title: Busuanzi count
@@ -8,7 +8,6 @@ type: text/vnd.tiddlywiki
 
 <!-- https://blog.mikelyou.com/2020/08/18/busuanzi-visitor-counts-and-sitetime/ 
 <span id="sitetime"></span> 
--->
 
 <span id="busuanzi_container_site_uv">
   👤 Total Visitors <span id="busuanzi_value_site_uv"></span> |
@@ -16,3 +15,10 @@ type: text/vnd.tiddlywiki
 <span id="busuanzi_container_site_pv">
   👁️ Total Views <span id="busuanzi_value_site_pv"></span>
 </span>
+
+   <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+-->
+本文总阅读量 <span id="busuanzi_page_pv"></span> 次 
+本文总访客量 <span id="busuanzi_page_uv"></span> 人 
+本站总访问量 <span id="busuanzi_site_pv"></span> 次 
+本站总访客数 <span id="busuanzi_site_uv"></span> 人
