@@ -1,0 +1,18 @@
+created: 20220507095117478
+creator: oeyoews
+modified: 20220507101017457
+modifier: oeyoews
+tags: 
+title: Busuanzi count
+type: text/vnd.tiddlywiki
+
+<!-- https://blog.mikelyou.com/2020/08/18/busuanzi-visitor-counts-and-sitetime/ 
+<span id="sitetime"></span> 
+-->
+
+<span id="busuanzi_container_site_uv">
+  👤 Total Visitors <span id="busuanzi_value_site_uv"></span> |
+</span>
+<span id="busuanzi_container_site_pv">
+  👁️ Total Views <span id="busuanzi_value_site_pv"></span>
+</span>
