@@ -1,11 +1,24 @@
 caption: Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220505091915140
+modified: 20220507010935319
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/customstylesheet
 type: text/vnd.tiddlywiki
+
+.tc-message-box {
+	background: linear-gradient(to right, #ff0099, #493240);
+	border-radius: 3px;
+	border: 2px solid red;
+	color: black;
+	transition: 1s;
+}
+
+.tc-improvement-banner {
+	border-radius: 3px;
+	background: linear-gradient(71deg, black, transparent);
+}
 
 select {
     color: #839496;
@@ -88,39 +101,15 @@ select {
 		margin: 10px;
 		border-radius: 3px;
 		color: black;
+		transition: 1s;
 }
 
 .tc-drafts-list a:hover {
-    padding: 6px 12px;
-    font-weight: normal;
-    display: inline-block;
-    margin: 10px;
-    border-radius: 5px;
-		margin: 10px;
-		border-radius: 3px;
-		color: black;
 		background: cyan;
 }
 
 .tc-page-controls svg.tc-image-new-button {
     fill: #06d511;
-}
-
-.tc-improvement-banner {
-   font-size: 0.7em;
-   background: #073642;
-   padding-left: 5px;
-   margin-top: 6px;
-   margin-bottom: 12px;
-	 border-radius: 3px;
-}
-.tc-message-box {
-	border-radius: 3px;
-	border: 1px solid red;
-	background: none;
-	margin-left: 5px;
-	font-size: 14px;
-	box-shadow: 1px 5px 5px #0000004d;
 }
 
 .py-tabs.tc-tab-buttons button.tc-tab-selected {
@@ -266,6 +255,7 @@ div.tc-tiddler-frame {
     z-index: 1000;
     text-shadow: none;
 		box-shadow: 1px 5px 5px #0000004d;
+		transition: 1s 1s;
 }
 
 .CodeMirror {
@@ -281,11 +271,11 @@ a.tc-tiddlylink.tc-plugin-info:hover {
     background-color: #5972d9;
     color: #073642;
     fill: #839496;
-    border-radius: 3px;
 }
 
 a.tc-tiddlylink.tc-plugin-info {
     border-radius: 3px;
+		transition: .5s;
 }
 
 button.tc-btn-invisible {

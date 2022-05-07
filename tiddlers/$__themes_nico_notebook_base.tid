@@ -56,7 +56,7 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover {
   text-decoration: none;
   /** hover动画 */
   /*transition: opcity ease-in 0s;*/
-  transition: 0.5s;
+  transition: 1s;
   border-radius: 3px;
   /*bug: for search wrong*/
   /*padding: 2px 5px 3px 4px;*/
@@ -197,7 +197,8 @@ div.tc-tiddler-frame {
   /*box-shadow: 0 5px 20px rgba(0,0,0, 0.12);*/
   border-radius: 6px;
   padding: 42px 60px 60px 60px;
-  /*border: 2.5px solid #002b36;*/
+  /*border: 2px solid none;*/
+  transition: .5s;
 }
 
 /** main title font size */
