@@ -1,6 +1,6 @@
 created: 20211001231029099
 creator: Télumire
-modified: 20220508151539013
+modified: 20220508153353743
 modifier: oeyoews
 tagging: after
 tags: $:/TiddlyTweaks $:/footer $:/tags/RawMarkupWikified/BottomBody
@@ -22,6 +22,14 @@ https://tiddlywiki.com/#SystemTag%3A%20%24%3A%2Ftags%2FRawMarkupWikified%2FBotto
 <!-- hitokoto -->
 `<footer id="hitokoto">`
 `</footer>`
+
+`<footer id="busuanzi_container_site_uv">`
+  👤 Total Visitors <span id="busuanzi_value_site_uv">
+`</footer>`
+`<footer id="busuanzi_container_site_pv">`
+  👁️ Total Views <span id="busuanzi_value_site_pv">
+`</footer>`
+
 
 <!-- music -->
 <!-- can't use single with special have popup error tip -->
