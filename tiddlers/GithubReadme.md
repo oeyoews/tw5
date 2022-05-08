@@ -1,4 +1,4 @@
-<img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true"/>
+<img style="border: 3px solid cyan; border-radius: 5px;" src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true"/>
 
 <h1 align="center">Hi 👋, I'm oeyoews</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
