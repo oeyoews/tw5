@@ -4,8 +4,13 @@ display:flex;
 justify-content:center;
 align-items: end;
 z-index:-1;
-min-height:50px;
+min-height:20px;
+max-height:20px;
+background: linear-gradient(135deg, #6aff7a, #2cb9ff);
+border-radius:0px;
+color: black;
 }
+
 
 .tc-body{
 height:100vh;
