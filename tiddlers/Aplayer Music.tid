@@ -1,0 +1,11 @@
+created: 20220508103516236
+creator: oeyoews
+modified: 20220508104438237
+modifier: oeyoews
+tags: 
+title: Aplayer Music
+type: text/vnd.tiddlywiki
+
+<!-- https://www.cnblogs.com/imghu/p/15702701.html -->
+<meting-js id="2144015214" lrc-type="1" server="netease" order="random" type="playlist" fixed="true" list-olded="true">
+</meting-js>

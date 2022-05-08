@@ -1,0 +1,19 @@
+created: 20211001231029099
+creator: Télumire
+modified: 20220508110936784
+modifier: oeyoews
+tagging: after
+tags: $:/TiddlyTweaks $:/footer $:/tags/RawMarkupWikified/BottomBody
+title: $:/footer
+type: text/vnd.tiddlywiki
+
+`<footer>`
+<$list filter="[tag[$:/tags/footer]]">
+
+<$transclude/>
+
+</$list>
+`</footer>`
+
+`<footer style="text-align: right;" id="hitokoto">`
+`</footer>`

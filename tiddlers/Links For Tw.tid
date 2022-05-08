@@ -1,14 +1,14 @@
 created: 20220421054229882
 creator: oeyoews
-modified: 20220507171958667
+modified: 20220508110638042
 modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: Links For Tw
 type: text/vnd.tiddlywiki
 
 <!-- https://github.com/hitokoto-osc/hitokoto-api/issues/393#issuecomment-926607322 
-<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
 -->
+<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
 
 <!-- 
 <link href="https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/fonts/webfonts/JetBrainsMono-Regular.woff2" rel="text/plain">

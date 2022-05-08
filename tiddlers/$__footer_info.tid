@@ -1,0 +1,12 @@
+created: 20211001234323520
+creator: oeyoews
+modified: 20220508110744387
+modifier: oeyoews
+tags: $:/footer $:/tags/footer
+title: $:/footer/info
+type: text/vnd.tiddlywiki
+
+<$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
+<small>Last updated <$view field="modified" format="relativedate"/></small>
+
+</$list>
