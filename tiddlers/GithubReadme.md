@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm oeyoews</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oeyoews&label=Profile%20views&color=0e75b6&style=flat" alt="oeyoews" /> </p>
+## [Welcome](https://oeyoew.fun) 🎣 <a href="https://oeyoew.fun"><img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=Nice+To+Meet+U"></a>
 
 
 
