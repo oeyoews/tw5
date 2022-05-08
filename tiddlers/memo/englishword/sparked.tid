@@ -1,17 +1,17 @@
 created: 20220224011620872
 creator: oeyoews
-difficulty: 1
-due: 20220424054515886
+difficulty: 1.0723617769054339
+due: 20221217011719536
 grade: 1
-history: [{"due":"20220304074901321","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303074901320"}]
-interval: 3
+history: [{"due":"20220304074901321","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303074901320"},{"due":"20220424054515886","interval":3,"difficulty":1,"stability":48.60974728794028,"retrievability":0.05273732312238567,"grade":1,"lapses":0,"reps":2,"review":"20220306054515886"}]
+interval: 63
 lapses: 0
-modified: 20220311044418229
-modifier: @oeyoews
-reps: 2
-retrievability: 0.05273732312238567
-review: 20220306054515886
-stability: 48.60974728794028
+modified: 20220508011719537
+modifier: oeyoews
+reps: 3
+retrievability: 0.8723617769054338
+review: 20220508011719536
+stability: 222.50303373794478
 tags: EnglishWord ?
 title: sparked
 type: text/vnd.tiddlywiki
