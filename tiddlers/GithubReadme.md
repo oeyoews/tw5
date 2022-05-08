@@ -1,30 +1,34 @@
-<img style="border: 3px solid cyan; border-radius: 5px;" src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true"/>
+<a href="https://dream-plan.cn"><img style="width:500px;" class="oimg " src="https://user-images.githubusercontent.com/62864752/155082301-d777c58f-d495-42d7-8dba-59ca844379e7.jpg"></a>
+
+<img class="oimg" style="width: 500px;" src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true"/>
 
 <a href="https://oeyoew.fun">
 <p align="left">
- <img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width="37%"/>
- <img src="https://github-readme-stats.vercel.app/api?username=oeyoews&show_icons=true&theme=radical&&hide_border=true" width="55.5%"/>
+ <img img style="width: 500px;" class="oimg" src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width="37%"/>
+ <img img style="width: 500px;" class="oimg" src="https://github-readme-stats.vercel.app/api?username=oeyoews&show_icons=true&theme=radical&&hide_border=true" width="55.5%"/>
 </p>
 </a>
 
 <h1 align="center">Hi 👋, I'm oeyoews</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-## [Welcome](https://oeyoew.fun) 🎣 <a href="https://oeyoew.fun"><img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=Nice+To+Meet+U"></a>
+## [Welcome to Fishing](https://oeyoew.fun)  
+<a href="https://oeyoew.fun">
+<img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽  Nice+To+Meet+U"></a>
 
 
 
 - 🌱 I’m currently learning **C Python Java go**
 
-- 👨‍💻 All of my projects are available at [https://github.com/oeyoews](https://github.com/oeyoews)
+- 👨‍💻 All of my projects are available at [🌽 oeyoews](https://github.com/oeyoews)
 
-- 📝 I regularly write articles on [https://oeyoew.fun](https://oeyoew.fun)
+- 📝 I regularly write articles on [🌽 oeyoew](https://oeyoew.fun)
 
 - 💬 Ask me about **vue**
 
 - 📫 How to reach me **jyao4783@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/oeyoews](https://github.com/oeyoews)
+- 📄 Know about my experiences [🌽 oeyoews](https://github.com/oeyoews)
 
 - ⚡ Fun fact **I think I am fun**
 
@@ -54,5 +58,3 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-
-<a href="https://dream-plan.cn"><img src="https://user-images.githubusercontent.com/62864752/155082301-d777c58f-d495-42d7-8dba-59ca844379e7.jpg"></a>
