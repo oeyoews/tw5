@@ -79,6 +79,7 @@ TODO
 
 * [x] jd mobile casue this sticky title in mobile can't work
 * [x] no table border color
+* markdown-it wrong with pagecontroller
 
 <!-- ## bug-->
 <!--* ~~`\$__themes_nico_notebook_ui_Bottombar.tid`-->
