@@ -8,17 +8,18 @@ max-height:20px;
 background: linear-gradient(135deg, #6aff7a, #2cb9ff);
 border-radius:0px;
 color: black;
+user-select: none;
 }
 
 
-<!--
+/**
 .tc-body{
 height:100vh;
 display: flex;
 flex-direction: column;
 padding:0;
 }
--->
+*/
 
 footer .inline-icon svg{
 height:1em;
