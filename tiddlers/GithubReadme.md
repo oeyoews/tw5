@@ -1,5 +1,12 @@
 <img style="border: 3px solid cyan; border-radius: 5px;" src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true"/>
 
+<a href="https://oeyoew.fun">
+<p align="left">
+ <img src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width="37%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=oeyoews&show_icons=true&theme=radical&&hide_border=true" width="55.5%"/>
+</p>
+</a>
+
 <h1 align="center">Hi 👋, I'm oeyoews</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
@@ -47,8 +54,5 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oeyoews&show_icons=true&locale=en&layout=compact" alt="oeyoews" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oeyoews" alt="oeyoews" /></a> </p>
 
 <a href="https://dream-plan.cn"><img src="https://user-images.githubusercontent.com/62864752/155082301-d777c58f-d495-42d7-8dba-59ca844379e7.jpg"></a>
