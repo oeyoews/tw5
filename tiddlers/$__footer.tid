@@ -1,6 +1,6 @@
 created: 20211001231029099
 creator: Télumire
-modified: 20220508111813906
+modified: 20220508144725501
 modifier: oeyoews
 tagging: after
 tags: $:/TiddlyTweaks $:/footer $:/tags/RawMarkupWikified/BottomBody
@@ -10,6 +10,7 @@ type: text/vnd.tiddlywiki
 <!-- https://www.telumire.be/TiddlyTweaks/index.html#:%5B%5B%24:/footer%5D%5D 
 https://tiddlywiki.com/#SystemTag%3A%20%24%3A%2Ftags%2FRawMarkupWikified%2FBottomBody
 -->
+
 `<footer>`
 <$list filter="[tag[$:/tags/footer]]">
 
@@ -18,9 +19,11 @@ https://tiddlywiki.com/#SystemTag%3A%20%24%3A%2Ftags%2FRawMarkupWikified%2FBotto
 </$list>
 `</footer>`
 
-`</footer>`
+<!-- hitokoto -->
 `<footer style="text-align: right;" id="hitokoto">`
 `</footer>`
 
+<!-- music -->
+<!-- can't use single with special have popup error tip -->
 `<meting-js id="2144015214" lrc-type="1" server="netease" order="random" type="playlist" fixed="true" list-olded="true">`
 `</meting-js>`
