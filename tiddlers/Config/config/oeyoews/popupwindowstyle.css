@@ -1,11 +1,3 @@
-created: 20220425075919716
-creator: oeyoews
-modified: 20220507005503489
-modifier: oeyoews
-tags: $:/tags/Stylesheet
-title: $:/config/oeyoews/popupwindowstyle
-type: text/vnd.tiddlywiki
-
 <!-- todo tidy merge -->
 .ask-user-reload {
     padding: 25px;
@@ -23,7 +15,7 @@ type: text/vnd.tiddlywiki
   }
 	
 .ask-user-reload:hover {
-		background: linear-gradient(116deg, #28a745, transparent);
+		background: linear-gradient(45deg, #cfff07, transparent);
   }
   .ask-user-reload-close {
     padding: 5px;
