@@ -1,6 +1,6 @@
 created: 20211001231029099
 creator: Télumire
-modified: 20220508144725501
+modified: 20220508150250290
 modifier: oeyoews
 tagging: after
 tags: $:/TiddlyTweaks $:/footer $:/tags/RawMarkupWikified/BottomBody
@@ -20,7 +20,7 @@ https://tiddlywiki.com/#SystemTag%3A%20%24%3A%2Ftags%2FRawMarkupWikified%2FBotto
 `</footer>`
 
 <!-- hitokoto -->
-`<footer style="text-align: right;" id="hitokoto">`
+`<footer style="background: linear-gradient(135deg, #6aff7a, #2cb9ff);border-radius:5px;color: black;margin-bottom: 5px !important;" id="hitokoto">`
 `</footer>`
 
 <!-- music -->
