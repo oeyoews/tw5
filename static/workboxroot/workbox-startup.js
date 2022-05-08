@@ -111,7 +111,8 @@
 
   function informUserToReloadToGetLatestContent() {
     const body = document.querySelector('body');
-    const infoElement = document.createElement('div');
+    //const infoElement = document.createElement('div');
+    const infoElement = document.createElement('footer');
     infoElement.className = 'ask-user-reload';
     infoElement.innerHTML =
       navigator.language === 'zh-CN'
