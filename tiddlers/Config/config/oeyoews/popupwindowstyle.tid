@@ -1,3 +1,11 @@
+created: 20220425075919716
+creator: oeyoews
+modified: 20220508161524684
+modifier: oeyoews
+tags: $:/tags/Stylesheet
+title: $:/config/oeyoews/popupwindowstyle
+type: text/vnd.tiddlywiki
+
 <!-- todo tidy merge -->
 .ask-user-reload {
     padding: 25px;
