@@ -1,6 +1,6 @@
 created: 20220421054229882
 creator: oeyoews
-modified: 20220508110638042
+modified: 20220508142429815
 modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: Links For Tw
@@ -27,3 +27,8 @@ type: text/vnd.tiddlywiki
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap" rel="stylesheet">
 
 <link href="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/css/all.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DIYgod/APlayer/dist/APlayer.min.css">
+<!-- music -->
+	<script src="https://cdn.jsdelivr.net/gh/DIYgod/APlayer/dist/APlayer.min.js defer"></script>
+	<script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js defer"></script>
