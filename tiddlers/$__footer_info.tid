@@ -1,12 +1,14 @@
 created: 20211001234323520
 creator: oeyoews
-modified: 20220508110744387
+modified: 20220508142834131
 modifier: oeyoews
 tags: $:/footer $:/tags/footer
 title: $:/footer/info
 type: text/vnd.tiddlywiki
 
+<!-- have bug 
 <$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
 <small>Last updated <$view field="modified" format="relativedate"/></small>
 
 </$list>
+-->
