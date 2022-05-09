@@ -1,6 +1,6 @@
 created: 20220421054229882
 creator: oeyoews
-modified: 20220509023453865
+modified: 20220509032110379
 modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: Links For Tw
@@ -9,17 +9,6 @@ type: text/vnd.tiddlywiki
 <!-- https://github.com/hitokoto-osc/hitokoto-api/issues/393#issuecomment-926607322 
 <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
 -->
-<!-- hitokoto -->
-<script>
-  fetch('https://v1.hitokoto.cn')
-    .then(response => response.json())
-    .then(data => {
-      const hitokoto = document.getElementById('hitokoto_text')
-      hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
-      hitokoto.innerText = data.hitokoto
-    })
-    .catch(console.error)
-</script>
 
 <!-- 
 <link href="https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/fonts/webfonts/JetBrainsMono-Regular.woff2" rel="text/plain">
@@ -57,3 +46,16 @@ type: text/vnd.tiddlywiki
  <!-- https://busuanzi.icodeq.com/  
  <script async src="https://busuanzi.icodeq.com/busuanzi.pure.mini.js"></script>
  -->
+ 
+<!-- hitokoto -->
+<!-- fix href bug missing put last -->
+<script>
+  fetch('https://v1.hitokoto.cn')
+    .then(response => response.json())
+    .then(data => {
+      const hitokoto = document.getElementById('hitokoto_text')
+      hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
+      hitokoto.innerText = data.hitokoto
+    })
+    .catch(console.error)
+</script>
