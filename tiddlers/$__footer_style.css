@@ -5,7 +5,6 @@ justify-content:center;
 align-items: center;
 z-index:-1;
 min-height:25px;
-max-height:25px;
 background: linear-gradient(135deg, #6aff7a, #2cb9ff);
 border-radius:16px;
 color: black;
