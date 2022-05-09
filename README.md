@@ -13,7 +13,7 @@
 ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ Powered by @oeyoews
   -->
 
-# Welcome to [Fishing](https://oeyoew.fun)!
+# 🎉 Welcome to [Fishing](https://oeyoew.fun)!
 
 ## 🐢 Tips
 
@@ -65,13 +65,13 @@
 
 ## 🍏 [APK](https://gitlab.com/xxx)
 
-## PWA
+## 🍐 PWA
 
 * use 192(maybe it is maskable, in ios is normal)
 
-### motivate
+### 🌹 motivate
 
-TODO
+coming soom
 
 ## 🌪️ [TODO](docs/TODO.md)
 
@@ -89,4 +89,4 @@ TODO
 
 ## 🕐 UpdateTime
 
-> 2022-04-29T11:20:06
+2022-04-29T11:20:06
