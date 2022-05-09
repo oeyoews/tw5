@@ -1,7 +1,7 @@
 caption: BodyFooter
 created: 20211001231029099
 creator: Télumire
-modified: 20220509023524646
+modified: 20220509030722150
 modifier: oeyoews
 tagging: after
 tags: $:/TiddlyTweaks $:/footer $:/tags/RawMarkupWikified/BottomBody
@@ -23,8 +23,10 @@ $:/tags/RawMarkupWikified/BottomBody
 -->
 
 <!-- hitokoto -->
-`<footer id="hitokoto">`
+`<footer>`
+`<p id="hitokoto">`
 `<a target="_blank" href="#" id="hitokoto_text"></a>`
+`</p>`
 `</footer>`
 
 
