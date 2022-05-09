@@ -1,37 +1,29 @@
 # TODO
 
-* learn animation
-* how to init busuanzi times and solve setime bug
-* learn use figma
-* 跑马灯实现(codepen.io examples)
-* add close others for alt e
+* [ ] use automatic github release
+* [ ] learn animation
+* [ ] learn use figma
+* [ ] add close others for alt e
   https://www.flaticon.com/search?word=fishing&color=gradient&order_by=4
-* learn vuepress pwa and make plugin for tw5
+* [ ] learn vuepress pwa and make plugin for tw5
   https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-pwa
-* try to update github readme
-* how to usse fontawesome unicode
 * add clipboard for codesnippets
 * add macro for img style
-* cycle fish image by css
 * customize self tooltip replace browser
 * pack workbox plugin(bug: solve sw update problems)
 * how to load local file with plugins
-* adapt all browser for scrollbar
 * not support var function
 * add tw theme like vscode material theme
 * use palette to tidy theme color
 * learn yarn all docs
 * how setup timezone for vercel ci
 * how to update yarn.lock (by scripts)
-* add vercel status
 * maybe for vercel add signle shellscript and add test time function
 * learn tailwind and windicss
   https://cn.windicss.org/guide/extractions.html
 - [ ] todo: add gource pic
 - [ ] todo: like this [wiki](http://jyywiki.cn/OS/2022/slides/1.slides#/3/1/0)
 
-- [x] todo: learn mariadb privailege for spring(sudo root oeyoews)
-- [x] todo: use war test for tomcat
 - [ ] todo: idea's gitignore how to work
 - [ ] todo: make google theme
 - [ ] todo: start use emacs, and no use popmenu
@@ -204,3 +196,12 @@
 - [x] todo: add shortkeys for close-other-tiddler
 * [x] colorful console banner
 * fix rem in micro too large
+* [xx] adapt all browser for scrollbar
+* [xx] 跑马灯实现(codepen.io examples)
+* [xx] how to init busuanzi times and solve setime bug
+* [x] try to update github readme
+* [xx] how to use fontawesome unicode
+* [x] cycle fish image by css
+* [xx] add vercel status
+- [x] todo: learn mariadb privailege for spring(sudo root oeyoews)
+- [x] todo: use war test for tomcat
