@@ -1,5 +1,7 @@
 # TODO
 
+* loading style
+  https://pic.icodeq.com/
 * [ ] use automatic github release
 * [ ] learn animation
 * [ ] learn use figma

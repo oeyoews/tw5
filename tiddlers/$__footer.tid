@@ -1,7 +1,7 @@
 caption: BodyFooter
 created: 20211001231029099
 creator: Télumire
-modified: 20220509004122476
+modified: 20220509023524646
 modifier: oeyoews
 tagging: after
 tags: $:/TiddlyTweaks $:/footer $:/tags/RawMarkupWikified/BottomBody
@@ -24,12 +24,17 @@ $:/tags/RawMarkupWikified/BottomBody
 
 <!-- hitokoto -->
 `<footer id="hitokoto">`
+`<a target="_blank" href="#" id="hitokoto_text"></a>`
 `</footer>`
+
 
 <!-- music -->
 <!-- can't use single with special have popup error tip -->
 
-<!-- 2144015214 -->
+<!--
+2144015214
+6733209548
+--> 
 <!-- https://ftzzloo.com/hexo-add-aplayer-plugins/ -->
-`<meting-js id="5059661515" lrc-type="1" server="netease" order="random" type="playlist" fixed="true" mutex="true" lyctype=1 list-olded="true">`
+`<meting-js id="6733209548" lrc-type="1" server="netease" order="random" type="playlist" fixed="true" mutex="true" lyctype=1 list-olded="true">`
 `</meting-js>`
