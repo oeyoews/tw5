@@ -2,12 +2,10 @@
 
 <img class="oimg" style="width: 500px;" src="https://activity-graph.herokuapp.com/graph?username=oeyoews&theme=react-dark&hide_title=true&hide_border=true&area=true"/>
 
-<a href="https://oeyoew.fun">
 <p align="left">
  <img img style="width: 500px;" class="oimg" src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width="37%"/>
  <img img style="width: 500px;" class="oimg" src="https://github-readme-stats.vercel.app/api?username=oeyoews&show_icons=true&theme=radical&&hide_border=true" width="55.5%"/>
 </p>
-</a>
 
 <h1 align="center">Hi 👋, I'm oeyoews</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
