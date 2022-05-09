@@ -1,6 +1,7 @@
+caption: Scrollbar
 created: 20220212200401023
 creator: oeyoews
-modified: 20220509014637642
+modified: 20220509030135676
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/scrollbar
@@ -36,5 +37,5 @@ html {
 ::-webkit-scrollbar-thumb {
   border-radius: 3px;
   border: 0px solid var(--scrollbarBG);
-	background: linear-gradient(to top, #00f260, #0575e6);
+	background: linear-gradient(45deg, #00f260, #3AC9E1);
 }
