@@ -1,5 +1,7 @@
 # TODO
 
+* learn template plugins, to make plugins
+  url = https://github.com/tiddly-gittly/Tiddlywiki-WikiText-Plugin-Template.git
 * loading style
   https://pic.icodeq.com/
 * [ ] use automatic github release

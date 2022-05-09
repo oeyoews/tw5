@@ -1,6 +1,6 @@
 created: 20220410033448432
 creator: @oeyoews
-modified: 20220507095913305
+modified: 20220509110226663
 modifier: oeyoews
 tags: config
 title: FLink
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 -->
 
 <div style="user-select: none">
-🛰️ [[Sites|Sites For Me]]
+🛰️ [[Status|Sites For Me]]
 🍐 [[FAQ]]
 &nbsp;
 🌈 [[Gallary|Fishing Gallary]] 
@@ -19,5 +19,6 @@ type: text/vnd.tiddlywiki
 🖥️ [[Readme|GithubReadme]] 
 &nbsp;
 🍓 [[Favicon|$:/favicon.ico]]
-| <a href="https://gitlab.com/oeyoews/tw5/" target="_blank"><i style="color: cyan;" class="fab fa-shake fa-gitlab"></i></a>
+&nbsp;
+<a style="font-weight:bold;background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59);-webkit-background-clip: text;color: transparent;" href="https://gitlab.com/oeyoews/tw5/" target="_blank"><i style="color: cyan;" class="fab fa-shake fa-gitlab"></i> Gitlab </a>
 </div>
