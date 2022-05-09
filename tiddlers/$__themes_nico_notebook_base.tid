@@ -56,7 +56,7 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover {
   text-decoration: none;
   /** hover动画 */
   /*transition: opcity ease-in 0s;*/
-  transition: 1s 0.2s;
+  transition: .5s 0.2s;
   border-radius: 3px;
   /*bug: for search wrong*/
   /*padding: 2px 5px 3px 4px;*/
@@ -104,7 +104,7 @@ button.tc-tag-label, span.tc-tag-label {
   margin-bottom: 0.1em;
   /*padding: 0.4em 0.5em 0.2em 0.5em;*/
   padding: 0.4em 0.6em 0.2em;
-  transition: 1s;
+  transition: .5s;
 }
 button.tc-tag-label, span.tc-tag-label:hover {
   background-color: none;
@@ -740,7 +740,7 @@ div.tc-tab-buttons button {
   background: unset;
   cursor: pointer;
   /*transition: background ease-in .2s;*/
-  transition: 1s cubic-bezier(0.33, 1, 0.68, 1);
+  transition: .5s cubic-bezier(0.33, 1, 0.68, 1);
   margin: 3px;
 }
 
