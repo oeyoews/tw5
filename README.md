@@ -63,7 +63,7 @@
 > NOTE: if you use npm run dev &, only use npm run dev again ,
 > and ctrl c to exit this node program
 
-## 🪐 Platform]
+## 🪐 Platform
 [Platform](./docs/Platform.md)
 
 ## 🍏 APK
