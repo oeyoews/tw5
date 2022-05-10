@@ -1,9 +1,0 @@
-created: 20220227065700420
-creator: oeyoews
-modified: 20220227065752839
-modifier: oeyoews
-tags: TiddlyWiki5
-title: tw5 passwd flaw
-type: text/vnd.tiddlywiki
-
-* use global password, will lead the tiddler save to quite slow

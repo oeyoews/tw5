@@ -1,7 +1,7 @@
 created: 20220103042943419
 creator: oeyoews
-list: $:/config/oeyoews/scrollbar $:/config/oeyoews/popupwindowstyle $:/footer Fisherman $:/loading [[$:/config/oeyoews/Creat EnglishWord]] $:/config/oeyoews/subtitlefooter [[Navigate Button]] [[Recommend TW5 websites]] $:/config/FishingPluginLibrary eequote $:/plugins/kookma/solution/ui/search-in-fields $:/core/ui/ViewTemplate/subtitle $:/config/oeyoews/copybutton $:/config/oeyoews/fishingUI $:/config/oeyoews/customstylesheet $:/config/SyncFilter $:/config/FileSystemPaths
-modified: 20220509030143254
+list: PLUGINS $:/config/oeyoews/scrollbar $:/config/oeyoews/popupwindowstyle $:/footer Fisherman $:/loading [[$:/config/oeyoews/Creat EnglishWord]] $:/config/oeyoews/subtitlefooter [[Navigate Button]] [[Recommend TW5 websites]] $:/config/FishingPluginLibrary eequote $:/plugins/kookma/solution/ui/search-in-fields $:/core/ui/ViewTemplate/subtitle $:/config/oeyoews/copybutton $:/config/oeyoews/fishingUI $:/config/oeyoews/customstylesheet $:/config/SyncFilter $:/config/FileSystemPaths
+modified: 20220510092635703
 modifier: oeyoews
 title: $:/favorites/favlist
 type: text/vnd.tiddlywiki

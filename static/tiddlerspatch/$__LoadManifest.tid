@@ -51,3 +51,6 @@ type: text/vnd.tiddlywiki
 
 <!-- use service-worker -->
 <script src="workbox-startup.js"></script>
+
+/*seo*/
+<meta name="msvalidate.01" content="E8683F5E100FFB5E58004DEED2AA7C59" />
