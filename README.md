@@ -35,10 +35,12 @@
 
 ## 🍍 Features
 
-* [x] git
-* [x] timer(optional default is disable)
+* [x] automatially generate latest sitemap.xml
+* [x] git control
+* [x] timer push(optional default is disable)
 * [x] private subwiki(git or local)
-* [x] support github gitlab workflow
+* [x] support github gitlab vercel gitee and netlify workflows
+* [x] embed music player and hitokoto api
 
 ## 🐧 Linux
 
