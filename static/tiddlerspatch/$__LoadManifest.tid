@@ -57,3 +57,13 @@ type: text/vnd.tiddlywiki
 <meta name="msvalidate.01" content="E8683F5E100FFB5E58004DEED2AA7C59" />
   <!-- google -->
 <meta name="google-site-verification" content="49OWyxN7fqK6eipHEwCeeB4w-6-ysdjsK9builthqkI" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P65LGY39KH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P65LGY39KH');
+</script>
