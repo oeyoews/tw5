@@ -53,4 +53,7 @@ type: text/vnd.tiddlywiki
 <script src="workbox-startup.js"></script>
 
 <!-- seo -->
+  <!-- bing -->
 <meta name="msvalidate.01" content="E8683F5E100FFB5E58004DEED2AA7C59" />
+  <!-- google -->
+<meta name="google-site-verification" content="49OWyxN7fqK6eipHEwCeeB4w-6-ysdjsK9builthqkI" />
