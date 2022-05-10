@@ -1,0 +1,23 @@
+caption: {{$:/xp/images/bookshelf}} BOOKSHELF
+color: #bbb
+icon: $:/xp/images/bookshelf
+title: BOOKSHELF
+tmap.id: 93d01e94-a531-49f6-8c11-ea4caf5ace56
+type: text/vnd.tiddlywiki
+
+\import $:/bookshelf-macros
+
+<div class="tc-sidebar-lists xp-float-right">
+<$button actions={{$:/xp/ui/Actions/new-book}} tooltip="Create a new book" aria-label="new book" class="tc-btn-invisible tc-btn-mini">
+<span class="tc-btn-icon">{{$:/core/images/new-button}}</span> new book
+</$button>&emsp;<small class="tc-sidebar-header">(<i><$count filter='[tag<aggregationTag>!has[draft.of]]'/> tiddlers</i>)</small>&emsp;<$button to="$:/bookshelf-help" tooltip="Bookshelf Help" class="tc-btn-invisible tc-btn-mini">
+<span class="tc-btn-icon">{{$:/core/images/help}}</span>
+</$button>
+</div>
+
+<$macrocall
+  $name="tabs"
+  tabsList="$:/bookshelf-table-view $:/bookshelf-category-view $:/bookshelf-tidgraph-view"
+  default="$:/bookshelf-table-view"
+  state="$:/state/tab/bookshelf"
+/>

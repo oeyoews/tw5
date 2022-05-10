@@ -1,0 +1,126 @@
+caption: {{$:/xp/images/wikitext}} SNIPPETS
+color: #bbb
+icon: $:/xp/images/wikitext
+title: SNIPPETS
+tmap.id: 814ad6af-a396-4dba-9da4-27d8eead4a7f
+type: text/vnd.tiddlywiki
+
+\import $:/aggregation/macros
+\import $:/snippets-macros
+
+\define statusTid() $:/config/Aggregation/snippets/status
+\define storeTitle() $:/temp/search/snippets
+\define tagTitle() $:/temp/tag/snippets
+\define tagfilter() [tag{$:/temp/tag/snippets}]
+\define btnmodeTitle() $:/config/snippets/btnmode/filter
+
+\define btnmodeSearchAllFields() [tag<aggregationTag>subfilter<tagfilter>sort[]search:*<userInput>]
+\define btnmodeSearchAllFieldsExceptText() [tag<aggregationTag>subfilter<tagfilter>sort[]search:-text,*<userInput>]
+\define btnmodeSearchTitleCaption() [tag<aggregationTag>subfilter<tagfilter>sort[]search:title,caption<userInput>]
+
+\define snippets-select-actions()
+\whitespace trim
+<$vars currentFilter={{{ [<configTiddler>get[text]] }}}>
+<$list filter="[<currentFilter>match{$:/aggregation/Filter/SearchAllFields!!filter}]">
+<$action-setfield $tiddler=<<btnmodeTitle>> text=<<btnmodeSearchAllFields>>/>
+</$list>
+<$list filter="[<currentFilter>match{$:/aggregation/Filter/SearchAllFieldsExceptText!!filter}]">
+<$action-setfield $tiddler=<<btnmodeTitle>> text=<<btnmodeSearchAllFieldsExceptText>>/>
+</$list>
+<$list filter="[<currentFilter>match{$:/aggregation/Filter/Search!!filter}]">
+<$action-deletetiddler $filter=<<btnmodeTitle>>/>
+</$list>
+<$list filter="[<currentFilter>match{$:/aggregation/Filter/SearchTitleCaption!!filter}]">
+<$action-setfield $tiddler=<<btnmodeTitle>> text=<<btnmodeSearchTitleCaption>>/>
+</$list>
+</$vars>
+\end
+
+\define inputAcceptActions() <$action-deletetiddler $filter=<<tagTitle>>/>
+
+\define cancel-search-actions() <$action-deletetiddler $filter="[<storeTitle>] [<tagTitle>]"/><$action-sendmessage $message="tm-focus-selector" $param=""".xp-search-snippets input"""/>
+
+<div class="tc-sidebar-lists xp-float-right">
+<$button actions={{$:/xp/ui/Actions/new-snippet}} tooltip="Create a new snippet" aria-label="new snippet" class="tc-btn-invisible tc-btn-mini">
+<span class="tc-btn-icon">{{$:/core/images/new-button}}</span> new snippet
+</$button>&emsp;<small class="tc-sidebar-header">(<i><$count filter='[tag<aggregationTag>!has[draft.of]]'/> tiddlers</i>)</small>&emsp;<$button to="$:/snippets-help" tooltip="SNIPPETS Help" class="tc-btn-invisible tc-btn-mini">
+<span class="tc-btn-icon">{{$:/core/images/help}}</span>
+</$button>
+</div>
+
+<$tiddler tiddler=<<statusTid>>>
+<$radio field="text" value="search" default="search"> 快速查找 </$radio>&ensp;
+<$radio field="text" value="all"> 浏览全部 </$radio>
+</$tiddler>
+
+<!-- 快速查找 开始 -->
+<$reveal state=<<statusTid>> type="match" text="search" default="search" animate="yes">
+<$list filter="[tag<aggregationTag>!has[draft.of]limit[1]]" emptyMessage="{{$:/snippets-prompt}}" variable="ignore">
+
+<!-- 按钮栏 -->
+<$vars tagsFilter="[tag<aggregationTag>!has[draft.of]tags[]remove<aggregationTag>]">
+<$list filter="[subfilter<tagsFilter>limit[1]]" variable="ignore">
+<div class="box-list-tags">
+<$list filter=<<tagsFilter>>>
+<$button style="margin-top:1px;">
+<$action-setfield $tiddler=<<tagTitle>> text=<<currentTiddler>>/>
+<$text text=<<currentTiddler>>/>
+</$button>
+</$list>
+</div>
+</$list>
+</$vars>
+
+<!-- 搜索框 -->
+<span class="xp-search xp-search-snippets">
+Search <$macrocall $name="selectSearchScope" actions=<<snippets-select-actions>>/>&ensp;<$macrocall $name="keyboard-driven-input" tiddler=<<storeTitle>>
+    type="search" tag="input" focus="true"
+    inputAcceptActions=<<inputAcceptActions>> inputCancelActions=<<cancel-search-actions>>/>
+<$reveal state=<<storeTitle>> type="nomatch" text="">
+<$button class="tc-btn-invisible">
+<<cancel-search-actions>>
+{{$:/core/images/close-button}}
+</$button>
+</$reveal>
+</span>
+<!-- 最近列表 -->
+<$reveal state=<<storeTitle>> type="match" text="">
+<$reveal state=<<tagTitle>> type="match" text="">
+<span class="xp-float-right" style="margin-left:1em;">{{$:/language/ColourPicker/Recent}}</span>
+<p />
+<div class="tc-link-info">
+
+<$list filter="[tag<aggregationTag>!has[draft.of]!sort[created]limit[10]]" template="$:/templates/transclusion-snippet" />
+
+</div>
+</$reveal>
+</$reveal>
+<!-- 结果列表 -->
+<$list filter="[<storeTitle>!is[missing]get[text]!is[blank]] [<tagTitle>!is[missing]get[text]!is[blank]] +[limit[1]]" variable="ignore">
+<$set name="filterTiddler" filter="[<tagTitle>!is[missing]get[text]!is[blank]]" value=<<btnmodeTitle>> emptyValue=<<configTiddler>>>
+<$vars userInput={{{ [<storeTitle>get[text]] }}}
+    aggrFilter={{{ [<filterTiddler>get[text]] }}}
+    resultCount="<$count filter=<<aggrFilter>>/>">
+<span class="xp-search-results"><<lingo System/Matches>></span>
+<p />
+<div class="tc-link-info">
+
+<$list filter=<<aggrFilter>> template="$:/templates/transclusion-snippet"/>
+
+</div>
+</$vars>
+</$set>
+</$list>
+
+</$list>
+</$reveal><!-- 快速查找 结束 -->
+
+<!-- 浏览全部 -->
+<$reveal state=<<statusTid>> type="match" text="all" animate="yes">
+<$macrocall
+  $name="list-links-popup-searchbox"
+  storeTitle="$:/temp/search/snippets"
+  promptTiddler="$:/snippets-prompt"
+  overrideClass="xp-search-snippets"
+/>
+</$reveal>

@@ -1,17 +1,17 @@
 created: 20220410004123756
 creator: @oeyoews
 difficulty: 1
-due: 20220422001432159
-grade: 2
-history: [{"due":"20220413151535758","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220412151535758"}]
-interval: 1
+due: 20220904080542811
+grade: 1
+history: [{"due":"20220413151535758","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220412151535758"},{"due":"20220422001432159","interval":1,"difficulty":1,"stability":8.830296307808057,"retrievability":0.34867927218217226,"grade":2,"lapses":0,"reps":2,"review":"20220413001432159"}]
+interval: 27
 lapses: 0
-modified: 20220413001432159
-modifier: @oeyoews
-reps: 2
-retrievability: 0.34867927218217226
-review: 20220413001432159
-stability: 8.830296307808057
+modified: 20220510080542811
+modifier: oeyoews
+reps: 3
+retrievability: 0.7245850653692985
+review: 20220510080542811
+stability: 117.4969510954046
 tags: EnglishWord ?
 title: scattered
 type: text/vnd.tiddlywiki

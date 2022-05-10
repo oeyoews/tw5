@@ -1,0 +1,38 @@
+caption: {{$:/xp/images/programs}} SOFTWARE
+color: #bbb
+icon: $:/xp/images/programs
+title: SOFTWARE
+tmap.id: 3fbb6a21-23c1-43fd-971c-a38e4a019f58
+type: text/vnd.tiddlywiki
+
+\import $:/software-macros
+\define statusTid() $:/config/Aggregation/software/status
+
+<div class="tc-sidebar-lists xp-float-right">
+<$button actions={{$:/xp/ui/Actions/new-software}} tooltip="Create a new software" aria-label="new software" class="tc-btn-invisible tc-btn-mini">
+<span class="tc-btn-icon">{{$:/core/images/new-button}}</span> new software
+</$button>&emsp;<small class="tc-sidebar-header">(<i><$count filter='[tag<aggregationTag>!has[draft.of]]'/> tiddlers</i>)</small>&emsp;<$button to="$:/software-help" tooltip="SOFTWARE Help" class="tc-btn-invisible tc-btn-mini">
+<span class="tc-btn-icon">{{$:/core/images/help}}</span>
+</$button>
+</div>
+
+<$tiddler tiddler=<<statusTid>>>
+<$radio field="text" value="table" default="table"> 表格视图 </$radio>&ensp;
+<$radio field="text" value="category"> 分类视图 </$radio>&ensp;
+<$radio field="text" value="recent"> 最近添加 </$radio>
+</$tiddler>
+
+<!-- 表格视图 -->
+<$reveal state=<<statusTid>> type="match" text="table" default="table" animate="yes">
+{{$:/software-table-view}}
+</$reveal>
+
+<!-- 分类视图 -->
+<$reveal state=<<statusTid>> type="match" text="category" animate="yes">
+{{$:/software-category-view}}
+</$reveal>
+
+<!-- 最近添加 -->
+<$reveal state=<<statusTid>> type="match" text="recent" animate="yes">
+{{$:/software-recently-added}}
+</$reveal>

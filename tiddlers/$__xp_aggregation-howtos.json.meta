@@ -1,0 +1,9 @@
+author: kl
+dependents: $:/xp
+description: Manage your howtos
+name: HOWTOs
+parent-plugin: $:/xp
+plugin-type: plugin
+title: $:/xp/aggregation-howtos
+type: application/json
+version: 5.2.2.1

@@ -1,17 +1,17 @@
 created: 20220331052101363
 creator: @oeyoews
 difficulty: 1
-due: 20220417031032083
+due: 20220924080432697
 grade: 2
-history: [{"due":"20220408103936212","interval":0,"difficulty":0.40291375445826566,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220407103936212"}]
-interval: 1
+history: [{"due":"20220408103936212","interval":0,"difficulty":0.40291375445826566,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220407103936212"},{"due":"20220417031032083","interval":1,"difficulty":1,"stability":8.830297176503736,"retrievability":0.3486801042625608,"grade":2,"lapses":0,"reps":2,"review":"20220408031032082"}]
+interval: 32
 lapses: 0
-modified: 20220408031032083
-modifier: @oeyoews
-reps: 2
-retrievability: 0.3486801042625608
-review: 20220408031032082
-stability: 8.830297176503736
+modified: 20220510080432697
+modifier: oeyoews
+reps: 3
+retrievability: 0.6826215904955593
+review: 20220510080432696
+stability: 136.84149368556348
 tags: EnglishWord ?
 title: fraction
 type: text/vnd.tiddlywiki
