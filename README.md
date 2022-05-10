@@ -29,7 +29,9 @@
 
 * <a href="https://oeyoew.fun/#Fishing%20Gallary:%5B%5BFishing%20Gallary%5D%5D%20Fisherman" target="_blank">Demo2</a>
 
-## 🗽 [RelatedSoftwares](docs/RelatedSoftwares.md)
+## 🗽 RelatedSoftwares
+
+[RelatedSoftwares](docs/RelatedSoftwares.md)
 
 ## 🍍 Features
 
@@ -61,9 +63,11 @@
 > NOTE: if you use npm run dev &, only use npm run dev again ,
 > and ctrl c to exit this node program
 
-## 🪐 [Platform](./docs/Platform.md)
+## 🪐 Platform]
+[Platform](./docs/Platform.md)
 
-## 🍏 [APK](https://gitlab.com/xxx)
+## 🍏 APK
+[APK](https://gitlab.com/xxx)
 
 ## 🍐 PWA
 
@@ -85,7 +89,9 @@ coming soom
 <!--* ~~`\$__themes_nico_notebook_ui_Bottombar.tid`-->
 <!--\$__themes_nico_notebook_ui_Topbar.tid~~-->
 
-## 🎤 [FAQ](https://oeyoew.fun/#FAQ)
+## 🎤 FAQ
+
+[FAQ](https://oeyoew.fun/#FAQ)
 
 ## 🕐 UpdateTime
 
