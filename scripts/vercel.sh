@@ -20,6 +20,8 @@ yarn build
 # public folder and files
 yarn copy@workbox
 
+yarn sitemap
+
 # copy scripts/sw.js to public
 yarn workbox@inje
 

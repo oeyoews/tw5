@@ -14,7 +14,7 @@
     "visual@public": "tree -L 1 public",
     "test": "bash scripts/test.sh",
     "clean": "rm -rf public test",
-    "sitemap": "tiddlywiki --output public/static --rendertiddlers '[!is[system]]' public/index.html . text/plain --rendertiddler sitemap  sitemap.xml text/plain",
+    "sitemap": "tiddlywiki --output public/ --render sitemap sitemap.xml text/plain",
     "start": "tiddlywiki  --listen port=8080"
   },
   "dependencies": {
