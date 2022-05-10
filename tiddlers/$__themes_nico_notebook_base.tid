@@ -195,7 +195,7 @@ div.tc-tiddler-frame {
   margin: 20px 0;
   background: <<colour tiddler-background>>;
   /*box-shadow: 0 5px 20px rgba(0,0,0, 0.12);*/
-  border-radius: 6px;
+  border-radius: 15px;
   padding: 42px 60px 60px 60px;
   /*border: 2px solid none;*/
   transition: .5s;
