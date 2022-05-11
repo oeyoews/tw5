@@ -1,12 +1,17 @@
 caption: Custom Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220507170414531
+modified: 20220511105731625
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/customstylesheet
 type: text/vnd.tiddlywiki
 
+.tc-tiddler-body > embed, .tc-tiddler-body > iframe {
+  width: 100%;
+  height: 600px;
+  border: 0px;
+}
 .tc-notification {
 	color: black;
 	border-radius: 5px;

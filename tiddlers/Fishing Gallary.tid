@@ -1,6 +1,6 @@
 created: 20220503073246611
 creator: oeyoews
-modified: 20220511051920936
+modified: 20220511103433268
 modifier: oeyoews
 tags: docs
 title: Fishing Gallary
@@ -14,3 +14,7 @@ type: text/vnd.tiddlywiki
 <hr>
 
 [[TWM|https://twms.vercel.app]]
+
+<iframe src="https://oeyoew.fun" scrolling="no" />
+
+<iframe src="https://twms.vercel.app" scrolling="no" />
