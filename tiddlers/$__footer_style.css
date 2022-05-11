@@ -1,16 +1,18 @@
 footer {
-flex: 1 1 auto;
-display:flex !important;
-justify-content:center;
-align-items: center;
-z-index:-1;
-min-height:25px;
-/* background: linear-gradient(135deg, #6aff7a, #2cb9ff);
-border-radius:16px;
+	flex: 1 1 auto;
+	display:flex !important;
+	justify-content:center;
+	align-items: center;
+	z-index:-1;
+	min-height:25px;
+	/* background: linear-gradient(135deg, #6aff7a, #2cb9ff);
+	border-radius:16px;
 	*/
-color: gray;
-user-select: none;
-padding: 2px;
+	color: gray;
+	user-select: none;
+	padding: 2px;
+	font-family: 'JetBrains Mono';
+	font-size: 50%;
 }
 
 
