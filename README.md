@@ -35,6 +35,7 @@
 
 ## 🍍 Features
 
+* [x] support google-analysics
 * [x] automatially generate latest sitemap.xml
 * [x] git control
 * [x] timer push(optional default is disable)
