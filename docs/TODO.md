@@ -1,5 +1,9 @@
 # TODO
 
+* make work plugins
+* todo: interity gitinfo
+  https://github.com/gajus/gitinfo
+  https://www.npmjs.com/package/gitinfo
 * learn template plugins, to make plugins
   url = https://github.com/tiddly-gittly/Tiddlywiki-WikiText-Plugin-Template.git
 * loading style
