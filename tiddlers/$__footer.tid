@@ -1,7 +1,8 @@
 caption: BodyFooter
+code-body: yes
 created: 20211001231029099
 creator: Télumire
-modified: 20220511012912311
+modified: 20220511151311229
 modifier: oeyoews
 tagging: after
 tags: $:/TiddlyTweaks $:/footer $:/tags/RawMarkupWikified/BottomBody
@@ -41,6 +42,14 @@ lyctype="1"
 mutex="true"
 --> 
 <!-- https://ftzzloo.com/hexo-add-aplayer-plugins/ -->
-<!-- https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements -->
-`<meting-js id="6733209548"  server="netease" order="random" type="playlist" fixed="true" lrc-type="0" list-olded="true">`
+<!-- https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements 
+	lrc-type="1"
+-->
+`<meting-js 
+	id="6733209548"
+	server="netease"
+	order="random"
+	type="playlist"
+	fixed="true"
+	list-olded="true">`
 `</meting-js>`
