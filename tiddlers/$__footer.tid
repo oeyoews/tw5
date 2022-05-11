@@ -1,7 +1,7 @@
 caption: BodyFooter
 created: 20211001231029099
 creator: Télumire
-modified: 20220509112358652
+modified: 20220511010121541
 modifier: oeyoews
 tagging: after
 tags: $:/TiddlyTweaks $:/footer $:/tags/RawMarkupWikified/BottomBody
@@ -22,8 +22,11 @@ $:/tags/RawMarkupWikified/BottomBody
 `</footer>`
 -->
 
-<!-- hitokoto -->
+<!-- hitokoto 
 `<footer id="hitokoto" style="color: black;text-decoration: 3px underline lightblue;font-family: "jetbrains mono";">`
+`</footer>`
+-->
+`<footer id="hitokoto" style="color: gray;font-family: "JetBrains Mono";">`
 `</footer>`
 
 
@@ -34,7 +37,9 @@ $:/tags/RawMarkupWikified/BottomBody
 2144015214
 6733209548
 3218667513
+lyctype="1" 
+mutex="true"
 --> 
 <!-- https://ftzzloo.com/hexo-add-aplayer-plugins/ -->
-`<meting-js id="3218667513"  server="netease" order="random" type="playlist" fixed="true" preload="auto" loop="all" theme="cyan" mutex="true" lyctype="0" list-olded="true">`
+`<meting-js id="6733209548"  server="netease" order="random" type="playlist" fixed="true" list-olded="true">`
 `</meting-js>`
