@@ -58,7 +58,7 @@
 - [ ] fix: use div(maybe) to compute current window location for fishing(may be use js)
   http://oeyoew.fun/#untitled%20109:%5B%5Buntitled%20109%5D%5D%20Fisherman
 - [ ] feat: use switch button for two palette associate theme
-- [ ] feat: use filter or backdrop-filter come true blur for commandpalette
+- [ ] feat: use filter or backdrop-filter come true blur for commandpalette, like ctrl shift L effects
 - [x] __refactor__: fix like drop down border
 - [x] __refactor__: resolve this shine color, maybe can same for tid bg and div bg
 - [ ] __refactor__: all stylesheet
