@@ -56,6 +56,7 @@
 - [ ] fix: fix code block for specific type
 - [ ] todo: learn use transition details
 - [ ] fix: use div(maybe) to compute current window location for fishing(may be use js)
+  http://oeyoew.fun/#untitled%20109:%5B%5Buntitled%20109%5D%5D%20Fisherman
 - [ ] feat: use switch button for two palette associate theme
 - [ ] feat: use filter or backdrop-filter come true blur for commandpalette
 - [x] __refactor__: fix like drop down border
