@@ -2,7 +2,6 @@
   "dryRun": false,
   "debug": false,
   "branches": ["tw6"],
-  "repositoryUrl": "https://github.com/oeyoews/tw5.git",
   "extends": "@semantic-release/gitlab-config",
   "plugins": [
     "@semantic-release/commit-analyzer",
@@ -19,9 +18,13 @@
         "changelogTitle": "# Changelog\n\nAll notable changes to this project will be documented in this file. See\n[Conventional Commits](https://conventionalcommits.org) for commit guidelines."
       }
     ],
+    ["@semantic-release/gitlab", {
+      "gitlabUrl": "https://gitlab.com/oeyoews/tw5"
+    ]
     [
       "@semantic-release/github",
       {
+        "gitlabUrl": "https://github.com/oeyoews/tw5",
         "assets": "dist/*.tgz"
       }
     ]
