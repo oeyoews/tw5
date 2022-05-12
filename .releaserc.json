@@ -24,12 +24,6 @@
       {
         "gitlabUrl": "https://gitlab.com/oeyoews/tw5.git"
       }
-    ],
-    [
-      "@semantic-release/github",
-      {
-        "githubUrl": "https://github.com/oeyoews/tw5.git"
-      }
     ]
   ]
 }
