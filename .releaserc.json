@@ -1,6 +1,7 @@
 {
   "dryRun": false,
   "debug": false,
+  "repositoryUrl": "https://gitlab.com/oeyoews/tw5.git",
   "branches": ["tw6", "main"],
   "extends": "@semantic-release/gitlab-config",
   "plugins": [
