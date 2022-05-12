@@ -12,7 +12,7 @@ pages:
     #enabled: false
     paths:
       - public
-  expire_in: 20 minutes
+  #expire_in: 20 minutes
 
   cache:
     paths:
