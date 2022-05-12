@@ -1,11 +1,11 @@
 ## TODO
 
-* [ ] use automatic github release
+* [ ] use automatic github or gitlab release
   https://blog.dteam.top/posts/2020-05/semantic-release.html
   https://github.com/semantic-release/semantic-release/
   https://github.com/semantic-release/gitlab-config
   https://docs.gitlab.com/ee/ci/examples/semantic-release.html#:~:text=The%20semantic-release%20library%20publishes%20new%20versions%20of%20the,during%20the%20publish%20job.%20Set%20up%20CI%2FCD%20variables
-* make work plugins
+* make work music plugins
 * todo: interity gitinfo
   https://github.com/gajus/gitinfo
   https://www.npmjs.com/package/gitinfo

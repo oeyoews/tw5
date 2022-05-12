@@ -2,12 +2,19 @@ name: Release
 on:
   push:
     branches:
-      - dev2
+      - tw6
 jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
     steps:
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: |
+            **/node_modules
+          #key: ${{ runner.os }}-${{ hashFiles('**/package.json') }}
+          key: ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
       - name: Checkout
         uses: actions/checkout@v2
         with:
@@ -17,9 +24,9 @@ jobs:
         with:
           node-version: 'lts/*'
       - name: Install dependencies
-        run: yarn install
+        #run: npm ci
+        run:  yarn install
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
