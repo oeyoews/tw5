@@ -1,18 +1,9 @@
 created: 20220216173430280
 creator: oeyoews
-difficulty: 2.3372998070228492
-due: 20220424043751145
-grade: 2
 history: [{"due":"20220226161218532","interval":1,"difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":2,"lapses":0,"reps":2,"review":"20220222161218532"},{"due":"20220311113301970","interval":4,"difficulty":3.2494322563157736,"stability":12.402368716347334,"retrievability":0.9007489582652597,"grade":2,"lapses":0,"reps":3,"review":"20220227113301970"},{"due":"20220311113301970","interval":4,"difficulty":3.2494322563157736,"stability":12.402368716347334,"retrievability":0.9007489582652597,"grade":2,"lapses":0,"reps":3,"review":"20220227113301970"}]
-interval: 14
-lapses: 0
-modified: 20220313043751145
-modifier: @oeyoews
-reps: 4
-retrievability: 0.8878675507070755
-review: 20220313043751145
-stability: 41.85763342873056
-tags: EnglishWord ?
+modified: 20220512173532139
+modifier: oeyoews
+tags: EnglishWord !
 title: via
 type: text/vnd.tiddlywiki
 

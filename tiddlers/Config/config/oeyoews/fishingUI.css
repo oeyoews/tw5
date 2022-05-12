@@ -26,7 +26,6 @@
 	user-select: none;
 }
 
-<!-- /*  learn  */ -->
 .tc-fishing-learing-grade .learn {
 		color: black;
 		background: linear-gradient(to right, #4776e6, #8e54e9); 
@@ -36,7 +35,6 @@
 		background: linear-gradient(45deg, #4776e6, #8e54e9); 
 }
 
-<!-- /* forget */ -->
 .tc-fishing-learing-grade .forget{
 		color: #931818;
 		background: linear-gradient(to right, #ff512f, #dd2476);
@@ -46,9 +44,8 @@
 		background: linear-gradient(45deg, #ff512f, #dd2476);
 	}
 
-<!-- /* remember */ -->
 .tc-fishing-learing-grade .remember{
-		color: #147814;
+		color: #22ad22;
 		background: linear-gradient(to right, #dce35b, #45b649);
 }
 
@@ -56,7 +53,6 @@
 	background: linear-gradient(45deg, #dce35b, #45b649);
 }
 
-<!-- /* grasp */ -->
 .tc-fishing-learing-grade .grasp{
 	color: #ebeb07;
 	background: linear-gradient(to right, #add100, #7b920a)
