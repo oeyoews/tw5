@@ -21,6 +21,7 @@ pages:
 #https://semantic-release.gitbook.io/semantic-release/v/beta/recipes/recipes/gitlab-ci
 # The release pipeline will run only if all jobs in the test pipeline are successful
 stages:
+    - test
     - release
 
 before_script:
