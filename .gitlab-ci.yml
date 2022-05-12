@@ -33,6 +33,7 @@ pages:
   #script:
     #- npx semantic-release
 
+#https://docs.gitlab.cn/jh/ci/examples/semantic-release.html
 image: node:latest
 before_script:
   - npm ci --cache .npm --prefer-offline
@@ -54,6 +55,7 @@ variables:
   NPM_TOKEN: ${CI_JOB_TOKEN}
 
 stages:
+  - test
   - release
 
 publish:
