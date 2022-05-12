@@ -20,7 +20,7 @@
     ],
     ["@semantic-release/gitlab", {
       "gitlabUrl": "https://gitlab.com/oeyoews/tw5"
-    ]
+    ],
     [
       "@semantic-release/github",
       {
