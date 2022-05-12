@@ -2,9 +2,7 @@ name: Release
 on:
   push:
     branches:
-      - master
-      - tw6
-      - main
+      - dev2
 jobs:
   release:
     name: Release
