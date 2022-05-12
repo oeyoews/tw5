@@ -1,5 +1,8 @@
 # TODO
 
+* [ ] use automatic github release
+  https://blog.dteam.top/posts/2020-05/semantic-release.html
+  https://github.com/semantic-release/semantic-release/
 * make work plugins
 * todo: interity gitinfo
   https://github.com/gajus/gitinfo
@@ -8,7 +11,6 @@
   url = https://github.com/tiddly-gittly/Tiddlywiki-WikiText-Plugin-Template.git
 * loading style
   https://pic.icodeq.com/
-* [ ] use automatic github release
 * [ ] learn animation
 * [ ] learn use figma
 * [ ] add close others for alt e

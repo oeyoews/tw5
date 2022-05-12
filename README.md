@@ -67,6 +67,7 @@
 > and ctrl c to exit this node program
 
 ## 🪐 Platform
+
 [Platform](./docs/Platform.md)
 
 ## 🍏 APK
@@ -76,11 +77,13 @@
 
 * use 192(maybe it is maskable, in ios is normal)
 
-### 🌹 motivate
+## 🌹 motivate
 
 coming soom
 
-## 🌪️ [TODO](docs/TODO.md)
+## 🌪️ TODO
+
+* [TODO](docs/TODO.md)
 
 ## 🍞 Broken
 
