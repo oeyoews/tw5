@@ -5,6 +5,7 @@
   https://github.com/semantic-release/semantic-release/
   https://github.com/semantic-release/gitlab-config
   https://docs.gitlab.com/ee/ci/examples/semantic-release.html#:~:text=The%20semantic-release%20library%20publishes%20new%20versions%20of%20the,during%20the%20publish%20job.%20Set%20up%20CI%2FCD%20variables
+  https://docs.gitlab.cn/jh/ci/examples/semantic-release.html
   * [ ] how to use gitlab semantic-release compatible github
 * make work music plugins
 * todo: interity gitinfo
