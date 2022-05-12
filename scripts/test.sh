@@ -41,12 +41,14 @@ echo 💊  remove subwiki contents
 # yarn copy@tidpatch
 cp static/tiddlerspatch/* tiddlers/ || exit
 
+
 # add public must before public copy steps for versel(if public else .)
 #yarn use package, so this alias is no effect
 # yarn build
 rm -rf public
 tiddlywiki --output public --build index >/tmp/output.log 2>&1
 echo '🗂️ Generated new public folder'
+
 
 # public folder and files
 # TODO: add adjust statement
