@@ -108,3 +108,12 @@ coming soom
 
 
 <!--"repositoryUrl": "https://github.com/oeyoews/tw5.git",-->
+
+<!--
+    [
+      "@semantic-release/gitlab",
+      {
+        "gitlabUrl": "https://gitlab.com/oeyoews/tw5.git"
+      }
+    ],
+-->
