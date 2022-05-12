@@ -2,7 +2,6 @@
   "name": "FishingForYou",
   "version": "23.0",
   "main": "index.html",
-  "repository": "https://gitlab.com/oeyoews/tw.git",
   "author": "oeyoews <jyao4783@gmail.com>",
   "license": "MIT",
   "scripts": {
