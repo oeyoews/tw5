@@ -27,7 +27,7 @@
     [
       "@semantic-release/github",
       {
-        "gitlabUrl": "https://github.com/oeyoews/tw5.git",
+        "gitlabUrl": "https://github.com/oeyoews/tw5.git"
       }
     ]
   ]
