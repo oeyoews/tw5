@@ -2,8 +2,8 @@ name: Release
 on:
   push:
     branches:
-      - tw6
-      - tws
+      - main
+
 jobs:
   release:
     name: Release
