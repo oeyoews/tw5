@@ -1,12 +1,12 @@
 created: 20220404054954044
 creator: @oeyoews
-modified: 20220423155722893
+modified: 20220512015455145
 modifier: oeyoews
 tags: $:/tags/Image
 title: $:/plugins/oflg/fishing/icon
 type: text/vnd.tiddlywiki
 
-<svg width="22pt" height="22pt" class="fa-bounce tc-image-home-button tc-image-button" viewBox="0 0 128 128" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<svg width="22pt" height="22pt" class="tc-image-home-button tc-image-button" viewBox="0 0 128 128" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
     <g id="fishingfloat">
         <path d="M0 0L128 0L128 128L0 128L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none"/>
         <g clip-path="url(#mask_1)">
