@@ -2,7 +2,7 @@ name: Release
 on:
   push:
     branches:
-      - tw6
+      #- main
 jobs:
   release:
     name: Release

@@ -49,7 +49,7 @@
 * install `make` `node` `git`
 * type make in current directory
 
-### 🦹 Service
+## 🦹 Service
 
 * sudo cp tw5.service /etc/systemd/system/
 * systemctl daemon-reload

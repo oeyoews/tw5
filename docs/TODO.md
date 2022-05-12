@@ -3,6 +3,7 @@
 * [ ] use automatic github release
   https://blog.dteam.top/posts/2020-05/semantic-release.html
   https://github.com/semantic-release/semantic-release/
+  https://github.com/semantic-release/gitlab-config
 * make work plugins
 * todo: interity gitinfo
   https://github.com/gajus/gitinfo
