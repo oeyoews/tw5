@@ -4,6 +4,7 @@ on:
     branches:
       - master
       - tw6
+      - main
 jobs:
   release:
     name: Release
