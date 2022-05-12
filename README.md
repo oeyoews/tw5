@@ -1,9 +1,3 @@
-<a href="https://gitlab.com/oeyoews/tw5/-/commits/tw6" target="_blank"><img alt="CI/CD status" src="https://gitlab.com/oeyoews/tw5/badges/tw6/pipeline.svg" /></a>
-<a href="https://gitlab.com/oeyoews/tw5/-/releases" target="_blank"><img alt="Latest Release" src="https://gitlab.com/oeyoews/tw5/-/badges/release.svg" /></a>
-<a href="https://www.jsdelivr.com/package/gh/oeyoews/img" target="_blank"><img alt="status" src="https://data.jsdelivr.com/v1/package/gh/oeyoews/img/badge" /></a>
-
-<div style="text-align: left;background: #f6f8fa; border-radius: 3px;float:none; display: inline-block; padding: 4px;">
-
   <!--
 ███████╗██╗███████╗██╗  ██╗██╗███╗   ██╗ ██████╗
 ██╔════╝██║██╔════╝██║  ██║██║████╗  ██║██╔════╝
@@ -12,6 +6,13 @@
 ██║     ██║███████║██║  ██║██║██║ ╚████║╚██████╔╝
 ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ Powered by @oeyoews
   -->
+
+<a href="https://gitlab.com/oeyoews/tw5/-/commits/tw6" target="_blank"><img alt="CI/CD status" src="https://gitlab.com/oeyoews/tw5/badges/tw6/pipeline.svg" /></a>
+<a href="https://gitlab.com/oeyoews/tw5/-/releases" target="_blank"><img alt="Latest Release" src="https://gitlab.com/oeyoews/tw5/-/badges/release.svg" /></a>
+<a href="https://www.jsdelivr.com/package/gh/oeyoews/img" target="_blank"><img alt="status" src="https://data.jsdelivr.com/v1/package/gh/oeyoews/img/badge" /></a>
+[![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
+<!--<div style="text-align: left;background: #f6f8fa; border-radius: 3px;float:none; display: inline-block; padding: 4px;">-->
+
 
 ## 🎉 Welcome to [Fishing](https://oeyoew.fun)
 
