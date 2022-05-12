@@ -1,6 +1,6 @@
 created: 20220505063228834
 creator: oeyoews
-modified: 20220512142840304
+modified: 20220512145032787
 modifier: oeyoews
 tags: config
 title: Sites For Me
@@ -38,6 +38,7 @@ type: text/vnd.tiddlywiki
 <a href="https://gitlab.com/oeyoews/tw5/-/releases" target="_blank"><img alt="Latest Release" src="https://gitlab.com/oeyoews/tw5/-/badges/release.svg" /></a>
 
 ---
+<!--
 <details style="color: cyan;">
 <summary>TOC</summary>
 <iframe src="https://oeyoew.fun" scrolling="no" />
@@ -47,3 +48,4 @@ type: text/vnd.tiddlywiki
 <iframe src="https://twmgift.vercel.app" scrolling="no" />
 
 </details>
+-->
