@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - tw6
 jobs:
   release:
     name: Release
