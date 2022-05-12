@@ -1,17 +1,17 @@
 created: 20220317033730822
 creator: @oeyoews
 difficulty: 1
-due: 20220512003235685
+due: 20220925160131441
 grade: 2
-history: [{"due":"20220319084016554","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318084016553"},{"due":"20220402055000881","interval":2,"difficulty":1,"stability":13.480723478488205,"retrievability":0.12158129666587415,"grade":1,"lapses":0,"reps":2,"review":"20220320055000881"},{"due":"20220403011133118","interval":13,"difficulty":2.1033878068599927,"stability":0.07408215765534414,"retrievability":0.9033878068599924,"grade":0,"lapses":1,"reps":1,"review":"20220402011133117"},{"due":"20220409014921543","interval":1,"difficulty":1.5445678016853435,"stability":6.340823234109333,"retrievability":0.2411799948253509,"grade":1,"lapses":1,"reps":2,"review":"20220403014921543"}]
-interval: 6
+history: [{"due":"20220319084016554","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318084016553"},{"due":"20220402055000881","interval":2,"difficulty":1,"stability":13.480723478488205,"retrievability":0.12158129666587415,"grade":1,"lapses":0,"reps":2,"review":"20220320055000881"},{"due":"20220403011133118","interval":13,"difficulty":2.1033878068599927,"stability":0.07408215765534414,"retrievability":0.9033878068599924,"grade":0,"lapses":1,"reps":1,"review":"20220402011133117"},{"due":"20220409014921543","interval":1,"difficulty":1.5445678016853435,"stability":6.340823234109333,"retrievability":0.2411799948253509,"grade":1,"lapses":1,"reps":2,"review":"20220403014921543"},{"due":"20220512003235685","interval":6,"difficulty":1,"stability":32.51360223394596,"retrievability":0.9051113341205634,"grade":2,"lapses":1,"reps":3,"review":"20220409003235685"}]
+interval: 33
 lapses: 1
-modified: 20220409003235685
-modifier: @oeyoews
-reps: 3
-retrievability: 0.9051113341205634
-review: 20220409003235685
-stability: 32.51360223394596
+modified: 20220512160131441
+modifier: oeyoews
+reps: 4
+retrievability: 0.8985825600690984
+review: 20220512160131441
+stability: 136.29621216328343
 tags: EnglishWord ?
 title: commit
 type: text/vnd.tiddlywiki

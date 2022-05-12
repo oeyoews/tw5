@@ -17,3 +17,18 @@ pages:
   cache:
     paths:
       - node_modules
+
+#https://semantic-release.gitbook.io/semantic-release/v/beta/recipes/recipes/gitlab-ci
+# The release pipeline will run only if all jobs in the test pipeline are successful
+stages:
+    - test
+    - release
+
+before_script:
+  - yarn install
+
+publish:
+  image: node:12
+  stage: release
+  script:
+    - npx semantic-release
