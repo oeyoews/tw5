@@ -1,6 +1,6 @@
 created: 20220505063228834
 creator: oeyoews
-modified: 20220512022029044
+modified: 20220512142840304
 modifier: oeyoews
 tags: config
 title: Sites For Me
@@ -23,6 +23,11 @@ type: text/vnd.tiddlywiki
 -->
 
 
+<!-- todo transform
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+[![Release](https://github.com/oeyoews/tw5/actions/workflows/release.yml/badge.svg?branch=tw6)](https://github.com/oeyoews/tw5/actions/workflows/release.yml)
+-->
+
 <a class="oag" href="https://oeyoew.fun" target="_blank">Status</a>
 
 ---
@@ -33,8 +38,12 @@ type: text/vnd.tiddlywiki
 <a href="https://gitlab.com/oeyoews/tw5/-/releases" target="_blank"><img alt="Latest Release" src="https://gitlab.com/oeyoews/tw5/-/badges/release.svg" /></a>
 
 ---
+<details style="color: cyan;">
+<summary>TOC</summary>
 <iframe src="https://oeyoew.fun" scrolling="no" />
 
 <iframe src="https://twms.vercel.app" scrolling="no" />
 
 <iframe src="https://twmgift.vercel.app" scrolling="no" />
+
+</details>
