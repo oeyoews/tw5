@@ -18,8 +18,11 @@
         "changelogTitle": "# Changelog\n\nAll notable changes to this project will be documented in this file. See\n[Conventional Commits](https://conventionalcommits.org) for commit guidelines."
       }
     ],
-    ["@semantic-release/gitlab", {
-      "gitlabUrl": "https://gitlab.com/oeyoews/tw5"
+    [
+      "@semantic-release/gitlab",
+      {
+        "gitlabUrl": "https://gitlab.com/oeyoews/tw5"
+      }
     ],
     [
       "@semantic-release/github",
