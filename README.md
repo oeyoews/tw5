@@ -38,6 +38,8 @@
 
 ## 🍍 Features
 
+* [x] support semantic-release
+* [x] support password
 * [x] support google-analysics
 * [x] automatially generate latest sitemap.xml
 * [x] git control
