@@ -1,6 +1,8 @@
 ## TODO
 
+
 * think to remove all tags, or add new repo test and mighre it
+  * first how to add release
 * fix semantic-release warning install
   * https://github.com/actions/starter-workflows/issues/1191
 * [ ] use automatic github or gitlab release
