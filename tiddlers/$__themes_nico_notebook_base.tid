@@ -398,7 +398,7 @@ h1.tc-site-title {
 
 .nc-sidebar h1.tc-site-title {
   margin: 0;
-  text-shadow: 1px 1px darkcyan;
+  /*text-shadow: 1px 1px darkcyan;*/
 }
 
 .nc-sidebar p {
