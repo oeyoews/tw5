@@ -1,7 +1,7 @@
 {
   "dryRun": false,
   "debug": true,
-  "repositoryUrl": "https://github.com/oeyoews/tw5.git",
+  "repositoryUrl": "https://gitlab.com/oeyoews/tw5.git",
   "branches": ["tw6"],
   "plugins": [
     "@semantic-release/commit-analyzer",
