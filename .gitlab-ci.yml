@@ -18,6 +18,30 @@ pages:
     paths:
       - node_modules
 
+#https://www.marclittlemore.com/automating-your-releases-with-semantic-release-and-gitlab/
+
+stages:
+  - release
+  - deploy
+
+# A job to cut a new release
+# This will run before our deployment
+create-release:
+
+  # This is part of the release stage
+  stage: release
+
+  variables:
+    GITLAB_TOKEN: $GITLAB_TOKEN
+
+  # Execute semantic-release to create a new release
+  script:
+    - yarn install
+    - npx semantic-release
+
+  #cache:
+    #paths:
+      #- node_modules
 #https://semantic-release.gitbook.io/semantic-release/v/beta/recipes/recipes/gitlab-ci
 # The release pipeline will run only if all jobs in the test pipeline are successful
 #stages:
