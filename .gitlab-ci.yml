@@ -1,22 +1,22 @@
 image: node:latest
 
-pages:
-  only:
-    #- tags
-    - main
+#pages:
+  #only:
+    ##- tags
+    #- main
 
-  script:
-    - yarn build@vercel
+  #script:
+    #- yarn build@vercel
 
-  artifacts:
-    #enabled: false
-    paths:
-      - public
-  #expire_in: 20 minutes
+  #artifacts:
+    ##enabled: false
+    #paths:
+      #- public
+  ##expire_in: 20 minutes
 
-  cache:
-    paths:
-      - node_modules
+  #cache:
+    #paths:
+      #- node_modules
 
 #https://www.marclittlemore.com/automating-your-releases-with-semantic-release-and-gitlab/
 
