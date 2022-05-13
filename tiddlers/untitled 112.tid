@@ -1,6 +1,6 @@
 created: 20220513064235069
 creator: oeyoews
-modified: 20220513064249911
+modified: 20220513151622622
 modifier: oeyoews
 tags: git
 title: untitled 112
@@ -8,5 +8,6 @@ type: text/vnd.tiddlywiki
 
 ```git
 git show-ref --tag | awk '{print ":" $2}' | xargs git push origin
-1
 ```
+
+> only remove current git repo exist tag and push it remote repository
