@@ -118,5 +118,13 @@ coming soom
         "gitlabUrl": "https://gitlab.com/oeyoews/tw5.git"
       }
     ],
--->
 
+
+    [
+      "@semantic-release/github",
+      {
+        "gitlabUrl": "https://github.com/oeyoews/tw5.git"
+      }
+    ],
+
+-->
