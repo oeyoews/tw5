@@ -1,7 +1,7 @@
 caption: Custom Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220511170452713
+modified: 20220513160757736
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/customstylesheet
@@ -113,7 +113,8 @@ select {
 		margin: 10px;
 		border-radius: 3px;
 		color: black;
-		transition: 1s;
+		transition: .5s;
+		max-width: 400px;
 }
 
 .tc-drafts-list a:hover {
