@@ -1,7 +1,7 @@
 caption: Popup Style
 created: 20220425075919716
 creator: oeyoews
-modified: 20220509030216582
+modified: 20220513054316697
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/popupwindowstyle
@@ -21,6 +21,7 @@ type: text/vnd.tiddlywiki
 		box-shadow: 1px 5px 5px #0000004d;
 		transition: 1s;
 		align-items: center;
+		font-size: 16px;
   }
 	
 .ask-user-reload:hover {
