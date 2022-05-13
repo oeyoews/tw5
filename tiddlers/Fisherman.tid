@@ -2,7 +2,7 @@ color: #b8f316
 created: 20220323065821053
 creator: @oeyoews
 icon: 3898538.png
-modified: 20220511010312340
+modified: 20220513072833816
 modifier: oeyoews
 tags: 
 title: Fisherman
@@ -13,3 +13,5 @@ type: text/vnd.tiddlywiki
 {{FLink}}
 ---
 {{$:/config/oeyoews/subtitlefooter}}
+
+<a href="https://gitlab.com/oeyoews/tw5/-/releases" target="_blank"><img alt="Version" src="https://gitlab.com/oeyoews/tw5/-/badges/release.svg" /></a>

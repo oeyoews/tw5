@@ -107,24 +107,3 @@ coming soom
 ## 🕐 UpdateTime
 
 2022-05-13T14:56:03
-
-
-<!--"repositoryUrl": "https://github.com/oeyoews/tw5.git",-->
-
-<!--
-    [
-      "@semantic-release/gitlab",
-      {
-        "gitlabUrl": "https://gitlab.com/oeyoews/tw5.git"
-      }
-    ],
-
-
-    [
-      "@semantic-release/github",
-      {
-        "gitlabUrl": "https://github.com/oeyoews/tw5.git"
-      }
-    ],
-
--->
