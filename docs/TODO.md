@@ -1,6 +1,7 @@
 ## TODO
 
 * [ ] use automatic github or gitlab release
+  stand: https://gitlab.com/oeyoews/semantic-release
   https://blog.dteam.top/posts/2020-05/semantic-release.html
   https://github.com/semantic-release/semantic-release/
   https://github.com/semantic-release/gitlab-config
