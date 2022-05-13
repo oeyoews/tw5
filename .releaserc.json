@@ -3,7 +3,6 @@
   "debug": true,
   "repositoryUrl": "https://github.com/oeyoews/tw5.git",
   "branches": ["tw6"],
-  "extends": "@semantic-release/gitlab-config",
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
