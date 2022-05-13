@@ -1,6 +1,6 @@
 created: 20220513065853101
 creator: oeyoews
-modified: 20220513070302941
+modified: 20220513071247091
 modifier: oeyoews
 tags: gitlab
 title: untitled 113
@@ -8,3 +8,4 @@ type: text/vnd.tiddlywiki
 
 * must setup a protected branch for semantic, otherwise no privillege
 https://docs.gitlab.com/ee/user/project/protected_branches.html
+https://github.com/ftavilla/semantic-release-gitlab-publish
