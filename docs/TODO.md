@@ -1,6 +1,7 @@
 ## TODO
 
 * fix semantic-release warning install
+  * https://github.com/actions/starter-workflows/issues/1191
 * [ ] use automatic github or gitlab release
   stand: https://gitlab.com/oeyoews/semantic-release
   https://blog.dteam.top/posts/2020-05/semantic-release.html
