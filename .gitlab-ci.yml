@@ -40,7 +40,7 @@ Release:
         - yarn.lock
     paths:
       - .yarn-cache/
-      #- node_modules/
+      - node_modules/
 
   # Execute semantic-release to create a new release
   script:
