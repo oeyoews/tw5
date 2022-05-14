@@ -32,7 +32,7 @@ Release:
 
   variables:
     GITLAB_TOKEN: $GITLAB_TOKEN
-    GIT_CLEAN_FLAGS: -fdx -e node_modules/
+    #GIT_CLEAN_FLAGS: -fdx -e node_modules/
 
 
 #image: node:latest
@@ -49,6 +49,7 @@ Release:
   # Execute semantic-release to create a new release
   script:
     #- yarn install
+    - yarn "--emoji" true
     - yarn install --frozen-lockfile --no-progress
     - yarn semantic-release
 
