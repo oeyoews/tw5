@@ -35,16 +35,13 @@ Release:
 
 #https://docs.gitlab.cn/jh/ci/caching/
   cache:
-    #key: $CI_COMMIT_REF_SLUG
-    #paths:
-      #- node_modules
+    key: $CI_COMMIT_REF_SLUG
     key:
       files:
         - yarn.lock
     paths:
       - .yarn-cache/
       - node_modules/
-      #- node_modules
 
   # Execute semantic-release to create a new release
   script:
