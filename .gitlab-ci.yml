@@ -34,14 +34,21 @@ create-release:
   variables:
     GITLAB_TOKEN: $GITLAB_TOKEN
 
+#https://docs.gitlab.cn/jh/ci/caching/
   cache:
     key: $CI_COMMIT_REF_SLUG
+    #paths:
+      #- node_modules
+    key:
+      files:
+        - yarn.lock
     paths:
-      - node_modules
+      - .yarn-cache/
 
   # Execute semantic-release to create a new release
   script:
-    - yarn install
+    #- yarn install
+    - yarn install --frozen-lockfile --no-progress
     - npx semantic-release
 
   #cache:
