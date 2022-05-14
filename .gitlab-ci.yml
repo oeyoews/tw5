@@ -24,9 +24,7 @@ stages:
   - release
   - deploy
 
-# A job to cut a new release
-# This will run before our deployment
-create-release:
+Release:
 
   # This is part of the release stage
   stage: release
@@ -34,12 +32,6 @@ create-release:
   variables:
     GITLAB_TOKEN: $GITLAB_TOKEN
 
-
-  # Execute semantic-release to create a new release
-  script:
-    #- yarn install
-    - yarn install --frozen-lockfile --no-progress
-    - npx semantic-release
 
 #https://docs.gitlab.cn/jh/ci/caching/
   cache:
@@ -50,8 +42,15 @@ create-release:
       files:
         - yarn.lock
     paths:
-      - .yarn-cache/
+      - **/.yarn-cache/
+      - **/node_modules/
       #- node_modules
+
+  # Execute semantic-release to create a new release
+  script:
+    #- yarn install
+    - yarn install --frozen-lockfile --no-progress
+    - yarn semantic-release
 
   #cache:
     #paths:
