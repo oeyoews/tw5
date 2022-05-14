@@ -44,7 +44,8 @@ Release:
 
   # Execute semantic-release to create a new release
   script:
-    - yarn install --frozen-lockfile --no-progress
+    #- yarn install --frozen-lockfile --no-progress
+    - yarn install
     - yarn semantic-release
 
   #cache:
