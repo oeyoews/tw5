@@ -1,0 +1,7 @@
+created: 20220509171036341
+modified: 20220514172702859
+tags: docs
+title: $:/config/gradienttext
+type: text/vnd.tiddlywiki
+
+<a style="font-size:1rem;font-weight:bold;background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59);-webkit-background-clip: text;color: transparent;" href="https://gitlab.com/oeyoews/twm/" target="_blank">FishForYou</a>

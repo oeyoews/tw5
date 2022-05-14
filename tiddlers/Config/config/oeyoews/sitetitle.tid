@@ -1,6 +1,6 @@
 created: 20220322112723685
 creator: @oeyoews
-modified: 20220506053612248
+modified: 20220514172813493
 modifier: oeyoews
 tags: config
 title: $:/config/oeyoews/sitetitle
@@ -12,6 +12,8 @@ TiddlyWiki5
 🎣   
 🥏
 🐬 
--->
 
 FishForYou 
+-->
+
+{{$:/config/gradienttext}}
