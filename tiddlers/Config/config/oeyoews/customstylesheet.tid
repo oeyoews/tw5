@@ -1,11 +1,13 @@
 caption: Custom Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220513160757736
+modified: 20220514171256513
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/customstylesheet
 type: text/vnd.tiddlywiki
+
+html { scroll-behavior: smooth; }
 
 .tc-tiddler-body > embed, .tc-tiddler-body > iframe {
   width: 100%;
