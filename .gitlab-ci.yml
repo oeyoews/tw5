@@ -24,7 +24,7 @@ stages:
   - release
   - deploy
 
-Release:
+creat-release:
 
   # This is part of the release stage
   stage: release
