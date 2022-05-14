@@ -5632,7 +5632,7 @@ traverse@~0.6.6:
   resolved "https://registry.npmmirror.com/traverse/-/traverse-0.6.6.tgz#cbdf560fd7b9af632502fed40f918c157ea97137"
   integrity sha512-kdf4JKs8lbARxWdp7RKdNzoJBhGUcIalSYibuGyHJbmk40pOysQ0+QPvlkCOICOivDWU2IJo2rkrxyTK2AH4fw==
 
-tree-node-cli@1.5.2:
+tree-node-cli@^1.5.2:
   version "1.5.2"
   resolved "https://registry.npmmirror.com/tree-node-cli/-/tree-node-cli-1.5.2.tgz#c684fb9e7c2b9b29aa023eebaa9a095b6f93bf93"
   integrity sha512-lBUNLk3NpRDkdsneWxa6mj5zfV/RZ5TWUniGuGprgmhijatHPcSMxyCs7bKpAqCLfPLZq7moQYLIiuVaWG/FOQ==
