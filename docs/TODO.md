@@ -1,5 +1,6 @@
 ## TODO
 
+* make footer time plugins
 * gitlab semantic its weird time
 * optimic another two project cache githlab  ci settings
 * github token copy bug

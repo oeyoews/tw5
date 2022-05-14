@@ -2,7 +2,7 @@ caption: BodyFooter
 code-body: yes
 created: 20211001231029099
 creator: Télumire
-modified: 20220511163645607
+modified: 20220514055104490
 modifier: oeyoews
 tagging: after
 tags: $:/TiddlyTweaks $:/footer $:/tags/RawMarkupWikified/BottomBody
@@ -54,3 +54,9 @@ mutex="true"
 	lrc-type="1"
 	list-olded="true">`
 `</meting-js>`
+
+`<footer>`
+<$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
+Updated
+<$view field="modified" format="relativedate"/>
+`</footer>`
