@@ -1,7 +1,7 @@
 caption: Muuri
 created: 20220511181300327
 creator: oeyoews
-modified: 20220512020013876
+modified: 20220514074230117
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/plugins/BTC/tiddlywiki-multi-columns/styles
@@ -30,7 +30,7 @@ type: text/vnd.tiddlywiki
 \rules only filteredtranscludeinline transcludeinline macrodef macrocallinline macrocallblock
 
 .tc-story-river [data-tiddler-title="$(cssEscapedTitle)$"].tc-tiddler-frame {
-	border: 4px solid <<colour focused-tiddler>>;
+	border: 3px solid <<colour focused-tiddler>>;
 }
 
 \end
