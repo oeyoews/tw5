@@ -1,5 +1,6 @@
 ## TODO
 
+* gitlab semantic its weird time
 * optimic another two project cache githlab  ci settings
 * github token copy bug
 * [ ] fix semantic-release warning install
