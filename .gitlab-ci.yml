@@ -1,4 +1,4 @@
-image: node:latest
+#image: node:latest
 
 #pages:
   #only:
@@ -28,11 +28,13 @@ Release:
 
   # This is part of the release stage
   stage: release
+  image: node:16
 
   variables:
     GITLAB_TOKEN: $GITLAB_TOKEN
 
 
+#image: node:latest
 #https://docs.gitlab.cn/jh/ci/caching/
   cache:
     key: $CI_COMMIT_REF_SLUG
