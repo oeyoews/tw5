@@ -51,6 +51,7 @@ create-release:
         - yarn.lock
     paths:
       - .yarn-cache/
+      - node_modules
 
   #cache:
     #paths:

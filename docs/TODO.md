@@ -1,36 +1,24 @@
 ## TODO
 
-
+* github token copy bug
 * [ ] fix semantic-release warning install
   * [ ] https://github.com/actions/starter-workflows/issues/1191
-* todo: interity gitinfo
-  https://github.com/gajus/gitinfo
-  https://www.npmjs.com/package/gitinfo
-* learn template plugins, to make plugins
-  url = https://github.com/tiddly-gittly/Tiddlywiki-WikiText-Plugin-Template.git
 * loading style
   https://pic.icodeq.com/
-* [ ] learn animation
-* [ ] learn use figma
 * [ ] add close others for alt e
   https://www.flaticon.com/search?word=fishing&color=gradient&order_by=4
-* [ ] learn vuepress pwa and make plugin for tw5
-  https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-pwa
 * add clipboard for codesnippets
 * add macro for img style
 * customize self tooltip replace browser
-* pack workbox plugin(bug: solve sw update problems)
-* how to load local file with plugins
+* [ ] pack workbox plugin(bug: solve sw update problems)
+* [ ] how to load local file with plugins
 * not support var function
-* add tw theme like vscode material theme
-* use palette to tidy theme color
-* learn yarn all docs
-* how setup timezone for vercel ci
-* how to update yarn.lock (by scripts)
+* [ ] add tw theme like vscode material theme
+* [ ] use palette to tidy theme color
+* [ ] learn yarn all docs
+* [ ] how setup timezone for vercel ci
 * maybe for vercel add signle shellscript and add test time function
-* learn tailwind and windicss
-  https://cn.windicss.org/guide/extractions.html
-- [ ] todo: add gource pic
+- [ ] todo: add gource picture
 - [ ] todo: like this [wiki](http://jyywiki.cn/OS/2022/slides/1.slides#/3/1/0)
 
 - [ ] todo: idea's gitignore how to work
@@ -226,3 +214,15 @@
   https://docs.gitlab.cn/jh/ci/examples/semantic-release.html
   * [x] how to use gitlab semantic-release compatible github
 * [x] make work music plugins
+* [?] todo: interity gitinfo
+  https://github.com/gajus/gitinfo
+  https://www.npmjs.com/package/gitinfo
+* [?} learn template plugins, to make plugins
+  url = https://github.com/tiddly-gittly/Tiddlywiki-WikiText-Plugin-Template.git
+* [?] learn animation
+* [?] learn use figma
+* [?] learn vuepress pwa and make plugin for tw5
+  https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/plugin-pwa
+* [x] how to update yarn.lock (by scripts)
+* [?] learn tailwind and windicss
+  https://cn.windicss.org/guide/extractions.html
