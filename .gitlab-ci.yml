@@ -34,6 +34,10 @@ create-release:
   variables:
     GITLAB_TOKEN: $GITLAB_TOKEN
 
+  cache:
+    paths:
+      - node_modules
+
   # Execute semantic-release to create a new release
   script:
     - yarn install
