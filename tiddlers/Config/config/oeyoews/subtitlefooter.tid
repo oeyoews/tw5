@@ -1,9 +1,9 @@
 caption: Footer
 created: 20220310033519322
 creator: @oeyoews
-modified: 20220511010443478
+modified: 20220514073223127
 modifier: oeyoews
-tags: config
+tags: config $:/tags/footer
 title: $:/config/oeyoews/subtitlefooter
 type: text/vnd.tiddlywiki
 

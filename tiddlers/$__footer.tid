@@ -2,7 +2,7 @@ caption: BodyFooter
 code-body: yes
 created: 20211001231029099
 creator: Télumire
-modified: 20220514055104490
+modified: 20220514073247746
 modifier: oeyoews
 tagging: after
 tags: $:/TiddlyTweaks $:/footer $:/tags/RawMarkupWikified/BottomBody
@@ -14,6 +14,8 @@ https://tiddlywiki.com/#SystemTag%3A%20%24%3A%2Ftags%2FRawMarkupWikified%2FBotto
 
 $:/tags/RawMarkupWikified/BottomBody
 
+-->
+
 `<footer>`
 <$list filter="[tag[$:/tags/footer]]">
 
@@ -21,7 +23,6 @@ $:/tags/RawMarkupWikified/BottomBody
 
 </$list>
 `</footer>`
--->
 
 <!-- hitokoto 
 `<footer id="hitokoto" style="color: black;text-decoration: 3px underline lightblue;font-family: "jetbrains mono";font-size:14px;">`
@@ -54,9 +55,3 @@ mutex="true"
 	lrc-type="1"
 	list-olded="true">`
 `</meting-js>`
-
-`<footer>`
-<$list filter="[!is[system]!has[draft.of]!sort[modified]limit[1]]">
-Updated
-<$view field="modified" format="relativedate"/>
-`</footer>`
