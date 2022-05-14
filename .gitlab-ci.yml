@@ -14,10 +14,6 @@
       #- public
   ##expire_in: 20 minutes
 
-  #cache:
-    #paths:
-      #- node_modules
-
 #https://www.marclittlemore.com/automating-your-releases-with-semantic-release-and-gitlab/
 
 stages:
