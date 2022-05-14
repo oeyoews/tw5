@@ -35,6 +35,7 @@ create-release:
     GITLAB_TOKEN: $GITLAB_TOKEN
 
   cache:
+    key: $CI_COMMIT_REF_SLUG
     paths:
       - node_modules
 
