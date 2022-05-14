@@ -39,9 +39,9 @@ Release:
 #https://docs.gitlab.cn/jh/ci/caching/
   cache:
     key: $CI_COMMIT_REF_SLUG
-    key:
-      files:
-        - yarn.lock
+    #key:
+      #files:
+        #- yarn.lock
     paths:
       - .yarn-cache/
       #- node_modules/
