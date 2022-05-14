@@ -1,17 +1,17 @@
 created: 20220402110714393
 creator: @oeyoews
-difficulty: 0.3108704956392557
-due: 20220423101732040
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220530113730154
+grade: 1
+history: [{"due":"20220423101732040","interval":0,"difficulty":0.3108704956392557,"stability":0.10000011324882507,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220422101732039"}]
+interval: 22
 lapses: 0
-modified: 20220422101732040
+modified: 20220514113730154
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220422101732039
-stability: 0.10000011324882507
+reps: 2
+retrievability: 8.577554319186403e-11
+review: 20220514113730153
+stability: 16.439773950624282
 tags: EnglishWord ?
 title: majority
 type: text/vnd.tiddlywiki

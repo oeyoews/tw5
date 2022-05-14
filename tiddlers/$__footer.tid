@@ -2,7 +2,7 @@ caption: BodyFooter
 code-body: yes
 created: 20211001231029099
 creator: Télumire
-modified: 20220514092730988
+modified: 20220514093501183
 modifier: oeyoews
 tagging: after
 tags: $:/TiddlyTweaks $:/footer $:/tags/RawMarkupWikified/BottomBody
@@ -14,8 +14,8 @@ https://tiddlywiki.com/#SystemTag%3A%20%24%3A%2Ftags%2FRawMarkupWikified%2FBotto
 
 $:/tags/RawMarkupWikified/BottomBody
 
+Bug: this uptime not union
 
-<!-- bug: this uptime not union -->
 `<footer>`
 <$list filter="[tag[$:/tags/footer]]">
 
