@@ -24,7 +24,7 @@ stages:
   - release
   - deploy
 
-creat-release:
+Release:
 
   # This is part of the release stage
   stage: release
@@ -42,8 +42,8 @@ creat-release:
       files:
         - yarn.lock
     paths:
-      - **/.yarn-cache/
-      - **/node_modules/
+      - .yarn-cache/
+      - node_modules/
       #- node_modules
 
   # Execute semantic-release to create a new release
