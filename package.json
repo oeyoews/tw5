@@ -5,7 +5,7 @@
   "author": "oeyoews <jyao4783@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
     "build@vercel": "bash scripts/vercel.sh",
     "copy@tidpatch": "cp static/tiddlerspatch/* tiddlers/",
     "build": "tiddlywiki --output public --build index",
