@@ -32,6 +32,7 @@ Release:
 
   variables:
     GITLAB_TOKEN: $GITLAB_TOKEN
+    GIT_CLEAN_FLAGS: -fdx -e node_modules/
 
 
 #image: node:latest
