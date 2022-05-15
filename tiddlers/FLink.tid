@@ -1,6 +1,6 @@
 created: 20220410033448432
 creator: @oeyoews
-modified: 20220509111218084
+modified: 20220515023444348
 modifier: oeyoews
 tags: config
 title: FLink
@@ -8,6 +8,10 @@ type: text/vnd.tiddlywiki
 
 <!-- <span class="tooltiptext">test</spqn> <i style="color: #ffc022;" class="fab fa-d-and-d"></i> 🐦 
 🦈
+🥃 
+&nbsp;
+[img[https://img.shields.io/gitlab/v/tag/oeyoews/tw5?style=social&logo=appveyor&logoColor=yellow]]
+</div>
 -->
 
 <div style="user-select: none">
@@ -21,4 +25,5 @@ type: text/vnd.tiddlywiki
 🍓 [[Favicon|$:/favicon.ico]]
 &nbsp;
 <a style="font-weight:bold;background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59);-webkit-background-clip: text;color: transparent;" href="https://gitlab.com/oeyoews/tw5/" target="_blank"><i style="color: cyan;" class="fab fa-shake fa-gitlab"></i> Gitlab </a>
-</div>
+&nbsp;
+
