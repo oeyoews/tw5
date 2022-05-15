@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.9.2](https://gitlab.com/oeyoews/tw5/compare/v1.9.1...v1.9.2) (2022-05-15)
+
+
+### Bug Fixes
+
+* add package.json in assets for semantic ([a0e52d9](https://gitlab.com/oeyoews/tw5/commit/a0e52d9d6cd470cc40735880bc75a2f6840fa983))
+
 ## [1.9.1](https://gitlab.com/oeyoews/tw5/compare/v1.9.0...v1.9.1) (2022-05-15)
 
 
