@@ -104,6 +104,9 @@ coming soom
 
 [FAQ](https://oeyoew.fun/#FAQ)
 
+## 🧱 CHANGELOG
+* [CHANGELOG](docs/CHANGELOG.md)
+
 ## 🕐 UpdateTime
 
 2022-05-14T11:56:08
