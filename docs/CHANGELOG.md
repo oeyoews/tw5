@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.9.1](https://gitlab.com/oeyoews/tw5/compare/v1.9.0...v1.9.1) (2022-05-15)
+
+
+### Bug Fixes
+
+* add version for package.json ([934449f](https://gitlab.com/oeyoews/tw5/commit/934449f864681010e0994203bd964a7f9cb425ab))
+
 # [1.9.0](https://gitlab.com/oeyoews/tw5/compare/v1.8.0...v1.9.0) (2022-05-15)
 
 
