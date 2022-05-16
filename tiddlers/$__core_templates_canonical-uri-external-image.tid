@@ -1,6 +1,6 @@
 created: 20220516005357411
 creator: oeyoews
-modified: 20220516013431862
+modified: 20220516015452524
 modifier: oeyoews
 tags: 
 title: $:/core/templates/canonical-uri-external-image
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 <!--
 {{image-prefix-url}}/{{$:/repo}}/{{branch}}/{{$:/config/oeyoews/external-image/tiddlers-folder}}/<$view field="title" format="urlencoded"/>
 -->
-https://gitlab.com/oeyoews/tw5/-/blob/tw6/tiddlers/dragimgs/
+https://gitlab.com/oeyoews/tw5/-/blob/tw6/tiddlers/images/<$view field="title" format="urlencoded"/>
