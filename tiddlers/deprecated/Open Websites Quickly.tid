@@ -1,0 +1,43 @@
+created: 20220326065241103
+creator: @oeyoews
+modified: 20220516110102180
+modifier: oeyoews
+tags: deprecated
+title: Open Websites Quickly
+type: text/vnd.tiddlywiki
+
+!! Relevant Tools
+
+* ''OS'': Linux
+*'' Browser'': google-chrome-stable 99
+* ''Record SoftWare'': OBS
+
+!! Shortcuts
+
+* `ctrl l`
+* `ctrl t`
+* `ctrl d`
+* `Tab`
+
+!!   Other Shortcuts 
+* `ctrl n`
+
+!!  Examples 
+
+You can bookmark a website in advance and open it. But now, I want to introduce another method.
+
+* xynu.edu.cn
+* bing.com  
+* github.com
+
+
+
+!!  Alias(custom)
+
+!! TODO
+
+[x] example todo
+[x] for gitee setup alias use tab to complete
+[x] make ppt
+[x] scratch for this recording
+[x] translate docs to cn in ppt

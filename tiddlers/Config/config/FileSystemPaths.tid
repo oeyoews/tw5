@@ -1,7 +1,7 @@
 caption: Config Directory
 created: 20220228060333093
 creator: oeyoews
-modified: 20220516072346013
+modified: 20220516110009617
 modifier: oeyoews
 tags: config
 title: $:/config/FileSystemPaths
@@ -19,7 +19,8 @@ type: text/vnd.tiddlywiki
 
 [tag[$:/tags/trashbin]removeprefix[$:/]addprefix[trash/]]
 
-[tag[deprecated]removeprefix[$:/]addprefix[deprecated/]]
+[tag[deprecated]search-replace:g:regexp[/|\\],[_]addprefix[deprecated/]]
+
 [tag[??]addprefix[temporary/]]
 
 [prefix[$:/plugins]removeprefix[$:/]addprefix[]]

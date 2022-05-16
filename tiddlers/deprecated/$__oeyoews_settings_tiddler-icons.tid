@@ -1,0 +1,48 @@
+caption: Add Icon
+created: 20220212075520970
+creator: oeyoews
+modified: 20220516110102173
+modifier: oeyoews
+tags: Source deprecated
+title: $:/oeyoews/settings/tiddler-icons
+type: text/vnd.tiddlywiki
+
+[tag[deprecated]then[$:/images/tabler-icons/trash-off]]
+
+[tag[books]then[$:/images/bootstrap/book]]
+
+[tag[Linux]then[$:/images/boxicons/logos/bxl-tux]]
+
+[tag[Win]then[$:/images/svg-icon/social-windows-outline]]
+
+[tag[gnome]then[$:/images/templarian-material-design/gnome]]
+
+[tag[wiki]then[$:/images/templarian-material-design/wikipedia]]
+
+[tag[frontend]then[$:/images/tabler-icons/brand-html5]]
+
+[tag[github]then[$:/core/images/github]]
+
+[tag[TiddlyWiki5]then[$:/core/icon]]
+
+[tag[git]then[$:/images/octicons/git-compare-24]]
+
+[tag[emacs]then[$:/images/coreui-icons/brand/cib-spacemacs]]
+
+[tag[wine]then[$:/images/google-material-design/maps/two-tone/24px/wine-bar]]
+
+[tag[408]then[$:/images/coreui-icons/brand/cib-safari]]
+
+[tag[Math]then[$:/images/forge-icons/mathematics]]
+
+[tag[config]then[$:/images/templarian-material-design/powershell]]
+
+[tag[docs]then[$:/images/svg-icon/books]]
+
+[tag[private]then[$:/images/coreui-icons/brand/cib-gnu-privacy-guard]]
+
+[tag[python]then[$:/images/tabler-icons/brand-python]]
+
+[tag[iphone]then[$:/images/templarian-material-design/apple-ios]]
+
+[tag[Index]then[$:/plugins/kookma/todolist/images/lightbulb]]
