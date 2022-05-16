@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.11.2](https://gitlab.com/oeyoews/tw5/compare/v1.11.1...v1.11.2) (2022-05-16)
+
+
+### Bug Fixes
+
+* add filter to prevent $:/ image ([5b315d9](https://gitlab.com/oeyoews/tw5/commit/5b315d9a437e647765a2f5e0c7d21799392474b4))
+
 ## [1.11.1](https://gitlab.com/oeyoews/tw5/compare/v1.11.0...v1.11.1) (2022-05-16)
 
 
