@@ -1,5 +1,6 @@
 ## TODO
 
+* creat readonly mode use tiddlywiki.info
 * kitty emoji bug issue
 * [ ] optimic another two project cache githlab  ci settings
 * github token copy bug

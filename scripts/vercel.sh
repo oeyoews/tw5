@@ -15,6 +15,7 @@ yarn copy@tidpatch
 
 # add public must before public copy steps for versel(if public else .)
 # NOTES: will destory image
+# yarn build@online > /dev/null 2>&1
 yarn build@online
 
 # === Vercel
