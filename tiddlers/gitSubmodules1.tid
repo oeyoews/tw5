@@ -1,6 +1,6 @@
 created: 20220129082519599
 creator: oeyoews
-modified: 20220218194853039
+modified: 20220515144102945
 modifier: oeyoews
 stream-list: [[git submodule tips/20220130115959742]] [[git submodule tips/20220130120059799]]
 stream-type: default
@@ -13,9 +13,10 @@ git submodule url name
 or git clone --depth 1 --recursive
 
 [[gitsubmodules|https://violatangxl.github.io/2020/12/09/git-submodule/#%E5%A6%82%E4%BD%95%E4%B8%BA%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E5%A2%9E%E5%8A%A0submodule]]
-[img[gitsubmodule.png]] 
 
 > rm submodule repo
 
 * git submodule sync
 * git ls-files –stage | grep 160000
+
+* git clone --recursive git@github.com:Edenwds/springcloud_study.git

@@ -1,7 +1,6 @@
 ## TODO
 
-* [x] make footer time plugins
-* [x] gitlab semantic its weird time
+* kitty emoji bug issue
 * [ ] optimic another two project cache githlab  ci settings
 * github token copy bug
 * [ ] fix semantic-release warning install
@@ -44,7 +43,6 @@
 - [ ] feat: hove effects for `ctrl p`
 - [ ] feat: use git commit time to replace utc system
 - [ ] feat: add shortkeys for controll (alt i) and jump inbox shortkey
-- [x] add fish float loop
 - [ ] fix: fix code block for specific type
 - [ ] todo: learn use transition details
 - [ ] fix: use div(maybe) to compute current window location for fishing(may be use js)
@@ -229,3 +227,6 @@
 * [x] how to update yarn.lock (by scripts)
 * [?] learn tailwind and windicss
   https://cn.windicss.org/guide/extractions.html
+* [x] make footer time plugins
+* [x] gitlab semantic its weird time
+- [x] add fish float loop
