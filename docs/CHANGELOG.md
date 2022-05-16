@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.11.1](https://gitlab.com/oeyoews/tw5/compare/v1.11.0...v1.11.1) (2022-05-16)
+
+
+### Bug Fixes
+
+* add !has[xxxurl] ([3031b1c](https://gitlab.com/oeyoews/tw5/commit/3031b1c03e17642c0281d730225cdd49978fc704))
+* fix favicon type x-icon [skip ci] ([f1d0c50](https://gitlab.com/oeyoews/tw5/commit/f1d0c50eb4ccdd2db9611bac71112ff4533ad6be))
+
 # [1.11.0](https://gitlab.com/oeyoews/tw5/compare/v1.10.2...v1.11.0) (2022-05-16)
 
 
