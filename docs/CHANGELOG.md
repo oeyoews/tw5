@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.10.1](https://gitlab.com/oeyoews/tw5/compare/v1.10.0...v1.10.1) (2022-05-16)
+
+
+### Bug Fixes
+
+* fix zero bug [skip ci] ([a1e45dc](https://gitlab.com/oeyoews/tw5/commit/a1e45dcfe4fad7934b0f041daab1f6ded51a9073))
+* remove lazy image loading ([2ac9ab1](https://gitlab.com/oeyoews/tw5/commit/2ac9ab16f504c997e52a8f7a52f391c642f08ba5))
+* revert all images [skip ci] ([dbc3a23](https://gitlab.com/oeyoews/tw5/commit/dbc3a2326e3cda613700a46389f60c2783664a8a))
+
+
+### Reverts
+
+* Revert "feat: use __core_templates_canonical-uri-external-image" ([7ea3393](https://gitlab.com/oeyoews/tw5/commit/7ea3393accf921d7ff17ce6cb3a6a7a59eec8811))
+
 # [1.10.0](https://gitlab.com/oeyoews/tw5/compare/v1.9.2...v1.10.0) (2022-05-16)
 
 
