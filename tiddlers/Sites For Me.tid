@@ -1,6 +1,6 @@
 created: 20220505063228834
 creator: oeyoews
-modified: 20220515022917905
+modified: 20220516133744746
 modifier: oeyoews
 tags: config
 title: Sites For Me
@@ -40,10 +40,15 @@ type: text/vnd.tiddlywiki
 
 ---
 <!-- jsdelivr -->
-<a href="https://www.jsdelivr.com/package/gh/oeyoews/img" target="_blank"><img alt="status" src="https://data.jsdelivr.com/v1/package/gh/oeyoews/img/badge" /></a>
 <!-- gitlab ci/cd -->
+<!--
 <a href="https://gitlab.com/oeyoews/tw5/-/commits/tw6" target="_blank"><img alt="CI/CD status" src="https://gitlab.com/oeyoews/tw5/badges/tw6/pipeline.svg" /></a>
+-->
 <!--
 <a href="https://gitlab.com/oeyoews/tw5/-/releases" target="_blank"><img alt="Latest Release" src="https://gitlab.com/oeyoews/tw5/-/badges/release.svg" /></a>
 [img[https://img.shields.io/gitlab/v/tag/oeyoews/tw5?style=social&logo=appveyor]]
 -->
+
+<a href="https://www.jsdelivr.com/package/gh/oeyoews/img" target="_blank"><img alt="status" src="https://data.jsdelivr.com/v1/package/gh/oeyoews/img/badge" /></a>
+<img alt="Gitlab pipeline status" src="https://img.shields.io/gitlab/pipeline-status/oeyoews/tw5?branch=tw6">
+<img alt="GitLab Release (latest by date)" src="https://img.shields.io/gitlab/v/release/oeyoews/tw5">
