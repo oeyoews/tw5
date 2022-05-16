@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.10.0](https://gitlab.com/oeyoews/tw5/compare/v1.9.2...v1.10.0) (2022-05-16)
+
+
+### Bug Fixes
+
+* fix title link [skip ci] ([3513073](https://gitlab.com/oeyoews/tw5/commit/351307394dd42faa9cc3ef80310d8975fb13ff46))
+
+
+### Features
+
+* use __core_templates_canonical-uri-external-image ([9ae8b68](https://gitlab.com/oeyoews/tw5/commit/9ae8b68a68bebcfce3428f09ccfff6148d7be2e9))
+
 ## [1.9.2](https://gitlab.com/oeyoews/tw5/compare/v1.9.1...v1.9.2) (2022-05-15)
 
 
