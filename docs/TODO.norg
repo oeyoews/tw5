@@ -7,6 +7,7 @@
   version: 0.0.11
 @end
 
+- [-]  add coverage for gitlab
 - [-]  creat readonly mode use tiddlywiki.info
 - [-]  kitty emoji bug issue
 * [ ] optimic another two project cache githlab  ci settings

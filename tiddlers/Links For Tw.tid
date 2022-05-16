@@ -1,46 +1,15 @@
+code-body: yes
 created: 20220421054229882
 creator: oeyoews
-modified: 20220509033614137
+modified: 20220516153823751
 modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: Links For Tw
 type: text/vnd.tiddlywiki
 
-<!-- busuanzi
- <script async src="https://busuanzi.icodeq.com/busuanzi.pure.mini.js"></script>
- -->
- 
- <!-- https://blog.xsot.cn/archives/busuanzi-go.html 
-<script async src="https://busuanzi.9420.ltd/js"></script> 
- -->
- 
- <!-- https://busuanzi.icodeq.com/  
- <script async src="https://busuanzi.icodeq.com/busuanzi.pure.mini.js"></script>
- -->
- 
- 
-<!-- hitokoto -->
-<!-- fix href bug missing put last -->
-<!--
-<script>
-  fetch('https://v1.hitokoto.cn')
-    .then(response => response.json())
-    .then(data => {
-      const hitokoto = document.getElementById('hitokoto_text')
-      hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
-      hitokoto.innerText = data.hitokoto
-    })
-    .catch(console.error)
-</script>
--->
-<!-- https://github.com/hitokoto-osc/hitokoto-api/issues/393#issuecomment-926607322 
--->
-<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
-
 <!-- 
 <link href="https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/fonts/webfonts/JetBrainsMono-Regular.woff2" rel="text/plain">
 -->
-
 
 <!-- add modern-normalize  now is local(wrong) tw is bind it.
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/modern-normalize@1.1.0/modern-normalize.css">
@@ -55,7 +24,10 @@ type: text/vnd.tiddlywiki
 
 <link href="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/css/all.css" rel="stylesheet">
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DIYgod/APlayer/dist/APlayer.min.css">
+<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+
 <!-- music -->
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DIYgod/APlayer/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/gh/DIYgod/APlayer/dist/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js "></script>
