@@ -1,7 +1,7 @@
 caption: Custom Stylesheet
 created: 20220316051356798
 creator: @oeyoews
-modified: 20220514171256513
+modified: 20220516113755529
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: $:/config/oeyoews/customstylesheet
@@ -14,6 +14,7 @@ html { scroll-behavior: smooth; }
   height: 600px;
   border: 0px;
 }
+
 .tc-notification {
 	color: black;
 	border-radius: 5px;

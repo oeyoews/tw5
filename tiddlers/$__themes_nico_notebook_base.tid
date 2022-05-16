@@ -449,7 +449,7 @@ h1.tc-site-title {
 
 .nc-sidebar .tc-tiddlylink {
   color: <<colour primary>>;
-  padding: 0 6px;
+  padding: 0;
 }
 
 @media (min-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {
