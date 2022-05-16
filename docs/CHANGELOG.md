@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.11.0](https://gitlab.com/oeyoews/tw5/compare/v1.10.2...v1.11.0) (2022-05-16)
+
+
+### Features
+
+* use `ctrl k` shortcuts and enable AutoFocus ([8cbdb64](https://gitlab.com/oeyoews/tw5/commit/8cbdb642762b8495ffb19d33b9488ae5638b1d00))
+
 ## [1.10.2](https://gitlab.com/oeyoews/tw5/compare/v1.10.1...v1.10.2) (2022-05-16)
 
 
