@@ -1,5 +1,5 @@
 {
-  "description": "Basic client-server edition",
+  "description": "Fishing For you",
     "plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
