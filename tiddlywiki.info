@@ -15,7 +15,7 @@
       "index.html",
       "text/plain"
       ],
-    "test": [
+    "online": [
       "--setfield",
       "[is[binary]] [type[application/msword]]",
       "_canonical_uri",
@@ -27,8 +27,8 @@
       "",
       "text/plain",
       "--rendertiddler",
-      "$:/core/save/all-external-js",
-      "test.html",
+      "$:/plugins/tiddlywiki/tiddlyweb/save/offline",
+      "index.html",
       "text/plain"
     ],
       "static": [
