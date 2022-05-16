@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.13.0](https://gitlab.com/oeyoews/tw5/compare/v1.12.0...v1.13.0) (2022-05-16)
+
+
+### Features
+
+* update five badges ([bd66d91](https://gitlab.com/oeyoews/tw5/commit/bd66d915220e27a9a7ad630d827e84b5758e75b0))
+
 # [1.12.0](https://gitlab.com/oeyoews/tw5/compare/v1.11.2...v1.12.0) (2022-05-16)
 
 
