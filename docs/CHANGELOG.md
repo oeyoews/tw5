@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.12.0](https://gitlab.com/oeyoews/tw5/compare/v1.11.2...v1.12.0) (2022-05-16)
+
+
+### Bug Fixes
+
+* fix deprecate not work [skip ci] ([ef41427](https://gitlab.com/oeyoews/tw5/commit/ef414279946b02151c7785cee28a17b05ef12771))
+* remove _canonical for externalimage [skip ci] ([203e727](https://gitlab.com/oeyoews/tw5/commit/203e7276178deffcd66177bdc611cdfad8b95686))
+* remove l1 in memo [skip ci] ([867f00f](https://gitlab.com/oeyoews/tw5/commit/867f00f3bff6ff0e0e3ad990cb3df3ea146f1751))
+* use gitlab logo for tag [skip ci] ([14fcd69](https://gitlab.com/oeyoews/tw5/commit/14fcd695e308f6d0d4d17d717896b6fb284d310d))
+
+
+### Features
+
+* **vercel:** add vercel config ([0d1e035](https://gitlab.com/oeyoews/tw5/commit/0d1e035c709bf7bfc6c25cc22f073ef56fc4306c))
+
 ## [1.11.2](https://gitlab.com/oeyoews/tw5/compare/v1.11.1...v1.11.2) (2022-05-16)
 
 
