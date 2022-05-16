@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.14.0](https://gitlab.com/oeyoews/tw5/compare/v1.13.1...v1.14.0) (2022-05-16)
+
+
+### Features
+
+* add many icons from flaticon.com ([129e8e8](https://gitlab.com/oeyoews/tw5/commit/129e8e8b1106cfda1810c2a2adb779c978441483))
+
 ## [1.13.1](https://gitlab.com/oeyoews/tw5/compare/v1.13.0...v1.13.1) (2022-05-16)
 
 
