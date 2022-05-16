@@ -1,6 +1,6 @@
 created: 20220322112723685
 creator: @oeyoews
-modified: 20220515022706256
+modified: 20220516083530244
 modifier: oeyoews
 tags: config
 title: $:/config/oeyoews/sitetitle
@@ -19,4 +19,4 @@ FishForYou
 {{$:/config/gradienttext}}
 
 <div style="text-align:right;">
-[img[https://img.shields.io/gitlab/v/tag/oeyoews/tw5?style=social&logo=appveyor]]
+[img[https://img.shields.io/gitlab/v/tag/oeyoews/tw5?style=social&logo=gitlab]]

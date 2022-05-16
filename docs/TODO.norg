@@ -1,9 +1,14 @@
-# TODO
+@document.meta
+  title: TODO
+  description:
+  authors: oeyoews
+  categories:
+  created: 2022-05-16
+  version: 0.0.11
+@end
 
-## Ing
-
-* [ ] creat readonly mode use tiddlywiki.info
-* [ ] kitty emoji bug issue
+- [-]  creat readonly mode use tiddlywiki.info
+- [-]  kitty emoji bug issue
 * [ ] optimic another two project cache githlab  ci settings
 * [ ] github token copy bug
 * [ ] fix semantic-release warning install
