@@ -1,0 +1,15 @@
+created: 20220516171727503
+creator: oeyoews
+modified: 20220516172413785
+modifier: oeyoews
+tags: TiddlyWiki5
+title: Beauty Gallary
+type: text/vnd.tiddlywiki
+
+\define copyActions() <$action-sendmessage $message="tm-copy-to-clipboard" $param=<<imageTitle>>/>
+
+<<.tip "Click an icon to copy the title to the clipboard">>
+
+<div class="tc-image-chooser">
+<$macrocall $name="image-picker-list" filter="[all[shadows+tiddlers]is[image]]" actions=<<copyActions>> />
+</div>

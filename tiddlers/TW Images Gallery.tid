@@ -2,7 +2,7 @@ caption: Icon
 created: 20220212071043538
 creator: oeyoews
 list-after: $:/core/ui/SideBar/Open
-modified: 20220507161428934
+modified: 20220516171754475
 modifier: oeyoews
 tags: examples
 title: TW Images Gallery
@@ -15,4 +15,3 @@ type: text/vnd.tiddlywiki
 <div class="tc-image-chooser">
 <$macrocall $name="image-picker-list" filter="[all[shadows+tiddlers]tag[$:/tags/Image]]" actions=<<copyActions>> />
 </div>
-

@@ -1,8 +1,8 @@
 created: 20211226090507852
 creator: oeyoews
-modified: 20220515101539878
+modified: 20220516170909722
 modifier: oeyoews
 title: $:/config/RelinkOnRename
 type: text/vnd.tiddlywiki
 
-yes
+no
