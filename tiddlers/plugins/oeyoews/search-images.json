@@ -1,0 +1,164 @@
+{"tiddlers": {
+"$:/plugins/oeyoews/search-images/icon": {
+    "title": "$:/plugins/oeyoews/search-images/icon",
+    "created": "20220516180924734",
+    "modified": "20220516180926178",
+    "tags": "",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<svg width=\"22pt\" height=\"22pt\" viewBox=\"0 0 128 128\" class=\"tc-image-plugin-generic-plugin tc-image-button\" fill=\"orange\"><path fill-rule=\"evenodd\" d=\"M40.397 76.446V95.34h14.12l-.001-.005a6.912 6.912 0 005.364-11.593l.046-.023a6.912 6.912 0 119.979.526l.086.055a6.914 6.914 0 004.408 10.948l-.023.092h21.32V75.568l-.15.038a6.912 6.912 0 00-11.593-5.364l-.022-.046a6.912 6.912 0 11.526-9.979l.055-.086a6.914 6.914 0 0010.948-4.408c.079.018.158.038.236.059v-15.74h-21.32l.023-.094a6.914 6.914 0 01-4.408-10.947 10.23 10.23 0 00-.086-.055 6.912 6.912 0 10-9.979-.526l-.046.023a6.912 6.912 0 01-5.364 11.593l.001.005h-14.12v12.847A6.912 6.912 0 0129.5 59.843l-.054.086a6.912 6.912 0 10-.526 9.979l.023.046a6.912 6.912 0 0111.455 6.492zM64 0l54.56 32v64L64 128 9.44 96V32L64 0z\"/></svg>",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/plugins/oeyoews/search-images/readme": {
+    "title": "$:/plugins/oeyoews/search-images/readme",
+    "created": "20220516180933443",
+    "modified": "20220517005424837",
+    "tags": "",
+    "type": "text/vnd.tiddlywiki",
+    "text": "link: http://www.telumire.be/TiddlyTweaks/index.html#:%5B%5B%24:/ThemeTweaks/FaviconWizard%5D%5D",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/plugins/oeyoews/search-images/version": {
+    "title": "$:/plugins/oeyoews/search-images/version",
+    "created": "20220516180954950",
+    "modified": "20220516181024477",
+    "tags": "",
+    "type": "text/vnd.tiddlywiki",
+    "text": "{{ $:/plugins/oeyoews/search-images!!version}}",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/showInfo/search/titles": {
+    "title": "$:/showInfo/search/titles",
+    "created": "20211108110652618",
+    "hide-body": "yes",
+    "modified": "20211108111206162",
+    "tags": "$:/showInfo/search $:/showInfo",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<li><$link to=<<item>> /></li>",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/showInfo/search/list/titles": {
+    "title": "$:/showInfo/search/list/titles",
+    "created": "20211108110810371",
+    "modified": "20211108112642587",
+    "tags": "$:/showInfo $:/showInfo/search",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<$vars\n\nsearch-list=\"[all[tiddlers+shadows]tag[tip]]\"\nitem-template=\"$:/showInfo/search/titles\"\nlist-class=\"\"\nlist-style=\"\"\"  \"\"\"\n\n>\n\n{{$:/showInfo/search/template}}\n\n</$vars>",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/showInfo/search/SystemImage": {
+    "created": "20210911212256922",
+    "text": "List of all system images (ie, tiddlers tagged {{$:/tags/Image||$:/core/ui/TagTemplate}}). Click on an icon to copy its title !\n\n<$vars\nsearch-list=\"[[$:/tags/Image]tagging[]]\"\nitem-template=\"$:/showInfo/search/img\"\nlist-class=\"\"\nlist-style=\"\"\"padding:0; \"\"\"\n>\n{{{[<item-template>is[blank]then[$:/showInfo/search/list/titles]else<item-template>]}}}\n{{$:/showInfo/search/template}}\n</$vars>",
+    "title": "$:/showInfo/search/SystemImage",
+    "caption": "Images",
+    "modified": "20220517010306587",
+    "tags": "$:/tags/SideBar $:/showInfo/search $:/showInfo",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "0",
+    "bag": "default",
+    "icon": "$:/core/images/picture"
+},
+
+"$:/showInfo/search/tagging": {
+    "title": "$:/showInfo/search/tagging",
+    "created": "20211108114659440",
+    "modified": "20211108120516307",
+    "tags": "$:/showInfo/search $:/showInfo",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<$vars search-list=\"[all[current]tagging[]]\">{{$:/showInfo/search/template}}</$vars>",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/showInfo/search/img": {
+    "title": "$:/showInfo/search/img",
+    "created": "20210911222821934",
+    "hide-body": "yes",
+    "modified": "20211108112423572",
+    "tags": "$:/showInfo/search $:/showInfo",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<$button message=\"tm-copy-to-clipboard\" param=<<item>> class=\"tc-btn-invisible search-list-img\" tooltip=<<item>>>\n<$transclude tiddler=<<item>>/>\n</$button>",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/showInfo/search/img/style": {
+    "title": "$:/showInfo/search/img/style",
+    "text": ".search-list-img :is(svg , img) {\nfont-size: 2em;\nmargin:5px;\n}\n\n.search-list-img img {\nobject-fit: contain;\nwidth: 2em;\nheight: auto;\n}",
+    "created": "20210911225120089",
+    "modified": "20210922020313946",
+    "tags": "$:/tags/Stylesheet $:/showInfo",
+    "type": "text/css",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/showInfo/search/template": {
+    "title": "$:/showInfo/search/template",
+    "created": "20210911022445519",
+    "description": "See $:/showInfo/search/SystemImage for an example of how to use this template.",
+    "modified": "20211108114621438",
+    "tags": "$:/showInfo/search $:/showInfo",
+    "task": "doing",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<span class=\"system-image-search\">\n<div class=\"search-list-container\">\n<$edit-text tiddler=<<qualify $:/temp/search>> field=\"text\" tag=\"input\" default=\"\" placeholder={{$:/showInfo/search/placeholder}} class=\"tc-edit-texteditor\"/>\n<$reveal state=<<qualify $:/temp/search>> type=\"nomatch\" text=\"\">\n<$button class=\"tc-btn-invisible\" tooltip=\"cancel search\"> \n<$action-setfield $tiddler=<<qualify $:/temp/search>> text=\"\"/>\n{{$:/core/images/close-button}}\n</$button>\n</$reveal>\n<$button class=\"tc-btn-invisible\" tooltip=\"advanced search\"> \n<$action-listops \n$tiddler=<<qualify $:/temp/advanced-search/show>> \n$field=\"text\" \n$subfilter=\"+[toggle[yes],[no]]\"/>\n{{$:/core/images/advanced-search-button}}\n</$button>\n</div>\n\n<$reveal default={{{ [[$:/temp/advanced-search/show]addsuffix<qualify>get[text]] }}} type=\"match\" text=\"yes\">\n<h3>Advanced search</h3>\n<div class=\"search-list-container\">\n<$edit-text tiddler=<<qualify $:/temp/filter>> field=\"text\" tag=\"input\" default=\"[search:[]]\" placeholder=\"write an additional filter here\" class=\"tc-edit-texteditor\"/>\n<$reveal state=<<qualify $:/temp/filter>> type=\"nomatch\" text=\"\">\n<$button class=\"tc-btn-invisible\">\n<$action-setfield $tiddler=<<qualify $:/temp/filter>> text=\"[search:[]]\"/>\n{{$:/core/images/close-button}}\n</$button>\n</$reveal>\n</div>\n</$reveal>\n\n\n<$set name=search tiddler=<<qualify $:/temp/search>> field=\"text\">\n<$set name=filter tiddler=<<qualify $:/temp/filter>> field=\"text\">\n<$set name=filter value={{{ [<filter>match[]then[+]else<filter>] }}}>\n\n<ul class=<<list-class>> style=<<list-style>> >\n<$list filter=\"[subfilter<search-list>filter<filter>]+[search:*<search>]\" variable=\"item\" template={{{ [<item-template>is[blank]then[$:/showInfo/search/titles]else<item-template>] }}} />\n</ul>\n\n</$set>\n</$set>\n</$set>\n</span>",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/showInfo/tagging": {
+    "title": "$:/showInfo/tagging",
+    "created": "20210907002753004",
+    "description": "todo : add a field tagging-filter",
+    "modified": "20211004125159915",
+    "tagging": "after",
+    "tags": "$:/showInfo/tagging $:/showInfo",
+    "task": "todo",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/showInfo/search": {
+    "title": "$:/showInfo/search",
+    "created": "20210922020055129",
+    "modified": "20210922020056591",
+    "tagging": "after",
+    "tags": "$:/showInfo",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/showInfo/search/SystemImage/search/style": {
+    "title": "$:/showInfo/search/SystemImage/search/style",
+    "created": "20210911022400630",
+    "fill-fallback": "",
+    "modified": "20210922022416173",
+    "tags": "$:/tags/Stylesheet $:/showInfo/search $:/showInfo",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<pre>\n.search-list-container {\ndisplay:flex;\nalign-items: center;\n}\n\n.search-list-container button {\npadding:.5em;\n}\n\n.system-image-search svg {\n\nfill:<<color foreground>>;\n\n}\n\n.tc-edit-texteditor {\n  width:100%;\n\tpadding: 3px 3px 3px 3px;\n\tborder: 1px solid rgb(63, 63, 63);\n\tline-height: 1.3em;\n\t-webkit-appearance: none;\n}",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/showInfo/search/placeholder": {
+    "title": "$:/showInfo/search/placeholder",
+    "created": "20211108112823311",
+    "modified": "20211108112906858",
+    "tags": "$:/showInfo $:/showInfo/search",
+    "type": "text/vnd.tiddlywiki",
+    "text": "search..",
+    "revision": "0",
+    "bag": "default"
+}}
+}
