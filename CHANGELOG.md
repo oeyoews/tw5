@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.15.1](https://gitlab.com/oeyoews/tw5/compare/v1.15.0...v1.15.1) (2022-05-17)
+
+
+### Bug Fixes
+
+* disable AutoFocus because of mobile phone [skip ci] ([4c70024](https://gitlab.com/oeyoews/tw5/commit/4c7002439671c030ac803207a0ac98c5fba77f78))
+* remove disable plugins [skip ci] ([5771a58](https://gitlab.com/oeyoews/tw5/commit/5771a5872b78dc9728d15081e43cdc312364adc3))
+* update search-images [skip ci] ([ee62dee](https://gitlab.com/oeyoews/tw5/commit/ee62dee54ca87cb3b8cbe6bf3614763e53995759))
+* update search-images and widen sidebar [skip ci] ([1b18560](https://gitlab.com/oeyoews/tw5/commit/1b18560a95892d26e5f09ac8a240e3830f5a579f))
+* update search-images to v0.0.5 [skip ci] ([0c9257b](https://gitlab.com/oeyoews/tw5/commit/0c9257b60a91d5b1190778df92827d67f05f93ae))
+
 # [1.15.0](https://gitlab.com/oeyoews/tw5/compare/v1.14.0...v1.15.0) (2022-05-17)
 
 
