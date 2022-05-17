@@ -1,4 +1,13 @@
 {"tiddlers": {
+"$:/plugins/oeyoews/search-images/add-image-filter": {
+    "created": "20220517014805118",
+    "text": "[is[image]]",
+    "title": "$:/plugins/oeyoews/search-images/add-image-filter",
+    "modified": "20220517014850688",
+    "type": "text/vnd.tiddlywiki",
+    "tags": ""
+},
+
 "$:/plugins/oeyoews/search-images/icon": {
     "title": "$:/plugins/oeyoews/search-images/icon",
     "created": "20220516180924734",
@@ -11,12 +20,12 @@
 },
 
 "$:/plugins/oeyoews/search-images/readme": {
-    "title": "$:/plugins/oeyoews/search-images/readme",
     "created": "20220516180933443",
-    "modified": "20220517005424837",
+    "text": "link: http://www.telumire.be/TiddlyTweaks/index.html#:%5B%5B%24:/ThemeTweaks/FaviconWizard%5D%5D\n\n''TODO'': add custom image filter",
+    "title": "$:/plugins/oeyoews/search-images/readme",
+    "modified": "20220517015123706",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
-    "text": "link: http://www.telumire.be/TiddlyTweaks/index.html#:%5B%5B%24:/ThemeTweaks/FaviconWizard%5D%5D",
     "revision": "0",
     "bag": "default"
 },
@@ -57,15 +66,15 @@
 
 "$:/showInfo/search/SystemImage": {
     "created": "20210911212256922",
-    "text": "List of all system images (ie, tiddlers tagged {{$:/tags/Image||$:/core/ui/TagTemplate}}). Click on an icon to copy its title !\n\n<$vars\nsearch-list=\"[[$:/tags/Image]tagging[]]\"\nitem-template=\"$:/showInfo/search/img\"\nlist-class=\"\"\nlist-style=\"\"\"padding:0; \"\"\"\n>\n{{{[<item-template>is[blank]then[$:/showInfo/search/list/titles]else<item-template>]}}}\n{{$:/showInfo/search/template}}\n</$vars>",
+    "text": "List of all system images (ie, tiddlers tagged {{$:/tags/Image||$:/core/ui/TagTemplate}}). Click on an icon to copy its title !\n\n<$vars\nsearch-list=\"[[$:/tags/Image]tagging[]]  {{$:/plugins/oeyoews/search-images/add-image-filter}}\"\nitem-template=\"$:/showInfo/search/img\"\nlist-class=\"\"\nlist-style=\"\"\"padding:0; \"\"\"\n>\n{{{[<item-template>is[blank]then[$:/showInfo/search/list/titles]else<item-template>]}}}\n{{$:/showInfo/search/template}}\n</$vars>",
     "title": "$:/showInfo/search/SystemImage",
-    "caption": "Images",
-    "modified": "20220517010306587",
+    "caption": " {{$:/core/images/picture}} Images",
+    "icon": "$:/core/images/picture",
+    "modified": "20220517015052612",
     "tags": "$:/tags/SideBar $:/showInfo/search $:/showInfo",
     "type": "text/vnd.tiddlywiki",
     "revision": "0",
-    "bag": "default",
-    "icon": "$:/core/images/picture"
+    "bag": "default"
 },
 
 "$:/showInfo/search/tagging": {
