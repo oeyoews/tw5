@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.15.0](https://gitlab.com/oeyoews/tw5/compare/v1.14.0...v1.15.0) (2022-05-17)
+
+
+### Features
+
+* creat another Gallery use class [skip ci] ([1564a64](https://gitlab.com/oeyoews/tw5/commit/1564a647c6df69d8b9159bd046e4ad67e23141b4))
+* use tw-images-search plugins from twmsrc ([0ace61f](https://gitlab.com/oeyoews/tw5/commit/0ace61f90529d6f32fee373980ba1361ca1b0dd2))
+
 # [1.14.0](https://gitlab.com/oeyoews/tw5/compare/v1.13.1...v1.14.0) (2022-05-16)
 
 
