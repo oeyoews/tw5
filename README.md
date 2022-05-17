@@ -12,11 +12,11 @@
 <!--<a href="https://gitlab.com/oeyoews/tw5/-/commits/tw6" target="_blank"><img alt="CI/CD status" src="https://gitlab.com/oeyoews/tw5/badges/tw6/pipeline.svg" /></a>-->
 <!--<div style="text-align: left;background: #f6f8fa; border-radius: 3px;float:none; display: inline-block; padding: 4px;">-->
 <!--<a href="https://gitlab.com/oeyoews/tw5/-/releases" target="_blank"><img alt="Latest Release" src="https://gitlab.com/oeyoews/tw5/-/badges/release.svg" /></a>-->
+<!--<a href="https://www.jsdelivr.com/package/gh/oeyoews/img" target="_blank"><img alt="status" src="https://data.jsdelivr.com/v1/package/gh/oeyoews/img/badge" /></a>-->
 ![img](https://img.shields.io/gitlab/v/tag/oeyoews/tw5?style=social&logo=gitlab&logoColor=)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 <img alt="GitLab Release (latest by date)" src="https://img.shields.io/gitlab/v/release/oeyoews/tw5">
 <img alt="Gitlab pipeline status" src="https://img.shields.io/gitlab/pipeline-status/oeyoews/tw5?branch=tw6">
-<a href="https://www.jsdelivr.com/package/gh/oeyoews/img" target="_blank"><img alt="status" src="https://data.jsdelivr.com/v1/package/gh/oeyoews/img/badge" /></a>
 
 ## 🎉 Welcome to [Fishing](https://oeyoew.fun)
 

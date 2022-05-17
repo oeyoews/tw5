@@ -1,0 +1,11 @@
+created: 20220517164145578
+modified: 20220517164310025
+tags: $:/tags/Macro
+title: Short Url
+type: text/vnd.tiddlywiki
+
+\define url(address, n:3)
+<a href=<<__address__>> target=_blank>
+<$text text={{{[<__address__>split[/]first[$n$]join[/]]}}}/>
+</a>
+\end
