@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.15.2](https://gitlab.com/oeyoews/tw5/compare/v1.15.1...v1.15.2) (2022-05-17)
+
+
+### Bug Fixes
+
+* add /dev/null and remove jsdeliver badges ([baa49da](https://gitlab.com/oeyoews/tw5/commit/baa49da3197b1d1ec9609ffcc3e40d3b0d7c6331))
+
 ## [1.15.1](https://gitlab.com/oeyoews/tw5/compare/v1.15.0...v1.15.1) (2022-05-17)
 
 
