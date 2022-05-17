@@ -18,7 +18,6 @@
 <img alt="Gitlab pipeline status" src="https://img.shields.io/gitlab/pipeline-status/oeyoews/tw5?branch=tw6">
 <a href="https://www.jsdelivr.com/package/gh/oeyoews/img" target="_blank"><img alt="status" src="https://data.jsdelivr.com/v1/package/gh/oeyoews/img/badge" /></a>
 
-
 ## 🎉 Welcome to [Fishing](https://oeyoew.fun)
 
 ## 🐢 Tips
