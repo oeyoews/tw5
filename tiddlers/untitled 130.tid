@@ -1,0 +1,18 @@
+code-body: yes
+created: 20220518173618961
+creator: oeyoews
+modified: 20220518174126408
+modifier: oeyoews
+tags: $:/tags/StartupAction
+title: untitled 130
+type: text/vnd.tiddlywiki
+
+\import [[$:/core/ui/PageMacros]] [all[shadows+tiddlers]tag[$:/tags/Macro]!has[draft.of]]
+
+<$reveal type="lt" state="$:/info/browser/screen/width" text="3000">
+<$action-setfield $tiddler="$:/state/notebook/sidebar" $value="no"/>
+</$reveal>
+
+<$reveal type="gteq" state="$:/info/browser/screen/width" text="3000">
+<$action-setfield $tiddler="$:/state/notebook/sidebar" $value="yes"/>
+</$reveal>

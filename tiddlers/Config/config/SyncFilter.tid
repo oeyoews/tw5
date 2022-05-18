@@ -1,10 +1,10 @@
 caption: Sync Filter
 created: 20220215091107009
 creator: oeyoews
-modified: 20220322044745235
-modifier: @oeyoews
+modified: 20220518173416526
+modifier: oeyoews
 tags: examples
 title: $:/config/SyncFilter
 type: text/vnd.tiddlywiki
 
-[is[tiddler]] -[[$:/core]] -[[$:/library/sjcl.js]] -[prefix[$:/boot/]] -[prefix[$:/HistoryList]] -[status[pending]plugin-type[import]] -[[$:/isEncrypted]] -[prefix[$:/status/]] -[prefix[$:/state/]] -[prefix[$:/temp/]]
+[is[tiddler]] -[[$:/core]] -[[$:/library/sjcl.js]] -[prefix[$:/boot/]] -[prefix[$:/HistoryList]] -[status[pending]plugin-type[import]] -[[$:/isEncrypted]] -[prefix[$:/status/]] -[prefix[$:/state/]] -[prefix[$:/temp/]] [[$:/state/notebook-sidebar]]
