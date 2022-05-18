@@ -1,8 +1,8 @@
 caption: {{$:/core/images/plugin-generic-theme}} {{$:/language/SideBar/Tools/Caption}}
 created: 20220216223845613
 creator: oeyoews
-modified: 20220322052741132
-modifier: @oeyoews
+modified: 20220518142814048
+modifier: oeyoews
 tags: examples $:/tags/SideBar
 title: $:/core/ui/SideBar/Tools
 type: text/vnd.tiddlywiki

@@ -9,7 +9,6 @@
 		padding: 5px;
 		transition: background 120ms ease-in 0s;
 		font-style: normal;
-		box-shadow: 1px 1px 5px #0000004d;
 		user-select: none;
 		cursor: pointer !important;
 		transition: .2s cubic-bezier(.23,1,.32,1), 2s cubic-bezier(.23,1,.32,1),transform .3s cubic-bezier(.23,1,.32,1);
@@ -31,37 +30,41 @@
 		background: linear-gradient(to right, #4776e6, #8e54e9); 
 }
 
-.tc-fishing-learing-grade .learn:hover {
-		background: linear-gradient(45deg, #4776e6, #8e54e9); 
-}
 
 .tc-fishing-learing-grade .forget{
 		color: #931818;
 		background: linear-gradient(to right, #ff512f, #dd2476);
 }
 
-.tc-fishing-learing-grade .forget:hover {
-		background: linear-gradient(45deg, #ff512f, #dd2476);
-	}
-
 .tc-fishing-learing-grade .remember{
 		color: #22ad22;
-		background: linear-gradient(to top, #dce35b, #45b649);
+		background: linear-gradient(to left, #56ab2f, #a8e063);
 }
 
-.tc-fishing-learing-grade .remember:hover {
-	background: linear-gradient(45deg, #dce35b, #45b649);
-}
 
 .tc-fishing-learing-grade .grasp{
 	color: #ebeb07;
 	background: linear-gradient(to right, #add100, #7b920a)
 }
 
+
+/*
+.tc-fishing-learing-grade .learn:hover {
+		background: linear-gradient(45deg, #4776e6, #8e54e9); 
+}
+
+.tc-fishing-learing-grade .forget:hover {
+		background: linear-gradient(45deg, #ff512f, #dd2476);
+	}
+
+.tc-fishing-learing-grade .remember:hover {
+	background: linear-gradient(45deg, #dce35b, #45b649);
+}
+
 .tc-fishing-learing-grade .grasp:hover {
 	background: linear-gradient(45deg, #add100, #7b920a)
 }
-
+**/
 
 .tc-fishing-learing-count {
     color: #5972d9;
@@ -70,7 +73,6 @@
 		padding: 3px 8px 1px 8px;
 		margin-top: 5px;
 		font-style: italic;
-		box-shadow: 1px 1px 5px rgb(0 0 0 / 12%);
 		user-select: none;
 		background: linear-gradient(to left, #2b5876, #4e4376);
 }

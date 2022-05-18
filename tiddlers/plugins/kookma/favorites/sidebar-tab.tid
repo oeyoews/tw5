@@ -2,8 +2,8 @@ caption: {{$:/plugins/kookma/favorites/image}} Favorites
 created: 20191226064836102
 creator: oeyoews
 list-after: $:/core/ui/SideBar/Open
-modified: 20220317114754023
-modifier: @oeyoews
+modified: 20220518142814049
+modifier: oeyoews
 tags: $:/tags/SideBar
 title: $:/plugins/kookma/favorites/sidebar-tab
 type: text/vnd.tiddlywiki

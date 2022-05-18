@@ -1,8 +1,8 @@
 caption: {{$:/images/css-gg/more-o}} {{$:/language/SideBar/More/Caption}}
 created: 20220308172120805
 creator: @oeyoews
-modified: 20220328024114087
-modifier: @oeyoews
+modified: 20220518142814048
+modifier: oeyoews
 tags: $:/tags/SideBar
 title: $:/core/ui/SideBar/More
 type: text/vnd.tiddlywiki

@@ -1,8 +1,8 @@
 caption: {{$:/core/images/delete-button}} Trashbin
 created: 20190613131234955
 creator: @oeyoews
-modified: 20220316072425554
-modifier: @oeyoews
+modified: 20220518142814049
+modifier: oeyoews
 tags: $:/tags/SideBar
 title: $:/plugins/kookma/trashbin/sidebar-tab
 type: text/vnd.tiddlywiki

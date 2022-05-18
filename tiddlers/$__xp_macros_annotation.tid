@@ -1,0 +1,21 @@
+tags: $:/tags/Macro
+title: $:/xp/macros/annotation
+type: text/vnd.tiddlywiki
+
+\define annotate(text,storeTiddler,stateNumber:"000")
+<$set name="popupstate" value={{{ [[$:/state/popup/annotation-]addsuffix[$stateNumber$]] }}} ><$button popup=<<popupstate>> class="xp-annotation">
+$text$
+</$button>^^<span class="tc-btn-dropdown xp-image-annotation">{{$:/xp/images/annotation}}</span>^^<$reveal type="popup" state=<<popupstate>> position="below" updatePopupPosition="yes" class="tc-popup-keep" animate="yes" retain="yes" style="overflow-y:hidden;">
+<div class="tc-drop-down-wrapper">
+<div class="xp-popup tc-popup-keep" style="max-width:550px;overflow-y:hidden;">
+<span class="xp-popup-title">
+<$link>$storeTiddler$</$link>
+</span>
+<hr>
+<div class="xp-popup-text">
+<$transclude tiddler="$storeTiddler$" mode="block"/>
+</div>
+</div>
+</div>
+</$reveal></$set>
+\end

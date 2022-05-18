@@ -1,8 +1,8 @@
 caption: {{$:/core/images/folder}} {{$:/language/SideBar/Open/Caption}}
 created: 20220104160004468
 creator: @oeyoews
-modified: 20220316072425551
-modifier: @oeyoews
+modified: 20220518142814048
+modifier: oeyoews
 tags: $:/tags/SideBar
 title: $:/core/ui/SideBar/Open
 type: text/vnd.tiddlywiki

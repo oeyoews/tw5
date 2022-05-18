@@ -194,10 +194,8 @@ div.tc-tiddler-frame {
   width: 100%;
   margin: 20px 0;
   background: <<colour tiddler-background>>;
-  /*box-shadow: 0 5px 20px rgba(0,0,0, 0.12);*/
   border-radius: 15px;
   padding: 42px 60px 60px 60px;
-  /*border: 2px solid none;*/
   transition: .2s;
 }
 
@@ -278,11 +276,9 @@ h1.tc-site-title {
   margin-left: 0;
   width: 300px;
   border: 0;
-  /*box-shadow: 0 0 6px 0 rgba(0,0,0,.2);*/
   box-shadow: 1px 5px 5px #0000004d;
   border-radius: 3px;
   padding: 10px;
-  /*transition: all ease-in-out .2s;*/
   transition: opacity .2s ease-in-out;
 }
 
@@ -322,7 +318,6 @@ h1.tc-site-title {
 /*@oeyoews fix this frame overflow because this border too width*/
   div.tc-tiddler-frame {
     margin: 15px 0px 15px 0px;
-    box-shadow: none;
     border-radius: 3px;
     /*border: 2px solid #002b36;*/
   }
@@ -584,7 +579,6 @@ input, textarea {
 }
 
 input:focus, textarea:focus {
-  /*box-shadow: 0 0 0.2rem 0 <<colour primary>>;*/
   outline: 0;
   border-color: <<colour primary>>;
 }
@@ -641,7 +635,6 @@ button.tc-btn-invisible {
 .tc-tiddler-frame input.tc-edit-texteditor:focus,
 .tc-tiddler-frame textarea.tc-edit-texteditor:focus,
 .tc-tiddler-frame iframe.tc-edit-texteditor:focus {
-  /*box-shadow: 0 0 0.2rem 0 <<colour primary>>;*/
   outline: 0;
   border-color: <<colour primary>>;
 }

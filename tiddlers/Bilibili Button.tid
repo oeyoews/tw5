@@ -1,0 +1,19 @@
+created: 20220518153445880
+creator: oeyoews
+modified: 20220518170649076
+modifier: oeyoews
+tags: $:/tags/Macro
+title: Bilibili Button
+type: text/vnd.tiddlywiki
+
+<!-- VIDEO LINK -->
+
+\define bilibili(str)
+<a href="https://www.bilibili.com/video/$str$" target="_blank">哔哩哔哩</a>
+\end
+
+\define bilibiliButton(str,title,color:"")
+<a href="https://www.bilibili.com/video/$str$" class="tc-btn-big-green" style="border-radius:4px;background-color:$color$;" target="_blank" rel="noopener noreferrer">
+{{$:/core/images/video}} $title$
+</a>
+\end
