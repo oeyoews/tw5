@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.16.0](https://gitlab.com/oeyoews/tw5/compare/v1.15.2...v1.16.0) (2022-05-18)
+
+
+### Bug Fixes
+
+* remove unvalid address ([771bfa9](https://gitlab.com/oeyoews/tw5/commit/771bfa998998a63909099236ddf7409c64d0e7cd))
+
+
+### Features
+
+* add notebook sidebar status ([d1f8b69](https://gitlab.com/oeyoews/tw5/commit/d1f8b699c4b772a1f5f8642bafadf964d33d5a1c))
+* add short url [skip ci] ([1a2f716](https://gitlab.com/oeyoews/tw5/commit/1a2f716515ccb842a856a4c7662620d4a6b0a0b1))
+
 ## [1.15.2](https://gitlab.com/oeyoews/tw5/compare/v1.15.1...v1.15.2) (2022-05-17)
 
 
