@@ -1,7 +1,7 @@
 caption: sitetitle
 created: 20220322112723685
 creator: @oeyoews
-modified: 20220518160727376
+modified: 20220518181531725
 modifier: oeyoews
 tags: config
 title: $:/config/oeyoews/sitetitle
@@ -19,6 +19,6 @@ FishForYou
 
 {{$:/config/gradienttext}}
 
-<sub>
-[img[https://img.shields.io/gitlab/v/tag/oeyoews/tw5?style=social&logo=gitlab]]
-</sub>
+<sup>
+[img width=72 [https://img.shields.io/gitlab/v/tag/oeyoews/tw5?style=social&logo=gitlab]]
+</sup>
