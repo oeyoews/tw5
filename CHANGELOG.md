@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.16.1](https://gitlab.com/oeyoews/tw5/compare/v1.16.0...v1.16.1) (2022-05-19)
+
+
+### Bug Fixes
+
+* add border 0 for notification [skip ci] ([bee0737](https://gitlab.com/oeyoews/tw5/commit/bee0737e83ddaabe7f8957a04967ae698a2f8a2d))
+* update maintitle [skip ci] ([78b0f74](https://gitlab.com/oeyoews/tw5/commit/78b0f7421ae5ee3c461e1ac5acd3e1702c3f2213))
+
 # [1.16.0](https://gitlab.com/oeyoews/tw5/compare/v1.15.2...v1.16.0) (2022-05-18)
 
 
