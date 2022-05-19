@@ -33,9 +33,9 @@
 
 "$:/plugins/oeyoews/tw-meta/readme": {
     "created": "20220519155834781",
-    "text": "* can prevent most scale, but some special operatoe still can zoom page",
+    "text": "* prevent zoom in or out in mobile phone by add meta tag\n* can prevent mostle  scale situation, but some special operatoe still can zoom page(can ignore it)",
     "title": "$:/plugins/oeyoews/tw-meta/readme",
-    "modified": "20220519164153584",
+    "modified": "20220519164830290",
     "type": "text/vnd.tiddlywiki",
     "tags": "",
     "revision": "2",
