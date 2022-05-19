@@ -1,8 +1,10 @@
 created: 20220123084513553
-modified: 20220217114047134
+creator: oeyoews
+modified: 20220519054449109
 modifier: oeyoews
-tags: Linux tips
+tags: Linux
 title: edit timer
 type: text/vnd.tiddlywiki
 
 sudo systemctl edit fstrim.timer
+“filesystem trim”

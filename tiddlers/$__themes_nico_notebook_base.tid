@@ -97,14 +97,12 @@ button.tc-tag-label, span.tc-tag-label {
   background-color: <<colour tag-background>>;
   color: <<colour foreground>>;
   /** hover动画 */
-  /*transition: background-color 0.2s;*/
   /** 适配长标题作为标签的情况 */
   white-space: normal;
   margin-top: 0.1em;
   margin-bottom: 0.1em;
   /*padding: 0.4em 0.5em 0.2em 0.5em;*/
   padding: 0.4em 0.6em 0.2em;
-  transition: .2s;
 }
 button.tc-tag-label, span.tc-tag-label:hover {
   background-color: none;
@@ -127,7 +125,6 @@ button:not(.tc-btn-invisible) {
   border: <<colour button-border>>;
   cursor: pointer;
   /** hover动画 */
-  /*transition: background-color 0.2s;*/
   transition: .2s cubic-bezier(.23,1,.32,1), 2s cubic-bezier(.23,1,.32,1),transform .3s cubic-bezier(.23,1,.32,1);
 }
 
@@ -521,7 +518,7 @@ h1.tc-site-title {
   /* padding: 4px; */
   /* border-radius: 8px; */
   margin-right: 10px;
-  transition: all ease-in-out .2s;
+  transition: all ease-in-out .1s;
   fill: <<colour sidebar-controls-foreground>>;
 }
 
