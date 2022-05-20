@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.17.1](https://gitlab.com/oeyoews/tw5/compare/v1.17.0...v1.17.1) (2022-05-20)
+
+
+### Bug Fixes
+
+* disable lineNumbers to prevent table overflow ([ec94438](https://gitlab.com/oeyoews/tw5/commit/ec944387b371bcbc907581415a4f0ce3ab43737e))
+
 # [1.17.0](https://gitlab.com/oeyoews/tw5/compare/v1.16.1...v1.17.0) (2022-05-20)
 
 
