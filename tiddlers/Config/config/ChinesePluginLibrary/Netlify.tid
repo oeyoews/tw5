@@ -1,8 +1,8 @@
-caption: <$list filter="[[$:/language]get[text]removeprefix[$:/languages/]else[en-GB]]" variable="lang"><$list filter="[<lang>search:title[zh]]">太微中文社区插件源(大陆加速版)</$list><$list filter="[<lang>!search:title[zh]]">TiddlyWiki Chinese CPL(Netlify Host)</$list></$list>
+caption: <$list filter="[[$:/language]get[text]removeprefix[$:/languages/]else[en-GB]]" variable="lang"><$list filter="[<lang>search:title[zh]]">太微中文社区插件源(大陆加速版)</$list><$list filter="[<lang>!search:title[zh]]">CPL</$list></$list>
 created: 20211118102827947
 creator: Sttot
-modified: 20220322140239775
-modifier: @oeyoews
+modified: 20220520001219659
+modifier: oeyoews
 tags: $:/tags/PluginLibrary
 title: $:/config/ChinesePluginLibrary/Netlify
 type: text/vnd.tiddlywiki
@@ -10,14 +10,6 @@ url: https://tw-cpl.netlify.app/library/index.html
 
 <!-- lang变量就是当前语言 -->
 <$list filter="[[$:/language]get[text]removeprefix[$:/languages/]else[en-GB]]" variable="lang">
-<$list filter="[<lang>search:title[zh]]" variable="lang">
-
-欢迎使用''【太微中文社区插件源】''！
-
-要添加这个插件库到你的 Wiki 中，只需鼠标拖动这个链接到你的 Wiki 里即可：<$link to=<<currentTiddler>>>{{!!caption}}</$link>
-
-</$list>
-
 <$list filter="[<lang>!search:title[zh]]" variable="lang">
 
 To add this plugin library to your Wiki, just drag this link with your mouse into your Wiki: <$link to=<<currentTiddler>>>{{!!caption}}</$link>

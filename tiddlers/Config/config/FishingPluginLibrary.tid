@@ -1,0 +1,11 @@
+caption: Fishing
+created: 20220520001008161
+creator: oeyoews
+modified: 20220520001011757
+modifier: oeyoews
+tags: $:/tags/PluginLibrary
+title: $:/config/FishingPluginLibrary
+type: text/vnd.tiddlywiki
+url: https://tiddlymemo.org/library/
+
+{{$:/language/fishing/pluginlibrarytip}}
