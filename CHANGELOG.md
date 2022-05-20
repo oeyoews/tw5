@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.17.0](https://gitlab.com/oeyoews/tw5/compare/v1.16.1...v1.17.0) (2022-05-20)
+
+
+### Bug Fixes
+
+* change FishingZenMode emoji ([b8f4b38](https://gitlab.com/oeyoews/tw5/commit/b8f4b383780e1754b98951a5fb838c737fad5255))
+* less library info [skip ci] ([c1cf3df](https://gitlab.com/oeyoews/tw5/commit/c1cf3dfc01a7ba86823f53ab4f7098fd879cd21c))
+
+
+### Features
+
+* add tw-meta plugin [skip ci] ([d8cb9e3](https://gitlab.com/oeyoews/tw5/commit/d8cb9e3c752e2d72c0ce2461478587c26f239046))
+* use Long Cang font for footer ([9a0914d](https://gitlab.com/oeyoews/tw5/commit/9a0914d5965932391a2525b5ce981e7827aa7cde))
+
 ## [1.16.1](https://gitlab.com/oeyoews/tw5/compare/v1.16.0...v1.16.1) (2022-05-19)
 
 
