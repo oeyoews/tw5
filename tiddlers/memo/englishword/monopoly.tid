@@ -1,17 +1,17 @@
 created: 20220224024758279
 creator: oeyoews
-difficulty: 1
-due: 20220424054223484
+difficulty: 1.0499644236278374
+due: 20230202001904857
 grade: 1
-history: [{"due":"20220304075936100","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075936100"}]
-interval: 3
+history: [{"due":"20220304075936100","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303075936100"},{"due":"20220424054223484","interval":3,"difficulty":1,"stability":48.60974728794028,"retrievability":0.05273732312238567,"grade":1,"lapses":0,"reps":2,"review":"20220306054223484"}]
+interval: 75
 lapses: 0
-modified: 20220311044418215
-modifier: @oeyoews
-reps: 2
-retrievability: 0.05273732312238567
-review: 20220306054223484
-stability: 48.60974728794028
+modified: 20220520001904857
+modifier: oeyoews
+reps: 3
+retrievability: 0.8499644236278374
+review: 20220520001904856
+stability: 258.45012655618774
 tags: EnglishWord ?
 title: monopoly
 type: text/vnd.tiddlywiki

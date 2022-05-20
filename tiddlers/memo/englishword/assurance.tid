@@ -1,17 +1,17 @@
 created: 20220401034603349
 creator: @oeyoews
-difficulty: 1
-due: 20220516171839426
-grade: 2
-history: [{"due":"20220413105616219","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220412105616219"},{"due":"20220414001447780","interval":1,"difficulty":1,"stability":0.07408198986175796,"retrievability":0.34867927218217226,"grade":0,"lapses":1,"reps":1,"review":"20220413001447779"},{"due":"20220423113335617","interval":1,"difficulty":1,"stability":8.569925081364996,"retrievability":0.24117921792098188,"grade":1,"lapses":1,"reps":2,"review":"20220414113335616"},{"due":"20220428161446522","interval":13,"difficulty":2.0522930835738786,"stability":0.054881225761675624,"retrievability":0.8522930835738787,"grade":0,"lapses":2,"reps":1,"review":"20220427161446521"}]
-interval: 8
+difficulty: 1.0739460407178476
+due: 20220718001859931
+grade: 1
+history: [{"due":"20220413105616219","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220412105616219"},{"due":"20220414001447780","interval":1,"difficulty":1,"stability":0.07408198986175796,"retrievability":0.34867927218217226,"grade":0,"lapses":1,"reps":1,"review":"20220413001447779"},{"due":"20220423113335617","interval":1,"difficulty":1,"stability":8.569925081364996,"retrievability":0.24117921792098188,"grade":1,"lapses":1,"reps":2,"review":"20220414113335616"},{"due":"20220428161446522","interval":13,"difficulty":2.0522930835738786,"stability":0.054881225761675624,"retrievability":0.8522930835738787,"grade":0,"lapses":2,"reps":1,"review":"20220427161446521"},{"due":"20220516171839426","interval":8,"difficulty":1,"stability":10.165658484204181,"retrievability":2.1377693640808248e-7,"grade":2,"lapses":2,"reps":2,"review":"20220506171839425"}]
+interval: 13
 lapses: 2
-modified: 20220506171839426
+modified: 20220520001859932
 modifier: oeyoews
-reps: 2
-retrievability: 2.1377693640808248e-7
-review: 20220506171839425
-stability: 10.165658484204181
+reps: 3
+retrievability: 0.8739460407178476
+review: 20220520001859931
+stability: 59.18733890035891
 tags: EnglishWord ?
 title: assurance
 type: text/vnd.tiddlywiki

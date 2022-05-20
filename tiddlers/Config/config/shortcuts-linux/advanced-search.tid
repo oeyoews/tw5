@@ -1,8 +1,8 @@
 created: 20220107080824731
 creator: oeyoews
-modified: 20220516051642747
+modified: 20220520001734410
 modifier: oeyoews
 title: $:/config/shortcuts-linux/advanced-search
 type: text/vnd.tiddlywiki
 
-alt-R ctrl-K
+ctrl-K
