@@ -1,7 +1,7 @@
 code-body: yes
 created: 20220421054229882
 creator: oeyoews
-modified: 20220516153823751
+modified: 20220520045533291
 modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: Links For Tw
@@ -19,6 +19,8 @@ type: text/vnd.tiddlywiki
 <!-- 
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 --> 
+
+<link href="https://fonts.googleapis.com/css2?family=Long+Cang&display=swap" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap" rel="stylesheet">
 
