@@ -1,11 +1,8 @@
-caption: Custom Stylesheet
-created: 20220316051356798
-creator: @oeyoews
-modified: 20220519050420003
-modifier: oeyoews
-tags: $:/tags/Stylesheet
-title: $:/config/oeyoews/customstylesheet
-type: text/vnd.tiddlywiki
+hr { 
+	border:0; 
+	background-color:#586e75; 
+	height:1px
+}
 
 html { scroll-behavior: smooth; }
 
@@ -23,9 +20,6 @@ html { scroll-behavior: smooth; }
 }
 
 .tc-message-box {
-<!--
-	background: linear-gradient(to left, #ff0099, #493240);
-	-->
 	border-radius: 3px;
 	color: black;
 	transition: 1s;
@@ -41,7 +35,7 @@ select {
     background: #002b36;
     border: 0px;
 }
-<!-- fix import img in editor -->
+
 .tc-editor-import {
     position: absolute;
     top: 50%;
@@ -55,6 +49,7 @@ select {
     background: yellow;
     border-radius: 5px;
 }
+
 .table thead tr td, table th {
 		background: unset;
     font-weight: bold;
@@ -86,13 +81,11 @@ select {
     user-select: none;
 }
 
-<!-- fix link button drop -->
 .tc-drop-down .tc-tab-buttons button.tc-tab-selected {
     background-color: #32b4c3;
 		box-shadow: 1px 5px 5px #0000004d;
 }
 
-<!-- fix plugin button -->
 .tc-btn-big-green {
     display: inline-block;
     padding: 8px;
@@ -133,39 +126,12 @@ select {
     border: 0;
     color: #2f4085;
 }
-<!--
-kbd {
-	background-color: #002b36;
-}
--->
 
-<!-- Failed
-li {
-	color: #5972d9;
-}
--->
-
-<!-- @Failed
-remove tag hr
-html body.tc-body hr {
-		border: 0;
-    background-color: #586e75;
-    height: 1px;
-}
--->
-
-<!-- tag hover -->
 .tc-block-dropdown a:hover {
 	border-radius: 3px;
 }
 
 .tc-editor-toolbar button, .tc-editor-toolbar button.tc-btn-invisible {
-<!--
-   border-radius: 3px;
-   background: #073642;
-   color: #839496;
-   fill: #839496;
--->
    border: 0px solid #073642; 
 }
 
@@ -199,12 +165,6 @@ pre.cm-quote-line {
     border-left:  #002b36 solid 0.1em !important;
 }
 
-<!--
-strong {
-color: #b8f316
-}
--->
-
 .tc-unfold-banner:hover {
     border-top: unset;
 }
@@ -236,18 +196,6 @@ blockquote {
     padding: 4px 8px 4px 8px;
 }
 
-
-/* 
-div.tc-tiddler-frame {
-    width: 100%;
-    margin: 20px 0;
-    background: #002b36;
-    box-shadow: 0 5px 20px rgb(0 0 0 / 12%);
-    border-radius: 12px;
-    padding: 42px 60px 60px 60px;
-    border: 2.5px solid #002b36;
-}
-*/
 
 .tc-drop-down {
     min-width: 380px;

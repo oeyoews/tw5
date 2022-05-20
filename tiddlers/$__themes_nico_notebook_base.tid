@@ -661,8 +661,6 @@ button.tc-btn-invisible {
 """>>
 
 
-/* Fonts */
-
 html, body {
   font-family: {{$:/themes/nico/notebook/settings/fontfamily}};
 }
@@ -673,22 +671,15 @@ html, body {
   font-family: {{$:/themes/nico/notebook/settings/editorfontfamily}};
 }
 
-/*@oeyoews */
 pre, code {
   font-family: {{$:/themes/nico/notebook/settings/codefontfamily}};
-  /*padding: 2px 2px 0px 2px;*/
-  /*padding: 3.5px 3.5px 1px 3.5px;*/
-  /*padding: 0.2rem 0.3rem 0.1rem;*/
-  /*padding: 2px 6px;*/
   padding: 0 5px 0;
   margin: 0 2px 0;
-  border: 2px solid;
+  border: 2px solid none;
   border-radius: 5px;
 }
 
 
-/*@oeyoews*/
-  /*tiddler title size*/
 .tc-titlebar, .tc-site-title {
   font-size: 28px !important;
   line-height: 34px !important;
@@ -713,12 +704,10 @@ div.tc-tiddler-frame .tc-tiddler-body {
 }
 
 /* Tabs */
-
 div.tc-tab-buttons {
   margin-bottom: -4px;
 }
 
-/*oeyoews*/
 div.tc-tab-buttons button {
   font-weight: bold;
   font-size: 1.2em;
@@ -733,12 +722,10 @@ div.tc-tab-buttons button {
   margin: 3px;
 }
 
-/*oeyoews*/
 div.tc-tab-buttons button:hover {
   background: #073642;
 }
 
-/*fix more bar*/
 .tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button {
   border: none;
   /*background-color: none;*/
@@ -753,7 +740,6 @@ div.tc-tab-buttons button:hover {
   border: none;
 }
 
-/*@oeyoews*/
 div.tc-tab-buttons button.tc-tab-selected {
   border: none;
   background: #5972d9;
@@ -777,7 +763,6 @@ div.tc-tab-buttons button.tc-tab-selected {
 
 
 /* Dropdowns */
-
 @keyframes pop {
   0% {
     transform: scale(0.8);
@@ -816,7 +801,6 @@ div.tc-tab-buttons button.tc-tab-selected {
 }
 
 /* Draft list */
-
 .tc-drafts-list {
   font-size: .9em;
   left: auto;
