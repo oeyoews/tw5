@@ -354,7 +354,7 @@ h1.tc-site-title {
 
 .nc-sidebar {
   /*background: <<colour tiddler-background>>;*/
-  background: #073642;
+  background: #073642 !important;
   opacity: 0.97;
   border-right: 1px solid <<colour tiddler-border>>;
   width: {{$:/themes/nico/notebook/metrics/sidebar-width}};

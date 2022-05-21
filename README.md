@@ -70,7 +70,8 @@
 [Platform](./docs/Platform.md)
 
 ## 🍏 APK
-[APK](https://gitlab.com/xxx)
+
+* [DownloadAPK](https://gitee.com/oeyoews/fish-for-you/attach_files/1024243/download/FishForYou-release-v2.1.apk)
 
 ## 🍐 PWA
 

@@ -1,14 +1,3 @@
-@document.meta
-  title: TODO
-  description:
-  authors: oeyoews
-  categories:
-  created: 2022-05-16
-  version: 0.0.11
-@end
-
-- [ ] add transform animoation for toggle sidebar
-- [-]  add coverage for gitlab
 - [-]  creat readonly mode use tiddlywiki.info
 - [-]  kitty emoji bug issue
 * [ ] optimic another two project cache githlab  ci settings
