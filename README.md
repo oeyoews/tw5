@@ -56,18 +56,11 @@
 
 ## ☔ Run
 
-> like this
-
-* `npm run dev` depend git bashui in windows
-* `yarn dev`
-* `yarn localbuild`
-
-> NOTE: if you use npm run dev &, only use npm run dev again ,
-> and ctrl c to exit this node program
+> `yarn start`
 
 ## 🪐 Platform
 
-[Platform](./docs/Platform.md)
+[Platform](docs/Platform.md)
 
 ## 🍏 APK
 
@@ -77,9 +70,9 @@
 
 * use 192(maybe it is maskable, in ios is normal)
 
-## 🌹 motivate
+## 🌹 MOTIVATE
 
-coming soom
+> Coming soon
 
 ## 🌪️ TODO
 
