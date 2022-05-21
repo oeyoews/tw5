@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.18.1](https://gitlab.com/oeyoews/tw5/compare/v1.18.0...v1.18.1) (2022-05-21)
+
+
+### Bug Fixes
+
+* disable revealjs ([22e70ed](https://gitlab.com/oeyoews/tw5/commit/22e70ed2fa256cc4f476ef520b146059fc18a0b6))
+* remove __state_notebook-sidebar [skip ci] ([aa4f4dd](https://gitlab.com/oeyoews/tw5/commit/aa4f4dd13c6a675cd017e126191403a46ff7b948))
+* remove transparent for mobile and add opacity ([546c070](https://gitlab.com/oeyoews/tw5/commit/546c0703af1d2bd9001ffb4ef1b33a2e0d459e8a))
+
 # [1.18.0](https://gitlab.com/oeyoews/tw5/compare/v1.17.1...v1.18.0) (2022-05-21)
 
 
