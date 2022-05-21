@@ -353,7 +353,8 @@ h1.tc-site-title {
 """>>
 
 .nc-sidebar {
-  background: <<colour tiddler-background>>;
+  /*background: <<colour tiddler-background>>;*/
+  background: transparent;
   border-right: 1px solid <<colour tiddler-border>>;
   width: {{$:/themes/nico/notebook/metrics/sidebar-width}};
   overflow-y: auto;
@@ -728,7 +729,6 @@ div.tc-tab-buttons button:hover {
 
 .tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button {
   border: none;
-  /*background-color: none;*/
   margin: 3px;
 }
 .tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button.tc-tab-selected {

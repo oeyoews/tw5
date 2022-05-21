@@ -1,17 +1,17 @@
 created: 20220401033801566
 creator: @oeyoews
 difficulty: 1
-due: 20220424155902191
+due: 20221015163932014
 grade: 2
-history: [{"due":"20220415155934430","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220414155934430"}]
-interval: 1
+history: [{"due":"20220415155934430","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220414155934430"},{"due":"20220424155902191","interval":1,"difficulty":1,"stability":8.830296307808057,"retrievability":0.34867927218217226,"grade":2,"lapses":0,"reps":2,"review":"20220415155902190"}]
+interval: 35
 lapses: 0
-modified: 20220415155902191
-modifier: @oeyoews
-reps: 2
-retrievability: 0.34867927218217226
-review: 20220415155902190
-stability: 8.830296307808057
+modified: 20220520163932014
+modifier: oeyoews
+reps: 3
+retrievability: 0.6586191884253144
+review: 20220520163932014
+stability: 148.2766981726708
 tags: EnglishWord ?
 title: appreciation
 type: text/vnd.tiddlywiki

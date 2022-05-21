@@ -1,0 +1,190 @@
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css);
+@import url(https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/css/all.css);
+/*@import url(https://cdn.jsdelivr.net/gh/tailwindlabs/tailwindcss/tailwind.css);*/
+@import url(https://cdn.jsdelivr.net/npm/modern-normalize@1/modern-normalize.min.css);
+
+
+:root {
+  /*'Source Sans Pro',*/
+  --font:  'Fira Code',  -apple-system, system-ui, sans-serif;
+  --mono-font: 'Fira Code',  Monaco, sans-serif;
+  --text: #e0def4;
+  --bg: #232136;
+  --bg-alt: #2a273f;
+  --heading: #c4a7e7;
+
+  --r-background-color: var(--bg);
+  --r-main-font: var(--font);
+  --r-main-font-size: 20px;
+  --r-main-color: var(--text);
+  --r-block-margin: 1rem;
+  --r-heading-margin: 1rem;
+  --r-heading-font: var(--font);
+  --r-heading-color: var(--heading);
+  --r-heading-line-height: 2;
+  --r-heading-letter-spacing: normal;
+  --r-heading-text-transform: none;
+  --r-heading-text-shadow: none;
+  --r-heading-font-weight: 600;
+  --r-heading1-text-shadow: none;
+  --r-heading1-size: 3em;
+  --r-heading2-size: 2em;
+  --r-heading3-size: 1.5em;
+  --r-heading4-size: 1.0em;
+  --r-code-font: var(--mono-font);
+  --r-link-color: #eb6f92;
+  --r-link-color-dark: hsl(343, 76%, 60%);
+  --r-link-color-hover: hsl(343, 76%, 75%);
+  --r-selection-background-color: #59546d;
+  --r-selection-color: var(--text);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul ul {
+  margin-left: 0 !important;
+}
+
+ul li {
+  margin: 0.25em 0;
+  text-align: left;
+}
+
+pre {
+  font-size: 1.2rem !important;
+  line-height: 1.5 !important;
+  max-width: 80ch;
+}
+
+code {
+  font-weight: 500;
+  white-space: pre-wrap !important;
+}
+
+:not(pre) > code {
+  background-color: var(--bg-alt);
+  padding: 0.25em 0.5em;
+  margin: 0 0.1em;
+}
+
+.code-compare {
+  display: grid !important;
+  top: auto !important;
+  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: min-content 1fr;
+  align-items: center;
+}
+
+.grid-3 {
+  display: grid !important;
+  top: auto !important;
+  grid-template-columns: 1fr 500px 1fr;
+  grid-gap: 1rem;
+  align-items: center;
+}
+
+
+/*self*/
+.reveal blockquote {
+  display: block;
+  position: relative;
+  width: 90%;
+  margin: 20px auto;
+  padding: 5px;
+  /*background: rgba(0, 255, 255, 0.05);*/
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  font-style: normal;
+  text-align: left;
+}
+
+.reveal .slide-number a {
+  color: #42affe;
+  font-weight: bold;
+}
+
+/*TODO: merge style*/
+.reveal .slide-number a:hover {
+  color: #eb6f92;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.reveal .slide-number {
+    position: absolute;
+    display: inline-block;
+    right: 8px;
+    bottom: 8px;
+    z-index: 0;
+    /*font-family: Helvetica,sans-serif;*/
+    font-size: 12px;
+    line-height: 1;
+    color: #fff;
+    /*background-color: rgba(0,0,0,.4);*/
+    background-color: transparent;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+/*test*/
+
+/*
+.reveal pre {
+  display: block;
+  position: relative;
+  width: 90%;
+  margin: 20px auto;
+  text-align: left;
+  font-size: 0.55em;
+  font-family: monospace;
+  line-height: 1.2em;
+  word-wrap: break-word;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15); }
+*/
+
+
+/*********************************************
+ * Frame helper
+.reveal .r-frame {
+  border: 4px solid #000;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+
+.reveal a .r-frame {
+  transition: all .15s linear; }
+
+.reveal a:hover .r-frame {
+  border-color: #00008B;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
+ *********************************************/
+
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+.reveal .controls {
+  color:  #42affe }
+
+/*********************************************
+ * PROGRESS BAR
+.reveal .progress {
+  background: rgba(0, 0, 0, 0.2);
+  color: #00008B; }
+ *********************************************/
+
+/*********************************************
+ * PRINT BACKGROUND
+ *********************************************/
+@media print {
+  .backgrounds {
+    background-color: #fff; } }
+
+    /*bug: configle imge center*/
+/*.reveal p {*/
+  /*text-align: justify;*/
+/*}*/
+
+
+/*.reveal h2 {*/
+  /*text-align: left*/
+/*}*/

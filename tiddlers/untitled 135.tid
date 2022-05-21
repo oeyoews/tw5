@@ -1,14 +1,17 @@
 created: 20220520143552088
 creator: oeyoews
-modified: 20220520153137304
+modified: 20220520161959601
 modifier: oeyoews
 tags: 
 title: untitled 135
 type: text/vnd.tiddlywiki
 
-<$presentation>
-<$slide>Welcome to ''Reveal.js''</$slide>
-<$slide> __demo__ `demo` this is a demo </$slide>
+<$presentation $height="600">
+
+<$talktimer oktime="5" warntime="10" overtime="15" />
+<$slide backgroundColor="aquamarine">
+Will make a `<section data-background-color="aquamarine">`
+</$slide>
 <$slide>Embedded inside TiddlyWiki</$slide>
 <$slide>
   <$slide>Vertical Slides</$slide>
