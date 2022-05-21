@@ -1,18 +1,9 @@
 created: 20220314025343381
 creator: @oeyoews
-difficulty: 1
-due: 20220507170458642
-grade: 2
 history: [{"due":"20220319135537159","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318135537159"},{"due":"20220328153129339","interval":1,"difficulty":1,"stability":8.830302388320703,"retrievability":0.3486850967074362,"grade":1,"lapses":0,"reps":2,"review":"20220319153129339"}]
-interval: 8
-lapses: 0
-modified: 20220327170458642
-modifier: @oeyoews
-reps: 3
-retrievability: 0.9089605392018921
-review: 20220327170458642
-stability: 41.495126579740116
-tags: EnglishWord ?
+modified: 20220521161403689
+modifier: oeyoews
+tags: EnglishWord !
 title: weighed
 type: text/vnd.tiddlywiki
 
