@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.19.1](https://gitlab.com/oeyoews/tw5/compare/v1.19.0...v1.19.1) (2022-05-21)
+
+
+### Bug Fixes
+
+* remove notebook theme shadow to use two-theme-switch [skip ci] ([8d9e59c](https://gitlab.com/oeyoews/tw5/commit/8d9e59c7a4d5ef1c7743c1e134200f189f07146b))
+
 # [1.19.0](https://gitlab.com/oeyoews/tw5/compare/v1.18.2...v1.19.0) (2022-05-21)
 
 
