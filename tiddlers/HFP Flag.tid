@@ -1,0 +1,18 @@
+created: 20220521044616867
+creator: oeyoews
+modified: 20220521045444400
+modifier: oeyoews
+tags: $:/tags/Stylesheet
+title: HFP Flag
+type: text/vnd.tiddlywiki
+
+@font-face {
+	font-family: 'handfont';
+	src: url('https://cdn.jsdelivr.net/gh/oeyoews/fonts/handfont.ttf');
+}
+
+hfp {
+	font-family: 'handfont';
+	font-size: 20px;
+	font-weight: 500;
+}
