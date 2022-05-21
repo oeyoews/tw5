@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.18.2](https://gitlab.com/oeyoews/tw5/compare/v1.18.1...v1.18.2) (2022-05-21)
+
+
+### Bug Fixes
+
+* rename directory .icon -> icon ([544080a](https://gitlab.com/oeyoews/tw5/commit/544080a0278a103af33b5f279236a17db82ed919))
+* update README link [skip ci] ([6523f0b](https://gitlab.com/oeyoews/tw5/commit/6523f0b07a3a772ef9d345930f7fc18ac3216297))
+
 ## [1.18.1](https://gitlab.com/oeyoews/tw5/compare/v1.18.0...v1.18.1) (2022-05-21)
 
 
