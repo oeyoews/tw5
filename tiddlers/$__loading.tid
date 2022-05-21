@@ -2,7 +2,7 @@ caption: Loading
 code-body: yes
 created: 20220426071248472
 creator: oeyoews
-modified: 20220518052212676
+modified: 20220521135001644
 modifier: oeyoews
 tags: $:/tags/RawMarkupWikified/TopBody
 title: $:/loading
@@ -110,11 +110,11 @@ html body.tc-body {
 	color: <<colour primary>>;
 	font-family:  Lato,"Helvetica Neue" ;
 	font-weight: 200;
-	font-size: 16px;
+	font-size: 14px;
 	position: absolute;
 	width: 100%;
 	height: 10px;
-	line-height: 10px;
+	line-height: 8px;
 	border-radius: 3px;
 	left: 0;
 	top: 0;

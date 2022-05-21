@@ -1,8 +1,8 @@
 created: 20220104175616867
 creator: @oeyoews
-modified: 20220323023941319
-modifier: @oeyoews
+modified: 20220521133501133
+modifier: oeyoews
 title: $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/CommandPalette
 type: text/vnd.tiddlywiki
 
-hide
+show

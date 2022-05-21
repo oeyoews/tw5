@@ -35,7 +35,6 @@
 * [ ] feat: add button effects for left menubar
 * [ ] feat: hove effects for `ctrl p`
 * [ ] feat: use git commit time to replace utc system
-* [ ] feat: add shortkeys for controll (alt i) and jump inbox shortkey
 * [ ] fix: fix code block for specific type
 * [ ] todo: learn use transition details
 * [ ] fix: use div(maybe) to compute current window location for fishing(may be use js)
@@ -233,3 +232,4 @@
 * [x] __refactor__: fix like drop down border
 * [x] __refactor__: resolve this shine color, maybe can same for tid bg and div bg
 * [x] __refactor__: all stylesheet
+* [x] feat: add shortkeys for controll (alt i) and jump inbox shortkey
