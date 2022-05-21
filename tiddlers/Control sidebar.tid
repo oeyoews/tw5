@@ -2,7 +2,7 @@ caption: StartUp
 code-body: yes
 created: 20220518173618961
 creator: oeyoews
-modified: 20220521164212345
+modified: 20220521173254380
 modifier: oeyoews
 tags: $:/tags/StartupAction
 title: Control sidebar
@@ -10,19 +10,13 @@ type: text/vnd.tiddlywiki
 
 \import [[$:/core/ui/PageMacros]] [all[shadows+tiddlers]tag[$:/tags/Macro]!has[draft.of]]
 
-<!--
-<$reveal type="lt" state="$:/info/browser/screen/width" text="3000">
-<$action-setfield $tiddler="$:/state/notebook-sidebar" $value="no"/>
-</$reveal>
-
-<$reveal type="gteq" state="$:/info/browser/screen/width" text="3000">
-<$action-setfield $tiddler="$:/state/notebook-sidebar" $value="yes"/>
-</$reveal>
+<!-- 
+<$action-sendmessage $message="tm-notify" $param="FishingZenMode"/>
 -->
 
 <$reveal type="lt" state="$:/info/browser/screen/width" text={{{ [{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}removesuffix[px]] }}}>
 <$action-setfield $tiddler="$:/state/notebook-sidebar" $value="no"/>
-<$action-sendmessage $message="tm-notify" $param="FishingZenMode"/>
+<$action-setfield $tiddler="$:/theme" $value="$:/themes/tiddlywiki/vanilla"/>
 </$reveal>
 
 <$reveal type="lt" state="$:/info/browser/screen/width" text={{{ [{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}removesuffix[px]] }}}>

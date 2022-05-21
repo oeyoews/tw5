@@ -56,7 +56,12 @@
 
 ## ☔ Run
 
-> `yarn start`
+
+```
+yarn start
+or
+tiddlywiki --listen port=8080 host=0.0.0.0
+```
 
 ## 🪐 Platform
 

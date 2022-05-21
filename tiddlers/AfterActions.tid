@@ -1,0 +1,14 @@
+created: 20220521173026064
+creator: oeyoews
+modified: 20220521173752870
+modifier: oeyoews
+tags: $:/tags/StartupAction/PostRender
+title: AfterActions
+type: text/vnd.tiddlywiki
+
+<$action-sendmessage $message="tm-notify" $param="Welcome Message"/>
+
+<!--
+only effect for browser
+<$action-setfield $tiddler="$:/theme" $value="$:/themes/tiddlywiki/vanilla"/>
+-->

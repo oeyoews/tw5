@@ -1,10 +1,11 @@
 created: 20211226165257713
+creator: oeyoews
 difficulty: 4.2
 due: 20220114171611380
 history: [{"due":"20220114171611380","interval":"0","difficulty":4.2,"stability":2,"recall":1,"lapses":0,"reps":2,"review":"20220112171611379"}]
 interval: 0
 lapses: 0
-modified: 20220217114047176
+modified: 20220521165723980
 modifier: oeyoews
 recall: 1
 reps: 2
@@ -15,4 +16,3 @@ title: tips/a3
 type: text/vnd.tiddlywiki
 
 # open localhost:8080 in your browser, settings -> enging(add ll)
-# <br> [img width=400 [files/fastopen.png]]
