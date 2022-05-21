@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.19.0](https://gitlab.com/oeyoews/tw5/compare/v1.18.2...v1.19.0) (2022-05-21)
+
+
+### Bug Fixes
+
+* remove button extra blank line [skip ci] ([78a462e](https://gitlab.com/oeyoews/tw5/commit/78a462e217eb5cbf2696aa6785b12858bcf29e31))
+* remove some extra shortcuts files [skip ci] ([ab03624](https://gitlab.com/oeyoews/tw5/commit/ab03624df7d90bb4fdbf8af02bc0ba66ae4e1820))
+
+
+### Features
+
+* add shortcuts plugin [skip ci] ([5a25f87](https://gitlab.com/oeyoews/tw5/commit/5a25f878204c70d19c6378f91f05bb219fecd612))
+* add Welcome message ([3e017e5](https://gitlab.com/oeyoews/tw5/commit/3e017e531fe250f99516760a5b89920e263ec6a3))
+
 ## [1.18.2](https://gitlab.com/oeyoews/tw5/compare/v1.18.1...v1.18.2) (2022-05-21)
 
 
