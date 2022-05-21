@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.18.0](https://gitlab.com/oeyoews/tw5/compare/v1.17.1...v1.18.0) (2022-05-21)
+
+
+### Bug Fixes
+
+* add border none for code and tidy some unless stylesheet ([361e441](https://gitlab.com/oeyoews/tw5/commit/361e44197249f26d3dd885dfd6dc58e1ea8a64ac))
+
+
+### Features
+
+* add handfont and hfp tag ([3a1b09f](https://gitlab.com/oeyoews/tw5/commit/3a1b09f6966139b958bfeab029a13144a4368074))
+* nc-sidebar to transparent ([458a818](https://gitlab.com/oeyoews/tw5/commit/458a8185ff8115329319af627b9f3cb338ab898f))
+
 ## [1.17.1](https://gitlab.com/oeyoews/tw5/compare/v1.17.0...v1.17.1) (2022-05-20)
 
 
