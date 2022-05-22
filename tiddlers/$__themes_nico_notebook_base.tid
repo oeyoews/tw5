@@ -679,7 +679,12 @@ pre, code {
   margin: 0 2px 0;
   border: 2px solid none;
   border-radius: 5px;
+  color: unset !important;
 }
+
+code {
+  box-shadow: 1px 5px 5px #0000004d;
+  }
 
 
 .tc-titlebar, .tc-site-title {
