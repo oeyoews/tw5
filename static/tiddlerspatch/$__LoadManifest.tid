@@ -17,14 +17,8 @@ type: text/vnd.tiddlywiki
 <!-- must in root -->
 <link rel="manifest" href="manifest.webmanifest">
 
-<!-- add description -->
 <meta name="description" content="Author: oeyoews, Illustrator: a linear notebook with fish">
-
-<!-- add author -->
 <meta name="author" content="oeyoews">
-
-
-<!-- add theme-color -->
 <meta name="theme-color" content="#073642"/>
 
 <!-- https://realfavicongenerator.net/ -->
