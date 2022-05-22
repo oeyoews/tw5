@@ -1,31 +1,22 @@
-caption: Scrollbar
-created: 20220212200401023
-creator: oeyoews
-modified: 20220509030135676
-modifier: oeyoews
-tags: $:/tags/Stylesheet
-title: $:/config/oeyoews/scrollbar
-type: text/vnd.tiddlywiki
-
 \rules only filteredtranscludeinline transcludeinline macrodef macrocallinline html
 
+/**
 html {
   --scrollbarBG: <<color page-background>>;
   --thumbBG: <<color sidebar-tiddler-link-foreground>>;
-	/*other candidate colors: foreground, sidebar-tiddler-link-foreground */
 }
+*/
 
-/* only for Twilight palette use <<color sidebar-muted-foreground>> */
 
 /* Works on Firefox */
 * {
   scrollbar-width: thin;
 }
+
 /* for Chrome, Edge */
 ::-webkit-scrollbar,
   scrollbar-width {
-  width: 4px;
-  height:2px;
+  width: 5px;
 }
 
 ::-webkit-scrollbar-track {
@@ -38,4 +29,8 @@ html {
   border-radius: 3px;
   border: 0px solid var(--scrollbarBG);
 	background: linear-gradient(45deg, #00f260, #3AC9E1);
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: linear-gradient(to top, #12c2e9, #c471ed, #f64f59); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
 }
