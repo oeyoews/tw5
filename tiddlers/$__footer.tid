@@ -2,7 +2,7 @@ caption: BodyFooter
 code-body: yes
 created: 20211001231029099
 creator: Télumire
-modified: 20220514093501183
+modified: 20220522145807013
 modifier: oeyoews
 tagging: after
 tags: $:/TiddlyTweaks $:/footer $:/tags/RawMarkupWikified/BottomBody
@@ -48,11 +48,11 @@ mutex="true"
 	lrc-type="1"
 -->
 `<meting-js 
+	style="font-size:28px;"
 	id="6733209548"
 	server="netease"
 	order="random"
 	type="playlist"
 	fixed="true"
-	lrc-type="1"
 	list-olded="true">`
 `</meting-js>`
