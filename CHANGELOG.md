@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.20.0](https://gitlab.com/oeyoews/tw5/compare/v1.19.1...v1.20.0) (2022-05-22)
+
+
+### Bug Fixes
+
+* remove theme setting plugin [skip ci] ([a5e5d67](https://gitlab.com/oeyoews/tw5/commit/a5e5d67be6734c3dbcf3afa5d9086cbcc2df47af))
+
+
+### Features
+
+* add postrander judge for mb ([6db3389](https://gitlab.com/oeyoews/tw5/commit/6db3389ceddc81f336c0253cd3e79ab7e7b6226d))
+
 ## [1.19.1](https://gitlab.com/oeyoews/tw5/compare/v1.19.0...v1.19.1) (2022-05-21)
 
 
