@@ -37,7 +37,9 @@ type: text/vnd.tiddlywiki
   <!-- Changing the Status Bar Appearance -->
   <!-- maybe fix scroll sticky title  -->
   <!-- control mobile status bar -->
-<meta content="no" name="apple-mobile-web-app-status-bar-style" content="black">
+<!--
+  <meta content="no" name="apple-mobile-web-app-status-bar-style" content="black">
+-->
   <!-- launch title
 <meta name="apple-mobile-web-app-title" content="FishForYou">
   -->
