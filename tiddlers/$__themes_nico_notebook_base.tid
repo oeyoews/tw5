@@ -405,8 +405,8 @@ h1.tc-site-title {
 
 .nc-sidebar .section .label {
   padding: 2px 0;
-  color: <<colour site-title-foreground>>;
-  fill: <<colour site-title-foreground>>;
+  /*color: <<colour site-title-foreground>>;*/
+  /*fill: <<colour site-title-foreground>>;*/
   font-weight: bold;
   line-height: 1.6em;
   display: block;
@@ -418,13 +418,13 @@ h1.tc-site-title {
 
 /*@oeyoews*/
 .nc-sidebar .section:not(.open) .label:hover {
-  background: linear-gradient(to left, #5972d9, transparent);
+  /*background: linear-gradient(to left, #5972d9, transparent);*/
 }
 
 .nc-sidebar .section.open .label {
-  color: <<colour tiddler-background>>;
-  fill: <<colour tiddler-background>>;
-  background: <<colour primary>>;
+  /*color: <<colour tiddler-background>>;*/
+  /*fill: <<colour tiddler-background>>;*/
+  /*background: <<colour primary>>;*/
   /*border-bottom: 1px solid rgba(0,0,0,.1);*/
 }
 
@@ -682,11 +682,6 @@ pre, code {
   border-radius: 5px;
   color: unset !important;
 }
-
-code {
-  box-shadow: 1px 5px 5px #0000004d;
-  }
-
 
 .tc-titlebar, .tc-site-title {
   font-size: 28px !important;
