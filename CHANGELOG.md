@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.23.0](https://gitlab.com/oeyoews/tw5/compare/v1.22.0...v1.23.0) (2022-05-22)
+
+
+### Bug Fixes
+
+* remove sidebar color [skip ci] ([51a3986](https://gitlab.com/oeyoews/tw5/commit/51a3986a839217b8dd2cbb7febfad06dc81ae2e7))
+
+
+### Features
+
+* use charts plugin [skip ci] ([31686a2](https://gitlab.com/oeyoews/tw5/commit/31686a235ad7903f50c20a6a438e0b1ac280cea3))
+
 # [1.22.0](https://gitlab.com/oeyoews/tw5/compare/v1.21.0...v1.22.0) (2022-05-22)
 
 
