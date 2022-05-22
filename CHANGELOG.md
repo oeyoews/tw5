@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.21.0](https://gitlab.com/oeyoews/tw5/compare/v1.20.0...v1.21.0) (2022-05-22)
+
+
+### Bug Fixes
+
+* add gitignore for __themes_nico_notebook_ui_Bottombar [skip ci] ([00d6c4d](https://gitlab.com/oeyoews/tw5/commit/00d6c4d3f3e7ec9cfadd402c154aba4bd7b822c0))
+* remove message judge [skip ci] ([b9ffb96](https://gitlab.com/oeyoews/tw5/commit/b9ffb96fcfe2148f9d038f60621c10ab89a3d0af))
+* simpify actions [skip ci] ([9f440f5](https://gitlab.com/oeyoews/tw5/commit/9f440f54eea4932f91400c819f819bf855dce3b4))
+
+
+### Features
+
+* add hove style ([9d2cb2d](https://gitlab.com/oeyoews/tw5/commit/9d2cb2d1853d6bef655970dea04712b89ec071eb))
+
 # [1.20.0](https://gitlab.com/oeyoews/tw5/compare/v1.19.1...v1.20.0) (2022-05-22)
 
 
