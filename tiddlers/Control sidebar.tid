@@ -2,7 +2,7 @@ caption: StartUp
 code-body: yes
 created: 20220518173618961
 creator: oeyoews
-modified: 20220521235145238
+modified: 20220522001355399
 modifier: oeyoews
 tags: $:/tags/StartupAction
 title: Control sidebar
@@ -10,17 +10,11 @@ type: text/vnd.tiddlywiki
 
 \import [[$:/core/ui/PageMacros]] [all[shadows+tiddlers]tag[$:/tags/Macro]!has[draft.of]]
 
-<!-- 
-<$action-setfield $tiddler="$:/theme" $value="$:/themes/tiddlywiki/vanilla"/>
--->
+<$action-sendmessage $message="tm-notify" $param="FishingZenMode"/>
 
 <$reveal type="lt" state="$:/info/browser/screen/width" text={{{ [{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}removesuffix[px]] }}}>
 <$action-setfield $tiddler="$:/state/notebook-sidebar" $field="text" $value="no"/>
 <$action-setfield $tiddler="$:/state/sidebar" $field="text" $value="no"/>
-</$reveal>
-
-<$reveal type="lt" state="$:/info/browser/screen/width" text={{{ [{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}removesuffix[px]] }}}>
-<$action-sendmessage $message="tm-notify" $param="FishingZenMode"/>
 </$reveal>
 
 <$reveal type="gteq" state="$:/info/browser/screen/width" text={{{ [{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}removesuffix[px]] }}}>
