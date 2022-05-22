@@ -2,7 +2,7 @@ caption: StartUp
 code-body: yes
 created: 20220518173618961
 creator: oeyoews
-modified: 20220521233839475
+modified: 20220521235145238
 modifier: oeyoews
 tags: $:/tags/StartupAction
 title: Control sidebar
@@ -15,7 +15,7 @@ type: text/vnd.tiddlywiki
 -->
 
 <$reveal type="lt" state="$:/info/browser/screen/width" text={{{ [{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}removesuffix[px]] }}}>
-<$action-setfield $tiddler="$:/state/notebook-sidebar" $value="no"/>
+<$action-setfield $tiddler="$:/state/notebook-sidebar" $field="text" $value="no"/>
 <$action-setfield $tiddler="$:/state/sidebar" $field="text" $value="no"/>
 </$reveal>
 

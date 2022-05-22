@@ -1,9 +1,14 @@
+code-body: yes
 created: 20220521173026064
 creator: oeyoews
-modified: 20220521231813542
+modified: 20220521235914241
 modifier: oeyoews
 tags: $:/tags/StartupAction/PostRender
 title: AfterActions
 type: text/vnd.tiddlywiki
 
 <$action-sendmessage $message="tm-notify" $param="Welcome Message"/>
+
+<$reveal type="lt" state="$:/info/browser/screen/width" text={{{ [{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}removesuffix[px]] }}}>
+<$action-setfield $tiddler="$:/themes/nico/notebook/ui/Bottombar" $field="text" $value=""/>
+</$reveal>
