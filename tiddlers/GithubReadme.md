@@ -1,17 +1,7 @@
-<a target="_blank" href="https://dream-plan.cn"><img style="width:500px;" class="oimg " src="https://user-images.githubusercontent.com/62864752/155082301-d777c58f-d495-42d7-8dba-59ca844379e7.jpg"></a>
-
-<p align="left">
- <img img style="width: 500px;" class="oimg" src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width="37%"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm oeyoews</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-## [Welcome to Fishing](https://oeyoew.fun)  
-<a href="https://oeyoew.fun">
-<img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽  Nice+To+Meet+U"></a>
-
-
+## [Welcome to Fishing](https://oeyoew.fun) <a href="https://oeyoew.fun"> <img src="https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽  Nice+To+Meet+U"></a>
 
 - 🌱 I’m currently learning **C Python Java go**
 
@@ -38,7 +28,6 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MarkDown" />
 </p> 
 
-
 <h3>Technologies</h3>
 <p>
   <img src="https://img.shields.io/badge/SHELL-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="BASH" />
@@ -52,3 +41,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
+
+<a target="_blank" href="https://dream-plan.cn"><img style="width:400px; " class="oimg " src="https://user-images.githubusercontent.com/62864752/155082301-d777c58f-d495-42d7-8dba-59ca844379e7.jpg"></a>
+<img img style="width: 400px;" class="oimg" src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width="50%"/>
