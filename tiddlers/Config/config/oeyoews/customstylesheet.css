@@ -4,7 +4,9 @@ hr {
 	height:1px
 }
 
+/*
 html { scroll-behavior: smooth; }
+*/
 
 .tc-tiddler-body > embed, .tc-tiddler-body > iframe {
   width: 100%;

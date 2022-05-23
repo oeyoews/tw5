@@ -2,7 +2,7 @@ caption: BodyFooter
 code-body: yes
 created: 20211001231029099
 creator: Télumire
-modified: 20220522155858158
+modified: 20220522220252807
 modifier: oeyoews
 tagging: after
 tags: $:/TiddlyTweaks $:/footer $:/tags/RawMarkupWikified/BottomBody
@@ -29,7 +29,7 @@ Bug: this uptime not union
 `<footer id="hitokoto" style="color: black;text-decoration: 3px underline lightblue;font-family: "jetbrains mono";font-size:14px;">`
 `</footer>`
 -->
-`<footer style="font-size:18px;" id="hitokoto">`
+`<footer style="font-size:16px;" id="hitokoto">`
 `</footer>`
 
 

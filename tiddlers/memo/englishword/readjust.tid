@@ -1,17 +1,17 @@
 created: 20220224054411799
 creator: oeyoews
 difficulty: 1
-due: 20220424012139667
-grade: 1
-history: [{"due":"20220304080709695","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303080709695"}]
-interval: 3
+due: 20230221014640304
+grade: 2
+history: [{"due":"20220304080709695","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303080709695"},{"due":"20220424012139667","interval":3,"difficulty":1,"stability":48.60974728794028,"retrievability":0.05273732312238567,"grade":1,"lapses":0,"reps":2,"review":"20220306012139667"}]
+interval: 78
 lapses: 0
-modified: 20220311044418223
-modifier: @oeyoews
-reps: 2
-retrievability: 0.05273732312238567
-review: 20220306012139667
-stability: 48.60974728794028
+modified: 20220523014640304
+modifier: oeyoews
+reps: 3
+retrievability: 0.8444555183230106
+review: 20220523014640303
+stability: 274.34444643860104
 tags: EnglishWord ?
 title: readjust
 type: text/vnd.tiddlywiki

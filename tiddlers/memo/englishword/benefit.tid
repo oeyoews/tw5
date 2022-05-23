@@ -1,18 +1,9 @@
 created: 20220304015758940
 creator: oeyoews
-difficulty: 1.47967081408124
-due: 20220511053008139
-grade: 1
 history: [{"due":"20220311020411152","interval":0,"difficulty":3.134729389433022,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220310020411152"},{"due":"20220325042952859","interval":3,"difficulty":1.3772760368314023,"stability":12.310486545237625,"retrievability":0.042546647398380294,"grade":2,"lapses":0,"reps":2,"review":"20220313042952859"}]
-interval: 12
-lapses: 0
-modified: 20220325053008139
-modifier: @oeyoews
-reps: 3
-retrievability: 0.9023947772498376
-review: 20220325053008139
-stability: 47.151918045758975
-tags: EnglishWord ?
+modified: 20220523020540910
+modifier: oeyoews
+tags: EnglishWord !
 title: benefit
 type: text/vnd.tiddlywiki
 

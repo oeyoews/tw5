@@ -1,17 +1,17 @@
 created: 20220404053627851
 creator: @oeyoews
 difficulty: 1
-due: 20220422004400213
-grade: 2
-history: [{"due":"20220408104004225","interval":0,"difficulty":0.40291375445826566,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220407104004225"}]
-interval: 2
+due: 20221115014813524
+grade: 1
+history: [{"due":"20220408104004225","interval":0,"difficulty":0.40291375445826566,"stability":0.1000004529953003,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220407104004225"},{"due":"20220422004400213","interval":2,"difficulty":1,"stability":13.480656341124586,"retrievability":0.12157781510855029,"grade":2,"lapses":0,"reps":2,"review":"20220409004400213"}]
+interval: 44
 lapses: 0
-modified: 20220409004400214
-modifier: @oeyoews
-reps: 2
-retrievability: 0.12157781510855029
-review: 20220409004400213
-stability: 13.480656341124586
+modified: 20220523014813524
+modifier: oeyoews
+reps: 3
+retrievability: 0.7090069261023203
+review: 20220523014813523
+stability: 175.85682012231604
 tags: EnglishWord ?
 title: conservative
 type: text/vnd.tiddlywiki

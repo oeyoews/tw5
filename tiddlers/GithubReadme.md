@@ -42,5 +42,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
+<details>
+	<summary>TOC</summary>
 <a target="_blank" href="https://dream-plan.cn"><img style="width:400px; " class="oimg " src="https://user-images.githubusercontent.com/62864752/155082301-d777c58f-d495-42d7-8dba-59ca844379e7.jpg"></a>
 <img img style="width: 400px;" class="oimg" src="https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=2&column=3&no-frame=true" width="50%"/>
+</details>

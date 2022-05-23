@@ -118,7 +118,7 @@ button.tc-tag-label, span.tc-tag-label:hover {
 button:not(.tc-btn-invisible) {
   color: <<colour button-foreground>>;
   background-color: <<colour button-background>>;
-  padding: 5px 5px;
+  padding: 3px 3px;
   margin: 0px;
   /*弧度*/
   border-radius: 3px;

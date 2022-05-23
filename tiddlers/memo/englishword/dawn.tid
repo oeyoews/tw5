@@ -1,17 +1,17 @@
 created: 20220316080123093
 creator: @oeyoews
-difficulty: 1.095253976916443
-due: 20220512011609688
+difficulty: 1.1719640642336577
+due: 20221126020235027
 grade: 1
-history: [{"due":"20220319141433314","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318141433314"},{"due":"20220321062133094","interval":2,"difficulty":1.6710614246127011,"stability":0.07408249324251646,"retrievability":0.12158129666587415,"grade":0,"lapses":1,"reps":1,"review":"20220320062133094"},{"due":"20220330055453032","interval":1,"difficulty":1,"stability":8.569934531523112,"retrievability":0.24118154863103877,"grade":2,"lapses":1,"reps":2,"review":"20220321055453032"}]
-interval: 9
+history: [{"due":"20220319141433314","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318141433314"},{"due":"20220321062133094","interval":2,"difficulty":1.6710614246127011,"stability":0.07408249324251646,"retrievability":0.12158129666587415,"grade":0,"lapses":1,"reps":1,"review":"20220320062133094"},{"due":"20220330055453032","interval":1,"difficulty":1,"stability":8.569934531523112,"retrievability":0.24118154863103877,"grade":2,"lapses":1,"reps":2,"review":"20220321055453032"},{"due":"20220512011609688","interval":9,"difficulty":1.095253976916443,"stability":43.23996644513035,"retrievability":0.8952539769164432,"grade":1,"lapses":1,"reps":3,"review":"20220330011609688"}]
+interval: 54
 lapses: 1
-modified: 20220330011609688
-modifier: @oeyoews
-reps: 3
-retrievability: 0.8952539769164432
-review: 20220330011609688
-stability: 43.23996644513035
+modified: 20220523020235027
+modifier: oeyoews
+reps: 4
+retrievability: 0.8767100873172146
+review: 20220523020235027
+stability: 186.65482779114572
 tags: EnglishWord ?
 title: dawn
 type: text/vnd.tiddlywiki

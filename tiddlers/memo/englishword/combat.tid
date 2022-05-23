@@ -1,17 +1,17 @@
 created: 20220329014205871
 creator: @oeyoews
-difficulty: 0.3108704956392557
-due: 20220423102257725
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220608020609452
+grade: 1
+history: [{"due":"20220423102257725","interval":0,"difficulty":0.3108704956392557,"stability":0.10000011324882507,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220422102257725"}]
+interval: 31
 lapses: 0
-modified: 20220422102257725
+modified: 20220523020609453
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220422102257725
-stability: 0.10000011324882507
+reps: 2
+retrievability: 6.5342235765468474e-15
+review: 20220523020609452
+stability: 16.439773952841332
 tags: EnglishWord ?
 title: combat
 type: text/vnd.tiddlywiki

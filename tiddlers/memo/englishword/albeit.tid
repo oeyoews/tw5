@@ -1,17 +1,17 @@
 created: 20220413051453107
 creator: @oeyoews
-difficulty: 0.3108704956392557
-due: 20220423100824474
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20220422100824474
+difficulty: 1
+due: 20220524020226203
+grade: 0
+history: [{"due":"20220423100824474","interval":0,"difficulty":0.3108704956392557,"stability":0.10000011324882507,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220422100824474"}]
+interval: 31
+lapses: 1
+modified: 20220523020226204
 modifier: oeyoews
 reps: 1
-retrievability: 1
-review: 20220422100824474
-stability: 0.10000011324882507
+retrievability: 6.5342235765468474e-15
+review: 20220523020226203
+stability: 0.07408190596496488
 tags: EnglishWord ?
 title: albeit
 type: text/vnd.tiddlywiki

@@ -1,18 +1,9 @@
 created: 20220316075804748
 creator: @oeyoews
-difficulty: 1
-due: 20220505164534434
-grade: 2
 history: [{"due":"20220317113040265","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316113040264"},{"due":"20220326113346160","interval":1,"difficulty":1,"stability":8.83030933645776,"retrievability":0.3486917532007223,"grade":2,"lapses":0,"reps":2,"review":"20220317113346159"}]
-interval: 8
-lapses: 0
-modified: 20220325164534434
-modifier: @oeyoews
-reps: 3
-retrievability: 0.9089606074718765
-review: 20220325164534434
-stability: 41.495128462654954
-tags: EnglishWord ?
+modified: 20220523014704572
+modifier: oeyoews
+tags: EnglishWord !
 title: softening
 type: text/vnd.tiddlywiki
 

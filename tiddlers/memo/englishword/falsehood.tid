@@ -1,17 +1,17 @@
 created: 20220403035200794
 creator: @oeyoews
-difficulty: 0.28550120602555623
-due: 20220511131247464
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220607220642151
+grade: 1
+history: [{"due":"20220511131247464","interval":0,"difficulty":0.28550120602555623,"stability":0.10000011324882507,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220510131247464"}]
+interval: 12
 lapses: 0
-modified: 20220510131247464
+modified: 20220522220642151
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220510131247464
-stability: 0.10000011324882507
+reps: 2
+retrievability: 0.0000032292922557375053
+review: 20220522220642151
+stability: 16.43969047854347
 tags: EnglishWord ?
 title: falsehood
 type: text/vnd.tiddlywiki

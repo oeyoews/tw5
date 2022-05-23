@@ -1,0 +1,12 @@
+author: oeyoews
+created: 20220523085301506
+description: show caption
+list: readme
+modified: 20220523085715317
+name: Title Caption
+packaged-by: Gatha on 23rd May 2022, 16:58:55
+plugin-type: plugin
+tags: 
+title: $:/plugins/oeyoews/title-caption
+type: application/json
+version: v0.0.2
