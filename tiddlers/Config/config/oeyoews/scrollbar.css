@@ -17,6 +17,7 @@ html {
 ::-webkit-scrollbar,
   scrollbar-width {
   width: 5px;
+		height: 7px;
 }
 
 ::-webkit-scrollbar:hover,
