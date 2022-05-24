@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.24.2](https://gitlab.com/oeyoews/tw5/compare/v1.24.1...v1.24.2) (2022-05-24)
+
+
+### Bug Fixes
+
+* remove chore skip ci ([3f3103c](https://gitlab.com/oeyoews/tw5/commit/3f3103ccbe944cd4b258737a54ad1241a5762ac4))
+
 ## [1.24.1](https://gitlab.com/oeyoews/tw5/compare/v1.24.0...v1.24.1) (2022-05-24)
 
 
