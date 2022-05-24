@@ -473,7 +473,7 @@ h1.tc-site-title {
     top: 0;
     bottom: 48px;
     z-index: 3000;
-    animation: sidebar-slide ease-in .4s;
+    animation: sidebar-slide ease-in .3s;
     animation-fill-mode: forwards;
   }
 }
