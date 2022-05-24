@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.24.0](https://gitlab.com/oeyoews/tw5/compare/v1.23.0...v1.24.0) (2022-05-24)
+
+
+### Bug Fixes
+
+* remove html comment in css format cause css can't work normaly [skip ci] ([07ba2a3](https://gitlab.com/oeyoews/tw5/commit/07ba2a36f6bec44b9dc6c8cfdcb8d33fba815ea4))
+* update homepage [skip ci] ([9adcbd7](https://gitlab.com/oeyoews/tw5/commit/9adcbd790c7ac3877ca4125921fb35afab0befbf))
+
+
+### Features
+
+* add title-caption plugin [skip ci] ([5846221](https://gitlab.com/oeyoews/tw5/commit/5846221c82233b93dbd8e1f7e0bef915dec326a1))
+
 # [1.23.0](https://gitlab.com/oeyoews/tw5/compare/v1.22.0...v1.23.0) (2022-05-22)
 
 
