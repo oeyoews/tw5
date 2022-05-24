@@ -2,7 +2,7 @@ caption: StartUp
 code-body: yes
 created: 20220518173618961
 creator: oeyoews
-modified: 20220522001822898
+modified: 20220524053002902
 modifier: oeyoews
 tags: $:/tags/StartupAction
 title: Control sidebar
@@ -12,11 +12,13 @@ type: text/vnd.tiddlywiki
 
 <$action-sendmessage $message="tm-notify" $param="FishingZenMode"/>
 
+<!-- hide bottombar
+<$action-setfield $tiddler="$:/themes/nico/notebook/ui/Bottombar" $field="text" $value=""/>
+<$action-setfield $tiddler="$:/state/sidebar" $field="text" $value="no"/>
+-->
 <!-- bug: just only open or close sidebar in phone -->
 <$reveal type="lt" state="$:/info/browser/screen/width" text={{{ [{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}removesuffix[px]] }}}>
 <$action-setfield $tiddler="$:/state/notebook-sidebar" $field="text" $value="no"/>
-<$action-setfield $tiddler="$:/state/sidebar" $field="text" $value="no"/>
-<$action-setfield $tiddler="$:/themes/nico/notebook/ui/Bottombar" $field="text" $value=""/>
 </$reveal>
 
 <$reveal type="gteq" state="$:/info/browser/screen/width" text={{{ [{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}removesuffix[px]] }}}>
