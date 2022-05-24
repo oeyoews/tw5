@@ -76,11 +76,10 @@ select {
     border-radius: 3px;
 }
 
-<!-- remove select --> 
 .tc-subtitle {
     font-size: 0.9em;
     font-weight: normal;
-    user-select: none;
+    user-select: none !important;
 }
 
 .tc-drop-down .tc-tab-buttons button.tc-tab-selected {

@@ -2,7 +2,7 @@ color: #b8f316
 created: 20220323065821053
 creator: @oeyoews
 icon: 3898538.png
-modified: 20220523090738883
+modified: 20220523161544488
 modifier: oeyoews
 page-cover: https://source.unsplash.com/random
 tags: 
@@ -14,7 +14,6 @@ type: text/vnd.tiddlywiki
 {{FLink}}
 ---
 {{$:/config/oeyoews/subtitlefooter}}
-
 <div style="text-align: center; font-size: 60%;">
-<i class="fa fa-clock"/> BeiJing： <<now>>
+<i class="fa fa-clock"/> <<now>>
 </div>
