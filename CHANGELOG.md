@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.24.1](https://gitlab.com/oeyoews/tw5/compare/v1.24.0...v1.24.1) (2022-05-24)
+
+
+### Bug Fixes
+
+* add scrollbar height ([93d74b4](https://gitlab.com/oeyoews/tw5/commit/93d74b46f5a13d960f6bea599755acb5da4110df))
+* add web-status black bar ([2b4aa70](https://gitlab.com/oeyoews/tw5/commit/2b4aa7013c3d603999474a87d2e466959a9633a0))
+
 # [1.24.0](https://gitlab.com/oeyoews/tw5/compare/v1.23.0...v1.24.0) (2022-05-24)
 
 
