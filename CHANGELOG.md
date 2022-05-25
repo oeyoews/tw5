@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.28.2](https://gitlab.com/oeyoews/tw5/compare/v1.28.1...v1.28.2) (2022-05-25)
+
+
+### Bug Fixes
+
+* remove *.map warning ([1cd509b](https://gitlab.com/oeyoews/tw5/commit/1cd509b9e0f0804b1587ca2ca6c341c033710dca))
+
 ## [1.28.1](https://gitlab.com/oeyoews/tw5/compare/v1.28.0...v1.28.1) (2022-05-25)
 
 
