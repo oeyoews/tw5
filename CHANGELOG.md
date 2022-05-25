@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.26.0](https://gitlab.com/oeyoews/tw5/compare/v1.25.1...v1.26.0) (2022-05-25)
+
+
+### Features
+
+* remove FontAwesome link css and use FontAwesome plugin ([868c5a7](https://gitlab.com/oeyoews/tw5/commit/868c5a778f88c45860dceaeecc1189795c2b8e38))
+
 ## [1.25.1](https://gitlab.com/oeyoews/tw5/compare/v1.25.0...v1.25.1) (2022-05-25)
 
 
