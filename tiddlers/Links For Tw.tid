@@ -1,7 +1,7 @@
 code-body: yes
 created: 20220421054229882
 creator: oeyoews
-modified: 20220525110501307
+modified: 20220525111910808
 modifier: oeyoews
 tags: $:/tags/RawMarkup
 title: Links For Tw
@@ -26,7 +26,9 @@ type: text/vnd.tiddlywiki
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap" rel="stylesheet">
 -->
 
+<!--
 <link href="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/css/all.min.css" rel="stylesheet">
+-->
 
 <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
 
