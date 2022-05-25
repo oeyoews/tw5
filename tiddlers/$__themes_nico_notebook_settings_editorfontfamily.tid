@@ -1,8 +1,8 @@
 created: 20220307155305209
 creator: @oeyoews
-modified: 20220423105750636
+modified: 20220525110234190
 modifier: oeyoews
 title: $:/themes/nico/notebook/settings/editorfontfamily
 type: text/vnd.tiddlywiki
 
-"JetBrains Mono", "Fira Code", -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+"Fira Code", -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
