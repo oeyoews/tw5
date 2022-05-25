@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.28.0](https://gitlab.com/oeyoews/tw5/compare/v1.27.0...v1.28.0) (2022-05-25)
+
+
+### Bug Fixes
+
+* clean links for tw ([5e4ee0b](https://gitlab.com/oeyoews/tw5/commit/5e4ee0b079a282b3afd28f1b6d57f06365c5953b))
+
+
+### Features
+
+* add Patrick hand font ([c8e6922](https://gitlab.com/oeyoews/tw5/commit/c8e69224bc1104ec26739fec7714c7f2155f8bef))
+
 # [1.27.0](https://gitlab.com/oeyoews/tw5/compare/v1.26.0...v1.27.0) (2022-05-25)
 
 
