@@ -1,0 +1,11 @@
+created: 20200406205505490
+creator: Mohammad
+modified: 20220525121027022
+modifier: oeyoews
+tags: start
+title: Sample Text: Patrick Hand font
+type: text/vnd.tiddlywiki
+
+<div style="font-family:Patrick Hand; font-size:19px;">
+Saturday December 1st at 5 a.m. UTC will mark the start of the fourth incarnation of Advent of Code, popular programming contest started back in 2015.
+</div>
