@@ -1,8 +1,28 @@
 created: 20220525151431435
 creator: oeyoews
-modified: 20220525163637015
+modified: 20220525164449427
 modifier: oeyoews
 title: 物体转动惯量测量
 type: text/vnd.tiddlywiki
+
+!! 调平水准仪
+
+!! 放载物盘
+
+<<<
+"""
+挡光杆放在中间
+
+塑料圆柱
+金属圆筒
+实心球
+金属细杆
+金属滑块
+"""
+<<<
+
+
+
+!! Images
 
 [img width=512 [image.png]]
