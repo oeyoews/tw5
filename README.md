@@ -24,6 +24,13 @@
 
 * to speedup time, update yarn.lock before push
 
+## ☄️ Command
+
+```
+tiddlywiki <folderName> --init server
+tiddlywiki --listen
+```
+
 ## 📹 Videos
 
 * <a href="https://www.bilibili.com/video/BV1NT4y1e7WM?share_source=copy_web" target="_blank">Demo</a>

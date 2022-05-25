@@ -1,0 +1,12 @@
+author: oeyoews
+created: 20220525091425159
+description: friendly installation button
+list: readme
+modified: 20220525092600809
+name: Button Style
+packaged-by: Gatha on 25th May 2022, 17:26:05
+plugin-type: plugin
+tags: 
+title: $:/plugins/oeyoews/installation-button-style
+type: application/json
+version: v0.0.1
