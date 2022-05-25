@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.27.0](https://gitlab.com/oeyoews/tw5/compare/v1.26.0...v1.27.0) (2022-05-25)
+
+
+### Features
+
+* install 0.6 twm ([7ebf524](https://gitlab.com/oeyoews/tw5/commit/7ebf524da19a008268c1bf96f1522c38bcde89a3))
+
 # [1.26.0](https://gitlab.com/oeyoews/tw5/compare/v1.25.1...v1.26.0) (2022-05-25)
 
 
