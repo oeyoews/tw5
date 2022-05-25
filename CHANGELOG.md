@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.28.1](https://gitlab.com/oeyoews/tw5/compare/v1.28.0...v1.28.1) (2022-05-25)
+
+
+### Bug Fixes
+
+* use fixed for popupwindowstyle and chang font-size for sw ([3d362e8](https://gitlab.com/oeyoews/tw5/commit/3d362e8c59118629afff80fa2d0a780854b5a66b))
+
 # [1.28.0](https://gitlab.com/oeyoews/tw5/compare/v1.27.0...v1.28.0) (2022-05-25)
 
 
