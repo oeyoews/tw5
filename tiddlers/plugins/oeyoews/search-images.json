@@ -23,9 +23,9 @@
 "$:/plugins/oeyoews/search-images/readme": {
     "title": "$:/plugins/oeyoews/search-images/readme",
     "created": "20220516180933443",
-    "modified": "20220517091720086",
+    "modified": "20220519171008566",
     "type": "text/vnd.tiddlywiki",
-    "text": "link: http://www.telumire.be/TiddlyTweaks/index.html#:%5B%5B%24:/ThemeTweaks/FaviconWizard%5D%5D\n\n''TODO'': add custom image filter\n\n[ ] add search bar for editor area `ctrl shift I `\n[ ] ",
+    "text": "* [[HOME|https://gitlab.com/oeyoews/twm/-/blob/main/README.md]]\n* [[link|http://www.telumire.be/TiddlyTweaks/index.html#:%5B%5B%24:/ThemeTweaks/FaviconWizard%5D%5D]]\n\n!! TODO\n\n* add custom image filter\n* add search bar for editor area `ctrl shift I `",
     "revision": "0",
     "bag": "default"
 },
@@ -65,13 +65,14 @@
 
 "$:/showInfo/search/SystemImage": {
     "created": "20210911212256922",
-    "text": "<!--\nList of all system images (ie, tiddlers tagged {{$:/tags/Image||$:/core/ui/TagTemplate}}). Click on an icon to copy its title !\n-->\n\n<$vars\nsearch-list=\"[[$:/tags/Image]tagging[]]  {{$:/plugins/oeyoews/search-images/add-image-filter}}\"\nitem-template=\"$:/showInfo/search/img\"\nlist-class=\"\"\nlist-style=\"\"\"padding:0; \"\"\"\n>\n{{{[<item-template>is[blank]then[$:/showInfo/search/list/titles]else<item-template>]}}}\n{{$:/showInfo/search/template}}\n</$vars>",
+    "text": "<!--\nList of all system images (ie, tiddlers tagged {{$:/tags/Image||$:/core/ui/TagTemplate}}). Click on an icon to copy its title !\n-->\n\n<$vars\n\nsearch-list=\"[[$:/tags/Image]tagging[]] \n{{$:/plugins/oeyoews/search-images/add-image-filter}}\"\n\nitem-template=\"$:/showInfo/search/img\"\nlist-class=\"\"\"\"\"\"\nlist-style=\"\"\"margin: 3px;padding:3px;border: 2px solid green; border-radius:5px;\"\"\"\n>\n{{{[<item-template>is[blank]then[$:/showInfo/search/list/titles]else<item-template>]}}}\n{{$:/showInfo/search/template}}\n\n</$vars>",
     "title": "$:/showInfo/search/SystemImage",
-    "modified": "20220517111150620",
+    "modified": "20220525063356160",
     "tags": "$:/tags/SideBar $:/showInfo/search $:/showInfo",
     "type": "text/vnd.tiddlywiki",
     "caption": " {{$:/core/images/picture}} Images",
     "icon": "$:/core/images/picture",
+    "page-cover": "https://source.unsplash.com/random",
     "revision": "0",
     "bag": "default"
 },
@@ -83,6 +84,29 @@
     "tags": "$:/showInfo/search $:/showInfo",
     "type": "text/vnd.tiddlywiki",
     "text": "<$vars search-list=\"[all[current]tagging[]]\">{{$:/showInfo/search/template}}</$vars>",
+    "revision": "0",
+    "bag": "default"
+},
+
+"oeyoews/search-image": {
+    "created": "20220518095310786",
+    "text": "",
+    "title": "oeyoews/search-image",
+    "modified": "20220518095616242",
+    "tags": "$:/tags/PluginWiki",
+    "type": "text/vnd.tiddlywiki",
+    "cpl.author": "oeyoews",
+    "cpl.core-version": ">=5.2.2",
+    "cpl.description": "search image",
+    "cpl.documentation": "search image",
+    "cpl.name": "search image",
+    "cpl.plugin-type": "plugin",
+    "cpl.readme": "search tiddlywiki image",
+    "cpl.source": "https://twms.vercel.app/",
+    "cpl.title": "$:/plugins/oeyoews/search-images",
+    "cpl.uri": "https://twms.vercel.app/index.html",
+    "icon": "🐮",
+    "page-cover": " https://images.unsplash.com/photo-1591280063444-d3c514eb6e13?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aW1hZ2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "revision": "0",
     "bag": "default"
 },
@@ -101,9 +125,9 @@
 
 "$:/showInfo/search/img/style": {
     "title": "$:/showInfo/search/img/style",
-    "text": ".search-list-img :is(svg , img) {\nfont-size: 2em;\nmargin:5px;\n}\n\n.search-list-img img {\nobject-fit: contain;\nwidth: 2em;\nheight: auto;\n}",
+    "text": ".search-list-img :is(svg , img) {\n\nfont-size: 2em;\nmargin:5px;\n\n\n}\n\n\n.search-list-img img {\nobject-fit: contain;\nwidth: 2em;\nheight: auto;\n}",
     "created": "20210911225120089",
-    "modified": "20220517090048585",
+    "modified": "20220517144025916",
     "tags": "$:/tags/Stylesheet $:/showInfo",
     "type": "text/css",
     "revision": "0",

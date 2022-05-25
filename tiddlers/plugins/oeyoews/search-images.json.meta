@@ -2,10 +2,10 @@ author: oeyoews
 created: 20220516180101959
 description: Search TiddlyWiki5 Images
 list: readme
-modified: 20220517111207406
+modified: 20220525092955074
 name: Search  Images
-packaged-by: Gatha on 17th May 2022, 19:12:11
+packaged-by: Gatha on 25th May 2022, 17:29:58
 plugin-type: plugin
 title: $:/plugins/oeyoews/search-images
 type: application/json
-version: v0.0.9
+version: v0.0.10
