@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.25.0](https://gitlab.com/oeyoews/tw5/compare/v1.24.2...v1.25.0) (2022-05-25)
+
+
+### Features
+
+* add installation-button-style plugin ([105c3fe](https://gitlab.com/oeyoews/tw5/commit/105c3fe9b84e5126b11b662f21e5dae39d1a10ea))
+
 ## [1.24.2](https://gitlab.com/oeyoews/tw5/compare/v1.24.1...v1.24.2) (2022-05-24)
 
 
