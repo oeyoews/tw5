@@ -95,6 +95,7 @@ tiddlywiki --listen port=8080 host=0.0.0.0
 * [x] jd mobile casue this sticky title in mobile can't work
 * [x] no table border color
 * markdown-it wrong with pagecontroller
+* fontawesome plugin no fa-shake class
 
 ## 🎤 FAQ
 
