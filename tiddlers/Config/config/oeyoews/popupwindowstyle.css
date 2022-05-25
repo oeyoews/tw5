@@ -1,6 +1,6 @@
 .ask-user-reload {
     padding: 25px;
-    position: absolute;
+    position: fixed;
     bottom: 10px;
     right: 5px;
     z-index: 9999;
@@ -11,7 +11,7 @@
 		box-shadow: 1px 5px 5px #0000004d;
 		transition: 1s;
 		align-items: center;
-		font-size: 16px;
+		font-size: 18px;
   }
 	
 .ask-user-reload:hover {
