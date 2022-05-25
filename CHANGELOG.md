@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.25.1](https://gitlab.com/oeyoews/tw5/compare/v1.25.0...v1.25.1) (2022-05-25)
+
+
+### Bug Fixes
+
+* remove jetbrains font and use fontawesome all.min.css ([25633f7](https://gitlab.com/oeyoews/tw5/commit/25633f799b8ef837a876ccb72a2ef60dbe7770af))
+
 # [1.25.0](https://gitlab.com/oeyoews/tw5/compare/v1.24.2...v1.25.0) (2022-05-25)
 
 
