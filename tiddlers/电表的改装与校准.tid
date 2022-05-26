@@ -1,6 +1,6 @@
 created: 20220525151558041
 creator: oeyoews
-modified: 20220526122451311
+modified: 20220526123401595
 modifier: oeyoews
 title: 电表的改装与校准
 type: text/vnd.tiddlywiki
@@ -19,12 +19,20 @@ $$
 
 !! 电流表改装
 
+* 标准电流表的量程为20mA
 * 1mA -> 13mA 
 * 并联一个分流电阻$$R_p$$
 * 计算电阻箱阻值为 $$R_{p理论} = 13.5\Omega$$
 * 记录满偏电流 $$R_{p实际} = xxx \Omega$$
 
+!! 电压表改装
+
+
+* 1mA -> 1.3v
+
+
 !! Data
+
 
 
 [img[imageform1.png]]
