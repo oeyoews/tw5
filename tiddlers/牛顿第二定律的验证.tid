@@ -1,6 +1,41 @@
 created: 20220525151619123
 creator: oeyoews
-modified: 20220525151619123
+modified: 20220526022500473
 modifier: oeyoews
 title: 牛顿第二定律的验证
 type: text/vnd.tiddlywiki
+
+> 物体加速度的大小跟作用力成正比，跟物体的质量成反比，且与物体质量的倒数成正比;加速度的方向跟作用力的方向相同
+
+
+!! 调平
+
+[img[imageform.png]]
+
+> 先开气泵， 后放滑块
+> 注意调整光电们和导轨的挡光片
+
+[img[image1.png]]
+[img[64001.jpeg]]
+
+$$m_1$$ 滑块质量
+
+$$m_2$$ 砝码盘和砝码
+$$
+F = ma 
+$$
+
+$$m_2g - T = m_2g $$
+
+$$
+(m_1 + m_2)a = m_2g
+$$
+
+!! 光电计时器
+
+[img[image.png]]
+
+[[Link|https://mp.weixin.qq.com/s/g0UtvJzdjAyObnJxs1jSRg]]
+[[Link|https://mp.weixin.qq.com/s/VXpl7faDp8XIXQcwua-BIA]]
+
+[img[fou.png]]

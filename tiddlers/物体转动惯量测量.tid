@@ -1,6 +1,6 @@
 created: 20220525151431435
 creator: oeyoews
-modified: 20220525165654545
+modified: 20220526004842371
 modifier: oeyoews
 title: 物体转动惯量测量
 type: text/vnd.tiddlywiki
@@ -24,8 +24,9 @@ type: text/vnd.tiddlywiki
 """
 <<<
 
+* 平衡轴定理那个表格不考
 
 
 !! Images
 
-[img width=512 [image.png]]
+[img[gravity.png]]
