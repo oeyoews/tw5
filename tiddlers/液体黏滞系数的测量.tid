@@ -1,6 +1,6 @@
 created: 20220525151613930
 creator: oeyoews
-modified: 20220526032607185
+modified: 20220526033900331
 modifier: oeyoews
 title: 液体黏滞系数的测量
 type: text/vnd.tiddlywiki
@@ -10,10 +10,15 @@ type: text/vnd.tiddlywiki
 * 调平： 使得线锤处于中央
 * 检查仪器连接正确， 和发射端发出的光需要打在线锤线上， 和接受端的小孔里面
 * 取出线锤， 放量筒
+* 放导管，（l-1-1, l-2-2)
+* 长按启动键（左侧） ， 显示五个 H
+* 放小球， 统计时间（如果没有时间显示， 轻轻移动量筒位置）, 先出现省略号， 后出现时间
 
 
 !! Formula and Form
 
 !! Images
+
+[img[imageliquid.png]]
 
 !! Notes
