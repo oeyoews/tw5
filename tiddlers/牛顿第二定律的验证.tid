@@ -1,10 +1,11 @@
 created: 20220525151619123
 creator: oeyoews
-modified: 20220526030845577
+modified: 20220526072625544
 modifier: oeyoews
 title: 牛顿第二定律的验证
 type: text/vnd.tiddlywiki
 
+> [[Tutorial|https://www.toutiao.com/c/user/token/MS4wLjABAAAAa5Fgj7S-fGZZk0dZvyl5n91p77hSAwUBEzI_A5d2VjdPZe86Kzyu6qNS_yZJ9tyY/??tab=video?tab=article?tab=all?tab=video?tab=video]]
 > 物体加速度的大小跟作用力成正比，跟物体的质量成反比，且与物体质量的倒数成正比;加速度的方向跟作用力的方向相同
 
 
@@ -16,6 +17,7 @@ type: text/vnd.tiddlywiki
 
 > 先开气泵， 后放滑块
 > 注意调整光电们和导轨的挡光片
+> 左右两个方向各做两次
 
 [img[image1.png]]
 [img[64001.jpeg]]
@@ -31,6 +33,10 @@ $$m_2g - T = m_2g $$
 
 $$
 (m_1 + m_2)a = m_2g
+$$
+
+$$
+M = m_1 + m_2
 $$
 
 !! 光电计时器
