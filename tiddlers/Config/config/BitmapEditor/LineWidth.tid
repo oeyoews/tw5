@@ -1,8 +1,8 @@
 created: 20220221142308110
 creator: oeyoews
-modified: 20220310163904059
-modifier: @oeyoews
+modified: 20220526025437227
+modifier: oeyoews
 title: $:/config/BitmapEditor/LineWidth
 type: text/vnd.tiddlywiki
 
-10px
+4px

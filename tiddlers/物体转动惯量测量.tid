@@ -1,6 +1,6 @@
 created: 20220525151431435
 creator: oeyoews
-modified: 20220526004842371
+modified: 20220526024644349
 modifier: oeyoews
 title: 物体转动惯量测量
 type: text/vnd.tiddlywiki
@@ -29,4 +29,5 @@ type: text/vnd.tiddlywiki
 
 !! Images
 
+[img[imageniubai.png]]
 [img[gravity.png]]

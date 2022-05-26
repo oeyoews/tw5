@@ -1,6 +1,14 @@
 created: 20220525151552754
 creator: oeyoews
-modified: 20220525151552754
+modified: 20220526025946614
 modifier: oeyoews
 title: 静电场模拟
 type: text/vnd.tiddlywiki
+
+!! Form
+
+[img[imagepower.png]]
+
+!! Data
+
+$$3v 6v 9v$$
