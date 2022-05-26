@@ -11,7 +11,7 @@ trim-search: ^\W*?(\w|\<.*)
 todo-search: .*?(\<\<sticky\s".+?"\>\>).*
 done-message: Congratulations, All TODO is done!
 done-tooltip: 
-char-unchecked: &#9989;
+char-unchecked: 	&#10060;
 char-checked: &#9989;
 active-css: color: #e1419f; font-weight: 500;
 done-css: color: #765add; font-weight: 500;
