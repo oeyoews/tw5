@@ -1,11 +1,29 @@
 created: 20220525151613930
 creator: oeyoews
-modified: 20220526041231337
+modified: 20220526130839912
 modifier: oeyoews
 title: 液体黏滞系数的测量
 type: text/vnd.tiddlywiki
 
 > No Form
+
+!! Formula
+
+$$
+F = 6 \pi \eta rv \tag{2-12}
+$$
+
+$$
+mg = prV + 6 \pi \eta v_0r \tag{2-13}
+$$
+
+$$
+\eta = {\frac {{(p_1 - p)}gdt^2} {18l}} \frac 1 {(1+2.4 \frac d D)(1+1.6 \frac d H)} \tag{2-16}
+$$
+
+$$
+Re = \frac {pdv_0} {\eta} \tag{1： 修正公式}
+$$
 
 !! Steps
 ---
@@ -15,7 +33,9 @@ type: text/vnd.tiddlywiki
 * 调平： 使得线锤处于中央
 * 检查仪器连接正确， 和发射端发出的光需要打在线锤线上， 和接受端的小孔里面
 * 取出线锤， 放量筒
-* 放导管，（l-1-1, l-2-2)
+* 放导管
+* l-1-1, 光电门I对准
+* l-2-1， 光电门II对准
 * 长按启动键（左侧） ， 显示五个 H
 * 放小球， 统计时间（如果没有时间显示， 轻轻移动量筒位置）, 先出现省略号， 后出现时间
 * 测量来光电门之间的距离（xx.1mm)
