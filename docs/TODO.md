@@ -47,7 +47,6 @@
 * [ ] __fix__: Projectify schedule button disappear in mobile mode(tools)
 * [ ] __try__: try publish npm package use devops for relate tw5 project
 * [ ] __todo__: Using shell to replace makefile, todo test(to manage multi repository push automaticaly)
-* [ ] todo: readjust kbd and checklist stylesheet, update unicode, and fix unalign in mobilephone
 * [ ] feat: use scroll to hide sidebar for mobile, and come true like banner to scrool some button
 * [ ] feat: how to reference meta etc head files automaticaly(reference github framework projects)
 * [ ] feat: adjust backlink btn style like fishing btn
@@ -233,3 +232,4 @@
 * [x] __refactor__: resolve this shine color, maybe can same for tid bg and div bg
 * [x] __refactor__: all stylesheet
 * [x] feat: add shortkeys for controll (alt i) and jump inbox shortkey
+* [x] todo: readjust kbd and checklist stylesheet, update unicode, and fix unalign in mobilephone

@@ -1,14 +1,37 @@
 created: 20220525151558041
 creator: oeyoews
-modified: 20220526030058513
+modified: 20220526122451311
 modifier: oeyoews
 title: 电表的改装与校准
 type: text/vnd.tiddlywiki
+
+[[Tutorial|https://dfiles.jiajiaoban.com/ohr/2021/04/15/215531_607845d35ea52.pdf]]
+
+表头内阻
+$$
+Rg = 162\Omega
+$$
+
+满偏电流
+$$
+I_g = 1.000 mA
+$$
+
+!! 电流表改装
+
+* 1mA -> 13mA 
+* 并联一个分流电阻$$R_p$$
+* 计算电阻箱阻值为 $$R_{p理论} = 13.5\Omega$$
+* 记录满偏电流 $$R_{p实际} = xxx \Omega$$
 
 !! Data
 
 
 [img[imageform1.png]]
+
+* 1mA -> 1.3mA $$Rg = 162\Omega$$
+* 
+* 
 
 1.2$$mA$$
 
@@ -18,4 +41,5 @@ type: text/vnd.tiddlywiki
 
 !! Images
 
+[img[imagema.png]]
 [img[imagebox.png]]
