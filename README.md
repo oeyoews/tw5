@@ -23,10 +23,10 @@ tiddlywiki --listen <port=8080 host=0.0.0.0>  // another start tiddlywiki method
 tiddlywiki <folderName> --init server  // init new folder
 ```
 
-## 🌪️ TODO
+## ✅ TODO
 
 [TODO](docs/TODO.md)
 
-## 🍐 CHANGELOG
+## 🎅 CHANGELOG
 
 [CHANGELOG](CHANGELOG.md)
