@@ -1,6 +1,6 @@
 created: 20220525142545512
 creator: oeyoews
-modified: 20220526095004627
+modified: 20220526104532698
 modifier: oeyoews
 tags: temp
 title: Physics Experiment
@@ -13,7 +13,7 @@ type: text/vnd.tiddlywiki
 
 <div align=left>
 
-!!  <<sticky-done "🍵 1." "  ">> [[等厚干涉现象的研究]]<sub>（701 张超）</sub>
+!!  <<sticky "🍵 1.">> [[等厚干涉现象的研究]]<sub>（701 张超）</sub>
 
 !! <<sticky-done "🍵 2." "  ">> [[物体转动惯量测量]]<sub>（701 张超）</sub>
 
