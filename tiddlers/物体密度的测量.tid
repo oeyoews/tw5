@@ -1,6 +1,6 @@
 created: 20220525151624051
 creator: oeyoews
-modified: 20220526061749163
+modified: 20220526065859783
 modifier: oeyoews
 title: 物体密度的测量
 type: text/vnd.tiddlywiki
@@ -8,6 +8,27 @@ type: text/vnd.tiddlywiki
 > No Form, only a question
 
 > 三个表格选一个
+
+[img[GEOG22R6F0DWJZ74K1JII.jpg]]
+
+[[link|http://www.wsbookshow.com/uploads/bookfile/201301/9787517005889_1.pdf]]
+
+!! 直接法测量规则物体的密度
+
+$$ 
+p = m/v 
+$$
+
+[img[imagedir.png]]
+
+* 使用复称法测量规则物体的质量
+
+[img[imagemm.png]]
+* 使用螺旋测微器测量直径（铜柱体）， 高度使用游标卡尺测量
+
+!! 流体静力称衡法测量不规则物体的密度
+
+[img[imageliquaidd.png]]
 
 !! 物理天平使用注意事项
 
@@ -24,6 +45,11 @@ type: text/vnd.tiddlywiki
 6、在添加砝码时，应先夹质量大的砝码，然后在依次添加质量小的砝码（最后再移动游码），取放砝码和物体时，天平必须放下，然后再支起看平衡情况决定增减砝码。
 
 7、称量完毕后，应把砝码放回砝码盒中，把游码移回零处，使天平恢复原来的状态。
+
+!! 比重瓶法
+
+[img[imagebottle.png]]
+
 
 !! Images
 
