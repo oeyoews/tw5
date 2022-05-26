@@ -1,6 +1,6 @@
 created: 20220525142545512
 creator: oeyoews
-modified: 20220526124059205
+modified: 20220526161359895
 modifier: oeyoews
 tags: temp
 title: Physics Experiment
@@ -13,37 +13,37 @@ type: text/vnd.tiddlywiki
 
 <div align=left>
 
-!!  <<sticky "🍵 1.">> [[等厚干涉现象的研究]]<sub>（701 张超）</sub>
+!!  <<sticky-done "🍵 1." "  ">> [[等厚干涉现象的研究]]<sub>（701 张超）</sub>
 
-!! <<sticky "🍵 2.">> [[物体转动惯量测量]]<sub>（701 张超）</sub>
-
-<hr>
-
-!! <<sticky "🌿 3. ">>[[静电场模拟]]<sub>（301 郑春霞）</sub>
-
-!! <<sticky "🌿 4. ">>[[电表的改装与校准]]<sub>（301 郑春霞）</sub>
+!! <<sticky-done "🍵 2." "  ">> [[物体转动惯量测量]]<sub>（701 张超）</sub>
 
 <hr>
 
-!! <<sticky "😄 5.  ">>[[薄透镜焦距的测量]] <sub>(p36 201： 樊莹莹)</sub>
+!! <<sticky-done "🌿 3. " "  ">>[[静电场模拟]]<sub>（301 郑春霞）</sub>
 
-!! <<sticky "😄 6. ">>[[分光计的调节与使用]] <sub>(201： 樊莹莹)</sub>
+!! <<sticky-done "🌿 4. " "  ">>[[电表的改装与校准]]<sub>（301 郑春霞）</sub>
+
+<hr>
+
+!! <<sticky-done "😄 5.  " "  ">>[[薄透镜焦距的测量]] <sub>(p36 201： 樊莹莹)</sub>
+
+!! <<sticky-done "😄 6. " "  ">>[[分光计的调节与使用]] <sub>(201： 樊莹莹)</sub>
 
 <hr style="background:red;">
 
 
-!! <<sticky "🌹 7.">> [[液体黏滞系数的测量]]<sub>（203 陈红梅）</sub>
+!! <<sticky-done "🌹 7." "  ">> [[液体黏滞系数的测量]]<sub>（203 陈红梅）</sub>
 
-!! <<sticky "🌹 8. ">>[[物体密度的测量]]<sub>（203 陈红梅）</sub>
+!! <<sticky-done "🌹 8. " "  ">>[[物体密度的测量]]<sub>（203 陈红梅）</sub>
 
 <hr>
 
 !!  
 
 
-!! <<sticky "🔺 9.">> [[牛顿第二定律的验证]]<sub>（205 郭保春）</sub>
+!! <<sticky-done "🔺 9." "  ">> [[牛顿第二定律的验证]]<sub>（205 郭保春）</sub>
 
-!! <<sticky "🔺 10.">> [[示波器的调节与使用]]<sub>（205 郭保春）</sub>
+!! <<sticky-done "🔺 10." "  ">> [[示波器的调节与使用]]<sub>（205 郭保春）</sub>
 
 <hr>
 

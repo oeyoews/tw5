@@ -1,6 +1,6 @@
 created: 20220525151422105
 creator: oeyoews
-modified: 20220526041155367
+modified: 20220526153128634
 modifier: oeyoews
 title: 等厚干涉现象的研究
 type: text/vnd.tiddlywiki
@@ -10,3 +10,10 @@ type: text/vnd.tiddlywiki
 [img[701form.png]]
 
 > 实验不提供表格
+
+* 单位 $$mm$$
+* 三位有效数字
+
+$$
+R = \frac {D_m^2-D_n^2} {4(m-n)\lambda} \tag{1： 曲率半径}
+$$

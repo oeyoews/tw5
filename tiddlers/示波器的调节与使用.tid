@@ -1,9 +1,15 @@
 created: 20220525151629779
 creator: oeyoews
-modified: 20220526014925324
+modified: 20220526161344800
 modifier: oeyoews
 title: 示波器的调节与使用
 type: text/vnd.tiddlywiki
+
+!! Formula
+
+$$
+f = \frac 1 T \tag{1}
+$$
 
 !! Images
 
