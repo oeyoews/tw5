@@ -1,6 +1,6 @@
 created: 20220525151603281
 creator: oeyoews
-modified: 20220526074833119
+modified: 20220526075220320
 modifier: oeyoews
 title: 薄透镜焦距的测量
 type: text/vnd.tiddlywiki
@@ -21,7 +21,8 @@ $$
 u> 2f(may) 倒立缩小的像
 $$
 
-* 将这两次的成像的位置大致在同一高度
+* 将这两次的成像的位置大致在同一高度(最高点位置高度一致)
+* 此后， 只调节新加入的光学元件
 
 !! 自准直法
 

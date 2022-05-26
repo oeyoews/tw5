@@ -20,16 +20,6 @@
 
 ## 🎉 Welcome to [Fishing](https://oeyoew.fun)
 
-## 🐢 Tips
-
-* to speedup time, update yarn.lock before push
-
-## ☄️ Command
-
-```
-tiddlywiki <folderName> --init server
-tiddlywiki --listen
-```
 
 ## 📹 Videos
 
@@ -61,13 +51,13 @@ tiddlywiki --listen
 * systemctl start xxx.service
 * systemctl enable xxx.service
 
-## ☔ Run
-
+## ☔ Runing
 
 ```
-yarn start
-or
-tiddlywiki --listen port=8080 host=0.0.0.0
+yarn install // install dependcies
+yarn start   // start tiddlywiki
+tiddlywiki --listen <port=8080 host=0.0.0.0>  // another start tiddlywiki method
+tiddlywiki <folderName> --init server  // init new folder
 ```
 
 ## 🪐 Platform
@@ -77,10 +67,6 @@ tiddlywiki --listen port=8080 host=0.0.0.0
 ## 🍏 APK
 
 * [DownloadAPK](https://gitee.com/oeyoews/fish-for-you/attach_files/1024243/download/FishForYou-release-v2.1.apk)
-
-## 🍐 PWA
-
-* use 192(maybe it is maskable, in ios is normal)
 
 ## 🌹 MOTIVATE
 
@@ -107,4 +93,5 @@ tiddlywiki --listen port=8080 host=0.0.0.0
 
 ## 🕐 UpdateTime
 
-2022-05-14T11:56:08
+<!--automate update it-->
+2022-05-26T16:03:20
