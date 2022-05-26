@@ -1,53 +1,53 @@
 created: 20220525142545512
 creator: oeyoews
-modified: 20220526161359895
+modified: 20220526164454372
 modifier: oeyoews
 tags: temp
 title: Physics Experiment
 type: text/vnd.tiddlywiki
 
-<i class="fa fa-car"> ''Physics Experiment'', Version: v0.0.2_alpha
+<i class="fa fa-car"> ''Physics Experiment'', Version: v0.0.3_alpha
 </i>
 
 <hr style="background:green;">
 
 <div align=left>
 
-!!  <<sticky-done "🍵 1." "  ">> [[等厚干涉现象的研究]]<sub>（701 张超）</sub>
+!!  <<sticky-done "🍵 1." "  ">> [[等厚干涉现象的研究]]<small>（701 张超）</small>
 
-!! <<sticky-done "🍵 2." "  ">> [[物体转动惯量测量]]<sub>（701 张超）</sub>
-
-<hr>
-
-!! <<sticky-done "🌿 3. " "  ">>[[静电场模拟]]<sub>（301 郑春霞）</sub>
-
-!! <<sticky-done "🌿 4. " "  ">>[[电表的改装与校准]]<sub>（301 郑春霞）</sub>
+!! <<sticky-done "🍵 2." "  ">> [[物体转动惯量测量]]
 
 <hr>
 
-!! <<sticky-done "😄 5.  " "  ">>[[薄透镜焦距的测量]] <sub>(p36 201： 樊莹莹)</sub>
+!! <<sticky-done "🌿 3. " "  ">>[[静电场模拟]]<small>（301 郑春霞）</small>
 
-!! <<sticky-done "😄 6. " "  ">>[[分光计的调节与使用]] <sub>(201： 樊莹莹)</sub>
+!! <<sticky-done "🌿 4. " "  ">>[[电表的改装与校准]]
+
+<hr>
+
+!! <<sticky-done "🍠 5.  " "  ">>[[薄透镜焦距的测量]] <small>(p36 201： 樊莹莹)</small>
+
+!! <<sticky-done "🍠 6. " "  ">>[[分光计的调节与使用]] 
 
 <hr style="background:red;">
 
+!! <<sticky-done "🌹 7." "  ">> [[液体黏滞系数的测量]]<small>（203 陈红梅）</small>
 
-!! <<sticky-done "🌹 7." "  ">> [[液体黏滞系数的测量]]<sub>（203 陈红梅）</sub>
-
-!! <<sticky-done "🌹 8. " "  ">>[[物体密度的测量]]<sub>（203 陈红梅）</sub>
+!! <<sticky-done "🌹 8. " "  ">>[[物体密度的测量]]
 
 <hr>
 
-!!  
+!! <<sticky-done "🔺 9." "  ">> [[牛顿第二定律的验证]]<small>（205 郭保春）</small>
 
-
-!! <<sticky-done "🔺 9." "  ">> [[牛顿第二定律的验证]]<sub>（205 郭保春）</sub>
-
-!! <<sticky-done "🔺 10." "  ">> [[示波器的调节与使用]]<sub>（205 郭保春）</sub>
+!! <<sticky-done "🔺 10." "  ">> [[示波器的调节与使用]]
 
 <hr>
 
 [[Videos Link|https://www.toutiao.com/c/user/token/MS4wLjABAAAAa5Fgj7S-fGZZk0dZvyl5n91p77hSAwUBEzI_A5d2VjdPZe86Kzyu6qNS_yZJ9tyY/??tab=video]]
+
 </div>
 
+<details>
+<summary>QR Code</summary>
 [img[erweima.jpg]]
+</details>

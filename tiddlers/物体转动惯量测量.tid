@@ -1,9 +1,16 @@
+caption: Object moment of inertia measurement
 created: 20220525151431435
 creator: oeyoews
-modified: 20220526061619232
+modified: 20220526163002628
 modifier: oeyoews
 title: 物体转动惯量测量
 type: text/vnd.tiddlywiki
+
+!! Formula
+
+$$
+T = \frac {2\pi} {\omega} = 2 \pi \sqrt {\frac 1 K} \tag{1: K 为弹簧扭转常数}
+$$
 
 > 实验提供表格, 填空题写公式， 写计算过程
 > [[Usage|https://www.toutiao.com/article/6938946958845510155/?log_from=3746907a335ae_1653545716509]]

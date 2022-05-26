@@ -1,11 +1,18 @@
+caption: Research on Equal Thickness Interference Phenomena
 created: 20220525151422105
 creator: oeyoews
-modified: 20220526153128634
+modified: 20220526162926853
 modifier: oeyoews
 title: 等厚干涉现象的研究
 type: text/vnd.tiddlywiki
 
-!! Form
+!! Formula
+
+$$
+R = \frac {D_m^2-D_n^2} {4(m-n)\lambda} \tag{1： 曲率半径}
+$$
+
+!! Images
 
 [img[701form.png]]
 
@@ -13,7 +20,3 @@ type: text/vnd.tiddlywiki
 
 * 单位 $$mm$$
 * 三位有效数字
-
-$$
-R = \frac {D_m^2-D_n^2} {4(m-n)\lambda} \tag{1： 曲率半径}
-$$
