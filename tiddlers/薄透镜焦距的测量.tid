@@ -1,9 +1,27 @@
 created: 20220525151603281
 creator: oeyoews
-modified: 20220525170446229
+modified: 20220526074833119
 modifier: oeyoews
 title: 薄透镜焦距的测量
 type: text/vnd.tiddlywiki
+
+> [[Tutorial|https://www.toutiao.com/video/6937206484065321480/]]
+
+[img[imagemirror.png]]
+
+> [[ref|https://www.toutiao.com/video/6937206484065321480/]]
+
+!! 共轴调节
+
+$$
+u < f  放大的像
+$$
+
+$$
+u> 2f(may) 倒立缩小的像
+$$
+
+* 将这两次的成像的位置大致在同一高度
 
 !! 自准直法
 
