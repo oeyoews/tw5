@@ -1,11 +1,16 @@
 created: 20220525151613930
 creator: oeyoews
-modified: 20220526031222564
+modified: 20220526032607185
 modifier: oeyoews
 title: 液体黏滞系数的测量
 type: text/vnd.tiddlywiki
 
 !! Steps
+
+* 调平： 使得线锤处于中央
+* 检查仪器连接正确， 和发射端发出的光需要打在线锤线上， 和接受端的小孔里面
+* 取出线锤， 放量筒
+
 
 !! Formula and Form
 
