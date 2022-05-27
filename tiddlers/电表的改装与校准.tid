@@ -1,7 +1,7 @@
 caption: Retrofitting and calibration of electricity meters
 created: 20220525151558041
 creator: oeyoews
-modified: 20220526163107929
+modified: 20220527003245590
 modifier: oeyoews
 title: 电表的改装与校准
 type: text/vnd.tiddlywiki
@@ -50,5 +50,8 @@ $$
 
 !! Images
 
+<details>
+<summary>Img</summary>
 [img[imagema.png]]
 [img[imagebox.png]]
+</details>

@@ -1,7 +1,7 @@
 caption: Object moment of inertia measurement
 created: 20220525151431435
 creator: oeyoews
-modified: 20220526163002628
+modified: 20220527003206998
 modifier: oeyoews
 title: 物体转动惯量测量
 type: text/vnd.tiddlywiki
@@ -38,5 +38,8 @@ $$
 
 !! Images
 
+<details>
+<summary>Img</summary>
 [img[imageniubai.png]]
 [img[gravity.png]]
+</details>

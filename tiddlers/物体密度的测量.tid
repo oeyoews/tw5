@@ -1,7 +1,7 @@
 caption: Measurement of the Density of Objects
 created: 20220525151624051
 creator: oeyoews
-modified: 20220526163314013
+modified: 20220527003610333
 modifier: oeyoews
 title: 物体密度的测量
 type: text/vnd.tiddlywiki
@@ -12,7 +12,10 @@ type: text/vnd.tiddlywiki
 
 > 数据大致不会发生变化
 
+<details>
+<summary>Img</summary>
 [img[GEOG22R6F0DWJZ74K1JII.jpg]]
+</details>
 
 [[link|http://www.wsbookshow.com/uploads/bookfile/201301/9787517005889_1.pdf]]
 
@@ -22,16 +25,26 @@ $$
 p = m/v 
 $$
 
+<details>
+<summary>Img</summary>
 [img[imagedir.png]]
+</details>
 
 * 使用复称法测量规则物体的质量
 
+<details>
+<summary>Img</summary>
 [img[imagemm.png]]
+</details>
+
 * 使用螺旋测微器测量直径（铜柱体）， 高度使用游标卡尺测量
 
 !! 流体静力称衡法测量不规则物体的密度
 
+<details>
+<summary>Img</summary>
 [img[imageliquaidd.png]]
+</details>
 
 !! 物理天平使用注意事项
 
@@ -56,5 +69,8 @@ $$
 
 !! Images
 
+<details>
+<summary>Img</summary>
 [img[imagep.png]]
 [img[9595686abb424de68271bfe85cee7a47.png]]
+</details>

@@ -1,7 +1,7 @@
 caption: Measurement of liquid viscosity
 created: 20220525151613930
 creator: oeyoews
-modified: 20220526163240556
+modified: 20220527003426856
 modifier: oeyoews
 title: 液体黏滞系数的测量
 type: text/vnd.tiddlywiki
@@ -59,12 +59,16 @@ $$
 
 !! Formula and Form
 ---
-
+<details>
+<summary>Img</summary>
 [img[formliquid.jpg]]
+</details>
 
 !! Images
 ---
-
+<details>
+<summary>Img</summary>
 [img[imageliquid.png]]
+</details>
 
 !! Notes

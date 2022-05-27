@@ -1,7 +1,7 @@
 caption: Verification of Newton's second law
 created: 20220525151619123
 creator: oeyoews
-modified: 20220526163410833
+modified: 20220527003711556
 modifier: oeyoews
 title: 牛顿第二定律的验证
 type: text/vnd.tiddlywiki
@@ -14,14 +14,20 @@ type: text/vnd.tiddlywiki
 
 > xc-05b 计时器比较好用
 
+<details>
+<summary>Img</summary>
 [img[imageform.png]]
+</details>
 
 > 先开气泵， 后放滑块
 > 注意调整光电们和导轨的挡光片
 > 左右两个方向各做两次
 
+<details>
+<summary>Img</summary>
 [img[image1.png]]
 [img[64001.jpeg]]
+</details>
 
 $$m_1$$ 滑块质量
 
@@ -42,9 +48,10 @@ $$
 
 !! 光电计时器
 
+<details>
+<summary>Img</summary>
 [img[image.png]]
-
+[img[fou.png]]
+</details>
 [[Link|https://mp.weixin.qq.com/s/g0UtvJzdjAyObnJxs1jSRg]]
 [[Link|https://mp.weixin.qq.com/s/VXpl7faDp8XIXQcwua-BIA]]
-
-[img[fou.png]]

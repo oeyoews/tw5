@@ -1,7 +1,7 @@
 caption: Electrostatic field simulation
 created: 20220525151552754
 creator: oeyoews
-modified: 20220526163030431
+modified: 20220527003224395
 modifier: oeyoews
 title: 静电场模拟
 type: text/vnd.tiddlywiki
@@ -14,5 +14,8 @@ $$ 3v 6v 9v$$
 
 !! Form
 
+<details>
+<summary>Img</summary>
 [img[image246.png]]
 [img[imagepower.png]]
+</details>
