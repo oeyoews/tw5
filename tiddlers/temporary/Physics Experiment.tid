@@ -1,14 +1,14 @@
 created: 20220525142545512
 creator: oeyoews
-modified: 20220527120513257
+modified: 20220527120812806
 modifier: oeyoews
 tags: phycics
 title: Physics Experiment
 type: text/vnd.tiddlywiki
 
-<<shield Version v0.0.5_alpha>> <<shield Status End purple>>
+<<shield Version v0.0.5_alpha red>> <<shield Status End purple>>
 
-<div style="border:2px solid green; padding: 4px; margin: 4px; border-radius: 4px;">
+<div style="border:3px solid red; padding: 4px; margin: 4px; border-radius: 4px;">
 
 !!!  <<sticky-done "🍵 1." "  ">> [[等厚干涉现象的研究]]<small>（701 张超）</small>
 
