@@ -1,6 +1,6 @@
 created: 20220410033448432
 creator: @oeyoews
-modified: 20220527004424163
+modified: 20220527120545444
 modifier: oeyoews
 tags: config
 title: FLink
@@ -28,4 +28,6 @@ type: text/vnd.tiddlywiki
 &nbsp;
 <a style="font-weight:bold;background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59);-webkit-background-clip: text;color: transparent;" href="https://gitlab.com/oeyoews/tw5/" target="_blank"><i style="color: cyan;" class="fab fa-shake fa-gitlab"></i> Gitlab </a>
 &nbsp;
+<!--
 🏆 [[Phycics|Physics Experiment]]
+-->

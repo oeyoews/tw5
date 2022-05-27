@@ -1,7 +1,7 @@
 caption: Adjustment and use of oscilloscope
 created: 20220525151629779
 creator: oeyoews
-modified: 20220527003101609
+modified: 20220527074356785
 modifier: oeyoews
 title: 示波器的调节与使用
 type: text/vnd.tiddlywiki
@@ -21,3 +21,5 @@ $$
 [img[6402.jpg]]
 [[Video Link|https://mp.weixin.qq.com/s/65vPaIoX4DrYCPISHttMzA]]
 </details>
+
+> 校准旋钮注意拧到低 var
