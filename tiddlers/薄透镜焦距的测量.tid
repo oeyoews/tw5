@@ -1,7 +1,7 @@
 caption: Measurement of the focal length of thin lenses
 created: 20220525151603281
 creator: oeyoews
-modified: 20220527015327642
+modified: 20220527015458807
 modifier: oeyoews
 title: 薄透镜焦距的测量
 type: text/vnd.tiddlywiki
@@ -21,7 +21,7 @@ u> 2f(may) \tag{倒立缩小的像}
 $$
 
 * 将这两次的成像的位置大致在同一高度(最高点位置高度一致)
-* 此后， 只调节新加入的光学元件
+* 此后， 只调节新加入的光学元件, 之后物屏， 白屏的位置均可保持不动（except last)
 
 !! 自准直法
 
