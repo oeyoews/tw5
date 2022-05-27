@@ -1,7 +1,7 @@
 caption: Measurement of the focal length of thin lenses
 created: 20220525151603281
 creator: oeyoews
-modified: 20220527013741176
+modified: 20220527015327642
 modifier: oeyoews
 title: 薄透镜焦距的测量
 type: text/vnd.tiddlywiki
@@ -73,7 +73,8 @@ $$
 * 重复测量的时候， 只需要稍微调整白屏的位置， 移动凹透镜， 寻找清晰的像
 
 
-> f = 19.35(or 10.00) +误差范围
+> f = 19.35(or 10.00) +误差范围 （凸透镜）
+> $$f = 5/10$$ (凹透镜)
 
 <details>
 <summary>Img</summary>
