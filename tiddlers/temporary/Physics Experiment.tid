@@ -1,6 +1,6 @@
 created: 20220525142545512
 creator: oeyoews
-modified: 20220527004047408
+modified: 20220527004301431
 modifier: oeyoews
 tags: phycics
 title: Physics Experiment
@@ -9,9 +9,7 @@ type: text/vnd.tiddlywiki
 <i class="fa fa-car"> ''Physics Experiment'', Version: v0.0.4_alpha
 </i>
 
-<hr style="background:green;">
-
-<div align=left>
+<div style="border:2px solid green; padding: 4px; margin: 4px; border-radius: 4px;">
 
 !!!  <<sticky-done "🍵 1." "  ">> [[等厚干涉现象的研究]]<small>（701 张超）</small>
 
@@ -41,11 +39,9 @@ type: text/vnd.tiddlywiki
 
 !!! <<sticky-done "🔺 10." "  ">> [[示波器的调节与使用]]
 
-<hr>
+</div>
 
 [[Videos Link|https://www.toutiao.com/c/user/token/MS4wLjABAAAAa5Fgj7S-fGZZk0dZvyl5n91p77hSAwUBEzI_A5d2VjdPZe86Kzyu6qNS_yZJ9tyY/??tab=video]]
-
-</div>
 
 <details>
 <summary>QR Code</summary>
