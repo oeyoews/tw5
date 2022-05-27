@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.29.0](https://gitlab.com/oeyoews/tw5/compare/v1.28.2...v1.29.0) (2022-05-27)
+
+
+### Features
+
+* add some xp plugins ([97f6fcf](https://gitlab.com/oeyoews/tw5/commit/97f6fcf9b714a089a0e3744adbc5af4ff24c9964))
+
 ## [1.28.2](https://gitlab.com/oeyoews/tw5/compare/v1.28.1...v1.28.2) (2022-05-25)
 
 
