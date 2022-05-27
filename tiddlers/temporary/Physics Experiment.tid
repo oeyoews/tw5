@@ -1,6 +1,6 @@
 created: 20220525142545512
 creator: oeyoews
-modified: 20220527004705235
+modified: 20220527073704705
 modifier: oeyoews
 tags: phycics
 title: Physics Experiment
@@ -22,19 +22,19 @@ type: text/vnd.tiddlywiki
 
 <hr>
 
-!!! <<sticky-done "🍠 5.  " "  ">>[[薄透镜焦距的测量]] <small>(p36 201： 樊莹莹)</small>
+!!! <<sticky "🍠 5.  ">>[[薄透镜焦距的测量]] <small>(p36 201： 樊莹莹)</small>
 
-!!! <<sticky-done "🍠 6. " "  ">>[[分光计的调节与使用]] 
+!!! <<sticky "🍠 6. ">>[[分光计的调节与使用]] 
 
 <hr style="background:red;">
 
-!!! <<sticky-done "🌹 7." "  ">> [[液体黏滞系数的测量]]<small>（203 陈红梅）</small>
+!!! <<sticky "🌹 7.">> [[液体黏滞系数的测量]]<small>（203 陈红梅）</small>
 
-!!! <<sticky-done "🌹 8. " "  ">>[[物体密度的测量]]
+!!! <<sticky "🌹 8. ">>[[物体密度的测量]]
 
 <hr>
 
-!!! <<sticky-done "🔺 9." "  ">> [[牛顿第二定律的验证]]<small>（205 郭保春）</small>
+!!! <<sticky "🔺 9.">> [[牛顿第二定律的验证]]<small>（205 郭保春）</small>
 
 !!! <<sticky-done "🔺 10." "  ">> [[示波器的调节与使用]]
 
