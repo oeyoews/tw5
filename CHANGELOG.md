@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.30.0](https://gitlab.com/oeyoews/tw5/compare/v1.29.0...v1.30.0) (2022-05-27)
+
+
+### Features
+
+* add system-tag plugin ([314718b](https://gitlab.com/oeyoews/tw5/commit/314718ba67c5f4408d8f9a5c5fa4666d1d192a95))
+
 # [1.29.0](https://gitlab.com/oeyoews/tw5/compare/v1.28.2...v1.29.0) (2022-05-27)
 
 
