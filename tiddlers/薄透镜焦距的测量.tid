@@ -1,7 +1,7 @@
 caption: Measurement of the focal length of thin lenses
 created: 20220525151603281
 creator: oeyoews
-modified: 20220527003319796
+modified: 20220527013741176
 modifier: oeyoews
 title: 薄透镜焦距的测量
 type: text/vnd.tiddlywiki
@@ -78,6 +78,7 @@ $$
 <details>
 <summary>Img</summary>
 [img[imagemirror.png]]
+[img[imageallf.png]]
 </details>
 
 > [[ref|https://www.toutiao.com/video/6937206484065321480/]]
