@@ -1,7 +1,7 @@
 caption: Retrofitting and calibration of electricity meters
 created: 20220525151558041
 creator: oeyoews
-modified: 20220527003245590
+modified: 20220527023442992
 modifier: oeyoews
 title: 电表的改装与校准
 type: text/vnd.tiddlywiki
@@ -20,7 +20,13 @@ $$
 
 !! 电流表改装
 
+* 连接电路(2v 20mA)
 * 电源电压调制最小， 滑动变阻器调至最大
+* 接通电源
+* 增大电源电压， 同时减小滑动变阻器的阻止， 使标准表的读数为10mA
+* 记录满偏电流时的标准电表的读数。
+* 关闭电源
+* 使用替代法（电阻箱）， 代替电流表， 接1111
 * 并联一个分流电阻$$R_p$$
 * 计算电阻箱阻值为 $$R_{p理论} = 13.5\Omega$$
 * 记录满偏电流 $$R_{p实际} = xxx \Omega$$
