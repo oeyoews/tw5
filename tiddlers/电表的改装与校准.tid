@@ -1,7 +1,7 @@
 caption: Retrofitting and calibration of electricity meters
 created: 20220525151558041
 creator: oeyoews
-modified: 20220527031207193
+modified: 20220527031637371
 modifier: oeyoews
 title: 电表的改装与校准
 type: text/vnd.tiddlywiki
@@ -20,10 +20,11 @@ $$
 
 !! 内阻测量
 
-* 串联电路， 标准表的量程2mA
+* 串联电路， 标准表的量程2mA, 使得表头的指针满偏（标准电表的读数0.94）， 记下标准电表的读数
 
 !! 电流表改装
 
+* 在不改变电压和滑动变阻器的情况下使用滑动变阻器代替表头
 * 连接电路, 标准表的量程20mA
 * 电源电压调制最小， 滑动变阻器调至最大
 * 接通电源

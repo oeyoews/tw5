@@ -1,12 +1,17 @@
 caption: Electrostatic field simulation
 created: 20220525151552754
 creator: oeyoews
-modified: 20220527003224395
+modified: 20220527062510512
 modifier: oeyoews
 title: 静电场模拟
 type: text/vnd.tiddlywiki
 
+!! Steps
+
+* 电压按钮按到左侧， 调到12v, 然后拨到测量位置右侧
+
 !! Data
+
 
 $$ 3v 6v 9v$$
 
