@@ -1,13 +1,12 @@
 created: 20220525142545512
 creator: oeyoews
-modified: 20220527004301431
+modified: 20220527004705235
 modifier: oeyoews
 tags: phycics
 title: Physics Experiment
 type: text/vnd.tiddlywiki
 
-<i class="fa fa-car"> ''Physics Experiment'', Version: v0.0.4_alpha
-</i>
+<<shield Version v0.0.4_alpha>> <<shield Status Pending red>>
 
 <div style="border:2px solid green; padding: 4px; margin: 4px; border-radius: 4px;">
 
