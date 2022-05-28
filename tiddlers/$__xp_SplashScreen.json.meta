@@ -1,0 +1,11 @@
+author: kl
+created: 20210127031225269
+dependents: 
+description: Switch splash screen
+list: readme
+modified: 20220401102022562
+name: 
+plugin-type: plugin
+title: $:/xp/SplashScreen
+type: application/json
+version: 5.2.2.0
