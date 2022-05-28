@@ -1,0 +1,13 @@
+author: Thomas Elmiger
+core-version: >=5.1.18
+created: 20181130212016010
+dependents: 
+description: Examples of wiki code
+list: reference readme support
+modified: 20200604215214265
+name: WMR: Wikitext Markup Reference
+plugin-type: plugin
+source: https://tid.li/tw5/plugins.html
+title: $:/plugins/telmiger/WMR
+type: application/json
+version: 0.3.6
