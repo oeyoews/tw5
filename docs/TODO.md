@@ -3,52 +3,7 @@
 ## Ing
 
 * [ ] how to load local file with plugins
-* [x] add try catch code in debug.sh
-* [x] debug ios or chrome in pc(too trouble)
-* [x] feat: pwa install local with port, not online
-* [x] feat: add button effects for left menubar
-* [x] feat: hove effects for `ctrl p`
-* [x] feat: use git commit time to replace utc system
-* [x] fix: fix code block for specific type
-* [x] todo: learn use transition details
-* [?] bug: draggin file no appear highlight because this projectify's two macro
 * [ ] __fix__: Projectify schedule button disappear in mobile mode(tools)
-* [ ] __try__: try publish npm package use devops for relate tw5 project
-* [ ] __todo__: Using shell to replace makefile, todo test(to manage multi repository push automaticaly)
-* [ ] feat: use scroll to hide sidebar for mobile, and come true like banner to scrool some button
-* [ ] feat: how to reference meta etc head files automaticaly(reference github framework projects)
-* [ ] feat: change fold to right
-* [ ] bug: notebook reveal mousehover have some bug(part show)
-* [ ] fix: drated ui config
-* [ ] fix: only no refresh hitoko
-* [ ] fix: better sticky square box
-* [ ] todo: add elint for package.json (comma error)
-* [ ] feat: add main app icon link linonetwo in phone
-* [ ] fix: fix local markup tiddler to require sw.js
-* [ ] todo: use another monkeyscript to backup
-* [ ] todo: add dropstyle to some extrnal link
-* [ ] todo: add button snippets
-* [ ] fix: some color ugly button with text color
-* [ ] todo: learn use workbox(or service) debug in local debug.sh folder
-* [ ] todo: realize loading animation for tw
-* [ ] todo: add button colorful
-* [ ] todo: search notify class
-* [ ] todo: add icon in phone browser home, link linonetwo's wiki
-* [ ] todo: dynamic load css [Text](https://blog.csdn.net/yunchong_zhao/article/details/103627865)
-* [ ] fix: fix phone's unfold button in fishingmode
-* [ ] feat: finish android app for fishforyou
-* [ ] feat: add shortkeys for creat words button
-* [ ] feat: add swift app for fish web
-* [ ] feat: learn electron
-* [ ] feat: use pwa sw to send message tooltip click button
-* [ ] feat: learn install before event for pwa(optimic its logic add adjust if install)
-
-* (https://segmentfault.com/a/1190000019172787)
-* feat: install pwa in local with folder path
-* [ ] question: http-server differ tw5(how to visit files in local)
-* [ ] todo: learn webpack
-* [ ] todo: test apple icon use gitee copy simple projects
-* [ ] fix: refresh to skiping waiting, not automaticaly
 
 ## DONE
 
@@ -233,3 +188,49 @@
 * [x] __doc__: add some broken setup notes for config tw5
 * [x] feat: adjust backlink btn style like fishing btn
 * [x] feat: change fontawesome icon color
+* [x] add try catch code in debug.sh
+* [x] debug ios or chrome in pc(too trouble)
+* [x] feat: pwa install local with port, not online
+* [x] feat: add button effects for left menubar
+* [x] feat: hove effects for `ctrl p`
+* [x] feat: use git commit time to replace utc system
+* [x] fix: fix code block for specific type
+* [x] todo: learn use transition details
+* [?] bug: draggin file no appear highlight because this projectify's two macro
+* [x] __try__: try publish npm package use devops for relate tw5 project
+* [x] __todo__: Using shell to replace makefile, todo test(to manage multi repository push automaticaly)
+* [x] feat: use scroll to hide sidebar for mobile, and come true like banner to scrool some button
+* [x] feat: how to reference meta etc head files automaticaly(reference github framework projects)
+* [x] feat: change fold to right
+* [x] bug: notebook reveal mousehover have some bug(part show)
+* [x] fix: drated ui config
+* [x] fix: only no refresh hitoko
+* [x] fix: better sticky square box
+* [x] todo: add elint for package.json (comma error)
+* [x] feat: add main app icon link linonetwo in phone
+* [x] fix: fix local markup tiddler to require sw.js
+* (https://segmentfault.com/a/1190000019172787)
+* feat: install pwa in local with folder path
+* [x] question: http-server differ tw5(how to visit files in local)
+* [x] todo: learn webpack
+* [x] todo: test apple icon use gitee copy simple projects
+* [x] fix: refresh to skiping waiting, not automaticaly
+* [x] todo: add button colorful
+* [x] todo: search notify class
+* [x] todo: add icon in phone browser home, link linonetwo's wiki
+* [x] todo: dynamic load css [Text](https://blog.csdn.net/yunchong_zhao/article/details/103627865)
+* [x] fix: fix phone's unfold button in fishingmode
+* [x] feat: finish android app for fishforyou
+* [x] feat: add shortkeys for creat words button
+* [x] feat: add swift app for fish web
+* [x] feat: learn electron
+* [x] feat: use pwa sw to send message tooltip click button
+* [x] todo: use another monkeyscript to backup
+* [x] todo: add dropstyle to some extrnal link
+* [x] todo: add button snippets
+* [x] fix: some color ugly button with text color
+* [x] todo: learn use workbox(or service) debug in local debug.sh folder
+* [x] todo: realize loading animation for tw
+* [x] feat: learn install before event for pwa(optimic its logic add adjust if install)
+
+
