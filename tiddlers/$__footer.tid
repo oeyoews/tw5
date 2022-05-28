@@ -2,7 +2,7 @@ caption: BodyFooter
 code-body: yes
 created: 20211001231029099
 creator: Télumire
-modified: 20220525114958717
+modified: 20220528020734326
 modifier: oeyoews
 tagging: after
 tags: $:/TiddlyTweaks $:/footer $:/tags/RawMarkupWikified/BottomBody
@@ -23,40 +23,4 @@ Bug: this uptime not union
 
 </$list>
 `</footer>`
--->
-
-<!-- hitokoto 
-`<footer id="hitokoto" style="color: black;text-decoration: 3px underline lightblue;font-family: "jetbrains mono";font-size:14px;">`
-`</footer>`
--->
-`<footer style="font-size:16px;" id="hitokoto">`
-`</footer>`
-
-
-<!-- music -->
-<!-- can't use single with special have popup error tip -->
-
-<!--
-2144015214
-6733209548
-3218667513
-lyctype="1" 
-mutex="true"
---> 
-<!-- https://ftzzloo.com/hexo-add-aplayer-plugins/ -->
-<!-- https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements 
-	lrc-type="1"
--->
-
-<!--
-`<meting-js 
-	style="font-size:28px;"
-	id="6733209548"
-	lrc-type="1"
-	server="netease"
-	order="random"
-	type="playlist"
-	fixed="true"
-	list-olded="true">`
-`</meting-js>`
 -->

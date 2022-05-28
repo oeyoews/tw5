@@ -1,0 +1,12 @@
+author: oeyoews
+created: 20220528015959015
+description: use latest fontawesome v6
+list: readme
+modified: 20220528025203146
+name: FontAwesome V6
+packaged-by: Gatha on 28th May 2022, 10:52:05
+plugin-type: plugin
+tags: 
+title: $:/plugins/oeyoews/fontawesome-v6
+type: application/json
+version: v0.0.1

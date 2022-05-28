@@ -1,0 +1,42 @@
+{"tiddlers": {
+"$:/plugins/oeyoews/fontawesome-v6/fa-user": {
+    "created": "20220528021025649",
+    "text": "<i style=\"color: yellow\" class=\"fa fa-beat-fade fa-solid fa-user\"></i>",
+    "title": "$:/plugins/oeyoews/fontawesome-v6/fa-user",
+    "modified": "20220528023520805",
+    "tags": "",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/plugins/oeyoews/fontawesome-v6/icon": {
+    "created": "20220528025151112",
+    "text": "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",
+    "title": "$:/plugins/oeyoews/fontawesome-v6/icon",
+    "type": "image/png",
+    "modified": "20220528025151840"
+},
+
+"$:/plugins/oeyoews/fontawesome-v6/readme": {
+    "title": "$:/plugins/oeyoews/fontawesome-v6/readme",
+    "created": "20220528020809921",
+    "modified": "20220528020818739",
+    "tags": "",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<!-- short description -->",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/plugins/oeyoews/fontawesome-v6/styles": {
+    "title": "$:/plugins/oeyoews/fontawesome-v6/styles",
+    "text": "<link href=\"https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/css/all.min.css\" rel=\"stylesheet\">",
+    "created": "20220528020132825",
+    "modified": "20220528022844222",
+    "tags": "$:/tags/RawMarkup",
+    "type": "text/css",
+    "revision": "0",
+    "bag": "default"
+}}
+}

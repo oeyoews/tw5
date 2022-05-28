@@ -404,9 +404,10 @@ h1.tc-site-title {
 
 .nc-sidebar .section .label {
   padding: 2px 0;
-  /*color: <<colour site-title-foreground>>;*/
-  /*fill: <<colour site-title-foreground>>;*/
+  color: <<colour site-title-foreground>>;
+  fill: <<colour site-title-foreground>>;
   font-weight: bold;
+  font-size: 18px;
   line-height: 1.6em;
   display: block;
   width: 100%;
@@ -417,7 +418,7 @@ h1.tc-site-title {
 
 /*@oeyoews*/
 .nc-sidebar .section:not(.open) .label:hover {
-  /*background: linear-gradient(to left, #5972d9, transparent);*/
+  background: #0000000f;
 }
 
 .nc-sidebar .section.open .label {
