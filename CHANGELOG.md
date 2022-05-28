@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.33.0](https://gitlab.com/oeyoews/tw5/compare/v1.32.0...v1.33.0) (2022-05-28)
+
+
+### Features
+
+* add tw-hitokoto fontawesome-v6 ([ca583af](https://gitlab.com/oeyoews/tw5/commit/ca583af6dedcb6a976176855d996027fe9566610))
+
 # [1.32.0](https://gitlab.com/oeyoews/tw5/compare/v1.31.0...v1.32.0) (2022-05-28)
 
 
