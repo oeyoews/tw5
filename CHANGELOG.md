@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.31.0](https://gitlab.com/oeyoews/tw5/compare/v1.30.0...v1.31.0) (2022-05-28)
+
+
+### Features
+
+* add link to tabs ([cfc9927](https://gitlab.com/oeyoews/tw5/commit/cfc9927f41fa95a6618a324e225f82ce4ebebbc4))
+
 # [1.30.0](https://gitlab.com/oeyoews/tw5/compare/v1.29.0...v1.30.0) (2022-05-27)
 
 
