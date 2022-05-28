@@ -1,0 +1,9 @@
+caption: search
+collection: 
+library: Forge Icons
+library_version: 
+tags: $:/tags/Image Icons Images SVG
+title: $:/images/forge-icons/search
+type: text/vnd.tiddlywiki
+
+<svg width="22pt" height="22pt" class="tc-image-frg-search tc-image-button" viewBox="0 0 64 64" stroke-width="3" stroke="currentColor" fill="none"><circle cx="27.31" cy="25.74" r="18.1"/><line x1="39.58" y1="39.04" x2="56.14" y2="57"/></svg>
