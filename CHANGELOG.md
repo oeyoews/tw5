@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.35.1](https://gitlab.com/oeyoews/tw5/compare/v1.35.0...v1.35.1) (2022-05-28)
+
+
+### Bug Fixes
+
+* remove physicial big images ([becee88](https://gitlab.com/oeyoews/tw5/commit/becee88bb7c5eacf1ba7ead7d4129aa94548ffbb))
+
 # [1.35.0](https://gitlab.com/oeyoews/tw5/compare/v1.34.0...v1.35.0) (2022-05-28)
 
 
