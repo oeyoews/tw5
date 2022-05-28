@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.32.0](https://gitlab.com/oeyoews/tw5/compare/v1.31.0...v1.32.0) (2022-05-28)
+
+
+### Features
+
+* add PluginSize ([fe52db8](https://gitlab.com/oeyoews/tw5/commit/fe52db8c6d491103d86adfcf51d60f91a53a0a86))
+
 # [1.31.0](https://gitlab.com/oeyoews/tw5/compare/v1.30.0...v1.31.0) (2022-05-28)
 
 
