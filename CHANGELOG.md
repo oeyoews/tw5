@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.35.0](https://gitlab.com/oeyoews/tw5/compare/v1.34.0...v1.35.0) (2022-05-28)
+
+
+### Features
+
+* add welcome-message plugin ([060547b](https://gitlab.com/oeyoews/tw5/commit/060547be61f97657d2a365de0ae9ac443a826888))
+
 # [1.34.0](https://gitlab.com/oeyoews/tw5/compare/v1.33.0...v1.34.0) (2022-05-28)
 
 
