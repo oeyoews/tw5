@@ -65,14 +65,14 @@
 
 "$:/showInfo/search/SystemImage": {
     "created": "20210911212256922",
-    "text": "<!--\nList of all system images (ie, tiddlers tagged {{$:/tags/Image||$:/core/ui/TagTemplate}}). Click on an icon to copy its title !\n-->\n\n<$vars\n\nsearch-list=\"[[$:/tags/Image]tagging[]] \n{{$:/plugins/oeyoews/search-images/add-image-filter}}\"\n\nitem-template=\"$:/showInfo/search/img\"\nlist-class=\"\"\"\"\"\"\nlist-style=\"\"\"margin: 3px;padding:3px;border: 2px solid green; border-radius:5px;\"\"\"\n>\n{{{[<item-template>is[blank]then[$:/showInfo/search/list/titles]else<item-template>]}}}\n{{$:/showInfo/search/template}}\n\n</$vars>",
+    "text": "<$vars\n\nsearch-list=\"[[$:/tags/Image]tagging[]]\"\n\nitem-template=\"$:/showInfo/search/img\"\n\nlist-class=\"\"\"\"\"\"\nlist-style=\"\"\"margin: 3px;padding:3px;border: 2px solid green; border-radius:5px;\"\"\"\n>\n{{{[<item-template>is[blank]then[$:/showInfo/search/list/titles]else<item-template>]}}}\n{{$:/showInfo/search/template}}\n\n</$vars>",
     "title": "$:/showInfo/search/SystemImage",
-    "modified": "20220525063356160",
+    "modified": "20220528031337969",
     "tags": "$:/tags/SideBar $:/showInfo/search $:/showInfo",
     "type": "text/vnd.tiddlywiki",
     "caption": " {{$:/core/images/picture}} Images",
-    "icon": "$:/core/images/picture",
-    "page-cover": "https://source.unsplash.com/random",
+    "icon": "",
+    "page-cover": "",
     "revision": "0",
     "bag": "default"
 },
@@ -112,15 +112,16 @@
 },
 
 "$:/showInfo/search/img": {
-    "title": "$:/showInfo/search/img",
     "created": "20210911222821934",
+    "text": "<$button message=\"tm-copy-to-clipboard\" param=<<item>> class=\"tc-btn-invisible search-list-img\" tooltip=<<item>>>\n<$transclude tiddler=<<item>>/>\n</$button>",
+    "title": "$:/showInfo/search/img",
     "hide-body": "yes",
-    "modified": "20220517090048585",
+    "modified": "20220528031210914",
     "tags": "$:/showInfo/search $:/showInfo",
     "type": "text/vnd.tiddlywiki",
-    "text": "<$button message=\"tm-copy-to-clipboard\" param=<<item>> class=\"tc-btn-invisible search-list-img\" tooltip=<<item>>>\n<$transclude tiddler=<<item>>/>\n</$button>",
     "revision": "0",
-    "bag": "default"
+    "bag": "default",
+    "code-body": "yes"
 },
 
 "$:/showInfo/search/img/style": {
