@@ -2,7 +2,7 @@ caption: Loading
 code-body: yes
 created: 20220426071248472
 creator: oeyoews
-modified: 20220528031728473
+modified: 20220528063422785
 modifier: oeyoews
 tags: $:/tags/RawMarkupWikified/TopBody
 title: $:/loading
@@ -94,7 +94,7 @@ html body.tc-body {
 	background-color: <<colour primary>>;
 	top: 0px;
 	left: 0px;
-	height: 10px;
+	height: 20px;
 	width: 0px;
 	z-index: 0;
 	border-radius: 3px;

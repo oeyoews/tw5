@@ -1,7 +1,7 @@
 created: 20220103042943419
 creator: oeyoews
-list: [[Sample Text: Patrick Hand font]] AfterActions $:/config/oeyoews/fishingUI2 $:/state/notebook-sidebar $:/config/oeyoews/sitetitle $:/core/templates/canonical-uri-external-image $:/plugins/BTC/tiddlywiki-multi-columns/styles $:/config/oeyoews/scrollbar $:/config/oeyoews/popupwindowstyle $:/footer Index $:/loading [[$:/config/oeyoews/Creat EnglishWord]] $:/config/oeyoews/subtitlefooter [[Navigate Button]] [[Recommend TW5 websites]] $:/config/FishingPluginLibrary eequote $:/plugins/kookma/solution/ui/search-in-fields $:/core/ui/ViewTemplate/subtitle $:/config/oeyoews/copybutton $:/config/oeyoews/customstylesheet $:/config/SyncFilter $:/config/FileSystemPaths
-modified: 20220528031503257
+list: [[Sample Text: Patrick Hand font]] $:/config/oeyoews/fishingUI2 $:/state/notebook-sidebar $:/config/oeyoews/sitetitle $:/core/templates/canonical-uri-external-image $:/config/oeyoews/scrollbar $:/config/oeyoews/popupwindowstyle $:/footer Index $:/loading [[$:/config/oeyoews/Creat EnglishWord]] $:/config/oeyoews/subtitlefooter [[Navigate Button]] [[Recommend TW5 websites]] $:/config/FishingPluginLibrary $:/plugins/kookma/solution/ui/search-in-fields $:/core/ui/ViewTemplate/subtitle $:/config/oeyoews/copybutton $:/config/oeyoews/customstylesheet $:/config/SyncFilter $:/config/FileSystemPaths
+modified: 20220528063127768
 modifier: oeyoews
 title: $:/favorites/favlist
 type: text/vnd.tiddlywiki
