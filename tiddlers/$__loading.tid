@@ -2,7 +2,7 @@ caption: Loading
 code-body: yes
 created: 20220426071248472
 creator: oeyoews
-modified: 20220521135001644
+modified: 20220528031728473
 modifier: oeyoews
 tags: $:/tags/RawMarkupWikified/TopBody
 title: $:/loading
@@ -114,7 +114,7 @@ html body.tc-body {
 	position: absolute;
 	width: 100%;
 	height: 10px;
-	line-height: 8px;
+	line-height: 6px;
 	border-radius: 3px;
 	left: 0;
 	top: 0;
