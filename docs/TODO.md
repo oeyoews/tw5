@@ -2,55 +2,21 @@
 
 ## Ing
 
-- [ ] add transform animoation for toggle sidebar
-- [-]  add coverage for gitlab
-* [ ] creat readonly mode use tiddlywiki.info
-* [ ] kitty emoji bug issue
-* [ ] optimic another two project cache githlab  ci settings
-* [ ] github token copy bug
-* [ ] fix semantic-release warning install
-  * [ ] <https://github.com/actions/starter-workflows/issues/1191>
-* [ ] loading style
-  <https://pic.icodeq.com/>
-* [ ] add close others for alt e
-  <https://www.flaticon.com/search?word=fishing&color=gradient&order_by=4>
-* [ ] add clipboard button for codesnippets
-* [ ] add macro for img style
-* [ ] pack workbox plugin(bug: solve sw update problems)
 * [ ] how to load local file with plugins
-* [ ] add tw theme like vscode material theme
-* [ ] use palette to tidy theme color
-* [ ] learn yarn all docs
-* [ ] how setup timezone for vercel ci
-* [ ] todo: add gource picture
-* [ ] todo: like this [wiki](http://jyywiki.cn/OS/2022/slides/1.slides#/3/1/0)
-* [ ] todo: idea's gitignore how to work
-* [ ] todo: make google theme
-* [ ] todo: start use emacs, and no use popmenu
-* [ ] use shell python or ci to add update time
-* [ ] add try catch code in debug.sh
-* [ ] debug ios or chrome in pc(too trouble)
-* [ ] __git__: use submodule to manage tiddler/subwiki
-* [ ] feat: pwa install local with port, not online
-* [ ] feat: add button effects for left menubar
-* [ ] feat: hove effects for `ctrl p`
-* [ ] feat: use git commit time to replace utc system
-* [ ] fix: fix code block for specific type
-* [ ] todo: learn use transition details
-* [ ] fix: use div(maybe) to compute current window location for fishing(may be use js)
-   http://oeyoew.fun/#untitled%20109:%5B%5Buntitled%20109%5D%5D%20Fisherman
-* [ ] feat: use switch button for two palette associate theme
-* [ ] feat: use filter or backdrop-filter come true blur for commandpalette, like ctrl shift L effects
-* [ ] __tw5__: customize respawn js, to fix during time bug(in logic)
-* [ ] __doc__: add some broken setup notes for config tw5
-* [ ] bug: draggin file no appear highlight because this projectify's two macro
+* [x] add try catch code in debug.sh
+* [x] debug ios or chrome in pc(too trouble)
+* [x] feat: pwa install local with port, not online
+* [x] feat: add button effects for left menubar
+* [x] feat: hove effects for `ctrl p`
+* [x] feat: use git commit time to replace utc system
+* [x] fix: fix code block for specific type
+* [x] todo: learn use transition details
+* [?] bug: draggin file no appear highlight because this projectify's two macro
 * [ ] __fix__: Projectify schedule button disappear in mobile mode(tools)
 * [ ] __try__: try publish npm package use devops for relate tw5 project
 * [ ] __todo__: Using shell to replace makefile, todo test(to manage multi repository push automaticaly)
 * [ ] feat: use scroll to hide sidebar for mobile, and come true like banner to scrool some button
 * [ ] feat: how to reference meta etc head files automaticaly(reference github framework projects)
-* [ ] feat: adjust backlink btn style like fishing btn
-* [ ] feat: change fontawesome icon color
 * [ ] feat: change fold to right
 * [ ] bug: notebook reveal mousehover have some bug(part show)
 * [ ] fix: drated ui config
@@ -83,13 +49,6 @@
 * [ ] todo: learn webpack
 * [ ] todo: test apple icon use gitee copy simple projects
 * [ ] fix: refresh to skiping waiting, not automaticaly
-* [ ] fix: in phone, if installed, how to hide system install menubar tip
-* [ ] fix: center favicon for fishhead and small it size
-* [ ] feat: use subfolder to private or all tiddlers add password
-* [ ] todo: support applet, such as qq and wechat
-* [ ] todo: how to copy another html to current like tw5
-* [ ] todo: search upgrade emoji icon
-* [ ] todo: adapt all browser font, not only ios
 
 ## DONE
 
@@ -233,3 +192,44 @@
 * [x] __refactor__: all stylesheet
 * [x] feat: add shortkeys for controll (alt i) and jump inbox shortkey
 * [x] todo: readjust kbd and checklist stylesheet, update unicode, and fix unalign in mobilephone
+- [x] add transform animoation for toggle sidebar
+- [-]  add coverage for gitlab
+* [x] creat readonly mode use tiddlywiki.info
+* [x] kitty emoji bug issue
+* [x] optimic another two project cache githlab  ci settings
+* [x] github token copy bug
+* [x] fix semantic-release warning install
+  * [x] <https://github.com/actions/starter-workflows/issues/1191>
+* [x] loading style
+  <https://pic.icodeq.com/>
+* [x] add close others for alt e
+  <https://www.flaticon.com/search?word=fishing&color=gradient&order_by=4>
+* [x] add clipboard button for codesnippets
+* [x] add macro for img style
+* [x] pack workbox plugin(bug: solve sw update problems)
+* [x] __git__: use submodule to manage tiddler/subwiki
+* [x] todo: make google theme
+* [x] add tw theme like vscode material theme
+* [x] use palette to tidy theme color
+* [x] learn yarn all docs
+* [x] how setup timezone for vercel ci
+* [x] todo: add gource picture
+* [x] todo: like this [wiki](http://jyywiki.cn/OS/2022/slides/1.slides#/3/1/0)
+* [x] todo: idea's gitignore how to work
+* [x] todo: start use emacs, and no use popmenu
+* [x] use shell python or ci to add update time
+* [x] fix: in phone, if installed, how to hide system install menubar tip
+* [x] fix: center favicon for fishhead and small it size
+* [x] feat: use subfolder to private or all tiddlers add password
+* [x] todo: support applet, such as qq and wechat
+* [x] todo: how to copy another html to current like tw5
+* [x] todo: search upgrade emoji icon
+* [x] todo: adapt all browser font, not only ios
+* [x] fix: use div(maybe) to compute current window location for fishing(may be use js)
+   http://oeyoew.fun/#untitled%20109:%5B%5Buntitled%20109%5D%5D%20Fisherman
+* [x] feat: use switch button for two palette associate theme
+* [x] feat: use filter or backdrop-filter come true blur for commandpalette, like ctrl shift L effects
+* [x] __tw5__: customize respawn js, to fix during time bug(in logic)
+* [x] __doc__: add some broken setup notes for config tw5
+* [x] feat: adjust backlink btn style like fishing btn
+* [x] feat: change fontawesome icon color

@@ -1,17 +1,17 @@
 created: 20220401025634224
 creator: @oeyoews
-difficulty: 0.3108704956392557
-due: 20220423102028421
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220613104438125
+grade: 1
+history: [{"due":"20220423102028421","interval":0,"difficulty":0.3108704956392557,"stability":0.10000011324882507,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220422102028421"}]
+interval: 36
 lapses: 0
-modified: 20220422102028421
+modified: 20220528104438125
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220422102028421
-stability: 0.10000011324882507
+reps: 2
+retrievability: 3.3676120378036637e-17
+review: 20220528104438125
+stability: 16.439773952841502
 tags: EnglishWord ?
 title: uniformly
 type: text/vnd.tiddlywiki
