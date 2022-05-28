@@ -1,6 +1,6 @@
 created: 20220221032611286
 creator: oeyoews
-modified: 20220225143448357
+modified: 20220528013836369
 modifier: oeyoews
 tags: examples TiddlyWiki5
 title: fixIcon tw5
@@ -10,6 +10,6 @@ type: text/vnd.tiddlywiki
 
 <<.warning Demo>>
 
-<<.icon "$:/core/icon">> demo for your 
+<<.icon "$:/core/icon">>
 
 <<.icon "$:/core/images/warning">>
