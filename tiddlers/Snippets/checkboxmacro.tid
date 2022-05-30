@@ -1,0 +1,12 @@
+caption: checkbox
+created: 20220529003853275
+creator: oeyoews
+modified: 20220529004022693
+modifier: oeyoews
+tags: $:/tags/TextEditor/Snippet
+title: checkboxmacro
+type: text/vnd.tiddlywiki
+
+<$checkbox tag="done">
+$1
+</$checkbox>
