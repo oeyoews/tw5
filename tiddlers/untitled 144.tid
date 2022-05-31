@@ -1,0 +1,15 @@
+created: 20220531012451364
+creator: oeyoews
+modified: 20220531012641613
+modifier: oeyoews
+tags: 
+title: untitled 144
+type: text/vnd.tiddlywiki
+
+\define testCreate()
+<$action-createtiddler $basetitle="base" $template="EW"/>
+\end
+
+<$button actions=<<testCreate>> >
+创建条目
+</$button>

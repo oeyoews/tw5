@@ -15,10 +15,10 @@
 "$:/plugins/oeyoews/shortcuts/controltip": {
     "title": "$:/plugins/oeyoews/shortcuts/controltip",
     "created": "20220521120846102",
-    "modified": "20220521120915093",
+    "modified": "20220528011058672",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
-    "text": "😄 Jump To Settings",
+    "text": "Jump To Settings",
     "revision": "0",
     "bag": "default"
 },
@@ -33,15 +33,35 @@
     "bag": "default"
 },
 
+"$:/plugins/oeyoews/shortcuts/newword": {
+    "created": "20220531011547769",
+    "text": "<$navigator story=\"$:/StoryList\" history=\"$:/HistoryList\">\n<$action-sendmessage $message=\"tm-new-tiddler\" text='<<<\n\"\"\"\n\n\"\"\"\n<<<' tags=\"EnglishWord\"/>\n  \n</$navigator>",
+    "title": "$:/plugins/oeyoews/shortcuts/newword",
+    "key": "((newword))",
+    "modified": "20220531015613522",
+    "tags": "$:/tags/KeyboardShortcut",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "0",
+    "bag": "default",
+    "code-body": "yes"
+},
+
 "$:/plugins/oeyoews/shortcuts/readme": {
     "title": "$:/plugins/oeyoews/shortcuts/readme",
     "created": "20220521120542562",
-    "modified": "20220521121859511",
+    "modified": "20220528011159344",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
-    "text": "!! TODO\n\n* add tip for repeat press this shortcut\n* can't scroll to determined tiddler repreat",
+    "text": "!! TODO\n\n* add tip for repeat press this shortcut\n* can't scroll to determined tiddler repreat\n* another usage is if your tiddlywiki get bad, you can't find any buttons because of install some stanger plugins(even enable safemode), now you can press <kbd>ctrl I</kbd> to call setting\n* add system image for tips use class",
     "revision": "0",
     "bag": "default"
+},
+
+"$:/config/shortcuts/newword": {
+    "created": "20220531011807540",
+    "text": "alt-W",
+    "title": "$:/config/shortcuts/newword",
+    "modified": "20220531015639256"
 },
 
 "oeyoews/shortcuts": {
@@ -66,6 +86,17 @@
     "bag": "default"
 },
 
+"$:/config/ShortcutInfo/newword": {
+    "created": "20220531011656472",
+    "text": "Creat new word",
+    "title": "$:/config/ShortcutInfo/newword",
+    "modified": "20220531014109020",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "0",
+    "bag": "default",
+    "tags": ""
+},
+
 "$:/config/ShortcutInfo/control": {
     "title": "$:/config/ShortcutInfo/control",
     "created": "20220521113419766",
@@ -77,11 +108,11 @@
 },
 
 "$:/config/shortcuts/control": {
-    "title": "$:/config/shortcuts/control",
     "created": "20220521113501548",
-    "modified": "20220521113810252",
-    "type": "text/vnd.tiddlywiki",
     "text": "ctrl-I",
+    "title": "$:/config/shortcuts/control",
+    "modified": "20220531014050083",
+    "type": "text/vnd.tiddlywiki",
     "revision": "0",
     "bag": "default"
 }}
