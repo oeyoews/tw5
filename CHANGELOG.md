@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.36.0](https://gitlab.com/oeyoews/tw5/compare/v1.35.1...v1.36.0) (2022-05-31)
+
+
+### Features
+
+* add newword shortcuts ([c218c3c](https://gitlab.com/oeyoews/tw5/commit/c218c3c74ec839f457086547a07ca958f45129dc))
+
 ## [1.35.1](https://gitlab.com/oeyoews/tw5/compare/v1.35.0...v1.35.1) (2022-05-28)
 
 
