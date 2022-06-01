@@ -678,9 +678,11 @@ pre, code {
   font-family: {{$:/themes/nico/notebook/settings/codefontfamily}};
   padding: 0 5px 0;
   margin: 0 2px 0;
-  border: 2px solid none;
+  /*border: 2px solid none;*/
   border-radius: 5px;
-  color: unset !important;
+  /*color: unset !important;*/
+  /*color: #28a745 !important;*/
+  background-color: unset;
 }
 
 .tc-titlebar, .tc-site-title {
