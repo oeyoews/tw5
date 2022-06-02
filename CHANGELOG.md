@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.37.1](https://gitlab.com/oeyoews/tw5/compare/v1.37.0...v1.37.1) (2022-06-02)
+
+
+### Bug Fixes
+
+* restore ski ci ([4802c0b](https://gitlab.com/oeyoews/tw5/commit/4802c0b35d63604ad02d765af1d33ec181cdda3d))
+
 # [1.37.0](https://gitlab.com/oeyoews/tw5/compare/v1.36.0...v1.37.0) (2022-06-02)
 
 
