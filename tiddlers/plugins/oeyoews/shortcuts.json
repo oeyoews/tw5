@@ -1,4 +1,28 @@
 {"tiddlers": {
+"$:/plugins/oeyoews/shortcuts/close-all": {
+    "created": "20220602002311627",
+    "text": "<$navigator story=\"$:/StoryList\" history=\"$:/HistoryList\">\n\n<$action-sendmessage $message=\"tm-notify\" $param=\"$:/plugins/oeyoews/shortcuts/close-all-tip\"/>\n<$action-sendmessage $message=\"tm-close-all-tiddlers\"/>\n  \n</$navigator>",
+    "title": "$:/plugins/oeyoews/shortcuts/close-all",
+    "code-body": "yes",
+    "key": "((close-all))",
+    "modified": "20220602003113116",
+    "tags": "$:/tags/KeyboardShortcut",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/plugins/oeyoews/shortcuts/close-all-tip": {
+    "created": "20220602003121698",
+    "text": "Close all tiddlers",
+    "title": "$:/plugins/oeyoews/shortcuts/close-all-tip",
+    "modified": "20220602003141546",
+    "tags": "",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "0",
+    "bag": "default"
+},
+
 "$:/plugins/oeyoews/shortcuts/control": {
     "title": "$:/plugins/oeyoews/shortcuts/control",
     "caption": "Settings",
@@ -34,16 +58,16 @@
 },
 
 "$:/plugins/oeyoews/shortcuts/newword": {
-    "created": "20220531011547769",
-    "text": "<$navigator story=\"$:/StoryList\" history=\"$:/HistoryList\">\n<$action-sendmessage $message=\"tm-new-tiddler\" text='<<<\n\"\"\"\n\n\"\"\"\n<<<' tags=\"EnglishWord\"/>\n  \n</$navigator>",
     "title": "$:/plugins/oeyoews/shortcuts/newword",
+    "code-body": "yes",
+    "created": "20220531011547769",
     "key": "((newword))",
     "modified": "20220531015613522",
     "tags": "$:/tags/KeyboardShortcut",
     "type": "text/vnd.tiddlywiki",
+    "text": "<$navigator story=\"$:/StoryList\" history=\"$:/HistoryList\">\n<$action-sendmessage $message=\"tm-new-tiddler\" text='<<<\n\"\"\"\n\n\"\"\"\n<<<' tags=\"EnglishWord\"/>\n  \n</$navigator>",
     "revision": "0",
-    "bag": "default",
-    "code-body": "yes"
+    "bag": "default"
 },
 
 "$:/plugins/oeyoews/shortcuts/readme": {
@@ -57,11 +81,36 @@
     "bag": "default"
 },
 
+"$:/config/ShortcutInfo/close-all": {
+    "created": "20220602002623580",
+    "text": "Close all tiddlers",
+    "title": "$:/config/ShortcutInfo/close-all",
+    "modified": "20220602002638007",
+    "tags": "",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "0",
+    "bag": "default"
+},
+
 "$:/config/shortcuts/newword": {
-    "created": "20220531011807540",
-    "text": "alt-W",
     "title": "$:/config/shortcuts/newword",
-    "modified": "20220531015639256"
+    "created": "20220531011807540",
+    "modified": "20220531015639256",
+    "type": "text/vnd.tiddlywiki",
+    "text": "alt-W",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/config/shortcuts/close-all": {
+    "created": "20220602002527245",
+    "text": "alt-A",
+    "title": "$:/config/shortcuts/close-all",
+    "modified": "20220602002607405",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "0",
+    "bag": "default",
+    "tags": ""
 },
 
 "oeyoews/shortcuts": {
@@ -87,14 +136,14 @@
 },
 
 "$:/config/ShortcutInfo/newword": {
-    "created": "20220531011656472",
-    "text": "Creat new word",
     "title": "$:/config/ShortcutInfo/newword",
+    "created": "20220531011656472",
     "modified": "20220531014109020",
+    "tags": "",
     "type": "text/vnd.tiddlywiki",
+    "text": "Creat new word",
     "revision": "0",
-    "bag": "default",
-    "tags": ""
+    "bag": "default"
 },
 
 "$:/config/ShortcutInfo/control": {
@@ -108,11 +157,11 @@
 },
 
 "$:/config/shortcuts/control": {
-    "created": "20220521113501548",
-    "text": "ctrl-I",
     "title": "$:/config/shortcuts/control",
+    "created": "20220521113501548",
     "modified": "20220531014050083",
     "type": "text/vnd.tiddlywiki",
+    "text": "ctrl-I",
     "revision": "0",
     "bag": "default"
 }}
