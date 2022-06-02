@@ -7,11 +7,17 @@
 
 ## 🎽 Runing
 
-```
+```tw
 yarn install // install dependcies
 yarn start   // start tiddlywiki
-tiddlywiki --listen <port=8080 host=0.0.0.0>  // another start tiddlywiki method
+```
+
+```tw
 tiddlywiki <folderName> --init server  // init new folder
+```
+
+```tw
+tiddlywiki --listen port=8080 host=0.0.0.0  // listen 0.0.0.0
 ```
 
 ## ✅ TODO

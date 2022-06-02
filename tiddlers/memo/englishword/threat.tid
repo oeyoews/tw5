@@ -1,18 +1,9 @@
 created: 20220312165521107
 creator: @oeyoews
-difficulty: 1
-due: 20220507165748289
-grade: 2
 history: [{"due":"20220319143629046","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143629046"},{"due":"20220328154230955","interval":1,"difficulty":1,"stability":8.830302388320703,"retrievability":0.3486850967074362,"grade":2,"lapses":0,"reps":2,"review":"20220319154230955"}]
-interval: 8
-lapses: 0
-modified: 20220327165748289
-modifier: @oeyoews
-reps: 3
-retrievability: 0.9089605392018921
-review: 20220327165748289
-stability: 41.495126579740116
-tags: EnglishWord ?
+modified: 20220602130039342
+modifier: oeyoews
+tags: EnglishWord !
 title: threat
 type: text/vnd.tiddlywiki
 

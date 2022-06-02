@@ -1,17 +1,17 @@
 created: 20220222023724715
 creator: oeyoews
-difficulty: 1
-due: 20220423003225585
+difficulty: 1.0245599204060227
+due: 20230331065210853
 grade: 1
-history: [{"due":"20220303063627337","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302063627337"}]
-interval: 3
+history: [{"due":"20220303063627337","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302063627337"},{"due":"20220423003225585","interval":3,"difficulty":1,"stability":48.60974728794028,"retrievability":0.05273732312238567,"grade":1,"lapses":0,"reps":2,"review":"20220305003225585"}]
+interval: 89
 lapses: 0
-modified: 20220311044418205
-modifier: @oeyoews
-reps: 2
-retrievability: 0.05273732312238567
-review: 20220305003225585
-stability: 48.60974728794028
+modified: 20220602065210853
+modifier: oeyoews
+reps: 3
+retrievability: 0.8245599204060228
+review: 20220602065210853
+stability: 301.5021355270085
 tags: EnglishWord ?
 title: existential
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20220329013632972
 creator: @oeyoews
 difficulty: 1
-due: 20220423152057856
+due: 20221219064716187
 grade: 1
-history: [{"due":"20220413151635199","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220412151635199"},{"due":"20220414001653530","interval":1,"difficulty":1,"stability":0.07408198986175796,"retrievability":0.34867927218217226,"grade":0,"lapses":1,"reps":1,"review":"20220413001653530"}]
-interval: 1
+history: [{"due":"20220413151635199","interval":0,"difficulty":0.33871244118862254,"stability":0.10000022649765015,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220412151635199"},{"due":"20220414001653530","interval":1,"difficulty":1,"stability":0.07408198986175796,"retrievability":0.34867927218217226,"grade":0,"lapses":1,"reps":1,"review":"20220413001653530"},{"due":"20220423152057856","interval":1,"difficulty":1,"stability":8.569925081364996,"retrievability":0.24117921792098188,"grade":1,"lapses":1,"reps":2,"review":"20220414152057856"}]
+interval: 49
 lapses: 1
-modified: 20220414152057857
-modifier: @oeyoews
-reps: 2
-retrievability: 0.24117921792098188
-review: 20220414152057856
-stability: 8.569925081364996
+modified: 20220602064716187
+modifier: oeyoews
+reps: 3
+retrievability: 0.5474869703401505
+review: 20220602064716187
+stability: 200.0506284776948
 tags: EnglishWord ?
 title: victims
 type: text/vnd.tiddlywiki
