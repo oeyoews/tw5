@@ -1,17 +1,17 @@
 created: 20220223015236460
 creator: oeyoews
 difficulty: 1
-due: 20220423002802279
-grade: 1
-history: [{"due":"20220303064242338","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064242338"}]
-interval: 3
+due: 20230331234021733
+grade: 2
+history: [{"due":"20220303064242338","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064242338"},{"due":"20220423002802279","interval":3,"difficulty":1,"stability":48.60974728794028,"retrievability":0.05273732312238567,"grade":1,"lapses":0,"reps":2,"review":"20220305002802278"}]
+interval: 88
 lapses: 0
-modified: 20220311044418200
-modifier: @oeyoews
-reps: 2
-retrievability: 0.05273732312238567
-review: 20220305002802278
-stability: 48.60974728794028
+modified: 20220601234021733
+modifier: oeyoews
+reps: 3
+retrievability: 0.8263490734514967
+review: 20220601234021732
+stability: 302.9765288117189
 tags: EnglishWord ?
 title: court
 type: text/vnd.tiddlywiki

@@ -1,17 +1,17 @@
 created: 20220413052756326
 creator: @oeyoews
-difficulty: 0.3108704956392557
-due: 20220423135519420
-grade: -1
-history: []
-interval: 0
+difficulty: 1
+due: 20220617233958956
+grade: 1
+history: [{"due":"20220423135519420","interval":0,"difficulty":0.3108704956392557,"stability":0.10000011324882507,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220422135519419"}]
+interval: 40
 lapses: 0
-modified: 20220422135519420
+modified: 20220601233958956
 modifier: oeyoews
-reps: 1
-retrievability: 1
-review: 20220422135519419
-stability: 0.10000011324882507
+reps: 2
+retrievability: 4.9776516894562e-19
+review: 20220601233958956
+stability: 16.439773952841502
 tags: EnglishWord ?
 title: obligation
 type: text/vnd.tiddlywiki

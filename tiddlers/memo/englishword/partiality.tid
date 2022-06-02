@@ -1,17 +1,17 @@
 created: 20220224112940879
 creator: oeyoews
-difficulty: 1
-due: 20220424053137539
+difficulty: 1.028142108651003
+due: 20230323235127318
 grade: 1
-history: [{"due":"20220304083345523","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303083345522"}]
-interval: 3
+history: [{"due":"20220304083345523","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303083345522"},{"due":"20220424053137539","interval":3,"difficulty":1,"stability":48.60974728794028,"retrievability":0.05273732312238567,"grade":1,"lapses":0,"reps":2,"review":"20220306053137539"}]
+interval: 87
 lapses: 0
-modified: 20220311044418217
-modifier: @oeyoews
-reps: 2
-retrievability: 0.05273732312238567
-review: 20220306053137539
-stability: 48.60974728794028
+modified: 20220601235127319
+modifier: oeyoews
+reps: 3
+retrievability: 0.8281421086510031
+review: 20220601235127318
+stability: 295.278994711343
 tags: EnglishWord ?
 title: partiality
 type: text/vnd.tiddlywiki
