@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.37.0](https://gitlab.com/oeyoews/tw5/compare/v1.36.0...v1.37.0) (2022-06-02)
+
+
+### Features
+
+* use vercel-build command ([4428f5c](https://gitlab.com/oeyoews/tw5/commit/4428f5c2eb286e0defc4a8d2763bcdb6f8ffdb0a))
+
 # [1.36.0](https://gitlab.com/oeyoews/tw5/compare/v1.35.1...v1.36.0) (2022-05-31)
 
 
