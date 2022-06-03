@@ -18,9 +18,9 @@
     "text": "👋 Welcom to Here",
     "title": "$:/plugins/oeyoews/welcome-message/Hello-TiddlyWiki5",
     "creator": "oeyoews",
-    "modified": "20220603094818314",
+    "modified": "20220603095249394",
     "modifier": "oeyoews",
-    "tags": "docs",
+    "tags": "",
     "type": "text/vnd.tiddlywiki",
     "revision": "0",
     "bag": "default"
@@ -37,12 +37,12 @@
 },
 
 "$:/plugins/oeyoews/welcome-message/readme": {
-    "created": "20220528061647436",
-    "text": "!! config\n\n* You can edit this tiddler [[Hello|$:/plugins/oeyoews/welcome-message/Hello-TiddlyWiki5]] to customize welcome message",
     "title": "$:/plugins/oeyoews/welcome-message/readme",
+    "created": "20220528061647436",
     "modified": "20220603095011741",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
+    "text": "!! config\n\n* You can edit this tiddler [[Hello|$:/plugins/oeyoews/welcome-message/Hello-TiddlyWiki5]] to customize welcome message",
     "revision": "0",
     "bag": "default"
 }}

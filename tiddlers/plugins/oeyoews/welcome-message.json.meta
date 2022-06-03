@@ -2,11 +2,11 @@ author: oeyoews
 created: 20220528061538437
 description: show welcom message
 list: readme
-modified: 20220603095048234
+modified: 20220603095257785
 name: Welcome Message
-packaged-by: Gatha on 3rd June 2022, 17:50:50
+packaged-by: Gatha on 3rd June 2022, 17:53:43
 plugin-type: plugin
 tags: 
 title: $:/plugins/oeyoews/welcome-message
 type: application/json
-version: v0.0.2
+version: v0.0.3
