@@ -1,17 +1,17 @@
 created: 20220223100154584
 creator: oeyoews
-difficulty: 1
-due: 20220424053951828
+difficulty: 1.0245599204060227
+due: 20230401070254782
 grade: 1
-history: [{"due":"20220304062623858","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303062623858"}]
-interval: 3
+history: [{"due":"20220304062623858","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303062623858"},{"due":"20220424053951828","interval":3,"difficulty":1,"stability":48.60974728794028,"retrievability":0.05273732312238567,"grade":1,"lapses":0,"reps":2,"review":"20220306053951828"}]
+interval: 89
 lapses: 0
-modified: 20220311044418206
-modifier: @oeyoews
-reps: 2
-retrievability: 0.05273732312238567
-review: 20220306053951828
-stability: 48.60974728794028
+modified: 20220603070254782
+modifier: oeyoews
+reps: 3
+retrievability: 0.8245599204060228
+review: 20220603070254782
+stability: 301.5021355270085
 tags: EnglishWord ?
 title: expressly
 type: text/vnd.tiddlywiki
