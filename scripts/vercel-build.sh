@@ -5,38 +5,24 @@
 
 yarn clean
 
-# === Test
-# add test
-# NOTICE: this second test scripts, not conflice parent path
-#yarn test
-
 # patch for html
-yarn copy@tidpatch
+yarn copy-tidpatch
 
 # add public must before public copy steps for versel(if public else .)
 # NOTES: will destory image
 # yarn build@online > /dev/null 2>&1
-yarn build@online
+yarn build-online
 
 # === Vercel
 # public folder and files
-yarn copy@workbox
+yarn copy-workbox
 
 yarn sitemap
 
 # copy scripts/sw.js to public
-yarn workbox@inje
+yarn workbox-inje
 
-yarn visual@public
+yarn visual-public
 
 # TODO: how to add failed flag
 echo 🧁 Vercel build success
-#echo 🕑 `date`
-#echo -e "\033[51;36m
-#███████╗███╗   ██╗██████╗
-#██╔════╝████╗  ██║██╔══██╗
-#█████╗  ██╔██╗ ██║██║  ██║
-#██╔══╝  ██║╚██╗██║██║  ██║
-#███████╗██║ ╚████║██████╔╝
-#╚══════╝╚═╝  ╚═══╝╚═════╝
-#\033[0m"
