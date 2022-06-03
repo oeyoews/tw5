@@ -148,8 +148,8 @@ button.tc-fold-banner {
   width: 23px;
   text-align: center;
   margin-left: -50px;
-  top: 6px;
-  bottom: 6px;
+  top: 25px;
+  bottom: 25px;
 }
 button.tc-unfold-banner {
   position: unset;

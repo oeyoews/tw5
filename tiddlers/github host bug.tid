@@ -1,0 +1,9 @@
+created: 20220603030415903
+creator: oeyoews
+modified: 20220603030455298
+modifier: oeyoews
+tags: github
+title: github host bug
+type: text/vnd.tiddlywiki
+
+* update /etc/hosts/ with github520, or remove all add hosts
