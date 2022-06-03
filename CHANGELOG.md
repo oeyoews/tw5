@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.38.3](https://gitlab.com/oeyoews/tw5/compare/v1.38.2...v1.38.3) (2022-06-03)
+
+
+### Bug Fixes
+
+* remove Console log print ([8e883f6](https://gitlab.com/oeyoews/tw5/commit/8e883f6722d945ce2e38754af450a182b4b2a559))
+
 ## [1.38.2](https://gitlab.com/oeyoews/tw5/compare/v1.38.1...v1.38.2) (2022-06-03)
 
 
