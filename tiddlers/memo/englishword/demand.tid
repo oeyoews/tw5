@@ -1,18 +1,9 @@
 created: 20220222110827756
 creator: oeyoews
-difficulty: 2.0704730003822314
-due: 20220509023454067
-grade: 0
 history: [{"due":"20220303064055127","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064055127"},{"due":"20220423002845372","interval":3,"difficulty":1,"stability":48.60974728794028,"retrievability":0.05273732312238567,"grade":1,"lapses":0,"reps":2,"review":"20220305002845372"}]
-interval: 64
-lapses: 1
-modified: 20220508023454067
+modified: 20220603045748832
 modifier: oeyoews
-reps: 1
-retrievability: 0.8704730003822312
-review: 20220508023454067
-stability: 0.07408190596496488
-tags: EnglishWord ?
+tags: EnglishWord !
 title: demand
 type: text/vnd.tiddlywiki
 

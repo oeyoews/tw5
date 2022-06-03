@@ -1,17 +1,17 @@
 created: 20220314011141437
 creator: @oeyoews
-difficulty: 1.108960539201892
-due: 20220505165244048
+difficulty: 1.1442168148225729
+due: 20230112045721855
 grade: 1
-history: [{"due":"20220319143551216","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143551216"},{"due":"20220328153206181","interval":1,"difficulty":1,"stability":8.830302388320703,"retrievability":0.3486850967074362,"grade":1,"lapses":0,"reps":2,"review":"20220319153206181"}]
-interval: 8
+history: [{"due":"20220319143551216","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143551216"},{"due":"20220328153206181","interval":1,"difficulty":1,"stability":8.830302388320703,"retrievability":0.3486850967074362,"grade":1,"lapses":0,"reps":2,"review":"20220319153206181"},{"due":"20220505165244048","interval":8,"difficulty":1.108960539201892,"stability":39.21389051323656,"retrievability":0.9089605392018921,"grade":1,"lapses":0,"reps":3,"review":"20220327165244047"}]
+interval: 67
 lapses: 0
-modified: 20220327165244048
-modifier: @oeyoews
-reps: 3
-retrievability: 0.9089605392018921
-review: 20220327165244047
-stability: 39.21389051323656
+modified: 20220603045721855
+modifier: oeyoews
+reps: 4
+retrievability: 0.8352562756206809
+review: 20220603045721855
+stability: 223.2999518232216
 tags: EnglishWord ?
 title: tokyo
 type: text/vnd.tiddlywiki

@@ -1,18 +1,9 @@
 created: 20220222113849961
 creator: oeyoews
-difficulty: 1
-due: 20220602150603352
-grade: 2
 history: [{"due":"20220303064207609","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220302064207609"},{"due":"20220415034100521","interval":2,"difficulty":1,"stability":41.943552755493144,"retrievability":0.14063024105763047,"grade":2,"lapses":0,"reps":2,"review":"20220304034100520"}]
-interval: 12
-lapses: 0
-modified: 20220316150603352
-modifier: @oeyoews
-reps: 3
-retrievability: 0.9703062682871365
-review: 20220316150603351
-stability: 77.86981773465465
-tags: EnglishWord ?
+modified: 20220603045546286
+modifier: oeyoews
+tags: EnglishWord !
 title: reblance
 type: text/vnd.tiddlywiki
 

@@ -1,17 +1,17 @@
 created: 20220223123715498
 creator: oeyoews
-difficulty: 1
-due: 20220424053708570
+difficulty: 1.0245599204060227
+due: 20230401045735802
 grade: 1
-history: [{"due":"20220304074826244","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303074826244"}]
-interval: 3
+history: [{"due":"20220304074826244","interval":0,"difficulty":0.956170980055279,"stability":0.107421875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220303074826244"},{"due":"20220424053708570","interval":3,"difficulty":1,"stability":48.60974728794028,"retrievability":0.05273732312238567,"grade":1,"lapses":0,"reps":2,"review":"20220306053708570"}]
+interval: 89
 lapses: 0
-modified: 20220311044418205
-modifier: @oeyoews
-reps: 2
-retrievability: 0.05273732312238567
-review: 20220306053708570
-stability: 48.60974728794028
+modified: 20220603045735803
+modifier: oeyoews
+reps: 3
+retrievability: 0.8245599204060228
+review: 20220603045735802
+stability: 301.5021355270085
 tags: EnglishWord ?
 title: equity
 type: text/vnd.tiddlywiki
