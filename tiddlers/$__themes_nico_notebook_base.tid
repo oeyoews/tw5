@@ -422,10 +422,10 @@ h1.tc-site-title {
 }
 
 .nc-sidebar .section.open .label {
-  /*color: <<colour tiddler-background>>;*/
-  /*fill: <<colour tiddler-background>>;*/
-  /*background: <<colour primary>>;*/
-  /*border-bottom: 1px solid rgba(0,0,0,.1);*/
+  color: <<colour tiddler-background>>;
+  fill: <<colour tiddler-background>>;
+  background: <<colour primary>>;
+  border-bottom: 1px solid rgba(0,0,0,.1);
 }
 
 .nc-sidebar .section .label .caret {
