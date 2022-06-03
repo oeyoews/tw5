@@ -3,7 +3,7 @@
 <img alt="GitLab Release (latest by date)" src="https://img.shields.io/gitlab/v/release/oeyoews/tw5">
 <img alt="Gitlab pipeline status" src="https://img.shields.io/gitlab/pipeline-status/oeyoews/tw5?branch=tw6">
 
-# 🎉 Welcome to [FishForYou](https://oeyoew.fun)
+# Welcome to [🌿](https://oeyoew.fun)
 
 ## 🎽 Runing
 
