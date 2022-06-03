@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.39.0](https://gitlab.com/oeyoews/tw5/compare/v1.38.3...v1.39.0) (2022-06-03)
+
+
+### Features
+
+* change new __SplashScreen loading ([7af4815](https://gitlab.com/oeyoews/tw5/commit/7af481532561950d92c9ceb64778e4d0800975a9))
+
 ## [1.38.3](https://gitlab.com/oeyoews/tw5/compare/v1.38.2...v1.38.3) (2022-06-03)
 
 
