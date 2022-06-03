@@ -443,8 +443,8 @@ h1.tc-site-title {
 
 .nc-sidebar .tc-tiddlylink {
   /*color: <<colour primary>>;*/
-  color: #859900;
   /*color: unset;*/
+  color: #5972d9;
   padding: 0;
 }
 
