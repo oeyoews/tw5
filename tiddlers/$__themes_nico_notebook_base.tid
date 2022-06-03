@@ -442,7 +442,8 @@ h1.tc-site-title {
 }
 
 .nc-sidebar .tc-tiddlylink {
-  color: <<colour primary>>;
+  /*color: <<colour primary>>;*/
+  color: #859900;
   /*color: unset;*/
   padding: 0;
 }

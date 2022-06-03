@@ -3,10 +3,10 @@ created: 20220513060030443
 dependents: 
 description: Markdown export of tiddlers
 list: readme license
-modified: 20220530121846383
+modified: 20220602194723011
 name: Markdown Export
 plugin-type: plugin
 tags: 
 title: $:/plugins/cdaven/markdown-export
 type: application/json
-version: 0.1.7
+version: 0.1.13
