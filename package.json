@@ -5,6 +5,13 @@
   "repository": "https://gitlab.com/oeyoews/tw5.git",
   "author": "oeyoews <jyao4783@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "TiddlyWIki5",
+    "Remember",
+    "EnglishWord",
+    "Recite",
+    "FishingForYou"
+  ],
   "scripts": {
     "semantic-release": "semantic-release",
     "vercel-build": "bash scripts/vercel-build.sh",
