@@ -1,7 +1,7 @@
 caption: sitetitle
 created: 20220322112723685
 creator: @oeyoews
-modified: 20220603094644409
+modified: 20220604062342547
 modifier: oeyoews
 tags: config
 title: $:/config/oeyoews/sitetitle
@@ -14,10 +14,10 @@ TiddlyWiki5
 🥏
 🐬 
 
-FishForYou 
+FishForYou
 <sup>
 [img width=72 [https://img.shields.io/gitlab/v/tag/oeyoews/tw5?style=social&logo=gitlab]]
 </sup>
 -->
 
-{{$:/config/gradienttext}}
+{{$:/config/gradienttext}} {{beer}}
