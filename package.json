@@ -27,5 +27,8 @@
     "tiddlywiki": "^5.2.2",
     "tree-node-cli": "^1.5.2",
     "workbox-cli": "^6.5.2"
+  },
+  "engines": {
+    "node": ">=16.0"
   }
 }
