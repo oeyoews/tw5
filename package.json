@@ -28,6 +28,7 @@
     "tree-node-cli": "^1.5.2",
     "workbox-cli": "^6.5.2"
   },
+  "private": true,
   "engines": {
     "node": ">=16.0"
   }
