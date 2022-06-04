@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.40.0](https://gitlab.com/oeyoews/tw5/compare/v1.39.0...v1.40.0) (2022-06-04)
+
+
+### Features
+
+* disable fontawesome-v6 and use emoji ([c9f7aa0](https://gitlab.com/oeyoews/tw5/commit/c9f7aa095650c94dc1478b210c67460b0cc3dab7))
+
 # [1.39.0](https://gitlab.com/oeyoews/tw5/compare/v1.38.3...v1.39.0) (2022-06-03)
 
 
