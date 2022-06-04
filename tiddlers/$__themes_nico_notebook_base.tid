@@ -355,7 +355,7 @@ h1.tc-site-title {
   /*background: <<colour tiddler-background>>;*/
   background: #073642 !important;
   opacity: 0.97;
-  border-right: 1px solid <<colour tiddler-border>>;
+  border-right: 4px solid #5972d9;
   width: {{$:/themes/nico/notebook/metrics/sidebar-width}};
   overflow-y: auto;
   overflow-x: hidden;
