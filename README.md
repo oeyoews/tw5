@@ -5,6 +5,13 @@
 
 # Welcome to [🌿](https://oeyoew.fun)
 
+## Installation
+
+```sh
+// sh -c "$(curl -fsSl oeyoew.fun/install-tw5.sh)"
+curl -fsSl oeyoew.fun/install-tw5.sh | bash
+```
+
 ## 🎽 Runing
 
 ```tw
