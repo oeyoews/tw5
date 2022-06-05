@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.42.0](https://gitlab.com/oeyoews/tw5/compare/v1.41.0...v1.42.0) (2022-06-05)
+
+
+### Features
+
+* try use install folder ([8b058b4](https://gitlab.com/oeyoews/tw5/commit/8b058b4bf29a6e75d9f110d98ecfe0e777108454))
+
 # [1.41.0](https://gitlab.com/oeyoews/tw5/compare/v1.40.0...v1.41.0) (2022-06-04)
 
 
