@@ -1,0 +1,13 @@
+created: 20220604143922588
+creator: oeyoews
+modified: 20220604143935337
+modifier: oeyoews
+tags: 
+title: untitled 147
+type: text/vnd.tiddlywiki
+
+```npm
+npm cache clean
+npm install
+npm ls
+```

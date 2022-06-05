@@ -19,6 +19,7 @@
     "build": "tiddlywiki --output public --build index",
     "build-online": "tiddlywiki --output public --build online > /dev/null",
     "copy-workbox": "cp static/workboxroot/* public",
+    "copy-install": "cp scripts/install/* public",
     "workbox-inje": "workbox injectManifest scripts/workbox-config.js ",
     "visual-public": "tree -L 1 public",
     "test": "bash scripts/test.sh",

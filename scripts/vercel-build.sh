@@ -8,6 +8,9 @@ yarn clean
 # patch for html
 yarn copy-tidpatch
 
+# copy some install scripts
+yarn copy-install
+
 # add public must before public copy steps for versel(if public else .)
 # NOTES: will destory image
 # yarn build@online > /dev/null 2>&1
