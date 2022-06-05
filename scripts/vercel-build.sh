@@ -9,7 +9,7 @@ yarn clean
 yarn copy-tidpatch
 
 # copy some install scripts
-#yarn copy-install
+yarn copy-install
 
 # add public must before public copy steps for versel(if public else .)
 # NOTES: will destory image
