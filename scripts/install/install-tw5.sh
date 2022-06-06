@@ -30,7 +30,7 @@ function echomsg() {
 
 main() {
   isCmdExist \git || exit
-  clone
+  clone || exit
   echomsg
   isCmdExist \tiddlywiki5
 }
