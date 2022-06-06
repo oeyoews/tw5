@@ -15,6 +15,7 @@ mkdir "${TARGET}"
 git clone --depth 1 "${FISHFORYOU}"  "${TARGET}/{$ASNAME}"
 
 echo "🍺 successfully download ${FISHFORYOU}"
+echo "🖍️ Please into $HOME/$TARGET/$ASNAME to use it"
 
 #main() {
 
