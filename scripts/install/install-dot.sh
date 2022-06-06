@@ -9,11 +9,13 @@
 
 function isCmdExist() {
   local cmd="$1"
-  local BIN="~/.local/bin/"
+  local BIN="$HOME/.local/bin/"
 
-  [ ! d "$BIN" ] && mkdir -p "$BIN"
+  if [ ! -d "$BIN" ]; then
+    mkdir -p "$BIN"
+  fi
 
-  which "$cmd" >/dev/null 2>&1
+  #which "$cmd" >/dev/null 2>&1
   if [ $? -ne 0 ]; then
     echo "Installing $cmd"
     sh -c "$(curl -fL chezmoi.io/get)"
@@ -23,12 +25,14 @@ function isCmdExist() {
 
 # TODO: add remove old or bk odl chezmoi and acquire user if to bk or delete
 function init() {
-  local TARGET="~/.local/share/chezmoi"
-  local TARGETBK="~/.local/share/.chezmoi"
+  local TARGET="$HOME/.local/share/chezmoi"
+  local TARGETBK="$HOME/.local/share/.chezmoi"
   local URL="https://gitlab.com/oeyoews/dotfiles.git"
 
-  [ d "$TARGET" ] && mv "$TARGET" $"TARGETBK"
-  chezmoi init --depth 1 "$URL"
+  if [ -d "$TARGET" ]; then
+    mv "$TARGET" "$TARGETBK"
+    chezmoi init --depth 1 "$URL"
+  fi
 }
 
 function apply() {
