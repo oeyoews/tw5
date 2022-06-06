@@ -14,6 +14,7 @@ function isCmdExist() {
 	if [ $? -ne 0 ]; then
     echo "Installing $cmd"
     sh -c "$(curl -fL chezmoi.io/get)"
+    cp ./bin/chezmoi ~/.local/bin/chezmoi
 		#return 0
 	fi
 }
