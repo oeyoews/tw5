@@ -25,8 +25,8 @@ function isCmdExist() {
 
 # TODO: add remove old or bk odl chezmoi and acquire user if to bk or delete
 function init() {
-  local TARGET="$HOME/.local/share/chezmoi"
-  local TARGETBK="$HOME/.local/share/.chezmoi"
+  local TARGET="$HOME/.local/share/chezmoi/"
+  local TARGETBK="$HOME/.local/share/.chezmoi/"
   local URL="https://gitlab.com/oeyoews/dotfiles.git"
 
   if [ -d "$TARGET" ]; then
