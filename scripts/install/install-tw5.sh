@@ -25,14 +25,14 @@ function clone() {
 
 function echomsg() {
   echo "🍺 successfully download the repository ${FISHFORYOU}"
-  echo "🖍️ Please into $HOME/$TARGET to use it"
+  echo "🖍️ Please into $TARGET to use it"
 }
 
 main() {
-  isCmdExist \git || exit
+  isCmdExist git || exit
   clone || exit
   echomsg
-  isCmdExist \tiddlywiki5
+  isCmdExist tiddlywiki5
 }
 
 main
