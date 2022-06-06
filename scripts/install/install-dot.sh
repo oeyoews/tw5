@@ -3,27 +3,32 @@
 #UserLocation=0
 #read -r -p "Are you sure to install dotfiles? 🍻 [y|N] " response
 #if [[ $response =~ (y|yes|Y) ]];then
-  #UserLocation=1
-  #print("Installing ... 💉")
+#UserLocation=1
+#print("Installing ... 💉")
 #fi
 
 function isCmdExist() {
-	local cmd="$1"
+  local cmd="$1"
+  local BIN="~/.local/bin/"
 
-	which "$cmd" >/dev/null 2>&1
-	if [ $? -ne 0 ]; then
+  [ ! d "$BIN" ] && mkdir -p "$BIN"
+
+  which "$cmd" >/dev/null 2>&1
+  if [ $? -ne 0 ]; then
     echo "Installing $cmd"
     sh -c "$(curl -fL chezmoi.io/get)"
-    mkdir ~/.local/bin/
     mv ./bin/chezmoi ~/.local/bin/chezmoi
-	fi
+  fi
 }
-
 
 # TODO: add remove old or bk odl chezmoi and acquire user if to bk or delete
 function init() {
-  mv ~/.local/share/chezmoi ~/.local/share/.chezmoi
-  chezmoi init  --depth 1 https://gitlab.com/oeyoews/dotfiles.git
+  local TARGET="~/.local/share/chezmoi"
+  local TARGETBK="~/.local/share/.chezmoi"
+  local URL="https://gitlab.com/oeyoews/dotfiles.git"
+
+  [ d "$TARGET" ] && mv "$TARGET" $"TARGETBK"
+  chezmoi init --depth 1 "$URL"
 }
 
 function apply() {
@@ -32,7 +37,7 @@ function apply() {
 }
 
 main() {
-  isCmdExist chezmoii
+  isCmdExist chezmoi
   init
   apply
 }
