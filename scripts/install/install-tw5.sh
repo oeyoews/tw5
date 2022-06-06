@@ -2,22 +2,33 @@
 
 #set -e
 
-#TODO: add some interactive for installation
+function isCmdExist() {
+	local cmd="$1"
 
-# TODO: need adjust this folder
+	which "$cmd" >/dev/null 2>&1
+	if [ $? -ne 0 ]; then
+    echo "🍺 Please install $cmd firstly"
+    return 0
+	fi
+}
+
+function clone() {
+  git clone --depth 1 "${FISHFORYOU}"  "${TARGET}"
+}
+
+function echomsg() {
+  echo "🍺 successfully download the repository ${FISHFORYOU}"
+  echo "🖍️ Please into $HOME/$TARGET to use it"
+}
+
 TARGET="${HOME}"/REPOS/TiddlyWiki5
-
 FISHFORYOU="https://gitlab.com/oeyoews/tw5.git"
 
-git clone --depth 1 "${FISHFORYOU}"  "${TARGET}"
+main() {
+  isCmdExist \git || exit
+  clone
+  echomsg
+  isCmdExist \tiddlywiki5
+}
 
-#cd "${TARGET}" || exit
-
-echo "🍺 successfully download ${FISHFORYOU}"
-echo "🖍️ Please into $HOME/$TARGET to use it"
-
-#main() {
-
-#}
-
-#main
+main
