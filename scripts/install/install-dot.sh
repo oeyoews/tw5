@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# NOTE: can't in target dir execute this curl script
+
 #UserLocation=0
 #read -r -p "Are you sure to install dotfiles? 🍻 [y|N] " response
 #if [[ $response =~ (y|yes|Y) ]];then
@@ -28,15 +30,14 @@ function init() {
   local TARGET="$HOME/.local/share/chezmoi"
   local URL="https://gitlab.com/oeyoews/dotfiles.git"
 
-  if [ -d "$TARGET" ]; then
+  if [[ -d "$TARGET" ]]; then
     rm -rf "$TARGET"
-    chezmoi init --depth 1 "$URL"
   fi
+    chezmoi init --depth 1 "$URL"
 }
 
 function apply() {
-  chezmoi apply
-  #chezmoi update -R
+  chezmoi apply -R
 }
 
 main() {
