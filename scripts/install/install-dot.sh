@@ -13,7 +13,7 @@ function isCmdExist() {
 	which "$cmd" >/dev/null 2>&1
 	if [ $? -ne 0 ]; then
     echo "Installing $cmd"
-    sh -c "$(curl -fsSL chezmoi.io/get)"
+    sh -c "$(curl -fL chezmoi.io/get)"
 		#return 0
 	fi
 }
