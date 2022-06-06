@@ -4,18 +4,15 @@
 
 #TODO: add some interactive for installation
 
-TARGET="${HOME}"/REPOS/
+# TODO: need adjust this folder
+TARGET="${HOME}"/REPOS/TiddlyWiki5
 
 FISHFORYOU="https://gitlab.com/oeyoews/tw5.git"
 
-ASNAME="TiddlyWiki5"
-
-mkdir "${TARGET}"
-
-git clone --depth 1 "${FISHFORYOU}"  "${TARGET}/{$ASNAME}"
+git clone --depth 1 "${FISHFORYOU}"  "${TARGET}"
 
 echo "🍺 successfully download ${FISHFORYOU}"
-echo "🖍️ Please into $HOME/$TARGET/$ASNAME to use it"
+echo "🖍️ Please into $HOME/$TARGET to use it"
 
 #main() {
 
