@@ -1,6 +1,12 @@
 #!/usr/bin/env bash
 
-#set -e
+# version: 1.0.0
+# set -e
+
+TARGET="${HOME}"/REPOS/TiddlyWiki5
+TARGETBK="${HOME}"/REPOS/.TiddlyWiki5
+
+FISHFORYOU="https://gitlab.com/oeyoews/tw5.git"
 
 function isCmdExist() {
 	local cmd="$1"
@@ -13,6 +19,7 @@ function isCmdExist() {
 }
 
 function clone() {
+  mv "$TARGET" "$TARGETBK"
   git clone --depth 1 "${FISHFORYOU}"  "${TARGET}"
 }
 
@@ -20,9 +27,6 @@ function echomsg() {
   echo "🍺 successfully download the repository ${FISHFORYOU}"
   echo "🖍️ Please into $HOME/$TARGET to use it"
 }
-
-TARGET="${HOME}"/REPOS/TiddlyWiki5
-FISHFORYOU="https://gitlab.com/oeyoews/tw5.git"
 
 main() {
   isCmdExist \git || exit
