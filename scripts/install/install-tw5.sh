@@ -4,9 +4,17 @@
 
 #TODO: add some interactive for installation
 
-FISHFORYOU="https://gitlab.com/oeyoews/tw5"
+TARGET="${HOME}"/REPOS/
 
-git clone --depth 1 "${FISHFORYOU}"
+FISHFORYOU="https://gitlab.com/oeyoews/tw5.git"
+
+ASNAME="TiddlyWiki5"
+
+mkdir "${TARGET}"
+
+git clone --depth 1 "${FISHFORYOU}"  "${TARGET}/{$ASNAME}"
+
+echo "🍺 successfully download ${FISHFORYOU}"
 
 #main() {
 
