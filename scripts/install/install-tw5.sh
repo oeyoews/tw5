@@ -11,6 +11,8 @@ FISHFORYOU="https://gitlab.com/oeyoews/tw5.git"
 
 git clone --depth 1 "${FISHFORYOU}"  "${TARGET}"
 
+#cd "${TARGET}" || exit
+
 echo "🍺 successfully download ${FISHFORYOU}"
 echo "🖍️ Please into $HOME/$TARGET to use it"
 
