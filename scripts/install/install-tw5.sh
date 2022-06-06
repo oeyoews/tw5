@@ -4,7 +4,6 @@
 # set -e
 
 TARGET="${HOME}"/REPOS/TiddlyWiki5
-TARGETBK="${HOME}"/REPOS/.TiddlyWiki5
 
 FISHFORYOU="https://gitlab.com/oeyoews/tw5.git"
 
@@ -19,7 +18,7 @@ function isCmdExist() {
 }
 
 function clone() {
-  mv "$TARGET" "$TARGETBK"
+  rm -rf "$TARGET"
   git clone --depth 1 "${FISHFORYOU}"  "${TARGET}"
 }
 
