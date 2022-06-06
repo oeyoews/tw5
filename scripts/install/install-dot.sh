@@ -22,6 +22,7 @@ function isCmdExist() {
 
 # TODO: add remove old or bk odl chezmoi and acquire user if to bk or delete
 function init() {
+  mv ~/.local/share/chezmoi ~/.local/share/.chezmoi
   chezmoi init  --depth 1 https://gitlab.com/oeyoews/dotfiles.git
 }
 
