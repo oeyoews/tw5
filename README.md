@@ -7,23 +7,24 @@
 
 ## Installation
 
-```sh
-// sh -c "$(curl -fsSl oeyoew.fun/install-tw5.sh)"
-curl -fsSl oeyoew.fun/install-tw5.sh | bash
+<!--// sh -c "$(curl -fsSl oeyoew.fun/install-tw5.sh)"-->
+
+```bash
+curl -fsSL oeyoew.fun/install-tw5.sh | bash
 ```
 
 ## 🎽 Runing
 
-```tw
+```bash
 yarn install // install dependcies
 yarn start   // start tiddlywiki
 ```
 
-```tw
+```bash
 tiddlywiki <folderName> --init server  // init new folder
 ```
 
-```tw
+```bash
 tiddlywiki --listen port=8080 host=0.0.0.0  // listen 0.0.0.0
 ```
 
