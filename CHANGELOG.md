@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.44.0](https://gitlab.com/oeyoews/tw5/compare/v1.43.3...v1.44.0) (2022-06-07)
+
+
+### Features
+
+* add _config.yml ([d4107d9](https://gitlab.com/oeyoews/tw5/commit/d4107d9fa688d6d6cc51653f6f48c12cadb4bc59))
+
 ## [1.43.3](https://gitlab.com/oeyoews/tw5/compare/v1.43.2...v1.43.3) (2022-06-07)
 
 
