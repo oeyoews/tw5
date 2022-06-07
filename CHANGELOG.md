@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.44.1](https://gitlab.com/oeyoews/tw5/compare/v1.44.0...v1.44.1) (2022-06-07)
+
+
+### Bug Fixes
+
+* commend key repeat ([8480d24](https://gitlab.com/oeyoews/tw5/commit/8480d24f9b48cc47cbcc9be60ab7b0562712ffbb))
+
 # [1.44.0](https://gitlab.com/oeyoews/tw5/compare/v1.43.3...v1.44.0) (2022-06-07)
 
 
