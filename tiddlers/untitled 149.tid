@@ -1,0 +1,9 @@
+created: 20220607025436600
+creator: oeyoews
+modified: 20220607025450983
+modifier: oeyoews
+tags: git
+title: untitled 149
+type: text/vnd.tiddlywiki
+
+`git pull origin stow:stow --depth 1`

@@ -44,6 +44,7 @@ main() {
   isCmdExist chezmoi
   init
   apply
+  echo "If something maybe wrong what you think, you can exec `chezmoi apply`"
 }
 
 main
