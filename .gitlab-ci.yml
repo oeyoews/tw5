@@ -24,7 +24,6 @@ stages:
   - deploy
 
 Release:
-
   # This is part of the release stage
   stage: release
   image: node:16
@@ -32,6 +31,8 @@ Release:
   variables:
     GITLAB_TOKEN: $GITLAB_TOKEN
     #GIT_CLEAN_FLAGS: -fdx -e node_modules/
+  before_script:
+    - yarn install
 
 
 #image: node:latest
@@ -48,7 +49,6 @@ Release:
   # Execute semantic-release to create a new release
   script:
     #- yarn install --frozen-lockfile --no-progress
-    - yarn install
     - yarn semantic-release
 
   #cache:
