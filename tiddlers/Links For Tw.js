@@ -3,3 +3,5 @@
 <link href="https://fonts.googleapis.com/css2?family=Long+Cang&display=swap" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet">
+	
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Patrick+Hand&display=swap" rel="stylesheet">
