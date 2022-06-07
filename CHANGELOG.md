@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.45.0](https://gitlab.com/oeyoews/tw5/compare/v1.44.1...v1.45.0) (2022-06-07)
+
+
+### Bug Fixes
+
+* adjust gitlab-ci order image ([7298f50](https://gitlab.com/oeyoews/tw5/commit/7298f50db19d0b5685a11d8b3a986ef47a0153c8))
+* commend url for jekylla ([2f9b861](https://gitlab.com/oeyoews/tw5/commit/2f9b861fa17b1595d0bb34b48b6076df976637e8))
+* comment gem command ([604fc44](https://gitlab.com/oeyoews/tw5/commit/604fc4464b26f87a5d86426f63e39edf57ebf0fd))
+* remove jekylla ([ec134c4](https://gitlab.com/oeyoews/tw5/commit/ec134c4c45389fd0906df3c5e9ed5f526c7fb1bf))
+* use before_script for semantic ([86da45a](https://gitlab.com/oeyoews/tw5/commit/86da45a191b348ce5f44f8f46fef126232b2660f))
+* use gem command ([7f6209b](https://gitlab.com/oeyoews/tw5/commit/7f6209b4d4ede7eb8ac7528a9d0acd96053e2511))
+
+
+### Features
+
+* try to use jekyll in gitlab ([2b60872](https://gitlab.com/oeyoews/tw5/commit/2b6087262f623f489490f7a457d46451e700df48))
+
 ## [1.44.1](https://gitlab.com/oeyoews/tw5/compare/v1.44.0...v1.44.1) (2022-06-07)
 
 
