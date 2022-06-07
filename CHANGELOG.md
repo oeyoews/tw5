@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.43.2](https://gitlab.com/oeyoews/tw5/compare/v1.43.1...v1.43.2) (2022-06-07)
+
+
+### Bug Fixes
+
+* fix install-dot.sh ([6f74b8b](https://gitlab.com/oeyoews/tw5/commit/6f74b8ba1e0f42041497ce65d64f024212253cfb))
+
 ## [1.43.1](https://gitlab.com/oeyoews/tw5/compare/v1.43.0...v1.43.1) (2022-06-07)
 
 
