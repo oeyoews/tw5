@@ -105,24 +105,24 @@ Release:
     #- if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
 
 # jekyll
-image: ruby:latest
+#image: ruby:latest
 
-variables:
-  JEKYLL_ENV: production
-  LC_ALL: C.UTF-8
+#variables:
+  #JEKYLL_ENV: production
+  #LC_ALL: C.UTF-8
 
-before_script:
-  - gem install bundler
-  - bundle install
+#before_script:
+  #- gem install bundler
+  #- bundle install
 
-pages:
-  only:
-    - tags
-  stage: deploy
-  script:
-  - bundle exec jekyll build -d public
-  artifacts:
-    paths:
-    - public
+#pages:
+  #only:
+    #- tags
+  #stage: deploy
+  #script:
+  #- bundle exec jekyll build -d public
+  #artifacts:
+    #paths:
+    #- public
   #rules:
     #- if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
