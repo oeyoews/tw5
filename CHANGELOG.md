@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.43.1](https://gitlab.com/oeyoews/tw5/compare/v1.43.0...v1.43.1) (2022-06-07)
+
+
+### Bug Fixes
+
+* use jetbrains mono ([4935d6b](https://gitlab.com/oeyoews/tw5/commit/4935d6bc1bf5615f4b6253cc64064ff5c2d9b540))
+
 # [1.43.0](https://gitlab.com/oeyoews/tw5/compare/v1.42.0...v1.43.0) (2022-06-06)
 
 
