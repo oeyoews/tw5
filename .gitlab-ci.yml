@@ -35,7 +35,7 @@ Release:
 #image: node:latest
 #https://docs.gitlab.cn/jh/ci/caching/
   cache:
-    key: $CI_COMMIT_REF_SLUG
+    #key: $CI_COMMIT_REF_SLUG
     key:
       files:
         - yarn.lock
