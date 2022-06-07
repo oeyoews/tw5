@@ -40,6 +40,8 @@ test:
     - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
 
 pages:
+  only:
+    - tags
   stage: deploy
   script:
   - bundle exec jekyll build -d public
