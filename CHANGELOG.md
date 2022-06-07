@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.43.3](https://gitlab.com/oeyoews/tw5/compare/v1.43.2...v1.43.3) (2022-06-07)
+
+
+### Bug Fixes
+
+* add exec zsh for install-dot ([fc99c46](https://gitlab.com/oeyoews/tw5/commit/fc99c460eea4de8a1f241d4decc684184c5c5308))
+
 ## [1.43.2](https://gitlab.com/oeyoews/tw5/compare/v1.43.1...v1.43.2) (2022-06-07)
 
 
