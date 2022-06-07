@@ -1,0 +1,11 @@
+author: Alan Aldrich
+core-version: 5.1.16
+created: 20190818080722200
+dependents: $:/plugins/aaldrich/tables
+description: Task Manager for TiddlyTables
+list: readme
+modified: 20190907184723251
+plugin-type: plugin
+title: $:/plugins/aaldrich/task-manager
+type: application/json
+version: 0.1.9

@@ -31,8 +31,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 # Build settings
 #theme: minima
 theme: jekyll-theme-cayman
-plugins:
-  - jekyll-feed
+
+# Github can't use plugins
+#plugins:
+  #- jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

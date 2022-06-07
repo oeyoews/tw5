@@ -1,0 +1,10 @@
+caption: Task Manager
+created: 20170212202517005
+creator: oeyoews
+modified: 20220607114643385
+modifier: oeyoews
+tags: 
+title: $:/plugins/aaldrich/task-manager/main
+type: text/vnd.tiddlywiki
+
+{{$:/plugins/aaldrich/task-manager/realm-table}}

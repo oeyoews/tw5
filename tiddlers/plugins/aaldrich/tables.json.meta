@@ -1,0 +1,11 @@
+author: Alan Aldrich
+core-version: 5.1.16
+created: 20170212060612535
+dependents: 
+description: TiddlyTables
+list: readme
+modified: 20191210060523145
+plugin-type: plugin
+title: $:/plugins/aaldrich/tables
+type: application/json
+version: 0.6.21
