@@ -16,16 +16,16 @@ curl -fsSL oeyoew.fun/install-tw5.sh | bash
 ## 🎽 Runing
 
 ```bash
-yarn install // install dependcies
-yarn start   // start tiddlywiki
+yarn install  # install dependcies
+yarn start    # start tiddlywiki
 ```
 
 ```bash
-tiddlywiki <folderName> --init server  // init new folder
+tiddlywiki folderName --init server  # init new folder
 ```
 
 ```bash
-tiddlywiki --listen port=8080 host=0.0.0.0  // listen 0.0.0.0
+tiddlywiki --listen port=8080 host=0.0.0.0  # listen 0.0.0.0
 ```
 
 ## ✅ TODO
