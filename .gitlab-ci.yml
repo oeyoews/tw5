@@ -26,7 +26,7 @@ variables:
   LC_ALL: C.UTF-8
 
 before_script:
-  - gem install bundler
+  #- gem install bundler
   - bundle install
 
 pages:
