@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
 <!-- must in root -->
 <link rel="manifest" href="manifest.webmanifest">
 
-<meta name="description" content="Author: oeyoews, Illustrator: a linear notebook with fish">
+<meta name="description" content="Author: oeyoews, Name: FishForYou, Illustrator: a linear notebook with fish">
 <meta name="author" content="oeyoews">
 <meta name="theme-color" content="#073642"/>
 
