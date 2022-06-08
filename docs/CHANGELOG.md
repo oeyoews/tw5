@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.46.1](https://gitlab.com/oeyoews/tw5/compare/v1.46.0...v1.46.1) (2022-06-08)
+
+
+### Bug Fixes
+
+* remove CHANGELOG to docs ([2d3e8a2](https://gitlab.com/oeyoews/tw5/commit/2d3e8a244c4588be90ad3bf5932f67513579bfb6))
+* remove vercel.json ([6021553](https://gitlab.com/oeyoews/tw5/commit/6021553235a0144d6b24ef43b9aebbecf4c2fea7))
+
 # [1.46.0](https://gitlab.com/oeyoews/tw5/compare/v1.45.0...v1.46.0) (2022-06-07)
 
 
