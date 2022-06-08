@@ -3,7 +3,7 @@
 <img alt="GitLab Release (latest by date)" src="https://img.shields.io/gitlab/v/release/oeyoews/tw5">
 <img alt="Gitlab pipeline status" src="https://img.shields.io/gitlab/pipeline-status/oeyoews/tw5?branch=tw6">
 
-## Welcome to [🍻](https://oeyoew.fun)
+## Welcome [🍻](https://oeyoew.fun)
 
 <img src="https://cdn.jsdelivr.net/gh/oeyoews/img/koi-fish.png" width=32 />
 
