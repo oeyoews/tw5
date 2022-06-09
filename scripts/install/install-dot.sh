@@ -41,11 +41,13 @@ function apply() {
 }
 
 main() {
+  # prevent in target to
+  cd /tmp/ || exit
   isCmdExist chezmoi
   init
   apply
   exec zsh
-  echo "If something maybe wrong what you think, you can exec `chezmoi apply`"
+  echo "If something maybe wrong what you think, you can exec chezmoi apply command"
 }
 
 main
