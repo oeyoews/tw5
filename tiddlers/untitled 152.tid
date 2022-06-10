@@ -1,0 +1,10 @@
+created: 20220610072159618
+creator: oeyoews
+modified: 20220610072216108
+modifier: oeyoews
+tags: git
+title: untitled 152
+type: text/vnd.tiddlywiki
+
+git reset head ...
+git checkout xxx
