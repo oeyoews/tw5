@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.47.0](https://gitlab.com/oeyoews/tw5/compare/v1.46.1...v1.47.0) (2022-06-11)
+
+
+### Features
+
+* use zoom-in and disale overflow-x ([cdea525](https://gitlab.com/oeyoews/tw5/commit/cdea5251be0ea691763626df977e9bfb970955c8))
+
 ## [1.46.1](https://gitlab.com/oeyoews/tw5/compare/v1.46.0...v1.46.1) (2022-06-08)
 
 
