@@ -1,0 +1,14 @@
+created: 20220613070121875
+creator: oeyoews
+modified: 20220613070153338
+modifier: oeyoews
+tags: git
+title: untitled 154
+type: text/vnd.tiddlywiki
+
+ssh git@github.com
+PTY allocation request failed on channel 0
+
+`unmount /dev/pts`
+
+https://bobcares.com/blog/pty-allocation-request-failed-on-channel-0/

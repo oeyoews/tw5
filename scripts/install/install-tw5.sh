@@ -27,10 +27,16 @@ function echomsg() {
   echo "🖍️ Please into $TARGET to use it"
 }
 
+function echologo() {
+    # TODO: reference ohmyzsh or spacevim colorful
+    local logo="demo"
+}
+
 main() {
   isCmdExist git || exit
   clone || exit
   echomsg
+  echologo
   isCmdExist tiddlywiki5
 }
 
