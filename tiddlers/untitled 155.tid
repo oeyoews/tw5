@@ -1,0 +1,10 @@
+created: 20220614165524526
+creator: oeyoews
+modified: 20220614165941678
+modifier: oeyoews
+tags: git
+title: untitled 155
+type: text/vnd.tiddlywiki
+
+* `git rebase --interjective`  -- squese multiple commite
+* `git commit --amend` modify last commit message
