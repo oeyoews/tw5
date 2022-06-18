@@ -1,7 +1,7 @@
 caption: sitetitle
 created: 20220322112723685
 creator: @oeyoews
-modified: 20220604062342547
+modified: 20220618135027476
 modifier: oeyoews
 tags: config
 title: $:/config/oeyoews/sitetitle
@@ -20,4 +20,4 @@ FishForYou
 </sup>
 -->
 
-{{$:/config/gradienttext}} {{beer}}
+{{$:/config/gradienttext}} 
