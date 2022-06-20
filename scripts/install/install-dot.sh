@@ -20,9 +20,9 @@ function isCmdExist() {
   which "$cmd" >/dev/null 2>&1
   if [[ $? -ne 0 ]]; then
     echo "🍺 Installing $cmd"
-    sudo pacman -S chezmoi -y
-    # sh -c "$(curl -fL chezmoi.io/get)"
-    # mv ./bin/chezmoi ~/.local/bin/chezmoi
+    # sudo pacman -S chezmoi -y
+    sh -c "$(curl -fL chezmoi.io/get)"
+    mv ./bin/chezmoi ~/.local/bin/chezmoi
   fi
 }
 
@@ -34,7 +34,7 @@ function init() {
   if [[ -d "$TARGET" ]]; then
     rm -rf "$TARGET"
   fi
-    chezmoi init --depth 1 "$URL"
+  chezmoi init --depth 1 "$URL"
 }
 
 function apply() {
