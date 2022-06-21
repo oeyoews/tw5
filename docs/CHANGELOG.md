@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.47.1](https://gitlab.com/oeyoews/tw5/compare/v1.47.0...v1.47.1) (2022-06-21)
+
+
+### Bug Fixes
+
+* remove some fonts ([ddd6e9f](https://gitlab.com/oeyoews/tw5/commit/ddd6e9f21afc1653d58819cdcd6fa32d7c9d0b94))
+
 # [1.47.0](https://gitlab.com/oeyoews/tw5/compare/v1.46.1...v1.47.0) (2022-06-11)
 
 
