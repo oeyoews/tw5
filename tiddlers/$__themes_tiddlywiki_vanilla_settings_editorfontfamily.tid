@@ -1,8 +1,8 @@
 created: 20211226090147293
 creator: oeyoews
-modified: 20220507170826457
+modified: 20220621142735219
 modifier: oeyoews
 title: $:/themes/tiddlywiki/vanilla/settings/editorfontfamily
 type: text/vnd.tiddlywiki
 
-"JetBrains Mono", "Fira Code", "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace
+"SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace
