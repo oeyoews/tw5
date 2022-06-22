@@ -19,10 +19,9 @@ function isCmdExist() {
 
   which "$cmd" >/dev/null 2>&1
   if [[ $? -ne 0 ]]; then
-    echo "🍺 Installing $cmd"
+    echo "¶ Installing $cmd"
     # sudo pacman -S chezmoi -y
-    sh -c "$(curl -fL chezmoi.io/get)"
-    mv ./bin/chezmoi ~/.local/bin/chezmoi
+    sh -c "$(curl -fL chezmoi.io/get)" && mv ./bin/chezmoi ~/.local/bin/chezmoi
   fi
 }
 
@@ -42,7 +41,7 @@ function apply() {
 }
 
 # function misc_settings() {
-#   # for tmux ln -s -f and cp or ln?
+  # for tmux ln -s -f and cp or ln?
 # }
 
 main() {
