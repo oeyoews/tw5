@@ -21,7 +21,9 @@ function isCmdExist() {
   if [[ $? -ne 0 ]]; then
     echo "¶ Installing $cmd"
     # sudo pacman -S chezmoi -y
-    sh -c "$(curl -fL chezmoi.io/get)" && mv ./bin/chezmoi ~/.local/bin/chezmoi
+    sh -c "$(curl -fL chezmoi.io/get)"
+    echo "¶ Installing $cmd successfully"
+    mv ./bin/chezmoi ~/.local/bin/chezmoi
   fi
 }
 
