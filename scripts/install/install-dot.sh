@@ -36,7 +36,7 @@ function init() {
   if [[ -d "$TARGET" ]]; then
     rm -rf "$TARGET"
   fi
-  chezmoi init --depth 1 "$URL"
+  chezmoi init --depth 1 "$URL" || exit
 }
 
 function apply() {
@@ -49,8 +49,8 @@ function apply() {
 
 main() {
   # prevent in target to
-  cd /tmp/ || exit
-  # isCmdExist chezmoi
+  # cd /tmp/ ||  exit
+  isCmdExist chezmoi
   init
   apply
   exec zsh
