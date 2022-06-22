@@ -1,0 +1,11 @@
+created: 20220622104157343
+creator: oeyoews
+modified: 20220622104720939
+modifier: oeyoews
+tags: docker
+title: docker tutorial
+type: text/vnd.tiddlywiki
+
+* systemctl start docker.service
+* docker info
+* docker pull archlinux

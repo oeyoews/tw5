@@ -41,9 +41,9 @@ function apply() {
   chezmoi apply -R
 }
 
-function misc_settings() {
-  # for tmux ln -s -f and cp or ln?
-}
+# function misc_settings() {
+#   # for tmux ln -s -f and cp or ln?
+# }
 
 main() {
   # prevent in target to
