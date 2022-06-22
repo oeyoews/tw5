@@ -19,11 +19,12 @@ function isCmdExist() {
 
   which "$cmd" >/dev/null 2>&1
   if [[ $? -ne 0 ]]; then
-    echo "¶ Installing $cmd"
+    echo "¶ Please insntall chezmoi firstly" && exit
+    # echo "¶ Installing $cmd"
     # sudo pacman -S chezmoi -y
-    sh -c "$(curl -fL chezmoi.io/get)"
-    echo "¶ Installing $cmd successfully"
-    mv ./bin/chezmoi ~/.local/bin/chezmoi
+    # sh -c "$(curl -fL chezmoi.io/get)"
+    # echo "¶ Installing $cmd successfully"
+    # mv ./bin/chezmoi ~/.local/bin/chezmoi
   fi
 }
 
@@ -49,7 +50,7 @@ function apply() {
 main() {
   # prevent in target to
   cd /tmp/ || exit
-  isCmdExist chezmoi
+  # isCmdExist chezmoi
   init
   apply
   exec zsh
