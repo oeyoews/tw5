@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
+![Semantic Release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-Semantic-e10079.svg?style=flat-square)
+![License](https://img.shields.io/badge/License-AGPL--3.0-e10079.svg?style=flat-square&logo=GNU&color=df967f&label=License)
 
 <img src="https://cdn.jsdelivr.net/gh/oeyoews/img/koi-fish.png" width=128/>
 
