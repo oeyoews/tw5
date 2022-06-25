@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Semantic](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-Semantic-e10079.svg?style=flat-square)
+![Semantic](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-Semantic-e10079.svg?style=flat-square&logo=semantic-release)
 ![Github](https://img.shields.io/badge/Github-Yes-green.svg?style=flat-square&logo=github&label=Github)
 ![Gitlab](https://img.shields.io/badge/Gitlab-Yes-ffcc00.svg?style=flat-square&logo=gitlab&label=Gitlab)
 ![Git](https://img.shields.io/badge/GIT-Yes-green.svg?style=flat-square&logo=git&label=GIT)
