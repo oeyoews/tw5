@@ -18,7 +18,9 @@ type: text/vnd.tiddlywiki
 <link rel="manifest" href="manifest.webmanifest">
 
 <meta name="description" content="Author: oeyoews, Name: FishForYou(FFY), description: a linear notebook with fish">
+
 <meta name="author" content="oeyoews">
+
 <meta name="theme-color" content="#073642"/>
 
 <!-- https://realfavicongenerator.net/ -->
