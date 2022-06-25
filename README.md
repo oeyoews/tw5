@@ -12,6 +12,7 @@
 
 </div
 
+<hr>
 
 ## 💉 Install
 
