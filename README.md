@@ -7,6 +7,7 @@
 ![Gitlab](https://img.shields.io/badge/Gitlab-Yes-ffcc00.svg?style=flat-square&logo=gitlab&label=Gitlab)
 ![Git](https://img.shields.io/badge/GIT-Yes-green.svg?style=flat-square&logo=git&label=GIT)
 ![License](https://img.shields.io/badge/License-AGPL--3.0-e10079.svg?style=flat-square&logo=GNU&color=df967f&label=License)
+![GitHub Tag](https://img.shields.io/gitlab/v/tag/oeyoews/tw5?color=green&logo=FastAPI&style=flat-square)
 
 <img src="https://cdn.jsdelivr.net/gh/oeyoews/img/koi-fish.png" width=128/>
 
