@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.48.0](https://gitlab.com/oeyoews/tw5/compare/v1.47.1...v1.48.0) (2022-06-25)
+
+
+### Features
+
+* add new flat-square-badge in index ([b76c0dc](https://gitlab.com/oeyoews/tw5/commit/b76c0dc68eb5e9265d49dd7e3a434cd9a0b100d2))
+
 ## [1.47.1](https://gitlab.com/oeyoews/tw5/compare/v1.47.0...v1.47.1) (2022-06-21)
 
 
