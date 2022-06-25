@@ -32,12 +32,12 @@
 },
 
 "$:/plugins/oeyoews/twm/docs/homepage": {
+    "created": "20220509162413700",
+    "text": "<div style=\"text-align:center\">\n\n\n{{$:/plugins/oeyoews/twm/docs/gradienttext}}\n\n<div align=\"center\">\n<img src=\"https://img.shields.io/badge/System-Linux-white.svg?style=flat-square&logo=linux&logoColor=white&color=BB9AF7\" alt=\"system\">\n<img src=\"https://img.shields.io/gitlab/v/tag/oeyoews/twm?color=green&logo=FastAPI&style=flat-square\" alt=\"tag\">\n<img src=\"https://img.shields.io/badge/Gitlab-Yes-ffcc00.svg?style=flat-square&logo=gitlab&label=Gitlab\" alt=\"gitlab\">\n<img src=\"https://img.shields.io/badge/GIT-Yes-green.svg?style=flat-square&logo=git&label=GIT\" alt=\"git\">\n\n</div>\n\n[img[$:/plugins/oeyoews/twm/icon]]\n\n</div>\n\n\n* ''TWM'' is a music player plugin on Tiddlywiki5 🎵\n* You can edit this tiddler [[Settings|$:/plugins/oeyoews/twm/settings]] to choose  what music playlist  or more optional configuration. For more details， please click the [[README|https://gitlab.com/oeyoews/twm/blob/main/README.md]]  link.\n* [[Jump to 🎵  TWM|$:/plugins/oeyoews/twm]]\n\n{{$:/plugins/oeyoews/twm/footertime}}",
     "title": "$:/plugins/oeyoews/twm/docs/homepage",
     "caption": "HomePage",
-    "created": "20220509162413700",
-    "modified": "20220517091720087",
+    "modified": "20220625082624860",
     "type": "text/vnd.tiddlywiki",
-    "text": "<div style=\"text-align:center\">\n{{$:/plugins/oeyoews/twm/docs/gradienttext}}[img[$:/plugins/oeyoews/twm/icon]]\n\n</div>\n\n[[>>  Jump to 🎵  TWM <<|$:/plugins/oeyoews/twm]]\n\n{{$:/plugins/oeyoews/twm/readme}}\n\n{{$:/plugins/oeyoews/twm/footertime}}",
     "revision": "0",
     "bag": "default"
 },
@@ -88,28 +88,28 @@
 
 "$:/plugins/oeyoews/twm/readme": {
     "created": "20220509151829092",
-    "text": "* ''TWM'' is a music player plugin on Tiddlywiki5 🎵\n* You can edit this tiddler [[Settings|$:/plugins/oeyoews/twm/settings]] to choose  what music playlist  or more optional configuration. For more details， please click the [[README|https://gitlab.com/oeyoews/twm/blob/main/README.md]]  link.\n",
+    "text": "{{$:/plugins/oeyoews/twm/docs/homepage}}\n",
     "title": "$:/plugins/oeyoews/twm/readme",
-    "modified": "20220528004800841",
+    "modified": "20220625082339512",
     "type": "text/vnd.tiddlywiki",
     "revision": "0",
     "bag": "default"
 },
 
 "$:/plugins/oeyoews/twm/settings": {
-    "created": "20211001231029099",
-    "text": "<!-- \nrelative link: https://ftzzloo.com/hexo-add-aplayer-plugins/ \n-->\n\n<!-- \noption: lrc-type=\"0\" \ndescription: disable show lrc -->\n\n<!--\noption:  theme=\"cyan\" \ndescription: change theme color to cyan\n-->\n\n<!--\noption: server=\"netease\"\ndescrition: chose music platform to \"netease\"\n-->\n\n<!-- \noption: order=\"random\"  \ndes: music player order is random\n-->\n\n<!-- \noption: id=\"3218667513\"\ndes: chose music id\n-->\n\n\n`<meting-js \n        id=\"3218667513\"\n        server=\"netease\"\n        order=\"random\" \n        type=\"playlist\" \n        fixed=\"true\" \n        preload=\"auto\"\n        loop=\"all\"\n        mutex=\"true\"\n\t\t\t\tlrc-type=\"0\"\n        list-olded=\"true\"\n>`\n`</meting-js>`",
     "title": "$:/plugins/oeyoews/twm/settings",
+    "caption": "BodyFooter",
+    "code-body": "yes",
+    "created": "20211001231029099",
     "creator": "Télumire",
     "modified": "20220528004440193",
     "modifier": "oeyoews",
+    "tagging": "after",
     "tags": "$:/tags/RawMarkupWikified/BottomBody",
     "type": "text/vnd.tiddlywiki",
-    "bag": "default",
-    "caption": "BodyFooter",
-    "code-body": "yes",
-    "tagging": "after",
-    "revision": "1"
+    "text": "<!-- \nrelative link: https://ftzzloo.com/hexo-add-aplayer-plugins/ \n-->\n\n<!-- \noption: lrc-type=\"0\" \ndescription: disable show lrc -->\n\n<!--\noption:  theme=\"cyan\" \ndescription: change theme color to cyan\n-->\n\n<!--\noption: server=\"netease\"\ndescrition: chose music platform to \"netease\"\n-->\n\n<!-- \noption: order=\"random\"  \ndes: music player order is random\n-->\n\n<!-- \noption: id=\"3218667513\"\ndes: chose music id\n-->\n\n\n`<meting-js \n        id=\"3218667513\"\n        server=\"netease\"\n        order=\"random\" \n        type=\"playlist\" \n        fixed=\"true\" \n        preload=\"auto\"\n        loop=\"all\"\n        mutex=\"true\"\n\t\t\t\tlrc-type=\"0\"\n        list-olded=\"true\"\n>`\n`</meting-js>`",
+    "revision": "0",
+    "bag": "default"
 },
 
 "$:/plugins/oeyoews/twm/style": {
@@ -156,10 +156,10 @@
 },
 
 "Hello TWM": {
-    "title": "Hello TWM",
     "created": "20220510122206130",
+    "title": "Hello TWM",
     "icon": "🎉",
-    "modified": "20220517090048587",
+    "modified": "20220625082353430",
     "page-cover": "https://source.unsplash.com/random",
     "tags": "docs",
     "type": "text/vnd.tiddlywiki",
