@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.49.0](https://gitlab.com/oeyoews/tw5/compare/v1.48.0...v1.49.0) (2022-07-20)
+
+
+### Features
+
+* upgrade plugins ([6f7a27e](https://gitlab.com/oeyoews/tw5/commit/6f7a27e3e2ae8cb2963f4fda894897048eef025e))
+
 # [1.48.0](https://gitlab.com/oeyoews/tw5/compare/v1.47.1...v1.48.0) (2022-06-25)
 
 
