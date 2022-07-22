@@ -58,4 +58,4 @@ tiddlywiki --listen port=8080 host=0.0.0.0  # listen 0.0.0.0
 
 ## 🔫 CHANGELOG
 
-[CHANGELOG](CHANGELOG.md)
+[CHANGELOG](docs/CHANGELOG.md)
