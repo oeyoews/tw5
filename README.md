@@ -19,6 +19,8 @@
 
 <hr>
 
+# Table Of Contents
+
 <!-- vim-markdown-toc GitLab -->
 
 * [📢 What's the tw5?](#-whats-the-tw5)
