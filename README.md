@@ -19,19 +19,46 @@
 
 <hr>
 
+<!-- vim-markdown-toc GitLab -->
+
+* [📢 What's the tw5?](#-whats-the-tw5)
+* [ShowCases](#showcases)
+* [⛴️  Features](#-features)
+* [🧳 Install](#-install)
+* [🏡 Running](#-running)
+* [🌳 TODO](#-todo)
+* [🔫 CHANGELOG](#-changelog)
+
+<!-- vim-markdown-toc -->
+
+## 📢 What's the tw5?
+
+> coming
+
 ## ShowCases
 
 <div align="center">
   <img src="img/preview.png" alt="preview" width=512/>
 </div>
 
-## 📢 What's the tw5?
+## ⛴️  Features
 
-> coming
-
-## ⛴️ Features
-
-> coming
+* customize file struct, ui and etc
+* base web browser
+* support vercel
+* support simple gtd todo
+* embed music player and hitokoto
+* change font easily
+* note manager
+* diary support
+* support export pdf, markdown, html
+* customize shortkeys
+* powerful search
+* random notes
+* support pwa devops
+* hundurds of plugins, many themes
+* support multiple language
+* save all data in local
 
 ## 🧳 Install
 
