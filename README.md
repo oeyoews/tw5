@@ -21,7 +21,9 @@
 
 ## ShowCases
 
-<img src="img/preview.png" alt="preview" width=256/>
+<div align="center">
+  <img src="img/preview.png" alt="preview" width=512/>
+</div>
 
 ## 📢 What's the tw5?
 
