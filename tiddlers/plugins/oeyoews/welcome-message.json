@@ -15,10 +15,10 @@
 
 "$:/plugins/oeyoews/welcome-message/Hello-TiddlyWiki5": {
     "created": "20220521173616898",
-    "text": "🍺 Welcom to Here",
+    "text": "{{$:/plugins/oeyoews/welcome-message/icon}} Welcom to Here",
     "title": "$:/plugins/oeyoews/welcome-message/Hello-TiddlyWiki5",
     "creator": "oeyoews",
-    "modified": "20220604064300792",
+    "modified": "20220722073713834",
     "modifier": "oeyoews",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
@@ -28,10 +28,10 @@
 
 "$:/plugins/oeyoews/welcome-message/icon": {
     "created": "20220528063015709",
-    "text": "🍺",
+    "text": "🏡",
     "title": "$:/plugins/oeyoews/welcome-message/icon",
-    "type": "",
-    "modified": "20220604064238858",
+    "modified": "20220722073621989",
+    "type": "text/vnd.tiddlywiki",
     "revision": "0",
     "bag": "default"
 },
