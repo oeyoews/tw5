@@ -19,19 +19,25 @@
 
 <hr>
 
-## What's the tw5?
+## ShowCases
+
+<img src="img/preview.png" alt="preview" width=256/>
+
+## 📢 What's the tw5?
 
 > coming
 
-##  Features
+## ⛴️ Features
 
-##  Install
+> coming
+
+## 🧳 Install
 
 ```bash
 curl -fsSL oeyoew.fun/install-tw5.sh | bash
 ```
 
-## ﰌ Running
+## 🏡 Running
 
 ```bash
 yarn install  # install dependencies
@@ -46,10 +52,10 @@ tiddlywiki folderName --init server  # init new folder
 tiddlywiki --listen port=8080 host=0.0.0.0  # listen 0.0.0.0
 ```
 
-## 🐥 TODO
+## 🌳 TODO
 
 [TODO](docs/TODO.md)
 
-## 🎅 CHANGELOG
+## 🔫 CHANGELOG
 
 [CHANGELOG](CHANGELOG.md)
