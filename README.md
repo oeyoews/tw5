@@ -19,13 +19,19 @@
 
 <hr>
 
-## 💉 Install
+## What's the tw5?
+
+> coming
+
+##  Features
+
+##  Install
 
 ```bash
 curl -fsSL oeyoew.fun/install-tw5.sh | bash
 ```
 
-## 🥪 Running
+## ﰌ Running
 
 ```bash
 yarn install  # install dependencies
