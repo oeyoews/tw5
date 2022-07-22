@@ -35,7 +35,7 @@
 
 ## 📢 What's the tw5?
 
-> coming
+* customize tiddlywiki5
 
 ## ShowCases
 
