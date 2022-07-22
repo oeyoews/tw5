@@ -11,15 +11,17 @@
 },
 
 "$:/plugins/oeyoews/gh-repo-btn/core": {
-    "title": "$:/plugins/oeyoews/gh-repo-btn/core",
     "created": "20220722065118691",
-    "list-after": "",
-    "modified": "20220722074537036",
+    "text": "\\whitespace trim\n<$button tooltip=\"🏡 jump github repo\" aria-label=\"GRB\" class=<<tv-config-toolbar-class>>>\n{{$:/plugins/oeyoews/gh-repo-btn/link-to-img}}\n<!--\n<$list filter=\"[<tv-config-toolbar-text>match[yes]]\">\n<span class=\"tc-btn-text\"><$text text=\"🏡 github button\"/></span>\n</$list>\n-->\n</$button>",
+    "title": "$:/plugins/oeyoews/gh-repo-btn/core",
+    "modified": "20220722112407230",
     "tags": "$:/tags/PageControls",
     "type": "text/vnd.tiddlywiki",
-    "text": "\\whitespace trim\n<$button tooltip=\"grb\" aria-label=\"GRB\" class=<<tv-config-toolbar-class>>>\n<$list filter=\"[<tv-config-toolbar-icons>match[yes]]\">\n{{$:/plugins/oeyoews/gh-repo-btn/link-to-img}}\n</$list>\n<$list filter=\"[<tv-config-toolbar-text>match[yes]]\">\n<span class=\"tc-btn-text\">\n<$text text=\"GRB\"/>\n</span>\n</$list>\n</$button>",
-    "revision": "0",
-    "bag": "default"
+    "bag": "default",
+    "list-after": "",
+    "description": "github repo button",
+    "caption": "{{$:/core/images/github}} github button",
+    "revision": "12"
 },
 
 "$:/plugins/oeyoews/gh-repo-btn/docs/preview": {
@@ -44,26 +46,26 @@
 },
 
 "$:/plugins/oeyoews/gh-repo-btn/link-to-img": {
-    "title": "$:/plugins/oeyoews/gh-repo-btn/link-to-img",
     "created": "20220722065923656",
-    "modified": "20220722100840541",
+    "text": "<a href=\"https://github.com/oeyoews/tw5\" target=\"_blank\">\n{{$:/core/images/github}}</a>",
+    "title": "$:/plugins/oeyoews/gh-repo-btn/link-to-img",
+    "modified": "20220722112347524",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
-    "text": "<a href=\"https://github.com/oeyoews/tw5\" target=\"_blank\">\n{{$:/core/images/github}}\n</a>",
-    "revision": "0",
-    "bag": "default"
+    "bag": "default",
+    "revision": "1"
 },
 
 "$:/plugins/oeyoews/gh-repo-btn/readme": {
-    "created": "20220722071635110",
-    "text": "!! WIP\n\n!! Preview\n\n[img width=512 [$:/plugins/oeyoews/gh-repo-btn/docs/preview]]",
     "title": "$:/plugins/oeyoews/gh-repo-btn/readme",
+    "created": "20220722071635110",
+    "icon": "$:/core/images/github",
     "modified": "20220722101416178",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
+    "text": "!! WIP\n\n!! Preview\n\n[img width=512 [$:/plugins/oeyoews/gh-repo-btn/docs/preview]]",
     "revision": "0",
-    "bag": "default",
-    "icon": "$:/core/images/github"
+    "bag": "default"
 },
 
 "oeyoews/grb": {
