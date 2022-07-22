@@ -3,16 +3,13 @@ node_modules
 yarn-error.log
 .yarn-cache
 
-
 # linux system
 nohup*
 .log.txt
 
-
 # submodule
 subwiki
-img
-
+/* img */
 
 # some ignore folder
 localignore
