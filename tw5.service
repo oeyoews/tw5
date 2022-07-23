@@ -6,4 +6,4 @@ WorkingDirectory=/home/oeyoews/REPOS/TiddlyWiki5
 ExecStart=/usr/bin/tiddlywiki --listen port=8090 anon-username=oeyoews use-browser-cache=yes gzip=yes
 
 [Install]
-WantedBy=multi-user.target
+WantedBy=default.target
