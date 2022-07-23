@@ -27,6 +27,7 @@
 * [ShowCases](#showcases)
 * [⛴️  Features](#-features)
 * [🧳 Install](#-install)
+* [as service with user](#as-service-with-user)
 * [🏡 Running](#-running)
 * [🌳 TODO](#-todo)
 * [🔫 CHANGELOG](#-changelog)
@@ -66,6 +67,14 @@
 
 ```bash
 curl -fsSL oeyoew.fun/install-tw5.sh | bash
+```
+
+## as service with user
+
+```bash
+cp tw5.service ~/.config/systemd/user
+systemctl --user daemon-reload
+systemctl --user start tw5.service
 ```
 
 ## 🏡 Running
