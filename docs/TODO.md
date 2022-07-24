@@ -7,17 +7,18 @@
 
 ## DONE
 
+* [ ] todo: landscape force in mobile
 * [x] fix: how to fix loading animation in ios
 * [x] fix: fix ios main icon
 * [x] todo: add maskable icon(for apk install this icon is big in square firstly)
 * [x] todo: fix autofocus in mobilephone
   * [link](https://blog.csdn.net/LLL_liuhui/article/details/80650904)
-* [x] __crontab__: use timer or crontab to push automaticaly with smtp
+* [x] __crontab__: use timer or crontab to push automatically with smtp
 * [x] __precache__: use workbox-cli to precache offline(or use workbox-build)
 * [x] fix: adjust toolip repeat for android
-* [x] fix: better eng creat btn
-* [x] feat: add slip button hover annoation like vercel
-* [x] feat: come ture pwa really, like notion neovim website, can be recognized by chrome
+* [x] fix: better eng create btn
+* [x] feat: add slip button hover annotation like vercel
+* [x] feat: come true pwa really, like notion neovim website, can be recognized by chrome
 * [x] todo: add seo
 * [x] fix: in sarifai browser, can't offline really and google can't refresh seemly
 * [x] feat: use fontawesome as external link, such to gitlab repo
@@ -64,7 +65,7 @@
 * [x] use tree intrepet some dires
 * [x] use yarn.lock, this vercel time very fast
 * [x] use devtools add friendly tips, like gitlab console
-* [x] todo: use blur attribut for fishing button
+* [x] todo: use blur attribute for fishing button
 * [x] bug: heatmap and calendar have some performance with jump specific tiddler
 * [x] feat: hide some private tiddlers
 * [x] fix: fix mouse hover
@@ -214,14 +215,14 @@
 * [x] question: http-server differ tw5(how to visit files in local)
 * [x] todo: learn webpack
 * [x] todo: test apple icon use gitee copy simple projects
-* [x] fix: refresh to skiping waiting, not automaticaly
+* [x] fix: refresh to skipping waiting, not automatically
 * [x] todo: add button colorful
 * [x] todo: search notify class
 * [x] todo: add icon in phone browser home, link linonetwo's wiki
 * [x] todo: dynamic load css [Text](https://blog.csdn.net/yunchong_zhao/article/details/103627865)
 * [x] fix: fix phone's unfold button in fishingmode
 * [x] feat: finish android app for fishforyou
-* [x] feat: add shortkeys for creat words button
+* [x] feat: add shortkeys for create words button
 * [x] feat: add swift app for fish web
 * [x] feat: learn electron
 * [x] feat: use pwa sw to send message tooltip click button
@@ -232,5 +233,3 @@
 * [x] todo: learn use workbox(or service) debug in local debug.sh folder
 * [x] todo: realize loading animation for tw
 * [x] feat: learn install before event for pwa(optimic its logic add adjust if install)
-
-
