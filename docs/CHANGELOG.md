@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.51.0](https://gitlab.com/oeyoews/tw5/compare/v1.50.0...v1.51.0) (2022-07-24)
+
+
+### Features
+
+* **img:** add base64 img ([25bd42b](https://gitlab.com/oeyoews/tw5/commit/25bd42b6f31418d62291b0c07f9d0ed304eddc8d))
+
 # [1.50.0](https://gitlab.com/oeyoews/tw5/compare/v1.49.0...v1.50.0) (2022-07-23)
 
 
