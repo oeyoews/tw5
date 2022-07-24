@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.52.0](https://gitlab.com/oeyoews/tw5/compare/v1.51.0...v1.52.0) (2022-07-24)
+
+
+### Features
+
+* **protrait:** use x5-orientation ([a53bd6d](https://gitlab.com/oeyoews/tw5/commit/a53bd6ddc6703f027555dc294419f9efdbfaffc0))
+
 # [1.51.0](https://gitlab.com/oeyoews/tw5/compare/v1.50.0...v1.51.0) (2022-07-24)
 
 
