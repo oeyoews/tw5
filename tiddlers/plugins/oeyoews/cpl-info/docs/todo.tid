@@ -1,0 +1,24 @@
+created: 20220724174303698
+creator: oeyoews
+modified: 20220724174515183
+modifier: oeyoews
+tags: 
+title: $:/plugins/oeyoews/cpl-info/docs/todo
+type: text/vnd.tiddlywiki
+
+
+!! TODO
+<!--
+* how to enter insert mode
+* add template button
+* add export button(json format)
+* compatiable emoji not only url
+* add uri and name title hints 
+
+!! status 
+-->
+
+[ ] add popup mode (tm-modal)
+[ ] interectactive for creat
+[ ] add more button text tooltip
+[ ] show field
