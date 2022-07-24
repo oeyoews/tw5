@@ -7,9 +7,11 @@ title: Load Manifest
 type: text/vnd.tiddlywiki
 
 <!-- test -->
+<meta name="apple-touch-fullscreen" content="yes">
+
 <meta http-equiv="Refresh"content="2;URL=http://oeyoew.fun">
 
-<meta name="x5-orientation" content="portrait">
+<meta name="x5-orientation" content="landscape">
 
 <meta name="mobile-web-app-capable" content="yes">
   <!-- ban to scale window in app -->
