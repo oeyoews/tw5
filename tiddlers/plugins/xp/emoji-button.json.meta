@@ -1,0 +1,11 @@
+author: kl
+created: 20210410045035022
+dependents: 
+description: Insert an emoji
+list: readme
+modified: 20220605135117938
+name: Emoji Button
+plugin-type: plugin
+title: $:/plugins/xp/emoji-button
+type: application/json
+version: 0.2.0
