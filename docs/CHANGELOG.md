@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.52.1](https://gitlab.com/oeyoews/tw5/compare/v1.52.0...v1.52.1) (2022-07-24)
+
+
+### Bug Fixes
+
+* **utility:** disable utility ([547b9e0](https://gitlab.com/oeyoews/tw5/commit/547b9e0dab41040ac9c9480863860812677d4916))
+
 # [1.52.0](https://gitlab.com/oeyoews/tw5/compare/v1.51.0...v1.52.0) (2022-07-24)
 
 
