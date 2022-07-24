@@ -25,7 +25,8 @@
     "test": "bash scripts/test.sh",
     "clean": "rm -rf public test",
     "sitemap": "tiddlywiki --output public/ --render sitemap sitemap.xml text/plain",
-    "start": "tiddlywiki  --listen port=8080"
+    "start": "tiddlywiki  --listen port=8080",
+    "debug": "tiddlywiki  --listen port=8080 host=0.0.0.0"
   },
   "dependencies": {
     "@semantic-release/changelog": "^6.0.1",
