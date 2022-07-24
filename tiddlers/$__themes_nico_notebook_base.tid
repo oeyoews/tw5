@@ -20,7 +20,6 @@ type: text/vnd.tiddlywiki
   </$reveal>
 \end
 
-
 /** this function is repeat for theme
 * Hide toolbar buttons if not hover
 * From tb_demo_onhover-toolbar-styles
@@ -35,14 +34,13 @@ type: text/vnd.tiddlywiki
 }
 */
 
-
 /**
   link-style@oeyoews
   NOTE: not use padding
 */
 
 a.tc-tiddlylink, a.tc-tiddlylink:hover {
-  /*NOTE: toolbar can't wrap autmatically, need use more button to occury one all signle line*/
+  /*NOTE: toolbar can't wrap automatically, need use more button to occury one all single line*/
   white-space: normal;
   word-break: break-word;
   overflow: hidden;
@@ -89,7 +87,6 @@ a.tc-tiddlylink-external:hover {
 	border-bottom: 2px solid #2aa198;
   /*text-decoration: underline;*/
 }
-
 
 /** Tag style */
 button.tc-tag-label, span.tc-tag-label {
@@ -162,7 +159,6 @@ button.tc-unfold-banner {
   text-align: center;
   border: none;
 }
-
 
 /* == Top and bottom bars == */
 
@@ -239,7 +235,6 @@ h1.tc-site-title {
   /* The z-index needs to be above the z-index used in tiddlers in zoomin view */
   z-index: 501;
 }
-
 
 .nc-bar .left svg {
   fill: <<colour sidebar-controls-foreground>>;
@@ -664,7 +659,6 @@ button.tc-btn-invisible {
 }
 """>>
 
-
 html, body {
   font-family: {{$:/themes/nico/notebook/settings/fontfamily}};
 }
@@ -765,7 +759,6 @@ div.tc-tab-buttons button.tc-tab-selected {
    -webkit-flex: 0 0 auto;
    flex: 0 0 auto;
 }
-
 
 /* Dropdowns */
 @keyframes pop {
