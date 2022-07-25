@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.54.0](https://gitlab.com/oeyoews/tw5/compare/v1.53.0...v1.54.0) (2022-07-25)
+
+
+### Features
+
+* **button:** split button ([0c77a20](https://gitlab.com/oeyoews/tw5/commit/0c77a20b44c1186186b5568d9a36b958333115b2))
+
 # [1.53.0](https://gitlab.com/oeyoews/tw5/compare/v1.52.1...v1.53.0) (2022-07-25)
 
 
