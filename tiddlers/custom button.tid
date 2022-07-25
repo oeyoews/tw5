@@ -1,0 +1,147 @@
+created: 20220725044256403
+creator: oeyoews
+modified: 20220725045040714
+modifier: oeyoews
+tags: $:/tags/Stylesheet
+title: custom button
+type: text/vnd.tiddlywiki
+
+/** this function is repeat for theme
+* Hide toolbar buttons if not hover
+* From tb_demo_onhover-toolbar-styles
+.tc-tiddler-frame .tc-titlebar button {
+  opacity: 0;
+  transition: opacity .5s ease-in-out;
+}
+.tc-tiddler-frame:hover .tc-titlebar button {
+  zoom: 1;
+  filter: alpha(opacity=100);
+  opacity: 1;
+}
+*/
+
+/**
+  link-style@oeyoews
+  NOTE: not use padding
+*/
+
+a.tc-tiddlylink, a.tc-tiddlylink:hover {
+  /*NOTE: toolbar can't wrap automatically, need use more button to occury one all single line*/
+  white-space: normal;
+  word-break: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: none;
+  /*line-height: 1.3em;*/
+  color: <<colour tiddler-link-foreground>>;
+	/**  remove sidebar and link title dire underline <<colour tiddler-link-underline>>*/
+  /*border-bottom: none;*/
+  border: none;
+  text-decoration: none;
+  /** hover动画 */
+  /*transition: opcity ease-in 0s;*/
+  /*transition: .1s 0.1s;*/
+  border-radius: 3px;
+  /*bug: for search wrong*/
+  /*padding: 2px 5px 3px 4px;*/
+}
+a.tc-tiddlylink:hover {
+  /*background-color: <<colour page-background>>;*/
+  background-color: #063d4b;
+  color: <<colour tiddler-link-foreground>>;
+  /*text-decoration: underline;*/
+}
+
+a.tc-tiddlylink-external, a.tc-tiddlylink-external:visited {
+	padding: 2px;
+  padding-bottom: 0px;
+	text-decoration: none;
+  box-decoration-break: clone;
+  font-weight: normal;
+  color: <<external-link-foreground>>;
+}
+
+a.tc-tiddlylink-external:hover {
+  /*background-color: <<colour external-link-background-hover>>;*/
+  /*background-image: <<colour external-link-background-clip-image>>;*/
+  /*background-clip: border-box;*/
+  /*-webkit-background-clip: text;*/
+  /*-webkit-text-fill-color: none;*/
+  background-color: <<colour page-background>>;
+  color: <<colour tiddler-link-foreground>>;
+	/*border-bottom: 1px solid #268bd2;*/
+	border-bottom: 2px solid #2aa198;
+  /*text-decoration: underline;*/
+}
+
+/** Tag style */
+button.tc-tag-label, span.tc-tag-label {
+  border-radius: 3px;
+  background-color: <<colour tag-background>>;
+  color: <<colour foreground>>;
+  /** hover动画 */
+  /** 适配长标题作为标签的情况 */
+  white-space: normal;
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  /*padding: 0.4em 0.5em 0.2em 0.5em;*/
+  padding: 0.4em 0.6em 0.2em;
+}
+button.tc-tag-label, span.tc-tag-label:hover {
+  background-color: none;
+  /*border-radius: 6px !important;*/
+}
+
+/**
+  按钮样式
+  BREAK: not fit rounded style
+*/
+
+/** 除了工具栏上的按钮以外，其它按钮 */
+button:not(.tc-btn-invisible) {
+  color: <<colour button-foreground>>;
+  background-color: <<colour button-background>>;
+  padding: 3px 3px;
+  margin: 0px;
+  /*弧度*/
+  border-radius: 3px;
+  border: <<colour button-border>>;
+  cursor: pointer;
+  /** hover动画 */
+  transition: .2s cubic-bezier(.23,1,.32,1), 2s cubic-bezier(.23,1,.32,1),transform .3s cubic-bezier(.23,1,.32,1);
+}
+
+button:not(.tc-btn-invisible):hover {
+  background-color: <<colour button-background-hover>>;
+}
+
+button:not(.tc-btn-invisible) svg {
+	fill: <<colour tab-foreground>>;
+}
+
+/** 收合栏，修复由于 button:not(.tc-tab-selected) 带来的样式。没法在那边 not ，因为 not 列表太长会导致优先级过高 */
+/* THis order is very important */
+/*BREAK: in phone this unfold can't see*/
+button.tc-fold-banner {
+  position: absolute;
+  padding: 0px;
+  /*margin: 0;*/
+  background: none;
+  border: yes;
+  width: 23px;
+  text-align: center;
+  margin-left: -50px;
+  top: 25px;
+  bottom: 25px;
+}
+button.tc-unfold-banner {
+  position: unset;
+  padding: 2px 0;
+  margin-top: 20px;
+  background: none;
+  width: 100%;
+  width: calc(100% + 2px);
+  margin-left: -3px;
+  text-align: center;
+  border: none;
+}
