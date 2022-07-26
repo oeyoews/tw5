@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://gitlab.com/oeyoews/tw5/compare/v2.0.0...v2.1.0) (2022-07-26)
+
+
+### Features
+
+* **notebook:** remove base and enable switch theme ([e675a15](https://gitlab.com/oeyoews/tw5/commit/e675a156f0022d1b8f8e23710b2ede9189eddd39))
+
 # [2.0.0](https://gitlab.com/oeyoews/tw5/compare/v1.54.0...v2.0.0) (2022-07-26)
 
 
