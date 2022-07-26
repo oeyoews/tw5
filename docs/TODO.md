@@ -7,6 +7,7 @@
 
 ## DONE
 
+* [ ] switch theme button ui
 * [ ] todo: landscape force in mobile
 * [x] fix: how to fix loading animation in ios
 * [x] fix: fix ios main icon
