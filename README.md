@@ -41,6 +41,7 @@
 ## ShowCases
 
 * Demo: [preview address](https://oeyoew.fun) or [tw5 vercel address](https://tw5s.vercel.app/)
+* Video Demo: [preview video](https://www.bilibili.com/video/BV13a411D7G6?spm_id_from=333.999.0.0)
 * Code: [gitlab](https://gitlab.com/oeyoews/tw5) and [github](https://github.com/oeyoews/tw5)
 
 <div align="center">
