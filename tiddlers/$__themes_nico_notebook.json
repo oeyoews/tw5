@@ -1,91 +1,56 @@
 {"tiddlers": {
-"$:/config/Search/AutoFocus": {
-    "title": "$:/config/Search/AutoFocus",
-    "text": "false"
-},
-
-"$:/config/ShortcutInfo/notebook-focus-search": {
-    "title": "$:/config/ShortcutInfo/notebook-focus-search",
-    "text": "Focus on the topbar search field"
-},
-
-"$:/config/shortcuts/notebook-focus-search": {
-    "title": "$:/config/shortcuts/notebook-focus-search",
-    "created": "20220106043757586",
-    "creator": "oeyoews",
-    "modified": "20220212110049327",
-    "modifier": "oeyoews",
-    "type": "text/vnd.tiddlywiki",
-    "text": "alt-Q",
-    "revision": "0",
-    "bag": "default"
-},
-
-"$:/config/shortcuts/sidebar-search": {
-    "title": "$:/config/shortcuts/sidebar-search",
-    "text": ""
-},
-
-"$:/core/ui/PageTemplate/sidebar": {
-    "title": "$:/core/ui/PageTemplate/sidebar",
-    "created": "20200430072116835",
-    "modified": "20201217174129501",
-    "type": "text/vnd.tiddlywiki",
-    "text": "\\whitespace trim\n\\define config-title()\n$:/config/SideBarSegments/Visibility/$(listItem)$\n\\end\n\nOverwritten by $:/themes/nico/notebook so that the default sidebar does not get rendered.\n"
-},
-
 "$:/themes/nico/notebook/base": {
     "title": "$:/themes/nico/notebook/base",
     "created": "20200419141443144",
     "creator": "oeyoews",
-    "modified": "20220216233005001",
-    "modifier": "oeyoews",
+    "modified": "20220310140301952",
+    "modifier": "@oeyoews",
     "tags": "$:/tags/Stylesheet",
     "type": "text/vnd.tiddlywiki",
-    "text": "\\rules only filteredtranscludeinline transcludeinline macrodef macrocallinline\n\n\\define if-sidebar(text)\n  <$reveal state=\"$:/state/notebook-sidebar\" type=\"match\" text=\"yes\">\n    $text$\n  </$reveal>\n\\end\n\n\\define if-reveal-tiddler-controls-on-hover(text)\n  <$reveal state=\"$:/themes/nico/notebook/options/reveal-tiddler-controls-on-hover\" type=\"match\" text=\"yes\">\n    $text$\n  </$reveal>\n\\end\n\n\n/**\n  链接样式\n*/\n\na.tc-tiddlylink, a.tc-tiddlylink:hover {\n  /*padding: 1px;*/\n  /*padding-bottom: 0;*/\n  white-space: normal;\n  word-break: break-all;\n  overflow: hidden;\n  text-overflow: ellipsis;\n  font-weight: none;\n  /*line-height: 1.3;*/\n  color: <<colour tiddler-link-foreground>>;\n\t/**  remove sidebar dire underline <<colour tiddler-link-underline>>*/\n  border-bottom: none;\n  text-decoration: none;\n  /** hover动画 */\n  transition: background 120ms ease-in 0s;\n}\na.tc-tiddlylink:hover {\n  background-color: <<colour page-background>>;\n  color: <<colour tiddler-link-foreground>>;\n}\n\na.tc-tiddlylink-external, a.tc-tiddlylink-external:visited {\n\tpadding: 2px;\n  padding-bottom: 0px;\n\t/** remove underline <<colour external-link-underline>>; */\n\tborder-bottom: none;\n\ttext-decoration: none;\n  box-decoration-break: clone;\n  font-weight: normal;\n  color: <<external-link-foreground>>;\n}\n\na.tc-tiddlylink-external:hover {\n  background-color: <<colour external-link-background-hover>>;\n  background-image: <<colour external-link-background-clip-image>>;\n  background-clip: border-box;\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: none;\n}\n\n/** it's it 预览状态标签下拉列表里的链接 <<colour page-background>> */\n.tc-drop-down a.tc-tiddlylink:hover {\n  background-color: lightcyan;\n  color: <<colour tiddler-link-foreground>>;\n}\n/** 编辑器标签下拉列表当前鼠标悬浮状态的颜色\n*/\n.tc-block-dropdown a {\n  transition: background-color 0.2s;\n}\n.tc-block-dropdown a:hover {\n  background-color: <<colour dropdown-background>>;\n}\n\n/** 顶部标题栏半透明\n:root {\n  --menubar-height: 29px;\n}\n\n.tc-tiddler-title {\n  background: <<colour tiddler-title-background>>;\n  backdrop-filter: blur(10px);\n  /** fix menubar with sticky title https://github.com/Jermolene/TiddlyWiki5/issues/4471#issuecomment-594456486*/\n  top: var(--menubar-height);\n  /*font-size: 1.5em !important;*/\n}\n*/\n\n/** 编辑器工具栏 <<colour tiddler-editor-background>>\n/*effect tag square button*/\n*/\n.tc-editor-toolbar {\n  background: <<colour tiddler-editor-background>>;\n  backdrop-filter: blur(10px);\n\t/** sticky  or none */\n  position: none;\n  top: 92px;\n  z-index: 1000;\n}\n.tc-tiddler-preview {\n  overflow: unset;\n}\n.tc-block-dropdown {\n  z-index: 1001;\n}\n\n/** 标签 */\nbutton.tc-tag-label, span.tc-tag-label {\n  border-radius: 3px;\n  background-color: <<colour tag-background>>;\n  color: <<colour foreground>>;\n  /** hover动画 */\n  transition: background-color 0.2s;\n  /** 适配长标题作为标签的情况 */\n  white-space: normal;\n  margin-top: 0.1em;\n  margin-bottom: 0.1em;\n}\nbutton.tc-tag-label, span.tc-tag-label:hover {\n  /** hover tag color <<colour tag-background-hover>> */\n  background-color: none;\n}\n\n/**\n  按钮样式\n  BREAK: not fit rounded style\n*/\n\n/** 除了工具栏上的按钮以外，其它按钮 */\nbutton:not(.tc-btn-invisible) {\n  color: <<colour button-foreground>>;\n  background-color: <<colour button-background>>;\n  padding: 5px 5px;\n  margin: 1px;\n  /*弧度*/\n  border-radius: 5px;\n  border: <<colour button-border>>;\n  cursor: pointer;\n  /** hover动画 */\n  transition: background-color 0.2s;\n}\nbutton:not(.tc-btn-invisible):hover {\n\tbackground-color: <<colour button-background-hover>>;\n}\n\nbutton:not(.tc-btn-invisible) svg {\n\tfill: <<colour tab-foreground>>;\n}\n\n/** 收合栏，修复由于 button:not(.tc-tab-selected) 带来的样式。没法在那边 not ，因为 not 列表太长会导致优先级过高 */\n/*THis order is very important*/\nbutton.tc-fold-banner {\n  position: absolute;\n  padding: 0;\n  margin: 0;\n  background: none;\n  border: yes;\n  width: 23px;\n  text-align: center;\n  margin-left: -35px;\n  top: 6px;\n  bottom: 6px;\n}\nbutton.tc-unfold-banner {\n  position: unset;\n  padding: 0;\n  margin: 0;\n  background: none;\n  border: none;\n  width: 100%;\n  width: calc(100% + 2px);\n  margin-left: -3px;\n  text-align: center;\n  /*border-top: 2px solid #f8f8f8;*/\n  margin-top: 4px;\n  margin-bottom: 4px;\n}\n\n/* Top and bottom bars */\n\n/* Hide the top-right bar */\n.tc-topbar.tc-topbar-right {\n  display: none;\n}\n\ndiv.tc-sidebar-header {\n  padding: 0;\n  min-height: 0;\n}\n\n.tc-story-river {\n  padding: 6px 0 !important;\n  width: 100% !important;\n  max-width: {{$:/themes/nico/notebook/metrics/story-width}} !important;\n  margin: 0 auto !important;\n  margin-top: 34px !important;\n}\n\ndiv.tc-tiddler-frame {\n  width: 100%;\n  margin: 20px 0;\n  background: <<colour tiddler-background>>;\n  box-shadow: 0 5px 20px rgba(0,0,0, 0.12);\n  border-radius: 6px;\n  padding: 42px 60px 60px 60px;\n}\n\n/** main title font size */\nh1.tc-site-title {\n  margin-top: 14px;\n  font-size: 1.95em !important;\n}\n\n.nc-bar {\n  padding: 10px;\n  height: {{$:/themes/nico/notebook/metrics/topbar-height}};\n  background: <<colour page-background>>;\n  display: flex;\n  justify-content: space-between;\n}\n\n.nc-topbar-wrapper {\n  position: fixed;\n  top: 0;\n  left: 0;\n  right: 0;\n  /* The z-index needs to be above the z-index used in tiddlers in zoomin view */\n  z-index: 501;\n}\n\n.nc-bar.nc-topbar {\n  top: 0;\n  background: <<colour page-background>>ee;\n  max-width: calc({{$:/themes/nico/notebook/metrics/story-width}} + 40px);\n  /*max-width: 2000px;*/\n  padding: 10px 20px;\n  margin: 0 auto;\n}\n\n/*@oeyoews disable bottom in small scree\n*/\n.nc-bar.nc-bottombar {\n  position: fixed;\n  /*background: <<colour page-background>>ee;*/\n  /*max-width: calc({{$:/themes/nico/notebook/metrics/story-width}} + 40px);*/\n  /*padding: 10px 20px;*/\n  /*margin: 0 auto;*/\n  /*margin-bottom: 80px !important;*/\n  bottom: 0;\n  /*top: 0;*/\n  /*have sidebar  bug*/\n  left: 0;\n  right: 0;\n  /* The z-index needs to be above the z-index used in tiddlers in zoomin view */\n  z-index: 501;\n}\n\n\n.nc-bar .left svg {\n  fill: <<colour sidebar-controls-foreground>>;\n}\n\n.nc-bar input[type=\"search\"] {\n  width: 200px;\n  padding: .6em 1em;\n  margin-top: -.2em;\n  background: <<colour sidebar-button-foreground>>44;\n  color: <<colour foreground>>cc;\n  transition: all ease-in .2s;\n  border: 1px solid transparent;\n  outline: 0;\n}\n\n.nc-bar input[type=\"search\"]:focus {\n  width: 300px;\n  background: <<colour tiddler-background>>;\n  color: <<colour foreground>>;\n  border: 1px solid <<colour primary>>;\n  box-shadow: 0 0 .2rem 0 <<colour primary>>;\n}\n\ninput[type=\"search\"]::-webkit-search-cancel-button {\n  -webkit-appearance: auto;\n}\n\n.nc-bar .tc-block-dropdown.tc-search-drop-down {\n  margin-left: 0;\n  width: 400px;\n  border: 0;\n  box-shadow: 0 0 6px 0 rgba(0,0,0,.2);\n  border-radius: 6px;\n  padding: 20px 0;\n}\n\n.nc-bar p {\n  margin: 0;\n}\n\n.nc-bar .tc-page-controls {\n  margin-top: 0;\n}\n\n.nc-bar .tc-page-controls button {\n  margin-right: .8em;\n}\n\n.nc-bar .tc-page-controls button .tc-btn-text {\n  font-size: 14px;\n}\n\n.nc-bar .tc-block-dropdown {\n  max-height: 70vh;\n  overflow: auto;\n}\n\n@media (max-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .nc-topbar {\n    display: none;\n  }\n\n  .tc-story-river {\n    padding: 0 !important;\n    margin-top: 0 !important;\n    margin-bottom: 60px !important;\n  }\n\n  div.tc-tiddler-frame {\n    margin: 0;\n    box-shadow: none;\n    border-radius: 0;\n    border-top: 0;\n  }\n}\n\n@media (min-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .nc-bottombar {\n    display: none;\n  }\n}\n\n@media(max-width: 1100px) {\n  .nc-bar input[type=\"search\"] {\n    width: 200px;\n  }\n}\n\n/* Sidebar */\n\n@keyframes sidebar-appear {\n  0%   {\n    left: -{{$:/themes/nico/notebook/metrics/sidebar-width}};\n  }\n  100% {\n    left: 0;\n  }\n}\n\n<<if-sidebar \"\"\"\n@media (min-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .nc-sidebar {\n    animation: sidebar-appear .14s;\n    padding-top: 10px;\n  }\n}\n\"\"\">>\n\n.nc-sidebar {\n  background: <<colour tiddler-background>>;\n  border-right: 1px solid <<colour tiddler-border>>;\n  width: {{$:/themes/nico/notebook/metrics/sidebar-width}};\n  overflow-y: auto;\n  overflow-x: hidden;\n  z-index: 500;\n}\n\n.nc-sidebar .segment {\n  border-bottom: 1px solid rgba(0,0,0,.1);\n}\n\n.nc-sidebar ol {\n  margin: 0;\n  padding: 0;\n  list-style: none;\n  line-height: 1.8em;\n}\n\n.nc-sidebar ol ol {\n  padding-left: 18px;\n}\n\n@media (min-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .mobile-only {\n    display: none;\n  }\n}\n\n@media (max-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .desktop-only {\n    display: none;\n  }\n}\n\n.nc-sidebar h1.tc-site-title {\n  margin: 0;\n}\n\n.nc-sidebar p {\n  margin: 6px 0;\n}\n\n.nc-sidebar .tc-site-subtitle {\n  color: <<colour site-title-foreground>>;\n}\n\n.nc-sidebar .section .label {\n  padding: 2px 0;\n  color: <<colour site-title-foreground>>;\n  fill: <<colour site-title-foreground>>;\n  font-weight: bold;\n  line-height: 1.6em;\n  display: block;\n  width: 100%;\n  text-align: left;\n  padding: 8px 15px;\n  border-radius: 0;\n}\n\n.nc-sidebar .section:not(.open) .label:hover {\n  background: rgba(0,0,0,.06);\n}\n\n.nc-sidebar .section.open .label {\n  color: <<colour tiddler-background>>;\n  fill: <<colour tiddler-background>>;\n  background: <<colour primary>>;\n  border-bottom: 1px solid rgba(0,0,0,.1);\n}\n\n.nc-sidebar .section .label .caret {\n  display: inline-block;\n  width: 15px;\n  float: right;\n}\n\n/*modify @oeyoews*/\n.nc-sidebar .content {\n  padding: 6px 15px;\n  font-size: 1.1em;\n}\n\n.nc-sidebar .tc-tiddlylink {\n  color: <<colour primary>>;\n}\n\n@media (min-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .nc-sidebar {\n    position: fixed;\n    left: 0;\n    top:  0;\n    bottom: 0;\n  }\n}\n\n<<if-sidebar \"\"\"\n@media (max-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  @keyframes sidebar-slide {\n    0%   {\n      left: -100vw;\n    }\n    100% {\n      left: 0;\n    }\n  }\n  .nc-sidebar {\n    overflow: auto;\n    position: fixed;\n    width: 100%;\n    left: 0;\n    top: 0;\n    bottom: 48px;\n    z-index: 3000;\n    animation: sidebar-slide ease-in .2s;\n    animation-fill-mode: forwards;\n  }\n}\n\n@media (min-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .tc-page-container {\n    margin-left: {{$:/themes/nico/notebook/metrics/sidebar-width}} !important;\n  }\n\n  .nc-topbar-wrapper {\n    left: {{$:/themes/nico/notebook/metrics/sidebar-width}};\n  }\n}\n\"\"\">>\n\n/* Animate the hamburger button */\n\n@keyframes menu-bars-1 {\n  0%   {}\n  100% {\n    transform: rotate(-45deg) translateY(-10px) translateX(-6px);\n    fill: <<colour foreground>>;\n  }\n}\n\n@keyframes menu-bars-2 {\n  0%   {}\n  100% { opacity: 0; }\n}\n\n@keyframes menu-bars-3 {\n  0%   {}\n  100% {\n    transform: rotate(45deg) translateY(6px) translateX(2px);\n    fill: <<colour foreground>>;\n  }\n}\n\n.sidebar-toggle {\n  /* position: fixed; */\n  /* top: 6px; */\n  /* left: 6px; */\n  /* z-index: 600; */\n  /* padding: 4px; */\n  /* border-radius: 8px; */\n  margin-right: 10px;\n  transition: all ease-in-out .2s;\n  fill: <<colour sidebar-controls-foreground>>;\n}\n\n.sidebar-toggle:hover,\n.sidebar-toggle.open {\n  fill: <<colour sidebar-controls-foreground-hover>>;\n}\n\n/* @media (max-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) { */\n/*   .sidebar-toggle { */\n/*     top: auto; */\n/*     bottom: 10px; */\n/*     left: 10px; */\n/*   } */\n/* } */\n\n.sidebar-toggle .bars .bar {\n    transform: rotate(0) translateY(0) translateX(0);\n    opacity: 1;\n    transform-origin: 20px 10px;\n    transition: transform 0.4s ease-in-out, opacity 0.2s ease-in-out, fill .4s ease-in-out;\n}\n\n.sidebar-toggle .bars .bar:nth-of-type(3) {\n    transform-origin: 20px 20px;\n}\n\n.sidebar-toggle.open .bars .bar:nth-of-type(1) {\n  animation: menu-bars-1 .6s;\n  animation-fill-mode: forwards;\n}\n.sidebar-toggle.open .bars .bar:nth-of-type(2) {\n  animation: menu-bars-2 .6s;\n  animation-fill-mode: forwards;\n}\n.sidebar-toggle.open .bars .bar:nth-of-type(3) {\n  animation: menu-bars-3 .6s;\n  animation-fill-mode: forwards;\n}\n\n@media (max-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  div.tc-tiddler-frame {\n    padding: 14px;\n  }\n}\n\n/* Inputs */\n\ninput, textarea {\n  transition: border .14s ease-in-out;\n  background: <<colour tiddler-editor-background>>;\n  border: 1px solid <<colour tiddler-editor-border>>;\n  padding: .5em;\n  border-radius: 4px;\n}\n\ninput:focus, textarea:focus {\n  box-shadow: 0 0 0.2rem 0 <<colour primary>>;\n  outline: 0;\n  border-color: <<colour primary>>;\n}\n\nbutton {\n  border-radius: 1.5em;\n  border: 1px solid #ccc;\n  background: <<colour tiddler-background>>;\n  padding: .3em 1em;\n  cursor: pointer;\n  transition: box-shadow ease-in .1s;\n  color: <<color foreground>>;\n}\n\nbutton:focus, button:active {\n  outline: 0 none;\n}\n\nbutton.tc-btn-invisible {\n  border-radius: 0;\n}\n\n.tc-editor-toolbar button,\n.tc-editor-toolbar button.tc-btn-invisible {\n  border-radius: 3px;\n  background: <<colour tiddler-editor-background>>;\n  color: <<colour foreground>>;\n  fill: <<colour foreground>>;\n  border: 1px solid <<colour tiddler-editor-border>>;\n}\n\n.tc-editor-toolbar button:hover,\n.tc-editor-toolbar button:active {\n  border-color: <<colour primary>>;\n  background: <<colour primary>>;\n  color: <<colour background>>;\n  fill: <<colour background>>;\n}\n\n.tc-tiddler-frame input.tc-edit-texteditor,\n.tc-tiddler-frame textarea.tc-edit-texteditor,\n.tc-tiddler-frame iframe.tc-edit-texteditor {\n  transition: border .14s ease-in-out;\n  border: 1px solid <<colour tiddler-editor-border>>;\n  background: <<colour tiddler-editor-background>>;\n  padding: 4px;\n  border-radius: 4px;\n}\n\n.tc-tiddler-frame input.tc-edit-texteditor:focus,\n.tc-tiddler-frame textarea.tc-edit-texteditor:focus,\n.tc-tiddler-frame iframe.tc-edit-texteditor:focus {\n  box-shadow: 0 0 0.2rem 0 <<colour primary>>;\n  outline: 0;\n  border-color: <<colour primary>>;\n}\n\n.tc-tiddler-controls .tc-btn-text {\n    font-size: 16px;\n}\n\n<<if-reveal-tiddler-controls-on-hover \"\"\"\n@media (min-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .tc-tiddler-frame .tc-tiddler-controls svg {\n    opacity: 0;\n    transition: all .2s ease-in;\n  }\n\n  .tc-tiddler-controls svg.tc-image-close-button,\n  .tc-tiddler-controls .py-toggle-todo-button svg,\n  .tc-tiddler-controls svg.tc-image-done-button,\n  .tc-tiddler-frame .tc-tiddler-controls:hover svg {\n    opacity: 1;\n  }\n\n  .tc-tiddler-controls .py-toggle-todo-button .done svg {\n    fill: #2da562;\n  }\n}\n\"\"\">>\n\nbutton.tc-tag-label, span.tc-tag-label {\n  padding: 0.3em 1em !important;\n}\n\n/* Fonts */\n\nhtml, body {\n  font-family: {{$:/themes/nico/notebook/settings/fontfamily}};\n}\n\n.tc-tiddler-frame input.tc-edit-texteditor,\n.tc-tiddler-frame textarea.tc-edit-texteditor,\n.tc-tiddler-frame iframe.tc-edit-texteditor {\n  font-family: {{$:/themes/nico/notebook/settings/editorfontfamily}};\n}\n\npre, code {\n  font-family: {{$:/themes/nico/notebook/settings/codefontfamily}};\n}\n\n/*@oeyoews*/\n  /*tiddler title size*/\n.tc-titlebar, .tc-site-title {\n  font-size: 28px !important;\n  line-height: 34px !important;\n  font-weight: 600 !important;\n  letter-spacing: -0.5px !important;\n}\n\nh1, h2, h3, h4, h5, h6 {\n  font-weight: 600;\n}\n\n.tc-tiddler-body h1,\n.tc-tiddler-body h2,\n.tc-tiddler-preview-preview h1,\n.tc-tiddler-preview-preview h2 {\n  font-weight: bold;\n}\n\ndiv.tc-tiddler-frame .tc-tiddler-body {\n  font-size: {{$:/themes/nico/notebook/metrics/bodyfontsize}};\n  line-height: {{$:/themes/nico/notebook/metrics/bodylineheight}};\n}\n\n/* Tabs */\n\ndiv.tc-tab-buttons {\n  margin-bottom: -4px;\n}\n\ndiv.tc-tab-buttons button {\n  font-weight: bold;\n  font-size: 1.2em;\n  line-height: 1em;\n  padding: .6em .8em .4em .8em;\n  border: 0;\n  border-radius: 0;\n  background: transparent;\n  cursor: pointer;\n  transition: background ease-in .2s;\n}\n\ndiv.tc-tab-buttons button:hover {\n  background: rgba(0,0,0,.03);\n}\n\ndiv.tc-tab-buttons button.tc-tab-selected {\n  border: 0;\n  background: transparent;\n  border-bottom: 4px solid <<colour primary>>;\n}\n\n/* Dropdowns */\n\n@keyframes pop {\n  0% {\n    transform: scale(0.8);\n    opacity: 0;\n  }\n\n  80% {\n    transform: scale(1.03);\n    opacity: 1;\n  }\n\n  100% {\n    transform: scale(1);\n    opacity: 1;\n  }\n}\n\n.tc-drop-down {\n  box-shadow: 0 0 10px rgba(0,0,0,.2);\n  border-radius: 6px;\n  padding: 10px 0 !important;\n  animation: pop .15s ease-in forwards;\n}\n\n.tc-drop-down a, .tc-drop-down button {\n  padding: 3px 15px !important;\n}\n\n.tc-search-results {\n  line-height: 2em;\n}\n\n.tc-search-results em {\n  font-weight: bold;\n  font-style: normal;\n}\n\n/* Draft list */\n\n.tc-drafts-list {\n  font-size: .9em;\n  left: auto;\n  right: 0;\n}\n\n.tc-drafts-list a {\n  padding: 6px 12px;\n  font-weight: bold;\n  border-top-left-radius: 6px;\n  border-top-right-radius: 6px;\n  display: inline-block;\n}\n\n.nc-refs {\n  color: #888;\n  font-size: .9em;\n}\n\n.nc-refs h4 {\n  margin-bottom: 4px;\n}\n\n.nc-post-created {\n  color: #acacac;\n  font-size: .8em;\n}\n",
+    "text": "\\rules only filteredtranscludeinline transcludeinline macrodef macrocallinline\n\n\\define if-sidebar(text)\n  <$reveal state=\"$:/state/notebook-sidebar\" type=\"match\" text=\"yes\">\n    $text$\n  </$reveal>\n\\end\n\n\\define if-reveal-tiddler-controls-on-hover(text)\n  <$reveal state=\"$:/themes/nico/notebook/options/reveal-tiddler-controls-on-hover\" type=\"match\" text=\"yes\">\n    $text$\n  </$reveal>\n\\end\n\n/* == Top and bottom bars == */\n\n/* Hide the top-right bar */\n.tc-topbar.tc-topbar-right {\n  display: none;\n}\n\ndiv.tc-sidebar-header {\n  padding: 0;\n  min-height: 0;\n}\n\n/*@oeyoews center tc-story-river */\n.tc-story-river {\n  /*@oeyoews pc top margin*/\n  padding: 6px 6px !important;\n  width: 100% !important;\n  max-width: {{$:/themes/nico/notebook/metrics/story-width}} !important;\n  margin: 0 auto !important;\n  margin-top: 34px !important;\n}\n\n/*@#oeyoews*/\ndiv.tc-tiddler-frame {\n  width: 100%;\n  margin: 20px 0;\n  background: <<colour tiddler-background>>;\n  border-radius: 15px;\n  padding: 42px 60px 60px 60px;\n  transition: .2s;\n}\n\n/** main title font size */\nh1.tc-site-title {\n  margin: -4px 0 -14px 0 !important;\n  font-size: 1em !important;\n  text-align: center;\n  margin: -14px 0;\n}\n\n.nc-bar {\n  padding: 10px;\n  height: {{$:/themes/nico/notebook/metrics/topbar-height}};\n  background: <<colour page-background>>;\n  display: flex;\n  justify-content: space-between;\n}\n\n.nc-topbar-wrapper {\n  position: fixed;\n  top: 0;\n  left: 0;\n  right: 0;\n  /* The z-index needs to be above the z-index used in tiddlers in zoomin view */\n  z-index: 501;\n}\n\n.nc-bar.nc-topbar {\n  top: 0;\n  background: <<colour page-background>>ee;\n  max-width: calc({{$:/themes/nico/notebook/metrics/story-width}} + 40px);\n  padding: 10px 20px;\n  margin: 0 auto;\n}\n\n/*@oeyoews disable bottom in small scree\n*/\n.nc-bar.nc-bottombar {\n  position: fixed;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  /* The z-index needs to be above the z-index used in tiddlers in zoomin view */\n  z-index: 501;\n}\n\n.nc-bar .left svg {\n  fill: <<colour sidebar-controls-foreground>>;\n}\n\n.nc-bar input[type=\"search\"] {\n  width: 200px;\n  padding: .6em 1em;\n  margin-top: -.2em;\n  /*background: <<colour sidebar-button-foreground>>44;*/\n  background: #00000044;\n  color: <<colour foreground>>cc;\n  transition: all ease-in .2s;\n  border: 1px solid transparent;\n  outline: 0;\n}\n\n.nc-bar input[type=\"search\"]:focus {\n  width: 250px;\n  background: <<colour tiddler-background>>;\n  color: <<colour foreground>>;\n  border: 2px solid <<colour primary>>;\n}\n\n/*modified by @oeyoews*/\n/*input[type=\"search\"]::-webkit-search-cancel-button {*/\n  /*-webkit-appearance: auto;*/\n/*}*/\n\n.nc-bar .tc-block-dropdown.tc-search-drop-down {\n  margin-left: 0;\n  width: 300px;\n  border: 0;\n  box-shadow: 1px 5px 5px #0000004d;\n  border-radius: 3px;\n  padding: 10px;\n  transition: opacity .2s ease-in-out;\n}\n\n.nc-bar p {\n  margin: 0;\n}\n\n.nc-bar .tc-page-controls {\n  margin-top: 0;\n}\n\n.nc-bar .tc-page-controls button {\n  margin-right: .8em;\n}\n\n.nc-bar .tc-page-controls button .tc-btn-text {\n  font-size: 14px;\n}\n\n.nc-bar .tc-block-dropdown {\n  max-height: 70vh;\n  overflow: auto;\n  box-shadow: 1px 5px 5px #0000004d;\n}\n\n@media (max-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .nc-topbar {\n    display: none;\n  }\n\n  .tc-story-river {\n    padding: 5px !important;\n    margin-top: 0 !important;\n    margin-bottom: 60px !important;\n  }\n\n/*@oeyoews fix this frame overflow because this border too width*/\n  div.tc-tiddler-frame {\n    margin: 15px 0px 15px 0px;\n    border-radius: 3px;\n    /*border: 2px solid #002b36;*/\n  }\n}\n\n@media (min-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .nc-bottombar {\n    display: none;\n  }\n}\n\n@media(max-width: 1100px) {\n  .nc-bar input[type=\"search\"] {\n    width: 200px;\n  }\n}\n\n/* Sidebar */\n\n@keyframes sidebar-appear {\n  0%   {\n    left: -{{$:/themes/nico/notebook/metrics/sidebar-width}};\n  }\n  100% {\n    left: 0;\n  }\n}\n\n<<if-sidebar \"\"\"\n@media (min-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .nc-sidebar {\n    animation: sidebar-appear .14s;\n  }\n}\n\"\"\">>\n\n.nc-sidebar {\n  /*background: <<colour tiddler-background>>;*/\n  background: #073642 !important;\n  opacity: 0.97;\n  border-right: 4px solid #5972d9;\n  width: {{$:/themes/nico/notebook/metrics/sidebar-width}};\n  overflow-y: auto;\n  overflow-x: hidden;\n  z-index: 500;\n}\n\n.nc-sidebar .segment {\n  /*border-bottom: 1px solid rgba(0,0,0,.1);*/\n}\n\n.nc-sidebar ol {\n  margin: 0;\n  padding: 0;\n  list-style: none;\n  line-height: 1.4em;\n}\n\n.nc-sidebar ol ol {\n  padding-left: 18px;\n}\n\n@media (min-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .mobile-only {\n    display: none;\n  }\n}\n\n@media (max-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .desktop-only {\n    display: none;\n  }\n}\n\n.nc-sidebar h1.tc-site-title {\n  margin: 0;\n  /*text-shadow: 1px 1px darkcyan;*/\n}\n\n.nc-sidebar p {\n  margin: 6px 0;\n}\n\n.nc-sidebar .tc-site-subtitle {\n  color: <<colour site-title-foreground>>;\n}\n\n.nc-sidebar .section .label {\n  padding: 2px 0;\n  color: <<colour site-title-foreground>>;\n  fill: <<colour site-title-foreground>>;\n  font-weight: bold;\n  font-size: 18px;\n  line-height: 1.6em;\n  display: block;\n  width: 100%;\n  text-align: left;\n  padding: 8px 15px;\n  border-radius: 3px;\n}\n\n/*@oeyoews*/\n.nc-sidebar .section:not(.open) .label:hover {\n  background: #0000000f;\n}\n\n.nc-sidebar .section.open .label {\n  color: <<colour tiddler-background>>;\n  fill: <<colour tiddler-background>>;\n  background: <<colour primary>>;\n  border-bottom: 1px solid rgba(0,0,0,.1);\n}\n\n.nc-sidebar .section .label .caret {\n  display: inline-block;\n  width: 15px;\n  float: right;\n}\n\n/*modify @oeyoews*/\n.nc-sidebar .content {\n  padding: 6px 15px;\n  /*font-weight: normal;*/\n  font-size: 1.2em;\n}\n\n.nc-sidebar .tc-tiddlylink {\n  /*color: <<colour primary>>;*/\n  /*color: unset;*/\n  color: #5972d9;\n  padding: 0;\n}\n\n@media (min-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .nc-sidebar {\n    position: fixed;\n    left: 0;\n    top:  0;\n    bottom: 0;\n  }\n}\n\n<<if-sidebar \"\"\"\n@media (max-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  @keyframes sidebar-slide {\n    0%   {\n      left: -100vw;\n    }\n    100% {\n      left: 0;\n    }\n  }\n  .nc-sidebar {\n    overflow: auto;\n    position: fixed;\n    width: 90%;\n    left: 0;\n    top: 0;\n    bottom: 48px;\n    z-index: 3000;\n    animation: sidebar-slide ease-in .3s;\n    animation-fill-mode: forwards;\n  }\n}\n\n@media (min-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .tc-page-container {\n    margin-left: {{$:/themes/nico/notebook/metrics/sidebar-width}} !important;\n  }\n\n  .nc-topbar-wrapper {\n    left: {{$:/themes/nico/notebook/metrics/sidebar-width}};\n  }\n}\n\"\"\">>\n\n/* Animate the hamburger button */\n\n@keyframes menu-bars-1 {\n  0%   {}\n  100% {\n    transform: rotate(-45deg) translateY(-10px) translateX(-6px);\n    fill: <<colour foreground>>;\n  }\n}\n\n@keyframes menu-bars-2 {\n  0%   {}\n  100% { opacity: 0; }\n}\n\n@keyframes menu-bars-3 {\n  0%   {}\n  100% {\n    transform: rotate(45deg) translateY(6px) translateX(2px);\n    fill: <<colour foreground>>;\n  }\n}\n\n.sidebar-toggle {\n  /* position: fixed; */\n  /* top: 6px; */\n  /* left: 6px; */\n  /* z-index: 600; */\n  /* padding: 4px; */\n  /* border-radius: 8px; */\n  margin-right: 10px;\n  transition: all ease-in-out .1s;\n  fill: <<colour sidebar-controls-foreground>>;\n}\n\n.sidebar-toggle:hover,\n.sidebar-toggle.open {\n  fill: <<colour sidebar-controls-foreground-hover>>;\n}\n\n/* @media (max-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) { */\n/*   .sidebar-toggle { */\n/*     top: auto; */\n/*     bottom: 10px; */\n/*     left: 10px; */\n/*   } */\n/* } */\n\n.sidebar-toggle .bars .bar {\n    transform: rotate(0) translateY(0) translateX(0);\n    opacity: 1;\n    transform-origin: 20px 10px;\n    transition: transform 0.4s ease-in-out, opacity 0.2s ease-in-out, fill .4s ease-in-out;\n}\n\n.sidebar-toggle .bars .bar:nth-of-type(3) {\n    transform-origin: 20px 20px;\n}\n\n.sidebar-toggle.open .bars .bar:nth-of-type(1) {\n  animation: menu-bars-1 .6s;\n  animation-fill-mode: forwards;\n}\n.sidebar-toggle.open .bars .bar:nth-of-type(2) {\n  animation: menu-bars-2 .6s;\n  animation-fill-mode: forwards;\n}\n.sidebar-toggle.open .bars .bar:nth-of-type(3) {\n  animation: menu-bars-3 .6s;\n  animation-fill-mode: forwards;\n}\n\n@media (max-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  div.tc-tiddler-frame {\n    padding: 14px;\n  }\n}\n\n/* Inputs */\n\ninput, textarea {\n  transition: border .1s ease-in-out;\n  background: <<colour tiddler-editor-background>>;\n  border: 2px solid <<colour tiddler-editor-border>>;\n  padding: .5em;\n  border-radius: 3px;\n}\n\ninput:focus, textarea:focus {\n  outline: 0;\n  border-color: <<colour primary>>;\n}\n\nbutton {\n  /*border-radius: 1.5em;*/\n  border-radius: 3px;\n  border: 1px solid #ccc;\n  background: <<colour tiddler-background>>;\n  padding: .3em 1em;\n  cursor: pointer;\n  transition: box-shadow ease-in .1s;\n  color: <<color foreground>>;\n}\n\nbutton:focus, button:active {\n  outline: 0 none;\n}\n\nbutton.tc-btn-invisible {\n  border-radius: 0;\n}\n\n/*@oeyoews*/\n.tc-editor-toolbar button,\n.tc-editor-toolbar button.tc-btn-invisible {\n  border-radius: 3px;\n  background: <<colour tiddler-editor-background>>;\n  /*color: <<colour foreground>>;*/\n  /*fill: <<colour foreground>>;*/\n  color: #2aa198;\n  fill: #2aa198;\n  border: 2px solid <<colour tiddler-editor-border>>;\n}\n\n.tc-editor-toolbar button:hover,\n.tc-editor-toolbar button:active {\n  border-color: <<colour primary>>;\n  background: <<colour primary>>;\n  color: <<colour background>>;\n  fill: <<colour background>>;\n}\n\n.tc-tiddler-frame input.tc-edit-texteditor,\n.tc-tiddler-frame textarea.tc-edit-texteditor,\n.tc-tiddler-frame iframe.tc-edit-texteditor {\n  transition: border .1s ease-in-out;\n  border: 2px solid <<colour tiddler-editor-border>>;\n  background: <<colour tiddler-editor-background>>;\n  padding: 4px;\n  border-radius: 3px;\n}\n\n.tc-tiddler-frame input.tc-edit-texteditor:focus,\n.tc-tiddler-frame textarea.tc-edit-texteditor:focus,\n.tc-tiddler-frame iframe.tc-edit-texteditor:focus {\n  outline: 0;\n  border-color: <<colour primary>>;\n}\n\n.tc-tiddler-controls .tc-btn-text {\n    font-size: 16px;\n}\n\n<<if-reveal-tiddler-controls-on-hover \"\"\"\n@media (min-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .tc-tiddler-frame .tc-tiddler-controls svg {\n    opacity: 0;\n    transition: all .2s ease-in;\n  }\n\n  .tc-tiddler-controls svg.tc-image-close-button,\n  .tc-tiddler-controls .py-toggle-todo-button svg,\n  .tc-tiddler-controls svg.tc-image-done-button,\n  .tc-tiddler-frame .tc-tiddler-controls:hover svg {\n    opacity: 1;\n  }\n\n  .tc-tiddler-controls .py-toggle-todo-button .done svg {\n    fill: #2da562;\n  }\n}\n\"\"\">>\n\nhtml, body {\n  font-family: {{$:/themes/nico/notebook/settings/fontfamily}};\n}\n\n.tc-tiddler-frame input.tc-edit-texteditor,\n.tc-tiddler-frame textarea.tc-edit-texteditor,\n.tc-tiddler-frame iframe.tc-edit-texteditor {\n  font-family: {{$:/themes/nico/notebook/settings/editorfontfamily}};\n}\n\npre, code {\n  font-family: {{$:/themes/nico/notebook/settings/codefontfamily}};\n  padding: 0 5px 0;\n  margin: 0 2px 0;\n  /*border: 2px solid none;*/\n  border-radius: 5px;\n  /*color: unset !important;*/\n  /*color: #28a745 !important;*/\n  background-color: unset;\n}\n\n.tc-titlebar, .tc-site-title {\n  font-size: 28px !important;\n  line-height: 34px !important;\n  font-weight: 600 !important;\n  letter-spacing: -0.5px !important;\n}\n\nh1, h2, h3, h4, h5, h6 {\n  font-weight: 600;\n}\n\n.tc-tiddler-body h1,\n.tc-tiddler-body h2,\n.tc-tiddler-preview-preview h1,\n.tc-tiddler-preview-preview h2 {\n  font-weight: bold;\n}\n\ndiv.tc-tiddler-frame .tc-tiddler-body {\n  font-size: {{$:/themes/nico/notebook/metrics/bodyfontsize}};\n  line-height: {{$:/themes/nico/notebook/metrics/bodylineheight}};\n}\n\n/* Tabs */\ndiv.tc-tab-buttons {\n  margin-bottom: -4px;\n}\n\ndiv.tc-tab-buttons button {\n  font-weight: bold;\n  font-size: 1.2em;\n  line-height: 1em;\n  padding: .6em .8em .4em .8em;\n  /*border: none;*/\n  border-radius: 3px;\n  background: unset;\n  cursor: pointer;\n  /*transition: background ease-in .2s;*/\n  transition: .3s cubic-bezier(0.33, 1, 0.68, 1);\n  margin: 3px;\n}\n\ndiv.tc-tab-buttons button:hover {\n  background: #073642;\n}\n\n.tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button {\n  border: none;\n  margin: 3px;\n}\n.tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button.tc-tab-selected {\n  background-color: #5972d9;\n  border: none;\n}\n.tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button:not(.tc-tab-selected):hover {\n  background: #073642;\n  border: none;\n}\n\ndiv.tc-tab-buttons button.tc-tab-selected {\n  border: none;\n  background: #5972d9;\n  color: #25367c;\n  border-radius: 3px;\n}\n\n/*fix more padding-top*/\n.tc-tab-buttons.tc-vertical {\n    z-index: 100;\n   display: block;\n   padding-top: 0px;\n   vertical-align: top;\n   text-align: right;\n   margin-bottom: inherit;\n   margin-right: -1px;\n   max-width: 33%;\n   -webkit-flex: 0 0 auto;\n   flex: 0 0 auto;\n}\n\n/* Dropdowns */\n@keyframes pop {\n  0% {\n    transform: scale(0.8);\n    opacity: 0;\n  }\n\n  80% {\n    transform: scale(1.03);\n    opacity: 1;\n  }\n\n  100% {\n    transform: scale(1);\n    opacity: 1;\n  }\n}\n\n.tc-drop-down {\n  border-radius: 3px;\n  padding: 10px 0 !important;\n  animation: pop .15s ease-in forwards;\n  box-shadow: 1px 5px 5px #0000004d;\n}\n\n.tc-drop-down a, .tc-drop-down button {\n  padding: 3px 15px !important;\n}\n\n.tc-search-results {\n  line-height: 2em;\n}\n\n.tc-search-results em {\n  font-weight: bold;\n  font-style: normal;\n}\n\n/* Draft list */\n.tc-drafts-list {\n  font-size: .9em;\n  left: auto;\n  right: 0;\n}\n\n.tc-drafts-list a {\n  padding: 6px 12px;\n  font-weight: bold;\n  border-top-left-radius: 6px;\n  border-top-right-radius: 6px;\n  display: inline-block;\n}\n\n.nc-refs {\n  color: #888;\n  font-size: .9em;\n}\n\n.nc-refs h4 {\n  margin-bottom: 4px;\n}\n\n.nc-post-created {\n  color: #acacac;\n  font-size: .8em;\n}\n",
     "revision": "0",
     "bag": "default"
 },
 
 "$:/themes/nico/notebook/changelog": {
+    "created": "20201217180707912",
+    "text": "! 2.0.0\n\n* WIP\n\n------\n\n! 1.4.1\n\n!! Fixes\n\n* Fix the transclusion mode of sidebar sections\n* Fix section title rendering for tiddlers without a caption field\n* Fix the colour of links in the sidebar when using Notebook palettes with Vanilla\n\n! 1.4.0\n\n!! Features\n\n* New redesigned topbar layout\n* Add a configuration setting for the story width\n* Add support for keyboard navigation in the search dropdown\n\n! 1.3.6\n\n!! Improvements\n\n* Improve the style of tabs\n* New animation for drop-downs\n* Use a lighter page background colour in the beige palette\n\n!! Fixes\n\n* Fix the default ctrl+shift+F shortcut for focusing the search input\n\n! 1.3.5\n\n!! Features\n\n* Add an option to reveal tiddler controls on mouseover\n\n! 1.3.4\n\n!! Improvements\n\n* Add a keyboard shortcut (alt+shift+s) to toggle Notebook sidebar\n* Add missing colours to tiddler editor fields in the dark palette\n\n!! Fixes\n\n* Fix the size of toolbar button labels when the $:/config/Toolbar/Text is set to yes\n\n! 1.3.3\n\n!! Improvements\n\n* Make the sidebar more generic by using the default sidebar sections\n\n! 1.3.2\n\n!! Improvements\n\n* Add colours for messages in the dark palette\n* Add colours for notification in the dark palette\n* Set colours for messages in the beige palette\n\n! 1.3.1\n\n!! Features\n\n* New font family settings distinct from the Vanilla theme\n\n!! Improvements\n\n* Use a slightly lighter colour as the search input background\n* Improve contrast of sidebar buttons in the dark palette\n\n!! Fixes\n\n* Fix tiddler control button colours in all three palettes\n* Fix tab colours in palette-dark\n\n! 1.3.0\n\n!! Improvements\n\n* New dark colour palette\n* Use a darker color for tiddler subtitles\n* Add back the WebKit search cancel button in search inputs\n\n!! Fixes\n\n* Fix the z-index of the topbar for the zoomin story view\n* Fix the font weight of tiddler titles in edit mode\n\n! 1.2.0\n\n!! Improvements\n\n* Better support for dark colour palettes\n\n!! Fixes\n\n* Fix rendering of overflowing/wrapping text in the sidebar\n\n! 1.1.0\n\n!! Features\n\n* New theme tweaks tab dedicated to Notebook in the control panel\n* Inputs in the edit template are now styled consistently with other inputs\n\n!! Fixes\n\n* Fixes the position of sticky tiddler titles when the option is turned on\n",
     "title": "$:/themes/nico/notebook/changelog",
     "caption": "ChangeLog",
-    "created": "20201217180707912",
-    "modified": "20210202214001915",
+    "modified": "20220726061916091",
     "tags": "",
-    "type": "text/vnd.tiddlywiki",
-    "text": "! 1.4.1\n\n!! Fixes\n\n* Fix the transclusion mode of sidebar sections\n* Fix section title rendering for tiddlers without a caption field\n* Fix the colour of links in the sidebar when using Notebook palettes with Vanilla\n\n! 1.4.0\n\n!! Features\n\n* New redesigned topbar layout\n* Add a configuration setting for the story width\n* Add support for keyboard navigation in the search dropdown\n\n! 1.3.6\n\n!! Improvements\n\n* Improve the style of tabs\n* New animation for drop-downs\n* Use a lighter page background colour in the beige palette\n\n!! Fixes\n\n* Fix the default ctrl+shift+F shortcut for focusing the search input\n\n! 1.3.5\n\n!! Features\n\n* Add an option to reveal tiddler controls on mouseover\n\n! 1.3.4\n\n!! Improvements\n\n* Add a keyboard shortcut (alt+shift+s) to toggle Notebook sidebar\n* Add missing colours to tiddler editor fields in the dark palette\n\n!! Fixes\n\n* Fix the size of toolbar button labels when the $:/config/Toolbar/Text is set to yes\n\n! 1.3.3\n\n!! Improvements\n\n* Make the sidebar more generic by using the default sidebar sections\n\n! 1.3.2\n\n!! Improvements\n\n* Add colours for messages in the dark palette\n* Add colours for notification in the dark palette\n* Set colours for messages in the beige palette\n\n! 1.3.1\n\n!! Features\n\n* New font family settings distinct from the Vanilla theme\n\n!! Improvements\n\n* Use a slightly lighter colour as the search input background\n* Improve contrast of sidebar buttons in the dark palette\n\n!! Fixes\n\n* Fix tiddler control button colours in all three palettes\n* Fix tab colours in palette-dark\n\n! 1.3.0\n\n!! Improvements\n\n* New dark colour palette\n* Use a darker color for tiddler subtitles\n* Add back the WebKit search cancel button in search inputs\n\n!! Fixes\n\n* Fix the z-index of the topbar for the zoomin story view\n* Fix the font weight of tiddler titles in edit mode\n\n! 1.2.0\n\n!! Improvements\n\n* Better support for dark colour palettes\n\n!! Fixes\n\n* Fix rendering of overflowing/wrapping text in the sidebar\n\n! 1.1.0\n\n!! Features\n\n* New theme tweaks tab dedicated to Notebook in the control panel\n* Inputs in the edit template are now styled consistently with other inputs\n\n!! Fixes\n\n* Fixes the position of sticky tiddler titles when the option is turned on\n"
+    "type": "text/vnd.tiddlywiki"
 },
 
 "$:/themes/nico/notebook/images/bars": {
-    "title": "$:/themes/nico/notebook/images/bars",
     "created": "20200428212322206",
-    "modified": "20201210210231235",
+    "title": "$:/themes/nico/notebook/images/bars",
+    "modified": "20220726055455859",
     "type": "text/vnd.tiddlywiki",
     "text": "<svg class=\"bars\" height=\"21pt\" viewBox=\"0 0 42 42\" enable-background=\"new 0 0 32 22.5\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\">\n  <g class=\"svg-menu-toggle\" sketch:type=\"MSLayerGroup\">\n    <rect class=\"bar\" x=\"8\" y=\"28\" width=\"26\" height=\"4\"></rect>\n    <rect class=\"bar\" x=\"8\" y=\"19\" width=\"26\" height=\"4\"></rect>\n    <rect class=\"bar\" x=\"8\" y=\"10\" width=\"26\" height=\"4\"></rect>\n  </g>\n</svg>\n"
 },
 
 "$:/themes/nico/notebook/images/caret-down": {
-    "title": "$:/themes/nico/notebook/images/caret-down",
     "created": "20200429194348688",
-    "modified": "20201210210230919",
+    "title": "$:/themes/nico/notebook/images/caret-down",
+    "modified": "20220726055455859",
     "type": "text/vnd.tiddlywiki",
     "text": "<svg width=\"6pt\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 512\"><path d=\"M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\"/></svg>\n"
 },
 
 "$:/themes/nico/notebook/images/caret-right": {
-    "title": "$:/themes/nico/notebook/images/caret-right",
     "created": "20200429194305719",
-    "modified": "20201210210230909",
+    "title": "$:/themes/nico/notebook/images/caret-right",
+    "modified": "20220726055455859",
     "type": "text/vnd.tiddlywiki",
     "text": "<svg width=\"4pt\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 192 512\"><path d=\"M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z\"/></svg>\n"
 },
 
 "$:/themes/nico/notebook/images/color-switch": {
-    "title": "$:/themes/nico/notebook/images/color-switch",
     "created": "20201210170859810",
+    "title": "$:/themes/nico/notebook/images/color-switch",
     "creator": "nico",
-    "modified": "20201210205606403",
+    "modified": "20220726055455860",
     "modifier": "nico",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
@@ -93,90 +58,76 @@
 },
 
 "$:/themes/nico/notebook/LICENSE": {
-    "title": "$:/themes/nico/notebook/LICENSE",
     "created": "20200419141443144",
-    "modified": "20210118213330307",
+    "text": "\nMIT License Copyright (c) 2020\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is furnished\nto do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice (including the next\nparagraph) shall be included in all copies or substantial portions of the\nSoftware.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS\nOR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nWHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF\nOR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n",
+    "title": "$:/themes/nico/notebook/LICENSE",
+    "modified": "20220726062000148",
     "tags": "",
-    "type": "text/vnd.tiddlywiki",
-    "text": "\nMIT License Copyright (c) 2020 [[Nicolas Petton|https://nicolas.petton.fr]] nicolas@petton.fr\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is furnished\nto do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice (including the next\nparagraph) shall be included in all copies or substantial portions of the\nSoftware.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS\nOR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nWHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF\nOR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n"
+    "type": "text/vnd.tiddlywiki"
 },
 
 "$:/themes/nico/notebook/metrics/bodyfontsize": {
-    "title": "$:/themes/nico/notebook/metrics/bodyfontsize",
     "created": "20200428203454207",
-    "creator": "oeyoews",
-    "modified": "20220216182708877",
-    "modifier": "oeyoews",
+    "title": "$:/themes/nico/notebook/metrics/bodyfontsize",
+    "modified": "20220726055455860",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
-    "text": "18px",
-    "revision": "0",
-    "bag": "default"
+    "text": "15px\n"
 },
 
 "$:/themes/nico/notebook/metrics/bodylineheight": {
-    "title": "$:/themes/nico/notebook/metrics/bodylineheight",
     "created": "20200428203454207",
-    "creator": "oeyoews",
-    "modified": "20220216182703829",
-    "modifier": "oeyoews",
+    "title": "$:/themes/nico/notebook/metrics/bodylineheight",
+    "modified": "20220726055455860",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
-    "text": "22px",
-    "revision": "0",
-    "bag": "default"
+    "text": "22px"
 },
 
 "$:/themes/nico/notebook/metrics/sidebar-width": {
-    "title": "$:/themes/nico/notebook/metrics/sidebar-width",
     "created": "20200429144554294",
-    "creator": "oeyoews",
-    "modified": "20220213223223058",
-    "modifier": "oeyoews",
+    "title": "$:/themes/nico/notebook/metrics/sidebar-width",
+    "modified": "20220726055455860",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
-    "text": "390px",
-    "revision": "0",
-    "bag": "default"
+    "text": "350px\n"
 },
 
 "$:/themes/nico/notebook/metrics/story-width": {
-    "title": "$:/themes/nico/notebook/metrics/story-width",
     "created": "20210123210054185",
-    "creator": "oeyoews",
-    "modified": "20220216201450372",
-    "modifier": "oeyoews",
+    "title": "$:/themes/nico/notebook/metrics/story-width",
+    "modified": "20220726055455860",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
-    "text": "920px",
-    "revision": "0",
-    "bag": "default"
+    "text": "800px\n"
 },
 
 "$:/themes/nico/notebook/metrics/topbar-height": {
     "title": "$:/themes/nico/notebook/metrics/topbar-height",
     "created": "20200428203454207",
     "creator": "oeyoews",
-    "modified": "20220214091049022",
-    "modifier": "oeyoews",
+    "modified": "20220309050441135",
+    "modifier": "@oeyoews",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
-    "text": "46px",
+    "text": "52px",
     "revision": "0",
     "bag": "default"
 },
 
 "$:/themes/nico/notebook/options/codewrapping": {
+    "created": "20220726055455860",
     "title": "$:/themes/nico/notebook/options/codewrapping",
-    "text": "pre-wrap"
+    "text": "pre-wrap",
+    "modified": "20220726055455860"
 },
 
 "$:/themes/nico/notebook/options/reveal-tiddler-controls-on-hover": {
     "title": "$:/themes/nico/notebook/options/reveal-tiddler-controls-on-hover",
     "created": "20220104164438374",
     "creator": "oeyoews",
-    "modified": "20220216175418436",
-    "modifier": "oeyoews",
+    "modified": "20220405142824826",
+    "modifier": "@oeyoews",
     "type": "text/vnd.tiddlywiki",
     "text": "no",
     "revision": "0",
@@ -187,18 +138,60 @@
     "title": "$:/themes/nico/notebook/options/stickytitles",
     "created": "20220111133034030",
     "creator": "oeyoews",
-    "modified": "20220214142214882",
-    "modifier": "oeyoews",
+    "modified": "20220307070001646",
+    "modifier": "@oeyoews",
     "type": "text/vnd.tiddlywiki",
     "text": "yes",
     "revision": "0",
     "bag": "default"
 },
 
+"$:/themes/nico/notebook/palettes/palette-beige": {
+    "created": "20220726055455860",
+    "title": "$:/themes/nico/notebook/palettes/palette-beige",
+    "text": "alert-background: #ffe476\nalert-border: #b99e2f\nalert-highlight: #881122\nalert-muted-foreground: #b99e2f\nbackground: #ffffff\nblockquote-bar: <<colour muted-foreground>>\nbutton-background:\nbutton-foreground:\nbutton-border:\ncode-background: #f7f7f9\ncode-border: #e1e1e8\ncode-foreground: #dd1144\ndirty-indicator: #c63636\ndownload-background: #66cccc\ndownload-foreground: <<colour background>>\ndragger-background: <<colour foreground>>\ndragger-foreground: <<colour background>>\ndropdown-background: <<colour background>>\ndropdown-border: #ddd\ndropdown-tab-background-selected: #fff\ndropdown-tab-background: #ececec\ndropzone-background: #da8548\nexternal-link-background-hover: inherit\nexternal-link-background-visited: inherit\nexternal-link-background: inherit\nexternal-link-foreground-hover: inherit\nexternal-link-foreground-visited: #0000aa\nexternal-link-foreground: #0000ee\nforeground: #3F3B3B\nmessage-background: #e6f5e8\nmessage-border: #2b5532\nmessage-foreground: #2b5532\nmodal-backdrop: <<colour foreground>>\nmodal-background: <<colour background>>\nmodal-border: #999999\nmodal-footer-background: #f5f5f5\nmodal-footer-border: #dddddd\nmodal-header-border: #eeeeee\nmuted-foreground: #999999\nnotification-background: #ffffdd\nnotification-border: #999999\npage-background: #f5f5ee\npre-background: #f6f6f6\npre-border: #cccccc\nprimary: #7f4bca\nselect-tag-background:\nselect-tag-foreground:\nsidebar-button-foreground: #a6a69c\nsidebar-controls-foreground-hover: #000000\nsidebar-controls-foreground: <<colour sidebar-button-foreground>>\nsidebar-foreground-shadow: rgba(255,255,255, 0.8)\nsidebar-foreground: #acacac\nsidebar-muted-foreground-hover: #444444\nsidebar-muted-foreground: #c0c0c0\nsidebar-tab-background-selected: #ffffff\nsidebar-tab-background: <<colour tab-background>>\nsidebar-tab-border-selected: <<colour tab-border-selected>>\nsidebar-tab-border: <<colour tab-border>>\nsidebar-tab-divider: <<colour tab-divider>>\nsidebar-tab-foreground-selected: <<colour tab-foreground-selected>>\nsidebar-tab-foreground: <<colour tab-foreground>>\nsidebar-tiddler-link-foreground-hover: <<colour primary>>\nsidebar-tiddler-link-foreground: <<colour tab-foreground>>\nsite-title-foreground: #353748\nstatic-alert-foreground: #aaaaaa\ntab-background-selected: #ffffff\ntab-background: #eeeeee\ntab-border-selected: #cccccc\ntab-border: #cccccc\ntab-divider: #d8d8d8\ntab-foreground-selected: <<colour foreground>>\ntab-foreground: #888888\ntable-border: #dddddd\ntable-footer-background: #a8a8a8\ntable-header-background: #f0f0f0\ntag-background: #ffeedd\ntag-foreground: #000\ntiddler-background: <<colour background>>\ntiddler-border: #dbdbc7;\ntiddler-controls-foreground-hover: #888888;\ntiddler-controls-foreground-selected: #888888;\ntiddler-controls-foreground: #cccccc\ntiddler-editor-background: <<colour background>>\ntiddler-editor-border-image: #ffffff\ntiddler-editor-border: rgba(0,0,0,.2)\ntiddler-editor-fields-even: #e0e8e0\ntiddler-editor-fields-odd: #f0f4f0\ntiddler-info-background: #f8f8f8\ntiddler-info-border: #dddddd\ntiddler-info-tab-background: #f8f8f8\ntiddler-link-background: <<colour background>>\ntiddler-link-foreground: <<colour primary>>\ntiddler-subtitle-foreground: #aaaaaa\ntiddler-title-foreground: #333\ntoolbar-new-button:\ntoolbar-options-button:\ntoolbar-save-button:\ntoolbar-info-button:\ntoolbar-edit-button:\ntoolbar-close-button:\ntoolbar-delete-button:\ntoolbar-cancel-button:\ntoolbar-done-button:\nuntagged-background: #999999\nvery-muted-foreground: #888888\n",
+    "type": "application/x-tiddler-dictionary",
+    "description": "A beige colour palette for Notebook",
+    "name": "Notebook Beige",
+    "tags": "$:/tags/Palette $:/tags/notebook/Palette",
+    "modified": "20220726055455860"
+},
+
+"$:/themes/nico/notebook/palettes/palette-dark": {
+    "created": "20220726055455860",
+    "title": "$:/themes/nico/notebook/palettes/palette-dark",
+    "text": "alert-background: #643b43\nalert-border: #3f181f\nalert-highlight: #881122\nalert-muted-foreground: #bc8b94\nbackground: #383e49\nblockquote-bar: <<colour muted-foreground>>\nbutton-background:\nbutton-border:\nbutton-foreground:\ncode-background: #2c323b\ncode-border: #111\ncode-foreground: #dd1144\ndirty-indicator: #c63636\ndownload-background: #98be65\ndownload-foreground: <<colour background>>\ndragger-background: <<colour foreground>>\ndragger-foreground: <<colour background>>\ndropdown-background: <<colour background>>\ndropdown-border: #111\ndropdown-tab-background-selected: #fff\ndropdown-tab-background: #ececec\ndropzone-background: #da8548\nexternal-link-background-hover: inherit\nexternal-link-background-visited: inherit\nexternal-link-background: inherit\nexternal-link-foreground-hover: inherit\nexternal-link-foreground-visited: #61afef\nexternal-link-foreground: #c678dd\nforeground: #c8ced8\nmessage-background: #2c323e\nmessage-border: #111\nmessage-foreground: #d5e2f1\nmodal-backdrop: <<colour foreground>>\nmodal-background: <<colour background>>\nmodal-border: #999999\nmodal-footer-background: #f5f5f5\nmodal-footer-border: #dddddd\nmodal-header-border: #eeeeee\nmuted-foreground: #999999\nnotification-background: #3a5e39\nnotification-border: #192c19\npage-background: #262b33\npre-background: <<colour page-background>>\npre-border: <<colour tiddler-border>>\nprimary: #bf93ff\nselect-tag-background:\nselect-tag-foreground:\nsidebar-button-foreground: #5e646f\nsidebar-controls-foreground-hover: #cad2e5\nsidebar-controls-foreground: <<colour sidebar-button-foreground>>\nsidebar-foreground-shadow: rgba(255,255,255, 0.8)\nsidebar-foreground: #cad2e5\nsidebar-muted-foreground-hover: #444444\nsidebar-muted-foreground: #c0c0c0\nsidebar-tab-background-selected: <<colour tab-background-selected>>\nsidebar-tab-background: <<colour tab-background>>\nsidebar-tab-border-selected: <<colour tab-border-selected>>\nsidebar-tab-border: <<colour tab-border>>\nsidebar-tab-divider: <<colour tab-divider>>\nsidebar-tab-foreground-selected: <<colour tab-foreground-selected>>\nsidebar-tab-foreground: <<colour tab-foreground>>\nsidebar-tiddler-link-foreground-hover: <<colour primary>>\nsidebar-tiddler-link-foreground: <<colour tab-foreground>>\nsite-title-foreground: <<colour foreground>>\nstatic-alert-foreground: #aaaaaa\ntab-background-selected: <<colour background>>\ntab-background: <<colour page-background>>\ntab-border-selected: <<colour foreground>>\ntab-border: #cad2e5\ntab-divider: #cad2e5\ntab-foreground-selected: #ecf2ff\ntab-foreground: #cad2e5\ntable-border: #aaaaaa\ntable-footer-background: #a8a8a8\ntable-header-background: #262b33\ntag-background: #fcb671\ntag-foreground: #000\ntiddler-background: <<colour background>>\ntiddler-border: #111\ntiddler-controls-foreground-hover: #cad2e5\ntiddler-controls-foreground-selected: #cad2e5\ntiddler-controls-foreground: #5e646f\ntiddler-editor-background: <<colour background>>\ntiddler-editor-border-image: #ffffff\ntiddler-editor-border: rgba(255, 255, 255, 0.3)\ntiddler-editor-fields-even: <<colour background>>\ntiddler-editor-fields-odd: #2c323b\ntiddler-info-background: #f8f8f8\ntiddler-info-border: #dddddd\ntiddler-info-tab-background: #f8f8f8\ntiddler-link-background: <<colour background>>\ntiddler-link-foreground: <<colour primary>>\ntiddler-subtitle-foreground: #aaaaaa\ntiddler-title-foreground: <<colour foreground>>\ntoolbar-cancel-button:\ntoolbar-close-button:\ntoolbar-delete-button:\ntoolbar-done-button:\ntoolbar-edit-button:\ntoolbar-info-button:\ntoolbar-new-button:\ntoolbar-options-button:\ntoolbar-save-button:\nuntagged-background: #999999\nvery-muted-foreground: #888888\n",
+    "type": "application/x-tiddler-dictionary",
+    "description": "A dark colour palette for Notebook",
+    "name": "Notebook Dark",
+    "tags": "$:/tags/Palette $:/tags/notebook/Palette",
+    "modified": "20220726055455860"
+},
+
+"$:/themes/nico/notebook/palettes/palette-grey": {
+    "created": "20220726055455860",
+    "title": "$:/themes/nico/notebook/palettes/palette-grey",
+    "text": "alert-background: #ffe476\nalert-border: #b99e2f\nalert-highlight: #881122\nalert-muted-foreground: #b99e2f\nbackground: #ffffff\nblockquote-bar: <<colour muted-foreground>>\nbutton-background:\nbutton-foreground:\nbutton-border:\ncode-background: #f7f7f9\ncode-border: #e1e1e8\ncode-foreground: #dd1144\ndirty-indicator: #c63636\ndownload-background: #66cccc\ndownload-foreground: <<colour background>>\ndragger-background: <<colour foreground>>\ndragger-foreground: <<colour background>>\ndropdown-background: <<colour background>>\ndropdown-border: #ddd\ndropdown-tab-background-selected: #fff\ndropdown-tab-background: #ececec\ndropzone-background: #da8548\nexternal-link-background-hover: inherit\nexternal-link-background-visited: inherit\nexternal-link-background: inherit\nexternal-link-foreground-hover: inherit\nexternal-link-foreground-visited: #0000aa\nexternal-link-foreground: #0000ee\nforeground: #283c46\nmessage-background: #ecf2ff\nmessage-border: #cfd6e6\nmessage-foreground: #547599\nmodal-backdrop: <<colour foreground>>\nmodal-background: <<colour background>>\nmodal-border: #999999\nmodal-footer-background: #f5f5f5\nmodal-footer-border: #dddddd\nmodal-header-border: #eeeeee\nmuted-foreground: #999999\nnotification-background: #ffffdd\nnotification-border: #999999\npage-background: #f4f4f4\npre-background: #f6f6f6\npre-border: #cccccc\nprimary: #127edd\nselect-tag-background:\nselect-tag-foreground:\nsidebar-button-foreground: #a6a69c\nsidebar-controls-foreground-hover: #000000\nsidebar-controls-foreground: <<colour sidebar-button-foreground>>\nsidebar-foreground-shadow: rgba(255,255,255, 0.8)\nsidebar-foreground: #acacac\nsidebar-muted-foreground-hover: #444444\nsidebar-muted-foreground: #c0c0c0\nsidebar-tab-background-selected: #ffffff\nsidebar-tab-background: <<colour tab-background>>\nsidebar-tab-border-selected: <<colour tab-border-selected>>\nsidebar-tab-border: <<colour tab-border>>\nsidebar-tab-divider: <<colour tab-divider>>\nsidebar-tab-foreground-selected: <<colour tab-foreground-selected>>\nsidebar-tab-foreground: <<colour tab-foreground>>\nsidebar-tiddler-link-foreground-hover: <<colour primary>>\nsidebar-tiddler-link-foreground: <<colour tab-foreground>>\nsite-title-foreground: #353748\nstatic-alert-foreground: #aaaaaa\ntab-background-selected: #ffffff\ntab-background: #eeeeee\ntab-border-selected: #cccccc\ntab-border: #cccccc\ntab-divider: #d8d8d8\ntab-foreground-selected: <<colour foreground>>\ntab-foreground: #888888\ntable-border: #dddddd\ntable-footer-background: #a8a8a8\ntable-header-background: #f0f0f0\ntag-background: #ffeedd\ntag-foreground: #000\ntiddler-background: <<colour background>>\ntiddler-border: #ddd\ntiddler-controls-foreground-hover: #888888;\ntiddler-controls-foreground-selected: #888888;\ntiddler-controls-foreground: #cccccc\ntiddler-editor-background: <<colour background>>\ntiddler-editor-border-image: #ffffff\ntiddler-editor-border: rgba(0,0,0,.2)\ntiddler-editor-fields-even: #e0e8e0\ntiddler-editor-fields-odd: #f0f4f0\ntiddler-info-background: #f8f8f8\ntiddler-info-border: #dddddd\ntiddler-info-tab-background: #f8f8f8\ntiddler-link-background: <<colour background>>\ntiddler-link-foreground: <<colour primary>>\ntiddler-subtitle-foreground: #aaaaaa\ntiddler-title-foreground: #333\ntoolbar-new-button:\ntoolbar-options-button:\ntoolbar-save-button:\ntoolbar-info-button:\ntoolbar-edit-button:\ntoolbar-close-button:\ntoolbar-delete-button:\ntoolbar-cancel-button:\ntoolbar-done-button:\nuntagged-background: #999999\nvery-muted-foreground: #888888\n",
+    "type": "application/x-tiddler-dictionary",
+    "description": "A grey color palette for Notebook",
+    "name": "Notebook Grey",
+    "tags": "$:/tags/Palette $:/tags/notebook/Palette",
+    "modified": "20220726055455860"
+},
+
+"$:/themes/nico/notebook/README": {
+    "created": "20220726062138570",
+    "text": "! 2.0.0",
+    "title": "$:/themes/nico/notebook/README",
+    "modified": "20220726062151280",
+    "type": "text/vnd.tiddlywiki",
+    "tags": ""
+},
+
 "$:/themes/nico/notebook/settings/codefontfamily": {
-    "title": "$:/themes/nico/notebook/settings/codefontfamily",
     "created": "20210101213404232",
-    "modified": "20210101214210227",
+    "title": "$:/themes/nico/notebook/settings/codefontfamily",
+    "modified": "20220726055455861",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
     "text": "\"Fira Mono\",\"Liberation Mono\",Menlo,Courier,monospace\n"
@@ -207,198 +200,299 @@
 "$:/themes/nico/notebook/settings/fontfamily": {
     "title": "$:/themes/nico/notebook/settings/fontfamily",
     "created": "20210101213404232",
-    "modified": "20220104164723139",
+    "creator": "oeyoews",
+    "modified": "20220621142708456",
+    "modifier": "oeyoews",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
-    "text": "\"Fira Mono\",\"Segoe UI\",Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+    "text": "-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;",
     "revision": "0",
     "bag": "default"
 },
 
 "$:/themes/nico/notebook/shortcuts/notebook-focus-search": {
-    "title": "$:/themes/nico/notebook/shortcuts/notebook-focus-search",
     "created": "20201210122048919",
+    "title": "$:/themes/nico/notebook/shortcuts/notebook-focus-search",
     "key": "((notebook-focus-search))",
-    "modified": "20210115130024907",
+    "modified": "20220726055455861",
     "tags": "$:/tags/KeyboardShortcut",
     "type": "text/vnd.tiddlywiki",
     "text": "<$action-sendmessage $message=\"tm-focus-selector\" $param=\".nc-topbar input\"/>\n"
 },
 
 "$:/themes/nico/notebook/shortcuts/toggle-sidebar": {
-    "title": "$:/themes/nico/notebook/shortcuts/toggle-sidebar",
     "created": "20210115130000707",
+    "title": "$:/themes/nico/notebook/shortcuts/toggle-sidebar",
     "key": "((toggle-sidebar))",
-    "modified": "20210115130021883",
+    "modified": "20220726055455861",
     "tags": "$:/tags/KeyboardShortcut",
     "type": "text/vnd.tiddlywiki",
     "text": "<$list\n  filter=\"[[$:/state/notebook-sidebar]is[missing]] [{$:/state/notebook-sidebar}removeprefix[yes]]\"\n  emptyMessage=\"\"\"<$action-setfield $tiddler=\"$:/state/notebook-sidebar\" text=\"yes\"/>\"\"\"\n>\n  <$action-setfield $tiddler=\"$:/state/notebook-sidebar\" text=\"no\"/>\n</$list>\n"
 },
 
 "$:/themes/nico/notebook/stickytitles": {
-    "title": "$:/themes/nico/notebook/stickytitles",
     "created": "20201217172915960",
-    "creator": "oeyoews",
-    "modified": "20220214072742856",
-    "modifier": "oeyoews",
+    "title": "$:/themes/nico/notebook/stickytitles",
+    "modified": "20220726055455861",
     "tags": "$:/tags/Stylesheet",
-    "type": "text/vnd.tiddlywiki",
-    "text": "<$reveal state=\"$:/themes/nico/notebook/options/stickytitles\" type=\"match\" text=\"yes\">\n\n.tc-tiddler-title {\n  position: -webkit-sticky;\n  position: -moz-sticky;\n  position: -o-sticky;\n  position: -ms-sticky;\n  position: sticky;\n  top: {{$:/themes/nico/notebook/metrics/topbar-height}};\n  background: <<colour tiddler-background>>;\n  z-index: 500;\n}\n\n@media (max-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .tc-tiddler-title {\n    top: 0;\n  }\n}\n\n<$list filter=\"[range[100]]\">\n`.tc-story-river .tc-tiddler-frame:nth-child(100n+`<$text text=<<currentTiddler>>/>`) {\nz-index: `<$text text={{{ [[200]subtract<currentTiddler>] }}}/>`;\n}\n`\n</$list>\n</$reveal>\n",
-    "revision": "0",
-    "bag": "default"
+    "text": "<$reveal state=\"$:/themes/nico/notebook/options/stickytitles\" type=\"match\" text=\"yes\">\n\n.tc-tiddler-title {\n  position: -webkit-sticky;\n  position: -moz-sticky;\n  position: -o-sticky;\n  position: -ms-sticky;\n  position: sticky;\n  top: {{$:/themes/nico/notebook/metrics/topbar-height}};\n  background: <<colour tiddler-background>>;\n  z-index: 500;\n}\n\n@media (max-width: {{$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint}}) {\n  .tc-tiddler-title {\n    top: 0;\n  }\n}\n\n<$list filter=\"[range[100]]\">\n`.tc-story-river .tc-tiddler-frame:nth-child(100n+`<$text text=<<currentTiddler>>/>`) {\nz-index: `<$text text={{{ [[200]subtract<currentTiddler>] }}}/>`;\n}\n`\n</$list>\n</$reveal>\n"
 },
 
 "$:/themes/nico/notebook/tags/Sidebar": {
-    "title": "$:/themes/nico/notebook/tags/Sidebar",
     "created": "20200429164516951",
+    "title": "$:/themes/nico/notebook/tags/Sidebar",
     "list": "$:/themes/nico/notebook/ui/Buttons/menu $:/themes/nico/notebook/ui/Sidebar/Headings $:/themes/nico/notebook/ui/Sidebar/Search $:/themes/nico/notebook/Sidebar/Sections",
-    "modified": "20201210205606504",
+    "modified": "20220726055455861",
     "type": "text/vnd.tiddlywiki"
 },
 
 "$:/themes/nico/notebook/tags/SidebarSection": {
-    "title": "$:/themes/nico/notebook/tags/SidebarSection",
     "created": "20200429201017275",
+    "title": "$:/themes/nico/notebook/tags/SidebarSection",
     "list": "$:/themes/nico/notebook/ui/Sidebar/Open $:/themes/nico/notebook/ui/Sidebar/Recent $:/themes/nico/notebook/ui/Sidebar/Tools $:/themes/nico/notebook/ui/Sidebar/More",
-    "modified": "20201210215658901",
+    "modified": "20220726055455861",
     "type": "text/vnd.tiddlywiki"
 },
 
 "$:/themes/nico/notebook/themetweaks": {
-    "title": "$:/themes/nico/notebook/themetweaks",
     "created": "20201217172915960",
-    "modified": "20210123211851680",
+    "title": "$:/themes/nico/notebook/themetweaks",
+    "modified": "20220726055455861",
     "tags": "$:/tags/ControlPanel/Appearance",
     "caption": "{{$:/language/ThemeTweaks/ThemeTweaks}}",
     "text": "\\define lingo-base() $:/language/ThemeTweaks/\n\nYou can tweak certain aspects of the ''Notebook'' theme.\n\n! <<lingo Options>>\n\n|<$link to=\"$:/themes/nico/notebook/options/stickytitles\"><<lingo Options/StickyTitles>></$link><br>//<<lingo Options/StickyTitles/Hint>>// |<$select tiddler=\"$:/themes/nico/notebook/options/stickytitles\"><option value=\"no\">{{$:/language/No}}</option><option value=\"yes\">{{$:/language/Yes}}</option></$select> |\n|<$link to=\"$:/themes/tiddlywiki/vanilla/options/codewrapping\"><<lingo Options/CodeWrapping>></$link> |<$select tiddler=\"$:/themes/tiddlywiki/vanilla/options/codewrapping\"><option value=\"pre\">{{$:/language/No}}</option><option value=\"pre-wrap\">{{$:/language/Yes}}</option></$select> |\n|<$link to=\"$:/themes/nico/notebook/options/reveal-tiddler-controls-on-hover\">Reveal tiddler controls on mouseover</$link> |<$select tiddler=\"$:/themes/nico/notebook/options/reveal-tiddler-controls-on-hover\"><option value=\"no\">{{$:/language/No}}</option><option value=\"yes\">{{$:/language/Yes}}</option></$select> |\n\n! <<lingo Settings>>\n\n|<$link to=\"$:/themes/nico/notebook/settings/fontfamily\"><<lingo Settings/FontFamily>></$link> |<$edit-text tiddler=\"$:/themes/nico/notebook/settings/fontfamily\" default=\"\" tag=\"input\"/> | |\n|<$link to=\"$:/themes/nico/notebook/settings/codefontfamily\"><<lingo Settings/CodeFontFamily>></$link> |<$edit-text tiddler=\"$:/themes/nico/notebook/settings/codefontfamily\" default=\"\" tag=\"input\"/> | |\n|<$link to=\"$:/themes/nico/notebook/settings/editorfontfamily\"><<lingo Settings/EditorFontFamily>></$link> |<$edit-text tiddler=\"$:/themes/nico/notebook/settings/editorfontfamily\" default=\"\" tag=\"input\"/> | |\n\n! <<lingo Metrics>>\n\n|<$link to=\"$:/themes/tiddlywiki/vanilla/metrics/fontsize\"><<lingo Metrics/FontSize>></$link> |<$edit-text tiddler=\"$:/themes/tiddlywiki/vanilla/metrics/fontsize\" default=\"\" tag=\"input\"/> |\n|<$link to=\"$:/themes/tiddlywiki/vanilla/metrics/lineheight\"><<lingo Metrics/LineHeight>></$link> |<$edit-text tiddler=\"$:/themes/tiddlywiki/vanilla/metrics/lineheight\" default=\"\" tag=\"input\"/> |\n|<$link to=\"$:/themes/tiddlywiki/vanilla/metrics/bodyfontsize\"><<lingo Metrics/BodyFontSize>></$link> |<$edit-text tiddler=\"$:/themes/nico/notebook/metrics/bodyfontsize\" default=\"\" tag=\"input\"/> |\n|<$link to=\"$:/themes/tiddlywiki/vanilla/metrics/bodylineheight\"><<lingo Metrics/BodyLineHeight>></$link> |<$edit-text tiddler=\"$:/themes/nico/notebook/metrics/bodylineheight\" default=\"\" tag=\"input\"/> |\n|<$link to=\"$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint\"><<lingo Metrics/SidebarBreakpoint>></$link><br>//<<lingo Metrics/SidebarBreakpoint/Hint>>// |^<$edit-text tiddler=\"$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint\" default=\"\" tag=\"input\"/> |\n|<$link to=\"$:/themes/nico/notebook/metrics/sidebar-width\"><<lingo Metrics/SidebarWidth>></$link><br>//<<lingo Metrics/SidebarWidth/Hint>>// |^<$edit-text tiddler=\"$:/themes/nico/notebook/metrics/sidebar-width\" default=\"\" tag=\"input\"/> |\n|<$link to=\"$:/themes/nico/notebook/metrics/story-width\"><<lingo Metrics/StoryWidth>></$link><br>//<<lingo Metrics/StoryWidth/Hint>>// |^<$edit-text tiddler=\"$:/themes/nico/notebook/metrics/story-width\" default=\"\" tag=\"input\"/> |\n\n"
 },
 
 "$:/themes/nico/notebook/ui/Bottombar": {
-    "title": "$:/themes/nico/notebook/ui/Bottombar",
     "created": "20200429113453340",
-    "creator": "oeyoews",
-    "modified": "20220213135947807",
-    "modifier": "oeyoews",
+    "title": "$:/themes/nico/notebook/ui/Bottombar",
+    "modified": "20220726055455861",
     "tags": "$:/tags/PageTemplate",
     "type": "text/vnd.tiddlywiki",
-    "text": "<$reveal state=\"$:/state/notebook-bottombar\" type=\"match\" text=\"yes\" default=\"yes\" retain=\"yes\" animate=\"yes\">\n  <div class=\"nc-bar nc-bottombar\">\n    <$list filter=\"[all[shadows+tiddlers]tag[$:/tags/NotebookTopbar]!has[draft.of]]\" variable=\"listItem\">\n      <$reveal type=\"nomatch\" state=<<config-title>> text=\"hide\"  tag=\"div\">\n        <$transclude tiddler=<<listItem>> mode=\"block\"/>\n      </$reveal>\n    </$list>\n    <div class=\"left\">\n      {{$:/themes/nico/notebook/ui/Buttons/menu}}\n    </div>\n    <div class=\"right\">\n      {{$:/core/ui/SideBarSegments/page-controls}}\n    </div>\n  </div>\n</$reveal>\n\n",
-    "revision": "0",
-    "bag": "default"
+    "text": "<$reveal state=\"$:/state/notebook-bottombar\" type=\"match\" text=\"yes\" default=\"yes\" retain=\"yes\" animate=\"yes\">\n  <div class=\"nc-bar nc-bottombar\">\n    <$list filter=\"[all[shadows+tiddlers]tag[$:/tags/NotebookTopbar]!has[draft.of]]\" variable=\"listItem\">\n      <$reveal type=\"nomatch\" state=<<config-title>> text=\"hide\"  tag=\"div\">\n        <$transclude tiddler=<<listItem>> mode=\"block\"/>\n      </$reveal>\n    </$list>\n    <div class=\"left\">\n      {{$:/themes/nico/notebook/ui/Buttons/menu}}\n    </div>\n    <div class=\"right\">\n      {{$:/core/ui/SideBarSegments/page-controls}}\n    </div>\n  </div>\n</$reveal>\n\n"
 },
 
 "$:/themes/nico/notebook/ui/Buttons/menu": {
-    "title": "$:/themes/nico/notebook/ui/Buttons/menu",
     "created": "20200429115248943",
-    "modified": "20210124211756417",
+    "title": "$:/themes/nico/notebook/ui/Buttons/menu",
+    "modified": "20220726055455861",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
     "text": "<$reveal state=\"$:/state/notebook-sidebar\" type=\"match\" text=\"yes\" default=\"no\" retain=\"yes\" animate=\"no\">\n  <$button set=\"$:/state/notebook-sidebar\" setTo=\"no\" tooltip=\"Toggle menu\" class=\"tc-btn-invisible sidebar-toggle open\">\n    {{$:/themes/nico/notebook/images/bars}}\n  </$button>\n</$reveal>\n\n<$reveal type=\"nomatch\" state=\"$:/state/notebook-sidebar\" text=\"yes\">\n  <$button set=\"$:/state/notebook-sidebar\" setTo=\"yes\" tooltip=\"Toggle menu\" class=\"tc-btn-invisible sidebar-toggle\">\n    {{$:/themes/nico/notebook/images/bars}}\n  </$button>\n</$reveal>\n"
 },
 
 "$:/themes/nico/notebook/ui/Buttons/SwitchPalette": {
-    "title": "$:/themes/nico/notebook/ui/Buttons/SwitchPalette",
     "created": "20201210171047824",
-    "creator": "oeyoews",
+    "title": "$:/themes/nico/notebook/ui/Buttons/SwitchPalette",
     "description": "Toggle between grey/beige colour palette",
-    "modified": "20220213083718016",
-    "modifier": "oeyoews",
-    "tags": "deprecated",
+    "modified": "20220726055455861",
+    "tags": "$:/tags/PageControls",
     "type": "text/vnd.tiddlywiki",
-    "text": "/** $:/tags/PageControls */ \n\n<span class=\"desktop-only\">\n  <$vars\n    palettes=\"[all[tiddlers+shadows]tag[$:/tags/notebook/Palette]]\"\n    popupTiddler=<<qualify \"$:/state/notebook/palette-dropdown\">>\n  >\n    <$button\n      popup=<<popupTiddler>>\n      tooltip=\"Switch colours\"\n      aria-label=\"Switch colours\"\n      class=<<tv-config-toolbar-class>>\n    >\n      <$list filter=\"[<tv-config-toolbar-icons>match[yes]]\">\n\t{{$:/themes/nico/notebook/images/color-switch}}\n      </$list>\n\n      <$list filter=\"[<tv-config-toolbar-text>match[yes]]\">\n\t<span class=\"tc-btn-text\">Switch colours</span>\n      </$list>\n\n      <$reveal state=<<popupTiddler>> type=\"popup\" position=\"belowleft\" class=\"tc-drop-down\">\n\t<$list filter=<<palettes>>>\n\t  <$button class=\"tc-btn-invisible\">\n\t    {{!!name}}\n\t    <$action-setfield $tiddler=\"$:/palette\" text={{!!title}}/>\n\t  </$button>\n\t</$list>\n      </$reveal>\n\n    </$button>\n  </$vars>\n</span>\n",
-    "revision": "0",
-    "bag": "default"
+    "text": "<span class=\"desktop-only\">\n  <$vars\n    palettes=\"[all[tiddlers+shadows]tag[$:/tags/notebook/Palette]]\"\n    popupTiddler=<<qualify \"$:/state/notebook/palette-dropdown\">>\n  >\n    <$button\n      popup=<<popupTiddler>>\n      tooltip=\"Switch colours\"\n      aria-label=\"Switch colours\"\n      class=<<tv-config-toolbar-class>>\n    >\n      <$list filter=\"[<tv-config-toolbar-icons>match[yes]]\">\n\t{{$:/themes/nico/notebook/images/color-switch}}\n      </$list>\n\n      <$list filter=\"[<tv-config-toolbar-text>match[yes]]\">\n\t<span class=\"tc-btn-text\">Switch colours</span>\n      </$list>\n\n      <$reveal state=<<popupTiddler>> type=\"popup\" position=\"belowleft\" class=\"tc-drop-down\">\n\t<$list filter=<<palettes>>>\n\t  <$button class=\"tc-btn-invisible\">\n\t    {{!!name}}\n\t    <$action-setfield $tiddler=\"$:/palette\" text={{!!title}}/>\n\t  </$button>\n\t</$list>\n      </$reveal>\n\n    </$button>\n  </$vars>\n</span>\n"
 },
 
 "$:/themes/nico/notebook/ui/Search": {
-    "title": "$:/themes/nico/notebook/ui/Search",
     "created": "20200429191943257",
-    "modified": "20210126170723413",
+    "title": "$:/themes/nico/notebook/ui/Search",
+    "modified": "20220726055455861",
     "type": "text/vnd.tiddlywiki",
     "text": "\\define advanced-search-actions()\n<$action-setfield $tiddler=\"$:/temp/advancedsearch/input\" text={{$:/temp/notebook-search}}/>\n<$action-setfield $tiddler=\"$:/temp/advancedsearch/refresh\" text=\"yes\"/>\n<$action-navigate $to=\"$:/AdvancedSearch\"/>\n\\end\n\n\\define input-accept-actions()\n<$list filter=\"[<__tiddler__>get[text]!is[missing]] ~[<__tiddler__>get[text]is[shadow]]\">\n  <$action-navigate $to={{{ [<__tiddler__>get[text]] }}}/>\n  <$action-deletetiddler $filter=\"[[$:/temp/search]] [<searchTiddler>] [<searchListState>]\"/>\n</$list>\n\\end\n\n\\define cancel-search-actions()\n<$list filter=\"[<searchTiddler>get[text]!match{$:/temp/search}]\" emptyMessage=\"\"\"<$action-deletetiddler $filter=\"[[$:/temp/search]] [<searchTiddler>] [<searchListState>]\"/>\"\"\">\n  <$action-setfield $tiddler=\"$:/temp/search\" text={{{ [<searchTiddler>get[text]] }}}/>\n  <$action-setfield $tiddler=\"$:/temp/search/refresh\" text=\"yes\"/></$list>\n\\end\n\n<$vars editTiddler=\"$:/temp/search\"\n       searchTiddler=\"$:/temp/search/input\"\n       searchListState=<<qualify \"$:/state/search-list/selected-item\">>>\n  <$macrocall $name=\"keyboard-driven-input\"\n\t      tiddler=<<editTiddler>>\n\t      storeTitle=<<searchTiddler>>\n\t      selectionStateTitle=<<searchListState>>\n\t      refreshTitle=\"$:/temp/search/refresh\"\n\t      type=\"search\"\n\t      tag=\"input\"\n\t      focus={{$:/config/Search/AutoFocus}}\n\t      focusPopup=\"$:/state/popup/notebook-search\"\n\t      class=\"tc-popup-handle\"\n\t      filterMinLength={{$:/config/Search/MinLength}}\n\t      placeholder=\"Search...\"\n\t      inputAcceptActions=<<input-accept-actions>>\n\t      inputCancelActions=<<cancel-search-actions>>\n\t      cancelPopups=\"yes\"\n\t      configTiddlerFilter=\"[[$:/state/search/currentTab]!is[missing]get[text]] ~[{$:/config/SearchResults/Default}]\"\n\t      />\n  <$button\n    tooltip={{$:/language/Buttons/AdvancedSearch/Hint}}\n    aria-label={{$:/language/Buttons/AdvancedSearch/Caption}}\n    class=\"tc-btn-invisible tc-page-controls\"\n    >\n    {{$:/core/images/advanced-search-button}}\n    <<advanced-search-actions>>\n  </$button>\n  <$reveal tag=\"div\" class=\"tc-block-dropdown-wrapper\" state=\"$:/state/popup/notebook-search\" type=\"nomatch\" text=\"\" default=\"\">\n    <$list filter=\"[<searchTiddler>get[text]minlength{$:/config/Search/MinLength}limit[1]]\" emptyMessage=\"\" variable=\"listItem\">\n      <div class=\"tc-block-dropdown tc-search-drop-down\">\n        <$tiddler tiddler=<<configTiddler>>>\n          {{$:/themes/nico/notebook/ui/Sidebar/SearchResults}}\n        </$tiddler>\n      </div>\n    </$list>\n  </$reveal>\n</$vars>\n"
 },
 
 "$:/themes/nico/notebook/ui/Sidebar": {
-    "title": "$:/themes/nico/notebook/ui/Sidebar",
     "created": "20200428201218885",
-    "modified": "20210112213605486",
+    "title": "$:/themes/nico/notebook/ui/Sidebar",
+    "modified": "20220726055455861",
     "tags": "$:/tags/PageTemplate",
     "type": "text/vnd.tiddlywiki",
     "text": "\\whitespace trim\n\\define config-title()\n$:/config/SideBarSegments/Visibility/$(listItem)$\n\\end\n\n<$reveal state=\"$:/state/notebook-sidebar\" type=\"match\" text=\"yes\" default=\"no\" retain=\"yes\" animate=\"no\">\n    <$scrollable fallthrough=\"no\">\n    <div class=\"nc-sidebar\">\n      <$list filter=\"[all[shadows+tiddlers]tag[$:/themes/nico/notebook/tags/Sidebar]!has[draft.of]]\" variable=\"listItem\">\n        <$reveal type=\"nomatch\" state=<<config-title>> text=\"hide\" tag=\"div\">\n          <$transclude tiddler=<<listItem>> mode=\"inline\"/>\n        </$reveal>\n      </$list>\n    </div>\n    </$scrollable>\n</$reveal>\n\n"
 },
 
 "$:/themes/nico/notebook/ui/Sidebar/Headings": {
-    "title": "$:/themes/nico/notebook/ui/Sidebar/Headings",
     "created": "20200429160014174",
-    "modified": "20201210210231267",
+    "title": "$:/themes/nico/notebook/ui/Sidebar/Headings",
+    "modified": "20220726055455862",
     "tags": "$:/themes/nico/notebook/tags/Sidebar",
     "type": "text/vnd.tiddlywiki",
     "text": "<div class=\"segment\">\n  <div class=\"content\">\n    <h1 class=\"tc-site-title\">\n      {{$:/SiteTitle}}\n    </h1>\n    <div class=\"tc-site-subtitle\">\n      {{$:/SiteSubtitle}}\n    </div>\n  </div>\n</div>\n"
 },
 
 "$:/themes/nico/notebook/ui/Sidebar/Search": {
-    "title": "$:/themes/nico/notebook/ui/Sidebar/Search",
     "created": "20200429191943257",
-    "modified": "20210124220152702",
+    "title": "$:/themes/nico/notebook/ui/Sidebar/Search",
+    "modified": "20220726055455862",
     "tags": "$:/themes/nico/notebook/tags/Sidebar",
     "type": "text/vnd.tiddlywiki",
     "text": "<div class=\"mobile-only\">\n  <div class=\"segment\">\n    <div class=\"content search\">\n      {{$:/themes/nico/notebook/ui/Search}}\n    </div>\n  </div>\n</div>\n"
 },
 
 "$:/themes/nico/notebook/ui/Sidebar/SearchResults": {
-    "title": "$:/themes/nico/notebook/ui/Sidebar/SearchResults",
     "created": "20200429191943257",
-    "modified": "20210126164631418",
+    "title": "$:/themes/nico/notebook/ui/Sidebar/SearchResults",
+    "modified": "20220726055455862",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
     "text": "\\define searchResultList()\n  <small>{{$:/language/Search/Matches/Title}}</small>\n\n  <$list filter=\"[!is[system]search:title{$(searchTiddler)$}sort[title]limit[250]]\">\n    <span class={{{[<currentTiddler>addsuffix[-primaryList]] -[<searchListState>get[text]] +[then[]else[tc-list-item-selected]] }}}>\n      <$transclude tiddler=\"$:/core/ui/ListItemTemplate\"/>\n    </span>\n  </$list>\n\n  <small>{{$:/language/Search/Matches/All}}</small>\n\n  <$list filter=\"[!is[system]search{$(searchTiddler)$}sort[title]limit[250]]\">\n    <span class={{{[<currentTiddler>addsuffix[-secondaryList]] -[<searchListState>get[text]] +[then[]else[tc-list-item-selected]] }}}>\n      <$transclude tiddler=\"$:/core/ui/ListItemTemplate\"/>\n    </span>\n  </$list>\n\\end\n\n<div class=\"tc-search-results\">\n  <<searchResultList>>\n</div>\n"
 },
 
 "$:/themes/nico/notebook/ui/Sidebar/Sections": {
-    "title": "$:/themes/nico/notebook/ui/Sidebar/Sections",
     "created": "20200429163239707",
-    "modified": "20210112213620486",
+    "title": "$:/themes/nico/notebook/ui/Sidebar/Sections",
+    "modified": "20220726055455862",
     "tags": "$:/themes/nico/notebook/tags/Sidebar",
     "type": "text/vnd.tiddlywiki",
     "text": "<$list filter=\"[all[shadows+tiddlers]!has[draft.of]tag[$:/tags/SideBar]]\">\n  {{||$:/themes/nico/notebook/ui/Sidebar/SectionTemplate}}\n</$list>\n"
 },
 
 "$:/themes/nico/notebook/ui/Sidebar/SectionTemplate": {
-    "title": "$:/themes/nico/notebook/ui/Sidebar/SectionTemplate",
     "created": "20200429161226897",
-    "modified": "20210202213859460",
+    "title": "$:/themes/nico/notebook/ui/Sidebar/SectionTemplate",
+    "modified": "20220726055455862",
     "type": "text/vnd.tiddlywiki",
     "text": "\\define sidebarHeading()\n<$vars tv-wikilinks=\"no\">\n  <$transclude field=\"caption\">\n    <$view field=\"title\"/>\n  </$transclude>\n</$vars>\n\\end\n\n<$reveal state=\"$:/state/notebook-sidebar-section\" type=\"match\" text=<<currentTiddler>> default=\"no\" animate=\"no\">\n  <div class=\"segment section open\">\n    <$button set=\"$:/state/notebook-sidebar-section\" setTo=\"\" class=\"tc-btn-invisible label\">\n      <<sidebarHeading>>\n      <span class=\"caret\">{{$:/themes/nico/notebook/images/caret-down}}</span>\n    </$button>\n    <div class=\"content\">\n      <$transclude $tiddler=<<currentTiddler>> mode=\"block\"/>\n    </div>\n  </div>\n</$reveal>\n<$reveal state=\"$:/state/notebook-sidebar-section\" type=\"nomatch\" text=<<currentTiddler>> default=\"yes\" animate=\"no\">\n  <div class=\"segment section\">\n    <$button set=\"$:/state/notebook-sidebar-section\" setTo=<<currentTiddler>> class=\"tc-btn-invisible label\">\n      <<sidebarHeading>>\n      <span class=\"caret\">{{$:/themes/nico/notebook/images/caret-right}}</span>\n    </$button>\n  </div>\n</$reveal>\n"
 },
 
 "$:/themes/nico/notebook/ui/Topbar": {
-    "title": "$:/themes/nico/notebook/ui/Topbar",
     "created": "20200428203101797",
-    "modified": "20210124213834458",
+    "title": "$:/themes/nico/notebook/ui/Topbar",
+    "modified": "20220726055455862",
     "tags": "$:/tags/PageTemplate",
     "type": "text/vnd.tiddlywiki",
     "text": "<$reveal state=\"$:/state/notebook-topbar\" type=\"match\" text=\"yes\" default=\"yes\" retain=\"yes\" animate=\"yes\">\n  <div class=\"nc-topbar-wrapper\">\n    <div class=\"nc-bar nc-topbar tc-adjust-top-of-scroll\">\n      <$list filter=\"[all[shadows+tiddlers]tag[$:/tags/NotebookTopbar]!has[draft.of]]\" variable=\"listItem\">\n        <$reveal type=\"nomatch\" state=<<config-title>> text=\"hide\" tag=\"div\">\n          <$transclude tiddler=<<listItem>> mode=\"block\"/>\n        </$reveal>\n      </$list>\n      <div class=\"left\">\n\t{{$:/themes/nico/notebook/ui/Buttons/menu}}\n        {{$:/themes/nico/notebook/ui/Search}}\n      </div>\n      <div class=\"right\">\n        {{$:/core/ui/SideBarSegments/page-controls}}\n      </div>\n    </div>\n  </div>\n</$reveal>\n\n"
 },
 
-"$:/themes/tiddlywiki/vanilla/themetweaks": {
-    "title": "$:/themes/tiddlywiki/vanilla/themetweaks",
-    "caption": "{{$:/language/ThemeTweaks/ThemeTweaks}}",
-    "created": "20201217163834291",
-    "modified": "20201217163914434",
+"$:/config/shortcuts/notebook-focus-search": {
+    "title": "$:/config/shortcuts/notebook-focus-search",
+    "created": "20220106043757586",
+    "creator": "oeyoews",
+    "modified": "20220310163904067",
+    "modifier": "@oeyoews",
     "type": "text/vnd.tiddlywiki",
-    "text": "Overwritten by $:/themes/nico/notebook so that the Vanilla theme tweaks do not appear in the control panel. "
+    "text": "alt-Q",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/more-page-actions": {
+    "title": "$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/more-page-actions",
+    "created": "20211226085852002",
+    "creator": "oeyoews",
+    "modified": "20220405141915337",
+    "modifier": "@oeyoews",
+    "type": "text/vnd.tiddlywiki",
+    "text": "hide",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/home": {
+    "title": "$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/home",
+    "created": "20211226085911826",
+    "creator": "oeyoews",
+    "modified": "20220518142814047",
+    "modifier": "oeyoews",
+    "type": "text/vnd.tiddlywiki",
+    "text": "show",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/close-all": {
+    "title": "$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/close-all",
+    "created": "20211226094325084",
+    "creator": "oeyoews",
+    "modified": "20220518142814047",
+    "modifier": "oeyoews",
+    "type": "text/vnd.tiddlywiki",
+    "text": "show",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/config/ChinesePluginLibrary/Netlify": {
+    "title": "$:/config/ChinesePluginLibrary/Netlify",
+    "caption": "<$list filter=\"[[$:/language]get[text]removeprefix[$:/languages/]else[en-GB]]\" variable=\"lang\"><$list filter=\"[<lang>search:title[zh]]\">太微中文社区插件源(大陆加速版)</$list><$list filter=\"[<lang>!search:title[zh]]\">CPL</$list></$list>",
+    "created": "20211118102827947",
+    "creator": "Sttot",
+    "modified": "20220520001219659",
+    "modifier": "oeyoews",
+    "tags": "$:/tags/PluginLibrary",
+    "type": "text/vnd.tiddlywiki",
+    "url": "https://tw-cpl.netlify.app/library/index.html",
+    "text": "<!-- lang变量就是当前语言 -->\n<$list filter=\"[[$:/language]get[text]removeprefix[$:/languages/]else[en-GB]]\" variable=\"lang\">\n<$list filter=\"[<lang>!search:title[zh]]\" variable=\"lang\">\n\nTo add this plugin library to your Wiki, just drag this link with your mouse into your Wiki: <$link to=<<currentTiddler>>>{{!!caption}}</$link>\n\n</$list>\n</$list>",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/core/ui/SideBar/Tools": {
+    "title": "$:/core/ui/SideBar/Tools",
+    "caption": "{{$:/core/images/plugin-generic-theme}} {{$:/language/SideBar/Tools/Caption}}",
+    "created": "20220216223845613",
+    "creator": "oeyoews",
+    "modified": "20220720042450375",
+    "modifier": "oeyoews",
+    "tags": "examples $:/tags/SideBar",
+    "type": "text/vnd.tiddlywiki",
+    "text": "\\define lingo-base() $:/language/ControlPanel/\n\\define config-title()\n$:/config/PageControlButtons/Visibility/$(listItem)$\n\\end\n\n<!--<<lingo Basics/Version/Prompt>> <<version>>\n-->\n<$vars tv-config-toolbar-icons=\"yes\" tv-config-toolbar-text=\"yes\" tv-config-toolbar-class=\"\">\n\n<$list filter=\"[all[shadows+tiddlers]tag[$:/tags/PageControls]!has[draft.of]]\" variable=\"listItem\">\n\n<div style=\"position:relative;\" class={{{ [<listItem>encodeuricomponent[]addprefix[tc-btn-]] }}}>\n\n<$checkbox tiddler=<<config-title>> field=\"text\" checked=\"show\" unchecked=\"hide\" default=\"show\"/> <$transclude tiddler=<<listItem>>/>\n\n</div>\n\n</$list>\n\n</$vars>\n",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/images/css-gg/more-o": {
+    "title": "$:/images/css-gg/more-o",
+    "caption": "more-o",
+    "collection": "",
+    "library": "css.gg",
+    "library_version": "2.0.0",
+    "modified": "20220311041834048",
+    "modifier": "@oeyoews",
+    "tags": "$:/tags/Image Icons Images SVG",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<svg width=\"22pt\" height=\"22pt\" class=\"tc-image-cssgg-more-o tc-image-button\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M7 14C8.10457 14 9 13.1046 9 12C9 10.8954 8.10457 10 7 10C5.89543 10 5 10.8954 5 12C5 13.1046 5.89543 14 7 14Z\" fill=\"currentColor\"/><path d=\"M14 12C14 13.1046 13.1046 14 12 14C10.8954 14 10 13.1046 10 12C10 10.8954 10.8954 10 12 10C13.1046 10 14 10.8954 14 12Z\" fill=\"currentColor\"/><path d=\"M17 14C18.1046 14 19 13.1046 19 12C19 10.8954 18.1046 10 17 10C15.8954 10 15 10.8954 15 12C15 13.1046 15.8954 14 17 14Z\" fill=\"currentColor\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M24 12C24 18.6274 18.6274 24 12 24C5.37258 24 0 18.6274 0 12C0 5.37258 5.37258 0 12 0C18.6274 0 24 5.37258 24 12ZM22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12Z\" fill=\"currentColor\"/></svg>",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/core/ui/SideBar/More": {
+    "title": "$:/core/ui/SideBar/More",
+    "caption": "{{$:/images/css-gg/more-o}} {{$:/language/SideBar/More/Caption}}",
+    "created": "20220308172120805",
+    "creator": "@oeyoews",
+    "modified": "20220720042450375",
+    "modifier": "oeyoews",
+    "tags": "$:/tags/SideBar",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<div class=\"tc-more-sidebar\">\n<$macrocall $name=\"tabs\" tabsList=\"[all[shadows+tiddlers]tag[$:/tags/MoreSideBar]!has[draft.of]]\" default={{$:/config/DefaultMoreSidebarTab}} state=\"$:/state/tab/moresidebar\" class=\"tc-vertical tc-sidebar-tabs-more\" explicitState=\"$:/state/tab/moresidebar-1850697562\"/>\n</div>\n",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/images/templarian-material-design/email-receive-outline": {
+    "title": "$:/images/templarian-material-design/email-receive-outline",
+    "caption": "email-receive-outline",
+    "collection": "",
+    "library": "Templarian Material Design",
+    "library_version": "5.9.55",
+    "modified": "20220311041834056",
+    "modifier": "@oeyoews",
+    "tags": "$:/tags/Image Icons Images SVG",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<svg width=\"22pt\" height=\"22pt\" class=\"tc-image-tmd-email-receive-outline tc-image-button\" viewBox=\"0 0 24 24\"><path d=\"M22 20H18V23L13 18.5L18 14V17H22V20M20 4H4A2 2 0 0 0 2 6V18A2 2 0 0 0 4 20H11V18H4V8L12 13L20 8V15H22V6A2 2 0 0 0 20 4M12 11L4 6H20Z\" /></svg>",
+    "revision": "0",
+    "bag": "default"
 },
 
 "$:/palettes/SolarizedDarks": {
     "title": "$:/palettes/SolarizedDarks",
-    "text": "alert-background: #073642\nalert-border: #93a1a1\nalert-highlight: #d33682\nalert-muted-foreground: #d33682\nbackground: #073642\nblockquote-bar: #d33682\nbutton-background: #073642\nbutton-border: #586e75\nbutton-foreground: #93a1a1\ncode-background: #073642\ncode-border: #586e75\ncode-foreground: #d33682\ndirty-indicator: #002b36\ndownload-background: #859900\ndownload-foreground: #073642\ndragger-background: #073642\ndragger-foreground: #839496\ndropdown-background: #073642\ndropdown-border: #93a1a1\ndropdown-tab-background: #002b36\ndropdown-tab-background-selected: #073642\ndropzone-background: #859900\nexternal-link-background: inherit\nexternal-link-background-hover: inherit\nexternal-link-background-visited: inherit\nexternal-link-foreground: #268bd2\nexternal-link-foreground-hover: \nexternal-link-foreground-visited: #268bd2\nforeground: #839496\nmessage-background: #002b36\nmessage-border: #586e75\nmessage-foreground: #839496\nmodal-backdrop: #657b83\nmodal-background: #002b36\nmodal-border: #586e75\nmodal-footer-background: #073642\nmodal-footer-border: #586e75\nmodal-header-border: #586e75\nmuted-foreground: #93a1a1\nnotification-background: #002b36\nnotification-border: #586e75\npage-background: #073642\npre-background: inherit\npre-border: #657b83\nprimary: #765add\nselect-tag-background: #002b36\nselect-tag-foreground: #839496\nsidebar-button-foreground: #23d1d1\nsidebar-controls-foreground: #e1419f\nsidebar-controls-foreground-hover: #3cd831\nsidebar-foreground: #93a1a1\nsidebar-foreground-shadow: transparent\nsidebar-muted-foreground: #839496\nsidebar-muted-foreground-hover: #93a1a1\nsidebar-tab-background: #002b36\nsidebar-tab-background-selected: #0a415c\nsidebar-tab-border: #08343f\nsidebar-tab-border-selected: #107884\nsidebar-tab-divider: #0c4250\nsidebar-tab-foreground: #657b83\nsidebar-tab-foreground-selected: #e1419f\nsidebar-tiddler-link-foreground: #e1419f\nsidebar-tiddler-link-foreground-hover: #51f0c0\nsite-title-foreground: #d33682\nstatic-alert-foreground: #93a1a1\ntab-background: #073642\ntab-background-selected: #5972d9\ntab-border: #5972d9\ntab-border-selected: #5972d9\ntab-divider: #073642\ntab-foreground: #32b4c3\ntab-foreground-selected: \ntable-border: #7c99a2\ntable-footer-background: #073642\ntable-header-background: #073642\ntag-background: #b8f316\ntag-foreground: #002b36\ntiddler-background: #002b36\ntiddler-border: #20f3f3\ntiddler-controls-foreground: inherit\ntiddler-controls-foreground-hover: #d33682\ntiddler-controls-foreground-selected: #2aa198\ntiddler-editor-background: #002b36\ntiddler-editor-border: #073642\ntiddler-editor-border-image: #002b36\ntiddler-editor-fields-even: #002b36\ntiddler-editor-fields-odd: #073642\ntiddler-info-background: #073642\ntiddler-info-border: #657b83\ntiddler-info-tab-background: #002b36\ntiddler-link-background: #002b36\ntiddler-link-foreground: #2aa198\ntiddler-subtitle-foreground: #839496\ntiddler-title-foreground: #d33682\ntoolbar-cancel-button: #ffc72e\ntoolbar-close-button: #9a37eb\ntoolbar-delete-button: #dc322f\ntoolbar-done-button: #49fd17\ntoolbar-edit-button: #33d4e6\ntoolbar-info-button: #839496\ntoolbar-new-button: #839496\ntoolbar-options-button: #839496\ntoolbar-save-button: inherit\nuntagged-background: #586e75\nvery-muted-foreground: #586e75",
+    "text": "alert-background: #073642\nalert-border: #93a1a1\nalert-highlight: #d33682\nalert-muted-foreground: #d33682\nbackground: #073642\nblockquote-bar: #b8f316\nbutton-background: \nbutton-border: #586e75\nbutton-foreground: #93a1a1\ncode-background: #021f26\ncode-border: none\ncode-foreground: #5972d9\ndirty-indicator: #174c59\ndownload-background: #859900\ndownload-foreground: #073642\ndragger-background: #073642\ndragger-foreground: #839496\ndropdown-background: #002b36\ndropdown-border: #5ee4e4\ndropdown-tab-background: #002b36\ndropdown-tab-background-selected: #073642\ndropzone-background: #859900\nexternal-link-background-hover: \nexternal-link-background-visited: inherit\nexternal-link-foreground: #1a8de0\nexternal-link-foreground-visited: #268bd2\nforeground: #839496\nmessage-background: #084111\nmessage-border: none\nmessage-foreground: #0fa10f\nmodal-backdrop: #657b83\nmodal-background: #002b36\nmodal-border: #586e75\nmodal-footer-background: #073642\nmodal-footer-border: #586e75\nmodal-header-border: #586e75\nmuted-foreground: #93a1a1\nnotification-background: cyan\nnotification-border: none\npage-background: #073642\npre-background: inherit\npre-border: #657b83\nprimary: #5972d9\nselect-tag-background: #002b36\nselect-tag-foreground: #839496\nsidebar-button-foreground: #23d1d1\nsidebar-controls-foreground: #32b4c3\nsidebar-controls-foreground-hover: #6678d1\nsidebar-foreground: #93a1a1\nsidebar-foreground-shadow: transparent\nsidebar-muted-foreground: #839496\nsidebar-muted-foreground-hover: #93a1a1\nsidebar-tab-background: #002b36\nsidebar-tab-background-selected: #0a415c\nsidebar-tab-border: #08343f\nsidebar-tab-border-selected: #107884\nsidebar-tab-divider: #0c4250\nsidebar-tab-foreground: #657b83\nsidebar-tab-foreground-selected: #41dfe1\nsidebar-tiddler-link-foreground: cyan\nsidebar-tiddler-link-foreground-hover: #51f0c0\nsite-title-foreground: #5972d9\nstatic-alert-foreground: #93a1a1\ntab-background: #073642\ntab-background-selected: #073642\ntab-border: #5972d\ntab-border-selected: #5972d9\ntab-divider: #073642\ntab-foreground: #32b4c3\ntab-foreground-selected: #32b4c3\ntable-border: #\ntable-footer-background: #073642\ntable-header-background: #073642\ntag-background: #b8f316\ntag-foreground: #002b36\ntiddler-background: #002b36\ntiddler-border: #073642\ntiddler-controls-foreground: inherit\ntiddler-controls-foreground-hover: #d33682\ntiddler-controls-foreground-selected: #2aa198\ntiddler-editor-background: #002b36\ntiddler-editor-border: #073642\ntiddler-editor-border-image: #002b36\ntiddler-editor-fields-even: #002b36\ntiddler-editor-fields-odd: #073642\ntiddler-info-background: #073642\ntiddler-info-border: #657b83\ntiddler-info-tab-background: #002b36\ntiddler-link-background: #77d6ee\ntiddler-link-foreground: #2aa198\ntiddler-subtitle-foreground: \ntiddler-title-foreground: #5972d9\ntoolbar-cancel-button: #ffc72e\ntoolbar-close-button: #28d5d7\ntoolbar-delete-button: #dc322f\ntoolbar-done-button: #49fd17\ntoolbar-edit-button: #33d4e6\ntoolbar-info-button: #839496\ntoolbar-new-button: #839496\ntoolbar-options-button: #839496\ntoolbar-save-button: inherit\nuntagged-background: #586e75\nvery-muted-foreground: #586e75\nexternal-link-foreground-hover: #4b7bec",
     "type": "application/x-tiddler-dictionary",
     "color-scheme": "dark",
     "created": "20220211084913894",
     "creator": "oeyoews",
     "description": "Precision dark colors for machines and people",
     "license": "MIT, Ethan Schoonover, https://github.com/altercation/solarized/blob/master/LICENSE",
-    "modified": "20220216200356718",
-    "modifier": "oeyoews",
+    "modified": "20220403040906020",
+    "modifier": "@oeyoews",
     "name": "SolarizedDarks",
     "tags": "$:/tags/Palette",
     "revision": "0",
@@ -407,121 +501,79 @@
 
 "$:/palette": {
     "title": "$:/palette",
-    "created": "20220217035103212",
-    "modified": "20220217035103212",
+    "created": "20211226080330360",
+    "creator": "oeyoews",
+    "modified": "20220324065025472",
+    "modifier": "@oeyoews",
     "type": "text/vnd.tiddlywiki",
     "text": "$:/palettes/SolarizedDarks",
     "revision": "0",
     "bag": "default"
 },
 
-"$:/core/ui/SideBar/Tools": {
-    "title": "$:/core/ui/SideBar/Tools",
-    "caption": "{{$:/language/SideBar/Tools/Caption}}",
-    "created": "20220216223845613",
-    "creator": "oeyoews",
-    "modified": "20220216223847753",
+"$:/core/ui/SideBar/Recent": {
+    "title": "$:/core/ui/SideBar/Recent",
+    "caption": "{{$:/images/templarian-material-design/email-receive-outline}} {{$:/language/SideBar/Recent/Caption}}",
+    "created": "20220308171853376",
+    "creator": "@oeyoews",
+    "modified": "20220518142814048",
     "modifier": "oeyoews",
-    "tags": "$:/tags/SideBar examples",
+    "tags": "$:/tags/SideBar",
     "type": "text/vnd.tiddlywiki",
-    "text": "\\define lingo-base() $:/language/ControlPanel/\n\\define config-title()\n$:/config/PageControlButtons/Visibility/$(listItem)$\n\\end\n\n<<lingo Basics/Version/Prompt>> <<version>>\n\n<$vars tv-config-toolbar-icons=\"yes\" tv-config-toolbar-text=\"yes\" tv-config-toolbar-class=\"\">\n\n<$list filter=\"[all[shadows+tiddlers]tag[$:/tags/PageControls]!has[draft.of]]\" variable=\"listItem\">\n\n<div style=\"position:relative;\" class={{{ [<listItem>encodeuricomponent[]addprefix[tc-btn-]] }}}>\n\n<$checkbox tiddler=<<config-title>> field=\"text\" checked=\"show\" unchecked=\"hide\" default=\"show\"/> <$transclude tiddler=<<listItem>>/>\n\n</div>\n\n</$list>\n\n</$vars>\n",
+    "text": "<$macrocall $name=\"timeline\" limit=15 subfilter=\"!tag[done]!tag[todo]!tag[?]!tag[!]!prefix[2022hkw/]!tag[EnglishWord]!tag[Journal]!tag[$:/tags/TextEditor/Snippet]\" format={{$:/language/RecentChanges/DateFormat}}/>\n",
     "revision": "0",
     "bag": "default"
 },
 
-"$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/close-all": {
-    "title": "$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/close-all",
-    "created": "20220217035705749",
-    "modified": "20220217035705749",
-    "type": "text/vnd.tiddlywiki",
-    "text": "show",
-    "revision": "0",
-    "bag": "default"
-},
-
-"$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/home": {
-    "title": "$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/home",
-    "created": "20220217035704889",
-    "modified": "20220217035704889",
-    "type": "text/vnd.tiddlywiki",
-    "text": "show",
-    "revision": "0",
-    "bag": "default"
-},
-
-"$:/plugins/linonetwo/itonnote/Macros/TransclusionWithEditMe": {
-    "title": "$:/plugins/linonetwo/itonnote/Macros/TransclusionWithEditMe",
-    "caption": "带有「编辑此块」的引用transclusion宏",
-    "created": "20200408094804792",
-    "creator": "LinOnetwo",
-    "modified": "20220216145030764",
+"$:/core/ui/SideBar/Open": {
+    "title": "$:/core/ui/SideBar/Open",
+    "caption": "{{$:/core/images/folder}} {{$:/language/SideBar/Open/Caption}}",
+    "created": "20220104160004468",
+    "creator": "@oeyoews",
+    "modified": "20220518142814048",
     "modifier": "oeyoews",
-    "tags": "$:/tags/Macro examples macro",
+    "tags": "$:/tags/SideBar",
     "type": "text/vnd.tiddlywiki",
-    "text": "\\define reuse-pane(content)\n<style>\n.reuse-pane {\n\tposition: absolute;\n\tright: 10px;\n\twidth: auto;\n\tmax-width: 4px;\n\theight: 1.5em;\n\toverflow: hidden;\n\tborder: 10px solid transparent;\n\tborder-top: 0;\n\tbox-sizing: content-box;\n\ttransition: max-width 0.5s;\n}\n.reuse-pane:hover {\n  max-width: 80vw;\n}\n.reuse-pane-content {\n\tdisplay: inline-block;\n\tbackground-color:  #002b36;\n\tborder-left: 4px solid cyan;\n\tpadding: 0px 5px;\n\tpadding-bottom: 2px;\n}\n</style>\n<div class=\"reuse-pane\">\n  <small class=\"reuse-pane-content\">$content$</small>\n</div>\n\\end\n\n\\define reuse-tiddler(title)\n<$macrocall $name=\"reuse-pane\" content=\"\"\"\n查看引文：[[$title$]]\n\"\"\" />\n\n{{$title$}}\n\n\\end",
+    "text": "\\whitespace trim\n\\define lingo-base() $:/language/CloseAll/\n\n\\define drop-actions()\n<$action-listops $tiddler=<<tv-story-list>> $subfilter=\"+[insertbefore:currentTiddler<actionTiddler>]\"/>\n\\end\n\n\\define placeholder()\n<div class=\"tc-droppable-placeholder\"/>\n\\end\n\n\\define droppable-item(button)\n\\whitespace trim\n<$droppable actions=<<drop-actions>> enable=<<tv-allow-drag-and-drop>>>\n<<placeholder>>\n<div>\n$button$\n</div>\n</$droppable>\n\\end\n\n<div class=\"tc-sidebar-tab-open\">\n<$list filter=\"[list<tv-story-list>]\" history=<<tv-history-list>> storyview=\"pop\">\n<div class=\"tc-sidebar-tab-open-item\">\n<$macrocall $name=\"droppable-item\" button=\"\"\"<$button message=\"tm-close-tiddler\" tooltip={{$:/language/Buttons/Close/Hint}} aria-label={{$:/language/Buttons/Close/Caption}} class=\"tc-btn-invisible tc-btn-mini tc-small-gap-right\">{{$:/core/images/close-button}}</$button><$link to={{!!title}}><$view field=\"title\"/></$link>\"\"\"/>\n</div>\n</$list>\n<$tiddler tiddler=\"\">\n<div>\n<$macrocall $name=\"droppable-item\" button=\"\"\"<$button message=\"tm-close-all-tiddlers\" class=\"tc-btn-invisible tc-btn-mini\"><<lingo Button>></$button>\"\"\"/>\n</div>\n</$tiddler>\n</div>\n",
     "revision": "0",
     "bag": "default"
 },
 
-"$:/config/KookmaPluginLibrary": {
-    "title": "$:/config/KookmaPluginLibrary",
-    "caption": "Kookma Plugin Library",
-    "created": "20200306121057751",
-    "modified": "20200323203955824",
-    "tags": "$:/tags/PluginLibrary",
-    "type": "text/vnd.tiddlywiki",
-    "url": "https://kookma.github.io/TW-PluginLibrary/library/index.html",
-    "text": "Kookma plugin library is a set of plugins, themes, and scripts, to extend functionality and add new features to Tiddlywiki. For detail information visit the library at [[GitHub|https://github.com/kookma]]. It is recommended to backup your data before installing any plugin, theme, or script. \n\nTo use in other wikis, drag and drop this link to those wikis: [[Kookma Plugin Library|$:/config/KookmaPluginLibrary]]",
-    "revision": "0",
-    "bag": "default"
+"$:/config/Search/AutoFocus": {
+    "created": "20220726055455859",
+    "title": "$:/config/Search/AutoFocus",
+    "text": "false",
+    "modified": "20220726055455859"
 },
 
-"$:/config/wikilabs/PluginLibraryWL/latest": {
-    "title": "$:/config/wikilabs/PluginLibraryWL/latest",
-    "caption": "Wikilabs Library",
-    "tags": "$:/tags/PluginLibrary",
-    "type": "text/vnd.tiddlywiki",
-    "url": "https://wikilabs.github.io/editions/pluginlibraryWL/library/latest/index.html",
-    "text": "~WikiLabs plugin library latest version!\n",
-    "revision": "0",
-    "bag": "default"
+"$:/config/ShortcutInfo/notebook-focus-search": {
+    "created": "20220726055455859",
+    "title": "$:/config/ShortcutInfo/notebook-focus-search",
+    "text": "Focus on the topbar search field",
+    "modified": "20220726055455859"
 },
 
-"$:/config/ChinesePluginLibrary/Netlify": {
-    "title": "$:/config/ChinesePluginLibrary/Netlify",
-    "caption": "<$list filter=\"[[$:/language]get[text]removeprefix[$:/languages/]else[en-GB]]\" variable=\"lang\"><$list filter=\"[<lang>search:title[zh]]\">太微中文社区插件源(大陆加速版)</$list><$list filter=\"[<lang>!search:title[zh]]\">TiddlyWiki Chinese CPL(Netlify Host)</$list></$list>",
-    "created": "20211118102827947",
-    "creator": "Sttot",
-    "modified": "20211214150410056",
-    "modifier": "Sttot",
-    "tags": "$:/tags/PluginLibrary",
-    "type": "text/vnd.tiddlywiki",
-    "url": "https://tw-cpl.netlify.app/library/index.html",
-    "text": "<!-- lang变量就是当前语言 -->\n<$list filter=\"[[$:/language]get[text]removeprefix[$:/languages/]else[en-GB]]\" variable=\"lang\">\n<$list filter=\"[<lang>search:title[zh]]\" variable=\"lang\">\n\n欢迎使用''【太微中文社区插件源】''！\n\n本插件源是由[[太微(TiddlyWiki)中文社区|https://github.com/tiddly-gittly]]维护的、致力于搜集网络上所有与 ~TiddlyWiki5 有关插件的、希望为中国以及全世界的太微用户提供一键安装、更新插件体验的公开插件源。\n\n如果还不了解该如何使用太微和本插件源，欢迎阅读[[中文社区共建的太微（TiddlyWiki）教程|https://tw-cn.netlify.app]]里插件相关的部分。如上提到的插件源和教程皆为开源项目，你可以在 [[GitHub|https://github.com/tiddly-gittly]] 中找到并参与贡献！如果乐意，可以通过QQ群等方式加入我们，详情请见如上提到的中文教程。\n\n要添加这个插件库到你的 Wiki 中，只需鼠标拖动这个链接到你的 Wiki 里即可：<$link to=<<currentTiddler>>>{{!!caption}}</$link>\n\n注意：本插件源版本为经过 netlify.app 加速的版本，对国内用户更加友好，但是更新有一定的延迟。还提供另一版本，是直接使用 ~GitHub Page 服务器的版本，更新更快，但是可能需要科学上网手段。\n\n</$list>\n\n<$list filter=\"[<lang>!search:title[zh]]\" variable=\"lang\">\n\nWelcome to the ''[TiddlyWiki Chinese Community Plugin Source]''!\n\nThis plugin source is maintained by the [[TiddlyWiki Chinese Community]] and is dedicated to collecting all TiddlyWiki5 related plugins on the web, hoping to provide a one-click installation and update plugin experience for TiddlyWiki users in China and around the world.\n\nIf you don't know how to use TiddlyWiki and this source, you are welcome to read the plugins related section in the [[TiddlyWiki Tutorials for Chinese Communities|https://tw-cn.netlify.app]]. As mentioned above, both the plugin source and the tutorial are open source projects, you can find them in [[GitHub|https://github.com/tiddly-gittly]] and participate in contributing! If you like, you can join us through QQ groups and other means, see the Chinese tutorials mentioned above for details.\n\nTo add this plugin library to your Wiki, just drag this link with your mouse into your Wiki: <$link to=<<currentTiddler>>>{{!!caption}}</$link>\n\nNote: The source version of this plugin is a version accelerated by netlify.app, which is more friendly to China mainland users, but there is a delay in updating. There is also another version that uses the GitHub Page server directly, which is faster to update, but may require technology to overturn the GFW.\n\n</$list>\n</$list>",
-    "revision": "0",
-    "bag": "default"
+"$:/config/shortcuts/sidebar-search": {
+    "created": "20220726055455859",
+    "title": "$:/config/shortcuts/sidebar-search",
+    "text": "",
+    "modified": "20220726055455859"
 },
 
-"$:/config/OfficialPluginLibrary": {
-    "title": "$:/config/OfficialPluginLibrary",
-    "caption": "{{$:/language/OfficialPluginLibrary}}",
-    "created": "20220104140438777",
-    "modified": "20220104140438777",
-    "tags": "$:/tags/PluginLibrary",
+"$:/core/ui/PageTemplate/sidebar": {
+    "created": "20200430072116835",
+    "title": "$:/core/ui/PageTemplate/sidebar",
+    "modified": "20220726055455859",
     "type": "text/vnd.tiddlywiki",
-    "url": "https://tiddlywiki.com/library/v5.2.1/index.html",
-    "text": "{{$:/language/OfficialPluginLibrary/Hint}}",
-    "revision": "0",
-    "bag": "default"
+    "text": "\\whitespace trim\n\\define config-title()\n$:/config/SideBarSegments/Visibility/$(listItem)$\n\\end\n\nOverwritten by $:/themes/nico/notebook so that the default sidebar does not get rendered.\n"
 },
 
-"$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/more-page-actions": {
-    "title": "$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/more-page-actions",
-    "created": "20220217041606331",
-    "modified": "20220217041606331",
+"$:/themes/tiddlywiki/vanilla/themetweaks": {
+    "created": "20201217163834291",
+    "title": "$:/themes/tiddlywiki/vanilla/themetweaks",
+    "caption": "{{$:/language/ThemeTweaks/ThemeTweaks}}",
+    "modified": "20220726055455862",
     "type": "text/vnd.tiddlywiki",
-    "text": "show",
-    "revision": "0",
-    "bag": "default"
+    "text": "Overwritten by $:/themes/nico/notebook so that the Vanilla theme tweaks do not appear in the control panel. "
 }}
 }

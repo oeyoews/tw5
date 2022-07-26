@@ -1,17 +1,14 @@
-author: NicolasPetton
+author: oeyoews
 core-version: >=5.1.22
-created: 20210203201618013
-creator: oeyoews
-dependents: $:/themes/tiddlywiki/vanilla
+created: 20220726055455858
+dependents: $:/themes/tiddlywiki/vanilla $:/plugins/nico/notebook-mobile
 description: A clean, uncluttered TiddlyWiki theme
-extra-tiddlers: $:/config/Search/AutoFocus $:/config/ShortcutInfo/notebook-focus-search $:/config/shortcuts/notebook-focus-search $:/config/shortcuts/sidebar-search $:/core/ui/PageTemplate/sidebar $:/themes/nico/notebook/base $:/themes/nico/notebook/changelog $:/themes/nico/notebook/images/bars $:/themes/nico/notebook/images/caret-down $:/themes/nico/notebook/images/caret-right $:/themes/nico/notebook/images/color-switch $:/themes/nico/notebook/LICENSE $:/themes/nico/notebook/metrics/bodyfontsize $:/themes/nico/notebook/metrics/bodylineheight $:/themes/nico/notebook/metrics/sidebar-width $:/themes/nico/notebook/metrics/story-width $:/themes/nico/notebook/metrics/topbar-height $:/themes/nico/notebook/options/codewrapping $:/themes/nico/notebook/options/reveal-tiddler-controls-on-hover $:/themes/nico/notebook/options/stickytitles $:/themes/nico/notebook/settings/codefontfamily $:/themes/nico/notebook/settings/fontfamily $:/themes/nico/notebook/shortcuts/notebook-focus-search $:/themes/nico/notebook/shortcuts/toggle-sidebar $:/themes/nico/notebook/stickytitles $:/themes/nico/notebook/tags/Sidebar $:/themes/nico/notebook/tags/SidebarSection $:/themes/nico/notebook/themetweaks $:/themes/nico/notebook/ui/Bottombar $:/themes/nico/notebook/ui/Buttons/menu $:/themes/nico/notebook/ui/Buttons/SwitchPalette $:/themes/nico/notebook/ui/Search $:/themes/nico/notebook/ui/Sidebar $:/themes/nico/notebook/ui/Sidebar/Headings $:/themes/nico/notebook/ui/Sidebar/Search $:/themes/nico/notebook/ui/Sidebar/SearchResults $:/themes/nico/notebook/ui/Sidebar/Sections $:/themes/nico/notebook/ui/Sidebar/SectionTemplate $:/themes/nico/notebook/ui/Topbar $:/themes/tiddlywiki/vanilla/themetweaks $:/palettes/SolarizedDarks $:/palette $:/core/ui/SideBar/Tools $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/close-all $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/home $:/plugins/linonetwo/itonnote/Macros/TransclusionWithEditMe $:/config/KookmaPluginLibrary $:/config/wikilabs/PluginLibraryWL/latest $:/config/ChinesePluginLibrary/Netlify $:/config/OfficialPluginLibrary $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/more-page-actions
-list: LICENSE changelog
-modified: 20220217042350295
-modifier: oeyoews
+list: README changelog
+modified: 20220726062246750
 name: Notebook theme
-plugin-draft: theme
+packaged-by: Gatha on 26th July 2022, 14:22:57
 plugin-type: theme
-source: https://github.com/NicolasPetton/Notebook
+source: 
 title: $:/themes/nico/notebook
 type: application/json
-version: 1.4.1
+version: 2.0.3
