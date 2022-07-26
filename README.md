@@ -40,7 +40,8 @@
 
 ## ShowCases
 
-[preview address](https://oeyoew.fun) or [tw5 vercel address](https://tw5s.vercel.app/)
+* Demo: [preview address](https://oeyoew.fun) or [tw5 vercel address](https://tw5s.vercel.app/)
+* Code: [gitlab](https://gitlab.com/oeyoews/tw5) and [github](https://github.com/oeyoews/tw5)
 
 <div align="center">
   <img src="img/preview.png" alt="preview" width=512/>
