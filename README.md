@@ -55,6 +55,7 @@
 * customize file struct, ui and etc
 * music player and random sentence on the bottom
 * fastly deploy site with multi types, like github actions, gitlab runner, vercel and etc
+* background run use systemd, startup automatically
 * etc
 
 ## 🧳 Install
