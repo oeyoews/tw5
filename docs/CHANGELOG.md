@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://gitlab.com/oeyoews/tw5/compare/v1.54.0...v2.0.0) (2022-07-26)
+
+
+### Features
+
+* **notebook:** use notebook 2.0.0 ([414eb3c](https://gitlab.com/oeyoews/tw5/commit/414eb3c814187a5028a2e88a91f691ef8e9c9801))
+
+
+### BREAKING CHANGES
+
+* **notebook:** use new pack notebook
+
 # [1.54.0](https://gitlab.com/oeyoews/tw5/compare/v1.53.0...v1.54.0) (2022-07-25)
 
 
