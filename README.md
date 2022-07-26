@@ -49,22 +49,12 @@
 
 ## ⛴️  Features
 
-* customize file struct, ui and etc
-* base web browser
-* support vercel
-* support simple gtd todo
-* embed music player and hitokoto
-* change font easily
-* note manager
-* diary support
-* support export pdf, markdown, html
+* based web browser
+* fastly visited
 * customize shortkeys
-* powerful search
-* random notes
-* support pwa devops
-* hundurds of plugins, many themes
-* support multiple language
-* save all data in local
+* customize file struct, ui and etc
+* music player and random sentence on the bottom
+* fastly deploy site with multi types, like github actions, gitlab runner, vercel and etc
 * etc
 
 ## 🧳 Install
