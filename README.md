@@ -40,6 +40,8 @@
 
 ## ShowCases
 
+[preview address](https://oeyoew.fun) or [tw5 vercel address](https://tw5s.vercel.app/)
+
 <div align="center">
   <img src="img/preview.png" alt="preview" width=512/>
 </div>
@@ -62,6 +64,7 @@
 * hundurds of plugins, many themes
 * support multiple language
 * save all data in local
+* etc
 
 ## 🧳 Install
 
