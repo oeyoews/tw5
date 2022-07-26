@@ -44,7 +44,10 @@
 * Code: [gitlab](https://gitlab.com/oeyoews/tw5) and [github](https://github.com/oeyoews/tw5)
 
 <div align="center">
-  <img src="img/preview.png" alt="preview" width=512/>
+
+| <img src="img/preview.png" alt="preview" width=512/> | <img src="img/01.png" alt="preview" width=512/> |
+|------------------------------------------------------|-------------------------------------------------|
+
 </div>
 
 ## ⛴️  Features
