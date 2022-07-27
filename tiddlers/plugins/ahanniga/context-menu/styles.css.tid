@@ -1,0 +1,65 @@
+created: 20220725150446044
+creator: oeyoews
+modified: 20220727142559646
+modifier: oeyoews
+tags: $:/tags/Stylesheet
+title: $:/plugins/ahanniga/context-menu/styles.css
+type: text/vnd.tiddlywiki
+
+
+
+.context-menu {
+    position: absolute;
+		min-width: 180px;
+    z-index: 599;
+    display: flex;
+    flex-direction: column;
+    background-color: <<colour dropdown-background>>;
+    border-radius: 6px;
+    box-shadow: 0 10px 20px rgb(64 64 64 / 5%);
+    padding: 0;
+    border: 1px solid <<colour dropdown-border>>;
+}
+
+.context-menu > ul {
+    list-style: none;
+    padding: 0;
+    margin: 6px 0;
+}
+
+.context-menu > ul > li > a {
+  font: inherit;
+  border: 0;
+  padding: 4px 14px 4px 10px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  position: relative;
+  text-decoration: unset;
+  color: <<colour foreground>>;
+  font-weight: 500;
+}
+
+.context-menu > ul > li > a:hover {
+    background: <<colour tiddler-link-foreground>>;
+    color: <<colour tiddler-link-background>>; 
+    fill: <<colour tiddler-link-background>>; 
+}
+
+.context-menu > ul > li > a:hover > svg {
+    color: <<colour tiddler-link-background>>; 
+    fill: <<colour tiddler-link-background>>; 
+}
+
+.context-menu > ul > li > a > i {
+  padding-right: 10px;
+}
+
+.context-menu > ul > li > a > svg {
+    color: <<colour foreground>>;
+    fill: <<colour foreground>>;
+    width: 13px;
+    margin-right: 9px;
+    height: 13px;
+}
+
