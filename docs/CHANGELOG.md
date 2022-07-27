@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://gitlab.com/oeyoews/tw5/compare/v2.1.1...v2.2.0) (2022-07-27)
+
+
+### Bug Fixes
+
+* **notebook:** remove shadow files to suit switch theme ([c3e518a](https://gitlab.com/oeyoews/tw5/commit/c3e518aaa568eb841e14b9caf3cbd664b7585802))
+
+
+### Features
+
+* **plugins:** add context-menu-plugin ([4f97d97](https://gitlab.com/oeyoews/tw5/commit/4f97d97b62f020139f9ded7447db85b4c9705125))
+
 ## [2.1.1](https://gitlab.com/oeyoews/tw5/compare/v2.1.0...v2.1.1) (2022-07-26)
 
 
