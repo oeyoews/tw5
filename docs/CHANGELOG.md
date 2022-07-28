@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.3.0](https://gitlab.com/oeyoews/tw5/compare/v2.2.0...v2.3.0) (2022-07-28)
+
+
+### Features
+
+* **plugin:** add aboutme plugin ([9d96716](https://gitlab.com/oeyoews/tw5/commit/9d96716f88e014fd72b85b0b5f6dec25e44ca756))
+
 # [2.2.0](https://gitlab.com/oeyoews/tw5/compare/v2.1.1...v2.2.0) (2022-07-27)
 
 
