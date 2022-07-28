@@ -76,13 +76,13 @@
 },
 
 "$:/plugins/oeyoews/twm/readme": {
+    "created": "20220509162413700",
+    "text": "\\define plugin() $:/plugins/oeyoews/twm\n\\define install()\n<$list\n  filter=\"[<transclusion>prefix[{$(plugin)$/readme|$(plugin)$/readme|||}]]\"\n  emptyMessage=\"$(plugin)$\"\n>\n{{ $(plugin)$||$:/core/ui/Components/plugin-info }}\n</$list>\n\\end\n\n<div style=\"text-align:center\">\n\n\n{{$:/plugins/oeyoews/twm/docs/gradienttext}}\n\n<div align=\"center\">\n<img src=\"https://img.shields.io/badge/System-Linux-white.svg?style=flat-square&logo=linux&logoColor=white&color=BB9AF7\" alt=\"system\">\n<img src=\"https://img.shields.io/gitlab/v/tag/oeyoews/twm?color=green&logo=FastAPI&style=flat-square\" alt=\"tag\">\n<img src=\"https://img.shields.io/badge/Gitlab-Yes-ffcc00.svg?style=flat-square&logo=gitlab&label=Gitlab\" alt=\"gitlab\">\n<img src=\"https://img.shields.io/badge/GIT-Yes-green.svg?style=flat-square&logo=git&label=GIT\" alt=\"git\">\n\n</div>\n\n[img[$:/plugins/oeyoews/twm/icon]]\n\n</div>\n\n\n* ''TWM'' is a music player plugin on Tiddlywiki5 🎵\n* You can edit this tiddler <$button> settings\n<$action-sendmessage $message=\"tm-edit-tiddler\" $param=\"$:/plugins/oeyoews/twm/settings\"/>\n</$button> to choose  what music playlist  or more optional configuration. For more details， please click the [[GitlabREADME|https://gitlab.com/oeyoews/twm/blob/main/README.md]]  link.\n\n* [[Jump to 🎵  TWM|$:/plugins/oeyoews/twm]]\n\n<div align=\"center\">\n[img width=512 [$:/plugins/oeyoews/twm/docs/preview]]\n</div>\n\n{{$:/plugins/oeyoews/twm/footertime}}\n\n\n\n[[Manually install|https://tiddlywiki.com/#Manually%20installing%20a%20plugin]] the plugin by dragging this link to your ~TiddlyWiki:\n\n<<install>>\n\nThen save and refresh your ~TiddlyWiki.\n",
     "title": "$:/plugins/oeyoews/twm/readme",
     "caption": "HomePage",
-    "created": "20220509162413700",
     "icon": "$:/plugins/oeyoews/twm/icon",
-    "modified": "20220727143545253",
+    "modified": "20220728162943392",
     "type": "text/vnd.tiddlywiki",
-    "text": "\\define plugin() $:/plugins/oeyoews/twm\n\\define install()\n<$list\n  filter=\"[<transclusion>prefix[{$(plugin)$/readme|$(plugin)$/readme|||}]]\"\n  emptyMessage=\"$(plugin)$\"\n>\n{{ $(plugin)$||$:/core/ui/Components/plugin-info }}\n</$list>\n\\end\n\n<div style=\"text-align:center\">\n\n\n{{$:/plugins/oeyoews/twm/docs/gradienttext}}\n\n<div align=\"center\">\n<img src=\"https://img.shields.io/badge/System-Linux-white.svg?style=flat-square&logo=linux&logoColor=white&color=BB9AF7\" alt=\"system\">\n<img src=\"https://img.shields.io/gitlab/v/tag/oeyoews/twm?color=green&logo=FastAPI&style=flat-square\" alt=\"tag\">\n<img src=\"https://img.shields.io/badge/Gitlab-Yes-ffcc00.svg?style=flat-square&logo=gitlab&label=Gitlab\" alt=\"gitlab\">\n<img src=\"https://img.shields.io/badge/GIT-Yes-green.svg?style=flat-square&logo=git&label=GIT\" alt=\"git\">\n\n</div>\n\n[img[$:/plugins/oeyoews/twm/icon]]\n\n</div>\n\n\n* ''TWM'' is a music player plugin on Tiddlywiki5 🎵\n* You can edit this tiddler [[Settings|$:/plugins/oeyoews/twm/settings]] to choose  what music playlist  or more optional configuration. For more details， please click the [[README|https://gitlab.com/oeyoews/twm/blob/main/README.md]]  link.\n* [[Jump to 🎵  TWM|$:/plugins/oeyoews/twm]]\n\n<div align=\"center\">\n[img width=512 [$:/plugins/oeyoews/twm/docs/preview]]\n</div>\n\n{{$:/plugins/oeyoews/twm/footertime}}\n\n\n\n[[Manually install|https://tiddlywiki.com/#Manually%20installing%20a%20plugin]] the plugin by dragging this link to your ~TiddlyWiki:\n\n<<install>>\n\nThen save and refresh your ~TiddlyWiki.\n",
     "revision": "0",
     "bag": "default"
 },
@@ -114,8 +114,6 @@
 },
 
 "oeyoews/twm": {
-    "created": "20220513164052878",
-    "text": "",
     "title": "oeyoews/twm",
     "cpl.author": "oeyoews",
     "cpl.core-version": ">=5.2.2",
@@ -127,6 +125,7 @@
     "cpl.source": "https://gitlab.com/oeyoews/twm/",
     "cpl.title": "$:/plugins/oeyoews/twm",
     "cpl.uri": "https://twms.vercel.app/index.html",
+    "created": "20220513164052878",
     "icon": "🎵",
     "modified": "20220728053615140",
     "page-cover": "https://images.unsplash.com/photo-1483412033650-1015ddeb83d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fG11c2ljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",

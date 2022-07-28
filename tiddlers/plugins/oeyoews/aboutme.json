@@ -1,51 +1,51 @@
 {"tiddlers": {
 "$:/plugins/oeyoews/aboutme/aboutme": {
     "created": "20220728150554607",
-    "text": "<!-- badges -->\n<div align=\"center\">\n<img src=\"https://img.shields.io/badge/C-BB9AF7?logo=c&logoColor=white&style=flat-square\" alt=\"c\" />\n<img src=\"https://img.shields.io/badge/Java-ffcc00?logo=openjdk&logoColor=red&style=flat-square\" alt=\"java\" />\n<img src=\"https://img.shields.io/badge/LUA-2c2cc7?style=flat-square&logo=lua&logoColor=white\" alt=\"Lua\" />\n<img src=\"https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=flat-square\" alt=\"Neovim\" />\n<img src=\"https://img.shields.io/badge/SHELL-121011?style=flat-square&logo=gnu-bash&logoColor=white\" alt=\"BASH\" />\n<img src=\"https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black\" alt=\"Linux\" />\n<img src=\"https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white\" alt=\"Git\" />\n<img src=\"https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽 Nice+To+Meet+U\">\n</div>\n\n---\n\n<!-- summary -->\n<div align=\"center\">\n<img src=\"https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oeyoews&theme=tokyonight \" alt=\"\">\n</div>\n\n<!-- repo -->\n<div align=\"center\">\n\n<a href=\"https://github.com/oeyoews/nvim\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n<a href=\"https://github.com/oeyoews/tw5\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n<a href=\"https://github.com/oeyoews/twm\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n<a href=\"https://github.com/oeyoews/dotfiles\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n\n</div>\n\n---\n\n<!-- medals -->\n<div align=\"center\"> <img src=\"https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=1&column=8&no-frame=true\"/> </div>",
+    "text": "<!-- badges -->\n<div align=\"center\">\n<img src=\"https://img.shields.io/badge/C-BB9AF7?logo=c&logoColor=white&style=flat-square\" alt=\"c\" />\n<img src=\"https://img.shields.io/badge/Java-ffcc00?logo=openjdk&logoColor=red&style=flat-square\" alt=\"java\" />\n<img src=\"https://img.shields.io/badge/LUA-2c2cc7?style=flat-square&logo=lua&logoColor=white\" alt=\"Lua\" />\n<img src=\"https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=flat-square\" alt=\"Neovim\" />\n<img src=\"https://img.shields.io/badge/SHELL-121011?style=flat-square&logo=gnu-bash&logoColor=white\" alt=\"BASH\" />\n<img src=\"https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black\" alt=\"Linux\" />\n<img src=\"https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white\" alt=\"Git\" />\n<img src=\"https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🌽 Nice+To+Meet+U\">\n</div>\n\n---\n\n<!-- summary -->\n<div align=\"center\">\n<img src=\"https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oeyoews&theme=tokyonight \" alt=\"\">\n</div>\n\n<!-- repo -->\n<div align=\"center\">\n\n<a href=\"https://github.com/oeyoews/nvim\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n<a href=\"https://github.com/oeyoews/tw5\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=tw5&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n<a href=\"https://github.com/oeyoews/twm\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=twm&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n<a href=\"https://github.com/oeyoews/dotfiles\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=dotfiles&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n\n</div>\n\n---\n\n<!-- medals -->\n<div align=\"center\"> <img src=\"https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=1&column=8&no-frame=true\"/> </div>",
     "title": "$:/plugins/oeyoews/aboutme/aboutme",
-    "modified": "20220728151259403",
-    "type": "text/vnd.tiddlywiki",
+    "modified": "20220728163502195",
     "tags": "",
-    "revision": "1",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "0",
     "bag": "default"
 },
 
 "$:/plugins/oeyoews/aboutme/core": {
-    "created": "20220728151603887",
-    "text": "\\whitespace trim\n<$button tooltip=\"🧑 show your info\" aria-label=\"show info\" class=<<tv-config-toolbar-class>>> \n{{$:/plugins/oeyoews/aboutme/icon}}\n\n<$list filter=\"[<tv-config-toolbar-text>match[yes]]\">\n<span class=\"tc-btn-text\">\n<$text text=\"show your info\"/>\n</span>\n</$list>\n\n<$action-navigate $to=\"$:/plugins/oeyoews/aboutme/aboutme\"/>\n\n</$button>",
     "title": "$:/plugins/oeyoews/aboutme/core",
+    "created": "20220728151603887",
+    "description": "show your information",
     "modified": "20220728152130841",
-    "type": "text/vnd.tiddlywiki",
     "tags": "$:/tags/PageControls",
-    "description": "show your information"
+    "type": "text/vnd.tiddlywiki",
+    "text": "\\whitespace trim\n<$button tooltip=\"🧑 show your info\" aria-label=\"show info\" class=<<tv-config-toolbar-class>>> \n{{$:/plugins/oeyoews/aboutme/icon}}\n\n<$list filter=\"[<tv-config-toolbar-text>match[yes]]\">\n<span class=\"tc-btn-text\">\n<$text text=\"show your info\"/>\n</span>\n</$list>\n\n<$action-navigate $to=\"$:/plugins/oeyoews/aboutme/aboutme\"/>\n\n</$button>",
+    "revision": "0",
+    "bag": "default"
 },
 
 "$:/plugins/oeyoews/aboutme/icon": {
-    "created": "20220728150311379",
-    "text": "<svg width=\"22pt\" height=\"22pt\" class=\"tc-image-home-button tc-image-button\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d=\"M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256s256-114.6 256-256S397.4 0 256 0zM256 128c39.77 0 72 32.24 72 72S295.8 272 256 272c-39.76 0-72-32.24-72-72S216.2 128 256 128zM256 448c-52.93 0-100.9-21.53-135.7-56.29C136.5 349.9 176.5 320 224 320h64c47.54 0 87.54 29.88 103.7 71.71C356.9 426.5 308.9 448 256 448z\"/></svg>",
     "title": "$:/plugins/oeyoews/aboutme/icon",
+    "created": "20220728150311379",
     "modified": "20220728150504736",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
-    "revision": "2",
+    "text": "<svg width=\"22pt\" height=\"22pt\" class=\"tc-image-home-button tc-image-button\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d=\"M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256s256-114.6 256-256S397.4 0 256 0zM256 128c39.77 0 72 32.24 72 72S295.8 272 256 272c-39.76 0-72-32.24-72-72S216.2 128 256 128zM256 448c-52.93 0-100.9-21.53-135.7-56.29C136.5 349.9 176.5 320 224 320h64c47.54 0 87.54 29.88 103.7 71.71C356.9 426.5 308.9 448 256 448z\"/></svg>",
+    "revision": "0",
     "bag": "default"
 },
 
 "$:/plugins/oeyoews/aboutme/readme": {
     "created": "20220728150322747",
-    "text": "\\define plugin() $:/plugins/oeyoews/aboutme\n\\define install()\n<$list\n  filter=\"[<transclusion>prefix[{$(plugin)$/readme|$(plugin)$/readme|||}]]\"\n  emptyMessage=\"$(plugin)$\"\n>\n{{ $(plugin)$||$:/core/ui/Components/plugin-info }}\n</$list>\n\\end\n\n!! show your info\n\n* edit [[aboutme|$:/plugins/oeyoews/aboutme/aboutme]] to your info\n\n* <<install>>",
+    "text": "\\define plugin() $:/plugins/oeyoews/aboutme\n\\define install()\n<$list\n  filter=\"[<transclusion>prefix[{$(plugin)$/readme|$(plugin)$/readme|||}]]\"\n  emptyMessage=\"$(plugin)$\"\n>\n{{ $(plugin)$||$:/core/ui/Components/plugin-info }}\n</$list>\n\\end\n\n!! show your info\n\n* edit <$button> aboutme\n<$action-sendmessage $message=\"tm-edit-tiddler\" $param=\"$:/plugins/oeyoews/aboutme/aboutme\"/>\n</$button> to your info\n\n!! Install\n* drag this below to your tiddlywiki5\n* <<install>>",
     "title": "$:/plugins/oeyoews/aboutme/readme",
-    "modified": "20220728152841999",
-    "type": "text/vnd.tiddlywiki",
+    "modified": "20220728163343216",
     "tags": "",
-    "revision": "1",
+    "type": "text/vnd.tiddlywiki",
     "bag": "default",
-    "caption": "Info"
+    "caption": "Info",
+    "revision": "4"
 },
 
 "oeyoews/aboutme": {
-    "created": "20220728152635808",
-    "text": "",
     "title": "oeyoews/aboutme",
     "cpl.author": "oeyoews",
     "cpl.core-version": ">=5.2.2",
@@ -57,6 +57,7 @@
     "cpl.source": "https://twms.vercel.app/",
     "cpl.title": "$:/plugins/oeyoews/aboutme",
     "cpl.uri": "https://twms.vercel.app/index.html",
+    "created": "20220728152635808",
     "description": "This is a cpl release template",
     "icon": "🐮",
     "modified": "20220728152705052",
