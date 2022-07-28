@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.3.1](https://gitlab.com/oeyoews/tw5/compare/v2.3.0...v2.3.1) (2022-07-28)
+
+
+### Bug Fixes
+
+* **ImportToExternalFile:** disable this plugin ([00dd611](https://gitlab.com/oeyoews/tw5/commit/00dd611d5ae86959ca072bf997cdff0cef9935ac))
+
 # [2.3.0](https://gitlab.com/oeyoews/tw5/compare/v2.2.0...v2.3.0) (2022-07-28)
 
 
