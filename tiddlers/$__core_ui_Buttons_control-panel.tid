@@ -3,7 +3,7 @@ created: 20220321151701456
 creator: @oeyoews
 description: {{$:/language/Buttons/ControlPanel/Hint}}
 key: ((settings))
-modified: 20220417160939284
+modified: 20220729034551907
 modifier: oeyoews
 tags: $:/tags/PageControls
 title: $:/core/ui/Buttons/control-panel
@@ -14,7 +14,7 @@ type: text/vnd.tiddlywiki
 \whitespace trim
 <$button to="$:/ControlPanel" tooltip={{$:/language/Buttons/ControlPanel/Hint}} aria-label={{$:/language/Buttons/ControlPanel/Caption}} class="""$(tv-config-toolbar-class)$ $class$""">
 <$list filter="[<tv-config-toolbar-icons>match[yes]]">
-{{$:/images/google-material-design/action/sharp/24px/power-settings-new}}
+{{settings button}}
 </$list>
 <$list filter="[<tv-config-toolbar-text>match[yes]]">
 <span class="tc-btn-text"><$text text={{$:/language/Buttons/ControlPanel/Caption}}/></span>
