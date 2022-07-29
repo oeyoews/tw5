@@ -1,8 +1,8 @@
 created: 20220109181631056
 creator: @oeyoews
-modified: 20220408142458404
-modifier: @oeyoews
+modified: 20220729030500434
+modifier: oeyoews
 title: $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/new-tiddler
 type: text/vnd.tiddlywiki
 
-hide
+show
