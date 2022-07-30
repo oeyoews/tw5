@@ -23,46 +23,48 @@
 
 <!-- vim-markdown-toc GitLab -->
 
-* [📢 What's the tw5?](#-whats-the-tw5)
-* [ShowCases](#showcases)
-* [⛴️  Features](#-features)
-* [🧳 Install](#-install)
-* [as service with user](#as-service-with-user)
-* [🏡 Running](#-running)
-* [🌳 TODO](#-todo)
-* [🔫 CHANGELOG](#-changelog)
+- [📢 What's the tw5?](#-whats-the-tw5)
+- [ShowCases](#showcases)
+- [⛴️ Features](#-features)
+- [🧳 Install](#-install)
+- [as service with user](#as-service-with-user)
+- [🏡 Running](#-running)
+- [🌳 TODO](#-todo)
+- [🔫 CHANGELOG](#-changelog)
 
 <!-- vim-markdown-toc -->
 
 ## 📢 What's the tw5?
 
-* customize tiddlywiki5
+<!-- - A customize tiddlywiki5 edition -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&color=7279F3&vCenter=true&lines=+A+customize+tiddlywiki5+edition" alt="Typing SVG" /></a>
 
 ## ShowCases
 
-* Demo: [preview address](https://oeyoew.fun) or [tw5 vercel address](https://tw5s.vercel.app/)
-* Video Demo: [preview video](https://www.bilibili.com/video/BV13a411D7G6?spm_id_from=333.999.0.0)
-* Code: [gitlab](https://gitlab.com/oeyoews/tw5) and [github](https://github.com/oeyoews/tw5)
+- Demo: [preview address](https://oeyoew.fun) or [tw5 vercel address](https://tw5s.vercel.app/)
+- Video Demo: [preview video](https://www.bilibili.com/video/BV13a411D7G6?spm_id_from=333.999.0.0)
+- Code: [gitlab](https://gitlab.com/oeyoews/tw5) and [github](https://github.com/oeyoews/tw5)
 
 <div align="center">
 
-| <img src="img/preview.png" alt="preview" width=512/> |  <img src="img/01.png" alt="preview" width=512/> |
-|:----------------------------------------------------:|:------------------------------------------------:|
+| <img src="img/preview.png" alt="preview" width=512/> | <img src="img/01.png" alt="preview" width=512/> |
+| :--------------------------------------------------: | :---------------------------------------------: |
 |   <img src="img/02.png" alt="preview" height=256/>   | <img src="img/03.png" alt="preview" width=512/> |
 
 </div>
 
-## ⛴️  Features
+## ⛴️ Features
 
-* based web browser
-* fastly visited
-* customize shortkeys
-* customize file struct, ui and etc
-* music player and random sentence on the bottom
-* fastly deploy site with multi types, like github actions, gitlab runner, vercel and etc
-* background run use systemd, startup automatically
-* better experience on pc and iphone
-* etc
+- based web browser
+- fastly visited
+- customize shortkeys
+- customize file struct, ui and etc
+- music player and random sentence on the bottom
+- fastly deploy site with multi types, like github actions, gitlab runner, vercel and etc
+- background run use systemd, startup automatically
+- better experience on pc and iphone
+- etc
 
 ## 🧳 Install
 
