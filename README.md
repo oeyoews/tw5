@@ -19,21 +19,6 @@
 
 <hr>
 
-# Table Of Contents
-
-<!-- vim-markdown-toc GitLab -->
-
-- [📢 What's the tw5?](#-whats-the-tw5)
-- [ShowCases](#showcases)
-- [⛴️ Features](#-features)
-- [🧳 Install](#-install)
-- [as service with user](#as-service-with-user)
-- [🏡 Running](#-running)
-- [🌳 TODO](#-todo)
-- [🔫 CHANGELOG](#-changelog)
-
-<!-- vim-markdown-toc -->
-
 ## 📢 What's the tw5?
 
 <!-- - A customize tiddlywiki5 edition -->
