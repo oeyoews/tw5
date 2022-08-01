@@ -1,0 +1,60 @@
+counter: 
+created: 20210310161856175
+creator: oeyoews
+fields-to-hide: 
+modified: 20220801124230217
+modifier: oeyoews
+tags: $:/TiddlerSets $:/tags/Stylesheet
+title: $:/plugins/TWaddle/TiddlerSets/Stylesheet/toggles
+type: text/vnd.tiddlywiki
+
+\define sidebar-open-count()
+<$vars
+    uri=<<makedatauri '$(currentTiddler)$' "text/plain">>
+    urititle="""{{{ [<uri>removeprefix[data:text/plain,]] }}}"""
+>
+.tc-sidebar-tab-open-item a[href="#<<urititle>>"]:before { content: counter(section);  }
+</$vars>
+\end
+
+<pre>
+/*** COUNTER in SIDEBAR OPEN  ***/
+.tc-story-river, .tc-sidebar-tab-open {
+  counter-reset: section;
+}
+.tc-sidebar-tab-open-item [href]:before {
+  position:absolute; margin-left:-2.5em;
+  counter-increment: section;
+}
+<$list filter="[{$:/plugins/TWaddle/TiddlerSets/Stylesheet/toggles!!counter}match[true]]">
+<$list filter="""[tag[TiddlerSet]get[list]enlist-input[]] :intersection[enlist{$:/StoryList!!list}]"""><<sidebar-open-count>></$list>
+</$list>
+
+/*** COUNTER IN RIVER ***/
+<$vars  prefix="""[data-tiddler-title='""" suffix="""']""">
+<$list filter="""[tag[TiddlerSet]get[list]enlist-input[]addprefix<prefix>addsuffix<suffix>]""" variable=tid>
+<$list filter="[{$:/plugins/TWaddle/TiddlerSets/Stylesheet/toggles!!counter}match[true]]">
+<<tid>> .count::before {
+  content: counter(section) ;
+  counter-increment: section;
+  position:absolute; /* let title slip up beneath */
+  color: white;
+  background: #555; /* does not appear in print - ? */
+  border: 5px solid #555; 
+  padding: 5px 10px;
+  border-radius: 50%;
+  font-size:1.5em;
+  margin-top: 5px;
+  font-weight:bold;
+}
+<<tid>> .tc-tiddler-title {
+  margin-left:4em;
+}
+</$list>
+/*** HIDING OF FIELDS ***/
+<$list filter="[enlist{$:/plugins/TWaddle/TiddlerSets/Stylesheet/toggles!!fields-to-hide}]"><<tid>> {{!!title}} {
+  display:none;
+}
+</$list></$list>
+</$vars>
+</pre>

@@ -1,0 +1,10 @@
+author: Mat von TWaddle
+created: 20210312230125111
+description: Create and open sets of tiddlers with one click
+list: readme
+modified: 20210312233928604
+name: TiddlerSets
+plugin-type: plugin
+title: $:/plugins/TWaddle/TiddlerSets
+type: application/json
+version: 0.0.1
