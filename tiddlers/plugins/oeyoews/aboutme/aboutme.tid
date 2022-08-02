@@ -1,10 +1,12 @@
 created: 20220728150554607
 creator: oeyoews
-modified: 20220801085457001
+modified: 20220802084313722
 modifier: oeyoews
 tags: 
 title: $:/plugins/oeyoews/aboutme/aboutme
 type: text/vnd.tiddlywiki
+
+<img src="https://cdn.jsdelivr.net/gh/oeyoews/oeyoews/profile-3d-contrib/profile-night-rainbow.svg" />
 
 <!-- badges -->
 <div align="center">
@@ -22,10 +24,12 @@ type: text/vnd.tiddlywiki
 
 <!-- summary -->
 <h2>📈 Trending</h2>
+
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oeyoews&theme=tokyonight " alt="">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oeyoews&theme=tokyonight " alt=""/>
 </div>
 
+---
 <!-- repo -->
 <h2>🧪 Repositories</h2>
 <div align="center">
@@ -43,4 +47,3 @@ type: text/vnd.tiddlywiki
 
 <h2>☕ Recent Activities</h2>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=oeyoews&hide_border=true&theme=react-dark&area=true&hide_title=true"/> </div>
-<img src="https://cdn.jsdelivr.net/gh/oeyoews/oeyoews/profile-3d-contrib/profile-night-rainbow.svg"/>
