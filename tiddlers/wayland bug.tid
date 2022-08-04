@@ -1,0 +1,10 @@
+created: 20220804102023031
+creator: oeyoews
+modified: 20220804102140316
+modifier: oeyoews
+tags: gnome
+title: wayland bug
+type: text/vnd.tiddlywiki
+
+* because wayland not support chrome to share system screen(firefix support), this pipware version is different.
+* just use firefox, or switch x11(xorg) temporily
