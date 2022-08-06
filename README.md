@@ -35,7 +35,7 @@
 
 | <img src="img/preview.png" alt="preview" width=512/> | <img src="img/01.png" alt="preview" width=512/> |
 | :--------------------------------------------------: | :---------------------------------------------: |
-|   <img src="img/02.png" alt="preview" height=256/>   | <img src="img/03.png" alt="preview" width=512/> |
+|   <img src="img/03.png" alt="preview" height=512/>   | <img src="img/03.png" alt="preview" width=512/> |
 
 </div>
 
@@ -49,7 +49,6 @@
 - fastly deploy site with multi types, like github actions, gitlab runner, vercel and etc
 - background run use systemd, startup automatically
 - better experience on pc and iphone
-- etc
 
 ## 🧳 Install
 

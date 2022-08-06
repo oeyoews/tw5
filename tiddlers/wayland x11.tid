@@ -1,0 +1,9 @@
+created: 20220804120402859
+creator: oeyoews
+modified: 20220804120433992
+modifier: oeyoews
+tags: gnome
+title: wayland x11
+type: text/vnd.tiddlywiki
+
+* if switch from x11 to wayland, need reopen extensions

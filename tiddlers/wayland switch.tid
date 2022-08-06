@@ -1,0 +1,9 @@
+created: 20220804113723648
+creator: oeyoews
+modified: 20220804113804110
+modifier: oeyoews
+tags: gnome
+title: wayland switch
+type: text/vnd.tiddlywiki
+
+* `edit /etc/gdm/custom.conf` and reboot
