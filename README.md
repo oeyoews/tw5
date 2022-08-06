@@ -35,7 +35,6 @@
 
 | <img src="img/preview.png" alt="preview" width=512/> | <img src="img/01.png" alt="preview" width=512/> |
 | :--------------------------------------------------: | :---------------------------------------------: |
-|   <img src="img/03.png" alt="preview" height=512/>   | <img src="img/03.png" alt="preview" width=512/> |
 
 </div>
 
