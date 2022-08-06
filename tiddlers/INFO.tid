@@ -1,0 +1,21 @@
+created: 20220806085908097
+creator: oeyoews
+modified: 20220806090200435
+modifier: oeyoews
+tags: $:/tags/PageControls
+title: INFO
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+<$button tooltip="🧑 show your info" aria-label="show info" class=<<tv-config-toolbar-class>>> 
+{{penguin image}}
+
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text">
+<$text text="show your system info"/>
+</span>
+</$list>
+
+<$action-navigate $to="twinfo"/>
+
+</$button>
