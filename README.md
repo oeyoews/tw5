@@ -33,8 +33,8 @@
 
 <div align="center">
 
-| <img src="img/preview.png" alt="preview" width=512/> | <img src="img/01.png" alt="preview" width=512/> |
-| :--------------------------------------------------: | :---------------------------------------------: |
+| <img src="img/preview.png" alt="preview" width=512/> | <img src="img/01.png" alt="preview" width=512/> | <img src="img/01.png" alt="preview" width=512/> |
+| :--------------------------------------------------: | :---------------------------------------------: | ----------------------------------------------- |
 
 </div>
 
