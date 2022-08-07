@@ -25,6 +25,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&color=7279F3&vCenter=true&lines=+A+customize+tiddlywiki5+edition" alt="Typing SVG" /></a>
 
+## 🚨 NOTE
+
+> All customize style just for current tiddlywiki5 file, not suit for vanilla tiddlywiki.
+
 ## ShowCases
 
 - Demo: [preview address](https://oeyoew.fun) or [tw5 vercel address](https://tw5s.vercel.app/)
