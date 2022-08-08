@@ -1,0 +1,9 @@
+created: 20220807161006917
+creator: oeyoews
+modified: 20220807161037849
+modifier: oeyoews
+tags: gnome
+title: fix wireless
+type: text/vnd.tiddlywiki
+
+* fix wireless not show, just update kernal to 519
