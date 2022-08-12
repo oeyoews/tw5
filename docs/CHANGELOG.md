@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.4.1](https://gitlab.com/oeyoews/tw5/compare/v2.4.0...v2.4.1) (2022-08-12)
+
+
+### Bug Fixes
+
+* use main not master for readme ([8238033](https://gitlab.com/oeyoews/tw5/commit/82380334dffbd0912651969edf1268fda44d081f))
+
 # [2.4.0](https://gitlab.com/oeyoews/tw5/compare/v2.3.1...v2.4.0) (2022-07-29)
 
 
