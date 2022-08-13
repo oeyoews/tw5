@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.4.2](https://gitlab.com/oeyoews/tw5/compare/v2.4.1...v2.4.2) (2022-08-13)
+
+
+### Bug Fixes
+
+* remove _config.yml ([0720f42](https://gitlab.com/oeyoews/tw5/commit/0720f424160805f9ebbc508a11411869399ddf0b))
+
 ## [2.4.1](https://gitlab.com/oeyoews/tw5/compare/v2.4.0...v2.4.1) (2022-08-12)
 
 
