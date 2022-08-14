@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.8.0](https://gitlab.com/oeyoews/tw5/compare/v2.7.0...v2.8.0) (2022-08-14)
+
+
+### Features
+
+* support twemoji ([15db142](https://gitlab.com/oeyoews/tw5/commit/15db1427a04df9968991115e416b24b748e340b4))
+
 # [2.7.0](https://gitlab.com/oeyoews/tw5/compare/v2.6.0...v2.7.0) (2022-08-14)
 
 
