@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.6.0](https://gitlab.com/oeyoews/tw5/compare/v2.5.0...v2.6.0) (2022-08-14)
+
+
+### Features
+
+* add twemoji cdn ([c44f3c6](https://gitlab.com/oeyoews/tw5/commit/c44f3c6283c590ee2cf5c3d119a2832e4044fad8))
+
 # [2.5.0](https://gitlab.com/oeyoews/tw5/compare/v2.4.2...v2.5.0) (2022-08-14)
 
 
