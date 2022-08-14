@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.7.0](https://gitlab.com/oeyoews/tw5/compare/v2.6.0...v2.7.0) (2022-08-14)
+
+
+### Features
+
+* use noto emoji ([b925f94](https://gitlab.com/oeyoews/tw5/commit/b925f94711f0afe573dc77e61d95ce98016556a5))
+
 # [2.6.0](https://gitlab.com/oeyoews/tw5/compare/v2.5.0...v2.6.0) (2022-08-14)
 
 
