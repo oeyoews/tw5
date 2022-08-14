@@ -72,3 +72,5 @@ type: text/vnd.tiddlywiki
 
   gtag('config', 'G-P65LGY39KH');
 </script>
+
+<script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
