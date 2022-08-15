@@ -71,8 +71,8 @@ curl -fsSL oeyoew.fun/install-tw5.sh | bash
 ├── 📂tiddlers
 ├── 📝LICENCE
 ├── 📝README.md
-├── 📝tiddlywiki.info
 ├── 📝tw5.service
+└── 📝tiddlywiki.info
 ```
 
 ## as service with user
