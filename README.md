@@ -59,6 +59,22 @@
 curl -fsSL oeyoew.fun/install-tw5.sh | bash
 ```
 
+## Struct
+
+```bash
+📂tw5
+├── 📂docs
+├── 📂img
+├── 📂package.json
+├── 📂scripts
+├── 📂static
+├── 📂tiddlers
+├── 📝LICENCE
+├── 📝README.md
+├── 📝tiddlywiki.info
+├── 📝tw5.service
+```
+
 ## as service with user
 
 ```bash
