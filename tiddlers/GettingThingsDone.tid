@@ -4,10 +4,9 @@ created: 20220822125337581
 creator: oeyoews
 icon: $:/core/images/done-button
 list: $:/q1 $:/q2 $:/q3 $:/q4
-modified: 20220822125339291
+modified: 20220822130629561
 modifier: oeyoews
 title: GettingThingsDone
-tmap.id: 2380cd04-736e-4612-9915-13503d35f6e8
 type: text/vnd.tiddlywiki
 
 \import $:/xp/aggregation-gtd/macros
@@ -85,11 +84,11 @@ type: text/vnd.tiddlywiki
 <$button class="py-btn xp-gtd-btn xp-gtd-btn-quadrant"> 四象限
 <$action-setfield $tiddler=<<funTiddler>> text="4"/>
 </$button>
-<$button class="py-btn xp-gtd-btn xp-gtd-btn-search"> 搜索
+<$button class="py-btn xp-gtd-btn xp-gtd-btn-search"> search
 <$action-setfield $tiddler=<<funTiddler>> text="s"/>
 </$button>
 <$droppable actions=<<drop-actions-delete>>>
-<$button class="py-btn xp-gtd-btn"> 清理机
+<$button class="py-btn xp-gtd-btn"> trash
 <$vars junkFilter="[prefix[$:/todolist/data/status/]removeprefix[$:/todolist/data/status]addprefix[$:]!is[tiddler]] [tag[GettingThingsDone]get[list]enlist-input[]!is[tiddler]]">
   <$list filter="[subfilter<junkFilter>count[]!match[0]]" variable="ignore">
   <$list filter=<<junkFilter>> variable="junkItem">
