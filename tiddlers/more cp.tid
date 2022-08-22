@@ -1,0 +1,11 @@
+created: 20220822133047654
+creator: oeyoews
+modified: 20220822133428280
+modifier: oeyoews
+tags: 
+title: more cp
+type: text/vnd.tiddlywiki
+
+<$list filter="[all[shadows+tiddlers]prefix[$:/plugins/oeyoews]tag[$:/tags/PageControls]!has[draft.of]] -[[$:/core/ui/Buttons/more-page-actions]] -[[$:/xp/ui/Buttons/more-page-actions-cp]]" variable="listItem">
+
+<$transclude tiddler=<<listItem>> mode="inline"/>
