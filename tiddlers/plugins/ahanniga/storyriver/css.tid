@@ -1,0 +1,18 @@
+created: 20220719235050387
+modified: 20220821073019843
+modifier: oeyoews
+title: $:/plugins/ahanniga/storyriver/css
+type: text/vnd.tiddlywiki
+
+.tc-story-river {
+  display: flex;
+  flex-wrap: wrap;
+}
+.tc-tiddler-frame
+{
+  max-width: 49%; margin-right: 1%;
+}
+::-webkit-scrollbar-corner { /* white box fix */
+        background-color: transparent !important;
+}
+
