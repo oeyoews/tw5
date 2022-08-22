@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.9.0](https://gitlab.com/oeyoews/tw5/compare/v2.8.0...v2.9.0) (2022-08-22)
+
+
+### Features
+
+* update aboutme ([7e8d3f6](https://gitlab.com/oeyoews/tw5/commit/7e8d3f6edd1f2a5797fabc958503c0710dd81801))
+
 # [2.8.0](https://gitlab.com/oeyoews/tw5/compare/v2.7.0...v2.8.0) (2022-08-14)
 
 
