@@ -40,7 +40,7 @@ function init() {
 }
 
 function apply() {
-  chezmoi apply -R
+  chezmoi apply -R --depth 1
 }
 
 # function misc_settings() {

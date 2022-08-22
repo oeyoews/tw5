@@ -948,13 +948,13 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:bells</loc>
-		<lastmod>2022-08-06</lastmod>
+		<lastmod>2022-08-22</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:bells%2520image</loc>
-		<lastmod>2022-08-06</lastmod>
+		<lastmod>2022-08-22</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -4883,6 +4883,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://oeyoew.fun/#:GettingThingsDone</loc>
+		<lastmod>2022-08-22</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
 		<loc>https://oeyoew.fun/#:giggling</loc>
 		<lastmod>2022-03-17</lastmod>
 		<changefreq>monthly</changefreq>
@@ -4963,6 +4969,12 @@
 	<url>
 		<loc>https://oeyoew.fun/#:Github%2520Badges</loc>
 		<lastmod>2022-05-04</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://oeyoew.fun/#:github%2520bell</loc>
+		<lastmod>2022-08-22</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -6026,7 +6038,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:Index</loc>
-		<lastmod>2022-07-30</lastmod>
+		<lastmod>2022-08-22</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -7314,6 +7326,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://oeyoew.fun/#:more%2520cp</loc>
+		<lastmod>2022-08-22</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://oeyoew.fun/#:motivate</loc>
 		<lastmod>2022-03-27</lastmod>
 		<changefreq>monthly</changefreq>
@@ -7620,6 +7638,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://oeyoew.fun/#:noto%2520emoji%2520font</loc>
+		<lastmod>2022-08-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://oeyoew.fun/#:nounOfNoun</loc>
 		<lastmod>2022-03-08</lastmod>
 		<changefreq>monthly</changefreq>
@@ -7730,6 +7754,11 @@
 	<url>
 		<loc>https://oeyoew.fun/#:OCR</loc>
 		<lastmod>2022-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://oeyoew.fun/#:oeyoew.jpeg</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -9791,12 +9820,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://oeyoew.fun/#:sec</loc>
-		<lastmod>2022-08-08</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://oeyoew.fun/#:secede</loc>
 		<lastmod>2022-04-17</lastmod>
 		<changefreq>monthly</changefreq>
@@ -11200,7 +11223,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:TODO%2520FOR%2520VIDEO</loc>
-		<lastmod>2022-08-06</lastmod>
+		<lastmod>2022-08-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -11439,12 +11462,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://oeyoew.fun/#:ts</loc>
-		<lastmod>2022-08-08</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://oeyoew.fun/#:ts1</loc>
 		<lastmod>2022-02-27</lastmod>
 		<changefreq>monthly</changefreq>
@@ -11650,7 +11667,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:twinfo</loc>
-		<lastmod>2022-08-06</lastmod>
+		<lastmod>2022-08-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -12232,13 +12249,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:untitled%2520167</loc>
-		<lastmod>2022-08-14</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://oeyoew.fun/#:untitled%2520168</loc>
-		<lastmod>2022-08-14</lastmod>
+		<lastmod>2022-08-22</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
