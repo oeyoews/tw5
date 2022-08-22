@@ -1,8 +1,11 @@
 created: 20211226085733474
 creator: oeyoews
-modified: 20220517151259027
+modified: 20220822151629456
 modifier: oeyoews
 title: $:/SiteTitle
 type: text/vnd.tiddlywiki
 
+<div align="center">
+{{$:/UserPanel}} 
+</div>
 {{$:/config/oeyoews/sitetitle}}
