@@ -1,0 +1,173 @@
+caption: Getting Things Done
+color: #bbb
+created: 20220822125337581
+creator: oeyoews
+icon: $:/core/images/done-button
+list: $:/q1 $:/q2 $:/q3 $:/q4
+modified: 20220822125339291
+modifier: oeyoews
+title: GettingThingsDone
+tmap.id: 2380cd04-736e-4612-9915-13503d35f6e8
+type: text/vnd.tiddlywiki
+
+\import $:/xp/aggregation-gtd/macros
+\define funTiddler() $:/config/xp/aggregation-gtd/FunctionTabs
+\define stateTiddler() $:/config/xp/aggregation-gtd/QuadrantView
+
+\define qTag()
+[[$(currentList)$]]
+\end
+
+\define drop-actions()
+<$action-listops $tiddler=<<actionTiddler>> $tags="-[enlist<gtd-quadrant>]"/>
+<$action-listops $tiddler=<<actionTiddler>> $tags="GTD [<qTag>]"/>
+<$list filter=<<gtd-quadrant>> variable="qList">
+<$action-listops $tiddler=<<qList>> $subfilter="-[<actionTiddler>]"/>
+</$list>
+<$action-listops $tiddler=<<currentList>> $subfilter="+[append<actionTiddler>]"/>
+<$action-sendmessage $message="tm-auto-save-wiki"/>
+\end
+
+\define drop-actions-delete()
+<$list filter="[<actionTiddler>tag[GTD]limit[1]]" variable="ignore">
+<$vars td-baseName={{{ [<actionTiddler>removeprefix[$:/]] }}}>
+<$action-deletetiddler $filter="[prefix[$:/todolist/data]suffix<td-baseName>]"/>
+<$list filter=<<gtd-quadrant>> variable="qList">
+<$action-listops $tiddler=<<qList>> $subfilter="-[<actionTiddler>]"/>
+</$list>
+<$action-deletetiddler $tiddler=<<actionTiddler>>/>
+</$vars>
+<$action-sendmessage $message="tm-notify" $param="$:/language/Notifications/DeleteTiddler"/>
+<$action-sendmessage $message="tm-auto-save-wiki"/>
+</$list>
+\end
+
+\define gtdDeleteActions()
+<$vars td-baseName={{{ [<currentTiddler>removeprefix[$:/]] }}} td-basePath="$:/todolist/data">
+<$action-deletetiddler $filter="[prefix<td-basePath>suffix<td-baseName>]"/>
+<$action-listops $tiddler=<<currentList>> $subfilter="+[remove<currentTiddler>]"/>
+<$action-sendmessage $message="tm-close-tiddler" param=<<currentTiddler>>/>
+<$action-deletetiddler $tiddler=<<currentTiddler>>/>
+</$vars>
+\end
+
+\define gtdQuadrant(n)
+<$vars currentList="$:/q$n$" qTag="$:/q$n$">
+<$reveal state=<<stateTiddler>> type="match" text=<<currentList>> animate="yes">
+    <$droppable actions=<<drop-actions>>>
+    <div class="xp-gtd-list-header-droppable">
+  <$button class="tc-btn-invisible xp-gtd-list-header-btn">
+    <span class="xp-gtd-q$n$">
+    <$transclude tiddler=<<currentList>> field="caption"><$view tiddler=<<currentList>> field="title"/></$transclude>
+    </span>
+    <$action-setfield $tiddler=<<stateTiddler>> text="4"/>
+  </$button>
+    </div>
+    </$droppable>
+  <div style="padding:10px 0 8px;">
+    {{$:/xp/aggregation-gtd/ui/AddTodo}}
+  </div>
+<div class="py-todos">
+    <$droppable actions=<<drop-actions>>>
+<$list 
+  filter="[tag<qTag>!tag[done]!sort[created]] [tag<qTag>tag[done]!sort[modified]] +[!has[draft.of]limit[100]]"
+  template="$:/xp/aggregation-gtd/quadrant/ItemTemplate"
+/>
+    </$droppable>
+</div>
+</$reveal>
+</$vars>
+\end
+
+
+<!-- Function Tabs -->
+<div class="xp-gtd-tabs">
+<$button class="py-btn xp-gtd-btn xp-gtd-btn-quadrant"> 四象限
+<$action-setfield $tiddler=<<funTiddler>> text="4"/>
+</$button>
+<$button class="py-btn xp-gtd-btn xp-gtd-btn-search"> 搜索
+<$action-setfield $tiddler=<<funTiddler>> text="s"/>
+</$button>
+<$droppable actions=<<drop-actions-delete>>>
+<$button class="py-btn xp-gtd-btn"> 清理机
+<$vars junkFilter="[prefix[$:/todolist/data/status/]removeprefix[$:/todolist/data/status]addprefix[$:]!is[tiddler]] [tag[GettingThingsDone]get[list]enlist-input[]!is[tiddler]]">
+  <$list filter="[subfilter<junkFilter>count[]!match[0]]" variable="ignore">
+  <$list filter=<<junkFilter>> variable="junkItem">
+  <$vars junkItemSuffix={{{ [<junkItem>removeprefix[$:/]] }}}>
+<$action-deletetiddler $filter="[prefix[$:/todolist/data]suffix<junkItemSuffix>]"/>
+  <$list filter=<<gtd-quadrant>> variable="qList">
+<$action-listops $tiddler=<<qList>> $subfilter="-[<junkItem>]"/>
+  </$list>
+  </$vars>
+  </$list>
+<$action-sendmessage $message="tm-notify" $param="$:/language/Notifications/CompleteCleanup"/>
+  </$list>
+  <$list filter="[subfilter<junkFilter>count[]match[0]]">
+<$action-sendmessage $message="tm-notify" $param="$:/language/Notifications/NoCleaningRequired"/>
+  </$list>
+</$vars>
+</$button>
+</$droppable>
+</div>
+
+
+<!-- 四象限 -->
+<$reveal state=<<funTiddler>> type="match" text="4" default="4" animate="yes">
+
+<$reveal state=<<stateTiddler>> type="match" text="4" animate="yes">
+<div class="xp-gtd-lists">
+<$list filter=<<gtd-quadrant>> variable="currentList" storyview="pop">
+  <div class="xp-gtd-list">
+    <header>
+      <$droppable actions=<<drop-actions>>>
+        <div class="xp-gtd-list-header-droppable">
+        <$button class="tc-btn-invisible xp-gtd-list-header-btn">
+          <span class={{{ [<currentList>removeprefix[$:/]addprefix[xp-gtd-]] }}}>
+          <$transclude tiddler=<<currentList>> field="caption"><$view tiddler=<<currentList>> field="title"/></$transclude>
+          </span>
+          <$action-setfield $tiddler=<<stateTiddler>> text=<<currentList>>/>
+        </$button>
+        </div>
+      </$droppable>
+    </header>
+    <ul>
+      <$droppable actions=<<drop-actions>>>
+      <div class="py-todos" style="height:100%;">
+        <$reveal default={{{ [tag<currentList>!has[draft.of]count[]] }}} type="match" text="0">
+        <div class="xp-gtd-list-notask">没有任务</div>
+        </$reveal>
+        <$list filter="[tag<currentList>!tag[done]!sort[created]!has[draft.of]limit[10]]" template="$:/xp/aggregation-gtd/ItemTemplate" />
+        <$list filter="[tag<currentList>tag[done]!sort[modified]!has[draft.of]limit[10]]" template="$:/xp/aggregation-gtd/ItemTemplate" />
+      </div>
+      </$droppable>
+    </ul>
+    <$tiddler tiddler="">
+    <footer>
+      {{$:/xp/aggregation-gtd/ui/AddTodo}}
+    </footer>
+    </$tiddler>
+  </div>
+</$list>
+</div>
+</$reveal>
+
+<$reveal state=<<stateTiddler>> type="nomatch" text="4" animate="yes">
+<div class="xp-gtd-list-quadrant">
+
+<<gtdQuadrant 1>>
+<<gtdQuadrant 2>>
+<<gtdQuadrant 3>>
+<<gtdQuadrant 4>>
+
+</div>
+</$reveal>
+
+</$reveal>
+
+
+<!-- 搜索 -->
+<$reveal state=<<funTiddler>> type="match" text="s" animate="yes">
+
+{{$:/xp/aggregation-gtd/ui/Search}}
+
+</$reveal>
