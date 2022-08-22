@@ -1,7 +1,7 @@
 caption: Footer
 created: 20220310033519322
 creator: @oeyoews
-modified: 20220523090824125
+modified: 20220822115025351
 modifier: oeyoews
 tags: config $:/tags/footer
 title: $:/config/oeyoews/subtitlefooter
@@ -19,7 +19,7 @@ type: text/vnd.tiddlywiki
 <p id="hitokoto"><a target="_blank" href="#" id="hitokoto_text"></a></p> float: right; display: inline-block; color:#2aa198;
 -->
 
-<div style="font-weight: regular; border-radius: 4px;background:#002b36;font-size:60%; padding: 2px 5px 2px;user-select: none;text-align:center;">
+<div style="font-weight: regular; border-radius: 4px;background:#;font-size:60%; padding: 2px 5px 2px;user-select: none;text-align:center;">
 
 <!--
 <i style="color: red;" class="fa-beat-fade fa-solid fa-microchip"></i>
