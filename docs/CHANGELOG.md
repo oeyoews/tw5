@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.10.1](https://gitlab.com/oeyoews/tw5/compare/v2.10.0...v2.10.1) (2022-08-22)
+
+
+### Bug Fixes
+
+* use scroll to fix `ctrl bug` ([9c93f9d](https://gitlab.com/oeyoews/tw5/commit/9c93f9d232356fe3f9ba9ebb687f62f54a4d6880))
+
 # [2.10.0](https://gitlab.com/oeyoews/tw5/compare/v2.9.1...v2.10.0) (2022-08-22)
 
 
