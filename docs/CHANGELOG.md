@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.10.0](https://gitlab.com/oeyoews/tw5/compare/v2.9.1...v2.10.0) (2022-08-22)
+
+
+### Features
+
+* add gtd ([011223e](https://gitlab.com/oeyoews/tw5/commit/011223e3917eb0ae6b9bb01fa62577bedbd9626f))
+
 ## [2.9.1](https://gitlab.com/oeyoews/tw5/compare/v2.9.0...v2.9.1) (2022-08-22)
 
 
