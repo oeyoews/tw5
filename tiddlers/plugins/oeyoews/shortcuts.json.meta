@@ -2,11 +2,11 @@ author: oeyoews
 created: 20220521113010251
 description: Some shortcuts
 list: readme
-modified: 20220822152549588
+modified: 20220823061133632
 name: Some shortcuts
-packaged-by: Gatha on 22nd August 2022, 23:25:52
+packaged-by: Gatha on 23rd August 2022, 14:12:08
 plugin-type: plugin
 tags: 
 title: $:/plugins/oeyoews/shortcuts
 type: application/json
-version: v0.1.4
+version: v0.1.6
