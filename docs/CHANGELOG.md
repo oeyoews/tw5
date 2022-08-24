@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.11.0](https://gitlab.com/oeyoews/tw5/compare/v2.10.1...v2.11.0) (2022-08-24)
+
+
+### Features
+
+* support jk in insertmode for vim ([6f07f26](https://gitlab.com/oeyoews/tw5/commit/6f07f26b19cb3cd2c8bc493421861002ca7c4351))
+
 ## [2.10.1](https://gitlab.com/oeyoews/tw5/compare/v2.10.0...v2.10.1) (2022-08-22)
 
 
