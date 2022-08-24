@@ -1,8 +1,8 @@
 created: 20211226094325084
 creator: oeyoews
-modified: 20220806090232452
+modified: 20220824072008347
 modifier: oeyoews
 title: $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/close-all
 type: text/vnd.tiddlywiki
 
-show
+hide
