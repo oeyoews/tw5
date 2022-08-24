@@ -1,8 +1,8 @@
 created: 20220307155305209
 creator: @oeyoews
-modified: 20220621142717032
+modified: 20220824071102201
 modifier: oeyoews
 title: $:/themes/nico/notebook/settings/editorfontfamily
 type: text/vnd.tiddlywiki
 
--apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+"Maple Mono", "Cascadia Mono", -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
