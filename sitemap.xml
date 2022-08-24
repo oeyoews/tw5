@@ -168,7 +168,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:about%2520face</loc>
-		<lastmod>2022-05-27</lastmod>
+		<lastmod>2022-08-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -1330,7 +1330,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:casual</loc>
-		<lastmod>2022-04-15</lastmod>
+		<lastmod>2022-08-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -4693,6 +4693,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://oeyoew.fun/#:font%2520bug</loc>
+		<lastmod>2022-08-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://oeyoew.fun/#:font-search</loc>
 		<lastmod>2022-08-14</lastmod>
 		<changefreq>monthly</changefreq>
@@ -5948,7 +5954,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:implication</loc>
-		<lastmod>2022-05-10</lastmod>
+		<lastmod>2022-08-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -6038,7 +6044,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:Index</loc>
-		<lastmod>2022-08-23</lastmod>
+		<lastmod>2022-08-24</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -6254,7 +6260,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:insensitive</loc>
-		<lastmod>2022-03-27</lastmod>
+		<lastmod>2022-08-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -6835,13 +6841,19 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:Links%2520For%2520Tw</loc>
-		<lastmod>2022-06-21</lastmod>
+		<lastmod>2022-08-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:linkVerb</loc>
 		<lastmod>2022-03-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://oeyoew.fun/#:linux%2520kernal%2520for%2520kvm</loc>
+		<lastmod>2022-08-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -9671,7 +9683,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:sample</loc>
-		<lastmod>2022-03-25</lastmod>
+		<lastmod>2022-08-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -10635,7 +10647,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:superior</loc>
-		<lastmod>2022-04-02</lastmod>
+		<lastmod>2022-08-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -11690,6 +11702,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://oeyoew.fun/#:ubuntu</loc>
+		<lastmod>2022-08-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://oeyoew.fun/#:ultrathin</loc>
 		<lastmod>2022-04-27</lastmod>
 		<changefreq>monthly</changefreq>
@@ -11751,7 +11769,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:unionist</loc>
-		<lastmod>2022-05-15</lastmod>
+		<lastmod>2022-08-24</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
