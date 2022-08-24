@@ -1,13 +1,13 @@
 {"tiddlers": {
 "$:/plugins/oeyoews/shortcuts/close-all": {
-    "created": "20220602002311627",
-    "text": "<$navigator story=\"$:/StoryList\" history=\"$:/HistoryList\">\n<$action-sendmessage $message=\"tm-close-all-tiddlers\"/>\n</$navigator>",
     "title": "$:/plugins/oeyoews/shortcuts/close-all",
     "code-body": "yes",
+    "created": "20220602002311627",
     "key": "((close-all))",
     "modified": "20220823061156654",
     "tags": "$:/tags/KeyboardShortcut",
     "type": "text/vnd.tiddlywiki",
+    "text": "<$navigator story=\"$:/StoryList\" history=\"$:/HistoryList\">\n<$action-sendmessage $message=\"tm-close-all-tiddlers\"/>\n</$navigator>",
     "revision": "0",
     "bag": "default"
 },
@@ -21,6 +21,19 @@
     "tags": "$:/tags/KeyboardShortcut",
     "type": "text/vnd.tiddlywiki",
     "text": "<$navigator story=\"$:/StoryList\" history=\"$:/HistoryList\">\n  <$action-navigate $to=\"$:/ControlPanel\" $scroll=\"yes\"/>\n</$navigator>",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/plugins/oeyoews/shortcuts/get-plugins": {
+    "created": "20220824022714506",
+    "text": "<$navigator story=\"$:/StoryList\" history=\"$:/HistoryList\">\n  <$action-navigate $to=\"$:/core/ui/ControlPanel/Plugins\" $scroll=\"yes\"/>\n</$navigator>",
+    "title": "$:/plugins/oeyoews/shortcuts/get-plugins",
+    "caption": "search-filter",
+    "key": "((get-plugins))",
+    "modified": "20220824022757138",
+    "tags": "$:/tags/KeyboardShortcut",
+    "type": "text/vnd.tiddlywiki",
     "revision": "0",
     "bag": "default"
 },
@@ -79,6 +92,28 @@
     "tags": "",
     "type": "text/vnd.tiddlywiki",
     "text": "ctrl-k",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/config/ShortcutInfo/get-plugins": {
+    "created": "20220824023018416",
+    "text": "🔑 Jump to get-plugins",
+    "title": "$:/config/ShortcutInfo/get-plugins",
+    "modified": "20220824023034676",
+    "tags": "",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/config/shortcuts/get-plugins": {
+    "created": "20220824022802729",
+    "text": "ctrl-g",
+    "title": "$:/config/shortcuts/get-plugins",
+    "modified": "20220824022959725",
+    "tags": "",
+    "type": "text/vnd.tiddlywiki",
     "revision": "0",
     "bag": "default"
 },

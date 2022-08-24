@@ -1,17 +1,17 @@
 created: 20220304020736613
 creator: oeyoews
-difficulty: 3.9419797445423645
-due: 20220531155046423
-grade: 1
-history: [{"due":"20220310111721624","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220309111721624"},{"due":"20220314011124255","interval":1,"difficulty":3.0596188436347647,"stability":4.091082244434676,"retrievability":0.34910423292122506,"grade":1,"lapses":0,"reps":2,"review":"20220310011124255"},{"due":"20220327005252810","interval":4,"difficulty":3.161732456157628,"stability":12.599046763864589,"retrievability":0.9021136125228629,"grade":1,"lapses":0,"reps":3,"review":"20220314005252810"},{"due":"20220428160712899","interval":12,"difficulty":3.266252386116787,"stability":32.524008700480785,"retrievability":0.9045199299591592,"grade":1,"lapses":0,"reps":4,"review":"20220326160712898"},{"due":"20220524020429624","interval":57,"difficulty":4.29764783268853,"stability":0.07408190596496488,"retrievability":0.8313954465717425,"grade":0,"lapses":1,"reps":1,"review":"20220523020429624"},{"due":"20220525034457177","interval":1,"difficulty":4.738826662156947,"stability":0.054881225761675624,"retrievability":0.24117882946841607,"grade":0,"lapses":2,"reps":1,"review":"20220524034457176"}]
-interval: 3
+difficulty: 2.2326498689139553
+due: 20230126022250746
+grade: 2
+history: [{"due":"20220310111721624","interval":0,"difficulty":3.5105146107135394,"stability":0.10011596679687501,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220309111721624"},{"due":"20220314011124255","interval":1,"difficulty":3.0596188436347647,"stability":4.091082244434676,"retrievability":0.34910423292122506,"grade":1,"lapses":0,"reps":2,"review":"20220310011124255"},{"due":"20220327005252810","interval":4,"difficulty":3.161732456157628,"stability":12.599046763864589,"retrievability":0.9021136125228629,"grade":1,"lapses":0,"reps":3,"review":"20220314005252810"},{"due":"20220428160712899","interval":12,"difficulty":3.266252386116787,"stability":32.524008700480785,"retrievability":0.9045199299591592,"grade":1,"lapses":0,"reps":4,"review":"20220326160712898"},{"due":"20220524020429624","interval":57,"difficulty":4.29764783268853,"stability":0.07408190596496488,"retrievability":0.8313954465717425,"grade":0,"lapses":1,"reps":1,"review":"20220523020429624"},{"due":"20220525034457177","interval":1,"difficulty":4.738826662156947,"stability":0.054881225761675624,"retrievability":0.24117882946841607,"grade":0,"lapses":2,"reps":1,"review":"20220524034457176"},{"due":"20220531155046423","interval":3,"difficulty":3.9419797445423645,"stability":3.9062607774460307,"retrievability":0.0031530823854177916,"grade":1,"lapses":2,"reps":2,"review":"20220527155046422"}]
+interval: 89
 lapses: 2
-modified: 20220527155046423
+modified: 20220824022250746
 modifier: oeyoews
-reps: 2
-retrievability: 0.0031530823854177916
-review: 20220527155046422
-stability: 3.9062607774460307
+reps: 3
+retrievability: 0.09067012437159072
+review: 20220824022250745
+stability: 154.71512564540478
 tags: EnglishWord ?
 title: about face
 type: text/vnd.tiddlywiki
