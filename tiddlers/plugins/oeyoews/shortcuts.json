@@ -1,17 +1,4 @@
 {"tiddlers": {
-"$:/plugins/oeyoews/shortcuts/close-all": {
-    "title": "$:/plugins/oeyoews/shortcuts/close-all",
-    "code-body": "yes",
-    "created": "20220602002311627",
-    "key": "((close-all))",
-    "modified": "20220823061156654",
-    "tags": "$:/tags/KeyboardShortcut",
-    "type": "text/vnd.tiddlywiki",
-    "text": "<$navigator story=\"$:/StoryList\" history=\"$:/HistoryList\">\n<$action-sendmessage $message=\"tm-close-all-tiddlers\"/>\n</$navigator>",
-    "revision": "0",
-    "bag": "default"
-},
-
 "$:/plugins/oeyoews/shortcuts/control": {
     "title": "$:/plugins/oeyoews/shortcuts/control",
     "caption": "Settings",
@@ -26,12 +13,25 @@
 },
 
 "$:/plugins/oeyoews/shortcuts/get-plugins": {
-    "created": "20220824022714506",
-    "text": "<$navigator story=\"$:/StoryList\" history=\"$:/HistoryList\">\n  <$action-navigate $to=\"$:/core/ui/ControlPanel/Plugins\" $scroll=\"yes\"/>\n</$navigator>",
     "title": "$:/plugins/oeyoews/shortcuts/get-plugins",
     "caption": "search-filter",
+    "created": "20220824022714506",
     "key": "((get-plugins))",
     "modified": "20220824022757138",
+    "tags": "$:/tags/KeyboardShortcut",
+    "type": "text/vnd.tiddlywiki",
+    "text": "<$navigator story=\"$:/StoryList\" history=\"$:/HistoryList\">\n  <$action-navigate $to=\"$:/core/ui/ControlPanel/Plugins\" $scroll=\"yes\"/>\n</$navigator>",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/plugins/oeyoews/shortcuts/home-page": {
+    "created": "20220602002311627",
+    "text": "<$navigator story=\"$:/StoryList\" history=\"$:/HistoryList\">\n<$action-sendmessage $message=\"tm-close-all-tiddlers\"/>\n<$action-sendmessage $message=\"tm-home\"/>\n</$navigator>",
+    "title": "$:/plugins/oeyoews/shortcuts/home-page",
+    "code-body": "yes",
+    "key": "((home-page))",
+    "modified": "20220824131238961",
     "tags": "$:/tags/KeyboardShortcut",
     "type": "text/vnd.tiddlywiki",
     "revision": "0",
@@ -96,24 +96,46 @@
     "bag": "default"
 },
 
-"$:/config/ShortcutInfo/get-plugins": {
-    "created": "20220824023018416",
-    "text": "🔑 Jump to get-plugins",
-    "title": "$:/config/ShortcutInfo/get-plugins",
-    "modified": "20220824023034676",
+"$:/config/shortcuts/home-page": {
+    "created": "20220602002527245",
+    "text": "ctrl-h",
+    "title": "$:/config/shortcuts/home-page",
+    "modified": "20220824131310818",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
     "revision": "0",
     "bag": "default"
 },
 
+"$:/config/ShortcutInfo/home-page": {
+    "created": "20220602002623580",
+    "text": "🔑 Close all tiddlers",
+    "title": "$:/config/ShortcutInfo/home-page",
+    "modified": "20220824131254664",
+    "tags": "",
+    "type": "text/vnd.tiddlywiki",
+    "revision": "0",
+    "bag": "default"
+},
+
+"$:/config/ShortcutInfo/get-plugins": {
+    "title": "$:/config/ShortcutInfo/get-plugins",
+    "created": "20220824023018416",
+    "modified": "20220824023034676",
+    "tags": "",
+    "type": "text/vnd.tiddlywiki",
+    "text": "🔑 Jump to get-plugins",
+    "revision": "0",
+    "bag": "default"
+},
+
 "$:/config/shortcuts/get-plugins": {
-    "created": "20220824022802729",
-    "text": "ctrl-g",
     "title": "$:/config/shortcuts/get-plugins",
+    "created": "20220824022802729",
     "modified": "20220824022959725",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
+    "text": "ctrl-g",
     "revision": "0",
     "bag": "default"
 },
@@ -129,34 +151,12 @@
     "bag": "default"
 },
 
-"$:/config/ShortcutInfo/close-all": {
-    "title": "$:/config/ShortcutInfo/close-all",
-    "created": "20220602002623580",
-    "modified": "20220602003709368",
-    "tags": "",
-    "type": "text/vnd.tiddlywiki",
-    "text": "🔑 Close all tiddlers",
-    "revision": "0",
-    "bag": "default"
-},
-
 "$:/config/shortcuts/newword": {
     "title": "$:/config/shortcuts/newword",
     "created": "20220531011807540",
     "modified": "20220531015639256",
     "type": "text/vnd.tiddlywiki",
     "text": "alt-W",
-    "revision": "0",
-    "bag": "default"
-},
-
-"$:/config/shortcuts/close-all": {
-    "title": "$:/config/shortcuts/close-all",
-    "created": "20220602002527245",
-    "modified": "20220602002607405",
-    "tags": "",
-    "type": "text/vnd.tiddlywiki",
-    "text": "alt-A",
     "revision": "0",
     "bag": "default"
 },
