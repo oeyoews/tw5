@@ -2,7 +2,7 @@ caption: BodyFooter
 code-body: yes
 created: 20211001231029099
 creator: Télumire
-modified: 20220728061252070
+modified: 20220825030834068
 modifier: oeyoews
 tagging: after
 tags: $:/tags/RawMarkupWikified/BottomBody
@@ -12,6 +12,7 @@ type: text/vnd.tiddlywiki
 <!-- https://ftzzloo.com/hexo-add-aplayer-plugins/ -->
 
 <!-- option: add lrc-type="0" disable show lrc, note set to 1 is not work , need to remove this option -->
+				autoplay="true" not work
 <!--        option:  theme="cyan"  -->
 
 `<meting-js 
