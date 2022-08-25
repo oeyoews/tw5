@@ -1,12 +1,16 @@
 created: 20220825021130315
 creator: oeyoews
-modified: 20220825022503868
+modified: 20220825023139039
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: date stylesheet
 type: text/vnd.tiddlywiki
 
-[data-tiddler-title="Index"] .tc-title {
+[data-tiddler-title="Index"] .tc-title  {
+display:none;
+}
+
+[data-tiddler-title="Index"] .tc-subtitle  {
 display:none;
 }
 
