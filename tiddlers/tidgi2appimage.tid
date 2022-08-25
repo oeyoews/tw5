@@ -1,6 +1,6 @@
 created: 20220825104308352
 creator: oeyoews
-modified: 20220825104918789
+modified: 20220825105509609
 modifier: oeyoews
 tags: 
 title: tidgi2appimage
@@ -74,3 +74,11 @@ code="""
   ]
 }
 """/>
+
+!! Showcases
+
+[img[tidgi-image.png]]
+
+!! TIP
+
+[img[cpu-image.png]]
