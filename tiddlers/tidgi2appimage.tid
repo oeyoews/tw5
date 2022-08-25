@@ -1,14 +1,18 @@
 created: 20220825104308352
 creator: oeyoews
-modified: 20220825105509609
+modified: 20220825120056150
 modifier: oeyoews
 tags: 
 title: tidgi2appimage
 type: text/vnd.tiddlywiki
 
-!! deb2appimage
+! <<sticky-done "Appimage" "  ">>
 
-* download deb2appimage firstly, [[https://appimage.github.io/deb2appimage/]], 
+!! Download deb2appimage
+
+* download ''__deb2appimage __''firstly, [[https://appimage.github.io/deb2appimage/]]
+
+!! Code
 
 <$macrocall $name="copy-code"
 title="cmd"
@@ -82,3 +86,7 @@ code="""
 !! TIP
 
 [img[cpu-image.png]]
+
+! <<sticky-done "AUR(pacman)">>
+
+should be easy base deb2appimage
