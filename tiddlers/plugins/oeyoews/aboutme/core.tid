@@ -1,0 +1,22 @@
+created: 20220728151603887
+creator: oeyoews
+description: show your information
+list-after: $:/plugins/oeyoews/gh-repo-btn/core
+modified: 20220825014953180
+modifier: oeyoews
+tags: $:/tags/PageControls
+title: $:/plugins/oeyoews/aboutme/core
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+<$button tooltip="🧑 show your info" aria-label="show info" class=<<tv-config-toolbar-class>>>
+{{$:/UserPanel}}
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text">
+<$text text="show your info"/>
+</span>
+</$list>
+
+<$action-navigate $to="$:/plugins/oeyoews/aboutme/aboutme"/>
+
+</$button>
