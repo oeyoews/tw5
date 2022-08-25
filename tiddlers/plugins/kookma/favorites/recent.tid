@@ -1,8 +1,8 @@
 caption: Recently added
 created: 20200103090757281
 creator: a revised version of Andrew Harrison favorite plugin
-list: [[video link]] [[New Tiddler]] [[Sample Text: Patrick Hand font]] $:/config/oeyoews/fishingUI2 $:/state/notebook-sidebar $:/config/oeyoews/sitetitle $:/core/templates/canonical-uri-external-image $:/config/oeyoews/scrollbar $:/config/oeyoews/popupwindowstyle $:/footer [[$:/config/oeyoews/Creat EnglishWord]] $:/config/oeyoews/subtitlefooter [[Navigate Button]] [[Recommend TW5 websites]] $:/config/FishingPluginLibrary $:/plugins/kookma/solution/ui/search-in-fields $:/core/ui/ViewTemplate/subtitle $:/config/oeyoews/copybutton $:/config/oeyoews/customstylesheet $:/config/SyncFilter $:/config/FileSystemPaths [[Image and Icons]] [[Favorites More Examples]]
-modified: 20220806081613807
+list: [[video link]] [[New Tiddler]] $:/config/oeyoews/fishingUI2 $:/state/notebook-sidebar $:/core/templates/canonical-uri-external-image $:/config/oeyoews/popupwindowstyle $:/footer [[Recommend TW5 websites]] $:/config/FishingPluginLibrary $:/plugins/kookma/solution/ui/search-in-fields $:/core/ui/ViewTemplate/subtitle $:/config/oeyoews/copybutton $:/config/oeyoews/customstylesheet $:/config/SyncFilter $:/config/FileSystemPaths [[Image and Icons]] [[Favorites More Examples]]
+modified: 20220825100303466
 modifier: oeyoews
 tags: $:/tags/Favorites/Folder
 title: $:/plugins/kookma/favorites/recent

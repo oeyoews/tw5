@@ -2,6 +2,11 @@ body {
 overflow-x: hidden;
 }
 
+pre {
+	border: 2px solid #657b83;
+	padding: 4px;
+}
+
 .nc-bar .left svg:hover {
 	transform: rotate(180deg);
 	transition:  .7s ease-out;
