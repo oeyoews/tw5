@@ -47,10 +47,10 @@
 "$:/plugins/oeyoews/aboutme/readme": {
     "created": "20220728150322747",
     "creator": "oey",
-    "text": "\\define plugin() $:/plugins/oeyoews/aboutme\n\\define install()\n<$list\n  filter=\"[<transclusion>prefix[{$(plugin)$/readme|$(plugin)$/readme|||}]]\"\n  emptyMessage=\"$(plugin)$\"\n>\n{{ $(plugin)$||$:/core/ui/Components/plugin-info }}\n</$list>\n\\end\n\n!! Configuration\n\n|[[username|$:/plugins/oeyoews/aboutme/username]]: | <$edit-text tiddler=\"$:/plugins/oeyoews/aboutme/username\" default=\"\" tag=\"input\"/> |\n|[[avatar|$:/plugins/oeyoews/aboutme/avatar]]: | <$edit-text tiddler=\"$:/plugins/oeyoews/aboutme/avatar\" default=\"\" tag=\"input\" fileDrop=\"yes\"/> |\n\n!! Install\n* drag this below to your tiddlywiki5\n* <<install>>",
+    "text": "\\define plugin() $:/plugins/oeyoews/aboutme\n\\define install()\n<$list\n  filter=\"[<transclusion>prefix[{$(plugin)$/readme|$(plugin)$/readme|||}]]\"\n  emptyMessage=\"$(plugin)$\"\n>\n{{ $(plugin)$||$:/core/ui/Components/plugin-info }}\n</$list>\n\\end\n\n!! Configuration\n\n|[[username|$:/plugins/oeyoews/aboutme/username]]: | <$edit-text tiddler=\"$:/plugins/oeyoews/aboutme/username\" placeholder=\"oeyoews\" tag=\"input\"/> |\n|[[avatar|$:/plugins/oeyoews/aboutme/avatar]]|\n\n!! Install\n* drag this below to your tiddlywiki5\n* <<install>>",
     "title": "$:/plugins/oeyoews/aboutme/readme",
     "caption": "Info",
-    "modified": "20220825155206898",
+    "modified": "20220825161301637",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
     "revision": "0",

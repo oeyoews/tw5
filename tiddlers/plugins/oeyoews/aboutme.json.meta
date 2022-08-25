@@ -3,12 +3,12 @@ created: 20220728150221011
 creator: oey
 description: shout your custom info
 list: readme
-modified: 20220825155222629
+modified: 20220825161317219
 modifier: oey
 name: About You
-packaged-by: Gatha on 25th August 2022, 23:52:26
+packaged-by: Gatha on 26th August 2022, 00:13:19
 plugin-type: plugin
 tags: 
 title: $:/plugins/oeyoews/aboutme
 type: application/json
-version: v0.1.7
+version: v0.1.8
