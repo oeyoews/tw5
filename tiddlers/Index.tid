@@ -1,6 +1,6 @@
 created: 20220323065821053
 creator: @oeyoews
-modified: 20220824073816208
+modified: 20220825014849912
 modifier: oeyoews
 tags: 
 title: Index
@@ -8,4 +8,8 @@ type: text/vnd.tiddlywiki
 
 {{flat-square-badges}}
 {{Fish}}
+<div align="center">
+<<sticky-done "Hello, Click this fish to start" "  ">>
+</div>
+
 {{$:/config/oeyoews/subtitlefooter}}
