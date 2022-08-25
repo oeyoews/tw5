@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.12.0](https://gitlab.com/oeyoews/tw5/compare/v2.11.0...v2.12.0) (2022-08-25)
+
+
+### Features
+
+* add data-tiddler stylesheet ([c274095](https://gitlab.com/oeyoews/tw5/commit/c274095c91102411bab0e813714cd66ff5353fca))
+
 # [2.11.0](https://gitlab.com/oeyoews/tw5/compare/v2.10.1...v2.11.0) (2022-08-24)
 
 
