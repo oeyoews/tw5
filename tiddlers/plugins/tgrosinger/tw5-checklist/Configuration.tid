@@ -1,11 +1,11 @@
 created: 20220107172425992
 creator: @oeyoews
-modified: 20220310164023546
-modifier: @oeyoews
+modified: 20220825081133098
+modifier: oeyoews
 move-checked: true
-show-clearall: false
+show-clearall: true
 sort-alphabetically: true
-strike-checked: false
+strike-checked: true
 title: $:/plugins/tgrosinger/tw5-checklist/Configuration
 type: text/vnd.tiddlywiki
 

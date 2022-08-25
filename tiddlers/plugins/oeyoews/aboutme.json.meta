@@ -2,11 +2,11 @@ author: oeyoews
 created: 20220728150221011
 description: shout your custom info
 list: readme
-modified: 20220825075212631
+modified: 20220825080814258
 name: About You
-packaged-by: Gatha on 25th August 2022, 15:52:15
+packaged-by: Gatha on 25th August 2022, 16:08:25
 plugin-type: plugin
 tags: 
 title: $:/plugins/oeyoews/aboutme
 type: application/json
-version: v0.1.2
+version: v0.1.4

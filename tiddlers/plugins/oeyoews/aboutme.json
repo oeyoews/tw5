@@ -11,14 +11,15 @@
 
 "$:/plugins/oeyoews/aboutme/core": {
     "created": "20220728151603887",
-    "text": "\\whitespace trim\n<$button tooltip=\"🧑 show your info\" aria-label=\"show info\" class=<<tv-config-toolbar-class>>>\n{{$:/UserPanel}}\n<$list filter=\"[<tv-config-toolbar-text>match[yes]]\">\n<span class=\"tc-btn-text\">\n<$text text=\"show your info\"/>\n</span>\n</$list>\n\n<$action-navigate $to={{{[[$:/status/UserName]get[text]else[Anonymous]]}}}/>\n\n</$button>",
+    "text": "\\whitespace trim\n<$button tooltip=\"show your info\" aria-label=\"show info\" class=<<tv-config-toolbar-class>>>\n\n<!--\nTODO: use default or general icon base wikitext\n{{{[[$:/status/UserName]get[text]match[oeyoews]{{$:/UserPanel}}else[Anonymous]]}}}}}\n-->\n{{$:/UserPanel}}\n<$list filter=\"[<tv-config-toolbar-text>match[yes]]\">\n<span class=\"tc-btn-text\">\n<$text text=\"show your info\"/>\n</span>\n</$list>\n\n<$action-navigate $to={{{[[$:/status/UserName]get[text]else[Anonymous]]}}}/>\n\n</$button>",
     "title": "$:/plugins/oeyoews/aboutme/core",
     "description": "show your information",
-    "modified": "20220825074729567",
+    "modified": "20220825080806410",
     "tags": "$:/tags/PageControls",
     "type": "text/vnd.tiddlywiki",
     "revision": "0",
-    "bag": "default"
+    "bag": "default",
+    "list-after": "$:/plugins/oeyoews/gh-repo-btn/core"
 },
 
 "$:/plugins/oeyoews/aboutme/icon": {
@@ -33,13 +34,13 @@
 },
 
 "$:/plugins/oeyoews/aboutme/readme": {
+    "created": "20220728150322747",
+    "text": "\\define plugin() $:/plugins/oeyoews/aboutme\n\\define install()\n<$list\n  filter=\"[<transclusion>prefix[{$(plugin)$/readme|$(plugin)$/readme|||}]]\"\n  emptyMessage=\"$(plugin)$\"\n>\n{{ $(plugin)$||$:/core/ui/Components/plugin-info }}\n</$list>\n\\end\n\n!! show your info\n\n* edit <$button>{{{[[$:/status/UserName]get[text]else[Anonymous]]}}}\n<$action-sendmessage $message=\"tm-edit-tiddler\" $param={{{[[$:/status/UserName]get[text]else[Anonymous]]}}}/>\n</$button> to your info\n\n!! Install\n* drag this below to your tiddlywiki5\n* <<install>>",
     "title": "$:/plugins/oeyoews/aboutme/readme",
     "caption": "Info",
-    "created": "20220728150322747",
-    "modified": "20220728163343216",
+    "modified": "20220825080752706",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
-    "text": "\\define plugin() $:/plugins/oeyoews/aboutme\n\\define install()\n<$list\n  filter=\"[<transclusion>prefix[{$(plugin)$/readme|$(plugin)$/readme|||}]]\"\n  emptyMessage=\"$(plugin)$\"\n>\n{{ $(plugin)$||$:/core/ui/Components/plugin-info }}\n</$list>\n\\end\n\n!! show your info\n\n* edit <$button> aboutme\n<$action-sendmessage $message=\"tm-edit-tiddler\" $param=\"$:/plugins/oeyoews/aboutme/aboutme\"/>\n</$button> to your info\n\n!! Install\n* drag this below to your tiddlywiki5\n* <<install>>",
     "revision": "0",
     "bag": "default"
 },
@@ -67,14 +68,14 @@
 },
 
 "oeyoews": {
+    "title": "oeyoews",
     "created": "20220728150554607",
     "creator": "oeyoews",
-    "text": "<img src=\"https://cdn.jsdelivr.net/gh/oeyoews/oeyoews@main/profile-3d-contrib/profile-night-rainbow.svg\" />\n\n<!-- badges -->\n<div align=\"center\">\n<img src=\"https://img.shields.io/badge/C-BB9AF7?logo=c&logoColor=white&style=flat-square\" alt=\"c\" />\n<img src=\"https://img.shields.io/badge/Java-white?logo=openjdk&logoColor=black&style=flat-square\" alt=\"java\" />\n<img src=\"https://img.shields.io/badge/LUA-2c2cc7?style=flat-square&logo=lua&logoColor=white\" alt=\"Lua\" />\n<img src=\"https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=flat-square\" alt=\"Neovim\" />\n<img src=\"https://img.shields.io/badge/SHELL-121011?style=flat-square&logo=gnu-bash&logoColor=white\" alt=\"BASH\" />\n<img src=\"https://img.shields.io/badge/Linux-green?style=flat-square&logo=manjaro&logoColor=white\" alt=\"Linux\" />\n<img src=\"https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white\" alt=\"Git\" />\n<img src=\"https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🪐 Nice+To+Meet+U\">\n</div>\n\n---\n\n<!-- summary -->\n<h2>📈 Trending</h2>\n\n<div align=\"center\">\n<img src=\"https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oeyoews&theme=tokyonight \" alt=\"\"/>\n</div>\n\n---\n<!-- repo -->\n<h2>🧪 Repositories</h2>\n<div align=\"center\">\n<a href=\"https://github.com/oeyoews/nvim\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n<a href=\"https://github.com/oeyoews/tw5\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=tw5&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n<a href=\"https://github.com/oeyoews/twm\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=twm&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n<a href=\"https://github.com/oeyoews/dotfiles\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=dotfiles&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n</div>\n\n---\n\n<!-- medals -->\n<h2>🏆 Github Profile Trophy</h2>\n<div align=\"center\"> <img src=\"https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=1&column=8&no-frame=true&no-bg=true\"/> </div>\n\n<!-- <h2>☕ Recent Activities</h2> -->\n<!-- <div align=\"center\"> <img src=\"https://activity-graph.herokuapp.com/graph?username=oeyoews&hide_border=true&theme=react-dark&area=true&hide_title=true\"/> </div> -->\n",
-    "title": "oeyoews",
     "modified": "20220825075104654",
     "modifier": "oeyoews",
     "tags": "",
     "type": "text/vnd.tiddlywiki",
+    "text": "<img src=\"https://cdn.jsdelivr.net/gh/oeyoews/oeyoews@main/profile-3d-contrib/profile-night-rainbow.svg\" />\n\n<!-- badges -->\n<div align=\"center\">\n<img src=\"https://img.shields.io/badge/C-BB9AF7?logo=c&logoColor=white&style=flat-square\" alt=\"c\" />\n<img src=\"https://img.shields.io/badge/Java-white?logo=openjdk&logoColor=black&style=flat-square\" alt=\"java\" />\n<img src=\"https://img.shields.io/badge/LUA-2c2cc7?style=flat-square&logo=lua&logoColor=white\" alt=\"Lua\" />\n<img src=\"https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=flat-square\" alt=\"Neovim\" />\n<img src=\"https://img.shields.io/badge/SHELL-121011?style=flat-square&logo=gnu-bash&logoColor=white\" alt=\"BASH\" />\n<img src=\"https://img.shields.io/badge/Linux-green?style=flat-square&logo=manjaro&logoColor=white\" alt=\"Linux\" />\n<img src=\"https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white\" alt=\"Git\" />\n<img src=\"https://komarev.com/ghpvc/?username=oeyoews&color=blueviolet&style=flat-square&label=🪐 Nice+To+Meet+U\">\n</div>\n\n---\n\n<!-- summary -->\n<h2>📈 Trending</h2>\n\n<div align=\"center\">\n<img src=\"https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oeyoews&theme=tokyonight \" alt=\"\"/>\n</div>\n\n---\n<!-- repo -->\n<h2>🧪 Repositories</h2>\n<div align=\"center\">\n<a href=\"https://github.com/oeyoews/nvim\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=nvim&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n<a href=\"https://github.com/oeyoews/tw5\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=tw5&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n<a href=\"https://github.com/oeyoews/twm\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=twm&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n<a href=\"https://github.com/oeyoews/dotfiles\"> <img src=\"https://github-readme-stats.vercel.app/api/pin/?username=oeyoews&repo=dotfiles&theme=tokyonight&hide_border=true\" alt=\"\"></a>\n</div>\n\n---\n\n<!-- medals -->\n<h2>🏆 Github Profile Trophy</h2>\n<div align=\"center\"> <img src=\"https://github-profile-trophy.vercel.app/?username=oeyoews&theme=algolia&row=1&column=8&no-frame=true&no-bg=true\"/> </div>\n\n<!-- <h2>☕ Recent Activities</h2> -->\n<!-- <div align=\"center\"> <img src=\"https://activity-graph.herokuapp.com/graph?username=oeyoews&hide_border=true&theme=react-dark&area=true&hide_title=true\"/> </div> -->\n",
     "revision": "0",
     "bag": "default"
 },
