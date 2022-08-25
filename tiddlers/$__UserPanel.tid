@@ -1,0 +1,10 @@
+created: 20220822091838591
+creator: oeyoews
+modified: 20220825074444344
+modifier: oeyoews
+title: $:/UserPanel
+type: text/vnd.tiddlywiki
+
+<div class="btc-user-panel-avatar">
+{{$:/plugins/oeyoews/aboutme/avatar}}
+</div>

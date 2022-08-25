@@ -1,6 +1,6 @@
 created: 20220825021130315
 creator: oeyoews
-modified: 20220825023139039
+modified: 20220825075054634
 modifier: oeyoews
 tags: $:/tags/Stylesheet
 title: date stylesheet
@@ -11,10 +11,6 @@ display:none;
 }
 
 [data-tiddler-title="Index"] .tc-subtitle  {
-display:none;
-}
-
-[data-tiddler-title="$:/plugins/oeyoews/aboutme/aboutme"] .tc-title {
 display:none;
 }
 
