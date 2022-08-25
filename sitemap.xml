@@ -2319,6 +2319,11 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://oeyoew.fun/#:cpu-image.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://oeyoew.fun/#:cpuIntrod</loc>
 		<lastmod>2022-02-19</lastmod>
 		<changefreq>monthly</changefreq>
@@ -2573,6 +2578,12 @@
 	<url>
 		<loc>https://oeyoew.fun/#:cynic</loc>
 		<lastmod>2022-03-22</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://oeyoew.fun/#:date%2520stylesheet</loc>
+		<lastmod>2022-08-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -6044,7 +6055,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:Index</loc>
-		<lastmod>2022-08-24</lastmod>
+		<lastmod>2022-08-25</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -7434,12 +7445,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://oeyoew.fun/#:Navigate%2520Button</loc>
-		<lastmod>2022-05-12</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://oeyoew.fun/#:navIndexfloat</loc>
 		<lastmod>2022-05-16</lastmod>
 		<changefreq>monthly</changefreq>
@@ -7771,12 +7776,6 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:oeyoew.jpeg</loc>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://oeyoew.fun/#:oeyoews</loc>
-		<lastmod>2022-03-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -11078,6 +11077,17 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://oeyoew.fun/#:tidgi-image.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://oeyoew.fun/#:tidgi2appimage</loc>
+		<lastmod>2022-08-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://oeyoew.fun/#:tidgraph</loc>
 		<lastmod>2022-05-16</lastmod>
 		<changefreq>monthly</changefreq>
@@ -13077,12 +13087,6 @@
 	<url>
 		<loc>https://oeyoew.fun/#:wayland%2520x11</loc>
 		<lastmod>2022-08-04</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://oeyoew.fun/#:wd.txt</loc>
-		<lastmod>2022-06-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
