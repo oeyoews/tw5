@@ -1,0 +1,76 @@
+created: 20220825104308352
+creator: oeyoews
+modified: 20220825104918789
+modifier: oeyoews
+tags: 
+title: tidgi2appimage
+type: text/vnd.tiddlywiki
+
+!! deb2appimage
+
+* download deb2appimage firstly, [[https://appimage.github.io/deb2appimage/]], 
+
+<$macrocall $name="copy-code"
+title="cmd"
+language="bash"
+display-language="show"
+code="""
+chmod +x ./deb2appimage.appimage
+
+./deb2appimage.appimage -j ./tidgi.json
+"""/>
+
+<$macrocall $name="copy-code"
+title="tidgi.json"
+language="json"
+display-language="show"
+code="""
+{
+  "buildinfo": [
+    {
+      "prerun": [
+        "curl -sL https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.7.7/tidgi_0.7.7_amd64.deb -o ~/.cache/deb2appimage/debs/tidgi.deb"
+      ],
+      "name": "tidgi",
+      "version": "linux",
+      "deps": "",
+      "repoarch": "amd64",
+      "distrorepo": "Debian",
+      "repoversion": "jessie-backports,jessie,jessie",
+      "binarypath": "/usr/bin/tidgi",
+      "desktoppath": null,
+      "iconpath": null,
+      "usewrapper": "true",
+      "postrun": [
+        null
+      ]
+    }
+  ],
+  "apprunconf": [
+    {
+      "setpath": "true",
+      "setlibpath": "true",
+      "setpythonpath": "false",
+      "setpythonhome": "false",
+      "setpythondontwritebytecode": "false",
+      "setxdgdatadirs": "false",
+      "setperllib": "false",
+      "setgsettingsschemadir": "false",
+      "setqtpluginpath": "false",
+      "exec": "/usr/bin/tidgi"
+    }
+  ],
+  "authors": [
+    {
+      "type": "Author",
+      "author": "parsecgaming",
+      "url": "https://parsecgaming.com"
+    },
+    {
+      "type": "AppImage Maintainer",
+      "author": "E5ten",
+      "url": "https://github.com/E5ten"
+    }
+  ]
+}
+"""/>
