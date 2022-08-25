@@ -1,18 +1,18 @@
 created: 20220825104308352
 creator: oeyoews
-modified: 20220825120056150
+modified: 20220825120543194
 modifier: oeyoews
 tags: 
 title: tidgi2appimage
 type: text/vnd.tiddlywiki
 
-! <<sticky-done "Appimage" "  ">>
+!! <<sticky-done "Appimage" "  ">>
 
-!! Download deb2appimage
+!! # Download deb2appimage
 
-* download ''__deb2appimage __''firstly, [[https://appimage.github.io/deb2appimage/]]
+* download ''deb2appimage '' firstly [[link|https://appimage.github.io/deb2appimage/]]
 
-!! Code
+!! # Code
 
 <$macrocall $name="copy-code"
 title="cmd"
@@ -24,6 +24,8 @@ chmod +x ./deb2appimage.appimage
 ./deb2appimage.appimage -j ./tidgi.json
 """/>
 
+<details>
+<summary>☘️ tidgi.json</summary>
 <$macrocall $name="copy-code"
 title="tidgi.json"
 language="json"
@@ -79,14 +81,22 @@ code="""
 }
 """/>
 
-!! Showcases
+</details>
 
+!! # Showcases
+
+<details>
+<summary>preview</summary>
 [img[tidgi-image.png]]
+</details>
 
-!! TIP
+!! # TIP
 
+<details>
+<summary>preview</summary>
 [img[cpu-image.png]]
+</details>
 
-! <<sticky-done "AUR(pacman)">>
+!! <<sticky-done "AUR(pacman)">>
 
 should be easy base deb2appimage

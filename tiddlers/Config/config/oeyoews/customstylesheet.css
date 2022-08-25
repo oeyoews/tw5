@@ -2,6 +2,11 @@ body {
 overflow-x: hidden;
 }
 
+
+.copy-code dt {
+	border: 2pt;
+}
+
 pre {
 	border: 2px solid #657b83;
 	padding: 4px;
