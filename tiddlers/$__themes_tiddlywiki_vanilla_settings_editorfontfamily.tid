@@ -1,8 +1,8 @@
 created: 20211226090147293
 creator: oeyoews
-modified: 20220826082604712
+modified: 20220826090640740
 modifier: oeyoews
 title: $:/themes/tiddlywiki/vanilla/settings/editorfontfamily
 type: text/vnd.tiddlywiki
 
-"Maple Mono", "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace
+"SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace

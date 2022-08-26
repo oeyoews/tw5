@@ -2,6 +2,15 @@ body {
 overflow-x: hidden;
 }
 
+/** left area **/
+.tc-edit-texteditor {
+    width: 100%;
+    padding: 3px 3px 3px 3px;
+    border: 0px solid;
+    line-height: 1.3em;
+    -webkit-appearance: none;
+    border-radius: 3px;
+}
 
 .copy-code dt {
 	border: 2pt;
@@ -102,7 +111,7 @@ select {
 }
 
 .tc-drop-down .tc-tab-buttons button.tc-tab-selected {
-	background-color: #32b4c3;
+	background-color: transparent;
 	box-shadow: 1px 5px 5px #0000004d;
 }
 
@@ -162,16 +171,17 @@ select {
 .tc-tiddler-preview-preview {
 	float: right;
 	width: 49%;
-	border: 1px solid #002b36;
+	border: 3px solid ; /** 002b36 **/
 	margin: 4px 0 3px 3px;
 	padding: 3px 3px 3px 3px;
+	border-radius: 3px;
 }
 
 /* remove border */
 .tc-tiddler-frame input.tc-edit-texteditor,  textarea.tc-edit-texteditor, iframe.tc-edit-texteditor {
 	transition: border .14s ease-in-out;
-	border: 2px solid #002b36;
-	background: #002b36;
+	border: 2px solid transparent;
+	background: transparent;
 	padding: 4px;
 	border-radius: 4px;
 }
