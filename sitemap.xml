@@ -4645,7 +4645,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:flat-square-badges</loc>
-		<lastmod>2022-06-25</lastmod>
+		<lastmod>2022-08-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -4898,12 +4898,6 @@
 		<lastmod>2022-03-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://oeyoew.fun/#:GettingThingsDone</loc>
-		<lastmod>2022-08-22</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:giggling</loc>
@@ -6055,7 +6049,7 @@
 	</url>
 	<url>
 		<loc>https://oeyoew.fun/#:Index</loc>
-		<lastmod>2022-08-25</lastmod>
+		<lastmod>2022-08-26</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -8958,12 +8952,6 @@
 	<url>
 		<loc>https://oeyoew.fun/#:punishment</loc>
 		<lastmod>2022-05-31</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://oeyoew.fun/#:pure%252066</loc>
-		<lastmod>2022-03-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -12276,12 +12264,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://oeyoew.fun/#:untitled%2520167</loc>
-		<lastmod>2022-08-22</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://oeyoew.fun/#:untitled%2520169</loc>
 		<lastmod>2022-08-14</lastmod>
 		<changefreq>monthly</changefreq>
@@ -13093,6 +13075,12 @@
 	<url>
 		<loc>https://oeyoew.fun/#:weapon</loc>
 		<lastmod>2022-03-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://oeyoew.fun/#:web%2520status</loc>
+		<lastmod>2022-08-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
